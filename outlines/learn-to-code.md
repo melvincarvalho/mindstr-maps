@@ -1,0 +1,28 @@
+aliases: learn programming, how to code, coding for beginners, start coding
+- Learn to code
+  - Pick a goal and one language
+    - Websites: HTML, CSS, then JavaScript
+    - [Data and automation: Python is friendly](https://en.wikipedia.org/wiki/Python_%28programming_language%29)
+    - Phone apps: Swift or Kotlin
+  - Set up simple tools
+    - A code editor like VS Code
+    - Basic command line skills
+    - [Save your work with Git](https://en.wikipedia.org/wiki/Git)
+  - Learn the core ideas
+    - Variables and data types
+    - Conditions and loops
+    - Functions split big problems up
+    - Lists and dictionaries
+  - Practise by building things
+    - A little practice every day
+    - Copy a small app you use
+    - Read error messages slowly
+    - [Debugging is half the job](https://en.wikipedia.org/wiki/Debugging)
+  - Get help and feedback
+    - Search the docs before asking
+    - Ask questions with example code
+    - Read other people's code
+  - Grow towards real work
+    - Show projects on GitHub
+    - [Learn data structures and algorithms](https://en.wikipedia.org/wiki/Data_structure)
+    - Contribute to open source

@@ -1,0 +1,27 @@
+aliases: how does the internet work, internet, how the internet works explained
+- How the internet works
+  - A network of networks
+    - Billions of devices linked worldwide
+    - ISPs connect homes and businesses
+    - Undersea cables carry most international traffic
+  - Data travels in packets
+    - [Messages split into small packets](https://en.wikipedia.org/wiki/Network_packet)
+    - Routers forward packets hop by hop
+    - Packets reassembled at the destination
+  - Addresses and names
+    - [IP addresses identify every device](https://en.wikipedia.org/wiki/IP_address)
+    - [DNS turns names into addresses](https://en.wikipedia.org/wiki/Domain_Name_System)
+    - IPv6 adds vastly more addresses
+  - Shared rules called protocols
+    - [TCP/IP is the core suite](https://en.wikipedia.org/wiki/Internet_protocol_suite)
+    - TCP resends lost packets in order
+    - UDP trades reliability for speed
+  - The web on top
+    - [HTTP requests pages from servers](https://en.wikipedia.org/wiki/HTTP)
+    - Browsers render HTML into pages
+    - HTTPS encrypts traffic with TLS
+    - Data centres host websites and services
+  - Origins
+    - ARPANET first linked computers in 1969
+    - TCP/IP adopted on 1 January 1983
+    - Tim Berners-Lee invented the web, 1989

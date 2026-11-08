@@ -1,0 +1,12 @@
+{
+  "name": "mindstr-maps",
+  "version": "0.0.1",
+  "description": "Ready-made mind maps for common topics, served on GitHub Pages for mindstr.org",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "node build.js",
+    "check": "node build.js --check"
+  },
+  "license": "CC0-1.0"
+}

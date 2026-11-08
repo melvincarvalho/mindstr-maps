@@ -1,0 +1,30 @@
+aliases: bitcoin, what is bitcoin, bitcoin explained, btc
+- How Bitcoin works
+  - What it is
+    - [Digital money with no central bank](https://en.wikipedia.org/wiki/Bitcoin)
+    - [Launched 2009 by Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi_Nakamoto)
+    - Fixed supply: 21 million coins
+  - Keys and wallets
+    - [Private key proves ownership](https://en.wikipedia.org/wiki/Public-key_cryptography)
+    - Share an address to get paid
+    - Wallets hold keys, not coins
+    - Lose the keys, lose the coins
+  - Sending a payment
+    - Owner signs a transaction
+    - Broadcast to a peer-to-peer network
+    - Higher fees get confirmed sooner
+  - The blockchain
+    - [Public ledger of every transaction](https://en.wikipedia.org/wiki/Blockchain)
+    - New block about every ten minutes
+    - Each block links to the previous
+    - Wait for several confirmations
+  - Mining and security
+    - [Proof of work secures blocks](https://en.wikipedia.org/wiki/Proof_of_work)
+    - Miners earn new coins plus fees
+    - Reward halves every 210,000 blocks
+    - Rewriting history needs most hashpower
+  - Using it wisely
+    - Price is highly volatile
+    - Scams target newcomers
+    - Back up your seed phrase
+    - Lightning Network for small payments

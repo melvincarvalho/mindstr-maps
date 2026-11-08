@@ -1,0 +1,27 @@
+aliases: roman empire, the romans, rome history, roman republic
+- Ancient Rome
+  - Three eras
+    - Kingdom, traditionally from 753 BC
+    - [Republic from 509 BC](https://en.wikipedia.org/wiki/Roman_Republic)
+    - [Empire from Augustus, 27 BC](https://en.wikipedia.org/wiki/Roman_Empire)
+  - Government
+    - Senate of leading families
+    - Two consuls elected each year
+    - Emperors held supreme power
+  - Key figures
+    - [Julius Caesar, assassinated 44 BC](https://en.wikipedia.org/wiki/Julius_Caesar)
+    - Augustus, the first emperor
+    - Constantine, first Christian emperor
+  - Army and expansion
+    - Legions of trained citizen soldiers
+    - Punic Wars defeated Carthage
+    - Empire peaked under Trajan, AD 117
+  - Daily life and culture
+    - Latin, root of Romance languages
+    - Gladiators fought in the Colosseum
+    - Roads, aqueducts and concrete
+    - Roman law shaped modern legal systems
+  - Decline and legacy
+    - Empire split into East and West
+    - [Western empire fell in AD 476](https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire)
+    - Byzantine East lasted until 1453

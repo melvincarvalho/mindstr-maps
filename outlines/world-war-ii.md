@@ -1,0 +1,30 @@
+aliases: ww2, wwii, second world war, world war 2
+- World War II
+  - Causes
+    - Treaty of Versailles left lasting grievances
+    - Great Depression fuelled extremism
+    - Nazi Germany, Fascist Italy, imperial Japan expanded
+    - Appeasement failed to stop aggression
+  - The two sides
+    - [Allies: Britain, USSR, USA, China](https://en.wikipedia.org/wiki/Allies_of_World_War_II)
+    - [Axis: Germany, Italy, Japan](https://en.wikipedia.org/wiki/Axis_powers)
+  - War in Europe
+    - Germany invades Poland, September 1939
+    - France falls and Battle of Britain, 1940
+    - Germany invades the Soviet Union, 1941
+    - [Stalingrad turns the Eastern Front](https://en.wikipedia.org/wiki/Battle_of_Stalingrad)
+    - D-Day landings in Normandy, June 1944
+  - War in Asia and the Pacific
+    - Japan at war with China from 1937
+    - Pearl Harbor attack, December 1941
+    - Midway shifts the Pacific balance, 1942
+    - Atomic bombs on Hiroshima and Nagasaki
+  - Human cost
+    - [Holocaust murdered six million Jews](https://en.wikipedia.org/wiki/The_Holocaust)
+    - Estimated 70 to 85 million deaths
+    - Cities bombed, millions displaced
+  - Outcome
+    - Germany surrenders, 8 May 1945
+    - Japan surrenders, 2 September 1945
+    - [United Nations founded in 1945](https://en.wikipedia.org/wiki/United_Nations)
+    - Cold War between USA and USSR

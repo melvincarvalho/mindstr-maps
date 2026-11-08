@@ -1,0 +1,28 @@
+aliases: global warming, climate crisis, climate change explained
+- Climate change
+  - The greenhouse effect
+    - [Gases trap heat from the Sun](https://en.wikipedia.org/wiki/Greenhouse_effect)
+    - Carbon dioxide is the main driver
+    - Methane is short-lived but potent
+  - Human causes
+    - Burning coal, oil and gas
+    - Deforestation releases stored carbon
+    - Farming and livestock emit methane
+    - Cement and industry add emissions
+  - The evidence
+    - Earth about 1.2°C warmer than pre-industrial
+    - [CO₂ up from 280 to 420+ ppm](https://en.wikipedia.org/wiki/Carbon_dioxide_in_Earth%27s_atmosphere)
+    - Ice cores show past climates
+  - Effects
+    - More frequent heatwaves and droughts
+    - [Sea levels rising as ice melts](https://en.wikipedia.org/wiki/Sea_level_rise)
+    - Oceans absorbing CO₂ become acidic
+    - Ecosystems and species under stress
+  - Responses
+    - [Paris Agreement aims well below 2°C](https://en.wikipedia.org/wiki/Paris_Agreement)
+    - Switching to renewable energy
+    - Electrifying transport and heating
+    - Adapting to unavoidable changes
+  - The science
+    - [IPCC assesses the research](https://en.wikipedia.org/wiki/Intergovernmental_Panel_on_Climate_Change)
+    - Climate models project future warming

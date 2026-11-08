@@ -1,0 +1,342 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "How Bitcoin works",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ymga8u",
+      "name": "What it is",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g9ip5k",
+      "name": "Digital money with no central bank",
+      "x": -485,
+      "y": -55,
+      "link": "https://en.wikipedia.org/wiki/Bitcoin",
+      "parent": "#ymga8u"
+    },
+    {
+      "@id": "#k3m294",
+      "name": "Launched 2009 by Satoshi Nakamoto",
+      "x": -409,
+      "y": -150,
+      "link": "https://en.wikipedia.org/wiki/Satoshi_Nakamoto",
+      "parent": "#ymga8u"
+    },
+    {
+      "@id": "#uxx4fr",
+      "name": "Fixed supply: 21 million coins",
+      "x": -340,
+      "y": -236,
+      "parent": "#ymga8u"
+    },
+    {
+      "@id": "#7pawej",
+      "name": "Keys and wallets",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6t7wci",
+      "name": "Private key proves ownership",
+      "x": -243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Public-key_cryptography",
+      "parent": "#7pawej"
+    },
+    {
+      "@id": "#2hh4b7",
+      "name": "Share an address to get paid",
+      "x": -133,
+      "y": -360,
+      "parent": "#7pawej"
+    },
+    {
+      "@id": "#j4jk9f",
+      "name": "Wallets hold keys, not coins",
+      "x": 0,
+      "y": -408,
+      "parent": "#7pawej"
+    },
+    {
+      "@id": "#xjn23c",
+      "name": "Lose the keys, lose the coins",
+      "x": 175,
+      "y": -465,
+      "parent": "#7pawej"
+    },
+    {
+      "@id": "#m5fs48",
+      "name": "Sending a payment",
+      "x": 174,
+      "y": -120,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cs97u5",
+      "name": "Owner signs a transaction",
+      "x": 243,
+      "y": -303,
+      "parent": "#m5fs48"
+    },
+    {
+      "@id": "#5zai7u",
+      "name": "Broadcast to a peer-to-peer network",
+      "x": 340,
+      "y": -236,
+      "parent": "#m5fs48"
+    },
+    {
+      "@id": "#p3z93d",
+      "name": "Higher fees get confirmed sooner",
+      "x": 463,
+      "y": -171,
+      "parent": "#m5fs48"
+    },
+    {
+      "@id": "#975rzi",
+      "name": "The blockchain",
+      "x": 221,
+      "y": 52,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dfyry3",
+      "name": "Public ledger of every transaction",
+      "x": 445,
+      "y": -51,
+      "link": "https://en.wikipedia.org/wiki/Blockchain",
+      "parent": "#975rzi"
+    },
+    {
+      "@id": "#9mrjgm",
+      "name": "New block about every ten minutes",
+      "x": 485,
+      "y": 55,
+      "parent": "#975rzi"
+    },
+    {
+      "@id": "#5f925y",
+      "name": "Each block links to the previous",
+      "x": 409,
+      "y": 150,
+      "parent": "#975rzi"
+    },
+    {
+      "@id": "#ke4imj",
+      "name": "Wait for several confirmations",
+      "x": 340,
+      "y": 236,
+      "parent": "#975rzi"
+    },
+    {
+      "@id": "#qumbf8",
+      "name": "Mining and security",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#57uk2q",
+      "name": "Proof of work secures blocks",
+      "x": 243,
+      "y": 303,
+      "link": "https://en.wikipedia.org/wiki/Proof_of_work",
+      "parent": "#qumbf8"
+    },
+    {
+      "@id": "#h8fq7v",
+      "name": "Miners earn new coins plus fees",
+      "x": 133,
+      "y": 360,
+      "parent": "#qumbf8"
+    },
+    {
+      "@id": "#x9ysbz",
+      "name": "Reward halves every 210,000 blocks",
+      "x": 0,
+      "y": 408,
+      "parent": "#qumbf8"
+    },
+    {
+      "@id": "#etfz2j",
+      "name": "Rewriting history needs most hashpower",
+      "x": -175,
+      "y": 465,
+      "parent": "#qumbf8"
+    },
+    {
+      "@id": "#bq3bu5",
+      "name": "Using it wisely",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#668wc5",
+      "name": "Price is highly volatile",
+      "x": -243,
+      "y": 303,
+      "parent": "#bq3bu5"
+    },
+    {
+      "@id": "#jni2ay",
+      "name": "Scams target newcomers",
+      "x": -340,
+      "y": 236,
+      "parent": "#bq3bu5"
+    },
+    {
+      "@id": "#zbgtnh",
+      "name": "Back up your seed phrase",
+      "x": -409,
+      "y": 150,
+      "parent": "#bq3bu5"
+    },
+    {
+      "@id": "#s8g9i5",
+      "name": "Lightning Network for small payments",
+      "x": -445,
+      "y": 51,
+      "parent": "#bq3bu5"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

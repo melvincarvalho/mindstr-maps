@@ -1,0 +1,171 @@
+{
+  "version": 1,
+  "maps": [
+    {
+      "topic": "Ancient Rome",
+      "slug": "ancient-rome",
+      "aliases": [
+        "roman-empire",
+        "the-romans",
+        "rome-history",
+        "roman-republic"
+      ],
+      "file": "maps/ancient-rome.json",
+      "nodes": 26
+    },
+    {
+      "topic": "Artificial intelligence",
+      "slug": "artificial-intelligence",
+      "aliases": [
+        "ai",
+        "what-is-ai",
+        "what-is-artificial-intelligence"
+      ],
+      "file": "maps/artificial-intelligence.json",
+      "nodes": 29
+    },
+    {
+      "topic": "Climate change",
+      "slug": "climate-change",
+      "aliases": [
+        "global-warming",
+        "climate-crisis",
+        "climate-change-explained"
+      ],
+      "file": "maps/climate-change.json",
+      "nodes": 27
+    },
+    {
+      "topic": "Healthy eating",
+      "slug": "healthy-eating",
+      "aliases": [
+        "healthy-diet",
+        "balanced-diet",
+        "how-to-eat-healthy",
+        "eat-healthy"
+      ],
+      "file": "maps/healthy-eating.json",
+      "nodes": 30
+    },
+    {
+      "topic": "How Bitcoin works",
+      "slug": "how-bitcoin-works",
+      "aliases": [
+        "bitcoin",
+        "what-is-bitcoin",
+        "bitcoin-explained",
+        "btc"
+      ],
+      "file": "maps/how-bitcoin-works.json",
+      "nodes": 29
+    },
+    {
+      "topic": "How the internet works",
+      "slug": "how-the-internet-works",
+      "aliases": [
+        "how-does-the-internet-work",
+        "internet",
+        "how-the-internet-works-explained"
+      ],
+      "file": "maps/how-the-internet-works.json",
+      "nodes": 26
+    },
+    {
+      "topic": "Learn to code",
+      "slug": "learn-to-code",
+      "aliases": [
+        "learn-programming",
+        "how-to-code",
+        "coding-for-beginners",
+        "start-coding"
+      ],
+      "file": "maps/learn-to-code.json",
+      "nodes": 27
+    },
+    {
+      "topic": "Start a small business",
+      "slug": "start-a-small-business",
+      "aliases": [
+        "how-to-start-a-business",
+        "starting-a-business",
+        "open-a-business",
+        "start-a-business"
+      ],
+      "file": "maps/start-a-small-business.json",
+      "nodes": 28
+    },
+    {
+      "topic": "The human body",
+      "slug": "the-human-body",
+      "aliases": [
+        "human-body",
+        "human-anatomy",
+        "body-systems",
+        "how-the-body-works"
+      ],
+      "file": "maps/the-human-body.json",
+      "nodes": 26
+    },
+    {
+      "topic": "World War II",
+      "slug": "world-war-ii",
+      "aliases": [
+        "ww2",
+        "wwii",
+        "second-world-war",
+        "world-war-2"
+      ],
+      "file": "maps/world-war-ii.json",
+      "nodes": 29
+    }
+  ],
+  "lookup": {
+    "ai": "maps/artificial-intelligence.json",
+    "ancient-rome": "maps/ancient-rome.json",
+    "artificial-intelligence": "maps/artificial-intelligence.json",
+    "balanced-diet": "maps/healthy-eating.json",
+    "bitcoin": "maps/how-bitcoin-works.json",
+    "bitcoin-explained": "maps/how-bitcoin-works.json",
+    "body-systems": "maps/the-human-body.json",
+    "btc": "maps/how-bitcoin-works.json",
+    "climate-change": "maps/climate-change.json",
+    "climate-change-explained": "maps/climate-change.json",
+    "climate-crisis": "maps/climate-change.json",
+    "coding-for-beginners": "maps/learn-to-code.json",
+    "eat-healthy": "maps/healthy-eating.json",
+    "global-warming": "maps/climate-change.json",
+    "healthy-diet": "maps/healthy-eating.json",
+    "healthy-eating": "maps/healthy-eating.json",
+    "how-bitcoin-works": "maps/how-bitcoin-works.json",
+    "how-does-the-internet-work": "maps/how-the-internet-works.json",
+    "how-the-body-works": "maps/the-human-body.json",
+    "how-the-internet-works": "maps/how-the-internet-works.json",
+    "how-the-internet-works-explained": "maps/how-the-internet-works.json",
+    "how-to-code": "maps/learn-to-code.json",
+    "how-to-eat-healthy": "maps/healthy-eating.json",
+    "how-to-start-a-business": "maps/start-a-small-business.json",
+    "human-anatomy": "maps/the-human-body.json",
+    "human-body": "maps/the-human-body.json",
+    "internet": "maps/how-the-internet-works.json",
+    "learn-programming": "maps/learn-to-code.json",
+    "learn-to-code": "maps/learn-to-code.json",
+    "open-a-business": "maps/start-a-small-business.json",
+    "roman-empire": "maps/ancient-rome.json",
+    "roman-republic": "maps/ancient-rome.json",
+    "rome-history": "maps/ancient-rome.json",
+    "second-world-war": "maps/world-war-ii.json",
+    "start-a-business": "maps/start-a-small-business.json",
+    "start-a-small-business": "maps/start-a-small-business.json",
+    "start-coding": "maps/learn-to-code.json",
+    "starting-a-business": "maps/start-a-small-business.json",
+    "the-human-body": "maps/the-human-body.json",
+    "the-romans": "maps/ancient-rome.json",
+    "what-is-ai": "maps/artificial-intelligence.json",
+    "what-is-artificial-intelligence": "maps/artificial-intelligence.json",
+    "what-is-bitcoin": "maps/how-bitcoin-works.json",
+    "world-war-2": "maps/world-war-ii.json",
+    "world-war-ii": "maps/world-war-ii.json",
+    "ww2": "maps/world-war-ii.json",
+    "wwii": "maps/world-war-ii.json"
+  }
+}

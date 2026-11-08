@@ -1,0 +1,308 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Ancient Rome",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#64vp43",
+      "name": "Three eras",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4epi4i",
+      "name": "Kingdom, traditionally from 753 BC",
+      "x": -464,
+      "y": -62,
+      "parent": "#64vp43"
+    },
+    {
+      "@id": "#xk3zgf",
+      "name": "Republic from 509 BC",
+      "x": -396,
+      "y": -171,
+      "link": "https://en.wikipedia.org/wiki/Roman_Republic",
+      "parent": "#64vp43"
+    },
+    {
+      "@id": "#d87izh",
+      "name": "Empire from Augustus, 27 BC",
+      "x": -305,
+      "y": -265,
+      "link": "https://en.wikipedia.org/wiki/Roman_Empire",
+      "parent": "#64vp43"
+    },
+    {
+      "@id": "#g58dtf",
+      "name": "Government",
+      "x": -19,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t77bdp",
+      "name": "Senate of leading families",
+      "x": -181,
+      "y": -330,
+      "parent": "#g58dtf"
+    },
+    {
+      "@id": "#2xbn9r",
+      "name": "Two consuls elected each year",
+      "x": -41,
+      "y": -391,
+      "parent": "#g58dtf"
+    },
+    {
+      "@id": "#44r53t",
+      "name": "Emperors held supreme power",
+      "x": 140,
+      "y": -445,
+      "parent": "#g58dtf"
+    },
+    {
+      "@id": "#95zdng",
+      "name": "Key figures",
+      "x": 182,
+      "y": -113,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aahcnj",
+      "name": "Julius Caesar, assassinated 44 BC",
+      "x": 246,
+      "y": -301,
+      "link": "https://en.wikipedia.org/wiki/Julius_Caesar",
+      "parent": "#95zdng"
+    },
+    {
+      "@id": "#rqds4y",
+      "name": "Augustus, the first emperor",
+      "x": 355,
+      "y": -221,
+      "parent": "#95zdng"
+    },
+    {
+      "@id": "#wx3z73",
+      "name": "Constantine, first Christian emperor",
+      "x": 464,
+      "y": -127,
+      "parent": "#95zdng"
+    },
+    {
+      "@id": "#f4359z",
+      "name": "Army and expansion",
+      "x": 218,
+      "y": 60,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jksebh",
+      "name": "Legions of trained citizen soldiers",
+      "x": 450,
+      "y": 0,
+      "parent": "#f4359z"
+    },
+    {
+      "@id": "#w47sfn",
+      "name": "Punic Wars defeated Carthage",
+      "x": 426,
+      "y": 117,
+      "parent": "#f4359z"
+    },
+    {
+      "@id": "#psm3nj",
+      "name": "Empire peaked under Trajan, AD 117",
+      "x": 355,
+      "y": 221,
+      "parent": "#f4359z"
+    },
+    {
+      "@id": "#twz8mz",
+      "name": "Daily life and culture",
+      "x": 19,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hi484q",
+      "name": "Latin, root of Romance languages",
+      "x": 246,
+      "y": 301,
+      "parent": "#twz8mz"
+    },
+    {
+      "@id": "#prktuh",
+      "name": "Gladiators fought in the Colosseum",
+      "x": 110,
+      "y": 349,
+      "parent": "#twz8mz"
+    },
+    {
+      "@id": "#kpje9z",
+      "name": "Roads, aqueducts and concrete",
+      "x": -43,
+      "y": 407,
+      "parent": "#twz8mz"
+    },
+    {
+      "@id": "#ts6fkm",
+      "name": "Roman law shaped modern legal systems",
+      "x": -253,
+      "y": 465,
+      "parent": "#twz8mz"
+    },
+    {
+      "@id": "#97czzr",
+      "name": "Decline and legacy",
+      "x": -202,
+      "y": 88,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pz3v4z",
+      "name": "Empire split into East and West",
+      "x": -305,
+      "y": 265,
+      "parent": "#97czzr"
+    },
+    {
+      "@id": "#8eye28",
+      "name": "Western empire fell in AD 476",
+      "x": -396,
+      "y": 171,
+      "link": "https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire",
+      "parent": "#97czzr"
+    },
+    {
+      "@id": "#g2tnm3",
+      "name": "Byzantine East lasted until 1453",
+      "x": -484,
+      "y": 65,
+      "parent": "#97czzr"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

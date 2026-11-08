@@ -1,0 +1,30 @@
+aliases: ai, what is ai, what is artificial intelligence
+- Artificial intelligence
+  - What it is
+    - Machines doing tasks needing intelligence
+    - Narrow AI: good at one task
+    - Human-level general AI: still debated
+  - Short history
+    - 1956: Dartmouth workshop founds the field
+    - AI winters after overpromising
+    - 2012: deep learning breakthrough
+    - 2022: ChatGPT brings AI mainstream
+  - How it learns
+    - [Machine learning finds patterns in data](https://en.wikipedia.org/wiki/Machine_learning)
+    - [Neural networks, loosely inspired by brains](https://en.wikipedia.org/wiki/Neural_network_%28machine_learning%29)
+    - Train once, then use the model
+    - More data and compute help
+  - Main kinds today
+    - [Large language models write text](https://en.wikipedia.org/wiki/Large_language_model)
+    - Image and video generation
+    - Speech recognition and translation
+  - Where it's used
+    - Chatbots and coding assistants
+    - Medical imaging and drug discovery
+    - Self-driving cars and robotics
+  - Limits and risks
+    - [Confident mistakes, called hallucinations](https://en.wikipedia.org/wiki/Hallucination_%28artificial_intelligence%29)
+    - Bias learned from data
+    - Privacy, copyright and deepfakes
+    - Jobs and economic change
+    - [Long-term safety and control](https://en.wikipedia.org/wiki/AI_safety)

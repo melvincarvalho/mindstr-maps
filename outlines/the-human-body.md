@@ -1,0 +1,27 @@
+aliases: human body, human anatomy, body systems, how the body works
+- The human body
+  - Building blocks
+    - [Cells are the basic unit](https://en.wikipedia.org/wiki/Cell_%28biology%29)
+    - Tissues form organs, organs form systems
+    - DNA carries the instructions
+  - Structure and movement
+    - [206 bones in the adult skeleton](https://en.wikipedia.org/wiki/Human_skeleton)
+    - Over 600 skeletal muscles
+    - Skin is the largest organ
+  - Fuel and oxygen
+    - Lungs swap oxygen for carbon dioxide
+    - [Heart pumps blood around the body](https://en.wikipedia.org/wiki/Circulatory_system)
+    - Digestion breaks food into nutrients
+    - Kidneys filter waste from blood
+  - Control and communication
+    - [Brain and nerves send electrical signals](https://en.wikipedia.org/wiki/Nervous_system)
+    - Hormones carry chemical messages
+    - Senses gather information from outside
+  - Defence and repair
+    - [Immune system fights infection](https://en.wikipedia.org/wiki/Immune_system)
+    - Lymph nodes filter germs
+    - Wounds heal by clotting and regrowth
+  - Life cycle
+    - Reproduction creates new life
+    - Growth continues into early adulthood
+    - Cells constantly replace themselves

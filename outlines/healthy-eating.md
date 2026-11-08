@@ -1,0 +1,31 @@
+aliases: healthy diet, balanced diet, how to eat healthy, eat healthy
+- Healthy eating
+  - [Build a balanced plate](https://en.wikipedia.org/wiki/Healthy_diet)
+    - Half the plate vegetables and fruit
+    - A quarter wholegrains or starchy foods
+    - A quarter protein: beans, fish, meat
+    - Small amounts of oils and nuts
+  - Eat more of these
+    - Vegetables and fruit, varied colours
+    - [Fibre from wholegrains, beans, lentils](https://en.wikipedia.org/wiki/Dietary_fiber)
+    - Fish twice a week, one oily
+    - Water as your main drink
+  - Cut back on these
+    - [Added sugar and sugary drinks](https://en.wikipedia.org/wiki/Added_sugar)
+    - Salt: under 5 g a day
+    - [Saturated fat: butter, fatty meat](https://en.wikipedia.org/wiki/Saturated_fat)
+    - Processed meat and ultra-processed snacks
+    - Alcohol, keep it low
+  - Everyday habits
+    - Regular meals, eaten slowly
+    - Watch portion sizes
+    - Cook more meals at home
+    - Read nutrition labels
+  - Plan and shop
+    - Plan the week's meals
+    - Frozen and tinned vegetables count
+    - Healthy snacks within easy reach
+  - When to get advice
+    - Medical conditions: see a doctor or dietitian
+    - Needs change with age and pregnancy
+    - [Be wary of fad diets](https://en.wikipedia.org/wiki/Fad_diet)

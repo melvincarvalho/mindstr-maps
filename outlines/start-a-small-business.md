@@ -1,0 +1,29 @@
+aliases: how to start a business, starting a business, open a business, start a business
+- Start a small business
+  - Test the idea
+    - Solve a problem people pay for
+    - Talk to potential customers
+    - Check competitors and their prices
+  - Plan the numbers
+    - Estimate startup and monthly costs
+    - Price above your full costs
+    - [Find your break-even point](https://en.wikipedia.org/wiki/Break-even_%28economics%29)
+    - Keep a cash buffer
+  - Make it official
+    - [Choose a legal structure](https://en.wikipedia.org/wiki/Types_of_business_entity)
+    - Register the name, get licences
+    - Open a separate business bank account
+    - Learn your tax and record duties
+  - Fund it carefully
+    - Start small with own savings
+    - Loans, grants or investors
+    - Keep early costs low
+  - Find customers
+    - Simple website and online listings
+    - Word of mouth and referrals
+    - Social media where customers are
+  - Run and grow
+    - [Track income and expenses](https://en.wikipedia.org/wiki/Bookkeeping)
+    - [Watch cash flow closely](https://en.wikipedia.org/wiki/Cash_flow)
+    - Ask for feedback and improve
+    - Hire only when work demands it

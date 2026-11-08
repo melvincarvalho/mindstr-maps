@@ -1,0 +1,309 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "How the internet works",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#4bv6ew",
+      "name": "A network of networks",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5n5ue8",
+      "name": "Billions of devices linked worldwide",
+      "x": -524,
+      "y": -71,
+      "parent": "#4bv6ew"
+    },
+    {
+      "@id": "#kbb8f9",
+      "name": "ISPs connect homes and businesses",
+      "x": -396,
+      "y": -171,
+      "parent": "#4bv6ew"
+    },
+    {
+      "@id": "#76kkc5",
+      "name": "Undersea cables carry most international traffic",
+      "x": -305,
+      "y": -265,
+      "parent": "#4bv6ew"
+    },
+    {
+      "@id": "#6vrv8m",
+      "name": "Data travels in packets",
+      "x": -19,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ag8zhw",
+      "name": "Messages split into small packets",
+      "x": -181,
+      "y": -330,
+      "link": "https://en.wikipedia.org/wiki/Network_packet",
+      "parent": "#6vrv8m"
+    },
+    {
+      "@id": "#xz6qq4",
+      "name": "Routers forward packets hop by hop",
+      "x": -41,
+      "y": -391,
+      "parent": "#6vrv8m"
+    },
+    {
+      "@id": "#ypxhu9",
+      "name": "Packets reassembled at the destination",
+      "x": 140,
+      "y": -445,
+      "parent": "#6vrv8m"
+    },
+    {
+      "@id": "#vw4gey",
+      "name": "Addresses and names",
+      "x": 182,
+      "y": -113,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cte7ib",
+      "name": "IP addresses identify every device",
+      "x": 246,
+      "y": -301,
+      "link": "https://en.wikipedia.org/wiki/IP_address",
+      "parent": "#vw4gey"
+    },
+    {
+      "@id": "#i9ng33",
+      "name": "DNS turns names into addresses",
+      "x": 355,
+      "y": -221,
+      "link": "https://en.wikipedia.org/wiki/Domain_Name_System",
+      "parent": "#vw4gey"
+    },
+    {
+      "@id": "#rrc7n4",
+      "name": "IPv6 adds vastly more addresses",
+      "x": 464,
+      "y": -127,
+      "parent": "#vw4gey"
+    },
+    {
+      "@id": "#xr8mn6",
+      "name": "Shared rules called protocols",
+      "x": 218,
+      "y": 60,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zbf2ky",
+      "name": "TCP/IP is the core suite",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Internet_protocol_suite",
+      "parent": "#xr8mn6"
+    },
+    {
+      "@id": "#xeyr65",
+      "name": "TCP resends lost packets in order",
+      "x": 426,
+      "y": 117,
+      "parent": "#xr8mn6"
+    },
+    {
+      "@id": "#3eb498",
+      "name": "UDP trades reliability for speed",
+      "x": 355,
+      "y": 221,
+      "parent": "#xr8mn6"
+    },
+    {
+      "@id": "#4gfrxf",
+      "name": "The web on top",
+      "x": 19,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bji5qy",
+      "name": "HTTP requests pages from servers",
+      "x": 246,
+      "y": 301,
+      "link": "https://en.wikipedia.org/wiki/HTTP",
+      "parent": "#4gfrxf"
+    },
+    {
+      "@id": "#s5p47a",
+      "name": "Browsers render HTML into pages",
+      "x": 110,
+      "y": 349,
+      "parent": "#4gfrxf"
+    },
+    {
+      "@id": "#3gcs2s",
+      "name": "HTTPS encrypts traffic with TLS",
+      "x": -43,
+      "y": 407,
+      "parent": "#4gfrxf"
+    },
+    {
+      "@id": "#w3g7ae",
+      "name": "Data centres host websites and services",
+      "x": -253,
+      "y": 465,
+      "parent": "#4gfrxf"
+    },
+    {
+      "@id": "#7ftju6",
+      "name": "Origins",
+      "x": -202,
+      "y": 88,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tqzsbf",
+      "name": "ARPANET first linked computers in 1969",
+      "x": -305,
+      "y": 265,
+      "parent": "#7ftju6"
+    },
+    {
+      "@id": "#eksrce",
+      "name": "TCP/IP adopted on 1 January 1983",
+      "x": -396,
+      "y": 171,
+      "parent": "#7ftju6"
+    },
+    {
+      "@id": "#wiruvy",
+      "name": "Tim Berners-Lee invented the web, 1989",
+      "x": -464,
+      "y": 62,
+      "parent": "#7ftju6"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

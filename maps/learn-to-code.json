@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Learn to code",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#c3tjmv",
+      "name": "Pick a goal and one language",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#q2ff2h",
+      "name": "Websites: HTML, CSS, then JavaScript",
+      "x": -544,
+      "y": -66,
+      "parent": "#c3tjmv"
+    },
+    {
+      "@id": "#3rgeie",
+      "name": "Data and automation: Python is friendly",
+      "x": -401,
+      "y": -163,
+      "link": "https://en.wikipedia.org/wiki/Python_%28programming_language%29",
+      "parent": "#c3tjmv"
+    },
+    {
+      "@id": "#gs88y3",
+      "name": "Phone apps: Swift or Kotlin",
+      "x": -318,
+      "y": -255,
+      "parent": "#c3tjmv"
+    },
+    {
+      "@id": "#jfdccd",
+      "name": "Set up simple tools",
+      "x": -36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wkypwu",
+      "name": "A code editor like VS Code",
+      "x": -204,
+      "y": -321,
+      "parent": "#jfdccd"
+    },
+    {
+      "@id": "#qy344y",
+      "name": "Basic command line skills",
+      "x": -73,
+      "y": -372,
+      "parent": "#jfdccd"
+    },
+    {
+      "@id": "#uccc7p",
+      "name": "Save your work with Git",
+      "x": 82,
+      "y": -420,
+      "link": "https://en.wikipedia.org/wiki/Git",
+      "parent": "#jfdccd"
+    },
+    {
+      "@id": "#78n4aw",
+      "name": "Learn the core ideas",
+      "x": 186,
+      "y": -108,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fr5g2h",
+      "name": "Variables and data types",
+      "x": 204,
+      "y": -321,
+      "parent": "#78n4aw"
+    },
+    {
+      "@id": "#2b3gfv",
+      "name": "Conditions and loops",
+      "x": 318,
+      "y": -255,
+      "parent": "#78n4aw"
+    },
+    {
+      "@id": "#8pzxw8",
+      "name": "Functions split big problems up",
+      "x": 401,
+      "y": -163,
+      "parent": "#78n4aw"
+    },
+    {
+      "@id": "#m6q9xp",
+      "name": "Lists and dictionaries",
+      "x": 444,
+      "y": -56,
+      "parent": "#78n4aw"
+    },
+    {
+      "@id": "#jknb6x",
+      "name": "Practise by building things",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a73ryk",
+      "name": "A little practice every day",
+      "x": 444,
+      "y": 56,
+      "parent": "#jknb6x"
+    },
+    {
+      "@id": "#hza5e9",
+      "name": "Copy a small app you use",
+      "x": 401,
+      "y": 163,
+      "parent": "#jknb6x"
+    },
+    {
+      "@id": "#5v228e",
+      "name": "Read error messages slowly",
+      "x": 318,
+      "y": 255,
+      "parent": "#jknb6x"
+    },
+    {
+      "@id": "#gtbtap",
+      "name": "Debugging is half the job",
+      "x": 204,
+      "y": 321,
+      "link": "https://en.wikipedia.org/wiki/Debugging",
+      "parent": "#jknb6x"
+    },
+    {
+      "@id": "#vsdq84",
+      "name": "Get help and feedback",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#86fxrf",
+      "name": "Search the docs before asking",
+      "x": 73,
+      "y": 372,
+      "parent": "#vsdq84"
+    },
+    {
+      "@id": "#6nhtxf",
+      "name": "Ask questions with example code",
+      "x": -82,
+      "y": 420,
+      "parent": "#vsdq84"
+    },
+    {
+      "@id": "#4fzeau",
+      "name": "Read other people's code",
+      "x": -204,
+      "y": 321,
+      "parent": "#vsdq84"
+    },
+    {
+      "@id": "#cnwfgp",
+      "name": "Grow towards real work",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#628yj4",
+      "name": "Show projects on GitHub",
+      "x": -318,
+      "y": 255,
+      "parent": "#cnwfgp"
+    },
+    {
+      "@id": "#qpa7i3",
+      "name": "Learn data structures and algorithms",
+      "x": -401,
+      "y": 163,
+      "link": "https://en.wikipedia.org/wiki/Data_structure",
+      "parent": "#cnwfgp"
+    },
+    {
+      "@id": "#idyszr",
+      "name": "Contribute to open source",
+      "x": -484,
+      "y": 60,
+      "parent": "#cnwfgp"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}
