@@ -7,7 +7,7 @@ aliases: mahayana buddhism, great vehicle buddhism, mahayana tradition
     - Largest Buddhist tradition today
   - Key ideas
     - [Bodhisattva path to free all beings](https://en.wikipedia.org/wiki/Bodhisattva)
-    - [Emptiness: nothing has fixed essence](https://en.wikipedia.org/wiki/%C5%9A%C5%AB%C3%B1yat%C4%81)
+    - Emptiness: nothing has fixed essence
     - Buddha-nature present in all beings
     - Compassion joined with wisdom
     - Many buddhas in many worlds

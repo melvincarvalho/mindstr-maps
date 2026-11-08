@@ -13,7 +13,7 @@ aliases: pigs, domestic pig, hog, swine, sus domesticus
   - Intelligence and behaviour
     - Among the smartest farm animals
     - Social, with grunts to communicate
-    - [Wallow in mud to keep cool](https://en.wikipedia.org/wiki/Wallowing_%28behavior%29)
+    - Wallow in mud to keep cool
     - Can't sweat much
   - Pigs and food
     - [Pork is a widely eaten meat](https://en.wikipedia.org/wiki/Pork)

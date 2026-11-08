@@ -4,7 +4,7 @@ aliases: philosophy of being, what is ontology, ontology philosophy, study of be
   - What ontology asks
     - What kinds of things exist?
     - Greek for "the study of being"
-    - [Quine's "On What There Is" (1948)](https://en.wikipedia.org/wiki/On_What_There_Is)
+    - Quine's "On What There Is" (1948)
   - Categories of being
     - [Aristotle listed ten categories](https://en.wikipedia.org/wiki/Categories_%28Aristotle%29)
     - Objects, properties, relations, events
