@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Builds maps/<slug>.json and index.json from outlines/<slug>.md. No dependencies.
+// Builds maps/<slug>.json, index.json and lookup.json from outlines/<slug>.md. No dependencies.
 // Usage: node build.js            build everything
 //        node build.js --check    build nothing, just report problems
 //
@@ -159,6 +159,8 @@ if (!check) {
   const lookup = Object.fromEntries([...seen].sort().map(([s, key]) => [s, `maps/${key}.json`]))
   const categories = CATEGORIES.map(name => ({ name, maps: index.filter(m => m.category === name).length })).filter(c => c.maps)
   writeFileSync('index.json', JSON.stringify({ version: 1, categories, maps: index, lookup }, null, 2) + '\n')
+  // what an app needs to find a map, and nothing else: fetched on every search, so kept small
+  writeFileSync('lookup.json', JSON.stringify({ version: 1, lookup }) + '\n')
 }
 console.log(`${index.length} maps, ${index.reduce((s, m) => s + m.nodes, 0)} nodes, ${problems.length} problems`)
 for (const p of problems) console.log('  ' + p)
