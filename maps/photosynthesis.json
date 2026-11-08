@@ -1,0 +1,296 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Photosynthesis",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#vmxt2k",
+      "name": "What it does",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yfqq6y",
+      "name": "Turns light energy into chemical energy",
+      "x": -483,
+      "y": -69,
+      "parent": "#vmxt2k"
+    },
+    {
+      "@id": "#d4xbsq",
+      "name": "CO₂ plus water makes glucose and oxygen",
+      "x": -390,
+      "y": -180,
+      "parent": "#vmxt2k"
+    },
+    {
+      "@id": "#g6a3k7",
+      "name": "Feeds almost every food chain",
+      "x": -289,
+      "y": -276,
+      "parent": "#vmxt2k"
+    },
+    {
+      "@id": "#7qx3jk",
+      "name": "Where it happens",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3xr4ge",
+      "name": "Chloroplasts in plant leaf cells",
+      "x": -154,
+      "y": -338,
+      "link": "https://en.wikipedia.org/wiki/Chloroplast",
+      "parent": "#7qx3jk"
+    },
+    {
+      "@id": "#sscgwa",
+      "name": "Chlorophyll absorbs red and blue light",
+      "x": 0,
+      "y": -392,
+      "parent": "#7qx3jk"
+    },
+    {
+      "@id": "#b833gn",
+      "name": "Stomata let CO₂ in and oxygen out",
+      "x": 203,
+      "y": -443,
+      "parent": "#7qx3jk"
+    },
+    {
+      "@id": "#y5qeyk",
+      "name": "Light-dependent reactions",
+      "x": 199,
+      "y": -92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ihhbqg",
+      "name": "Run in the thylakoid membranes",
+      "x": 289,
+      "y": -276,
+      "parent": "#y5qeyk"
+    },
+    {
+      "@id": "#pqimtv",
+      "name": "Water is split, releasing oxygen",
+      "x": 390,
+      "y": -180,
+      "parent": "#y5qeyk"
+    },
+    {
+      "@id": "#2twies",
+      "name": "Produce ATP and NADPH",
+      "x": 463,
+      "y": -66,
+      "parent": "#y5qeyk"
+    },
+    {
+      "@id": "#i8nc4f",
+      "name": "The Calvin cycle",
+      "x": 199,
+      "y": 92,
+      "link": "https://en.wikipedia.org/wiki/Calvin_cycle",
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bpwgu9",
+      "name": "Runs in the stroma",
+      "x": 443,
+      "y": 63,
+      "parent": "#i8nc4f"
+    },
+    {
+      "@id": "#etj8ba",
+      "name": "Enzyme RuBisCO fixes carbon dioxide",
+      "x": 390,
+      "y": 180,
+      "parent": "#i8nc4f"
+    },
+    {
+      "@id": "#3s7f57",
+      "name": "Builds sugars using ATP and NADPH",
+      "x": 289,
+      "y": 276,
+      "parent": "#i8nc4f"
+    },
+    {
+      "@id": "#re2uik",
+      "name": "Variations",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g5bdq5",
+      "name": "C4 plants like maize concentrate CO₂",
+      "x": 154,
+      "y": 338,
+      "parent": "#re2uik"
+    },
+    {
+      "@id": "#jrexem",
+      "name": "CAM plants like cacti open at night",
+      "x": 0,
+      "y": 392,
+      "parent": "#re2uik"
+    },
+    {
+      "@id": "#ju4n9z",
+      "name": "Cyanobacteria and algae photosynthesise too",
+      "x": -203,
+      "y": 443,
+      "parent": "#re2uik"
+    },
+    {
+      "@id": "#sgr5s7",
+      "name": "Why it matters",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#udsf2s",
+      "name": "Made Earth's oxygen-rich atmosphere",
+      "x": -289,
+      "y": 276,
+      "link": "https://en.wikipedia.org/wiki/Great_Oxidation_Event",
+      "parent": "#sgr5s7"
+    },
+    {
+      "@id": "#twfkjf",
+      "name": "Ancient photosynthesis formed fossil fuels",
+      "x": -390,
+      "y": 180,
+      "parent": "#sgr5s7"
+    },
+    {
+      "@id": "#b8e24p",
+      "name": "Draws carbon dioxide from the air",
+      "x": -463,
+      "y": 66,
+      "parent": "#sgr5s7"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    }
+  ],
+  "selectedNode": 0
+}

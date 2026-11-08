@@ -1,0 +1,26 @@
+aliases: language learning, learn a foreign language, how to learn a language
+- Learn a new language
+  - Set a clear reason and goal
+    - Travel, work, family or fun
+    - Pick a target level and date
+  - Learn the building blocks
+    - Pronunciation and sounds first
+    - Top 1,000 most common words
+    - Core grammar in small doses
+  - Make study a daily habit
+    - Fifteen minutes beats one long session
+    - [Flashcards with spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition)
+    - Learn phrases, not just words
+  - Get lots of input
+    - Podcasts and graded readers
+    - Shows with target-language subtitles
+    - [Aim for mostly understandable input](https://en.wikipedia.org/wiki/Input_hypothesis)
+  - Speak and write early
+    - Find a tutor or exchange partner
+    - Shadow native speakers aloud
+    - Keep a short daily journal
+    - Mistakes are part of learning
+  - Measure progress and level up
+    - [Check against CEFR levels](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages)
+    - Record yourself every month
+    - Spend time where it's spoken

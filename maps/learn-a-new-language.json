@@ -1,0 +1,296 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Learn a new language",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#iunueu",
+      "name": "Set a clear reason and goal",
+      "x": -216,
+      "y": -63,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#f4ahu6",
+      "name": "Travel, work, family or fun",
+      "x": -523,
+      "y": -75,
+      "parent": "#iunueu"
+    },
+    {
+      "@id": "#7kifve",
+      "name": "Pick a target level and date",
+      "x": -390,
+      "y": -180,
+      "parent": "#iunueu"
+    },
+    {
+      "@id": "#ekxmt5",
+      "name": "Learn the building blocks",
+      "x": -79,
+      "y": -173,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#akhhcy",
+      "name": "Pronunciation and sounds first",
+      "x": -289,
+      "y": -276,
+      "parent": "#ekxmt5"
+    },
+    {
+      "@id": "#2dfr9w",
+      "name": "Top 1,000 most common words",
+      "x": -154,
+      "y": -338,
+      "parent": "#ekxmt5"
+    },
+    {
+      "@id": "#tgwujc",
+      "name": "Core grammar in small doses",
+      "x": 0,
+      "y": -392,
+      "parent": "#ekxmt5"
+    },
+    {
+      "@id": "#ah2iri",
+      "name": "Make study a daily habit",
+      "x": 200,
+      "y": -189,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qafwkn",
+      "name": "Fifteen minutes beats one long session",
+      "x": 203,
+      "y": -443,
+      "parent": "#ah2iri"
+    },
+    {
+      "@id": "#hffxyy",
+      "name": "Flashcards with spaced repetition",
+      "x": 289,
+      "y": -276,
+      "link": "https://en.wikipedia.org/wiki/Spaced_repetition",
+      "parent": "#ah2iri"
+    },
+    {
+      "@id": "#4nbngn",
+      "name": "Learn phrases, not just words",
+      "x": 492,
+      "y": -228,
+      "parent": "#ah2iri"
+    },
+    {
+      "@id": "#rgsp9u",
+      "name": "Get lots of input",
+      "x": 227,
+      "y": 32,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yzct5r",
+      "name": "Podcasts and graded readers",
+      "x": 443,
+      "y": -63,
+      "parent": "#rgsp9u"
+    },
+    {
+      "@id": "#bqiyws",
+      "name": "Shows with target-language subtitles",
+      "x": 523,
+      "y": 75,
+      "parent": "#rgsp9u"
+    },
+    {
+      "@id": "#bijdr3",
+      "name": "Aim for mostly understandable input",
+      "x": 390,
+      "y": 180,
+      "link": "https://en.wikipedia.org/wiki/Input_hypothesis",
+      "parent": "#rgsp9u"
+    },
+    {
+      "@id": "#qkxu6j",
+      "name": "Speak and write early",
+      "x": 40,
+      "y": 181,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dsixym",
+      "name": "Find a tutor or exchange partner",
+      "x": 289,
+      "y": 276,
+      "parent": "#qkxu6j"
+    },
+    {
+      "@id": "#p8exjm",
+      "name": "Shadow native speakers aloud",
+      "x": 154,
+      "y": 338,
+      "parent": "#qkxu6j"
+    },
+    {
+      "@id": "#m5kfu3",
+      "name": "Keep a short daily journal",
+      "x": 0,
+      "y": 392,
+      "parent": "#qkxu6j"
+    },
+    {
+      "@id": "#q6z7jt",
+      "name": "Mistakes are part of learning",
+      "x": -154,
+      "y": 338,
+      "parent": "#qkxu6j"
+    },
+    {
+      "@id": "#6wd54d",
+      "name": "Measure progress and level up",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5xm7rj",
+      "name": "Check against CEFR levels",
+      "x": -289,
+      "y": 276,
+      "link": "https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages",
+      "parent": "#6wd54d"
+    },
+    {
+      "@id": "#q5wmtv",
+      "name": "Record yourself every month",
+      "x": -390,
+      "y": 180,
+      "parent": "#6wd54d"
+    },
+    {
+      "@id": "#a929th",
+      "name": "Spend time where it's spoken",
+      "x": -523,
+      "y": 75,
+      "parent": "#6wd54d"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,28 @@
+aliases: vaccines, vaccination, how do vaccines work
+- How vaccines work
+  - The immune system basics
+    - Germs carry antigens the body spots
+    - [Antibodies tag and neutralise invaders](https://en.wikipedia.org/wiki/Antibody)
+    - T cells kill infected cells
+  - What a vaccine does
+    - Shows the body a harmless preview
+    - Triggers a response without the disease
+    - [Memory cells allow faster defence](https://en.wikipedia.org/wiki/Immunological_memory)
+  - Main types of vaccine
+    - Weakened live germs
+    - Inactivated (killed) germs
+    - Protein subunits or toxoids
+    - [mRNA vaccines carry protein instructions](https://en.wikipedia.org/wiki/MRNA_vaccine)
+    - Viral vector vaccines
+  - Doses and boosters
+    - Some need several doses
+    - Boosters top up fading protection
+    - Flu vaccines updated each year
+  - Protecting the community
+    - Herd immunity shields the vulnerable
+    - Fewer cases slow the spread
+  - Safety and testing
+    - Phased clinical trials before approval
+    - Sore arm or mild fever common
+    - Serious side effects are rare
+    - Ongoing monitoring after rollout

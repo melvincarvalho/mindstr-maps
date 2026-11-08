@@ -1,0 +1,26 @@
+aliases: how photosynthesis works, photosynthesis explained, plant photosynthesis
+- Photosynthesis
+  - What it does
+    - Turns light energy into chemical energy
+    - CO₂ plus water makes glucose and oxygen
+    - Feeds almost every food chain
+  - Where it happens
+    - [Chloroplasts in plant leaf cells](https://en.wikipedia.org/wiki/Chloroplast)
+    - Chlorophyll absorbs red and blue light
+    - Stomata let CO₂ in and oxygen out
+  - Light-dependent reactions
+    - Run in the thylakoid membranes
+    - Water is split, releasing oxygen
+    - Produce ATP and NADPH
+  - [The Calvin cycle](https://en.wikipedia.org/wiki/Calvin_cycle)
+    - Runs in the stroma
+    - Enzyme RuBisCO fixes carbon dioxide
+    - Builds sugars using ATP and NADPH
+  - Variations
+    - C4 plants like maize concentrate CO₂
+    - CAM plants like cacti open at night
+    - Cyanobacteria and algae photosynthesise too
+  - Why it matters
+    - [Made Earth's oxygen-rich atmosphere](https://en.wikipedia.org/wiki/Great_Oxidation_Event)
+    - Ancient photosynthesis formed fossil fuels
+    - Draws carbon dioxide from the air

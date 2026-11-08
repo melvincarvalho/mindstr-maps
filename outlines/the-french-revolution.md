@@ -1,0 +1,27 @@
+aliases: french revolution, revolution of 1789, 1789 revolution
+- The French Revolution
+  - Causes
+    - Royal debt from wars, including America
+    - Bread prices soared after poor harvests
+    - Three Estates system privileged clergy, nobles
+    - Enlightenment ideas challenged absolute monarchy
+  - 1789
+    - Estates-General meets in May
+    - Third Estate forms National Assembly
+    - [Storming of the Bastille, 14 July](https://en.wikipedia.org/wiki/Storming_of_the_Bastille)
+    - [Declaration of the Rights of Man](https://en.wikipedia.org/wiki/Declaration_of_the_Rights_of_Man_and_of_the_Citizen)
+  - End of the monarchy
+    - Royal flight to Varennes fails, 1791
+    - Republic declared in September 1792
+    - Louis XVI executed in January 1793
+  - [The Reign of Terror](https://en.wikipedia.org/wiki/Reign_of_Terror)
+    - Robespierre and Committee of Public Safety
+    - Thousands guillotined as suspected enemies
+    - Ended with Robespierre's fall, 1794
+  - Aftermath
+    - The Directory governs from 1795
+    - Napoleon seizes power in 1799 coup
+  - Legacy
+    - Liberty, equality, fraternity
+    - Spread nationalism and ideas of rights
+    - Gave us political left and right

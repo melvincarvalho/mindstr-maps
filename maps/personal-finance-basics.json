@@ -1,0 +1,307 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Personal finance basics",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#7hfbgr",
+      "name": "Know where your money goes",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2uv662",
+      "name": "Track spending for one month",
+      "x": -504,
+      "y": -68,
+      "parent": "#7hfbgr"
+    },
+    {
+      "@id": "#xb6x73",
+      "name": "List income, bills and debts",
+      "x": -396,
+      "y": -171,
+      "parent": "#7hfbgr"
+    },
+    {
+      "@id": "#2vfhhw",
+      "name": "Check your credit report yearly",
+      "x": -305,
+      "y": -265,
+      "parent": "#7hfbgr"
+    },
+    {
+      "@id": "#m9cnb5",
+      "name": "Build a simple budget",
+      "x": -19,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ef7b6f",
+      "name": "Try the 50/30/20 split",
+      "x": -181,
+      "y": -330,
+      "link": "https://en.wikipedia.org/wiki/Budget",
+      "parent": "#m9cnb5"
+    },
+    {
+      "@id": "#uvfa6u",
+      "name": "Automate saving on payday",
+      "x": -41,
+      "y": -391,
+      "parent": "#m9cnb5"
+    },
+    {
+      "@id": "#endz8t",
+      "name": "Cut unused subscriptions first",
+      "x": 140,
+      "y": -445,
+      "parent": "#m9cnb5"
+    },
+    {
+      "@id": "#zn6gvk",
+      "name": "Build an emergency fund",
+      "x": 182,
+      "y": -113,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y8ty3i",
+      "name": "Start with a small buffer",
+      "x": 246,
+      "y": -301,
+      "parent": "#zn6gvk"
+    },
+    {
+      "@id": "#rqn7s7",
+      "name": "Aim for three to six months",
+      "x": 355,
+      "y": -221,
+      "parent": "#zn6gvk"
+    },
+    {
+      "@id": "#kh3m9n",
+      "name": "Keep it in easy-access savings",
+      "x": 483,
+      "y": -132,
+      "parent": "#zn6gvk"
+    },
+    {
+      "@id": "#7s362c",
+      "name": "Pay down costly debt",
+      "x": 218,
+      "y": 60,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#axyvq4",
+      "name": "Always pay at least the minimum",
+      "x": 450,
+      "y": 0,
+      "parent": "#7s362c"
+    },
+    {
+      "@id": "#e3vsmg",
+      "name": "Clear highest-interest debt first",
+      "x": 426,
+      "y": 117,
+      "parent": "#7s362c"
+    },
+    {
+      "@id": "#di2jwf",
+      "name": "Avoid payday loans",
+      "x": 355,
+      "y": 221,
+      "parent": "#7s362c"
+    },
+    {
+      "@id": "#wbt4wi",
+      "name": "Invest for the long term",
+      "x": 19,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mvg95d",
+      "name": "Take any employer pension match",
+      "x": 246,
+      "y": 301,
+      "parent": "#wbt4wi"
+    },
+    {
+      "@id": "#nut2fu",
+      "name": "Low-cost index funds spread risk",
+      "x": 110,
+      "y": 349,
+      "link": "https://en.wikipedia.org/wiki/Index_fund",
+      "parent": "#wbt4wi"
+    },
+    {
+      "@id": "#u5ixsy",
+      "name": "Compound interest rewards starting early",
+      "x": -43,
+      "y": 407,
+      "link": "https://en.wikipedia.org/wiki/Compound_interest",
+      "parent": "#wbt4wi"
+    },
+    {
+      "@id": "#7gqntu",
+      "name": "Don't invest money needed soon",
+      "x": -253,
+      "y": 465,
+      "parent": "#wbt4wi"
+    },
+    {
+      "@id": "#4bddun",
+      "name": "Protect what you have",
+      "x": -202,
+      "y": 88,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#eqyas9",
+      "name": "Insure against big losses",
+      "x": -305,
+      "y": 265,
+      "parent": "#4bddun"
+    },
+    {
+      "@id": "#p4ggd8",
+      "name": "Beware too-good-to-be-true offers",
+      "x": -396,
+      "y": 171,
+      "parent": "#4bddun"
+    },
+    {
+      "@id": "#9u4umx",
+      "name": "Review your plan once a year",
+      "x": -484,
+      "y": 65,
+      "parent": "#4bddun"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,307 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Quantum computing",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ed4ddk",
+      "name": "Core ideas",
+      "x": -182,
+      "y": -113,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ryqdxv",
+      "name": "Qubits hold superpositions of 0 and 1",
+      "x": -444,
+      "y": -59,
+      "link": "https://en.wikipedia.org/wiki/Qubit",
+      "parent": "#ed4ddk"
+    },
+    {
+      "@id": "#7aw583",
+      "name": "Entanglement links qubits' states",
+      "x": -396,
+      "y": -171,
+      "parent": "#ed4ddk"
+    },
+    {
+      "@id": "#5f6ewr",
+      "name": "Interference amplifies right answers",
+      "x": -305,
+      "y": -265,
+      "parent": "#ed4ddk"
+    },
+    {
+      "@id": "#ephv47",
+      "name": "Measuring collapses qubits to 0 or 1",
+      "x": -181,
+      "y": -330,
+      "parent": "#ed4ddk"
+    },
+    {
+      "@id": "#6rce66",
+      "name": "Hardware",
+      "x": 56,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e4sse2",
+      "name": "Superconducting circuits cooled near absolute zero",
+      "x": -41,
+      "y": -391,
+      "parent": "#6rce66"
+    },
+    {
+      "@id": "#austv5",
+      "name": "Trapped ions held by electromagnetic fields",
+      "x": 140,
+      "y": -445,
+      "parent": "#6rce66"
+    },
+    {
+      "@id": "#fz4bji",
+      "name": "Photons and neutral atoms",
+      "x": 246,
+      "y": -301,
+      "parent": "#6rce66"
+    },
+    {
+      "@id": "#mg6nmr",
+      "name": "Key algorithms",
+      "x": 218,
+      "y": -60,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4x98m5",
+      "name": "Shor's algorithm factors large numbers",
+      "x": 355,
+      "y": -221,
+      "link": "https://en.wikipedia.org/wiki/Shor%27s_algorithm",
+      "parent": "#mg6nmr"
+    },
+    {
+      "@id": "#zvcczp",
+      "name": "Grover's algorithm speeds up search",
+      "x": 426,
+      "y": -117,
+      "parent": "#mg6nmr"
+    },
+    {
+      "@id": "#53b9p2",
+      "name": "Simulating molecules and materials",
+      "x": 450,
+      "y": 0,
+      "parent": "#mg6nmr"
+    },
+    {
+      "@id": "#3wgnqk",
+      "name": "Challenges",
+      "x": 182,
+      "y": 113,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tsawya",
+      "name": "Decoherence destroys fragile quantum states",
+      "x": 483,
+      "y": 132,
+      "parent": "#3wgnqk"
+    },
+    {
+      "@id": "#6yi7hq",
+      "name": "Errors need quantum error correction",
+      "x": 355,
+      "y": 221,
+      "parent": "#3wgnqk"
+    },
+    {
+      "@id": "#j8kejk",
+      "name": "Many physical qubits per logical qubit",
+      "x": 246,
+      "y": 301,
+      "parent": "#3wgnqk"
+    },
+    {
+      "@id": "#svq5dy",
+      "name": "Milestones",
+      "x": -19,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bkqbdc",
+      "name": "Feynman proposed the idea, 1981",
+      "x": 110,
+      "y": 349,
+      "parent": "#svq5dy"
+    },
+    {
+      "@id": "#a8dqzg",
+      "name": "Google claimed quantum supremacy, 2019",
+      "x": -43,
+      "y": 407,
+      "link": "https://en.wikipedia.org/wiki/Quantum_supremacy",
+      "parent": "#svq5dy"
+    },
+    {
+      "@id": "#86h7ut",
+      "name": "IBM, Google, Quantinuum build machines",
+      "x": -253,
+      "y": 465,
+      "parent": "#svq5dy"
+    },
+    {
+      "@id": "#ndw9cq",
+      "name": "Impact",
+      "x": -202,
+      "y": 88,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7cmzdh",
+      "name": "Could break RSA encryption",
+      "x": -305,
+      "y": 265,
+      "parent": "#ndw9cq"
+    },
+    {
+      "@id": "#6ybxpy",
+      "name": "Post-quantum cryptography being adopted",
+      "x": -396,
+      "y": 171,
+      "parent": "#ndw9cq"
+    },
+    {
+      "@id": "#iez586",
+      "name": "Not faster for everyday tasks",
+      "x": -444,
+      "y": 59,
+      "parent": "#ndw9cq"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

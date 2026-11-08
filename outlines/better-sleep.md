@@ -1,0 +1,26 @@
+aliases: sleep better, how to sleep better, sleep hygiene, can't sleep
+- Better sleep
+  - Keep a regular schedule
+    - Same wake time every day
+    - Adults usually need 7 to 9 hours
+    - Keep naps short and early
+  - Use daylight and your body clock
+    - [Get morning light outdoors](https://en.wikipedia.org/wiki/Circadian_rhythm)
+    - Dim lights in the evening
+  - Make the bedroom sleep-friendly
+    - Cool, dark and quiet
+    - A comfortable mattress and pillow
+    - Keep screens out of bed
+  - Watch what you consume
+    - No caffeine after early afternoon
+    - Alcohol disrupts later sleep
+    - Avoid heavy meals before bed
+    - Regular exercise, not too late
+  - Wind down before bed
+    - A relaxing 30-minute routine
+    - Write tomorrow's worries down
+    - Can't sleep? Get up briefly
+  - Know when to get help
+    - [Long-term insomnia: ask about CBT-I](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy_for_insomnia)
+    - [Loud snoring may mean sleep apnea](https://en.wikipedia.org/wiki/Sleep_apnea)
+    - Daytime exhaustion despite enough sleep

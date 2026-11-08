@@ -1,0 +1,27 @@
+aliases: resume, write a resume, curriculum vitae, cv tips
+- Write a CV
+  - Research the role first
+    - Read the job ad closely
+    - Note key skills and keywords
+  - Gather your material
+    - Jobs, dates and responsibilities
+    - Achievements with numbers
+    - Education, training and certificates
+  - Structure it clearly
+    - Contact details at the top
+    - Short profile summary
+    - Experience, newest first
+    - Skills and education sections
+    - One page US, two pages UK
+  - Write strong content
+    - Start bullets with action verbs
+    - Show results, not just duties
+    - Tailor it to each application
+  - Format for people and software
+    - Clean layout, readable font
+    - [Simple formatting suits tracking systems](https://en.wikipedia.org/wiki/Applicant_tracking_system)
+    - Save and send as PDF
+  - Check and send
+    - Proofread, then ask a friend
+    - [Add a short cover letter](https://en.wikipedia.org/wiki/Cover_letter)
+    - Match your LinkedIn profile

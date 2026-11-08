@@ -1,0 +1,26 @@
+aliases: renaissance, italian renaissance, renaissance period
+- The Renaissance
+  - What it was
+    - European cultural rebirth, c. 1300–1600
+    - Revival of classical Greek and Roman learning
+    - Began in Florence, Italy
+  - Why it happened
+    - Wealthy patrons like the Medici family
+    - Trade made Italian cities rich
+    - Greek scholars fled Constantinople, 1453
+  - Ideas
+    - [Humanism put human potential centre stage](https://en.wikipedia.org/wiki/Renaissance_humanism)
+    - Machiavelli's The Prince on power
+    - Ideal of the well-rounded "Renaissance man"
+  - Art
+    - Linear perspective gives depth
+    - [Leonardo da Vinci painted the Mona Lisa](https://en.wikipedia.org/wiki/Leonardo_da_Vinci)
+    - Michelangelo painted the Sistine Chapel ceiling
+    - Raphael's School of Athens
+  - Science and technology
+    - [Gutenberg's printing press spread ideas](https://en.wikipedia.org/wiki/Printing_press)
+    - Copernicus put the Sun at the centre
+    - Vesalius mapped human anatomy
+  - Spread and legacy
+    - Northern Renaissance: Dürer, Erasmus, Shakespeare
+    - Fed the Reformation and Scientific Revolution

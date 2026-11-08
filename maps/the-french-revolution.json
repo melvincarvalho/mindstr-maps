@@ -1,0 +1,307 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "The French Revolution",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#m8ifzm",
+      "name": "Causes",
+      "x": -182,
+      "y": -113,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rdt3pb",
+      "name": "Royal debt from wars, including America",
+      "x": -444,
+      "y": -59,
+      "parent": "#m8ifzm"
+    },
+    {
+      "@id": "#nt4qeu",
+      "name": "Bread prices soared after poor harvests",
+      "x": -396,
+      "y": -171,
+      "parent": "#m8ifzm"
+    },
+    {
+      "@id": "#m3un2v",
+      "name": "Three Estates system privileged clergy, nobles",
+      "x": -305,
+      "y": -265,
+      "parent": "#m8ifzm"
+    },
+    {
+      "@id": "#j7s3jz",
+      "name": "Enlightenment ideas challenged absolute monarchy",
+      "x": -181,
+      "y": -330,
+      "parent": "#m8ifzm"
+    },
+    {
+      "@id": "#yhxptz",
+      "name": "1789",
+      "x": 92,
+      "y": -169,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dci4fn",
+      "name": "Estates-General meets in May",
+      "x": -41,
+      "y": -391,
+      "parent": "#yhxptz"
+    },
+    {
+      "@id": "#cf2rvq",
+      "name": "Third Estate forms National Assembly",
+      "x": 140,
+      "y": -445,
+      "parent": "#yhxptz"
+    },
+    {
+      "@id": "#8b5xvk",
+      "name": "Storming of the Bastille, 14 July",
+      "x": 246,
+      "y": -301,
+      "link": "https://en.wikipedia.org/wiki/Storming_of_the_Bastille",
+      "parent": "#yhxptz"
+    },
+    {
+      "@id": "#vhei7h",
+      "name": "Declaration of the Rights of Man",
+      "x": 355,
+      "y": -221,
+      "link": "https://en.wikipedia.org/wiki/Declaration_of_the_Rights_of_Man_and_of_the_Citizen",
+      "parent": "#yhxptz"
+    },
+    {
+      "@id": "#sy9bjk",
+      "name": "End of the monarchy",
+      "x": 250,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r3hjsp",
+      "name": "Royal flight to Varennes fails, 1791",
+      "x": 426,
+      "y": -117,
+      "parent": "#sy9bjk"
+    },
+    {
+      "@id": "#kkg6y7",
+      "name": "Republic declared in September 1792",
+      "x": 550,
+      "y": 0,
+      "parent": "#sy9bjk"
+    },
+    {
+      "@id": "#pgqfpu",
+      "name": "Louis XVI executed in January 1793",
+      "x": 426,
+      "y": 117,
+      "parent": "#sy9bjk"
+    },
+    {
+      "@id": "#5crica",
+      "name": "The Reign of Terror",
+      "x": 126,
+      "y": 154,
+      "link": "https://en.wikipedia.org/wiki/Reign_of_Terror",
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r8ud4m",
+      "name": "Robespierre and Committee of Public Safety",
+      "x": 355,
+      "y": 221,
+      "parent": "#5crica"
+    },
+    {
+      "@id": "#dvw54f",
+      "name": "Thousands guillotined as suspected enemies",
+      "x": 246,
+      "y": 301,
+      "parent": "#5crica"
+    },
+    {
+      "@id": "#nbu2jj",
+      "name": "Ended with Robespierre's fall, 1794",
+      "x": 110,
+      "y": 349,
+      "parent": "#5crica"
+    },
+    {
+      "@id": "#ue6bx8",
+      "name": "Aftermath",
+      "x": -66,
+      "y": 210,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y3uytj",
+      "name": "The Directory governs from 1795",
+      "x": -43,
+      "y": 407,
+      "parent": "#ue6bx8"
+    },
+    {
+      "@id": "#3tjp36",
+      "name": "Napoleon seizes power in 1799 coup",
+      "x": -253,
+      "y": 465,
+      "parent": "#ue6bx8"
+    },
+    {
+      "@id": "#trzkjv",
+      "name": "Legacy",
+      "x": -202,
+      "y": 88,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ur5n93",
+      "name": "Liberty, equality, fraternity",
+      "x": -305,
+      "y": 265,
+      "parent": "#trzkjv"
+    },
+    {
+      "@id": "#h2jfgr",
+      "name": "Spread nationalism and ideas of rights",
+      "x": -396,
+      "y": 171,
+      "parent": "#trzkjv"
+    },
+    {
+      "@id": "#b3wsjk",
+      "name": "Gave us political left and right",
+      "x": -444,
+      "y": 59,
+      "parent": "#trzkjv"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

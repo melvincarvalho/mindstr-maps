@@ -25,6 +25,18 @@
       "nodes": 29
     },
     {
+      "topic": "Better sleep",
+      "slug": "better-sleep",
+      "aliases": [
+        "sleep-better",
+        "how-to-sleep-better",
+        "sleep-hygiene",
+        "can-t-sleep"
+      ],
+      "file": "maps/better-sleep.json",
+      "nodes": 25
+    },
+    {
       "topic": "Climate change",
       "slug": "climate-change",
       "aliases": [
@@ -34,6 +46,17 @@
       ],
       "file": "maps/climate-change.json",
       "nodes": 27
+    },
+    {
+      "topic": "Evolution",
+      "slug": "evolution",
+      "aliases": [
+        "theory-of-evolution",
+        "evolution-by-natural-selection",
+        "darwinism"
+      ],
+      "file": "maps/evolution.json",
+      "nodes": 26
     },
     {
       "topic": "Healthy eating",
@@ -71,6 +94,28 @@
       "nodes": 26
     },
     {
+      "topic": "How vaccines work",
+      "slug": "how-vaccines-work",
+      "aliases": [
+        "vaccines",
+        "vaccination",
+        "how-do-vaccines-work"
+      ],
+      "file": "maps/how-vaccines-work.json",
+      "nodes": 27
+    },
+    {
+      "topic": "Learn a new language",
+      "slug": "learn-a-new-language",
+      "aliases": [
+        "language-learning",
+        "learn-a-foreign-language",
+        "how-to-learn-a-language"
+      ],
+      "file": "maps/learn-a-new-language.json",
+      "nodes": 25
+    },
+    {
       "topic": "Learn to code",
       "slug": "learn-to-code",
       "aliases": [
@@ -81,6 +126,39 @@
       ],
       "file": "maps/learn-to-code.json",
       "nodes": 27
+    },
+    {
+      "topic": "Personal finance basics",
+      "slug": "personal-finance-basics",
+      "aliases": [
+        "money-basics",
+        "budgeting-basics",
+        "manage-my-money"
+      ],
+      "file": "maps/personal-finance-basics.json",
+      "nodes": 26
+    },
+    {
+      "topic": "Photosynthesis",
+      "slug": "photosynthesis",
+      "aliases": [
+        "how-photosynthesis-works",
+        "photosynthesis-explained",
+        "plant-photosynthesis"
+      ],
+      "file": "maps/photosynthesis.json",
+      "nodes": 25
+    },
+    {
+      "topic": "Quantum computing",
+      "slug": "quantum-computing",
+      "aliases": [
+        "quantum-computer",
+        "quantum-computers",
+        "quantum-computation"
+      ],
+      "file": "maps/quantum-computing.json",
+      "nodes": 26
     },
     {
       "topic": "Start a small business",
@@ -95,6 +173,17 @@
       "nodes": 28
     },
     {
+      "topic": "The French Revolution",
+      "slug": "the-french-revolution",
+      "aliases": [
+        "french-revolution",
+        "revolution-of-1789",
+        "1789-revolution"
+      ],
+      "file": "maps/the-french-revolution.json",
+      "nodes": 26
+    },
+    {
       "topic": "The human body",
       "slug": "the-human-body",
       "aliases": [
@@ -107,6 +196,17 @@
       "nodes": 26
     },
     {
+      "topic": "The Renaissance",
+      "slug": "the-renaissance",
+      "aliases": [
+        "renaissance",
+        "italian-renaissance",
+        "renaissance-period"
+      ],
+      "file": "maps/the-renaissance.json",
+      "nodes": 25
+    },
+    {
       "topic": "World War II",
       "slug": "world-war-ii",
       "aliases": [
@@ -117,54 +217,108 @@
       ],
       "file": "maps/world-war-ii.json",
       "nodes": 29
+    },
+    {
+      "topic": "Write a CV",
+      "slug": "write-a-cv",
+      "aliases": [
+        "resume",
+        "write-a-resume",
+        "curriculum-vitae",
+        "cv-tips"
+      ],
+      "file": "maps/write-a-cv.json",
+      "nodes": 26
     }
   ],
   "lookup": {
+    "1789-revolution": "maps/the-french-revolution.json",
     "ai": "maps/artificial-intelligence.json",
     "ancient-rome": "maps/ancient-rome.json",
     "artificial-intelligence": "maps/artificial-intelligence.json",
     "balanced-diet": "maps/healthy-eating.json",
+    "better-sleep": "maps/better-sleep.json",
     "bitcoin": "maps/how-bitcoin-works.json",
     "bitcoin-explained": "maps/how-bitcoin-works.json",
     "body-systems": "maps/the-human-body.json",
     "btc": "maps/how-bitcoin-works.json",
+    "budgeting-basics": "maps/personal-finance-basics.json",
+    "can-t-sleep": "maps/better-sleep.json",
     "climate-change": "maps/climate-change.json",
     "climate-change-explained": "maps/climate-change.json",
     "climate-crisis": "maps/climate-change.json",
     "coding-for-beginners": "maps/learn-to-code.json",
+    "curriculum-vitae": "maps/write-a-cv.json",
+    "cv-tips": "maps/write-a-cv.json",
+    "darwinism": "maps/evolution.json",
     "eat-healthy": "maps/healthy-eating.json",
+    "evolution": "maps/evolution.json",
+    "evolution-by-natural-selection": "maps/evolution.json",
+    "french-revolution": "maps/the-french-revolution.json",
     "global-warming": "maps/climate-change.json",
     "healthy-diet": "maps/healthy-eating.json",
     "healthy-eating": "maps/healthy-eating.json",
     "how-bitcoin-works": "maps/how-bitcoin-works.json",
+    "how-do-vaccines-work": "maps/how-vaccines-work.json",
     "how-does-the-internet-work": "maps/how-the-internet-works.json",
+    "how-photosynthesis-works": "maps/photosynthesis.json",
     "how-the-body-works": "maps/the-human-body.json",
     "how-the-internet-works": "maps/how-the-internet-works.json",
     "how-the-internet-works-explained": "maps/how-the-internet-works.json",
     "how-to-code": "maps/learn-to-code.json",
     "how-to-eat-healthy": "maps/healthy-eating.json",
+    "how-to-learn-a-language": "maps/learn-a-new-language.json",
+    "how-to-sleep-better": "maps/better-sleep.json",
     "how-to-start-a-business": "maps/start-a-small-business.json",
+    "how-vaccines-work": "maps/how-vaccines-work.json",
     "human-anatomy": "maps/the-human-body.json",
     "human-body": "maps/the-human-body.json",
     "internet": "maps/how-the-internet-works.json",
+    "italian-renaissance": "maps/the-renaissance.json",
+    "language-learning": "maps/learn-a-new-language.json",
+    "learn-a-foreign-language": "maps/learn-a-new-language.json",
+    "learn-a-new-language": "maps/learn-a-new-language.json",
     "learn-programming": "maps/learn-to-code.json",
     "learn-to-code": "maps/learn-to-code.json",
+    "manage-my-money": "maps/personal-finance-basics.json",
+    "money-basics": "maps/personal-finance-basics.json",
     "open-a-business": "maps/start-a-small-business.json",
+    "personal-finance-basics": "maps/personal-finance-basics.json",
+    "photosynthesis": "maps/photosynthesis.json",
+    "photosynthesis-explained": "maps/photosynthesis.json",
+    "plant-photosynthesis": "maps/photosynthesis.json",
+    "quantum-computation": "maps/quantum-computing.json",
+    "quantum-computer": "maps/quantum-computing.json",
+    "quantum-computers": "maps/quantum-computing.json",
+    "quantum-computing": "maps/quantum-computing.json",
+    "renaissance": "maps/the-renaissance.json",
+    "renaissance-period": "maps/the-renaissance.json",
+    "resume": "maps/write-a-cv.json",
+    "revolution-of-1789": "maps/the-french-revolution.json",
     "roman-empire": "maps/ancient-rome.json",
     "roman-republic": "maps/ancient-rome.json",
     "rome-history": "maps/ancient-rome.json",
     "second-world-war": "maps/world-war-ii.json",
+    "sleep-better": "maps/better-sleep.json",
+    "sleep-hygiene": "maps/better-sleep.json",
     "start-a-business": "maps/start-a-small-business.json",
     "start-a-small-business": "maps/start-a-small-business.json",
     "start-coding": "maps/learn-to-code.json",
     "starting-a-business": "maps/start-a-small-business.json",
+    "the-french-revolution": "maps/the-french-revolution.json",
     "the-human-body": "maps/the-human-body.json",
+    "the-renaissance": "maps/the-renaissance.json",
     "the-romans": "maps/ancient-rome.json",
+    "theory-of-evolution": "maps/evolution.json",
+    "vaccination": "maps/how-vaccines-work.json",
+    "vaccines": "maps/how-vaccines-work.json",
     "what-is-ai": "maps/artificial-intelligence.json",
     "what-is-artificial-intelligence": "maps/artificial-intelligence.json",
     "what-is-bitcoin": "maps/how-bitcoin-works.json",
     "world-war-2": "maps/world-war-ii.json",
     "world-war-ii": "maps/world-war-ii.json",
+    "write-a-cv": "maps/write-a-cv.json",
+    "write-a-resume": "maps/write-a-cv.json",
     "ww2": "maps/world-war-ii.json",
     "wwii": "maps/world-war-ii.json"
   }

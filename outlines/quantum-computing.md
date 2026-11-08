@@ -1,0 +1,27 @@
+aliases: quantum computer, quantum computers, quantum computation
+- Quantum computing
+  - Core ideas
+    - [Qubits hold superpositions of 0 and 1](https://en.wikipedia.org/wiki/Qubit)
+    - Entanglement links qubits' states
+    - Interference amplifies right answers
+    - Measuring collapses qubits to 0 or 1
+  - Hardware
+    - Superconducting circuits cooled near absolute zero
+    - Trapped ions held by electromagnetic fields
+    - Photons and neutral atoms
+  - Key algorithms
+    - [Shor's algorithm factors large numbers](https://en.wikipedia.org/wiki/Shor%27s_algorithm)
+    - Grover's algorithm speeds up search
+    - Simulating molecules and materials
+  - Challenges
+    - Decoherence destroys fragile quantum states
+    - Errors need quantum error correction
+    - Many physical qubits per logical qubit
+  - Milestones
+    - Feynman proposed the idea, 1981
+    - [Google claimed quantum supremacy, 2019](https://en.wikipedia.org/wiki/Quantum_supremacy)
+    - IBM, Google, Quantinuum build machines
+  - Impact
+    - Could break RSA encryption
+    - Post-quantum cryptography being adopted
+    - Not faster for everyday tasks

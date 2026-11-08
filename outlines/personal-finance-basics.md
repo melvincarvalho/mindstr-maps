@@ -1,0 +1,27 @@
+aliases: money basics, budgeting basics, manage my money
+- Personal finance basics
+  - Know where your money goes
+    - Track spending for one month
+    - List income, bills and debts
+    - Check your credit report yearly
+  - Build a simple budget
+    - [Try the 50/30/20 split](https://en.wikipedia.org/wiki/Budget)
+    - Automate saving on payday
+    - Cut unused subscriptions first
+  - Build an emergency fund
+    - Start with a small buffer
+    - Aim for three to six months
+    - Keep it in easy-access savings
+  - Pay down costly debt
+    - Always pay at least the minimum
+    - Clear highest-interest debt first
+    - Avoid payday loans
+  - Invest for the long term
+    - Take any employer pension match
+    - [Low-cost index funds spread risk](https://en.wikipedia.org/wiki/Index_fund)
+    - [Compound interest rewards starting early](https://en.wikipedia.org/wiki/Compound_interest)
+    - Don't invest money needed soon
+  - Protect what you have
+    - Insure against big losses
+    - Beware too-good-to-be-true offers
+    - Review your plan once a year

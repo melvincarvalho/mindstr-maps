@@ -1,0 +1,27 @@
+aliases: theory of evolution, evolution by natural selection, darwinism
+- Evolution
+  - The core idea
+    - Species change over generations
+    - All life shares common ancestors
+    - Life began about 3.8 billion years ago
+  - [Natural selection](https://en.wikipedia.org/wiki/Natural_selection)
+    - Individuals vary in inherited traits
+    - Better-suited individuals leave more offspring
+    - Helpful traits spread through populations
+  - Other mechanisms
+    - Mutations create new genetic variation
+    - Genetic drift changes genes by chance
+    - Gene flow mixes populations
+    - Sexual selection favours attractive traits
+  - Evidence
+    - Fossils show transitional forms
+    - DNA similarities reveal relationships
+    - Shared anatomy like limb bones
+    - Observed in bacteria developing antibiotic resistance
+  - New species
+    - [Speciation follows reproductive isolation](https://en.wikipedia.org/wiki/Speciation)
+    - Darwin's finches adapted to different islands
+  - History of the idea
+    - [Darwin's On the Origin of Species, 1859](https://en.wikipedia.org/wiki/On_the_Origin_of_Species)
+    - Wallace reached the same idea
+    - Mendel's genetics joined in modern synthesis

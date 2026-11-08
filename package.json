@@ -6,7 +6,8 @@
   "private": true,
   "scripts": {
     "build": "node build.js",
-    "check": "node build.js --check"
+    "check": "node build.js --check",
+    "links": "node check-links.js"
   },
   "license": "CC0-1.0"
 }

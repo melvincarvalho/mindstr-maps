@@ -1,0 +1,306 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Write a CV",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#29nabu",
+      "name": "Research the role first",
+      "x": -218,
+      "y": -60,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e4hs85",
+      "name": "Read the job ad closely",
+      "x": -484,
+      "y": -65,
+      "parent": "#29nabu"
+    },
+    {
+      "@id": "#vp2rb8",
+      "name": "Note key skills and keywords",
+      "x": -396,
+      "y": -171,
+      "parent": "#29nabu"
+    },
+    {
+      "@id": "#m7isr9",
+      "name": "Gather your material",
+      "x": -92,
+      "y": -169,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2qh8ft",
+      "name": "Jobs, dates and responsibilities",
+      "x": -305,
+      "y": -265,
+      "parent": "#m7isr9"
+    },
+    {
+      "@id": "#dumpcx",
+      "name": "Achievements with numbers",
+      "x": -181,
+      "y": -330,
+      "parent": "#m7isr9"
+    },
+    {
+      "@id": "#3hizn2",
+      "name": "Education, training and certificates",
+      "x": -41,
+      "y": -391,
+      "parent": "#m7isr9"
+    },
+    {
+      "@id": "#6xic4u",
+      "name": "Structure it clearly",
+      "x": 182,
+      "y": -113,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j564tu",
+      "name": "Contact details at the top",
+      "x": 140,
+      "y": -445,
+      "parent": "#6xic4u"
+    },
+    {
+      "@id": "#36rcm2",
+      "name": "Short profile summary",
+      "x": 246,
+      "y": -301,
+      "parent": "#6xic4u"
+    },
+    {
+      "@id": "#6b927m",
+      "name": "Experience, newest first",
+      "x": 355,
+      "y": -221,
+      "parent": "#6xic4u"
+    },
+    {
+      "@id": "#bzk568",
+      "name": "Skills and education sections",
+      "x": 464,
+      "y": -127,
+      "parent": "#6xic4u"
+    },
+    {
+      "@id": "#yhrsks",
+      "name": "One page US, two pages UK",
+      "x": 450,
+      "y": 0,
+      "parent": "#6xic4u"
+    },
+    {
+      "@id": "#rcuhjq",
+      "name": "Write strong content",
+      "x": 182,
+      "y": 113,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m9vjgd",
+      "name": "Start bullets with action verbs",
+      "x": 464,
+      "y": 127,
+      "parent": "#rcuhjq"
+    },
+    {
+      "@id": "#cvyskz",
+      "name": "Show results, not just duties",
+      "x": 355,
+      "y": 221,
+      "parent": "#rcuhjq"
+    },
+    {
+      "@id": "#9k7rre",
+      "name": "Tailor it to each application",
+      "x": 246,
+      "y": 301,
+      "parent": "#rcuhjq"
+    },
+    {
+      "@id": "#x9tri6",
+      "name": "Format for people and software",
+      "x": -19,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3qxcqm",
+      "name": "Clean layout, readable font",
+      "x": 110,
+      "y": 349,
+      "parent": "#x9tri6"
+    },
+    {
+      "@id": "#wuq3jy",
+      "name": "Simple formatting suits tracking systems",
+      "x": -43,
+      "y": 407,
+      "link": "https://en.wikipedia.org/wiki/Applicant_tracking_system",
+      "parent": "#x9tri6"
+    },
+    {
+      "@id": "#9f48aq",
+      "name": "Save and send as PDF",
+      "x": -181,
+      "y": 330,
+      "parent": "#x9tri6"
+    },
+    {
+      "@id": "#wvv7p7",
+      "name": "Check and send",
+      "x": -202,
+      "y": 88,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gdti89",
+      "name": "Proofread, then ask a friend",
+      "x": -305,
+      "y": 265,
+      "parent": "#wvv7p7"
+    },
+    {
+      "@id": "#vcfqxt",
+      "name": "Add a short cover letter",
+      "x": -396,
+      "y": 171,
+      "link": "https://en.wikipedia.org/wiki/Cover_letter",
+      "parent": "#wvv7p7"
+    },
+    {
+      "@id": "#7apqjx",
+      "name": "Match your LinkedIn profile",
+      "x": -444,
+      "y": 59,
+      "parent": "#wvv7p7"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 8,
+      "end": 12
+    },
+    {
+      "start": 8,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}
