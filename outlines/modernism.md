@@ -1,0 +1,30 @@
+category: Arts and culture
+aliases: modernist movement, modernist art, literary modernism
+- Modernism
+  - What it was
+    - Arts movement of about 1890 to 1950
+    - Rejected inherited forms and conventions
+    - [Ezra Pound's motto: "Make it new"](https://en.wikipedia.org/wiki/Ezra_Pound)
+  - What drove it
+    - Industry, cities and new technology
+    - Shock of the First World War
+    - Freud's ideas about the unconscious
+  - Visual art
+    - [Cubism: Picasso and Braque](https://en.wikipedia.org/wiki/Cubism)
+    - Futurism celebrated speed and machines
+    - Dada and Surrealism challenged reason
+  - Literature
+    - [Stream of consciousness narration](https://en.wikipedia.org/wiki/Stream_of_consciousness)
+    - James Joyce's Ulysses, 1922
+    - T. S. Eliot's The Waste Land, 1922
+    - Virginia Woolf's Mrs Dalloway, 1925
+  - Architecture and design
+    - Form follows function
+    - Bauhaus school in Germany, 1919
+    - Le Corbusier's concrete and glass
+  - Music and dance
+    - Stravinsky's Rite of Spring, 1913
+    - Schoenberg abandoned traditional keys
+  - Legacy
+    - [Postmodernism reacted against it](https://en.wikipedia.org/wiki/Postmodernism)
+    - Shaped today's design and fiction

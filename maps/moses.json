@@ -1,0 +1,363 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Moses",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#skpywr",
+      "name": "Who he is",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c7u4mu",
+      "name": "Prophet in Judaism, Christianity, Islam",
+      "x": -486,
+      "y": -51,
+      "parent": "#skpywr"
+    },
+    {
+      "@id": "#hfvxge",
+      "name": "Leader who brought Israelites from Egypt",
+      "x": -416,
+      "y": -138,
+      "parent": "#skpywr"
+    },
+    {
+      "@id": "#vgxg82",
+      "name": "Called Moshe in Hebrew, Musa in Arabic",
+      "x": -357,
+      "y": -219,
+      "parent": "#skpywr"
+    },
+    {
+      "@id": "#b3up87",
+      "name": "Early life in the Bible",
+      "x": -90,
+      "y": -268,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#iucaxb",
+      "name": "Born to Hebrew slaves in Egypt",
+      "x": -310,
+      "y": -325,
+      "parent": "#b3up87"
+    },
+    {
+      "@id": "#ihrwn5",
+      "name": "Hidden in a basket on the Nile",
+      "x": -196,
+      "y": -378,
+      "parent": "#b3up87"
+    },
+    {
+      "@id": "#4ic2i3",
+      "name": "Raised by Pharaoh's daughter",
+      "x": -74,
+      "y": -437,
+      "parent": "#b3up87"
+    },
+    {
+      "@id": "#f54e8r",
+      "name": "Fled to Midian after killing an Egyptian",
+      "x": 83,
+      "y": -485,
+      "parent": "#b3up87"
+    },
+    {
+      "@id": "#seq9zs",
+      "name": "The Exodus",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#q22zgr",
+      "name": "God speaks from the burning bush",
+      "x": 172,
+      "y": -333,
+      "parent": "#seq9zs"
+    },
+    {
+      "@id": "#gn968c",
+      "name": "Ten plagues strike Egypt",
+      "x": 370,
+      "y": -390,
+      "link": "https://en.wikipedia.org/wiki/Plagues_of_Egypt",
+      "parent": "#seq9zs"
+    },
+    {
+      "@id": "#ttipa6",
+      "name": "Passover night and departure",
+      "x": 357,
+      "y": -219,
+      "parent": "#seq9zs"
+    },
+    {
+      "@id": "#87yiux",
+      "name": "Crossing of the Red Sea",
+      "x": 416,
+      "y": -138,
+      "parent": "#seq9zs"
+    },
+    {
+      "@id": "#wdk8rj",
+      "name": "Sinai and the wilderness",
+      "x": 212,
+      "y": 70,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#i388pq",
+      "name": "Receives the Ten Commandments",
+      "x": 446,
+      "y": -47,
+      "link": "https://en.wikipedia.org/wiki/Ten_Commandments",
+      "parent": "#wdk8rj"
+    },
+    {
+      "@id": "#ic6s7a",
+      "name": "Covenant and law given at Mount Sinai",
+      "x": 546,
+      "y": 57,
+      "parent": "#wdk8rj"
+    },
+    {
+      "@id": "#79qubi",
+      "name": "Golden calf episode",
+      "x": 416,
+      "y": 138,
+      "parent": "#wdk8rj"
+    },
+    {
+      "@id": "#kw9c5c",
+      "name": "Forty years wandering in the desert",
+      "x": 357,
+      "y": 219,
+      "parent": "#wdk8rj"
+    },
+    {
+      "@id": "#9xag7q",
+      "name": "Dies on Mount Nebo before Canaan",
+      "x": 274,
+      "y": 286,
+      "parent": "#wdk8rj"
+    },
+    {
+      "@id": "#tt3uv4",
+      "name": "Sources and history",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g8m92x",
+      "name": "Story told in Exodus to Deuteronomy",
+      "x": 180,
+      "y": 348,
+      "link": "https://en.wikipedia.org/wiki/Book_of_Exodus",
+      "parent": "#tt3uv4"
+    },
+    {
+      "@id": "#ia54g2",
+      "name": "Tradition credits him with the Torah",
+      "x": 68,
+      "y": 405,
+      "parent": "#tt3uv4"
+    },
+    {
+      "@id": "#pzkew7",
+      "name": "Most historians doubt the Exodus as told",
+      "x": -77,
+      "y": 453,
+      "parent": "#tt3uv4"
+    },
+    {
+      "@id": "#fuixkh",
+      "name": "No evidence outside the scriptures",
+      "x": -268,
+      "y": 513,
+      "parent": "#tt3uv4"
+    },
+    {
+      "@id": "#ddqjy9",
+      "name": "Legacy",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bqezxk",
+      "name": "Model lawgiver and prophet in Judaism",
+      "x": -274,
+      "y": 286,
+      "parent": "#ddqjy9"
+    },
+    {
+      "@id": "#r7kqfz",
+      "name": "Prominent prophet in the Quran",
+      "x": -357,
+      "y": 219,
+      "link": "https://en.wikipedia.org/wiki/Moses_in_Islam",
+      "parent": "#ddqjy9"
+    },
+    {
+      "@id": "#j7wwqc",
+      "name": "Exodus inspired freedom movements",
+      "x": -434,
+      "y": 144,
+      "parent": "#ddqjy9"
+    },
+    {
+      "@id": "#r5awah",
+      "name": "Michelangelo's statue of Moses",
+      "x": -446,
+      "y": 47,
+      "parent": "#ddqjy9"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 15,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    },
+    {
+      "start": 26,
+      "end": 29
+    },
+    {
+      "start": 26,
+      "end": 30
+    }
+  ],
+  "selectedNode": 0
+}

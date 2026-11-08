@@ -1,0 +1,32 @@
+category: Geography
+aliases: krung thep, bangkok thailand, krung thep maha nakhon
+- Bangkok
+  - Setting
+    - Capital of Thailand
+    - On the Chao Phraya River delta
+    - Metro area about 11 million people
+    - Low-lying; floods and slowly sinking
+  - History
+    - [Founded as capital by Rama I, 1782](https://en.wikipedia.org/wiki/Rattanakosin_Kingdom)
+    - Seat of the Chakri dynasty
+    - Canals earned it "Venice of the East"
+    - Thailand never colonised by Europeans
+  - People
+    - Thai majority, mostly Theravada Buddhist
+    - Large Thai Chinese community
+    - Migrants from Isan and neighbouring countries
+  - Economy
+    - Generates a large share of Thailand's GDP
+    - Among the world's most visited cities
+    - BTS Skytrain and MRT metro lines
+    - Suvarnabhumi international airport
+  - Landmarks
+    - [Grand Palace and Emerald Buddha](https://en.wikipedia.org/wiki/Grand_Palace)
+    - [Wat Pho's reclining Buddha](https://en.wikipedia.org/wiki/Wat_Pho)
+    - Wat Arun on the riverbank
+    - Chatuchak Weekend Market
+    - Yaowarat, Bangkok's Chinatown
+  - Culture
+    - [Famous street food scene](https://en.wikipedia.org/wiki/Thai_cuisine)
+    - Songkran water festival in April
+    - Muay Thai at Rajadamnern Stadium

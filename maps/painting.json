@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Painting",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#gh7e4q",
+      "name": "Materials",
+      "x": -174,
+      "y": -120,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rnn76w",
+      "name": "Pigments mixed with a binder",
+      "x": -445,
+      "y": -51,
+      "parent": "#gh7e4q"
+    },
+    {
+      "@id": "#p7hhpu",
+      "name": "Oil paint perfected in 15th-century Flanders",
+      "x": -463,
+      "y": -171,
+      "link": "https://en.wikipedia.org/wiki/Oil_painting",
+      "parent": "#gh7e4q"
+    },
+    {
+      "@id": "#3navuk",
+      "name": "Watercolour, gouache and acrylic",
+      "x": -340,
+      "y": -236,
+      "parent": "#gh7e4q"
+    },
+    {
+      "@id": "#mwna7z",
+      "name": "Fresco painted on wet plaster",
+      "x": -243,
+      "y": -303,
+      "parent": "#gh7e4q"
+    },
+    {
+      "@id": "#g6pj4b",
+      "name": "Tempera made with egg yolk",
+      "x": -133,
+      "y": -360,
+      "parent": "#gh7e4q"
+    },
+    {
+      "@id": "#d56hgr",
+      "name": "Kinds of painting",
+      "x": 65,
+      "y": -177,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sxa85g",
+      "name": "Portrait, landscape and still life",
+      "x": 0,
+      "y": -408,
+      "parent": "#d56hgr"
+    },
+    {
+      "@id": "#se7eih",
+      "name": "History and religious scenes",
+      "x": 175,
+      "y": -465,
+      "parent": "#d56hgr"
+    },
+    {
+      "@id": "#j8x9w7",
+      "name": "Abstract art without recognisable subjects",
+      "x": 243,
+      "y": -303,
+      "parent": "#d56hgr"
+    },
+    {
+      "@id": "#ecak24",
+      "name": "Early and Renaissance",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zb6m9b",
+      "name": "Lascaux cave paintings, about 17,000 years",
+      "x": 340,
+      "y": -236,
+      "parent": "#ecak24"
+    },
+    {
+      "@id": "#rvfzz4",
+      "name": "Giotto's frescoes bring realism, around 1300",
+      "x": 409,
+      "y": -150,
+      "parent": "#ecak24"
+    },
+    {
+      "@id": "#ph4xak",
+      "name": "Leonardo's Mona Lisa, begun about 1503",
+      "x": 545,
+      "y": -61,
+      "link": "https://en.wikipedia.org/wiki/Mona_Lisa",
+      "parent": "#ecak24"
+    },
+    {
+      "@id": "#r6wgpc",
+      "name": "Michelangelo's Sistine Chapel ceiling",
+      "x": 445,
+      "y": 51,
+      "parent": "#ecak24"
+    },
+    {
+      "@id": "#gi9i2h",
+      "name": "Baroque to Romanticism",
+      "x": 174,
+      "y": 120,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#568jh4",
+      "name": "Caravaggio's dramatic light and shadow",
+      "x": 463,
+      "y": 171,
+      "parent": "#gi9i2h"
+    },
+    {
+      "@id": "#sukncf",
+      "name": "Rembrandt and Vermeer: Dutch Golden Age",
+      "x": 340,
+      "y": 236,
+      "parent": "#gi9i2h"
+    },
+    {
+      "@id": "#f2u6jm",
+      "name": "Turner and Constable paint nature",
+      "x": 243,
+      "y": 303,
+      "parent": "#gi9i2h"
+    },
+    {
+      "@id": "#nu798h",
+      "name": "Modern movements",
+      "x": -65,
+      "y": 177,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kmkdth",
+      "name": "Impressionism captures fleeting light, 1870s",
+      "x": 133,
+      "y": 360,
+      "link": "https://en.wikipedia.org/wiki/Impressionism",
+      "parent": "#nu798h"
+    },
+    {
+      "@id": "#bqnbm6",
+      "name": "Van Gogh's The Starry Night, 1889",
+      "x": 0,
+      "y": 408,
+      "parent": "#nu798h"
+    },
+    {
+      "@id": "#488awh",
+      "name": "Picasso and Braque invent Cubism",
+      "x": -175,
+      "y": 465,
+      "parent": "#nu798h"
+    },
+    {
+      "@id": "#7zurez",
+      "name": "Abstract Expressionism: Pollock's drip paintings",
+      "x": -243,
+      "y": 303,
+      "parent": "#nu798h"
+    },
+    {
+      "@id": "#egbchy",
+      "name": "Warhol's Pop Art soup cans",
+      "x": -340,
+      "y": 236,
+      "parent": "#nu798h"
+    },
+    {
+      "@id": "#ga77t9",
+      "name": "Looking at paintings",
+      "x": -221,
+      "y": 52,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2snmtt",
+      "name": "Great collections: Louvre, Prado, Uffizi",
+      "x": -409,
+      "y": 150,
+      "parent": "#ga77t9"
+    },
+    {
+      "@id": "#v2rvrh",
+      "name": "Composition, colour and brushwork",
+      "x": -525,
+      "y": 59,
+      "link": "https://en.wikipedia.org/wiki/Composition_%28visual_arts%29",
+      "parent": "#ga77t9"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 20,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

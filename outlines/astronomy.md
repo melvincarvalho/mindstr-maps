@@ -1,0 +1,30 @@
+category: Science
+aliases: study of the stars, astronomy for beginners, observational astronomy
+- Astronomy
+  - What astronomy studies
+    - Everything beyond Earth's atmosphere
+    - Planets, stars, galaxies, the cosmos
+    - [Astrophysics explains how they work](https://en.wikipedia.org/wiki/Astrophysics)
+  - Ancient sky watching
+    - Calendars from Sun, Moon and stars
+    - Babylonians recorded planetary motions
+    - Ptolemy's Earth-centred model
+  - A revolution in astronomy
+    - [Copernicus put the Sun at centre](https://en.wikipedia.org/wiki/Copernican_heliocentrism)
+    - Galileo's telescope, 1609–1610
+    - Kepler's laws of planetary motion
+    - Newton's gravity explains orbits
+  - Tools
+    - Optical telescopes on mountaintops
+    - Radio telescopes see invisible wavelengths
+    - [Space telescopes like Hubble and Webb](https://en.wikipedia.org/wiki/James_Webb_Space_Telescope)
+    - Spectroscopy reveals composition and motion
+  - Major discoveries
+    - Galaxies beyond the Milky Way, 1920s
+    - Universe expanding: Hubble, 1929
+    - [Cosmic microwave background found, 1965](https://en.wikipedia.org/wiki/Cosmic_microwave_background)
+    - [Over 5,000 exoplanets found since 1990s](https://en.wikipedia.org/wiki/Exoplanet)
+  - Try it yourself
+    - Learn constellations with a star map
+    - Binoculars show Moon craters
+    - Find dark skies away from cities

@@ -1,0 +1,29 @@
+category: People
+aliases: newton, sir isaac newton, isaac newton biography
+- Isaac Newton
+  - Life
+    - Born 1642 in Woolsthorpe, Lincolnshire
+    - Studied and taught at Cambridge
+    - Warden, then Master of the Mint
+    - President of the Royal Society from 1703
+    - Died 1727, buried in Westminster Abbey
+  - [Principia, 1687](https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica)
+    - [Three laws of motion](https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion)
+    - [Universal gravitation explains orbits and tides](https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation)
+    - Same laws on Earth and in heaven
+  - Mathematics
+    - [Developed calculus](https://en.wikipedia.org/wiki/Calculus)
+    - Priority dispute with Leibniz
+    - Generalised binomial theorem
+  - Optics
+    - White light splits into a spectrum
+    - Built the first practical reflecting telescope
+    - Opticks published 1704
+  - Other pursuits
+    - Long studies of alchemy
+    - Biblical chronology and theology
+    - Pursued coin counterfeiters at the Mint
+  - Legacy
+    - Mechanics unchallenged until Einstein
+    - Unit of force named the newton
+    - Model of science as mathematical law

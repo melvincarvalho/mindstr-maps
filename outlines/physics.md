@@ -1,0 +1,31 @@
+category: Science
+aliases: what is physics, physics explained, physics basics
+- Physics
+  - What physics studies
+    - Matter, energy, space and time
+    - Seeks laws in mathematical form
+    - Tested by experiment and observation
+  - [Classical mechanics](https://en.wikipedia.org/wiki/Classical_mechanics)
+    - Newton's three laws of motion, 1687
+    - Energy and momentum are conserved
+  - Fields and forces
+    - [Maxwell unified electricity and magnetism](https://en.wikipedia.org/wiki/Maxwell%27s_equations)
+    - Light is an electromagnetic wave
+    - Thermodynamics: heat, energy and entropy
+  - Modern physics
+    - [Einstein's relativity: space-time bends](https://en.wikipedia.org/wiki/Theory_of_relativity)
+    - E = mc² links mass and energy
+    - [Quantum mechanics rules atoms](https://en.wikipedia.org/wiki/Quantum_mechanics)
+    - Particles behave like waves too
+  - Building blocks
+    - Atoms: nucleus plus electrons
+    - Protons and neutrons are made of quarks
+    - Standard Model's 17 elementary particles
+    - Four fundamental forces of nature
+  - Physics in everyday life
+    - Electricity, engines and electronics
+    - Lasers, GPS and medical scanners
+    - Nuclear power and semiconductors
+  - Unsolved problems
+    - Uniting gravity with quantum theory
+    - Nature of dark matter and energy

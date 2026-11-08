@@ -1,0 +1,30 @@
+category: Society
+aliases: what is terrorism, definition of terrorism, terrorist attacks
+- Terrorism
+  - What it means
+    - Violence against civilians for political aims
+    - Aims to spread fear beyond victims
+    - [No single agreed legal definition](https://en.wikipedia.org/wiki/Definitions_of_terrorism)
+    - [Term dates from the Reign of Terror](https://en.wikipedia.org/wiki/Reign_of_Terror)
+  - Kinds of terrorism
+    - Ethno-nationalist and separatist groups
+    - Religiously motivated groups
+    - Far-right and far-left extremism
+    - State-sponsored terrorism
+  - Notable examples
+    - [September 11 attacks, 2001](https://en.wikipedia.org/wiki/September_11_attacks)
+    - Northern Ireland's Troubles, 1960s–1998
+    - [Islamic State, rising in 2014](https://en.wikipedia.org/wiki/Islamic_State)
+  - Roots and drivers
+    - Political grievance and exclusion
+    - Radicalisation through networks and propaganda
+    - Armed conflict and weak governance
+  - Responses
+    - Intelligence and law enforcement
+    - International cooperation and UN sanctions
+    - Programmes to prevent radicalisation
+    - Protecting civil liberties while countering it
+  - Effects on society
+    - Most deaths occur in conflict zones
+    - Security checks in travel and public spaces
+    - Fear, polarisation and discrimination

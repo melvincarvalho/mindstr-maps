@@ -1,0 +1,29 @@
+category: Mathematics
+aliases: exponents, powers in maths, raising to a power, indices in maths
+- Exponentiation
+  - The idea
+    - Repeated multiplication
+    - 2³ means 2×2×2, which is 8
+    - Base and exponent, or power
+  - Rules of exponents
+    - Multiply powers: add the exponents
+    - Divide powers: subtract the exponents
+    - Power of a power: multiply exponents
+    - Any nonzero number to zero is 1
+  - Stretching the meaning
+    - Negative exponents mean reciprocals
+    - Fractional exponents mean roots
+    - [Euler's formula: imaginary exponents rotate](https://en.wikipedia.org/wiki/Euler%27s_formula)
+  - [Exponential growth](https://en.wikipedia.org/wiki/Exponential_growth)
+    - Doubling again and again
+    - Rice on a chessboard legend
+    - Compound interest and populations
+    - Radioactive decay halves repeatedly
+  - Writing huge and tiny numbers
+    - [Scientific notation: light at 3×10⁸ m/s](https://en.wikipedia.org/wiki/Scientific_notation)
+    - Powers of ten behind metric prefixes
+    - Computers count in powers of two
+  - Related ideas
+    - [Logarithms undo exponentiation](https://en.wikipedia.org/wiki/Logarithm)
+    - Squares and cubes are powers 2, 3
+    - Tetration: repeated exponentiation

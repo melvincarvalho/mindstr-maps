@@ -1,0 +1,30 @@
+category: People
+aliases: alexander iii of macedon, alexander of macedon, alexander iii of macedonia
+- Alexander the Great
+  - Early life
+    - Born 356 BC in Pella, Macedon
+    - Son of King Philip II
+    - [Tutored by Aristotle as a teenager](https://en.wikipedia.org/wiki/Aristotle)
+    - Became king at 20 in 336 BC
+  - Conquest of Persia
+    - Crossed into Asia in 334 BC
+    - Won at the Granicus and Issus
+    - Captured Tyre after a long siege
+    - [Crushed Darius III at Gaugamela, 331 BC](https://en.wikipedia.org/wiki/Battle_of_Gaugamela)
+  - Egypt and the East
+    - Founded Alexandria in Egypt
+    - Burned the palace at Persepolis
+    - Fought through Bactria and Sogdiana
+  - India and the turn back
+    - [Defeated King Porus at the Hydaspes](https://en.wikipedia.org/wiki/Battle_of_the_Hydaspes)
+    - Troops refused to march further east
+    - Hard return through the Gedrosian Desert
+  - Death
+    - Died in Babylon in 323 BC
+    - Aged 32; cause still debated
+    - Generals fought over his empire
+  - Legacy
+    - Never lost a major battle
+    - [Began the Hellenistic period](https://en.wikipedia.org/wiki/Hellenistic_period)
+    - Spread Greek language and culture eastward
+    - Dozens of cities named after him

@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Physical chemistry",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#b5puua",
+      "name": "What it is",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c7s79n",
+      "name": "Physics applied to chemical behaviour",
+      "x": -485,
+      "y": -58,
+      "parent": "#b5puua"
+    },
+    {
+      "@id": "#4sjrnf",
+      "name": "Explains why and how fast reactions happen",
+      "x": -405,
+      "y": -156,
+      "parent": "#b5puua"
+    },
+    {
+      "@id": "#de2b4v",
+      "name": "Founded by Ostwald, van 't Hoff, Arrhenius",
+      "x": -330,
+      "y": -245,
+      "parent": "#b5puua"
+    },
+    {
+      "@id": "#fycmyy",
+      "name": "Chemical thermodynamics",
+      "x": -17,
+      "y": -183,
+      "link": "https://en.wikipedia.org/wiki/Chemical_thermodynamics",
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2z24p7",
+      "name": "Energy is conserved in every reaction",
+      "x": -225,
+      "y": -312,
+      "parent": "#fycmyy"
+    },
+    {
+      "@id": "#ykrei6",
+      "name": "Entropy of the universe always increases",
+      "x": -104,
+      "y": -367,
+      "parent": "#fycmyy"
+    },
+    {
+      "@id": "#mrzfhc",
+      "name": "Gibbs free energy predicts spontaneity",
+      "x": 42,
+      "y": -423,
+      "parent": "#fycmyy"
+    },
+    {
+      "@id": "#spevfx",
+      "name": "Equilibrium constants follow from free energy",
+      "x": 234,
+      "y": -485,
+      "parent": "#fycmyy"
+    },
+    {
+      "@id": "#ft2mvg",
+      "name": "Chemical kinetics",
+      "x": 207,
+      "y": -80,
+      "link": "https://en.wikipedia.org/wiki/Chemical_kinetics",
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7jsqrm",
+      "name": "Rate laws describe reaction speed",
+      "x": 281,
+      "y": -281,
+      "parent": "#ft2mvg"
+    },
+    {
+      "@id": "#gfjnx5",
+      "name": "Activation energy is the barrier",
+      "x": 372,
+      "y": -203,
+      "parent": "#ft2mvg"
+    },
+    {
+      "@id": "#3gn5ui",
+      "name": "Hotter reactions run faster (Arrhenius)",
+      "x": 525,
+      "y": -131,
+      "parent": "#ft2mvg"
+    },
+    {
+      "@id": "#pm6ajv",
+      "name": "Catalysts lower the barrier",
+      "x": 450,
+      "y": 0,
+      "parent": "#ft2mvg"
+    },
+    {
+      "@id": "#igxa5u",
+      "name": "Quantum chemistry",
+      "x": 190,
+      "y": 104,
+      "link": "https://en.wikipedia.org/wiki/Quantum_chemistry",
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9nzq39",
+      "name": "Electrons occupy orbitals of set energy",
+      "x": 506,
+      "y": 126,
+      "parent": "#igxa5u"
+    },
+    {
+      "@id": "#m3zthp",
+      "name": "Explains chemical bonds and shapes",
+      "x": 372,
+      "y": 203,
+      "parent": "#igxa5u"
+    },
+    {
+      "@id": "#hrb6nt",
+      "name": "Computer models predict molecular properties",
+      "x": 281,
+      "y": 281,
+      "parent": "#igxa5u"
+    },
+    {
+      "@id": "#y8kpia",
+      "name": "Spectroscopy and structure",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gtq3wy",
+      "name": "Molecules absorb light at specific energies",
+      "x": 164,
+      "y": 335,
+      "link": "https://en.wikipedia.org/wiki/Spectroscopy",
+      "parent": "#y8kpia"
+    },
+    {
+      "@id": "#3h533c",
+      "name": "Infrared reveals chemical bonds",
+      "x": 38,
+      "y": 391,
+      "parent": "#y8kpia"
+    },
+    {
+      "@id": "#5qrzzx",
+      "name": "NMR maps atoms in molecules",
+      "x": -124,
+      "y": 447,
+      "parent": "#y8kpia"
+    },
+    {
+      "@id": "#fayth2",
+      "name": "X-ray crystallography reveals crystal structures",
+      "x": -365,
+      "y": 508,
+      "parent": "#y8kpia"
+    },
+    {
+      "@id": "#3cqq8t",
+      "name": "Electrochemistry",
+      "x": -207,
+      "y": 80,
+      "link": "https://en.wikipedia.org/wiki/Electrochemistry",
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7j7qzf",
+      "name": "Redox reactions move electrons",
+      "x": -330,
+      "y": 245,
+      "parent": "#3cqq8t"
+    },
+    {
+      "@id": "#f42mx2",
+      "name": "Batteries turn chemical energy into electricity",
+      "x": -405,
+      "y": 156,
+      "parent": "#3cqq8t"
+    },
+    {
+      "@id": "#2wimgh",
+      "name": "Electrolysis drives reactions with electricity",
+      "x": -545,
+      "y": 64,
+      "parent": "#3cqq8t"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

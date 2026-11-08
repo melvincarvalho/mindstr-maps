@@ -1,0 +1,297 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Arabic numerals",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#wsezm8",
+      "name": "How they work",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#i8wxpr",
+      "name": "Ten digits, 0 to 9",
+      "x": -443,
+      "y": -63,
+      "parent": "#wsezm8"
+    },
+    {
+      "@id": "#6exw47",
+      "name": "Position sets each digit's value",
+      "x": -390,
+      "y": -180,
+      "parent": "#wsezm8"
+    },
+    {
+      "@id": "#xuu2e8",
+      "name": "Zero holds empty places, as in 205",
+      "x": -289,
+      "y": -276,
+      "parent": "#wsezm8"
+    },
+    {
+      "@id": "#2tdpmk",
+      "name": "Born in India",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xddvm9",
+      "name": "Brahmi numerals gave the digit shapes",
+      "x": -154,
+      "y": -338,
+      "parent": "#2tdpmk"
+    },
+    {
+      "@id": "#q6vu5u",
+      "name": "Place value with zero by 600s",
+      "x": 0,
+      "y": -392,
+      "parent": "#2tdpmk"
+    },
+    {
+      "@id": "#2s3tmb",
+      "name": "Brahmagupta set rules for zero, 628",
+      "x": 203,
+      "y": -443,
+      "link": "https://en.wikipedia.org/wiki/Brahmagupta",
+      "parent": "#2tdpmk"
+    },
+    {
+      "@id": "#f5n6a3",
+      "name": "Through the Islamic world",
+      "x": 199,
+      "y": -92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5gsuqe",
+      "name": "Al-Khwarizmi explained them, about 825",
+      "x": 289,
+      "y": -276,
+      "link": "https://en.wikipedia.org/wiki/Al-Khwarizmi",
+      "parent": "#f5n6a3"
+    },
+    {
+      "@id": "#iy5fjy",
+      "name": "\"Algorithm\" comes from his name",
+      "x": 390,
+      "y": -180,
+      "parent": "#f5n6a3"
+    },
+    {
+      "@id": "#e782vy",
+      "name": "Eastern Arabic digits used in Arab world",
+      "x": 563,
+      "y": -81,
+      "link": "https://en.wikipedia.org/wiki/Eastern_Arabic_numerals",
+      "parent": "#f5n6a3"
+    },
+    {
+      "@id": "#nqdhq7",
+      "name": "Into Europe",
+      "x": 176,
+      "y": 118,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8pjtpb",
+      "name": "Fibonacci's Liber Abaci, 1202",
+      "x": 443,
+      "y": 63,
+      "link": "https://en.wikipedia.org/wiki/Liber_Abaci",
+      "parent": "#nqdhq7"
+    },
+    {
+      "@id": "#psy4wd",
+      "name": "Merchants adopted them for bookkeeping",
+      "x": 390,
+      "y": 180,
+      "parent": "#nqdhq7"
+    },
+    {
+      "@id": "#ybw8bi",
+      "name": "Replaced Roman numerals by about 1500s",
+      "x": 289,
+      "y": 276,
+      "parent": "#nqdhq7"
+    },
+    {
+      "@id": "#8m36np",
+      "name": "Printing fixed the shapes we use",
+      "x": 154,
+      "y": 338,
+      "parent": "#nqdhq7"
+    },
+    {
+      "@id": "#e7gqfi",
+      "name": "Why they won",
+      "x": -79,
+      "y": 173,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rsxamg",
+      "name": "Easy written addition and multiplication",
+      "x": 0,
+      "y": 392,
+      "parent": "#e7gqfi"
+    },
+    {
+      "@id": "#fd3n67",
+      "name": "Any number from just ten symbols",
+      "x": -203,
+      "y": 443,
+      "parent": "#e7gqfi"
+    },
+    {
+      "@id": "#kzae87",
+      "name": "Extend naturally to decimal fractions",
+      "x": -289,
+      "y": 276,
+      "parent": "#e7gqfi"
+    },
+    {
+      "@id": "#2h9d6i",
+      "name": "Today",
+      "x": -216,
+      "y": 63,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k48b9i",
+      "name": "Used worldwide in nearly every script",
+      "x": -390,
+      "y": 180,
+      "parent": "#2h9d6i"
+    },
+    {
+      "@id": "#er9srf",
+      "name": "Same system underlies binary and computing",
+      "x": -483,
+      "y": 69,
+      "parent": "#2h9d6i"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    }
+  ],
+  "selectedNode": 0
+}

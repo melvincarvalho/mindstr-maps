@@ -1,0 +1,30 @@
+category: Society
+aliases: history of slavery, chattel slavery, abolition of slavery
+- Slavery
+  - What slavery is
+    - People owned as property
+    - Forced labour without pay or freedom
+    - Status often inherited by children
+  - Ancient world
+    - Mesopotamia, Egypt and the Code of Hammurabi
+    - Greece and Rome relied on slave labour
+    - Captives of war often enslaved
+  - [Atlantic slave trade](https://en.wikipedia.org/wiki/Atlantic_slave_trade)
+    - About 12.5 million Africans shipped, 1500s–1860s
+    - Middle Passage killed many in transit
+    - Plantations of sugar, cotton and tobacco
+    - Racial ideology used to justify it
+  - Other systems
+    - [Arab and trans-Saharan slave trades](https://en.wikipedia.org/wiki/Arab_slave_trade)
+    - Serfdom in Russia until 1861
+    - Indian Ocean and Asian slavery
+  - Abolition
+    - Haitian Revolution, 1791–1804
+    - [Britain's Slavery Abolition Act, 1833](https://en.wikipedia.org/wiki/Slavery_Abolition_Act_1833)
+    - US Thirteenth Amendment, 1865
+    - Brazil last in Americas, 1888
+    - Mauritania criminalised it in 2007
+  - Legacy and today
+    - [Modern slavery: trafficking, forced labour](https://en.wikipedia.org/wiki/Modern_slavery)
+    - Tens of millions still estimated enslaved
+    - Debates over reparations and memorials

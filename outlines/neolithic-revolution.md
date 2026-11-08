@@ -1,0 +1,30 @@
+category: History
+aliases: agricultural revolution, first agricultural revolution, invention of farming, origins of agriculture
+- Neolithic Revolution
+  - What it was
+    - Shift from foraging to farming
+    - Began about 10,000 BC
+    - Took thousands of years, not one event
+  - [Where farming began](https://en.wikipedia.org/wiki/Fertile_Crescent)
+    - Fertile Crescent: wheat, barley, lentils
+    - China: rice and millet
+    - Mesoamerica: maize, beans, squash
+    - New Guinea, Andes and Africa independently
+  - Domesticated plants and animals
+    - Seeds selected for bigger, non-shattering grains
+    - [Dogs domesticated first, before farming](https://en.wikipedia.org/wiki/Domestication_of_the_dog)
+    - Sheep, goats, cattle and pigs
+  - Why it happened
+    - Warmer, stable climate after the Ice Age
+    - Population pressure on wild food
+    - Settled foragers already harvesting wild grain
+  - How life changed
+    - [Permanent villages like Çatalhöyük](https://en.wikipedia.org/wiki/%C3%87atalh%C3%B6y%C3%BCk)
+    - Pottery, polished stone and weaving
+    - Food surplus allowed larger populations
+    - Property, inequality and specialised jobs
+  - Costs and legacy
+    - Poorer diets, more disease from animals
+    - More work than hunting and gathering
+    - Led to cities, writing and states
+    - [Göbekli Tepe predates farming villages](https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe)

@@ -1,0 +1,30 @@
+category: Health
+aliases: pregnant, stages of pregnancy, pregnancy week by week
+- Pregnancy
+  - Getting started
+    - [Fertilised egg implants in the uterus](https://en.wikipedia.org/wiki/Implantation_%28embryology%29)
+    - Early signs: missed period, nausea, tiredness
+    - Home tests detect the hormone hCG
+    - Lasts about 40 weeks from last period
+  - First trimester
+    - Organs and heartbeat begin forming
+    - [Morning sickness is common](https://en.wikipedia.org/wiki/Morning_sickness)
+    - Most miscarriages happen in these weeks
+  - Second trimester
+    - Baby's movements first felt
+    - Anatomy scan around 20 weeks
+    - Energy often returns
+  - Third trimester
+    - Rapid growth and weight gain
+    - Baby usually turns head-down
+    - Full term from 37 weeks
+  - Care and healthy habits
+    - [Regular antenatal check-ups](https://en.wikipedia.org/wiki/Prenatal_care)
+    - Folic acid before and in early pregnancy
+    - No alcohol or smoking
+    - Check before taking any medicines
+  - Birth and when to get help
+    - [Labour: contractions, birth, then placenta](https://en.wikipedia.org/wiki/Childbirth)
+    - Urgent: bleeding, severe pain, leaking fluid
+    - Urgent: fewer baby movements, bad headache
+    - [Pre-eclampsia needs prompt treatment](https://en.wikipedia.org/wiki/Pre-eclampsia)

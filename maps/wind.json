@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Wind",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#cznfsv",
+      "name": "What causes wind",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gtbggb",
+      "name": "Sun heats Earth unevenly",
+      "x": -445,
+      "y": -51,
+      "parent": "#cznfsv"
+    },
+    {
+      "@id": "#ia9d7h",
+      "name": "Air flows from high to low pressure",
+      "x": -409,
+      "y": -150,
+      "parent": "#cznfsv"
+    },
+    {
+      "@id": "#ssdq7p",
+      "name": "Earth's spin deflects winds",
+      "x": -340,
+      "y": -236,
+      "link": "https://en.wikipedia.org/wiki/Coriolis_force",
+      "parent": "#cznfsv"
+    },
+    {
+      "@id": "#g4chfb",
+      "name": "Friction slows wind near the ground",
+      "x": -243,
+      "y": -303,
+      "parent": "#cznfsv"
+    },
+    {
+      "@id": "#bsgib5",
+      "name": "Global wind patterns",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#69cque",
+      "name": "Trade winds blow toward the equator",
+      "x": -133,
+      "y": -360,
+      "link": "https://en.wikipedia.org/wiki/Trade_winds",
+      "parent": "#bsgib5"
+    },
+    {
+      "@id": "#343ucn",
+      "name": "Westerlies across the mid-latitudes",
+      "x": 0,
+      "y": -408,
+      "parent": "#bsgib5"
+    },
+    {
+      "@id": "#hbk9qm",
+      "name": "Jet streams high in the atmosphere",
+      "x": 175,
+      "y": -465,
+      "parent": "#bsgib5"
+    },
+    {
+      "@id": "#icg7xw",
+      "name": "Local winds",
+      "x": 193,
+      "y": -99,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uvg6k3",
+      "name": "Sea breezes on warm days",
+      "x": 243,
+      "y": -303,
+      "parent": "#icg7xw"
+    },
+    {
+      "@id": "#8bja9v",
+      "name": "Mountain and valley breezes",
+      "x": 340,
+      "y": -236,
+      "parent": "#icg7xw"
+    },
+    {
+      "@id": "#kzik2q",
+      "name": "Warm dry foehn winds downslope",
+      "x": 409,
+      "y": -150,
+      "parent": "#icg7xw"
+    },
+    {
+      "@id": "#xsfwb6",
+      "name": "Monsoon winds reverse with seasons",
+      "x": 445,
+      "y": -51,
+      "parent": "#icg7xw"
+    },
+    {
+      "@id": "#hi7tqj",
+      "name": "Measuring wind",
+      "x": 193,
+      "y": 99,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#q3gens",
+      "name": "Anemometer measures speed",
+      "x": 445,
+      "y": 51,
+      "parent": "#hi7tqj"
+    },
+    {
+      "@id": "#h45uiz",
+      "name": "Wind vane shows direction",
+      "x": 409,
+      "y": 150,
+      "parent": "#hi7tqj"
+    },
+    {
+      "@id": "#abvsy9",
+      "name": "Beaufort scale: calm to hurricane",
+      "x": 340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/Beaufort_scale",
+      "parent": "#hi7tqj"
+    },
+    {
+      "@id": "#zkqyav",
+      "name": "Named by direction it comes from",
+      "x": 243,
+      "y": 303,
+      "parent": "#hi7tqj"
+    },
+    {
+      "@id": "#esf8q5",
+      "name": "Uses and impacts",
+      "x": -33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#94vhdp",
+      "name": "Wind turbines generate electricity",
+      "x": 133,
+      "y": 360,
+      "link": "https://en.wikipedia.org/wiki/Wind_power",
+      "parent": "#esf8q5"
+    },
+    {
+      "@id": "#s7du8u",
+      "name": "Powered sailing ships for millennia",
+      "x": 0,
+      "y": 408,
+      "parent": "#esf8q5"
+    },
+    {
+      "@id": "#n6m2ig",
+      "name": "Spreads seeds, pollen and dust",
+      "x": -175,
+      "y": 465,
+      "parent": "#esf8q5"
+    },
+    {
+      "@id": "#6d9nai",
+      "name": "Wind chill makes cold feel colder",
+      "x": -243,
+      "y": 303,
+      "parent": "#esf8q5"
+    },
+    {
+      "@id": "#2aitxy",
+      "name": "High winds safety",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yixtt5",
+      "name": "Follow official wind warnings",
+      "x": -340,
+      "y": 236,
+      "parent": "#2aitxy"
+    },
+    {
+      "@id": "#mah79x",
+      "name": "Avoid trees and loose structures",
+      "x": -409,
+      "y": 150,
+      "parent": "#2aitxy"
+    },
+    {
+      "@id": "#97yf88",
+      "name": "Drive carefully in high-sided vehicles",
+      "x": -525,
+      "y": 59,
+      "parent": "#2aitxy"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

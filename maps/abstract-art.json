@@ -1,0 +1,318 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Abstract art",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#5j563v",
+      "name": "The core idea",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2kwa9g",
+      "name": "Does not depict recognisable things",
+      "x": -484,
+      "y": -60,
+      "parent": "#5j563v"
+    },
+    {
+      "@id": "#ch4nys",
+      "name": "Colour, shape and line are the subject",
+      "x": -401,
+      "y": -163,
+      "parent": "#5j563v"
+    },
+    {
+      "@id": "#yai49x",
+      "name": "Ranges from stylised to wholly non-objective",
+      "x": -318,
+      "y": -255,
+      "parent": "#5j563v"
+    },
+    {
+      "@id": "#xmbczj",
+      "name": "Pioneers, about 1910 to 1920",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pq56w7",
+      "name": "Wassily Kandinsky linked colour to music",
+      "x": -204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Wassily_Kandinsky",
+      "parent": "#xmbczj"
+    },
+    {
+      "@id": "#utj6ej",
+      "name": "Hilma af Klint's abstract paintings from 1906",
+      "x": -73,
+      "y": -372,
+      "parent": "#xmbczj"
+    },
+    {
+      "@id": "#dfsm5r",
+      "name": "Kazimir Malevich's Black Square, 1915",
+      "x": 82,
+      "y": -420,
+      "parent": "#xmbczj"
+    },
+    {
+      "@id": "#eza6r4",
+      "name": "Piet Mondrian's grids of primary colours",
+      "x": 303,
+      "y": -475,
+      "parent": "#xmbczj"
+    },
+    {
+      "@id": "#ckpj6f",
+      "name": "Roots",
+      "x": 205,
+      "y": -84,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4984yx",
+      "name": "Cubism broke objects into facets",
+      "x": 318,
+      "y": -255,
+      "parent": "#ckpj6f"
+    },
+    {
+      "@id": "#vwd9z9",
+      "name": "Fauvism freed colour from nature",
+      "x": 401,
+      "y": -163,
+      "parent": "#ckpj6f"
+    },
+    {
+      "@id": "#kk82dh",
+      "name": "Photography took over realistic depiction",
+      "x": 484,
+      "y": -60,
+      "parent": "#ckpj6f"
+    },
+    {
+      "@id": "#yfxrw3",
+      "name": "Major movements",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vv2kqf",
+      "name": "Suprematism and Constructivism in Russia",
+      "x": 444,
+      "y": 56,
+      "link": "https://en.wikipedia.org/wiki/Suprematism",
+      "parent": "#yfxrw3"
+    },
+    {
+      "@id": "#kjzj2h",
+      "name": "De Stijl in the Netherlands",
+      "x": 401,
+      "y": 163,
+      "parent": "#yfxrw3"
+    },
+    {
+      "@id": "#b2wpg6",
+      "name": "Abstract Expressionism in 1940s New York",
+      "x": 318,
+      "y": 255,
+      "parent": "#yfxrw3"
+    },
+    {
+      "@id": "#g5pnsx",
+      "name": "Minimalism in the 1960s",
+      "x": 204,
+      "y": 321,
+      "parent": "#yfxrw3"
+    },
+    {
+      "@id": "#d5jdek",
+      "name": "Key postwar artists",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ci5bmq",
+      "name": "Jackson Pollock's drip paintings",
+      "x": 73,
+      "y": 372,
+      "link": "https://en.wikipedia.org/wiki/Jackson_Pollock",
+      "parent": "#d5jdek"
+    },
+    {
+      "@id": "#xij77s",
+      "name": "Mark Rothko's glowing colour fields",
+      "x": -82,
+      "y": 420,
+      "parent": "#d5jdek"
+    },
+    {
+      "@id": "#zbuh9a",
+      "name": "Helen Frankenthaler's soak-stain technique",
+      "x": -204,
+      "y": 321,
+      "parent": "#d5jdek"
+    },
+    {
+      "@id": "#bgwhb3",
+      "name": "How to approach it",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v3agaq",
+      "name": "Respond to mood before meaning",
+      "x": -318,
+      "y": 255,
+      "parent": "#bgwhb3"
+    },
+    {
+      "@id": "#h5crft",
+      "name": "Notice scale, texture and brushwork",
+      "x": -401,
+      "y": 163,
+      "parent": "#bgwhb3"
+    },
+    {
+      "@id": "#8rii9v",
+      "name": "Read the title for clues",
+      "x": -464,
+      "y": 58,
+      "parent": "#bgwhb3"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

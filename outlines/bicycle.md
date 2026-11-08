@@ -1,0 +1,32 @@
+category: Technology
+aliases: bike, how bicycles work, history of the bicycle
+- Bicycle
+  - How it works
+    - Pedals drive a chain to back wheel
+    - Gears trade speed for easier pedalling
+    - Steering and lean keep it balanced
+    - Brakes squeeze the rim or a disc
+  - Main parts
+    - Frame of steel, aluminium or carbon
+    - Wheels with spokes and air-filled tyres
+    - Saddle, handlebars and drivetrain
+  - History
+    - [1817 Draisine had no pedals](https://en.wikipedia.org/wiki/Dandy_horse)
+    - 1860s pedal velocipede on the front wheel
+    - [Penny-farthing's huge front wheel, 1870s](https://en.wikipedia.org/wiki/Penny-farthing)
+    - [1885 safety bicycle set modern shape](https://en.wikipedia.org/wiki/Safety_bicycle)
+    - Pneumatic tyres arrived around 1888
+  - Kinds of bike
+    - Road bikes for speed on tarmac
+    - Mountain bikes for rough trails
+    - Folding and cargo bikes for town
+    - [E-bikes add a battery motor](https://en.wikipedia.org/wiki/Electric_bicycle)
+  - Why people ride
+    - Most energy-efficient way to travel
+    - No fuel, little noise, cheap upkeep
+    - Exercise built into the commute
+    - Over a billion bicycles worldwide
+  - Riding safely
+    - Helmet, lights and visible clothing
+    - Check tyres, brakes and chain
+    - Bike lanes separate riders from traffic

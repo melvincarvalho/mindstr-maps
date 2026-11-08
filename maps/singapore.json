@@ -1,0 +1,374 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Singapore",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#3bvtc6",
+      "name": "Setting",
+      "x": -202,
+      "y": -89,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#at5zhp",
+      "name": "Island city-state off Malay Peninsula",
+      "x": -466,
+      "y": -47,
+      "parent": "#3bvtc6"
+    },
+    {
+      "@id": "#v95bse",
+      "name": "About 730 km², grown by land reclamation",
+      "x": -437,
+      "y": -139,
+      "parent": "#3bvtc6"
+    },
+    {
+      "@id": "#3r7nyb",
+      "name": "About 6 million people",
+      "x": -364,
+      "y": -212,
+      "parent": "#3bvtc6"
+    },
+    {
+      "@id": "#83pbcm",
+      "name": "Hot, humid and rainy all year",
+      "x": -287,
+      "y": -277,
+      "parent": "#3bvtc6"
+    },
+    {
+      "@id": "#imv96s",
+      "name": "History",
+      "x": 14,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#be62f8",
+      "name": "Raffles set up British trading post, 1819",
+      "x": -192,
+      "y": -326,
+      "link": "https://en.wikipedia.org/wiki/Founding_of_modern_Singapore",
+      "parent": "#imv96s"
+    },
+    {
+      "@id": "#vrqr4z",
+      "name": "Japanese occupation 1942–1945",
+      "x": -92,
+      "y": -386,
+      "parent": "#imv96s"
+    },
+    {
+      "@id": "#e66ycq",
+      "name": "Part of Malaysia from 1963",
+      "x": 33,
+      "y": -439,
+      "parent": "#imv96s"
+    },
+    {
+      "@id": "#revmxd",
+      "name": "Independent on 9 August 1965",
+      "x": 199,
+      "y": -492,
+      "parent": "#imv96s"
+    },
+    {
+      "@id": "#nks8dr",
+      "name": "Lee Kuan Yew prime minister 1959–1990",
+      "x": 241,
+      "y": -304,
+      "link": "https://en.wikipedia.org/wiki/Lee_Kuan_Yew",
+      "parent": "#imv96s"
+    },
+    {
+      "@id": "#f3b5pd",
+      "name": "People",
+      "x": 202,
+      "y": -89,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bnxq4v",
+      "name": "Mainly Chinese, Malay and Indian",
+      "x": 328,
+      "y": -246,
+      "parent": "#f3b5pd"
+    },
+    {
+      "@id": "#2t6v94",
+      "name": "English, Malay, Mandarin and Tamil official",
+      "x": 394,
+      "y": -173,
+      "parent": "#f3b5pd"
+    },
+    {
+      "@id": "#jyf8vj",
+      "name": "About 80% live in public HDB flats",
+      "x": 436,
+      "y": -90,
+      "parent": "#f3b5pd"
+    },
+    {
+      "@id": "#mw45hx",
+      "name": "Government and economy",
+      "x": 202,
+      "y": 89,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6gvjv6",
+      "name": "People's Action Party governing since 1959",
+      "x": 450,
+      "y": 0,
+      "parent": "#mw45hx"
+    },
+    {
+      "@id": "#4ugpnf",
+      "name": "Among the world's busiest container ports",
+      "x": 550,
+      "y": 114,
+      "parent": "#mw45hx"
+    },
+    {
+      "@id": "#ey9gm4",
+      "name": "Global finance and trade hub",
+      "x": 394,
+      "y": 173,
+      "parent": "#mw45hx"
+    },
+    {
+      "@id": "#tekn5n",
+      "name": "One of the highest GDPs per person",
+      "x": 328,
+      "y": 246,
+      "parent": "#mw45hx"
+    },
+    {
+      "@id": "#4dg7f5",
+      "name": "Changi Airport",
+      "x": 241,
+      "y": 304,
+      "parent": "#mw45hx"
+    },
+    {
+      "@id": "#9yhzn7",
+      "name": "Landmarks",
+      "x": -43,
+      "y": 181,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cemxqd",
+      "name": "Marina Bay Sands",
+      "x": 145,
+      "y": 357,
+      "parent": "#9yhzn7"
+    },
+    {
+      "@id": "#c6ac4a",
+      "name": "Gardens by the Bay's Supertrees",
+      "x": 31,
+      "y": 407,
+      "link": "https://en.wikipedia.org/wiki/Gardens_by_the_Bay",
+      "parent": "#9yhzn7"
+    },
+    {
+      "@id": "#emhwyx",
+      "name": "Merlion statue",
+      "x": -84,
+      "y": 354,
+      "parent": "#9yhzn7"
+    },
+    {
+      "@id": "#na2av4",
+      "name": "Botanic Gardens, a World Heritage Site",
+      "x": -282,
+      "y": 466,
+      "parent": "#9yhzn7"
+    },
+    {
+      "@id": "#mapbfw",
+      "name": "Sentosa island resort",
+      "x": -287,
+      "y": 277,
+      "parent": "#9yhzn7"
+    },
+    {
+      "@id": "#fa8b92",
+      "name": "Culture",
+      "x": -214,
+      "y": 68,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#53mejz",
+      "name": "Hawker centres, UNESCO-listed food culture",
+      "x": -364,
+      "y": 212,
+      "link": "https://en.wikipedia.org/wiki/Hawker_centre",
+      "parent": "#fa8b92"
+    },
+    {
+      "@id": "#p85qjp",
+      "name": "Chilli crab and Hainanese chicken rice",
+      "x": -418,
+      "y": 133,
+      "parent": "#fa8b92"
+    },
+    {
+      "@id": "#kmdcjk",
+      "name": "Singlish, the local English",
+      "x": -446,
+      "y": 45,
+      "parent": "#fa8b92"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 6,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 16,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    },
+    {
+      "start": 22,
+      "end": 27
+    },
+    {
+      "start": 0,
+      "end": 28
+    },
+    {
+      "start": 28,
+      "end": 29
+    },
+    {
+      "start": 28,
+      "end": 30
+    },
+    {
+      "start": 28,
+      "end": 31
+    }
+  ],
+  "selectedNode": 0
+}

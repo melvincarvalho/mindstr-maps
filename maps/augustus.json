@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Augustus",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#rdng4x",
+      "name": "Who he was",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mzy3pe",
+      "name": "Born Gaius Octavius in 63 BC",
+      "x": -445,
+      "y": -54,
+      "parent": "#rdng4x"
+    },
+    {
+      "@id": "#tz4hbn",
+      "name": "Great-nephew of Julius Caesar",
+      "x": -405,
+      "y": -156,
+      "parent": "#rdng4x"
+    },
+    {
+      "@id": "#xdcb6i",
+      "name": "Adopted as heir in Caesar's will",
+      "x": -330,
+      "y": -245,
+      "parent": "#rdng4x"
+    },
+    {
+      "@id": "#anvxxk",
+      "name": "Road to power",
+      "x": -51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g5e3p8",
+      "name": "Second Triumvirate with Antony and Lepidus",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Second_Triumvirate",
+      "parent": "#anvxxk"
+    },
+    {
+      "@id": "#f7ahpn",
+      "name": "Beat Caesar's assassins at Philippi, 42 BC",
+      "x": -104,
+      "y": -367,
+      "parent": "#anvxxk"
+    },
+    {
+      "@id": "#xkvsrj",
+      "name": "Defeated Antony and Cleopatra at Actium",
+      "x": 42,
+      "y": -423,
+      "parent": "#anvxxk"
+    },
+    {
+      "@id": "#nhqa59",
+      "name": "First Roman emperor",
+      "x": 169,
+      "y": -125,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aqpadg",
+      "name": "Took the name Augustus in 27 BC",
+      "x": 234,
+      "y": -485,
+      "parent": "#nhqa59"
+    },
+    {
+      "@id": "#ebcaf4",
+      "name": "Called himself princeps, first citizen",
+      "x": 281,
+      "y": -281,
+      "parent": "#nhqa59"
+    },
+    {
+      "@id": "#8gpmn9",
+      "name": "Kept the Senate's outward forms",
+      "x": 372,
+      "y": -203,
+      "parent": "#nhqa59"
+    },
+    {
+      "@id": "#d7gr4a",
+      "name": "Ruled 41 years, until AD 14",
+      "x": 430,
+      "y": -106,
+      "parent": "#nhqa59"
+    },
+    {
+      "@id": "#8pwwtn",
+      "name": "Reforms",
+      "x": 207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#94nf96",
+      "name": "Created a standing professional army",
+      "x": 450,
+      "y": 0,
+      "parent": "#8pwwtn"
+    },
+    {
+      "@id": "#xh3xrv",
+      "name": "Founded the Praetorian Guard",
+      "x": 430,
+      "y": 106,
+      "parent": "#8pwwtn"
+    },
+    {
+      "@id": "#8bepgs",
+      "name": "Ran census and tax reforms",
+      "x": 372,
+      "y": 203,
+      "parent": "#8pwwtn"
+    },
+    {
+      "@id": "#tkmzqb",
+      "name": "Rebuilt Rome in marble",
+      "x": 281,
+      "y": 281,
+      "parent": "#8pwwtn"
+    },
+    {
+      "@id": "#pnqpi4",
+      "name": "Pax Romana",
+      "x": 17,
+      "y": 183,
+      "link": "https://en.wikipedia.org/wiki/Pax_Romana",
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hmz5r5",
+      "name": "About 200 years of relative peace",
+      "x": 164,
+      "y": 335,
+      "parent": "#pnqpi4"
+    },
+    {
+      "@id": "#j6572e",
+      "name": "Expanded empire to Egypt and Danube",
+      "x": 38,
+      "y": 391,
+      "parent": "#pnqpi4"
+    },
+    {
+      "@id": "#hmhx9i",
+      "name": "Lost three legions in Teutoburg Forest",
+      "x": -124,
+      "y": 447,
+      "parent": "#pnqpi4"
+    },
+    {
+      "@id": "#da3277",
+      "name": "Legacy",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fagntc",
+      "name": "Res Gestae lists his achievements",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wikipedia.org/wiki/Res_Gestae_Divi_Augusti",
+      "parent": "#da3277"
+    },
+    {
+      "@id": "#t98sea",
+      "name": "Stepson Tiberius succeeded him",
+      "x": -330,
+      "y": 245,
+      "parent": "#da3277"
+    },
+    {
+      "@id": "#2axti6",
+      "name": "Month of August named after him",
+      "x": -405,
+      "y": 156,
+      "parent": "#da3277"
+    },
+    {
+      "@id": "#sv2dx3",
+      "name": "Founded the Roman Empire",
+      "x": -445,
+      "y": 54,
+      "link": "https://en.wikipedia.org/wiki/Roman_Empire",
+      "parent": "#da3277"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Muscle",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#axseky",
+      "name": "Three types of muscle",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vjutd6",
+      "name": "Skeletal muscle moves bones, voluntary",
+      "x": -545,
+      "y": -61,
+      "link": "https://en.wikipedia.org/wiki/Skeletal_muscle",
+      "parent": "#axseky"
+    },
+    {
+      "@id": "#z5z498",
+      "name": "Cardiac muscle pumps the heart",
+      "x": -409,
+      "y": -150,
+      "link": "https://en.wikipedia.org/wiki/Cardiac_muscle",
+      "parent": "#axseky"
+    },
+    {
+      "@id": "#h5j3fp",
+      "name": "Smooth muscle lines gut and vessels",
+      "x": -340,
+      "y": -236,
+      "parent": "#axseky"
+    },
+    {
+      "@id": "#ndnzk3",
+      "name": "How a muscle contracts",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4j3apv",
+      "name": "Nerve signal triggers calcium release",
+      "x": -243,
+      "y": -303,
+      "parent": "#ndnzk3"
+    },
+    {
+      "@id": "#bvd26r",
+      "name": "Actin and myosin filaments slide together",
+      "x": -133,
+      "y": -360,
+      "link": "https://en.wikipedia.org/wiki/Sliding_filament_theory",
+      "parent": "#ndnzk3"
+    },
+    {
+      "@id": "#mq8xpz",
+      "name": "Muscles can only pull, never push",
+      "x": 0,
+      "y": -408,
+      "parent": "#ndnzk3"
+    },
+    {
+      "@id": "#587nt8",
+      "name": "Pairs work opposite, like biceps, triceps",
+      "x": 175,
+      "y": -465,
+      "parent": "#ndnzk3"
+    },
+    {
+      "@id": "#phe6rz",
+      "name": "Structure",
+      "x": 174,
+      "y": -120,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#iqesj6",
+      "name": "Fibres bundled inside the muscle",
+      "x": 243,
+      "y": -303,
+      "parent": "#phe6rz"
+    },
+    {
+      "@id": "#xdwrrt",
+      "name": "Tendons attach muscle to bone",
+      "x": 340,
+      "y": -236,
+      "parent": "#phe6rz"
+    },
+    {
+      "@id": "#rhzkug",
+      "name": "About 600 skeletal muscles in body",
+      "x": 427,
+      "y": -157,
+      "parent": "#phe6rz"
+    },
+    {
+      "@id": "#wa6urj",
+      "name": "Energy and fatigue",
+      "x": 221,
+      "y": 52,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2jjxgc",
+      "name": "ATP powers every contraction",
+      "x": 445,
+      "y": -51,
+      "parent": "#wa6urj"
+    },
+    {
+      "@id": "#m4659i",
+      "name": "Oxygen-rich aerobic work for endurance",
+      "x": 525,
+      "y": 59,
+      "parent": "#wa6urj"
+    },
+    {
+      "@id": "#559aqf",
+      "name": "Anaerobic bursts for sprints and lifts",
+      "x": 409,
+      "y": 150,
+      "parent": "#wa6urj"
+    },
+    {
+      "@id": "#ism4an",
+      "name": "Slow-twitch versus fast-twitch fibres",
+      "x": 340,
+      "y": 236,
+      "parent": "#wa6urj"
+    },
+    {
+      "@id": "#nkn99n",
+      "name": "Common problems",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kq6pvp",
+      "name": "Strains from overstretched fibres",
+      "x": 243,
+      "y": 303,
+      "parent": "#nkn99n"
+    },
+    {
+      "@id": "#jnjqvk",
+      "name": "Cramps: sudden involuntary tightening",
+      "x": 133,
+      "y": 360,
+      "parent": "#nkn99n"
+    },
+    {
+      "@id": "#pk49hd",
+      "name": "Sarcopenia: muscle loss with age",
+      "x": 0,
+      "y": 408,
+      "link": "https://en.wikipedia.org/wiki/Sarcopenia",
+      "parent": "#nkn99n"
+    },
+    {
+      "@id": "#xdazvi",
+      "name": "Muscular dystrophy is genetic weakening",
+      "x": -175,
+      "y": 465,
+      "parent": "#nkn99n"
+    },
+    {
+      "@id": "#g6uztz",
+      "name": "Keeping muscles healthy",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qf2yzi",
+      "name": "Strength exercise at least twice weekly",
+      "x": -243,
+      "y": 303,
+      "parent": "#g6uztz"
+    },
+    {
+      "@id": "#pvbzdy",
+      "name": "Enough protein spread across meals",
+      "x": -340,
+      "y": 236,
+      "parent": "#g6uztz"
+    },
+    {
+      "@id": "#tankat",
+      "name": "Warm up and build load gradually",
+      "x": -409,
+      "y": 150,
+      "parent": "#g6uztz"
+    },
+    {
+      "@id": "#52xyxt",
+      "name": "Rest lets fibres repair stronger",
+      "x": -445,
+      "y": 51,
+      "parent": "#g6uztz"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

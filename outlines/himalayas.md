@@ -1,0 +1,28 @@
+category: Geography
+aliases: himalaya, himalayan mountains, himalayan range
+- Himalayas
+  - Where they are
+    - Arc about 2,400 km long
+    - Across Nepal, India, Bhutan, China, Pakistan
+    - Separate Tibetan Plateau from Indian plains
+  - How they formed
+    - [India hit Asia ~50 million years ago](https://en.wikipedia.org/wiki/Geology_of_the_Himalayas)
+    - Still rising a few mm yearly
+    - Earthquakes are a constant risk
+  - Highest peaks
+    - [Mount Everest, 8,849 m](https://en.wikipedia.org/wiki/Mount_Everest)
+    - Kangchenjunga, third highest
+    - Most of the world's 8,000 m peaks
+  - Water tower of Asia
+    - Thousands of glaciers
+    - Feed the Ganges, Indus and Brahmaputra
+    - Rivers support over a billion people
+    - Monsoon rains fall on southern slopes
+  - People and culture
+    - [Sherpa people famed as climbers](https://en.wikipedia.org/wiki/Sherpa_people)
+    - Sacred in Hinduism and Buddhism
+    - Name means "abode of snow" in Sanskrit
+  - Challenges
+    - Glaciers melting with warming
+    - Glacial lake floods threaten valleys
+    - Crowding and litter on Everest

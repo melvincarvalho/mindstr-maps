@@ -1,0 +1,374 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Tokyo",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ndcnw2",
+      "name": "Setting",
+      "x": -202,
+      "y": -89,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gq5hta",
+      "name": "Capital of Japan, on Tokyo Bay",
+      "x": -446,
+      "y": -45,
+      "parent": "#ndcnw2"
+    },
+    {
+      "@id": "#icjxu7",
+      "name": "On the Kantō Plain of Honshu",
+      "x": -418,
+      "y": -133,
+      "parent": "#ndcnw2"
+    },
+    {
+      "@id": "#dtawv7",
+      "name": "Greater Tokyo about 37 million people",
+      "x": -364,
+      "y": -212,
+      "parent": "#ndcnw2"
+    },
+    {
+      "@id": "#jt2ix5",
+      "name": "World's most populous metropolitan area",
+      "x": -287,
+      "y": -277,
+      "parent": "#ndcnw2"
+    },
+    {
+      "@id": "#zu8uuu",
+      "name": "History",
+      "x": 14,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xkfa3n",
+      "name": "Grew from Edo, the shoguns' seat",
+      "x": -192,
+      "y": -326,
+      "link": "https://en.wikipedia.org/wiki/Edo",
+      "parent": "#zu8uuu"
+    },
+    {
+      "@id": "#ra5xsu",
+      "name": "Renamed Tokyo in 1868 as emperor moved",
+      "x": -92,
+      "y": -386,
+      "parent": "#zu8uuu"
+    },
+    {
+      "@id": "#s62a6r",
+      "name": "1923 Great Kantō earthquake",
+      "x": 33,
+      "y": -439,
+      "link": "https://en.wikipedia.org/wiki/1923_Great_Kant%C5%8D_earthquake",
+      "parent": "#zu8uuu"
+    },
+    {
+      "@id": "#z2vsi8",
+      "name": "Firebombed in 1945, rebuilt quickly",
+      "x": 199,
+      "y": -492,
+      "parent": "#zu8uuu"
+    },
+    {
+      "@id": "#gcfyfg",
+      "name": "Olympics in 1964 and 2021",
+      "x": 241,
+      "y": -304,
+      "parent": "#zu8uuu"
+    },
+    {
+      "@id": "#mw967g",
+      "name": "Economy",
+      "x": 214,
+      "y": -68,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cby84m",
+      "name": "One of the world's largest city economies",
+      "x": 328,
+      "y": -246,
+      "parent": "#mw967g"
+    },
+    {
+      "@id": "#wdibgf",
+      "name": "Headquarters of Japan's biggest companies",
+      "x": 394,
+      "y": -173,
+      "parent": "#mw967g"
+    },
+    {
+      "@id": "#9ksih4",
+      "name": "Tokyo Stock Exchange",
+      "x": 436,
+      "y": -90,
+      "parent": "#mw967g"
+    },
+    {
+      "@id": "#xgh75w",
+      "name": "Shinjuku, the world's busiest station",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Shinjuku_Station",
+      "parent": "#mw967g"
+    },
+    {
+      "@id": "#cvj8fs",
+      "name": "Landmarks",
+      "x": 168,
+      "y": 126,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ksymct",
+      "name": "Imperial Palace on the old castle",
+      "x": 436,
+      "y": 90,
+      "parent": "#cvj8fs"
+    },
+    {
+      "@id": "#hcjrzs",
+      "name": "Sensō-ji temple in Asakusa",
+      "x": 394,
+      "y": 173,
+      "parent": "#cvj8fs"
+    },
+    {
+      "@id": "#dtnpuv",
+      "name": "Meiji Shrine and its forest",
+      "x": 328,
+      "y": 246,
+      "parent": "#cvj8fs"
+    },
+    {
+      "@id": "#4v7eue",
+      "name": "Tokyo Skytree, 634 metres tall",
+      "x": 241,
+      "y": 304,
+      "parent": "#cvj8fs"
+    },
+    {
+      "@id": "#5vafm3",
+      "name": "Shibuya's scramble crossing",
+      "x": 145,
+      "y": 357,
+      "parent": "#cvj8fs"
+    },
+    {
+      "@id": "#gad57n",
+      "name": "Culture",
+      "x": -71,
+      "y": 175,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wygiav",
+      "name": "Akihabara for anime and electronics",
+      "x": 31,
+      "y": 407,
+      "parent": "#gad57n"
+    },
+    {
+      "@id": "#sipss2",
+      "name": "More Michelin-starred restaurants than anywhere",
+      "x": -112,
+      "y": 466,
+      "parent": "#gad57n"
+    },
+    {
+      "@id": "#iey4nh",
+      "name": "Sumo tournaments at Ryōgoku",
+      "x": -192,
+      "y": 326,
+      "link": "https://en.wikipedia.org/wiki/Ry%C5%8Dgoku_Kokugikan",
+      "parent": "#gad57n"
+    },
+    {
+      "@id": "#w2y66v",
+      "name": "Cherry blossom picnics each spring",
+      "x": -287,
+      "y": 277,
+      "parent": "#gad57n"
+    },
+    {
+      "@id": "#5wzjqp",
+      "name": "Living there",
+      "x": -214,
+      "y": 68,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5umgi9",
+      "name": "Very safe, clean and orderly",
+      "x": -364,
+      "y": 212,
+      "parent": "#5wzjqp"
+    },
+    {
+      "@id": "#m4j645",
+      "name": "Trains famously punctual",
+      "x": -418,
+      "y": 133,
+      "parent": "#5wzjqp"
+    },
+    {
+      "@id": "#ex8bip",
+      "name": "Earthquake preparedness part of daily life",
+      "x": -526,
+      "y": 53,
+      "parent": "#5wzjqp"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 6,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 12,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 17,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    },
+    {
+      "start": 0,
+      "end": 28
+    },
+    {
+      "start": 28,
+      "end": 29
+    },
+    {
+      "start": 28,
+      "end": 30
+    },
+    {
+      "start": 28,
+      "end": 31
+    }
+  ],
+  "selectedNode": 0
+}

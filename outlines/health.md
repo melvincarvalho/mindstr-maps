@@ -1,0 +1,29 @@
+category: Health
+aliases: human health, good health, staying healthy, what is health
+- Health
+  - What health means
+    - [WHO: complete physical, mental, social wellbeing](https://en.wikipedia.org/wiki/Health)
+    - More than just absence of disease
+    - Measured by life expectancy and illness
+  - Physical health
+    - Balanced diet and healthy weight
+    - Regular physical activity
+    - Seven to nine hours of sleep
+    - Not smoking, limiting alcohol
+  - [Mental health](https://en.wikipedia.org/wiki/Mental_health)
+    - Coping with everyday stress
+    - Depression and anxiety are common
+    - Talking and treatment both help
+  - Social and wider factors
+    - Friends, family and community
+    - [Income, education and housing shape health](https://en.wikipedia.org/wiki/Social_determinants_of_health)
+    - Clean air and safe water
+  - Main threats
+    - Heart disease is the leading killer
+    - Cancer, stroke and lung disease
+    - Infectious diseases in poorer regions
+    - Injuries and road accidents
+  - Protecting health
+    - [Vaccination prevents infectious disease](https://en.wikipedia.org/wiki/Vaccination)
+    - Screening and regular check-ups
+    - Handwashing and good hygiene

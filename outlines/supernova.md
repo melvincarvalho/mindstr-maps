@@ -1,0 +1,30 @@
+category: Science
+aliases: supernovae, exploding star, star explosion
+- Supernova
+  - What it is
+    - Explosive death of a star
+    - Briefly outshines a whole galaxy
+    - Ejects matter at thousands of km/s
+  - Core-collapse supernova
+    - Star over about 8 Suns' mass
+    - Iron core can no longer fuse
+    - Core collapses in under a second
+    - Rebound blasts outer layers away
+  - [Type Ia supernova](https://en.wikipedia.org/wiki/Type_Ia_supernova)
+    - White dwarf in a binary system
+    - Gains mass past the Chandrasekhar limit
+    - Runaway carbon fusion destroys it
+  - What's left behind
+    - [Neutron star or pulsar](https://en.wikipedia.org/wiki/Neutron_star)
+    - Black hole from the heaviest stars
+    - [Expanding remnant like the Crab Nebula](https://en.wikipedia.org/wiki/Crab_Nebula)
+  - Why they matter
+    - Spread oxygen, iron and other elements
+    - Shock waves trigger new star formation
+    - [Type Ia as standard candles](https://en.wikipedia.org/wiki/Cosmic_distance_ladder)
+    - Revealed the universe's accelerating expansion
+  - Historic supernovae
+    - SN 1054 recorded by Chinese astronomers
+    - Tycho's supernova, 1572
+    - Kepler's supernova, 1604
+    - SN 1987A, nearest in modern times

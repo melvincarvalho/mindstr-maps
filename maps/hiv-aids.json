@@ -1,0 +1,340 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "HIV/AIDS",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#bezaee",
+      "name": "The virus and the disease",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cca6ks",
+      "name": "Destroys CD4 immune cells",
+      "x": -505,
+      "y": -57,
+      "link": "https://en.wikipedia.org/wiki/T_helper_cell",
+      "parent": "#bezaee"
+    },
+    {
+      "@id": "#i4npix",
+      "name": "Untreated, progresses to AIDS over years",
+      "x": -409,
+      "y": -150,
+      "parent": "#bezaee"
+    },
+    {
+      "@id": "#76mxwv",
+      "name": "AIDS: immune system badly damaged",
+      "x": -340,
+      "y": -236,
+      "parent": "#bezaee"
+    },
+    {
+      "@id": "#fd6bd8",
+      "name": "How it spreads",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dtgryi",
+      "name": "Unprotected anal or vaginal sex",
+      "x": -243,
+      "y": -303,
+      "parent": "#fd6bd8"
+    },
+    {
+      "@id": "#ejk9f8",
+      "name": "Sharing needles and syringes",
+      "x": -133,
+      "y": -360,
+      "parent": "#fd6bd8"
+    },
+    {
+      "@id": "#c9fhyx",
+      "name": "Pregnancy, birth or breastfeeding",
+      "x": 0,
+      "y": -408,
+      "parent": "#fd6bd8"
+    },
+    {
+      "@id": "#qmj9fj",
+      "name": "Not spread by touch, kissing or saliva",
+      "x": 175,
+      "y": -465,
+      "parent": "#fd6bd8"
+    },
+    {
+      "@id": "#ib9dnb",
+      "name": "Symptoms and stages",
+      "x": 174,
+      "y": -120,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#khqzmv",
+      "name": "Flu-like illness weeks after infection",
+      "x": 243,
+      "y": -303,
+      "parent": "#ib9dnb"
+    },
+    {
+      "@id": "#ncj2zu",
+      "name": "Then often years without symptoms",
+      "x": 340,
+      "y": -236,
+      "parent": "#ib9dnb"
+    },
+    {
+      "@id": "#d4dztz",
+      "name": "AIDS brings opportunistic infections and cancers",
+      "x": 463,
+      "y": -171,
+      "parent": "#ib9dnb"
+    },
+    {
+      "@id": "#r73z6z",
+      "name": "Testing and treatment",
+      "x": 193,
+      "y": 99,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sk3wrj",
+      "name": "Blood tests or finger-prick tests",
+      "x": 445,
+      "y": -51,
+      "parent": "#r73z6z"
+    },
+    {
+      "@id": "#vqmdyd",
+      "name": "Self-test kits available",
+      "x": 445,
+      "y": 51,
+      "parent": "#r73z6z"
+    },
+    {
+      "@id": "#u5jq27",
+      "name": "Antiretroviral therapy: daily medicines",
+      "x": 409,
+      "y": 150,
+      "link": "https://en.wikipedia.org/wiki/Management_of_HIV/AIDS",
+      "parent": "#r73z6z"
+    },
+    {
+      "@id": "#jmfqb4",
+      "name": "Near-normal life expectancy with treatment",
+      "x": 340,
+      "y": 236,
+      "parent": "#r73z6z"
+    },
+    {
+      "@id": "#j3r8c3",
+      "name": "Undetectable = untransmittable (U=U)",
+      "x": 243,
+      "y": 303,
+      "parent": "#r73z6z"
+    },
+    {
+      "@id": "#tig3mm",
+      "name": "No cure yet",
+      "x": 133,
+      "y": 360,
+      "parent": "#r73z6z"
+    },
+    {
+      "@id": "#pt9sc4",
+      "name": "Prevention",
+      "x": -65,
+      "y": 177,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gtnrqn",
+      "name": "Condoms during sex",
+      "x": 0,
+      "y": 408,
+      "parent": "#pt9sc4"
+    },
+    {
+      "@id": "#9pzv9j",
+      "name": "PrEP and PEP medicines",
+      "x": -127,
+      "y": 345,
+      "parent": "#pt9sc4"
+    },
+    {
+      "@id": "#8qtt48",
+      "name": "Clean needle programmes",
+      "x": -320,
+      "y": 394,
+      "parent": "#pt9sc4"
+    },
+    {
+      "@id": "#mdp37h",
+      "name": "Global picture",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#52mtst",
+      "name": "First recognised in 1981",
+      "x": -340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/History_of_HIV/AIDS",
+      "parent": "#mdp37h"
+    },
+    {
+      "@id": "#62vjtx",
+      "name": "About 40 million people living with HIV",
+      "x": -409,
+      "y": 150,
+      "parent": "#mdp37h"
+    },
+    {
+      "@id": "#k3vt6v",
+      "name": "Most in eastern and southern Africa",
+      "x": -485,
+      "y": 55,
+      "parent": "#mdp37h"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 14,
+      "end": 19
+    },
+    {
+      "start": 14,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,342 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Henry Ford",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#n372w6",
+      "name": "Early life",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4isxm8",
+      "name": "Born 1863 on a Michigan farm",
+      "x": -445,
+      "y": -51,
+      "parent": "#n372w6"
+    },
+    {
+      "@id": "#j39jce",
+      "name": "Machinist apprentice in Detroit",
+      "x": -409,
+      "y": -150,
+      "parent": "#n372w6"
+    },
+    {
+      "@id": "#aukjuw",
+      "name": "Engineer at Edison Illuminating Company",
+      "x": -340,
+      "y": -236,
+      "parent": "#n372w6"
+    },
+    {
+      "@id": "#ki7sjt",
+      "name": "Built his first car, the Quadricycle, 1896",
+      "x": -243,
+      "y": -303,
+      "parent": "#n372w6"
+    },
+    {
+      "@id": "#mgu2hn",
+      "name": "Ford Motor Company",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6pzd32",
+      "name": "Founded with investors in 1903",
+      "x": -133,
+      "y": -360,
+      "parent": "#mgu2hn"
+    },
+    {
+      "@id": "#d7cn8z",
+      "name": "Model T launched in 1908",
+      "x": 0,
+      "y": -408,
+      "link": "https://en.wikipedia.org/wiki/Ford_Model_T",
+      "parent": "#mgu2hn"
+    },
+    {
+      "@id": "#w5cgxv",
+      "name": "About 15 million Model Ts sold",
+      "x": 175,
+      "y": -465,
+      "parent": "#mgu2hn"
+    },
+    {
+      "@id": "#faqrrh",
+      "name": "Mass production",
+      "x": 174,
+      "y": -120,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#72wpvt",
+      "name": "Moving assembly line from 1913",
+      "x": 243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Assembly_line",
+      "parent": "#faqrrh"
+    },
+    {
+      "@id": "#rcncaf",
+      "name": "Model T price fell below $300",
+      "x": 340,
+      "y": -236,
+      "parent": "#faqrrh"
+    },
+    {
+      "@id": "#yaz2u3",
+      "name": "Highland Park and River Rouge plants",
+      "x": 463,
+      "y": -171,
+      "parent": "#faqrrh"
+    },
+    {
+      "@id": "#3em2uu",
+      "name": "Workers and wages",
+      "x": 221,
+      "y": 52,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#989dg2",
+      "name": "Five-dollar day introduced in 1914",
+      "x": 445,
+      "y": -51,
+      "parent": "#3em2uu"
+    },
+    {
+      "@id": "#3xxi9v",
+      "name": "Fordism: mass production, mass consumption",
+      "x": 545,
+      "y": 61,
+      "link": "https://en.wikipedia.org/wiki/Fordism",
+      "parent": "#3em2uu"
+    },
+    {
+      "@id": "#bx6nas",
+      "name": "Fought unions, Battle of the Overpass 1937",
+      "x": 409,
+      "y": 150,
+      "parent": "#3em2uu"
+    },
+    {
+      "@id": "#3brbpq",
+      "name": "Recognised the UAW only in 1941",
+      "x": 340,
+      "y": 236,
+      "parent": "#3em2uu"
+    },
+    {
+      "@id": "#vf8uq4",
+      "name": "Antisemitism",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rj6agb",
+      "name": "Dearborn Independent ran antisemitic articles",
+      "x": 243,
+      "y": 303,
+      "link": "https://en.wikipedia.org/wiki/The_Dearborn_Independent",
+      "parent": "#vf8uq4"
+    },
+    {
+      "@id": "#q2q927",
+      "name": "Published \"The International Jew\", 1920s",
+      "x": 133,
+      "y": 360,
+      "link": "https://en.wikipedia.org/wiki/The_International_Jew",
+      "parent": "#vf8uq4"
+    },
+    {
+      "@id": "#5icx56",
+      "name": "Promoted the forged Protocols of Zion",
+      "x": 0,
+      "y": 408,
+      "parent": "#vf8uq4"
+    },
+    {
+      "@id": "#ug2zdi",
+      "name": "Issued a public retraction in 1927",
+      "x": -175,
+      "y": 465,
+      "parent": "#vf8uq4"
+    },
+    {
+      "@id": "#4fcvrz",
+      "name": "Accepted a Nazi German medal, 1938",
+      "x": -243,
+      "y": 303,
+      "parent": "#vf8uq4"
+    },
+    {
+      "@id": "#2xjmiv",
+      "name": "Later life and legacy",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sp5asx",
+      "name": "Died 1947 in Dearborn, Michigan",
+      "x": -340,
+      "y": 236,
+      "parent": "#2xjmiv"
+    },
+    {
+      "@id": "#hmz9yd",
+      "name": "Ford Foundation founded in 1936",
+      "x": -409,
+      "y": 150,
+      "parent": "#2xjmiv"
+    },
+    {
+      "@id": "#w88j48",
+      "name": "Made cars affordable for ordinary families",
+      "x": -545,
+      "y": 61,
+      "parent": "#2xjmiv"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 19,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

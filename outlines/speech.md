@@ -1,0 +1,28 @@
+category: Society
+aliases: human speech, how we speak, spoken language
+- Speech
+  - How speech is produced
+    - Lungs push air upward
+    - [Vocal folds in the larynx vibrate](https://en.wikipedia.org/wiki/Vocal_cords)
+    - Tongue, lips and teeth shape sounds
+    - Vowels flow freely; consonants are obstructed
+  - The sound of speech
+    - [Prosody: pitch, stress and rhythm](https://en.wikipedia.org/wiki/Prosody_%28linguistics%29)
+    - Conversation runs about 150 words per minute
+    - Accents differ by region and group
+  - Speech in the brain
+    - Mostly in the left hemisphere
+    - [Broca's area helps produce speech](https://en.wikipedia.org/wiki/Broca%27s_area)
+    - Wernicke's area helps understand it
+  - How children learn to talk
+    - Babbling from about 6 months
+    - First words around 12 months
+    - Two-word phrases by about 2 years
+  - Speech problems
+    - [Stuttering affects about 1% of adults](https://en.wikipedia.org/wiki/Stuttering)
+    - Aphasia often follows a stroke
+    - Speech and language therapists treat them
+  - Speech and technology
+    - Telephone and recording carried voices
+    - Speech recognition turns voice into text
+    - Speech synthesis gives computers voices

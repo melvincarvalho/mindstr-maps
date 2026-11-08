@@ -1,0 +1,329 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Protein",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#nduvvm",
+      "name": "Built from amino acids",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pu9mp3",
+      "name": "About 20 amino acids in the code",
+      "x": -525,
+      "y": -62,
+      "link": "https://en.wikipedia.org/wiki/Amino_acid",
+      "parent": "#nduvvm"
+    },
+    {
+      "@id": "#c75xav",
+      "name": "Joined by peptide bonds into chains",
+      "x": -405,
+      "y": -156,
+      "parent": "#nduvvm"
+    },
+    {
+      "@id": "#csgkze",
+      "name": "Nine are essential from diet",
+      "x": -330,
+      "y": -245,
+      "parent": "#nduvvm"
+    },
+    {
+      "@id": "#8stncx",
+      "name": "Four levels of structure",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6wbc55",
+      "name": "Primary: the amino acid sequence",
+      "x": -225,
+      "y": -312,
+      "parent": "#8stncx"
+    },
+    {
+      "@id": "#v7dgnh",
+      "name": "Secondary: helices and sheets",
+      "x": -104,
+      "y": -367,
+      "parent": "#8stncx"
+    },
+    {
+      "@id": "#2uke2c",
+      "name": "Tertiary: the full 3D fold",
+      "x": 42,
+      "y": -423,
+      "parent": "#8stncx"
+    },
+    {
+      "@id": "#dxtahr",
+      "name": "Quaternary: several chains together",
+      "x": 234,
+      "y": -485,
+      "parent": "#8stncx"
+    },
+    {
+      "@id": "#6ubte2",
+      "name": "Shape decides function",
+      "x": 207,
+      "y": -80,
+      "link": "https://en.wikipedia.org/wiki/Protein_folding",
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xny4wf",
+      "name": "Chains fold into precise shapes",
+      "x": 281,
+      "y": -281,
+      "parent": "#6ubte2"
+    },
+    {
+      "@id": "#wyqjdv",
+      "name": "Heat or acid denatures them",
+      "x": 372,
+      "y": -203,
+      "parent": "#6ubte2"
+    },
+    {
+      "@id": "#8ygsjd",
+      "name": "Misfolding linked to prion diseases, Alzheimer's",
+      "x": 525,
+      "y": -131,
+      "parent": "#6ubte2"
+    },
+    {
+      "@id": "#9gd4k5",
+      "name": "AlphaFold predicts structure from sequence",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/AlphaFold",
+      "parent": "#6ubte2"
+    },
+    {
+      "@id": "#3bpb78",
+      "name": "Jobs in the body",
+      "x": 143,
+      "y": 144,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dr7f94",
+      "name": "Enzymes speed up reactions",
+      "x": 430,
+      "y": 106,
+      "parent": "#3bpb78"
+    },
+    {
+      "@id": "#cdfatc",
+      "name": "Haemoglobin carries oxygen",
+      "x": 372,
+      "y": 203,
+      "parent": "#3bpb78"
+    },
+    {
+      "@id": "#viuvmq",
+      "name": "Antibodies fight infection",
+      "x": 281,
+      "y": 281,
+      "parent": "#3bpb78"
+    },
+    {
+      "@id": "#dxce2b",
+      "name": "Collagen and keratin give structure",
+      "x": 164,
+      "y": 335,
+      "parent": "#3bpb78"
+    },
+    {
+      "@id": "#p7ryjt",
+      "name": "Actin and myosin move muscles",
+      "x": 38,
+      "y": 391,
+      "parent": "#3bpb78"
+    },
+    {
+      "@id": "#f2vhjb",
+      "name": "How cells make them",
+      "x": -84,
+      "y": 171,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#psnm8a",
+      "name": "Genes code for protein sequences",
+      "x": -124,
+      "y": 447,
+      "parent": "#f2vhjb"
+    },
+    {
+      "@id": "#4hty9y",
+      "name": "Ribosomes link amino acids in order",
+      "x": -225,
+      "y": 312,
+      "parent": "#f2vhjb"
+    },
+    {
+      "@id": "#pbuvcu",
+      "name": "In the diet",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vp5rb7",
+      "name": "Meat, fish, eggs, dairy, legumes",
+      "x": -330,
+      "y": 245,
+      "parent": "#pbuvcu"
+    },
+    {
+      "@id": "#wetk8f",
+      "name": "Adults need about 0.8 g/kg daily",
+      "x": -405,
+      "y": 156,
+      "parent": "#pbuvcu"
+    },
+    {
+      "@id": "#iiyvjn",
+      "name": "Supplies about 4 kcal per gram",
+      "x": -465,
+      "y": 56,
+      "parent": "#pbuvcu"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 15,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

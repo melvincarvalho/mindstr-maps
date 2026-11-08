@@ -1,0 +1,34 @@
+category: Geography
+aliases: uk, great britain, britain, the united kingdom
+- United Kingdom
+  - Geography
+    - England, Scotland, Wales and Northern Ireland
+    - Ben Nevis highest peak, 1,345 m
+    - River Severn is the longest
+    - Mild, wet climate from the Atlantic
+  - People and languages
+    - About 69 million people
+    - London largest city, about 9 million
+    - English, plus Welsh, Gaelic and Irish
+  - History
+    - Celtic Britons, then Romans from AD 43
+    - [Norman Conquest of England in 1066](https://en.wikipedia.org/wiki/Norman_Conquest)
+    - [Acts of Union create Great Britain, 1707](https://en.wikipedia.org/wiki/Acts_of_Union_1707)
+    - [Industrial Revolution began here](https://en.wikipedia.org/wiki/Industrial_Revolution)
+    - [Empire once covered a quarter of world](https://en.wikipedia.org/wiki/British_Empire)
+    - European Union member 1973 to 2020
+  - Government
+    - Constitutional monarchy under King Charles III
+    - Parliament: House of Commons and Lords
+    - Prime Minister leads the government
+    - Devolved governments in Scotland, Wales, Northern Ireland
+  - Economy
+    - Among the ten largest world economies
+    - Services make up about 80% of output
+    - London is a global finance centre
+    - Currency is the pound sterling
+  - Culture
+    - Shakespeare and a rich literary tradition
+    - Football, cricket and rugby codified here
+    - Pop music from the Beatles onward
+    - BBC public broadcaster since 1922

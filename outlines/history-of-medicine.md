@@ -1,0 +1,31 @@
+category: History
+aliases: medical history, history of healthcare, history of medical science
+- History of medicine
+  - Ancient medicine
+    - Egyptian papyri describe surgery and remedies
+    - Ayurveda in India, acupuncture in China
+    - [Hippocrates sought natural causes of disease](https://en.wikipedia.org/wiki/Hippocrates)
+    - Galen's anatomy dominated for 1,400 years
+  - Medieval medicine
+    - Avicenna's Canon of Medicine
+    - Hospitals in the Islamic world
+    - Black Death killed a third of Europeans
+  - Renaissance and early science
+    - [Vesalius corrected anatomy by dissection, 1543](https://en.wikipedia.org/wiki/Andreas_Vesalius)
+    - Harvey showed blood circulates, 1628
+    - Microscopes revealed cells and microbes
+  - 19th-century breakthroughs
+    - Jenner's smallpox vaccine, 1796
+    - Anaesthesia made surgery bearable, 1840s
+    - [Germ theory from Pasteur and Koch](https://en.wikipedia.org/wiki/Germ_theory_of_disease)
+    - Lister's antiseptic surgery
+    - Clean water cut cholera deaths
+  - 20th-century medicine
+    - [Fleming discovered penicillin, 1928](https://en.wikipedia.org/wiki/Penicillin)
+    - X-rays and later CT and MRI scans
+    - DNA's structure described, 1953
+    - Smallpox eradicated, 1980
+  - Medicine today
+    - Organ transplants and keyhole surgery
+    - Antibiotic resistance is a growing threat
+    - mRNA vaccines developed for COVID-19

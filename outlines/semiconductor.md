@@ -1,0 +1,30 @@
+category: Technology
+aliases: semiconductors, what is a semiconductor, how computer chips work, chipmaking
+- Semiconductor
+  - Between a conductor and an insulator
+    - [Silicon is the most used material](https://en.wikipedia.org/wiki/Silicon)
+    - Conductivity changes with heat and light
+    - Band gap decides how it conducts
+  - Doping changes behaviour
+    - Tiny impurities added on purpose
+    - N-type has extra electrons
+    - P-type has missing electrons, "holes"
+    - [P–n junction makes a diode](https://en.wikipedia.org/wiki/P%E2%80%93n_junction)
+  - Devices made from semiconductors
+    - Transistors are on-off switches
+    - Solar cells turn light into electricity
+    - LEDs and laser diodes make light
+    - Image sensors in digital cameras
+  - How chips are made
+    - Pure silicon grown into crystal ingots
+    - Ingots sliced into thin wafers
+    - [Photolithography prints circuit patterns](https://en.wikipedia.org/wiki/Photolithography)
+    - Made in ultra-clean fabrication plants
+  - Shrinking and scaling
+    - [Moore's law: transistors double every two years](https://en.wikipedia.org/wiki/Moore%27s_law)
+    - Modern chips hold billions of transistors
+    - Features now just nanometres wide
+  - A global industry
+    - Taiwan's TSMC makes most advanced chips
+    - Dutch ASML builds key lithography machines
+    - 2020–2023 chip shortage hit car production

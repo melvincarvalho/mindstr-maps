@@ -1,0 +1,31 @@
+category: Science
+aliases: acids, what is an acid, acids in chemistry, acidic substances
+- Acid
+  - What makes an acid
+    - Releases hydrogen ions in water
+    - [Brønsted–Lowry: donates a proton](https://en.wikipedia.org/wiki/Br%C3%B8nsted%E2%80%93Lowry_acid%E2%80%93base_theory)
+    - Lewis: accepts a pair of electrons
+  - Measuring acidity
+    - [pH below 7 is acidic](https://en.wikipedia.org/wiki/PH)
+    - Each pH step is tenfold stronger
+    - Litmus paper turns red
+    - Universal indicator shows colour by pH
+  - Strong and weak acids
+    - Strong acids split up completely
+    - Weak acids only partly ionise
+    - Concentration is different from strength
+  - How acids behave
+    - Taste sour, like lemons
+    - React with metals releasing hydrogen
+    - Fizz with carbonates, giving carbon dioxide
+    - [Neutralised by bases into salt and water](https://en.wikipedia.org/wiki/Neutralization_%28chemistry%29)
+  - Acids around us
+    - Citric acid in citrus fruit
+    - Acetic acid makes vinegar sour
+    - Stomach acid is hydrochloric acid
+    - [Sulfuric acid: most-produced industrial chemical](https://en.wikipedia.org/wiki/Sulfuric_acid)
+    - Carbonic acid gives fizzy drinks bite
+  - Safety
+    - Strong acids burn skin and eyes
+    - Wear goggles and gloves
+    - Add acid to water, never reverse

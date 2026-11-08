@@ -1,0 +1,352 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Mughal Empire",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#5fgqb4",
+      "name": "Foundation",
+      "x": -211,
+      "y": -73,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tn99pk",
+      "name": "Babur won the Battle of Panipat, 1526",
+      "x": -486,
+      "y": -53,
+      "link": "https://en.wikipedia.org/wiki/First_Battle_of_Panipat",
+      "parent": "#5fgqb4"
+    },
+    {
+      "@id": "#f34p3z",
+      "name": "Descended from Timur and Genghis Khan",
+      "x": -413,
+      "y": -143,
+      "parent": "#5fgqb4"
+    },
+    {
+      "@id": "#4bzgjd",
+      "name": "Humayun lost, then regained the throne",
+      "x": -349,
+      "y": -227,
+      "parent": "#5fgqb4"
+    },
+    {
+      "@id": "#kjmd8n",
+      "name": "Great emperors",
+      "x": -47,
+      "y": -180,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4c8ccb",
+      "name": "Akbar expanded and unified the empire",
+      "x": -260,
+      "y": -294,
+      "link": "https://en.wikipedia.org/wiki/Akbar",
+      "parent": "#kjmd8n"
+    },
+    {
+      "@id": "#3g8ebf",
+      "name": "Jahangir patronised painting and gardens",
+      "x": -158,
+      "y": -354,
+      "parent": "#kjmd8n"
+    },
+    {
+      "@id": "#dz7vei",
+      "name": "Shah Jahan built the Taj Mahal",
+      "x": -34,
+      "y": -407,
+      "parent": "#kjmd8n"
+    },
+    {
+      "@id": "#eyyv6v",
+      "name": "Aurangzeb pushed borders to greatest extent",
+      "x": 120,
+      "y": -464,
+      "parent": "#kjmd8n"
+    },
+    {
+      "@id": "#8yy6kh",
+      "name": "How it was ruled",
+      "x": 178,
+      "y": -116,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dxgzft",
+      "name": "Mansabdari ranks for nobles and officers",
+      "x": 333,
+      "y": -516,
+      "parent": "#8yy6kh"
+    },
+    {
+      "@id": "#acwr22",
+      "name": "Land revenue system funded the state",
+      "x": 307,
+      "y": -263,
+      "parent": "#8yy6kh"
+    },
+    {
+      "@id": "#sbrqs5",
+      "name": "Akbar abolished the jizya tax on non-Muslims",
+      "x": 384,
+      "y": -187,
+      "parent": "#8yy6kh"
+    },
+    {
+      "@id": "#p924jr",
+      "name": "Rajput alliances through marriage and office",
+      "x": 509,
+      "y": -113,
+      "parent": "#8yy6kh"
+    },
+    {
+      "@id": "#ba2nwz",
+      "name": "Art and architecture",
+      "x": 211,
+      "y": 73,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zcru29",
+      "name": "Taj Mahal, a tomb for Mumtaz Mahal",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Taj_Mahal",
+      "parent": "#ba2nwz"
+    },
+    {
+      "@id": "#xwy9te",
+      "name": "Red Fort and Fatehpur Sikri",
+      "x": 490,
+      "y": 109,
+      "parent": "#ba2nwz"
+    },
+    {
+      "@id": "#euduyn",
+      "name": "Mughal miniature painting",
+      "x": 384,
+      "y": 187,
+      "parent": "#ba2nwz"
+    },
+    {
+      "@id": "#qs9swq",
+      "name": "Persian was the language of court",
+      "x": 307,
+      "y": 263,
+      "parent": "#ba2nwz"
+    },
+    {
+      "@id": "#6ghf8t",
+      "name": "Economy",
+      "x": 47,
+      "y": 180,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#356jga",
+      "name": "Among the world's largest economies around 1700",
+      "x": 207,
+      "y": 320,
+      "parent": "#6ghf8t"
+    },
+    {
+      "@id": "#d9xxzn",
+      "name": "Textiles, spices and indigo exported worldwide",
+      "x": 96,
+      "y": 368,
+      "parent": "#6ghf8t"
+    },
+    {
+      "@id": "#p6fj5t",
+      "name": "European trading companies set up ports",
+      "x": -35,
+      "y": 423,
+      "parent": "#6ghf8t"
+    },
+    {
+      "@id": "#d3p9tn",
+      "name": "Decline",
+      "x": -178,
+      "y": 116,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#awq4na",
+      "name": "Wars and revolts after Aurangzeb's death, 1707",
+      "x": -214,
+      "y": 474,
+      "parent": "#d3p9tn"
+    },
+    {
+      "@id": "#y6cav9",
+      "name": "Marathas, Sikhs and regional states rose",
+      "x": -260,
+      "y": 294,
+      "parent": "#d3p9tn"
+    },
+    {
+      "@id": "#ka7n4v",
+      "name": "Nader Shah sacked Delhi, 1739",
+      "x": -349,
+      "y": 227,
+      "parent": "#d3p9tn"
+    },
+    {
+      "@id": "#ke3w3c",
+      "name": "British East India Company took control",
+      "x": -449,
+      "y": 155,
+      "link": "https://en.wikipedia.org/wiki/East_India_Company",
+      "parent": "#d3p9tn"
+    },
+    {
+      "@id": "#gf5upd",
+      "name": "Last emperor exiled by British after 1857",
+      "x": -446,
+      "y": 49,
+      "parent": "#d3p9tn"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    },
+    {
+      "start": 24,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

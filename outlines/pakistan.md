@@ -1,0 +1,34 @@
+category: Geography
+aliases: islamic republic of pakistan, pakistan country
+- Pakistan
+  - Land
+    - Indus River runs the whole length
+    - [K2, world's second-highest peak](https://en.wikipedia.org/wiki/K2)
+    - Islamabad is the capital
+    - Karachi is the largest city and port
+  - People and languages
+    - About 240 million people
+    - Urdu national, English official
+    - Punjabi, Pashto, Sindhi, Balochi widely spoken
+    - About 96% Muslim
+  - History in brief
+    - Indus Valley cities like Mohenjo-daro
+    - [Muhammad Ali Jinnah, founding leader](https://en.wikipedia.org/wiki/Muhammad_Ali_Jinnah)
+    - Created at Partition, 14 August 1947
+    - East Pakistan became Bangladesh, 1971
+    - Alternating civilian and military rule
+  - Government
+    - Federal parliamentary republic
+    - Four provinces, including Punjab and Sindh
+    - Kashmir claimed by Pakistan and India
+    - Nuclear-armed since 1998 tests
+  - Economy
+    - Farming: cotton, wheat, rice
+    - Textiles are the main export
+    - Remittances from workers abroad
+    - Repeated IMF support programmes
+  - Culture
+    - Cricket World Cup winners, 1992
+    - [Qawwali, Sufi devotional music](https://en.wikipedia.org/wiki/Qawwali)
+    - [Badshahi Mosque in Lahore](https://en.wikipedia.org/wiki/Badshahi_Mosque)
+    - Biryani, kebabs and chai

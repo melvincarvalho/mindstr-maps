@@ -1,0 +1,31 @@
+category: Life and home
+aliases: martial art, types of martial arts, learn martial arts
+- Martial arts
+  - What martial arts are
+    - Codified systems of combat
+    - For self-defence, sport and fitness
+    - Many stress discipline and respect
+    - [Mixed martial arts blends many styles](https://en.wikipedia.org/wiki/Mixed_martial_arts)
+  - Striking arts
+    - [Karate, from Okinawa, Japan](https://en.wikipedia.org/wiki/Karate)
+    - Taekwondo: Korean, kicks, Olympic since 2000
+    - Boxing and Thai boxing (Muay Thai)
+    - [Kung fu: many Chinese styles](https://en.wikipedia.org/wiki/Chinese_martial_arts)
+  - Grappling arts
+    - [Judo: throws, Olympic since 1964](https://en.wikipedia.org/wiki/Judo)
+    - Brazilian jiu-jitsu: ground submissions
+    - Wrestling, one of the oldest sports
+    - Aikido redirects an attacker's force
+  - Weapons and internal arts
+    - Kendo: Japanese bamboo-sword fencing
+    - [Tai chi: slow, flowing movement](https://en.wikipedia.org/wiki/Tai_chi)
+    - Eskrima: Filipino stick fighting
+  - Training and ranks
+    - Forms (kata) drill set sequences
+    - Sparring tests skills with partners
+    - Coloured belts mark progress
+    - Black belt usually takes years
+  - Starting out
+    - Pick an art matching your goal
+    - Try a trial class first
+    - Check instructors' qualifications and safety

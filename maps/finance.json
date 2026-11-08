@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Finance",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#me36e5",
+      "name": "Managing money over time",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e66ddi",
+      "name": "Moves savings to those who invest",
+      "x": -524,
+      "y": -64,
+      "parent": "#me36e5"
+    },
+    {
+      "@id": "#83mgfc",
+      "name": "Time value of money",
+      "x": -401,
+      "y": -163,
+      "link": "https://en.wikipedia.org/wiki/Time_value_of_money",
+      "parent": "#me36e5"
+    },
+    {
+      "@id": "#77yj3t",
+      "name": "Higher expected return means higher risk",
+      "x": -318,
+      "y": -255,
+      "parent": "#me36e5"
+    },
+    {
+      "@id": "#px474e",
+      "name": "Main branches",
+      "x": -36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qem6d3",
+      "name": "Personal finance: households' money",
+      "x": -204,
+      "y": -321,
+      "parent": "#px474e"
+    },
+    {
+      "@id": "#gw28fa",
+      "name": "Corporate finance: funding businesses",
+      "x": -73,
+      "y": -372,
+      "parent": "#px474e"
+    },
+    {
+      "@id": "#j8w2ug",
+      "name": "Public finance: government taxes, debt",
+      "x": 82,
+      "y": -420,
+      "parent": "#px474e"
+    },
+    {
+      "@id": "#hkq4te",
+      "name": "Financial markets",
+      "x": 186,
+      "y": -108,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#q79xyq",
+      "name": "Stock markets trade company shares",
+      "x": 204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Stock_market",
+      "parent": "#hkq4te"
+    },
+    {
+      "@id": "#vs86c9",
+      "name": "Bond markets lend to borrowers",
+      "x": 318,
+      "y": -255,
+      "link": "https://en.wikipedia.org/wiki/Bond_market",
+      "parent": "#hkq4te"
+    },
+    {
+      "@id": "#ksqhgv",
+      "name": "Currency markets swap money",
+      "x": 401,
+      "y": -163,
+      "parent": "#hkq4te"
+    },
+    {
+      "@id": "#2y8xwh",
+      "name": "Derivatives bet on future prices",
+      "x": 444,
+      "y": -56,
+      "parent": "#hkq4te"
+    },
+    {
+      "@id": "#c4j2iw",
+      "name": "Financial institutions",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cz7hy2",
+      "name": "Banks take deposits and lend",
+      "x": 444,
+      "y": 56,
+      "parent": "#c4j2iw"
+    },
+    {
+      "@id": "#wq9cbc",
+      "name": "Insurers pool risks",
+      "x": 401,
+      "y": 163,
+      "parent": "#c4j2iw"
+    },
+    {
+      "@id": "#fgk25n",
+      "name": "Pension funds and asset managers",
+      "x": 318,
+      "y": 255,
+      "parent": "#c4j2iw"
+    },
+    {
+      "@id": "#2bis2d",
+      "name": "Central banks oversee the system",
+      "x": 204,
+      "y": 321,
+      "parent": "#c4j2iw"
+    },
+    {
+      "@id": "#ad7wun",
+      "name": "Key ideas",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gmcp34",
+      "name": "Interest is the price of borrowing",
+      "x": 73,
+      "y": 372,
+      "parent": "#ad7wun"
+    },
+    {
+      "@id": "#b6c7tn",
+      "name": "Diversification spreads risk",
+      "x": -82,
+      "y": 420,
+      "parent": "#ad7wun"
+    },
+    {
+      "@id": "#b4ktgt",
+      "name": "Compound growth builds over time",
+      "x": -204,
+      "y": 321,
+      "parent": "#ad7wun"
+    },
+    {
+      "@id": "#7fkfed",
+      "name": "Crises and regulation",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#n2e284",
+      "name": "2008 global financial crisis",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wikipedia.org/wiki/2007%E2%80%932008_financial_crisis",
+      "parent": "#7fkfed"
+    },
+    {
+      "@id": "#isxa44",
+      "name": "Bubbles and bank runs recur",
+      "x": -401,
+      "y": 163,
+      "parent": "#7fkfed"
+    },
+    {
+      "@id": "#54ap8x",
+      "name": "Regulators require capital buffers",
+      "x": -504,
+      "y": 62,
+      "parent": "#7fkfed"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

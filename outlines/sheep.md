@@ -1,0 +1,30 @@
+category: Science
+aliases: domestic sheep, ovis aries, sheep farming
+- Sheep
+  - The animal
+    - Domestic sheep: Ovis aries
+    - Ruminant with four-chambered stomach
+    - Flock animals that follow a leader
+    - Male ram, female ewe, young lamb
+  - Origins
+    - [Domesticated from mouflon about 10,000 years ago](https://en.wikipedia.org/wiki/Mouflon)
+    - First kept in the Fertile Crescent
+    - Among the earliest domesticated livestock
+  - Products
+    - [Wool shorn about once a year](https://en.wikipedia.org/wiki/Wool)
+    - Meat: lamb and mutton
+    - Milk for cheeses like feta, Roquefort
+    - Sheepskin and lanolin
+  - Breeds
+    - Over 1,000 breeds worldwide
+    - [Merino prized for fine wool](https://en.wikipedia.org/wiki/Merino)
+    - Hair sheep need no shearing
+  - Farming year
+    - Autumn mating, spring lambing in temperate areas
+    - Grazing on grass and hill pasture
+    - Herding with sheepdogs like border collies
+    - Watch for worms, foot rot, flystrike
+  - Sheep in culture and science
+    - [Dolly: first mammal cloned from adult cell](https://en.wikipedia.org/wiki/Dolly_%28sheep%29)
+    - About 1.2 billion sheep worldwide
+    - Lamb a symbol in many religions

@@ -1,0 +1,31 @@
+category: Society
+aliases: the state in politics, what is a state
+- State (polity)
+  - What a state is
+    - [Monopoly on legitimate force (Weber)](https://en.wikipedia.org/wiki/Monopoly_on_violence)
+    - Territory, population and government
+    - Sovereignty: no higher authority inside
+    - About 193 states are UN members
+  - Becoming a state
+    - [Montevideo Convention criteria, 1933](https://en.wikipedia.org/wiki/Montevideo_Convention)
+    - Recognition by other states
+    - Disputed cases like Taiwan and Kosovo
+  - What states do
+    - Make and enforce laws
+    - Collect taxes and spend them
+    - Defend borders with armed forces
+    - Provide schools, health and welfare
+  - Forms of state
+    - Unitary versus federal
+    - Monarchies and republics
+    - Democracies and authoritarian regimes
+  - History
+    - First states in Mesopotamia and Egypt
+    - City-states, empires and kingdoms
+    - [Peace of Westphalia, 1648](https://en.wikipedia.org/wiki/Peace_of_Westphalia)
+    - Modern bureaucratic state from 1800s
+  - Theories of the state
+    - [Hobbes: state ends the war of all](https://en.wikipedia.org/wiki/Leviathan_%28Hobbes_book%29)
+    - Locke: protects natural rights
+    - Marx: tool of the ruling class
+    - Anarchists: the state should be abolished

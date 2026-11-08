@@ -1,0 +1,307 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Mary Wollstonecraft",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#3udg5h",
+      "name": "Life, 1759–1797",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fdg5p9",
+      "name": "Born in Spitalfields, London",
+      "x": -444,
+      "y": -56,
+      "parent": "#3udg5h"
+    },
+    {
+      "@id": "#sdhjym",
+      "name": "Worked as companion, teacher and governess",
+      "x": -401,
+      "y": -163,
+      "parent": "#3udg5h"
+    },
+    {
+      "@id": "#xwp8sq",
+      "name": "Ran a school in Newington Green",
+      "x": -318,
+      "y": -255,
+      "parent": "#3udg5h"
+    },
+    {
+      "@id": "#tyeua7",
+      "name": "Witnessed the French Revolution in Paris",
+      "x": -204,
+      "y": -321,
+      "parent": "#3udg5h"
+    },
+    {
+      "@id": "#dzgr5i",
+      "name": "Writing career",
+      "x": 104,
+      "y": -164,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d84ba5",
+      "name": "Earned her living as a writer",
+      "x": -73,
+      "y": -372,
+      "parent": "#dzgr5i"
+    },
+    {
+      "@id": "#3hk8ra",
+      "name": "Reviewer and translator for Joseph Johnson",
+      "x": 82,
+      "y": -420,
+      "parent": "#dzgr5i"
+    },
+    {
+      "@id": "#tk5q42",
+      "name": "Rights of Men answered Burke, 1790",
+      "x": 204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/A_Vindication_of_the_Rights_of_Men",
+      "parent": "#dzgr5i"
+    },
+    {
+      "@id": "#th33cx",
+      "name": "Letters from Sweden, a travel classic",
+      "x": 318,
+      "y": -255,
+      "parent": "#dzgr5i"
+    },
+    {
+      "@id": "#jeia4i",
+      "name": "Novels Mary and The Wrongs of Woman",
+      "x": 401,
+      "y": -163,
+      "parent": "#dzgr5i"
+    },
+    {
+      "@id": "#65w2fg",
+      "name": "A Vindication of the Rights of Woman",
+      "x": 219,
+      "y": 57,
+      "link": "https://en.wikipedia.org/wiki/A_Vindication_of_the_Rights_of_Woman",
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a327c5",
+      "name": "Published 1792",
+      "x": 444,
+      "y": -56,
+      "parent": "#65w2fg"
+    },
+    {
+      "@id": "#5f3b2i",
+      "name": "Women are rational, not naturally inferior",
+      "x": 624,
+      "y": 74,
+      "parent": "#65w2fg"
+    },
+    {
+      "@id": "#qmudy5",
+      "name": "Girls deserve the same education as boys",
+      "x": 401,
+      "y": 163,
+      "parent": "#65w2fg"
+    },
+    {
+      "@id": "#a7m3pr",
+      "name": "Answered Rousseau's view of women",
+      "x": 318,
+      "y": 255,
+      "parent": "#65w2fg"
+    },
+    {
+      "@id": "#zjvyqu",
+      "name": "Personal life",
+      "x": 36,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rxrdch",
+      "name": "Daughter Fanny with Gilbert Imlay",
+      "x": 204,
+      "y": 321,
+      "parent": "#zjvyqu"
+    },
+    {
+      "@id": "#g7r75g",
+      "name": "Married philosopher William Godwin, 1797",
+      "x": 73,
+      "y": 372,
+      "link": "https://en.wikipedia.org/wiki/William_Godwin",
+      "parent": "#zjvyqu"
+    },
+    {
+      "@id": "#gyawu4",
+      "name": "Died after giving birth to Mary Shelley",
+      "x": -82,
+      "y": 420,
+      "link": "https://en.wikipedia.org/wiki/Mary_Shelley",
+      "parent": "#zjvyqu"
+    },
+    {
+      "@id": "#4yxw9f",
+      "name": "Legacy",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mzpfg7",
+      "name": "Founding figure of feminist philosophy",
+      "x": -204,
+      "y": 321,
+      "parent": "#4yxw9f"
+    },
+    {
+      "@id": "#gx2amb",
+      "name": "Reputation damaged by Godwin's frank memoir",
+      "x": -318,
+      "y": 255,
+      "parent": "#4yxw9f"
+    },
+    {
+      "@id": "#x8s5pp",
+      "name": "Revived by suffragists and later feminists",
+      "x": -401,
+      "y": 163,
+      "parent": "#4yxw9f"
+    },
+    {
+      "@id": "#94uerd",
+      "name": "Statue unveiled on Newington Green, 2020",
+      "x": -444,
+      "y": 56,
+      "parent": "#4yxw9f"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 6,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 12,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

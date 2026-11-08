@@ -1,0 +1,31 @@
+category: Science
+aliases: chemical reactions, how chemical reactions work, chemical change
+- Chemical reaction
+  - What happens
+    - Atoms rearrange into new substances
+    - Bonds break and new bonds form
+    - [Mass is conserved; no atoms lost](https://en.wikipedia.org/wiki/Conservation_of_mass)
+  - Everyday signs
+    - Fizzing gas, like baking soda and vinegar
+    - Colour change, like rusting iron
+    - Heat or light given off
+    - A solid precipitate forms
+  - Common types
+    - Combustion: fuel plus oxygen burns
+    - Synthesis: two substances combine
+    - Decomposition: one compound splits apart
+    - [Acid and base neutralise each other](https://en.wikipedia.org/wiki/Neutralization_%28chemistry%29)
+    - [Redox: electrons pass between atoms](https://en.wikipedia.org/wiki/Redox)
+  - Energy
+    - Exothermic reactions release heat
+    - Endothermic reactions absorb heat, like cold packs
+    - Activation energy gets reactions started
+  - Writing equations
+    - Reactants on left, products on right
+    - Balance atoms on both sides
+    - 2H₂ + O₂ → 2H₂O makes water
+  - Reaction speed
+    - Higher temperature speeds reactions up
+    - More concentration means more collisions
+    - Smaller pieces react faster
+    - [Catalysts speed reactions without being used](https://en.wikipedia.org/wiki/Catalysis)

@@ -1,0 +1,29 @@
+category: Mathematics
+aliases: fractions, fractions in maths, numerator and denominator
+- Fraction
+  - What a fraction means
+    - Equal parts of a whole
+    - 3/4: three of four parts
+    - Also a division: 3 ÷ 4
+  - Parts of a fraction
+    - Numerator on top counts parts
+    - Denominator below names part size
+    - Proper fractions are less than 1
+    - [Mixed numbers like 1½](https://en.wikipedia.org/wiki/Fraction#Mixed_numbers)
+  - Equivalent fractions
+    - 1/2 = 2/4 = 50/100
+    - Simplify by dividing by common factors
+    - [Greatest common divisor finds lowest terms](https://en.wikipedia.org/wiki/Greatest_common_divisor)
+  - Doing arithmetic
+    - Add with a common denominator
+    - Multiply tops, multiply bottoms
+    - Divide by flipping the second fraction
+    - Compare by cross-multiplying
+  - Other forms of the same number
+    - [Decimals: 1/4 = 0.25](https://en.wikipedia.org/wiki/Decimal)
+    - [Percentages: 1/4 = 25%](https://en.wikipedia.org/wiki/Percentage)
+    - Ratios: 1 part to 3
+  - History and uses
+    - Egyptians used unit fractions
+    - Horizontal bar came via Arabic mathematicians
+    - Recipes, money, music and measurements

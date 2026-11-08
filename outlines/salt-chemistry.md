@@ -1,0 +1,30 @@
+category: Science
+aliases: salts in chemistry, ionic salts, chemical salts, salt chemical compound
+- Salt (chemistry)
+  - What a salt is
+    - [Ionic compound of positive and negative ions](https://en.wikipedia.org/wiki/Ionic_compound)
+    - Cation is often a metal
+    - Anion often from an acid
+    - Overall charge balances to zero
+  - How salts form
+    - [Acid plus base gives salt and water](https://en.wikipedia.org/wiki/Neutralization_%28chemistry%29)
+    - Metal plus acid gives salt and hydrogen
+    - Carbonate plus acid adds carbon dioxide
+  - Properties
+    - Form regular crystal lattices
+    - High melting and boiling points
+    - Conduct electricity when melted or dissolved
+    - Many, not all, dissolve in water
+  - Naming salts
+    - Metal first, then the anion
+    - Chlorides come from hydrochloric acid
+    - Sulfates come from sulfuric acid
+    - Nitrates come from nitric acid
+  - Common salts
+    - [Sodium chloride: table salt](https://en.wikipedia.org/wiki/Sodium_chloride)
+    - Calcium carbonate: chalk and limestone
+    - Copper sulfate: bright blue crystals
+    - Ammonium nitrate: fertiliser
+  - Salts in the world
+    - Seawater holds about 3.5% dissolved salts
+    - [Electrolytes keep nerves and muscles working](https://en.wikipedia.org/wiki/Electrolyte)

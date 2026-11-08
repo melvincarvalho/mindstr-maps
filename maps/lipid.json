@@ -1,0 +1,329 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Lipid",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#qvfbkd",
+      "name": "What lipids are",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fh4r86",
+      "name": "Do not dissolve in water",
+      "x": -445,
+      "y": -54,
+      "parent": "#qvfbkd"
+    },
+    {
+      "@id": "#3zjiky",
+      "name": "Dissolve in oils and solvents",
+      "x": -405,
+      "y": -156,
+      "parent": "#qvfbkd"
+    },
+    {
+      "@id": "#rpkk3u",
+      "name": "Mostly long carbon-hydrogen chains",
+      "x": -330,
+      "y": -245,
+      "parent": "#qvfbkd"
+    },
+    {
+      "@id": "#fdtysk",
+      "name": "Main types",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mgeyqr",
+      "name": "Triglycerides: everyday fats and oils",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Triglyceride",
+      "parent": "#fdtysk"
+    },
+    {
+      "@id": "#da92ky",
+      "name": "Phospholipids build cell membranes",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Phospholipid",
+      "parent": "#fdtysk"
+    },
+    {
+      "@id": "#2g3jwp",
+      "name": "Steroids such as cholesterol",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Cholesterol",
+      "parent": "#fdtysk"
+    },
+    {
+      "@id": "#gjrk7y",
+      "name": "Waxes waterproof leaves and feathers",
+      "x": 234,
+      "y": -485,
+      "parent": "#fdtysk"
+    },
+    {
+      "@id": "#6vtbz3",
+      "name": "Saturated or unsaturated",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xbqtv9",
+      "name": "Saturated: no double bonds, often solid",
+      "x": 281,
+      "y": -281,
+      "parent": "#6vtbz3"
+    },
+    {
+      "@id": "#4a565u",
+      "name": "Unsaturated: kinked chains, liquid oils",
+      "x": 372,
+      "y": -203,
+      "parent": "#6vtbz3"
+    },
+    {
+      "@id": "#5tzvb2",
+      "name": "Trans fats raise LDL, widely restricted",
+      "x": 525,
+      "y": -131,
+      "parent": "#6vtbz3"
+    },
+    {
+      "@id": "#pkuah2",
+      "name": "Omega-3s found in oily fish",
+      "x": 450,
+      "y": 0,
+      "parent": "#6vtbz3"
+    },
+    {
+      "@id": "#y3ge5h",
+      "name": "Jobs in the body",
+      "x": 143,
+      "y": 144,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jnagx6",
+      "name": "Store energy: about 9 kcal per gram",
+      "x": 430,
+      "y": 106,
+      "parent": "#y3ge5h"
+    },
+    {
+      "@id": "#vxfebv",
+      "name": "Insulate and cushion organs",
+      "x": 372,
+      "y": 203,
+      "parent": "#y3ge5h"
+    },
+    {
+      "@id": "#sabaaz",
+      "name": "Form every cell's membrane",
+      "x": 281,
+      "y": 281,
+      "parent": "#y3ge5h"
+    },
+    {
+      "@id": "#dgt5na",
+      "name": "Raw material for steroid hormones",
+      "x": 164,
+      "y": 335,
+      "parent": "#y3ge5h"
+    },
+    {
+      "@id": "#ad9myk",
+      "name": "Carry vitamins A, D, E, K",
+      "x": 38,
+      "y": 391,
+      "parent": "#y3ge5h"
+    },
+    {
+      "@id": "#9g4twq",
+      "name": "Health",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#294aca",
+      "name": "LDL and HDL carry cholesterol",
+      "x": -124,
+      "y": 447,
+      "parent": "#9g4twq"
+    },
+    {
+      "@id": "#5v597i",
+      "name": "High LDL raises heart disease risk",
+      "x": -225,
+      "y": 312,
+      "parent": "#9g4twq"
+    },
+    {
+      "@id": "#bpgb7g",
+      "name": "Guidelines favour unsaturated fats",
+      "x": -330,
+      "y": 245,
+      "parent": "#9g4twq"
+    },
+    {
+      "@id": "#rd58en",
+      "name": "Everyday chemistry",
+      "x": -220,
+      "y": 54,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7hy29p",
+      "name": "Soap is made from fat and lye",
+      "x": -405,
+      "y": 156,
+      "parent": "#rd58en"
+    },
+    {
+      "@id": "#ab9yse",
+      "name": "Oil and water don't mix",
+      "x": -465,
+      "y": 56,
+      "parent": "#rd58en"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 15,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

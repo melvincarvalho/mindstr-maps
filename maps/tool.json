@@ -1,0 +1,297 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Tool",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#xfrgyz",
+      "name": "Object that extends what hands can do",
+      "x": -216,
+      "y": -63,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qhqij6",
+      "name": "Levers, wedges and other simple machines",
+      "x": -623,
+      "y": -90,
+      "link": "https://en.wikipedia.org/wiki/Simple_machine",
+      "parent": "#xfrgyz"
+    },
+    {
+      "@id": "#qb25fw",
+      "name": "Chimps and crows also use tools",
+      "x": -390,
+      "y": -180,
+      "link": "https://en.wikipedia.org/wiki/Tool_use_by_non-humans",
+      "parent": "#xfrgyz"
+    },
+    {
+      "@id": "#qzbxhb",
+      "name": "Stone Age beginnings",
+      "x": -40,
+      "y": -181,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tniuac",
+      "name": "Stone tools, about 2.6 million years ago",
+      "x": -289,
+      "y": -276,
+      "link": "https://en.wikipedia.org/wiki/Stone_tool",
+      "parent": "#qzbxhb"
+    },
+    {
+      "@id": "#n5yrdf",
+      "name": "Acheulean hand axes",
+      "x": -154,
+      "y": -338,
+      "parent": "#qzbxhb"
+    },
+    {
+      "@id": "#a4xd86",
+      "name": "Control of fire",
+      "x": 0,
+      "y": -392,
+      "parent": "#qzbxhb"
+    },
+    {
+      "@id": "#k7szit",
+      "name": "Bone needles for sewing",
+      "x": 154,
+      "y": -338,
+      "parent": "#qzbxhb"
+    },
+    {
+      "@id": "#f6pjqy",
+      "name": "Metals transform tools",
+      "x": 176,
+      "y": -118,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uxywrz",
+      "name": "Copper, then bronze tools",
+      "x": 289,
+      "y": -276,
+      "parent": "#f6pjqy"
+    },
+    {
+      "@id": "#rk4wga",
+      "name": "Iron made tools cheaper and stronger",
+      "x": 390,
+      "y": -180,
+      "parent": "#f6pjqy"
+    },
+    {
+      "@id": "#n3cxdi",
+      "name": "Hand tools",
+      "x": 227,
+      "y": 32,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g2pkka",
+      "name": "Hammer, saw and screwdriver",
+      "x": 443,
+      "y": -63,
+      "parent": "#n3cxdi"
+    },
+    {
+      "@id": "#nvtqtw",
+      "name": "Pliers and wrenches",
+      "x": 443,
+      "y": 63,
+      "parent": "#n3cxdi"
+    },
+    {
+      "@id": "#8y35uc",
+      "name": "Tape measure and spirit level",
+      "x": 390,
+      "y": 180,
+      "parent": "#n3cxdi"
+    },
+    {
+      "@id": "#dqdj55",
+      "name": "Power and machine tools",
+      "x": 79,
+      "y": 173,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fpn8mg",
+      "name": "Industrial Revolution lathes and milling machines",
+      "x": 289,
+      "y": 276,
+      "link": "https://en.wikipedia.org/wiki/Machine_tool",
+      "parent": "#dqdj55"
+    },
+    {
+      "@id": "#be93nk",
+      "name": "Electric drills appeared around 1890",
+      "x": 154,
+      "y": 338,
+      "parent": "#dqdj55"
+    },
+    {
+      "@id": "#h26abt",
+      "name": "Cordless battery tools today",
+      "x": 0,
+      "y": 392,
+      "parent": "#dqdj55"
+    },
+    {
+      "@id": "#4m5qmh",
+      "name": "Using tools safely",
+      "x": -176,
+      "y": 118,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#q8tvek",
+      "name": "Right tool for the job",
+      "x": -203,
+      "y": 443,
+      "parent": "#4m5qmh"
+    },
+    {
+      "@id": "#kustiu",
+      "name": "Wear eye and ear protection",
+      "x": -289,
+      "y": 276,
+      "parent": "#4m5qmh"
+    },
+    {
+      "@id": "#xizicn",
+      "name": "Keep blades sharp and clean",
+      "x": -390,
+      "y": 180,
+      "parent": "#4m5qmh"
+    },
+    {
+      "@id": "#iusaec",
+      "name": "Unplug before changing bits or blades",
+      "x": -443,
+      "y": 63,
+      "parent": "#4m5qmh"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 4,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    }
+  ],
+  "selectedNode": 0
+}

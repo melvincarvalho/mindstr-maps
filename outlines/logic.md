@@ -1,0 +1,30 @@
+category: Philosophy and religion
+aliases: formal logic, deductive reasoning, logical reasoning, study of logic
+- Logic
+  - What logic studies
+    - Which conclusions follow from premises
+    - Arguments judged by form, not topic
+    - [Aristotle built the first formal system](https://en.wikipedia.org/wiki/Term_logic)
+  - Deduction
+    - True premises guarantee a true conclusion
+    - All men are mortal; Socrates is mortal
+    - [Validity differs from soundness](https://en.wikipedia.org/wiki/Validity_%28logic%29)
+  - Induction and abduction
+    - Induction generalises from observed cases
+    - Every swan seen was white, until Australia
+    - Abduction infers the best explanation
+  - Modern formal logic
+    - [Propositional logic: and, or, not, if](https://en.wikipedia.org/wiki/Propositional_calculus)
+    - Predicate logic adds "all" and "some"
+    - Truth tables test every case
+    - Frege and Russell rebuilt it around 1900
+  - Common fallacies
+    - Ad hominem attacks the person
+    - Straw man distorts the other argument
+    - A wet street doesn't prove rain
+    - Correlation is not causation
+  - Where logic is used
+    - Computer circuits run on Boolean logic
+    - Every mathematical proof
+    - Law, debate and everyday reasoning
+    - [Gödel: some truths can't be proved](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)

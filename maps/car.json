@@ -1,0 +1,340 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Car",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ag6a9x",
+      "name": "How it moves",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mau4fm",
+      "name": "Engine burns fuel in cylinders",
+      "x": -445,
+      "y": -51,
+      "link": "https://en.wikipedia.org/wiki/Internal_combustion_engine",
+      "parent": "#ag6a9x"
+    },
+    {
+      "@id": "#g9jhir",
+      "name": "Pistons turn a crankshaft",
+      "x": -409,
+      "y": -150,
+      "parent": "#ag6a9x"
+    },
+    {
+      "@id": "#vwpkcn",
+      "name": "Gearbox matches engine speed to wheels",
+      "x": -340,
+      "y": -236,
+      "parent": "#ag6a9x"
+    },
+    {
+      "@id": "#zwu5td",
+      "name": "Electric cars use battery-powered motors",
+      "x": -243,
+      "y": -303,
+      "parent": "#ag6a9x"
+    },
+    {
+      "@id": "#t8v4k8",
+      "name": "Main systems",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pfh327",
+      "name": "Steering turns the front wheels",
+      "x": -133,
+      "y": -360,
+      "parent": "#t8v4k8"
+    },
+    {
+      "@id": "#pyde4k",
+      "name": "Brakes press pads onto discs",
+      "x": 0,
+      "y": -408,
+      "parent": "#t8v4k8"
+    },
+    {
+      "@id": "#x6cy95",
+      "name": "Suspension smooths out bumps",
+      "x": 175,
+      "y": -465,
+      "parent": "#t8v4k8"
+    },
+    {
+      "@id": "#wht52x",
+      "name": "Battery and alternator power electrics",
+      "x": 243,
+      "y": -303,
+      "parent": "#t8v4k8"
+    },
+    {
+      "@id": "#75k8fc",
+      "name": "History",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qumc6t",
+      "name": "1886 Benz Patent-Motorwagen, first true car",
+      "x": 340,
+      "y": -236,
+      "link": "https://en.wikipedia.org/wiki/Benz_Patent-Motorwagen",
+      "parent": "#75k8fc"
+    },
+    {
+      "@id": "#qzkrky",
+      "name": "1908 Ford Model T for the masses",
+      "x": 409,
+      "y": -150,
+      "link": "https://en.wikipedia.org/wiki/Ford_Model_T",
+      "parent": "#75k8fc"
+    },
+    {
+      "@id": "#wcpumc",
+      "name": "Moving assembly line cut costs, 1913",
+      "x": 485,
+      "y": -55,
+      "parent": "#75k8fc"
+    },
+    {
+      "@id": "#d56j6u",
+      "name": "Postwar boom built suburbs and motorways",
+      "x": 445,
+      "y": 51,
+      "parent": "#75k8fc"
+    },
+    {
+      "@id": "#hrykzd",
+      "name": "Safety",
+      "x": 151,
+      "y": 139,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nxejc2",
+      "name": "Seat belts became standard from 1960s",
+      "x": 409,
+      "y": 150,
+      "parent": "#hrykzd"
+    },
+    {
+      "@id": "#ipvsu3",
+      "name": "Airbags and crumple zones absorb impacts",
+      "x": 340,
+      "y": 236,
+      "parent": "#hrykzd"
+    },
+    {
+      "@id": "#zbxpgd",
+      "name": "Anti-lock brakes prevent skidding",
+      "x": 243,
+      "y": 303,
+      "parent": "#hrykzd"
+    },
+    {
+      "@id": "#ynjhfq",
+      "name": "About 1.2 million road deaths yearly",
+      "x": 133,
+      "y": 360,
+      "parent": "#hrykzd"
+    },
+    {
+      "@id": "#zu3kam",
+      "name": "Impact on the world",
+      "x": -65,
+      "y": 177,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4mmazr",
+      "name": "Over 1.4 billion cars in use",
+      "x": 0,
+      "y": 408,
+      "parent": "#zu3kam"
+    },
+    {
+      "@id": "#hgu3hk",
+      "name": "Exhaust adds CO₂ and air pollution",
+      "x": -175,
+      "y": 465,
+      "parent": "#zu3kam"
+    },
+    {
+      "@id": "#gc7j3a",
+      "name": "Shaped cities, jobs and daily life",
+      "x": -243,
+      "y": 303,
+      "parent": "#zu3kam"
+    },
+    {
+      "@id": "#h5sqh5",
+      "name": "Owning one",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#urymfx",
+      "name": "Fuel, insurance and tax add up",
+      "x": -340,
+      "y": 236,
+      "parent": "#h5sqh5"
+    },
+    {
+      "@id": "#tg72e6",
+      "name": "Regular servicing keeps it reliable",
+      "x": -409,
+      "y": 150,
+      "parent": "#h5sqh5"
+    },
+    {
+      "@id": "#ydg8qn",
+      "name": "Value drops fastest in early years",
+      "x": -465,
+      "y": 53,
+      "parent": "#h5sqh5"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

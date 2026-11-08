@@ -1,0 +1,354 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Ecosystem",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#irn6wu",
+      "name": "What it is",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dwxvzd",
+      "name": "Living things plus their physical surroundings",
+      "x": -525,
+      "y": -59,
+      "parent": "#irn6wu"
+    },
+    {
+      "@id": "#j92hh4",
+      "name": "Term coined by Arthur Tansley, 1935",
+      "x": -409,
+      "y": -150,
+      "parent": "#irn6wu"
+    },
+    {
+      "@id": "#6qmgkr",
+      "name": "Any scale, from pond to ocean",
+      "x": -340,
+      "y": -236,
+      "parent": "#irn6wu"
+    },
+    {
+      "@id": "#iarhmm",
+      "name": "Living parts",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#34qj4w",
+      "name": "Producers: plants and algae photosynthesise",
+      "x": -243,
+      "y": -303,
+      "parent": "#iarhmm"
+    },
+    {
+      "@id": "#nqebua",
+      "name": "Consumers: herbivores, carnivores, omnivores",
+      "x": -133,
+      "y": -360,
+      "parent": "#iarhmm"
+    },
+    {
+      "@id": "#hfa9qf",
+      "name": "Decomposers: fungi and bacteria recycle",
+      "x": 0,
+      "y": -408,
+      "parent": "#iarhmm"
+    },
+    {
+      "@id": "#jvyn3s",
+      "name": "Keystone species hold systems together",
+      "x": 175,
+      "y": -465,
+      "link": "https://en.wikipedia.org/wiki/Keystone_species",
+      "parent": "#iarhmm"
+    },
+    {
+      "@id": "#qu4qmp",
+      "name": "Non-living parts",
+      "x": 174,
+      "y": -120,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vbupyq",
+      "name": "Sunlight, water and temperature",
+      "x": 243,
+      "y": -303,
+      "parent": "#qu4qmp"
+    },
+    {
+      "@id": "#bsat2e",
+      "name": "Soil, rock and nutrients",
+      "x": 340,
+      "y": -236,
+      "parent": "#qu4qmp"
+    },
+    {
+      "@id": "#8f5fgs",
+      "name": "Climate shapes which species thrive",
+      "x": 463,
+      "y": -171,
+      "parent": "#qu4qmp"
+    },
+    {
+      "@id": "#sjufpb",
+      "name": "Energy flow",
+      "x": 228,
+      "y": 26,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#agjn7p",
+      "name": "Food webs link who eats whom",
+      "x": 445,
+      "y": -51,
+      "link": "https://en.wikipedia.org/wiki/Food_web",
+      "parent": "#sjufpb"
+    },
+    {
+      "@id": "#qwmiqs",
+      "name": "About 10% passes up each level",
+      "x": 485,
+      "y": 55,
+      "link": "https://en.wikipedia.org/wiki/Trophic_level",
+      "parent": "#sjufpb"
+    },
+    {
+      "@id": "#k4ab5s",
+      "name": "Energy flows one way, lost as heat",
+      "x": 409,
+      "y": 150,
+      "parent": "#sjufpb"
+    },
+    {
+      "@id": "#vg6jfi",
+      "name": "Nutrient cycles",
+      "x": 124,
+      "y": 155,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a99575",
+      "name": "Carbon cycles through air and life",
+      "x": 340,
+      "y": 236,
+      "parent": "#vg6jfi"
+    },
+    {
+      "@id": "#sfzuiy",
+      "name": "Nitrogen fixed by soil bacteria",
+      "x": 243,
+      "y": 303,
+      "link": "https://en.wikipedia.org/wiki/Nitrogen_cycle",
+      "parent": "#vg6jfi"
+    },
+    {
+      "@id": "#pj6d9n",
+      "name": "Water cycle moves rain to rivers",
+      "x": 133,
+      "y": 360,
+      "parent": "#vg6jfi"
+    },
+    {
+      "@id": "#vjkb98",
+      "name": "Change and balance",
+      "x": -77,
+      "y": 207,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rb99ap",
+      "name": "Succession: bare ground becomes forest",
+      "x": 0,
+      "y": 408,
+      "link": "https://en.wikipedia.org/wiki/Ecological_succession",
+      "parent": "#vjkb98"
+    },
+    {
+      "@id": "#3t7775",
+      "name": "Fires and floods reset habitats",
+      "x": -175,
+      "y": 465,
+      "parent": "#vjkb98"
+    },
+    {
+      "@id": "#amjygs",
+      "name": "Invasive species can upset balance",
+      "x": -243,
+      "y": 303,
+      "parent": "#vjkb98"
+    },
+    {
+      "@id": "#zmd5kw",
+      "name": "Major types",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#D4F1F4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wvgyyn",
+      "name": "Forests, grasslands and deserts",
+      "x": -355,
+      "y": 246,
+      "parent": "#zmd5kw"
+    },
+    {
+      "@id": "#y39m2w",
+      "name": "Freshwater lakes, rivers and wetlands",
+      "x": -409,
+      "y": 150,
+      "parent": "#zmd5kw"
+    },
+    {
+      "@id": "#cym32m",
+      "name": "Oceans and coral reefs",
+      "x": -445,
+      "y": 51,
+      "parent": "#zmd5kw"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    },
+    {
+      "start": 26,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

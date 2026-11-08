@@ -1,0 +1,26 @@
+category: Geography
+aliases: java island, java indonesia, island of java, pulau jawa
+- Java
+  - Indonesian island, not programming language
+    - Between Sumatra and Bali
+    - About 128,000 km² in area
+    - Borders the Java Sea to north
+  - People
+    - Over 150 million inhabitants
+    - Most populous island in the world
+    - [Jakarta, Indonesia's capital, is here](https://en.wikipedia.org/wiki/Jakarta)
+    - Javanese, Sundanese and Madurese peoples
+  - Volcanoes
+    - Over 40 volcanoes along its spine
+    - Merapi is among the most active
+    - Ash makes soils very fertile
+  - History
+    - [Java Man fossils, early human ancestor](https://en.wikipedia.org/wiki/Java_Man)
+    - [Borobudur, Buddhist temple, 9th century](https://en.wikipedia.org/wiki/Borobudur)
+    - Majapahit empire ruled from Java
+    - Dutch colonial centre from 1600s
+  - Economy and culture
+    - Rice, tea and coffee growing
+    - Gave its name to "java" coffee
+    - Gamelan music and wayang puppetry
+    - Batik textiles

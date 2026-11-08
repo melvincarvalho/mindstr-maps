@@ -1,0 +1,33 @@
+category: Society
+aliases: taxation, taxes explained, how taxes work, types of taxes
+- Tax
+  - What tax is
+    - Compulsory payment to government
+    - Not tied to a specific service
+    - Funds public goods and transfers
+  - Main types
+    - [Income tax on wages and profits](https://en.wikipedia.org/wiki/Income_tax)
+    - [VAT or sales tax on spending](https://en.wikipedia.org/wiki/Value-added_tax)
+    - Payroll taxes fund pensions, health
+    - Corporate tax on company profits
+    - Property, wealth and inheritance taxes
+    - Excise duties on fuel, alcohol, tobacco
+  - Design choices
+    - [Progressive: higher earners pay larger share](https://en.wikipedia.org/wiki/Progressive_tax)
+    - Regressive taxes hit poorer people harder
+    - Flat taxes use one rate
+    - Allowances, deductions and credits
+  - What it pays for
+    - Health, pensions and welfare
+    - Education, defence and policing
+    - Roads and public infrastructure
+    - Interest on government debt
+  - Effects and debates
+    - Taxes change incentives to work, invest
+    - Who really bears a tax: incidence
+    - [Laffer curve: rates versus revenue](https://en.wikipedia.org/wiki/Laffer_curve)
+    - Avoidance is legal, evasion is not
+  - Collecting it
+    - Employers withhold tax from pay
+    - Annual tax returns for some
+    - [Tax havens and global minimum tax](https://en.wikipedia.org/wiki/Tax_haven)

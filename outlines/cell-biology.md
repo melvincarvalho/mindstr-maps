@@ -1,0 +1,30 @@
+category: Science
+aliases: biological cell, living cell, cell structure
+- Cell (biology)
+  - Basic facts
+    - Smallest unit of life
+    - [Cell theory: all life is cells](https://en.wikipedia.org/wiki/Cell_theory)
+    - New cells come from existing cells
+    - Human body has about 30 trillion cells
+  - Two main kinds
+    - [Prokaryotes lack a nucleus](https://en.wikipedia.org/wiki/Prokaryote)
+    - Eukaryotes keep DNA in a nucleus
+  - Parts of a cell
+    - [Cell membrane controls what enters](https://en.wikipedia.org/wiki/Cell_membrane)
+    - Nucleus holds the DNA
+    - [Mitochondria release energy as ATP](https://en.wikipedia.org/wiki/Mitochondrion)
+    - Ribosomes build proteins
+    - Endoplasmic reticulum and Golgi process proteins
+  - Plant cells add
+    - Cell wall made of cellulose
+    - Chloroplasts carry out photosynthesis
+    - Large central vacuole
+  - What cells do
+    - Copy DNA and make proteins
+    - Signal to neighbouring cells
+    - Specialise into nerve, muscle, blood
+  - Life cycle
+    - [Mitosis makes two identical cells](https://en.wikipedia.org/wiki/Mitosis)
+    - Meiosis makes sex cells
+    - Programmed cell death removes old cells
+    - Uncontrolled division leads to cancer

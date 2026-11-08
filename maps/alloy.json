@@ -1,0 +1,297 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Alloy",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#2ydjuc",
+      "name": "What an alloy is",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d9uc2z",
+      "name": "A metal mixed with other elements",
+      "x": -483,
+      "y": -69,
+      "parent": "#2ydjuc"
+    },
+    {
+      "@id": "#pt4z52",
+      "name": "Usually melted together then cooled",
+      "x": -390,
+      "y": -180,
+      "parent": "#2ydjuc"
+    },
+    {
+      "@id": "#cbmkf8",
+      "name": "Properties differ from the pure metals",
+      "x": -289,
+      "y": -276,
+      "parent": "#2ydjuc"
+    },
+    {
+      "@id": "#zx9a8d",
+      "name": "Why alloys are stronger",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z2ypgm",
+      "name": "Different-sized atoms disrupt neat layers",
+      "x": -154,
+      "y": -338,
+      "parent": "#zx9a8d"
+    },
+    {
+      "@id": "#e8v2yh",
+      "name": "Layers can't slide as easily",
+      "x": 0,
+      "y": -392,
+      "parent": "#zx9a8d"
+    },
+    {
+      "@id": "#nzbun3",
+      "name": "Pure metals are often too soft",
+      "x": 203,
+      "y": -443,
+      "parent": "#zx9a8d"
+    },
+    {
+      "@id": "#wd6itw",
+      "name": "Two ways atoms mix",
+      "x": 176,
+      "y": -118,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hns2m5",
+      "name": "Substitutional: similar atoms swap places",
+      "x": 289,
+      "y": -276,
+      "parent": "#wd6itw"
+    },
+    {
+      "@id": "#nh9ewh",
+      "name": "Interstitial: small atoms fill gaps",
+      "x": 390,
+      "y": -180,
+      "parent": "#wd6itw"
+    },
+    {
+      "@id": "#zpeibt",
+      "name": "Famous alloys",
+      "x": 199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9wdnvi",
+      "name": "Bronze: copper and tin",
+      "x": 443,
+      "y": -63,
+      "link": "https://en.wikipedia.org/wiki/Bronze",
+      "parent": "#zpeibt"
+    },
+    {
+      "@id": "#kvdwy9",
+      "name": "Brass: copper and zinc",
+      "x": 443,
+      "y": 63,
+      "link": "https://en.wikipedia.org/wiki/Brass",
+      "parent": "#zpeibt"
+    },
+    {
+      "@id": "#f7ye9g",
+      "name": "Steel: iron and carbon",
+      "x": 390,
+      "y": 180,
+      "link": "https://en.wikipedia.org/wiki/Steel",
+      "parent": "#zpeibt"
+    },
+    {
+      "@id": "#beim3s",
+      "name": "Stainless steel adds chromium against rust",
+      "x": 289,
+      "y": 276,
+      "link": "https://en.wikipedia.org/wiki/Stainless_steel",
+      "parent": "#zpeibt"
+    },
+    {
+      "@id": "#my46sd",
+      "name": "Solder joins electronics, mostly tin-based",
+      "x": 154,
+      "y": 338,
+      "parent": "#zpeibt"
+    },
+    {
+      "@id": "#he9uyu",
+      "name": "Gold and coins",
+      "x": -40,
+      "y": 181,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p5vkac",
+      "name": "18-carat gold is 75% gold",
+      "x": 0,
+      "y": 392,
+      "parent": "#he9uyu"
+    },
+    {
+      "@id": "#varhu9",
+      "name": "Cupronickel makes many silver-coloured coins",
+      "x": -203,
+      "y": 443,
+      "parent": "#he9uyu"
+    },
+    {
+      "@id": "#agikht",
+      "name": "Special-purpose alloys",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wxkau5",
+      "name": "Aluminium alloys keep aircraft light",
+      "x": -289,
+      "y": 276,
+      "parent": "#agikht"
+    },
+    {
+      "@id": "#bmf39w",
+      "name": "Titanium alloys in jet engines and implants",
+      "x": -390,
+      "y": 180,
+      "parent": "#agikht"
+    },
+    {
+      "@id": "#amq9tg",
+      "name": "Shape-memory alloys spring back when heated",
+      "x": -543,
+      "y": 78,
+      "parent": "#agikht"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 12,
+      "end": 16
+    },
+    {
+      "start": 12,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,33 @@
+category: Philosophy and religion
+aliases: prophet moses, moshe rabbenu, musa prophet
+- Moses
+  - Who he is
+    - Prophet in Judaism, Christianity, Islam
+    - Leader who brought Israelites from Egypt
+    - Called Moshe in Hebrew, Musa in Arabic
+  - Early life in the Bible
+    - Born to Hebrew slaves in Egypt
+    - Hidden in a basket on the Nile
+    - Raised by Pharaoh's daughter
+    - Fled to Midian after killing an Egyptian
+  - The Exodus
+    - God speaks from the burning bush
+    - [Ten plagues strike Egypt](https://en.wikipedia.org/wiki/Plagues_of_Egypt)
+    - Passover night and departure
+    - Crossing of the Red Sea
+  - Sinai and the wilderness
+    - [Receives the Ten Commandments](https://en.wikipedia.org/wiki/Ten_Commandments)
+    - Covenant and law given at Mount Sinai
+    - Golden calf episode
+    - Forty years wandering in the desert
+    - Dies on Mount Nebo before Canaan
+  - Sources and history
+    - [Story told in Exodus to Deuteronomy](https://en.wikipedia.org/wiki/Book_of_Exodus)
+    - Tradition credits him with the Torah
+    - Most historians doubt the Exodus as told
+    - No evidence outside the scriptures
+  - Legacy
+    - Model lawgiver and prophet in Judaism
+    - [Prominent prophet in the Quran](https://en.wikipedia.org/wiki/Moses_in_Islam)
+    - Exodus inspired freedom movements
+    - Michelangelo's statue of Moses

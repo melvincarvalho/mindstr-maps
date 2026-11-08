@@ -1,0 +1,28 @@
+category: People
+aliases: freud, freudian psychology, father of psychoanalysis
+- Sigmund Freud
+  - Life, 1856–1939
+    - Born in Příbor, Moravia, Austrian Empire
+    - Trained as neurologist in Vienna
+    - Studied hysteria with Charcot and Breuer
+    - Fled Nazi-annexed Austria for London, 1938
+    - Died in London, 1939
+  - [Founded psychoanalysis](https://en.wikipedia.org/wiki/Psychoanalysis)
+    - Talking cure for mental distress
+    - Free association: say whatever comes
+    - Analysing transference to the analyst
+  - Key ideas
+    - [The unconscious drives behaviour](https://en.wikipedia.org/wiki/Unconscious_mind)
+    - [Mind split into id, ego, superego](https://en.wikipedia.org/wiki/Id%2C_ego_and_super-ego)
+    - Defence mechanisms such as repression
+    - Childhood psychosexual stages shape adults
+    - Oedipus complex
+  - Major works
+    - [The Interpretation of Dreams, 1899](https://en.wikipedia.org/wiki/The_Interpretation_of_Dreams)
+    - Psychopathology of Everyday Life, 1901
+    - Civilization and Its Discontents, 1930
+  - Legacy
+    - Shaped psychotherapy and modern culture
+    - "Freudian slip" entered everyday language
+    - Followers and rivals: Jung, Adler, Anna Freud
+    - Many theories criticised as unscientific

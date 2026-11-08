@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Anatomy",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#7xfyhv",
+      "name": "What anatomy studies",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ppzye9",
+      "name": "The structure of living things",
+      "x": -484,
+      "y": -60,
+      "parent": "#7xfyhv"
+    },
+    {
+      "@id": "#a3dqau",
+      "name": "Physiology studies how parts work",
+      "x": -401,
+      "y": -163,
+      "parent": "#7xfyhv"
+    },
+    {
+      "@id": "#5cix9u",
+      "name": "Covers humans, animals and plants",
+      "x": -318,
+      "y": -255,
+      "parent": "#7xfyhv"
+    },
+    {
+      "@id": "#wa2mkv",
+      "name": "Ways to study it",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cp6vxy",
+      "name": "Gross anatomy: visible to the eye",
+      "x": -204,
+      "y": -321,
+      "parent": "#wa2mkv"
+    },
+    {
+      "@id": "#vwt8hb",
+      "name": "Histology: tissues under a microscope",
+      "x": -73,
+      "y": -372,
+      "link": "https://en.wikipedia.org/wiki/Histology",
+      "parent": "#wa2mkv"
+    },
+    {
+      "@id": "#i8m5jg",
+      "name": "Dissection of donated bodies",
+      "x": 82,
+      "y": -420,
+      "parent": "#wa2mkv"
+    },
+    {
+      "@id": "#wvtir3",
+      "name": "Medical imaging: X-ray, CT, MRI",
+      "x": 204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Medical_imaging",
+      "parent": "#wa2mkv"
+    },
+    {
+      "@id": "#spr969",
+      "name": "Levels of organisation",
+      "x": 205,
+      "y": -84,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xhnji5",
+      "name": "Cells form tissues",
+      "x": 318,
+      "y": -255,
+      "parent": "#spr969"
+    },
+    {
+      "@id": "#668ps9",
+      "name": "Tissues form organs",
+      "x": 401,
+      "y": -163,
+      "parent": "#spr969"
+    },
+    {
+      "@id": "#c2sgd4",
+      "name": "Organs work together as systems",
+      "x": 504,
+      "y": -62,
+      "parent": "#spr969"
+    },
+    {
+      "@id": "#rguuvb",
+      "name": "The human body plan",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xsr7cf",
+      "name": "About 206 bones in adults",
+      "x": 444,
+      "y": 56,
+      "parent": "#rguuvb"
+    },
+    {
+      "@id": "#fa63it",
+      "name": "Over 600 skeletal muscles",
+      "x": 401,
+      "y": 163,
+      "parent": "#rguuvb"
+    },
+    {
+      "@id": "#wtuwxr",
+      "name": "Eleven main organ systems",
+      "x": 318,
+      "y": 255,
+      "parent": "#rguuvb"
+    },
+    {
+      "@id": "#5jzjmg",
+      "name": "Anatomical position, planes and directions",
+      "x": 204,
+      "y": 321,
+      "parent": "#rguuvb"
+    },
+    {
+      "@id": "#njyem2",
+      "name": "Comparative anatomy",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#np39tn",
+      "name": "Homologous structures reveal shared ancestry",
+      "x": 73,
+      "y": 372,
+      "link": "https://en.wikipedia.org/wiki/Homology_%28biology%29",
+      "parent": "#njyem2"
+    },
+    {
+      "@id": "#fdt8dj",
+      "name": "Vertebrate limbs share one bone pattern",
+      "x": -82,
+      "y": 420,
+      "parent": "#njyem2"
+    },
+    {
+      "@id": "#zseenv",
+      "name": "Plant anatomy: roots, stems, leaves",
+      "x": -204,
+      "y": 321,
+      "parent": "#njyem2"
+    },
+    {
+      "@id": "#xztbxm",
+      "name": "History",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p2cpmp",
+      "name": "Galen's ideas dominated for centuries",
+      "x": -318,
+      "y": 255,
+      "parent": "#xztbxm"
+    },
+    {
+      "@id": "#hgawma",
+      "name": "Vesalius's Fabrica corrected Galen, 1543",
+      "x": -401,
+      "y": 163,
+      "link": "https://en.wikipedia.org/wiki/Andreas_Vesalius",
+      "parent": "#xztbxm"
+    },
+    {
+      "@id": "#znwfh2",
+      "name": "Gray's Anatomy first published 1858",
+      "x": -464,
+      "y": 58,
+      "parent": "#xztbxm"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

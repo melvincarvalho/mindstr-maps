@@ -1,0 +1,375 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "British Empire",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#e5haaz",
+      "name": "Rise from about 1600",
+      "x": -202,
+      "y": -89,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#87abi6",
+      "name": "East India Company chartered 1600",
+      "x": -506,
+      "y": -51,
+      "link": "https://en.wikipedia.org/wiki/East_India_Company",
+      "parent": "#e5haaz"
+    },
+    {
+      "@id": "#j3re7x",
+      "name": "Colonies in North America and Caribbean",
+      "x": -437,
+      "y": -139,
+      "parent": "#e5haaz"
+    },
+    {
+      "@id": "#n87k74",
+      "name": "Thirteen American colonies lost in 1783",
+      "x": -364,
+      "y": -212,
+      "parent": "#e5haaz"
+    },
+    {
+      "@id": "#ins3b9",
+      "name": "Royal Navy dominated sea trade",
+      "x": -287,
+      "y": -277,
+      "parent": "#e5haaz"
+    },
+    {
+      "@id": "#288zcd",
+      "name": "Height around 1920",
+      "x": -14,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7hch64",
+      "name": "About a quarter of world's land",
+      "x": -192,
+      "y": -326,
+      "parent": "#288zcd"
+    },
+    {
+      "@id": "#n4e7sr",
+      "name": "Roughly a quarter of world's population",
+      "x": -92,
+      "y": -386,
+      "parent": "#288zcd"
+    },
+    {
+      "@id": "#m4w9pm",
+      "name": "India under Crown rule from 1858",
+      "x": 33,
+      "y": -439,
+      "parent": "#288zcd"
+    },
+    {
+      "@id": "#g8jhnf",
+      "name": "Settler dominions: Canada, Australia, New Zealand",
+      "x": 199,
+      "y": -492,
+      "parent": "#288zcd"
+    },
+    {
+      "@id": "#yv6uu9",
+      "name": "Impact on colonised peoples",
+      "x": 214,
+      "y": -68,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7hbrfz",
+      "name": "Millions of Africans enslaved and shipped",
+      "x": 241,
+      "y": -304,
+      "link": "https://en.wikipedia.org/wiki/Atlantic_slave_trade",
+      "parent": "#yv6uu9"
+    },
+    {
+      "@id": "#kcp8cs",
+      "name": "Indigenous lands seized, populations devastated",
+      "x": 328,
+      "y": -246,
+      "parent": "#yv6uu9"
+    },
+    {
+      "@id": "#cwybis",
+      "name": "Deadly famines under British rule in India",
+      "x": 394,
+      "y": -173,
+      "parent": "#yv6uu9"
+    },
+    {
+      "@id": "#ty7m7i",
+      "name": "Amritsar massacre of 1919",
+      "x": 512,
+      "y": -106,
+      "link": "https://en.wikipedia.org/wiki/Jallianwala_Bagh_massacre",
+      "parent": "#yv6uu9"
+    },
+    {
+      "@id": "#gn7ggy",
+      "name": "Brutal suppression of Kenya's Mau Mau",
+      "x": 450,
+      "y": 0,
+      "parent": "#yv6uu9"
+    },
+    {
+      "@id": "#ynjauq",
+      "name": "Economies reshaped to export raw materials",
+      "x": 436,
+      "y": 90,
+      "parent": "#yv6uu9"
+    },
+    {
+      "@id": "#xnvxbf",
+      "name": "Abolition and reform",
+      "x": 250,
+      "y": 144,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#63gbtp",
+      "name": "Slave trade banned 1807",
+      "x": 448,
+      "y": 197,
+      "parent": "#xnvxbf"
+    },
+    {
+      "@id": "#32an4s",
+      "name": "Slavery abolished in most colonies 1833",
+      "x": 328,
+      "y": 246,
+      "parent": "#xnvxbf"
+    },
+    {
+      "@id": "#vp7syd",
+      "name": "Decline after the world wars",
+      "x": 21,
+      "y": 296,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nwi4pn",
+      "name": "Two world wars drained British power",
+      "x": 274,
+      "y": 346,
+      "parent": "#vp7syd"
+    },
+    {
+      "@id": "#anpmfy",
+      "name": "India and Pakistan independent 1947",
+      "x": 163,
+      "y": 402,
+      "link": "https://en.wikipedia.org/wiki/Partition_of_India",
+      "parent": "#vp7syd"
+    },
+    {
+      "@id": "#bt226g",
+      "name": "Suez Crisis 1956 exposed weakness",
+      "x": 34,
+      "y": 455,
+      "parent": "#vp7syd"
+    },
+    {
+      "@id": "#w2wvuv",
+      "name": "Most African colonies free by 1960s",
+      "x": -124,
+      "y": 514,
+      "parent": "#vp7syd"
+    },
+    {
+      "@id": "#nxyjiu",
+      "name": "Hong Kong returned to China 1997",
+      "x": -210,
+      "y": 354,
+      "parent": "#vp7syd"
+    },
+    {
+      "@id": "#8uh26d",
+      "name": "Legacy",
+      "x": -202,
+      "y": 89,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mwfrn5",
+      "name": "Commonwealth of Nations unites former colonies",
+      "x": -430,
+      "y": 409,
+      "link": "https://en.wikipedia.org/wiki/Commonwealth_of_Nations",
+      "parent": "#8uh26d"
+    },
+    {
+      "@id": "#a9j528",
+      "name": "English spread as a global language",
+      "x": -364,
+      "y": 212,
+      "parent": "#8uh26d"
+    },
+    {
+      "@id": "#8b9b5b",
+      "name": "Borders and legal systems left behind",
+      "x": -437,
+      "y": 139,
+      "parent": "#8uh26d"
+    },
+    {
+      "@id": "#nxwmcm",
+      "name": "Historians still debate its record",
+      "x": -446,
+      "y": 45,
+      "parent": "#8uh26d"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 11,
+      "end": 16
+    },
+    {
+      "start": 11,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    },
+    {
+      "start": 21,
+      "end": 26
+    },
+    {
+      "start": 0,
+      "end": 27
+    },
+    {
+      "start": 27,
+      "end": 28
+    },
+    {
+      "start": 27,
+      "end": 29
+    },
+    {
+      "start": 27,
+      "end": 30
+    },
+    {
+      "start": 27,
+      "end": 31
+    }
+  ],
+  "selectedNode": 0
+}

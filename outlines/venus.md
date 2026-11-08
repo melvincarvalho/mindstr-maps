@@ -1,0 +1,32 @@
+category: Science
+aliases: planet venus, venus planet, morning star, evening star
+- Venus
+  - Size and orbit
+    - Second planet from the Sun
+    - Almost the same size as Earth
+    - About 108 million km from the Sun
+    - Year of 225 Earth days
+    - Spins backwards, very slowly
+  - Surface
+    - Hottest planet, about 465°C
+    - Pressure 90 times Earth's
+    - Volcanic plains cover most of it
+    - Few craters, so a young surface
+  - Atmosphere
+    - Mostly carbon dioxide
+    - Thick clouds of sulphuric acid
+    - [Runaway greenhouse effect traps heat](https://en.wikipedia.org/wiki/Runaway_greenhouse_effect)
+    - Upper winds circle it in four days
+  - In the sky
+    - Brightest planet seen from Earth
+    - Known as morning or evening star
+    - Shows phases like the Moon
+    - No moons and no rings
+  - Exploration
+    - Mariner 2 flew past in 1962
+    - [Soviet Venera landers reached the surface](https://en.wikipedia.org/wiki/Venera)
+    - Magellan mapped it by radar
+    - New NASA and ESA missions planned
+  - Why it matters
+    - Shows how a climate can go wrong
+    - Possible past oceans still debated

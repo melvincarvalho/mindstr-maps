@@ -1,0 +1,352 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "European colonization of the Americas",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#djv8qi",
+      "name": "Before contact",
+      "x": -211,
+      "y": -73,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fqc3vy",
+      "name": "Tens of millions of Indigenous people",
+      "x": -506,
+      "y": -55,
+      "parent": "#djv8qi"
+    },
+    {
+      "@id": "#98fcrc",
+      "name": "Aztec, Inca and Maya civilisations",
+      "x": -413,
+      "y": -143,
+      "parent": "#djv8qi"
+    },
+    {
+      "@id": "#v3pc2b",
+      "name": "Norse briefly reached Newfoundland around 1000",
+      "x": -349,
+      "y": -227,
+      "parent": "#djv8qi"
+    },
+    {
+      "@id": "#wfy3mg",
+      "name": "Spain and Portugal first",
+      "x": -71,
+      "y": -276,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r5g3k6",
+      "name": "Columbus arrived in the Caribbean, 1492",
+      "x": -296,
+      "y": -333,
+      "parent": "#wfy3mg"
+    },
+    {
+      "@id": "#5x8p7j",
+      "name": "Cortés toppled the Aztec Empire, 1521",
+      "x": -172,
+      "y": -384,
+      "link": "https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Aztec_Empire",
+      "parent": "#wfy3mg"
+    },
+    {
+      "@id": "#zanxmp",
+      "name": "Pizarro conquered the Inca from 1532",
+      "x": -36,
+      "y": -439,
+      "parent": "#wfy3mg"
+    },
+    {
+      "@id": "#546hmc",
+      "name": "Portugal colonised Brazil from 1500",
+      "x": 128,
+      "y": -496,
+      "parent": "#wfy3mg"
+    },
+    {
+      "@id": "#yjj8h7",
+      "name": "Other European powers",
+      "x": 178,
+      "y": -116,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rymtez",
+      "name": "English settled Jamestown in 1607",
+      "x": 216,
+      "y": -334,
+      "parent": "#yjj8h7"
+    },
+    {
+      "@id": "#cqd22e",
+      "name": "French built New France along St Lawrence",
+      "x": 307,
+      "y": -263,
+      "parent": "#yjj8h7"
+    },
+    {
+      "@id": "#v87wn4",
+      "name": "Dutch founded New Amsterdam, later New York",
+      "x": 384,
+      "y": -187,
+      "parent": "#yjj8h7"
+    },
+    {
+      "@id": "#zcuh7m",
+      "name": "Caribbean islands divided among many powers",
+      "x": 528,
+      "y": -117,
+      "parent": "#yjj8h7"
+    },
+    {
+      "@id": "#mkkfgt",
+      "name": "Impact on Indigenous peoples",
+      "x": 211,
+      "y": 73,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kdn3ve",
+      "name": "Smallpox and other epidemics killed most",
+      "x": 450,
+      "y": 0,
+      "parent": "#mkkfgt"
+    },
+    {
+      "@id": "#zxwqg2",
+      "name": "Forced labour like encomienda and mita",
+      "x": 547,
+      "y": 121,
+      "parent": "#mkkfgt"
+    },
+    {
+      "@id": "#ifxdny",
+      "name": "Land seized; peoples displaced or killed",
+      "x": 384,
+      "y": 187,
+      "parent": "#mkkfgt"
+    },
+    {
+      "@id": "#qkvxyh",
+      "name": "Missions pressed conversion and suppressed cultures",
+      "x": 307,
+      "y": 263,
+      "parent": "#mkkfgt"
+    },
+    {
+      "@id": "#bgathw",
+      "name": "Slavery and the plantation economy",
+      "x": 24,
+      "y": 312,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#785xxd",
+      "name": "About 12 million Africans shipped across Atlantic",
+      "x": 234,
+      "y": 362,
+      "link": "https://en.wikipedia.org/wiki/Atlantic_slave_trade",
+      "parent": "#bgathw"
+    },
+    {
+      "@id": "#nyar75",
+      "name": "Sugar, tobacco and cotton plantations",
+      "x": 108,
+      "y": 416,
+      "parent": "#bgathw"
+    },
+    {
+      "@id": "#9ivuzk",
+      "name": "Enslaved people resisted, revolted and escaped",
+      "x": -38,
+      "y": 471,
+      "parent": "#bgathw"
+    },
+    {
+      "@id": "#28yrsu",
+      "name": "Potosí silver flowed to Europe and Asia",
+      "x": -235,
+      "y": 519,
+      "link": "https://en.wikipedia.org/wiki/Potos%C3%AD",
+      "parent": "#bgathw"
+    },
+    {
+      "@id": "#ckx44t",
+      "name": "Independence and legacy",
+      "x": -197,
+      "y": 96,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2x5kf9",
+      "name": "US independence declared 1776",
+      "x": -308,
+      "y": 346,
+      "parent": "#ckx44t"
+    },
+    {
+      "@id": "#sr3znc",
+      "name": "Haitian Revolution ended slavery there, 1804",
+      "x": -349,
+      "y": 227,
+      "link": "https://en.wikipedia.org/wiki/Haitian_Revolution",
+      "parent": "#ckx44t"
+    },
+    {
+      "@id": "#6azif5",
+      "name": "Most of Latin America independent by 1820s",
+      "x": -431,
+      "y": 149,
+      "parent": "#ckx44t"
+    },
+    {
+      "@id": "#84cw7p",
+      "name": "Mixed societies, languages and lasting inequalities",
+      "x": -586,
+      "y": 63,
+      "parent": "#ckx44t"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    },
+    {
+      "start": 25,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

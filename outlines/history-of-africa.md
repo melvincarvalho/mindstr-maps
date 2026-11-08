@@ -1,0 +1,32 @@
+category: History
+aliases: african history, africa history, precolonial africa
+- History of Africa
+  - Cradle of humankind
+    - Earliest human ancestors evolved here
+    - Homo sapiens fossils about 300,000 years old
+    - Sahara was green until about 3500 BC
+  - Ancient civilizations
+    - [Ancient Egypt unified about 3100 BC](https://en.wikipedia.org/wiki/Ancient_Egypt)
+    - Kingdom of Kush in Nubia
+    - Carthage rivals Rome in the north
+    - Aksum, early Christian kingdom in Ethiopia
+    - Bantu migrations spread farming and iron
+  - Trade and medieval kingdoms
+    - Islam spreads from the 7th century
+    - [Mali Empire and Mansa Musa](https://en.wikipedia.org/wiki/Mali_Empire)
+    - Great Zimbabwe built in stone
+    - Swahili coast trades across Indian Ocean
+  - Slave trades
+    - [Atlantic trade takes about 12 million](https://en.wikipedia.org/wiki/Atlantic_slave_trade)
+    - Trans-Saharan and Indian Ocean trades too
+    - Weakened and depopulated many regions
+  - Colonial era
+    - [Scramble for Africa, 1880s–1914](https://en.wikipedia.org/wiki/Scramble_for_Africa)
+    - Berlin Conference sets the rules, 1884–85
+    - Ethiopia defeats Italy at Adwa, 1896
+    - Borders drawn with little local input
+  - Independence and after
+    - Ghana leads sub-Saharan independence, 1957
+    - Most nations free by the 1960s
+    - Apartheid ends in South Africa, 1994
+    - World's youngest, fastest-growing population today

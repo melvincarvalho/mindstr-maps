@@ -1,0 +1,27 @@
+category: Society
+aliases: game hunting, hunting wild animals, deer hunting
+- Hunting
+  - Long history
+    - [Hunter-gatherers lived by hunting for millennia](https://en.wikipedia.org/wiki/Hunter-gatherer)
+    - Spears, bows and traps came first
+    - Medieval forests reserved for royal hunts
+  - Why people hunt today
+    - Meat for the household
+    - Sport and tradition
+    - Controlling deer and pest numbers
+    - Subsistence for some Indigenous communities
+  - Methods and tools
+    - Rifles and shotguns
+    - [Bowhunting with modern bows](https://en.wikipedia.org/wiki/Bowhunting)
+    - Stalking, stand hunting and driving game
+    - Hunting dogs and falconry
+  - Rules and licensing
+    - Licences and hunter safety courses
+    - Open seasons and bag limits
+    - Protected species cannot be hunted
+    - [Poaching is illegal hunting](https://en.wikipedia.org/wiki/Poaching)
+  - Debates and conservation
+    - Licence fees fund wildlife conservation
+    - [Trophy hunting is widely debated](https://en.wikipedia.org/wiki/Trophy_hunting)
+    - Animal welfare and fair chase ethics
+    - Overhunting drove some species extinct

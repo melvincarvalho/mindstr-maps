@@ -1,0 +1,296 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Atlantic Ocean",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#h6naip",
+      "name": "Shape and size",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r6yyjx",
+      "name": "Second-largest ocean, about 106 million km²",
+      "x": -524,
+      "y": -71,
+      "parent": "#h6naip"
+    },
+    {
+      "@id": "#xuwcbz",
+      "name": "S-shaped between the Americas and Europe–Africa",
+      "x": -396,
+      "y": -171,
+      "parent": "#h6naip"
+    },
+    {
+      "@id": "#9gnx2x",
+      "name": "Saltiest of the major oceans",
+      "x": -305,
+      "y": -265,
+      "parent": "#h6naip"
+    },
+    {
+      "@id": "#296awq",
+      "name": "How it formed",
+      "x": 19,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qucu4f",
+      "name": "Opened as Pangaea broke apart",
+      "x": -181,
+      "y": -330,
+      "parent": "#296awq"
+    },
+    {
+      "@id": "#2sjpyt",
+      "name": "Mid-Atlantic Ridge runs down the middle",
+      "x": -41,
+      "y": -391,
+      "link": "https://en.wikipedia.org/wiki/Mid-Atlantic_Ridge",
+      "parent": "#296awq"
+    },
+    {
+      "@id": "#s8c53c",
+      "name": "Still widening a few centimetres a year",
+      "x": 140,
+      "y": -445,
+      "parent": "#296awq"
+    },
+    {
+      "@id": "#6z6kdd",
+      "name": "Iceland sits on top of the ridge",
+      "x": 246,
+      "y": -301,
+      "parent": "#296awq"
+    },
+    {
+      "@id": "#xvhh66",
+      "name": "Currents and weather",
+      "x": 227,
+      "y": -30,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ycv74j",
+      "name": "Gulf Stream warms northwest Europe",
+      "x": 355,
+      "y": -221,
+      "link": "https://en.wikipedia.org/wiki/Gulf_Stream",
+      "parent": "#xvhh66"
+    },
+    {
+      "@id": "#nuwk3q",
+      "name": "Overturning circulation carries heat north",
+      "x": 426,
+      "y": -117,
+      "link": "https://en.wikipedia.org/wiki/Atlantic_meridional_overturning_circulation",
+      "parent": "#xvhh66"
+    },
+    {
+      "@id": "#bzzhtm",
+      "name": "Hurricanes form off West Africa",
+      "x": 510,
+      "y": 0,
+      "parent": "#xvhh66"
+    },
+    {
+      "@id": "#qihfpw",
+      "name": "Sargasso Sea, a sea without coasts",
+      "x": 426,
+      "y": 117,
+      "parent": "#xvhh66"
+    },
+    {
+      "@id": "#4arhwu",
+      "name": "Features",
+      "x": 126,
+      "y": 154,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9x9ehz",
+      "name": "Puerto Rico Trench, about 8,400 m deep",
+      "x": 355,
+      "y": 221,
+      "parent": "#4arhwu"
+    },
+    {
+      "@id": "#2bfvm8",
+      "name": "Grand Banks, a famous fishing ground",
+      "x": 246,
+      "y": 301,
+      "parent": "#4arhwu"
+    },
+    {
+      "@id": "#5wum6e",
+      "name": "Caribbean and Gulf of Mexico margins",
+      "x": 110,
+      "y": 349,
+      "parent": "#4arhwu"
+    },
+    {
+      "@id": "#fmd5nm",
+      "name": "History of crossings",
+      "x": -156,
+      "y": 135,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a5vd3x",
+      "name": "Vikings reached Newfoundland around 1000 CE",
+      "x": -43,
+      "y": 407,
+      "parent": "#fmd5nm"
+    },
+    {
+      "@id": "#q7dvtm",
+      "name": "Columbus sailed to the Caribbean in 1492",
+      "x": -253,
+      "y": 465,
+      "parent": "#fmd5nm"
+    },
+    {
+      "@id": "#zvfj4t",
+      "name": "Transatlantic slave trade forced 12 million across",
+      "x": -305,
+      "y": 265,
+      "link": "https://en.wikipedia.org/wiki/Atlantic_slave_trade",
+      "parent": "#fmd5nm"
+    },
+    {
+      "@id": "#sjjtzj",
+      "name": "Titanic sank in 1912",
+      "x": -396,
+      "y": 171,
+      "parent": "#fmd5nm"
+    },
+    {
+      "@id": "#ks3kvt",
+      "name": "First non-stop flight across, 1919",
+      "x": -444,
+      "y": 59,
+      "parent": "#fmd5nm"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 19,
+      "end": 24
+    }
+  ],
+  "selectedNode": 0
+}

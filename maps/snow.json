@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Snow",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#7r6jbb",
+      "name": "How snow forms",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kciq8z",
+      "name": "Water vapour freezes onto tiny particles",
+      "x": -505,
+      "y": -60,
+      "parent": "#7r6jbb"
+    },
+    {
+      "@id": "#3tp9iw",
+      "name": "Ice crystals grow into snowflakes",
+      "x": -405,
+      "y": -156,
+      "parent": "#7r6jbb"
+    },
+    {
+      "@id": "#hb9auk",
+      "name": "Falls when air stays near freezing",
+      "x": -330,
+      "y": -245,
+      "parent": "#7r6jbb"
+    },
+    {
+      "@id": "#wr6c98",
+      "name": "Snowflakes",
+      "x": -51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g8yxxh",
+      "name": "Six-sided because of ice structure",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Snowflake",
+      "parent": "#wr6c98"
+    },
+    {
+      "@id": "#hxd33v",
+      "name": "Shape depends on temperature and humidity",
+      "x": -104,
+      "y": -367,
+      "parent": "#wr6c98"
+    },
+    {
+      "@id": "#yb4rs6",
+      "name": "Mostly air: good insulator",
+      "x": 42,
+      "y": -423,
+      "parent": "#wr6c98"
+    },
+    {
+      "@id": "#7kdsj2",
+      "name": "Kinds of snowfall",
+      "x": 169,
+      "y": -125,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jefvh6",
+      "name": "Sleet: partly melted snow",
+      "x": 234,
+      "y": -485,
+      "parent": "#7kdsj2"
+    },
+    {
+      "@id": "#xu27xd",
+      "name": "Lake-effect snow downwind of lakes",
+      "x": 281,
+      "y": -281,
+      "link": "https://en.wikipedia.org/wiki/Lake-effect_snow",
+      "parent": "#7kdsj2"
+    },
+    {
+      "@id": "#tckv6f",
+      "name": "Blizzard: strong wind, low visibility",
+      "x": 372,
+      "y": -203,
+      "link": "https://en.wikipedia.org/wiki/Blizzard",
+      "parent": "#7kdsj2"
+    },
+    {
+      "@id": "#umkng2",
+      "name": "Wet snow sticks, dry snow drifts",
+      "x": 449,
+      "y": -111,
+      "parent": "#7kdsj2"
+    },
+    {
+      "@id": "#ef4yie",
+      "name": "Snow on the ground",
+      "x": 207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jw3gc2",
+      "name": "Reflects most sunlight back",
+      "x": 450,
+      "y": 0,
+      "parent": "#ef4yie"
+    },
+    {
+      "@id": "#panpru",
+      "name": "Snowpack stores water for spring rivers",
+      "x": 525,
+      "y": 131,
+      "parent": "#ef4yie"
+    },
+    {
+      "@id": "#vesv5a",
+      "name": "Glaciers form from compacted snow",
+      "x": 372,
+      "y": 203,
+      "parent": "#ef4yie"
+    },
+    {
+      "@id": "#mgcqy3",
+      "name": "Avalanches on steep slopes",
+      "x": 281,
+      "y": 281,
+      "link": "https://en.wikipedia.org/wiki/Avalanche",
+      "parent": "#ef4yie"
+    },
+    {
+      "@id": "#qx7xbc",
+      "name": "Living with snow",
+      "x": 17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4cjj7a",
+      "name": "Ploughing and gritting roads",
+      "x": 164,
+      "y": 335,
+      "parent": "#qx7xbc"
+    },
+    {
+      "@id": "#pis34k",
+      "name": "Winter tyres or chains",
+      "x": 38,
+      "y": 391,
+      "parent": "#qx7xbc"
+    },
+    {
+      "@id": "#r4ptbr",
+      "name": "Snow load can collapse roofs",
+      "x": -124,
+      "y": 447,
+      "parent": "#qx7xbc"
+    },
+    {
+      "@id": "#34zud5",
+      "name": "Staying safe",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8nuha7",
+      "name": "Follow official winter weather warnings",
+      "x": -225,
+      "y": 312,
+      "parent": "#34zud5"
+    },
+    {
+      "@id": "#behbyq",
+      "name": "Avoid travel in heavy snow",
+      "x": -330,
+      "y": 245,
+      "parent": "#34zud5"
+    },
+    {
+      "@id": "#hw24de",
+      "name": "Carry blanket, food, water in car",
+      "x": -405,
+      "y": 156,
+      "parent": "#34zud5"
+    },
+    {
+      "@id": "#n9sakc",
+      "name": "Shovel slowly: strain risks heart attacks",
+      "x": -445,
+      "y": 54,
+      "parent": "#34zud5"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

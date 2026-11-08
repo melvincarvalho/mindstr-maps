@@ -1,0 +1,298 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Mass",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#dtq6hc",
+      "name": "What mass is",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ppmync",
+      "name": "Resistance to being accelerated",
+      "x": -463,
+      "y": -66,
+      "parent": "#dtq6hc"
+    },
+    {
+      "@id": "#k3vdgu",
+      "name": "Also the source of gravity",
+      "x": -390,
+      "y": -180,
+      "parent": "#dtq6hc"
+    },
+    {
+      "@id": "#tn8653",
+      "name": "Same everywhere, unlike weight",
+      "x": -289,
+      "y": -276,
+      "parent": "#dtq6hc"
+    },
+    {
+      "@id": "#zfkadj",
+      "name": "Mass versus weight",
+      "x": 0,
+      "y": -184,
+      "link": "https://en.wikipedia.org/wiki/Mass_versus_weight",
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zh24ti",
+      "name": "Weight is gravity's pull on mass",
+      "x": -154,
+      "y": -338,
+      "parent": "#zfkadj"
+    },
+    {
+      "@id": "#ej44qa",
+      "name": "60 kg person weighs about 590 newtons",
+      "x": 0,
+      "y": -392,
+      "parent": "#zfkadj"
+    },
+    {
+      "@id": "#vmgmei",
+      "name": "Moon weight is about a sixth",
+      "x": 203,
+      "y": -443,
+      "parent": "#zfkadj"
+    },
+    {
+      "@id": "#nqxw3c",
+      "name": "Measuring mass",
+      "x": 216,
+      "y": -63,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t72njk",
+      "name": "SI unit: the kilogram",
+      "x": 289,
+      "y": -276,
+      "link": "https://en.wikipedia.org/wiki/Kilogram",
+      "parent": "#nqxw3c"
+    },
+    {
+      "@id": "#8du2i6",
+      "name": "Defined by the Planck constant since 2019",
+      "x": 390,
+      "y": -180,
+      "parent": "#nqxw3c"
+    },
+    {
+      "@id": "#i5e3kk",
+      "name": "Balances compare against known masses",
+      "x": 503,
+      "y": -72,
+      "parent": "#nqxw3c"
+    },
+    {
+      "@id": "#zxgk83",
+      "name": "In orbit, astronauts measure by oscillation",
+      "x": 443,
+      "y": 63,
+      "parent": "#nqxw3c"
+    },
+    {
+      "@id": "#57u2x7",
+      "name": "Mass and energy",
+      "x": 148,
+      "y": 141,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ihssuk",
+      "name": "Einstein: energy equals mass times c²",
+      "x": 424,
+      "y": 196,
+      "link": "https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence",
+      "parent": "#57u2x7"
+    },
+    {
+      "@id": "#brdfyz",
+      "name": "Tiny mass releases huge nuclear energy",
+      "x": 289,
+      "y": 276,
+      "parent": "#57u2x7"
+    },
+    {
+      "@id": "#wfitmf",
+      "name": "Sun loses 4 million tonnes each second",
+      "x": 154,
+      "y": 338,
+      "parent": "#57u2x7"
+    },
+    {
+      "@id": "#gez67j",
+      "name": "Where mass comes from",
+      "x": -79,
+      "y": 173,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#egzewz",
+      "name": "Higgs field gives particles their mass",
+      "x": 0,
+      "y": 392,
+      "link": "https://en.wikipedia.org/wiki/Higgs_boson",
+      "parent": "#gez67j"
+    },
+    {
+      "@id": "#ukw6cw",
+      "name": "Higgs boson found at CERN, 2012",
+      "x": -203,
+      "y": 443,
+      "parent": "#gez67j"
+    },
+    {
+      "@id": "#j7rtj6",
+      "name": "Most of a proton's mass is energy",
+      "x": -289,
+      "y": 276,
+      "parent": "#gez67j"
+    },
+    {
+      "@id": "#r6bzga",
+      "name": "Conservation of mass",
+      "x": -216,
+      "y": 63,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t663dk",
+      "name": "Lavoisier: mass conserved in reactions",
+      "x": -407,
+      "y": 188,
+      "link": "https://en.wikipedia.org/wiki/Conservation_of_mass",
+      "parent": "#r6bzga"
+    },
+    {
+      "@id": "#4xh5gk",
+      "name": "Holds in chemistry, not nuclear reactions",
+      "x": -543,
+      "y": 78,
+      "parent": "#r6bzga"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    }
+  ],
+  "selectedNode": 0
+}

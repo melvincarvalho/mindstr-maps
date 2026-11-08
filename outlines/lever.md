@@ -1,0 +1,30 @@
+category: Technology
+aliases: levers, how levers work, law of the lever, classes of lever
+- Lever
+  - How a lever works
+    - A rigid bar turns on a fulcrum
+    - Effort on one part moves a load
+    - [Longer effort arm means less force](https://en.wikipedia.org/wiki/Mechanical_advantage)
+  - Law of the lever
+    - [Force × distance balances on each side](https://en.wikipedia.org/wiki/Torque)
+    - Double the arm, halve the force
+    - You pay by moving further
+  - Three classes
+    - First class: fulcrum in the middle
+      - Seesaw, crowbar, pliers
+    - Second class: load in the middle
+      - Wheelbarrow, nutcracker, bottle opener
+    - Third class: effort in the middle
+      - Tweezers, fishing rod, broom
+  - Levers in the body
+    - Bones are levers, joints are fulcrums
+    - Forearm trades force for speed
+    - Rising on tiptoe is second class
+  - History
+    - [Archimedes worked out the maths](https://en.wikipedia.org/wiki/Archimedes)
+    - "Give me a place to stand"
+    - [Shadoof lifted water in ancient Egypt](https://en.wikipedia.org/wiki/Shadoof)
+  - Everyday levers
+    - Door handles and light switches
+    - Scissors are two levers joined
+    - Piano keys and brake pedals

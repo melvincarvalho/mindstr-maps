@@ -1,0 +1,29 @@
+category: Life and home
+aliases: wheat crop, wheat grain, wheat farming, triticum
+- Wheat
+  - The plant
+    - Grass of the genus Triticum
+    - Grain grows in ears on stalks
+    - Winter and spring varieties
+  - Origins
+    - [Domesticated in the Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent)
+    - About 10,000 years ago
+    - Einkorn and emmer were the first
+  - Main types
+    - [Bread wheat is most grown](https://en.wikipedia.org/wiki/Common_wheat)
+    - [Durum wheat for pasta](https://en.wikipedia.org/wiki/Durum)
+    - Spelt, an ancient hulled wheat
+  - From grain to food
+    - Milled into white or wholemeal flour
+    - Bread, pasta, noodles and couscous
+    - Cakes, biscuits and pastries
+    - Also feed for livestock
+  - Global crop
+    - Grown on more land than any crop
+    - China, India and Russia lead production
+    - Major traded commodity
+    - Supplies about a fifth of human calories
+  - Health notes
+    - Gluten gives dough its stretch
+    - [Coeliac disease requires avoiding gluten](https://en.wikipedia.org/wiki/Coeliac_disease)
+    - Wholegrain keeps more fibre

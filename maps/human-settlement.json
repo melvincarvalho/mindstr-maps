@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Human settlement",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#xywxgr",
+      "name": "What it is",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ydqf4u",
+      "name": "Any place where people live",
+      "x": -444,
+      "y": -56,
+      "parent": "#xywxgr"
+    },
+    {
+      "@id": "#irpwir",
+      "name": "Ranges from hamlet to megacity",
+      "x": -401,
+      "y": -163,
+      "parent": "#xywxgr"
+    },
+    {
+      "@id": "#iqyyq3",
+      "name": "Permanent, seasonal or temporary",
+      "x": -318,
+      "y": -255,
+      "parent": "#xywxgr"
+    },
+    {
+      "@id": "#pw4he9",
+      "name": "Why sites were chosen",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z4rufj",
+      "name": "Fresh water from rivers or wells",
+      "x": -204,
+      "y": -321,
+      "parent": "#pw4he9"
+    },
+    {
+      "@id": "#zcvkiu",
+      "name": "Defensible high ground or river bends",
+      "x": -73,
+      "y": -372,
+      "parent": "#pw4he9"
+    },
+    {
+      "@id": "#w4mztz",
+      "name": "Fertile soil for farming",
+      "x": 82,
+      "y": -420,
+      "parent": "#pw4he9"
+    },
+    {
+      "@id": "#q76hmk",
+      "name": "Crossing points, harbours and trade routes",
+      "x": 204,
+      "y": -321,
+      "parent": "#pw4he9"
+    },
+    {
+      "@id": "#j9kwa8",
+      "name": "How settlement began",
+      "x": 219,
+      "y": -57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r8xsri",
+      "name": "Nomadic hunter-gatherers for most of history",
+      "x": 318,
+      "y": -255,
+      "parent": "#j9kwa8"
+    },
+    {
+      "@id": "#7922sw",
+      "name": "Farming began about 10,000 BCE",
+      "x": 401,
+      "y": -163,
+      "link": "https://en.wikipedia.org/wiki/Neolithic_Revolution",
+      "parent": "#j9kwa8"
+    },
+    {
+      "@id": "#d7fdn5",
+      "name": "Jericho and Çatalhöyük among earliest",
+      "x": 544,
+      "y": -66,
+      "link": "https://en.wikipedia.org/wiki/%C3%87atalh%C3%B6y%C3%BCk",
+      "parent": "#j9kwa8"
+    },
+    {
+      "@id": "#ncgdjp",
+      "name": "First cities in Mesopotamia",
+      "x": 444,
+      "y": 56,
+      "parent": "#j9kwa8"
+    },
+    {
+      "@id": "#zwjigw",
+      "name": "Settlement hierarchy",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4n4t3d",
+      "name": "Hamlet, village, town, city",
+      "x": 437,
+      "y": 177,
+      "parent": "#zwjigw"
+    },
+    {
+      "@id": "#9e29s9",
+      "name": "Larger places offer more services",
+      "x": 318,
+      "y": 255,
+      "parent": "#zwjigw"
+    },
+    {
+      "@id": "#6r3azq",
+      "name": "Central place theory explains spacing",
+      "x": 204,
+      "y": 321,
+      "link": "https://en.wikipedia.org/wiki/Central_place_theory",
+      "parent": "#zwjigw"
+    },
+    {
+      "@id": "#nqcw5g",
+      "name": "Shapes and patterns",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7j84hc",
+      "name": "Nucleated: clustered around a centre",
+      "x": 73,
+      "y": 372,
+      "parent": "#nqcw5g"
+    },
+    {
+      "@id": "#fjiinn",
+      "name": "Linear: strung along a road or river",
+      "x": -82,
+      "y": 420,
+      "parent": "#nqcw5g"
+    },
+    {
+      "@id": "#crugp3",
+      "name": "Dispersed: scattered farms",
+      "x": -204,
+      "y": 321,
+      "parent": "#nqcw5g"
+    },
+    {
+      "@id": "#qi3cj8",
+      "name": "Today",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mn9mgs",
+      "name": "Over half of humanity is urban",
+      "x": -318,
+      "y": 255,
+      "parent": "#qi3cj8"
+    },
+    {
+      "@id": "#kxa4h7",
+      "name": "About a billion live in slums",
+      "x": -401,
+      "y": 163,
+      "link": "https://en.wikipedia.org/wiki/Slum",
+      "parent": "#qi3cj8"
+    },
+    {
+      "@id": "#54czkt",
+      "name": "Rural settlements still house billions",
+      "x": -464,
+      "y": 58,
+      "parent": "#qi3cj8"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

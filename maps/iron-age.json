@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Iron Age",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#u8skf5",
+      "name": "What it was",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#s7m2y3",
+      "name": "Last of the three-age system",
+      "x": -444,
+      "y": -56,
+      "link": "https://en.wikipedia.org/wiki/Three-age_system",
+      "parent": "#u8skf5"
+    },
+    {
+      "@id": "#bhqjkx",
+      "name": "Followed the Stone and Bronze Ages",
+      "x": -401,
+      "y": -163,
+      "parent": "#u8skf5"
+    },
+    {
+      "@id": "#z64vth",
+      "name": "Iron replaced bronze for tools and weapons",
+      "x": -318,
+      "y": -255,
+      "parent": "#u8skf5"
+    },
+    {
+      "@id": "#xdv2py",
+      "name": "Timing varied by region",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#w6npek",
+      "name": "Near East from about 1200 BC",
+      "x": -204,
+      "y": -321,
+      "parent": "#xdv2py"
+    },
+    {
+      "@id": "#ru993r",
+      "name": "Europe mostly from about 800 BC",
+      "x": -73,
+      "y": -372,
+      "parent": "#xdv2py"
+    },
+    {
+      "@id": "#28uc8v",
+      "name": "West Africa's Nok culture smelted iron",
+      "x": 82,
+      "y": -420,
+      "parent": "#xdv2py"
+    },
+    {
+      "@id": "#vy6y7j",
+      "name": "China made cast iron by 500 BC",
+      "x": 204,
+      "y": -321,
+      "parent": "#xdv2py"
+    },
+    {
+      "@id": "#haguvn",
+      "name": "Technology",
+      "x": 205,
+      "y": -84,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7n6eqf",
+      "name": "Iron ore smelted in bloomery furnaces",
+      "x": 318,
+      "y": -255,
+      "link": "https://en.wikipedia.org/wiki/Bloomery",
+      "parent": "#haguvn"
+    },
+    {
+      "@id": "#h7q5f5",
+      "name": "Iron ore far commoner than tin",
+      "x": 401,
+      "y": -163,
+      "parent": "#haguvn"
+    },
+    {
+      "@id": "#ygpdpi",
+      "name": "Carburising and quenching produced steel",
+      "x": 484,
+      "y": -60,
+      "parent": "#haguvn"
+    },
+    {
+      "@id": "#5ak626",
+      "name": "Why it spread",
+      "x": 205,
+      "y": 84,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#eputfz",
+      "name": "Late Bronze Age collapse disrupted tin trade",
+      "x": 524,
+      "y": 64,
+      "link": "https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse",
+      "parent": "#5ak626"
+    },
+    {
+      "@id": "#swsyqg",
+      "name": "Cheap iron tools expanded farming",
+      "x": 401,
+      "y": 163,
+      "parent": "#5ak626"
+    },
+    {
+      "@id": "#38rwhz",
+      "name": "Iron weapons equipped larger armies",
+      "x": 318,
+      "y": 255,
+      "parent": "#5ak626"
+    },
+    {
+      "@id": "#ciqxqh",
+      "name": "Societies",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dfbnpj",
+      "name": "Hallstatt and La Tène Celtic cultures",
+      "x": 204,
+      "y": 321,
+      "link": "https://en.wikipedia.org/wiki/Hallstatt_culture",
+      "parent": "#ciqxqh"
+    },
+    {
+      "@id": "#6gctw4",
+      "name": "Hillforts built across Europe",
+      "x": 73,
+      "y": 372,
+      "parent": "#ciqxqh"
+    },
+    {
+      "@id": "#54y9sx",
+      "name": "Assyrian and Neo-Babylonian empires rose",
+      "x": -82,
+      "y": 420,
+      "parent": "#ciqxqh"
+    },
+    {
+      "@id": "#2erwu7",
+      "name": "Phoenician and Greek colonies spread",
+      "x": -204,
+      "y": 321,
+      "parent": "#ciqxqh"
+    },
+    {
+      "@id": "#9qgpq2",
+      "name": "How it ended",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5eeb65",
+      "name": "Ends where written history takes over",
+      "x": -318,
+      "y": 255,
+      "parent": "#9qgpq2"
+    },
+    {
+      "@id": "#3iirpy",
+      "name": "In Europe, often the Roman conquest",
+      "x": -401,
+      "y": 163,
+      "parent": "#9qgpq2"
+    },
+    {
+      "@id": "#dpsd2c",
+      "name": "Scandinavia's lasted to about AD 800",
+      "x": -484,
+      "y": 60,
+      "parent": "#9qgpq2"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

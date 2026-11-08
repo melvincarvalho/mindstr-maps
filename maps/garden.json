@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Garden",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#843w2d",
+      "name": "Planned space for growing plants",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bmgzc3",
+      "name": "Ornamental gardens for beauty",
+      "x": -544,
+      "y": -66,
+      "parent": "#843w2d"
+    },
+    {
+      "@id": "#f7yegc",
+      "name": "Vegetable and kitchen gardens for food",
+      "x": -401,
+      "y": -163,
+      "parent": "#843w2d"
+    },
+    {
+      "@id": "#du32kv",
+      "name": "Botanical gardens for science and conservation",
+      "x": -318,
+      "y": -255,
+      "link": "https://en.wikipedia.org/wiki/Botanical_garden",
+      "parent": "#843w2d"
+    },
+    {
+      "@id": "#aif6t7",
+      "name": "Famous garden traditions",
+      "x": 36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9grwm5",
+      "name": "Hanging Gardens of Babylon, ancient wonder",
+      "x": -204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Hanging_Gardens_of_Babylon",
+      "parent": "#aif6t7"
+    },
+    {
+      "@id": "#n2a862",
+      "name": "Persian and Islamic courtyard gardens",
+      "x": -73,
+      "y": -372,
+      "parent": "#aif6t7"
+    },
+    {
+      "@id": "#gdufwp",
+      "name": "Japanese gardens of rock, moss, water",
+      "x": 82,
+      "y": -420,
+      "link": "https://en.wikipedia.org/wiki/Japanese_garden",
+      "parent": "#aif6t7"
+    },
+    {
+      "@id": "#ssrkh6",
+      "name": "French formal gardens like Versailles",
+      "x": 303,
+      "y": -475,
+      "parent": "#aif6t7"
+    },
+    {
+      "@id": "#pmx2fp",
+      "name": "English landscape gardens",
+      "x": 318,
+      "y": -255,
+      "parent": "#aif6t7"
+    },
+    {
+      "@id": "#9knbqk",
+      "name": "Planning a garden",
+      "x": 227,
+      "y": -29,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#itr649",
+      "name": "Track sun, shade and frost",
+      "x": 401,
+      "y": -163,
+      "parent": "#9knbqk"
+    },
+    {
+      "@id": "#k38tch",
+      "name": "Test soil type and pH",
+      "x": 464,
+      "y": -58,
+      "parent": "#9knbqk"
+    },
+    {
+      "@id": "#nytarc",
+      "name": "Choose plants suited to your climate",
+      "x": 444,
+      "y": 56,
+      "parent": "#9knbqk"
+    },
+    {
+      "@id": "#2qqb7y",
+      "name": "Growing well",
+      "x": 135,
+      "y": 149,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kfad22",
+      "name": "Compost feeds the soil",
+      "x": 401,
+      "y": 163,
+      "link": "https://en.wikipedia.org/wiki/Compost",
+      "parent": "#2qqb7y"
+    },
+    {
+      "@id": "#ekgiwv",
+      "name": "Water deeply, less often",
+      "x": 318,
+      "y": 255,
+      "parent": "#2qqb7y"
+    },
+    {
+      "@id": "#wa2cf6",
+      "name": "Mulch holds moisture and blocks weeds",
+      "x": 204,
+      "y": 321,
+      "parent": "#2qqb7y"
+    },
+    {
+      "@id": "#u6bex5",
+      "name": "Prune and deadhead to encourage growth",
+      "x": 73,
+      "y": 372,
+      "parent": "#2qqb7y"
+    },
+    {
+      "@id": "#cxfpgw",
+      "name": "Common garden tools",
+      "x": -71,
+      "y": 175,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fafjms",
+      "name": "Spade, fork, trowel and rake",
+      "x": -82,
+      "y": 420,
+      "parent": "#cxfpgw"
+    },
+    {
+      "@id": "#mv3b6i",
+      "name": "Pruning shears and hoe",
+      "x": -204,
+      "y": 321,
+      "parent": "#cxfpgw"
+    },
+    {
+      "@id": "#y9gp7w",
+      "name": "Benefits",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rntgpq",
+      "name": "Fresh food and lower costs",
+      "x": -318,
+      "y": 255,
+      "parent": "#y9gp7w"
+    },
+    {
+      "@id": "#nbid72",
+      "name": "Exercise and mental wellbeing",
+      "x": -401,
+      "y": 163,
+      "parent": "#y9gp7w"
+    },
+    {
+      "@id": "#zqwx38",
+      "name": "Habitat for pollinators and wildlife",
+      "x": -464,
+      "y": 58,
+      "parent": "#y9gp7w"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

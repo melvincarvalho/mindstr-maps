@@ -1,0 +1,30 @@
+category: Philosophy and religion
+aliases: protestant, protestants, protestant church
+- Protestantism
+  - The Reformation
+    - [Luther's Ninety-five Theses, 1517](https://en.wikipedia.org/wiki/Ninety-five_Theses)
+    - Protest against sale of indulgences
+    - Printing press spread new ideas fast
+    - Calvin and Zwingli led reforms in Switzerland
+  - Key principles
+    - Scripture alone is final authority
+    - Salvation by grace through faith
+    - Priesthood of all believers
+    - Two sacraments: baptism and communion
+  - Main traditions
+    - Lutheran churches in Germany and Scandinavia
+    - [Reformed and Presbyterian, following Calvin](https://en.wikipedia.org/wiki/Calvinism)
+    - [Anglican Church of England](https://en.wikipedia.org/wiki/Anglicanism)
+    - Baptists practise adult believer's baptism
+    - Methodists founded by John Wesley
+  - Later movements
+    - [Evangelicalism stresses personal conversion](https://en.wikipedia.org/wiki/Evangelicalism)
+    - Pentecostalism began in 1900s America
+    - Many independent non-denominational churches
+  - Influence
+    - Bible translated into everyday languages
+    - Shaped literacy, work ethic debates, democracy
+    - Religious wars and later toleration
+  - Today
+    - About 800 million to 1 billion followers
+    - Fastest growth in Africa and Asia

@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Supernova",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#jjb6m6",
+      "name": "What it is",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7yxg5s",
+      "name": "Explosive death of a star",
+      "x": -445,
+      "y": -54,
+      "parent": "#jjb6m6"
+    },
+    {
+      "@id": "#rkns6a",
+      "name": "Briefly outshines a whole galaxy",
+      "x": -405,
+      "y": -156,
+      "parent": "#jjb6m6"
+    },
+    {
+      "@id": "#ez3zj7",
+      "name": "Ejects matter at thousands of km/s",
+      "x": -330,
+      "y": -245,
+      "parent": "#jjb6m6"
+    },
+    {
+      "@id": "#z7pgjy",
+      "name": "Core-collapse supernova",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#iqbuts",
+      "name": "Star over about 8 Suns' mass",
+      "x": -225,
+      "y": -312,
+      "parent": "#z7pgjy"
+    },
+    {
+      "@id": "#w8reib",
+      "name": "Iron core can no longer fuse",
+      "x": -104,
+      "y": -367,
+      "parent": "#z7pgjy"
+    },
+    {
+      "@id": "#dvwtdi",
+      "name": "Core collapses in under a second",
+      "x": 42,
+      "y": -423,
+      "parent": "#z7pgjy"
+    },
+    {
+      "@id": "#mhftzh",
+      "name": "Rebound blasts outer layers away",
+      "x": 234,
+      "y": -485,
+      "parent": "#z7pgjy"
+    },
+    {
+      "@id": "#wgfsw5",
+      "name": "Type Ia supernova",
+      "x": 190,
+      "y": -104,
+      "link": "https://en.wikipedia.org/wiki/Type_Ia_supernova",
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3jtjue",
+      "name": "White dwarf in a binary system",
+      "x": 281,
+      "y": -281,
+      "parent": "#wgfsw5"
+    },
+    {
+      "@id": "#36nei9",
+      "name": "Gains mass past the Chandrasekhar limit",
+      "x": 372,
+      "y": -203,
+      "parent": "#wgfsw5"
+    },
+    {
+      "@id": "#zprrs9",
+      "name": "Runaway carbon fusion destroys it",
+      "x": 487,
+      "y": -121,
+      "parent": "#wgfsw5"
+    },
+    {
+      "@id": "#yzwd5i",
+      "name": "What's left behind",
+      "x": 220,
+      "y": 54,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kgvdv7",
+      "name": "Neutron star or pulsar",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Neutron_star",
+      "parent": "#yzwd5i"
+    },
+    {
+      "@id": "#vrpfwk",
+      "name": "Black hole from the heaviest stars",
+      "x": 430,
+      "y": 106,
+      "parent": "#yzwd5i"
+    },
+    {
+      "@id": "#rada3p",
+      "name": "Expanding remnant like the Crab Nebula",
+      "x": 372,
+      "y": 203,
+      "link": "https://en.wikipedia.org/wiki/Crab_Nebula",
+      "parent": "#yzwd5i"
+    },
+    {
+      "@id": "#dq5cmu",
+      "name": "Why they matter",
+      "x": 51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tuftjt",
+      "name": "Spread oxygen, iron and other elements",
+      "x": 281,
+      "y": 281,
+      "parent": "#dq5cmu"
+    },
+    {
+      "@id": "#bpyin3",
+      "name": "Shock waves trigger new star formation",
+      "x": 164,
+      "y": 335,
+      "parent": "#dq5cmu"
+    },
+    {
+      "@id": "#c42pfq",
+      "name": "Type Ia as standard candles",
+      "x": 38,
+      "y": 391,
+      "link": "https://en.wikipedia.org/wiki/Cosmic_distance_ladder",
+      "parent": "#dq5cmu"
+    },
+    {
+      "@id": "#q9cnvw",
+      "name": "Revealed the universe's accelerating expansion",
+      "x": -124,
+      "y": 447,
+      "parent": "#dq5cmu"
+    },
+    {
+      "@id": "#gxtij6",
+      "name": "Historic supernovae",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gc6m8c",
+      "name": "SN 1054 recorded by Chinese astronomers",
+      "x": -235,
+      "y": 326,
+      "parent": "#gxtij6"
+    },
+    {
+      "@id": "#pxe3fy",
+      "name": "Tycho's supernova, 1572",
+      "x": -330,
+      "y": 245,
+      "parent": "#gxtij6"
+    },
+    {
+      "@id": "#4zzi78",
+      "name": "Kepler's supernova, 1604",
+      "x": -405,
+      "y": 156,
+      "parent": "#gxtij6"
+    },
+    {
+      "@id": "#c7yrmz",
+      "name": "SN 1987A, nearest in modern times",
+      "x": -445,
+      "y": 54,
+      "parent": "#gxtij6"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

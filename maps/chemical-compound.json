@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Chemical compound",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#fitibr",
+      "name": "What a compound is",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#an54tw",
+      "name": "Two or more elements chemically bonded",
+      "x": -525,
+      "y": -62,
+      "parent": "#fitibr"
+    },
+    {
+      "@id": "#6db6eh",
+      "name": "Fixed ratio of elements every time",
+      "x": -405,
+      "y": -156,
+      "parent": "#fitibr"
+    },
+    {
+      "@id": "#32qq4g",
+      "name": "Properties differ from its elements",
+      "x": -330,
+      "y": -245,
+      "parent": "#fitibr"
+    },
+    {
+      "@id": "#aqsb6r",
+      "name": "Compounds vs mixtures",
+      "x": -51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gc34vn",
+      "name": "Mixtures can be separated physically",
+      "x": -225,
+      "y": -312,
+      "parent": "#aqsb6r"
+    },
+    {
+      "@id": "#y2x8vu",
+      "name": "Compounds need chemical reactions to split",
+      "x": -104,
+      "y": -367,
+      "parent": "#aqsb6r"
+    },
+    {
+      "@id": "#f84s4t",
+      "name": "Salty water is a mixture",
+      "x": 42,
+      "y": -423,
+      "parent": "#aqsb6r"
+    },
+    {
+      "@id": "#vih9fm",
+      "name": "How atoms are held together",
+      "x": 227,
+      "y": -235,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6mi62e",
+      "name": "Ionic: metals give electrons to non-metals",
+      "x": 234,
+      "y": -485,
+      "link": "https://en.wikipedia.org/wiki/Ionic_compound",
+      "parent": "#vih9fm"
+    },
+    {
+      "@id": "#hn4ue5",
+      "name": "Covalent: atoms share electrons",
+      "x": 293,
+      "y": -293,
+      "parent": "#vih9fm"
+    },
+    {
+      "@id": "#cmgzec",
+      "name": "Bond type shapes melting point and hardness",
+      "x": 644,
+      "y": -347,
+      "parent": "#vih9fm"
+    },
+    {
+      "@id": "#jz66e8",
+      "name": "Writing formulas",
+      "x": 227,
+      "y": 27,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r859xp",
+      "name": "H₂O: two hydrogens, one oxygen",
+      "x": 430,
+      "y": -106,
+      "link": "https://en.wikipedia.org/wiki/Chemical_formula",
+      "parent": "#jz66e8"
+    },
+    {
+      "@id": "#vi5chw",
+      "name": "CO₂: one carbon, two oxygens",
+      "x": 490,
+      "y": 0,
+      "parent": "#jz66e8"
+    },
+    {
+      "@id": "#jevrhu",
+      "name": "NaCl: sodium and chlorine, one each",
+      "x": 430,
+      "y": 106,
+      "parent": "#jz66e8"
+    },
+    {
+      "@id": "#htfck4",
+      "name": "Names follow agreed IUPAC rules",
+      "x": 372,
+      "y": 203,
+      "parent": "#jz66e8"
+    },
+    {
+      "@id": "#gvd9br",
+      "name": "Main families",
+      "x": 51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9vqqjr",
+      "name": "Organic compounds are built on carbon",
+      "x": 281,
+      "y": 281,
+      "link": "https://en.wikipedia.org/wiki/Organic_compound",
+      "parent": "#gvd9br"
+    },
+    {
+      "@id": "#zbcnyd",
+      "name": "Inorganic: salts, oxides, most minerals",
+      "x": 164,
+      "y": 335,
+      "parent": "#gvd9br"
+    },
+    {
+      "@id": "#78tzsj",
+      "name": "Acids and bases",
+      "x": 38,
+      "y": 391,
+      "parent": "#gvd9br"
+    },
+    {
+      "@id": "#kpqhz6",
+      "name": "Polymers: long repeating chains like plastics",
+      "x": -124,
+      "y": 447,
+      "parent": "#gvd9br"
+    },
+    {
+      "@id": "#iavxsf",
+      "name": "Everyday examples",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#45ty4j",
+      "name": "Table sugar is sucrose",
+      "x": -225,
+      "y": 312,
+      "parent": "#iavxsf"
+    },
+    {
+      "@id": "#652zj5",
+      "name": "Baking soda is sodium bicarbonate",
+      "x": -330,
+      "y": 245,
+      "parent": "#iavxsf"
+    },
+    {
+      "@id": "#fx7z2e",
+      "name": "Rust is iron oxide",
+      "x": -405,
+      "y": 156,
+      "parent": "#iavxsf"
+    },
+    {
+      "@id": "#gwta7i",
+      "name": "Over 100 million compounds catalogued",
+      "x": -445,
+      "y": 54,
+      "link": "https://en.wikipedia.org/wiki/Chemical_Abstracts_Service",
+      "parent": "#iavxsf"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

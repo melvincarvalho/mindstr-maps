@@ -1,0 +1,30 @@
+category: Technology
+aliases: bridges, how bridges work, types of bridges
+- Bridge
+  - What a bridge does
+    - Carries road, rail or path across gaps
+    - Spans rivers, valleys and other roads
+    - Balances compression and tension forces
+  - Main types
+    - [Beam bridge rests on piers](https://en.wikipedia.org/wiki/Beam_bridge)
+    - [Arch pushes load out to its ends](https://en.wikipedia.org/wiki/Arch_bridge)
+    - [Suspension deck hangs from main cables](https://en.wikipedia.org/wiki/Suspension_bridge)
+    - Cable-stayed cables run straight to towers
+    - Truss uses triangles for stiffness
+  - Materials
+    - Stone and timber in ancient times
+    - Iron arrived with the Industrial Revolution
+    - Steel and reinforced concrete today
+  - Famous bridges
+    - Roman aqueducts like Pont du Gard
+    - 1779 Iron Bridge, Shropshire, first cast-iron
+    - 1937 Golden Gate Bridge, San Francisco
+    - 2022 Çanakkale 1915 Bridge, longest suspension span
+  - Lessons from failure
+    - [Tacoma Narrows twisted apart in wind, 1940](https://en.wikipedia.org/wiki/Tacoma_Narrows_Bridge_%281940%29)
+    - Wind tunnel tests now shape decks
+    - Regular inspections catch corrosion and cracks
+  - Building one
+    - Survey ground and foundations first
+    - Sink piers into riverbed or rock
+    - Build deck outward or lift sections

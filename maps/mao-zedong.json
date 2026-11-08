@@ -1,0 +1,318 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Mao Zedong",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#tcjn8h",
+      "name": "Early life",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p5v248",
+      "name": "Born 1893 in Shaoshan, Hunan",
+      "x": -464,
+      "y": -58,
+      "parent": "#tcjn8h"
+    },
+    {
+      "@id": "#i37r8s",
+      "name": "Founding member of the Communist Party, 1921",
+      "x": -401,
+      "y": -163,
+      "parent": "#tcjn8h"
+    },
+    {
+      "@id": "#j5j7uy",
+      "name": "Revolution and civil war",
+      "x": -89,
+      "y": -220,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#69m423",
+      "name": "Built a peasant-based guerrilla strategy",
+      "x": -346,
+      "y": -277,
+      "parent": "#j5j7uy"
+    },
+    {
+      "@id": "#m4z43c",
+      "name": "Long March, 1934–35",
+      "x": -213,
+      "y": -335,
+      "link": "https://en.wikipedia.org/wiki/Long_March",
+      "parent": "#j5j7uy"
+    },
+    {
+      "@id": "#evs9t8",
+      "name": "Fought Japan alongside rival Nationalists",
+      "x": -76,
+      "y": -388,
+      "parent": "#j5j7uy"
+    },
+    {
+      "@id": "#ydb3p8",
+      "name": "Won the civil war against Chiang Kai-shek",
+      "x": 85,
+      "y": -436,
+      "parent": "#j5j7uy"
+    },
+    {
+      "@id": "#c9uyyv",
+      "name": "Founding the People's Republic",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xpjtn8",
+      "name": "Proclaimed the PRC, 1 October 1949",
+      "x": 204,
+      "y": -321,
+      "parent": "#c9uyyv"
+    },
+    {
+      "@id": "#567t3e",
+      "name": "Land reform killed many landlords",
+      "x": 318,
+      "y": -255,
+      "parent": "#c9uyyv"
+    },
+    {
+      "@id": "#ecmhq9",
+      "name": "Ruled as Party Chairman until 1976",
+      "x": 455,
+      "y": -184,
+      "parent": "#c9uyyv"
+    },
+    {
+      "@id": "#kim375",
+      "name": "Great Leap Forward, 1958–62",
+      "x": 247,
+      "y": 32,
+      "link": "https://en.wikipedia.org/wiki/Great_Leap_Forward",
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xdxpm2",
+      "name": "Forced communes and backyard steel furnaces",
+      "x": 444,
+      "y": -56,
+      "parent": "#kim375"
+    },
+    {
+      "@id": "#fy5nmg",
+      "name": "Resulting famine killed tens of millions",
+      "x": 624,
+      "y": 74,
+      "parent": "#kim375"
+    },
+    {
+      "@id": "#igj5h3",
+      "name": "Mao briefly sidelined afterwards",
+      "x": 401,
+      "y": 163,
+      "parent": "#kim375"
+    },
+    {
+      "@id": "#62zi9p",
+      "name": "Cultural Revolution, 1966–76",
+      "x": 71,
+      "y": 175,
+      "link": "https://en.wikipedia.org/wiki/Cultural_Revolution",
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#adhpis",
+      "name": "Mobilised Red Guards against \"class enemies\"",
+      "x": 318,
+      "y": 255,
+      "parent": "#62zi9p"
+    },
+    {
+      "@id": "#ywxjqk",
+      "name": "Teachers, officials and intellectuals persecuted",
+      "x": 204,
+      "y": 321,
+      "parent": "#62zi9p"
+    },
+    {
+      "@id": "#d8dasc",
+      "name": "Deaths: hundreds of thousands to millions",
+      "x": 73,
+      "y": 372,
+      "parent": "#62zi9p"
+    },
+    {
+      "@id": "#j2udda",
+      "name": "Personality cult around the Little Red Book",
+      "x": -82,
+      "y": 420,
+      "parent": "#62zi9p"
+    },
+    {
+      "@id": "#idej59",
+      "name": "Death and legacy",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xdecnj",
+      "name": "Died in September 1976",
+      "x": -204,
+      "y": 321,
+      "parent": "#idej59"
+    },
+    {
+      "@id": "#4v93yh",
+      "name": "Deng Xiaoping's reforms reversed many policies",
+      "x": -318,
+      "y": 255,
+      "parent": "#idej59"
+    },
+    {
+      "@id": "#gnkjm3",
+      "name": "Party judged him 70% right, 30% wrong",
+      "x": -401,
+      "y": 163,
+      "parent": "#idej59"
+    },
+    {
+      "@id": "#2gz2q3",
+      "name": "Portrait still hangs over Tiananmen Gate",
+      "x": -444,
+      "y": 56,
+      "parent": "#idej59"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 4,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

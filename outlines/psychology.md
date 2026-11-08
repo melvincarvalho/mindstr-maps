@@ -1,0 +1,31 @@
+category: Society
+aliases: study of the mind, human behaviour science, psychology basics, intro to psychology
+- Psychology
+  - What it studies
+    - Mind, thought and behaviour
+    - Uses experiments and observation
+    - Bridges biology and social science
+  - Major schools
+    - [Wundt opened first lab, Leipzig 1879](https://en.wikipedia.org/wiki/Wilhelm_Wundt)
+    - Freud's psychoanalysis and the unconscious
+    - [Behaviourism: learning by conditioning](https://en.wikipedia.org/wiki/Behaviorism)
+    - Cognitive revolution: mind as processor
+    - Humanistic: growth and self-actualisation
+  - Main branches
+    - [Cognitive: memory, attention, reasoning](https://en.wikipedia.org/wiki/Cognitive_psychology)
+    - Developmental: change across the lifespan
+    - Social: how others shape us
+    - Biological: brain, hormones and genes
+    - Clinical: diagnosing and treating disorders
+  - Famous findings
+    - Pavlov's conditioned dogs
+    - Milgram's obedience experiments
+    - Cognitive biases distort judgement
+  - In practice
+    - Talking therapies such as CBT
+    - Educational and workplace psychology
+    - Forensic psychology in courts
+  - Open questions
+    - [Replication crisis prompted stricter methods](https://en.wikipedia.org/wiki/Replication_crisis)
+    - Nature versus nurture
+    - Most studies use Western participants

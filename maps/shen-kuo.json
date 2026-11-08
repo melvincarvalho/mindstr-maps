@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Shen Kuo",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#xn344c",
+      "name": "Life",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m2y5tk",
+      "name": "Born 1031 in Hangzhou",
+      "x": -445,
+      "y": -54,
+      "parent": "#xn344c"
+    },
+    {
+      "@id": "#bhpjtw",
+      "name": "Song dynasty scholar-official",
+      "x": -405,
+      "y": -156,
+      "parent": "#xn344c"
+    },
+    {
+      "@id": "#x3b6yk",
+      "name": "Passed the imperial exams, 1063",
+      "x": -330,
+      "y": -245,
+      "parent": "#xn344c"
+    },
+    {
+      "@id": "#j9ydpy",
+      "name": "Died 1095 in Zhenjiang",
+      "x": -225,
+      "y": -312,
+      "parent": "#xn344c"
+    },
+    {
+      "@id": "#tyzfhp",
+      "name": "Statesman",
+      "x": 51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hz54ai",
+      "name": "Backed Wang Anshi's New Policies",
+      "x": -104,
+      "y": -367,
+      "parent": "#tyzfhp"
+    },
+    {
+      "@id": "#5mm4xw",
+      "name": "Headed the Bureau of Astronomy",
+      "x": 42,
+      "y": -423,
+      "parent": "#tyzfhp"
+    },
+    {
+      "@id": "#iganpn",
+      "name": "Envoy to the Liao dynasty, 1075",
+      "x": 234,
+      "y": -485,
+      "parent": "#tyzfhp"
+    },
+    {
+      "@id": "#tp2s6v",
+      "name": "Disgraced after a military defeat, 1082",
+      "x": 281,
+      "y": -281,
+      "parent": "#tyzfhp"
+    },
+    {
+      "@id": "#8jjhei",
+      "name": "Dream Pool Essays",
+      "x": 220,
+      "y": -54,
+      "link": "https://en.wikipedia.org/wiki/Dream_Pool_Essays",
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b77zsa",
+      "name": "Written in retirement, about 1088",
+      "x": 372,
+      "y": -203,
+      "parent": "#8jjhei"
+    },
+    {
+      "@id": "#4ycdai",
+      "name": "Hundreds of notes on many subjects",
+      "x": 430,
+      "y": -106,
+      "parent": "#8jjhei"
+    },
+    {
+      "@id": "#y23ydi",
+      "name": "Records Bi Sheng's movable type",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Bi_Sheng",
+      "parent": "#8jjhei"
+    },
+    {
+      "@id": "#8xe55s",
+      "name": "Discoveries",
+      "x": 169,
+      "y": 125,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d4byi8",
+      "name": "First clear account of magnetic compass",
+      "x": 468,
+      "y": 116,
+      "link": "https://en.wikipedia.org/wiki/Compass",
+      "parent": "#8xe55s"
+    },
+    {
+      "@id": "#vydu8q",
+      "name": "Noted magnetic declination from true north",
+      "x": 372,
+      "y": 203,
+      "parent": "#8xe55s"
+    },
+    {
+      "@id": "#8xust8",
+      "name": "Land formed by erosion and silt",
+      "x": 281,
+      "y": 281,
+      "parent": "#8xe55s"
+    },
+    {
+      "@id": "#afg4az",
+      "name": "Fossil bamboo showed past climate change",
+      "x": 164,
+      "y": 335,
+      "parent": "#8xe55s"
+    },
+    {
+      "@id": "#4za739",
+      "name": "Other fields",
+      "x": -84,
+      "y": 171,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#i5gk6d",
+      "name": "Planetary motion and calendar reform",
+      "x": 38,
+      "y": 391,
+      "parent": "#4za739"
+    },
+    {
+      "@id": "#s5nhrp",
+      "name": "Mathematics, optics and camera obscura",
+      "x": -124,
+      "y": 447,
+      "parent": "#4za739"
+    },
+    {
+      "@id": "#i8uavk",
+      "name": "Mapmaking and raised-relief models",
+      "x": -225,
+      "y": 312,
+      "parent": "#4za739"
+    },
+    {
+      "@id": "#xitufx",
+      "name": "Medicine and pharmacology",
+      "x": -330,
+      "y": 245,
+      "parent": "#4za739"
+    },
+    {
+      "@id": "#kc9pmk",
+      "name": "Legacy",
+      "x": -220,
+      "y": 54,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#eye8x6",
+      "name": "Praised by historian Joseph Needham",
+      "x": -405,
+      "y": 156,
+      "link": "https://en.wikipedia.org/wiki/Joseph_Needham",
+      "parent": "#kc9pmk"
+    },
+    {
+      "@id": "#je2fj3",
+      "name": "Asteroid 2027 Shen Kuo named after him",
+      "x": -485,
+      "y": 58,
+      "parent": "#kc9pmk"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

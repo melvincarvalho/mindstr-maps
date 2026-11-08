@@ -1,0 +1,31 @@
+category: Arts and culture
+aliases: short stories, short fiction
+- Short story
+  - What it is
+    - Prose fiction read in one sitting
+    - Often 1,000 to 10,000 words
+    - Few characters, one main event
+  - How it works
+    - Aims for a single unified effect
+    - Starts close to the action
+    - [Iceberg theory: leave much unsaid](https://en.wikipedia.org/wiki/Iceberg_theory)
+    - Builds to a turning point
+    - Open or surprise endings
+  - Roots
+    - Folk tales, fables and parables
+    - [Boccaccio's Decameron, 1350s](https://en.wikipedia.org/wiki/The_Decameron)
+    - Magazines boomed it in the 1800s
+  - Masters
+    - [Anton Chekhov: quiet, everyday moments](https://en.wikipedia.org/wiki/Anton_Chekhov)
+    - Edgar Allan Poe: horror and detection
+    - O. Henry: twist endings
+    - Jorge Luis Borges: labyrinths and paradoxes
+    - Alice Munro: Nobel Prize 2013
+  - Related forms
+    - Flash fiction, under about 1,000 words
+    - Novella, longer and more developed
+    - Linked cycles like Joyce's Dubliners
+  - Where to find them
+    - Literary magazines like The New Yorker
+    - Anthologies and prize collections
+    - Podcasts and online journals

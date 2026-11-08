@@ -1,0 +1,29 @@
+category: Science
+aliases: solid state, solids, solid matter
+- Solid
+  - What makes a solid
+    - Keeps its own shape and volume
+    - Particles packed tightly together
+    - Particles vibrate in fixed places
+    - Strong forces hold particles in place
+  - Two inner structures
+    - [Crystals: atoms in repeating patterns](https://en.wikipedia.org/wiki/Crystal)
+    - Salt, diamond and metals are crystalline
+    - [Amorphous solids lack order, like glass](https://en.wikipedia.org/wiki/Amorphous_solid)
+  - Kinds by bonding
+    - Metals: shared sea of electrons
+    - Ionic: salt's charged atoms lock together
+    - Covalent networks: diamond, quartz
+    - Molecular solids: ice, sugar
+  - Properties
+    - Hardness, from talc to diamond
+    - Brittle glass versus bendable metal
+    - Conductors, insulators and semiconductors
+    - Most expand when heated
+  - Changing state
+    - [Melts into a liquid when heated](https://en.wikipedia.org/wiki/Melting)
+    - Some sublimate straight to gas
+    - Liquids freeze into solids when cooled
+  - Why solids matter
+    - [Solid-state physics underpins computer chips](https://en.wikipedia.org/wiki/Solid-state_physics)
+    - Engineers choose materials by strength

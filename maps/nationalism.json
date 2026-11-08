@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Nationalism",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#nwybtr",
+      "name": "Core beliefs",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c5agrb",
+      "name": "The nation is the key political unit",
+      "x": -445,
+      "y": -51,
+      "parent": "#nwybtr"
+    },
+    {
+      "@id": "#vumzng",
+      "name": "Each nation should govern itself",
+      "x": -409,
+      "y": -150,
+      "parent": "#nwybtr"
+    },
+    {
+      "@id": "#yvhays",
+      "name": "Loyalty to the nation above other ties",
+      "x": -340,
+      "y": -236,
+      "parent": "#nwybtr"
+    },
+    {
+      "@id": "#u4m4y9",
+      "name": "Shared culture, language and history",
+      "x": -243,
+      "y": -303,
+      "parent": "#nwybtr"
+    },
+    {
+      "@id": "#qac8cu",
+      "name": "Key thinkers",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t7zrtu",
+      "name": "Johann Gottfried Herder on national culture",
+      "x": -133,
+      "y": -360,
+      "parent": "#qac8cu"
+    },
+    {
+      "@id": "#wa2iyp",
+      "name": "Giuseppe Mazzini linked nation and liberty",
+      "x": 0,
+      "y": -408,
+      "parent": "#qac8cu"
+    },
+    {
+      "@id": "#vnimbv",
+      "name": "Benedict Anderson's \"imagined communities\"",
+      "x": 175,
+      "y": -465,
+      "link": "https://en.wikipedia.org/wiki/Imagined_Communities",
+      "parent": "#qac8cu"
+    },
+    {
+      "@id": "#h8c8mp",
+      "name": "Ernest Gellner tied it to industrialisation",
+      "x": 243,
+      "y": -303,
+      "parent": "#qac8cu"
+    },
+    {
+      "@id": "#itszws",
+      "name": "History",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2scqgs",
+      "name": "Rose with the French Revolution",
+      "x": 340,
+      "y": -236,
+      "parent": "#itszws"
+    },
+    {
+      "@id": "#3dwspd",
+      "name": "Unified Italy and Germany by 1871",
+      "x": 409,
+      "y": -150,
+      "parent": "#itszws"
+    },
+    {
+      "@id": "#peqhzk",
+      "name": "Broke up empires after World War I",
+      "x": 465,
+      "y": -53,
+      "parent": "#itszws"
+    },
+    {
+      "@id": "#4ggeb2",
+      "name": "Drove decolonisation after 1945",
+      "x": 445,
+      "y": 51,
+      "link": "https://en.wikipedia.org/wiki/Decolonization",
+      "parent": "#itszws"
+    },
+    {
+      "@id": "#g5m6he",
+      "name": "Main forms",
+      "x": 151,
+      "y": 139,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cnx9qx",
+      "name": "Civic: membership through shared values",
+      "x": 445,
+      "y": 164,
+      "link": "https://en.wikipedia.org/wiki/Civic_nationalism",
+      "parent": "#g5m6he"
+    },
+    {
+      "@id": "#8ndsgw",
+      "name": "Ethnic: membership through ancestry",
+      "x": 340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/Ethnic_nationalism",
+      "parent": "#g5m6he"
+    },
+    {
+      "@id": "#2c8gbp",
+      "name": "Independence movements for stateless nations",
+      "x": 243,
+      "y": 303,
+      "parent": "#g5m6he"
+    },
+    {
+      "@id": "#ynfna4",
+      "name": "Economic nationalism protects home industry",
+      "x": 133,
+      "y": 360,
+      "parent": "#g5m6he"
+    },
+    {
+      "@id": "#h5pjre",
+      "name": "Real-world examples",
+      "x": -65,
+      "y": 177,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ruj7jq",
+      "name": "Indian independence movement",
+      "x": 0,
+      "y": 408,
+      "parent": "#h5pjre"
+    },
+    {
+      "@id": "#hs9q7i",
+      "name": "Zionism and Palestinian nationalism",
+      "x": -175,
+      "y": 465,
+      "parent": "#h5pjre"
+    },
+    {
+      "@id": "#4st6f7",
+      "name": "Scottish and Catalan independence campaigns",
+      "x": -243,
+      "y": 303,
+      "parent": "#h5pjre"
+    },
+    {
+      "@id": "#jc9ntt",
+      "name": "Main criticisms",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jbkkja",
+      "name": "Can fuel war and ethnic cleansing",
+      "x": -340,
+      "y": 236,
+      "parent": "#jc9ntt"
+    },
+    {
+      "@id": "#epkwz3",
+      "name": "Excludes minorities and migrants",
+      "x": -409,
+      "y": 150,
+      "parent": "#jc9ntt"
+    },
+    {
+      "@id": "#d4rf5r",
+      "name": "Defenders: builds solidarity and democracy",
+      "x": -525,
+      "y": 59,
+      "parent": "#jc9ntt"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

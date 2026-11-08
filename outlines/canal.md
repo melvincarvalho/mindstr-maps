@@ -1,0 +1,29 @@
+category: Technology
+aliases: canals, how canals work, canal locks
+- Canal
+  - What canals are
+    - Artificial waterways for boats or water
+    - Transport canals carry barges and ships
+    - Irrigation canals water farmland
+  - How they work
+    - [Locks raise and lower boats](https://en.wikipedia.org/wiki/Lock_%28water_navigation%29)
+    - Gates close, water fills or drains
+    - Reservoirs top up the summit level
+    - Aqueducts carry canals over valleys
+  - History
+    - Ancient Mesopotamia dug irrigation canals
+    - [China's Grand Canal, begun about 500 BC](https://en.wikipedia.org/wiki/Grand_Canal_%28China%29)
+    - 1761 Bridgewater Canal sparked British canal mania
+    - Railways overtook canals from the 1840s
+  - Great ship canals
+    - [Suez Canal links Mediterranean and Red Sea](https://en.wikipedia.org/wiki/Suez_Canal)
+    - [Panama Canal opened 1914](https://en.wikipedia.org/wiki/Panama_Canal)
+    - Kiel Canal links North and Baltic seas
+  - Canals today
+    - Leisure boating on narrowboats
+    - Towpaths for walking and cycling
+    - Venice and Amsterdam built around canals
+  - Why they matter
+    - One horse could tow tonnes of cargo
+    - Cut weeks off ocean voyages
+    - Blockages ripple through world trade

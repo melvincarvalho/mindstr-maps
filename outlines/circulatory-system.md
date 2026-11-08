@@ -1,0 +1,31 @@
+category: Science
+aliases: cardiovascular system, blood circulation, how blood circulates
+- Circulatory system
+  - What it does
+    - Delivers oxygen and nutrients to cells
+    - Removes carbon dioxide and waste
+    - Carries hormones and immune cells
+    - Helps control body temperature
+  - Main parts
+    - Heart: a muscular four-chambered pump
+    - [Arteries carry blood away from heart](https://en.wikipedia.org/wiki/Artery)
+    - Veins return blood to the heart
+    - [Capillaries exchange gases with tissues](https://en.wikipedia.org/wiki/Capillary)
+  - Two circuits
+    - Pulmonary: heart to lungs and back
+    - Systemic: heart to rest of body
+    - [Lymphatic system drains excess fluid](https://en.wikipedia.org/wiki/Lymphatic_system)
+  - Measuring it
+    - Resting pulse about 60–100 beats/minute
+    - Blood pressure: systolic over diastolic
+    - Under 120/80 mmHg counts as normal
+  - Common problems
+    - [High blood pressure often has no symptoms](https://en.wikipedia.org/wiki/Hypertension)
+    - Atherosclerosis: fatty plaques narrow arteries
+    - Heart attacks and strokes from blockages
+    - Varicose veins and deep vein thrombosis
+  - Keeping it healthy
+    - Regular exercise strengthens the heart
+    - Not smoking protects blood vessels
+    - Less salt, more fruit and vegetables
+    - Get blood pressure checked regularly

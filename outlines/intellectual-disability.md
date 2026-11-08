@@ -1,0 +1,28 @@
+category: Society
+aliases: learning disability uk, intellectual developmental disorder, cognitive disability
+- Intellectual disability
+  - What it is
+    - Limits in reasoning, learning, problem-solving
+    - Difficulties with everyday adaptive skills
+    - Begins in childhood, before age 18
+    - Called learning disability in the UK
+  - Common causes
+    - [Down syndrome, an extra chromosome 21](https://en.wikipedia.org/wiki/Down_syndrome)
+    - [Fragile X syndrome, inherited](https://en.wikipedia.org/wiki/Fragile_X_syndrome)
+    - Fetal alcohol spectrum disorder
+    - Infection, injury or lack of oxygen
+    - Often no cause is found
+  - Diagnosis
+    - IQ tests, typically below about 70
+    - Assessment of adaptive behaviour
+    - Support needs: mild to profound
+  - Support through life
+    - Early intervention and speech therapy
+    - Inclusive or specialist education
+    - Easy-read information and plain language
+    - Supported living and supported employment
+  - Rights and inclusion
+    - Most people need only mild support
+    - Self-advocacy groups speak for themselves
+    - Supported decision-making over guardianship
+    - [Long history of institutionalisation](https://en.wikipedia.org/wiki/Deinstitutionalisation)

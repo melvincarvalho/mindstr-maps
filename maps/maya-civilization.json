@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Maya civilization",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#s3z3qd",
+      "name": "Where and when",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mmtgqh",
+      "name": "Yucatán, Guatemala, Belize and western Honduras",
+      "x": -545,
+      "y": -64,
+      "parent": "#s3z3qd"
+    },
+    {
+      "@id": "#m6hvgu",
+      "name": "Preclassic villages from about 2000 BC",
+      "x": -405,
+      "y": -156,
+      "parent": "#s3z3qd"
+    },
+    {
+      "@id": "#kqrers",
+      "name": "Classic peak, about AD 250–900",
+      "x": -330,
+      "y": -245,
+      "parent": "#s3z3qd"
+    },
+    {
+      "@id": "#e5cmg2",
+      "name": "Cities and states",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fyutif",
+      "name": "Tikal and Calakmul were rival powers",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Tikal",
+      "parent": "#e5cmg2"
+    },
+    {
+      "@id": "#jcfrmb",
+      "name": "Divine kings ruled independent city-states",
+      "x": -104,
+      "y": -367,
+      "parent": "#e5cmg2"
+    },
+    {
+      "@id": "#mrszn7",
+      "name": "Palenque and Copán famed for art",
+      "x": 42,
+      "y": -423,
+      "parent": "#e5cmg2"
+    },
+    {
+      "@id": "#8693ar",
+      "name": "Chichén Itzá dominated northern Yucatán",
+      "x": 234,
+      "y": -485,
+      "link": "https://en.wikipedia.org/wiki/Chichen_Itza",
+      "parent": "#e5cmg2"
+    },
+    {
+      "@id": "#nuutvz",
+      "name": "Knowledge",
+      "x": 190,
+      "y": -104,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bexstv",
+      "name": "Maya script mixed logograms and syllables",
+      "x": 281,
+      "y": -281,
+      "link": "https://en.wikipedia.org/wiki/Maya_script",
+      "parent": "#nuutvz"
+    },
+    {
+      "@id": "#yizmyn",
+      "name": "Long Count calendar and astronomy",
+      "x": 372,
+      "y": -203,
+      "link": "https://en.wikipedia.org/wiki/Maya_calendar",
+      "parent": "#nuutvz"
+    },
+    {
+      "@id": "#w9izza",
+      "name": "Base-20 numbers with a zero",
+      "x": 430,
+      "y": -106,
+      "parent": "#nuutvz"
+    },
+    {
+      "@id": "#2ksvx8",
+      "name": "Daily life and belief",
+      "x": 207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jxf7q8",
+      "name": "Maize central to farming and myth",
+      "x": 450,
+      "y": 0,
+      "parent": "#2ksvx8"
+    },
+    {
+      "@id": "#8jggci",
+      "name": "Popol Vuh tells the creation story",
+      "x": 525,
+      "y": 131,
+      "link": "https://en.wikipedia.org/wiki/Popol_Vuh",
+      "parent": "#2ksvx8"
+    },
+    {
+      "@id": "#u5p6sd",
+      "name": "Bloodletting and sacrifice honoured the gods",
+      "x": 372,
+      "y": 203,
+      "parent": "#2ksvx8"
+    },
+    {
+      "@id": "#dhzaw5",
+      "name": "Ballgame played in stone courts",
+      "x": 281,
+      "y": 281,
+      "parent": "#2ksvx8"
+    },
+    {
+      "@id": "#zxip7k",
+      "name": "Classic collapse",
+      "x": 17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u2tida",
+      "name": "Southern lowland cities abandoned, 9th century",
+      "x": 164,
+      "y": 335,
+      "parent": "#zxip7k"
+    },
+    {
+      "@id": "#hwa2fm",
+      "name": "Drought, warfare and overpopulation likely causes",
+      "x": 38,
+      "y": 391,
+      "parent": "#zxip7k"
+    },
+    {
+      "@id": "#kk39qm",
+      "name": "Northern cities like Mayapán continued",
+      "x": -124,
+      "y": 447,
+      "parent": "#zxip7k"
+    },
+    {
+      "@id": "#uhwabd",
+      "name": "Conquest and today",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#iaj6y3",
+      "name": "Spanish conquest from the 1520s",
+      "x": -235,
+      "y": 326,
+      "parent": "#uhwabd"
+    },
+    {
+      "@id": "#jjw5ua",
+      "name": "Nojpetén, last Maya kingdom, fell 1697",
+      "x": -330,
+      "y": 245,
+      "parent": "#uhwabd"
+    },
+    {
+      "@id": "#awhfd3",
+      "name": "Millions of Maya people live today",
+      "x": -405,
+      "y": 156,
+      "parent": "#uhwabd"
+    },
+    {
+      "@id": "#drjvqm",
+      "name": "2012 doomsday was a modern myth",
+      "x": -445,
+      "y": 54,
+      "parent": "#uhwabd"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

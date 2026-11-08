@@ -1,0 +1,32 @@
+category: Technology
+aliases: livestock farming, raising livestock, livestock husbandry, stock raising
+- Animal husbandry
+  - Main livestock
+    - [Cattle for beef, milk and leather](https://en.wikipedia.org/wiki/Cattle)
+    - Pigs for pork
+    - Chickens for meat and eggs
+    - Sheep and goats for meat, milk, wool
+    - Fish farming, now about half of seafood
+  - Daily care
+    - Feed, water and shelter
+    - Vaccination and veterinary care
+    - Breeding and managing births
+    - Milking, shearing and egg collection
+  - Farming systems
+    - Grazing on pasture and rangeland
+    - [Nomadic herding follows seasonal grass](https://en.wikipedia.org/wiki/Pastoralism)
+    - [Intensive indoor farming at large scale](https://en.wikipedia.org/wiki/Intensive_animal_farming)
+    - Organic and free-range systems
+  - Breeding
+    - Selective breeding for yield and hardiness
+    - Artificial insemination spreads top genetics
+    - Rare breeds kept for diversity
+  - Why it matters
+    - Major source of protein worldwide
+    - Livelihood for over a billion people
+    - Manure fertilises crops
+  - Concerns
+    - [About 15% of greenhouse emissions](https://en.wikipedia.org/wiki/Environmental_impacts_of_animal_agriculture)
+    - Uses much of the world's farmland
+    - Animal welfare in intensive systems
+    - Antibiotic overuse and disease spread

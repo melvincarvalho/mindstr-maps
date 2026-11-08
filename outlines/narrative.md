@@ -1,0 +1,30 @@
+category: Arts and culture
+aliases: narratology, narrative structure, storytelling structure
+- Narrative
+  - What a narrative is
+    - Connected events told in sequence
+    - Story is events; plot is arrangement
+    - Found in myth, news, film, games
+  - Core elements
+    - Characters who want something
+    - Conflict drives the action
+    - Setting fixes time and place
+    - Theme is the underlying idea
+  - Structure
+    - [Freytag's pyramid: rise, climax, fall](https://en.wikipedia.org/wiki/Dramatic_structure)
+    - Three acts: setup, confrontation, resolution
+    - [The hero's journey monomyth](https://en.wikipedia.org/wiki/Hero%27s_journey)
+    - Flashbacks and nonlinear timelines
+  - Who tells it
+    - [First-person narrator says "I"](https://en.wikipedia.org/wiki/First-person_narrative)
+    - Third-person limited or omniscient
+    - Unreliable narrators mislead readers
+  - Why narratives matter
+    - Oldest way to pass on knowledge
+    - Build identity and shared values
+    - Memory organises life as stories
+    - Used in law, history, advertising
+  - Studying narrative
+    - [Narratology analyses how stories work](https://en.wikipedia.org/wiki/Narratology)
+    - Propp mapped 31 folktale functions
+    - Aristotle's Poetics: beginning, middle, end

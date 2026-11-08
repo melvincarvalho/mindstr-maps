@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Surgery",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#8wh3h5",
+      "name": "What surgery is",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qruumr",
+      "name": "Treatment by cutting or repairing tissue",
+      "x": -504,
+      "y": -62,
+      "parent": "#8wh3h5"
+    },
+    {
+      "@id": "#3kdbct",
+      "name": "Done by surgeons in operating theatres",
+      "x": -401,
+      "y": -163,
+      "parent": "#8wh3h5"
+    },
+    {
+      "@id": "#dmptwb",
+      "name": "Elective, urgent or emergency",
+      "x": -318,
+      "y": -255,
+      "parent": "#8wh3h5"
+    },
+    {
+      "@id": "#xcwyd4",
+      "name": "Before the operation",
+      "x": -36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fdwnat",
+      "name": "Tests to check fitness for surgery",
+      "x": -204,
+      "y": -321,
+      "parent": "#xcwyd4"
+    },
+    {
+      "@id": "#d2u5nv",
+      "name": "Informed consent: risks and benefits explained",
+      "x": -73,
+      "y": -372,
+      "link": "https://en.wikipedia.org/wiki/Informed_consent",
+      "parent": "#xcwyd4"
+    },
+    {
+      "@id": "#z8sd64",
+      "name": "Fasting for several hours beforehand",
+      "x": 82,
+      "y": -420,
+      "parent": "#xcwyd4"
+    },
+    {
+      "@id": "#4zt29p",
+      "name": "During the operation",
+      "x": 186,
+      "y": -108,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hk4vg7",
+      "name": "Anaesthesia: general, regional or local",
+      "x": 204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Anesthesia",
+      "parent": "#4zt29p"
+    },
+    {
+      "@id": "#idzgie",
+      "name": "Sterile technique prevents infection",
+      "x": 318,
+      "y": -255,
+      "parent": "#4zt29p"
+    },
+    {
+      "@id": "#57mu5u",
+      "name": "Team of surgeon, anaesthetist and nurses",
+      "x": 401,
+      "y": -163,
+      "parent": "#4zt29p"
+    },
+    {
+      "@id": "#ay4qf2",
+      "name": "Safety checklist before the first cut",
+      "x": 444,
+      "y": -56,
+      "parent": "#4zt29p"
+    },
+    {
+      "@id": "#ax4g49",
+      "name": "Main approaches",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zccu2h",
+      "name": "Open surgery through one large cut",
+      "x": 444,
+      "y": 56,
+      "parent": "#ax4g49"
+    },
+    {
+      "@id": "#g8rwip",
+      "name": "Keyhole surgery through small cuts",
+      "x": 401,
+      "y": 163,
+      "link": "https://en.wikipedia.org/wiki/Laparoscopy",
+      "parent": "#ax4g49"
+    },
+    {
+      "@id": "#xps7ct",
+      "name": "Robot-assisted surgery",
+      "x": 318,
+      "y": 255,
+      "parent": "#ax4g49"
+    },
+    {
+      "@id": "#nw35j9",
+      "name": "Organ transplants",
+      "x": 204,
+      "y": 321,
+      "parent": "#ax4g49"
+    },
+    {
+      "@id": "#vn2y9e",
+      "name": "After the operation",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#va8c85",
+      "name": "Monitoring in the recovery room",
+      "x": 73,
+      "y": 372,
+      "parent": "#vn2y9e"
+    },
+    {
+      "@id": "#9tdwex",
+      "name": "Pain relief and early walking",
+      "x": -82,
+      "y": 420,
+      "parent": "#vn2y9e"
+    },
+    {
+      "@id": "#793gua",
+      "name": "Watch for infection and blood clots",
+      "x": -204,
+      "y": 321,
+      "parent": "#vn2y9e"
+    },
+    {
+      "@id": "#fvta5n",
+      "name": "Milestones",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ejpx5c",
+      "name": "Ether anaesthesia demonstrated in 1846",
+      "x": -318,
+      "y": 255,
+      "parent": "#fvta5n"
+    },
+    {
+      "@id": "#q5v2eu",
+      "name": "Lister's antiseptic surgery in the 1860s",
+      "x": -401,
+      "y": 163,
+      "link": "https://en.wikipedia.org/wiki/Joseph_Lister",
+      "parent": "#fvta5n"
+    },
+    {
+      "@id": "#zyffsj",
+      "name": "Antibiotics made operations far safer",
+      "x": -484,
+      "y": 60,
+      "parent": "#fvta5n"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

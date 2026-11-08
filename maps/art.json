@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Art",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#vzk8yu",
+      "name": "What art is",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#i62kkw",
+      "name": "Made by people to be looked at",
+      "x": -465,
+      "y": -56,
+      "parent": "#vzk8yu"
+    },
+    {
+      "@id": "#7bgt9g",
+      "name": "Definitions keep changing over time",
+      "x": -405,
+      "y": -156,
+      "parent": "#vzk8yu"
+    },
+    {
+      "@id": "#gmcnfn",
+      "name": "Aesthetics studies beauty and taste",
+      "x": -330,
+      "y": -245,
+      "link": "https://en.wikipedia.org/wiki/Aesthetics",
+      "parent": "#vzk8yu"
+    },
+    {
+      "@id": "#jg5gem",
+      "name": "Earliest art",
+      "x": -51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6t4he6",
+      "name": "Cave paintings over 30,000 years old",
+      "x": -225,
+      "y": -312,
+      "parent": "#jg5gem"
+    },
+    {
+      "@id": "#4vbqsf",
+      "name": "Carved figures like the Venus of Willendorf",
+      "x": -104,
+      "y": -367,
+      "parent": "#jg5gem"
+    },
+    {
+      "@id": "#cuwsx2",
+      "name": "Lascaux cave paintings in France",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Lascaux",
+      "parent": "#jg5gem"
+    },
+    {
+      "@id": "#k9wg3w",
+      "name": "Main forms",
+      "x": 169,
+      "y": -125,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#n8wqj8",
+      "name": "Painting in oil, tempera and watercolour",
+      "x": 234,
+      "y": -485,
+      "parent": "#k9wg3w"
+    },
+    {
+      "@id": "#jz7qi2",
+      "name": "Sculpture in stone, bronze and wood",
+      "x": 281,
+      "y": -281,
+      "parent": "#k9wg3w"
+    },
+    {
+      "@id": "#7yj2ds",
+      "name": "Drawing and printmaking",
+      "x": 372,
+      "y": -203,
+      "parent": "#k9wg3w"
+    },
+    {
+      "@id": "#7zda9k",
+      "name": "Photography, video and digital art",
+      "x": 430,
+      "y": -106,
+      "parent": "#k9wg3w"
+    },
+    {
+      "@id": "#76f9mc",
+      "name": "Major periods in the West",
+      "x": 207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rfjhr9",
+      "name": "Classical Greece and Rome idealised bodies",
+      "x": 450,
+      "y": 0,
+      "parent": "#76f9mc"
+    },
+    {
+      "@id": "#2us8cz",
+      "name": "Renaissance revived perspective and realism",
+      "x": 525,
+      "y": 131,
+      "link": "https://en.wikipedia.org/wiki/Renaissance_art",
+      "parent": "#76f9mc"
+    },
+    {
+      "@id": "#35unbw",
+      "name": "Baroque drama and Romantic emotion",
+      "x": 372,
+      "y": 203,
+      "parent": "#76f9mc"
+    },
+    {
+      "@id": "#8yrb3h",
+      "name": "Modern art broke with tradition",
+      "x": 281,
+      "y": 281,
+      "parent": "#76f9mc"
+    },
+    {
+      "@id": "#a33xvr",
+      "name": "Traditions beyond Europe",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h29q6x",
+      "name": "Chinese ink painting and calligraphy",
+      "x": 164,
+      "y": 335,
+      "parent": "#a33xvr"
+    },
+    {
+      "@id": "#xpfnhx",
+      "name": "Islamic geometric pattern and tilework",
+      "x": 38,
+      "y": 391,
+      "parent": "#a33xvr"
+    },
+    {
+      "@id": "#fbdqt6",
+      "name": "Japanese woodblock prints",
+      "x": -124,
+      "y": 447,
+      "parent": "#a33xvr"
+    },
+    {
+      "@id": "#bug8gq",
+      "name": "West African masks and bronzes",
+      "x": -225,
+      "y": 312,
+      "parent": "#a33xvr"
+    },
+    {
+      "@id": "#zikaw5",
+      "name": "How to look at art",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a6idrj",
+      "name": "Notice subject, colour and composition",
+      "x": -330,
+      "y": 245,
+      "parent": "#zikaw5"
+    },
+    {
+      "@id": "#mmh474",
+      "name": "Ask who made it and why",
+      "x": -405,
+      "y": 156,
+      "parent": "#zikaw5"
+    },
+    {
+      "@id": "#ji2evi",
+      "name": "Iconography decodes symbols",
+      "x": -485,
+      "y": 58,
+      "link": "https://en.wikipedia.org/wiki/Iconography",
+      "parent": "#zikaw5"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

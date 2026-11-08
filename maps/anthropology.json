@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Anthropology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#j38wpz",
+      "name": "What it is",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#w75ukg",
+      "name": "Study of humans, past and present",
+      "x": -465,
+      "y": -56,
+      "parent": "#j38wpz"
+    },
+    {
+      "@id": "#79grzq",
+      "name": "Compares societies around the world",
+      "x": -405,
+      "y": -156,
+      "parent": "#j38wpz"
+    },
+    {
+      "@id": "#a3fz4f",
+      "name": "Holistic: biology, culture, language, history",
+      "x": -330,
+      "y": -245,
+      "parent": "#j38wpz"
+    },
+    {
+      "@id": "#3kqjky",
+      "name": "The four fields",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#edf7uy",
+      "name": "Cultural anthropology: ways of life",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Cultural_anthropology",
+      "parent": "#3kqjky"
+    },
+    {
+      "@id": "#vis2js",
+      "name": "Biological anthropology: evolution and variation",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Biological_anthropology",
+      "parent": "#3kqjky"
+    },
+    {
+      "@id": "#itvufc",
+      "name": "Archaeology: past societies through artefacts",
+      "x": 42,
+      "y": -423,
+      "parent": "#3kqjky"
+    },
+    {
+      "@id": "#kytntz",
+      "name": "Linguistic anthropology: language and culture",
+      "x": 234,
+      "y": -485,
+      "parent": "#3kqjky"
+    },
+    {
+      "@id": "#9ckj7j",
+      "name": "Key ideas",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bangh7",
+      "name": "Culture is learned and shared",
+      "x": 281,
+      "y": -281,
+      "parent": "#9ckj7j"
+    },
+    {
+      "@id": "#hvmq3c",
+      "name": "Cultural relativism: understand on own terms",
+      "x": 372,
+      "y": -203,
+      "parent": "#9ckj7j"
+    },
+    {
+      "@id": "#rjawi8",
+      "name": "Kinship organises families and inheritance",
+      "x": 506,
+      "y": -126,
+      "parent": "#9ckj7j"
+    },
+    {
+      "@id": "#bhhi4d",
+      "name": "Rituals mark life transitions",
+      "x": 450,
+      "y": 0,
+      "parent": "#9ckj7j"
+    },
+    {
+      "@id": "#inn9af",
+      "name": "Fieldwork and ethnography",
+      "x": 190,
+      "y": 104,
+      "link": "https://en.wikipedia.org/wiki/Ethnography",
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b9hwqv",
+      "name": "Participant observation over months",
+      "x": 525,
+      "y": 131,
+      "parent": "#inn9af"
+    },
+    {
+      "@id": "#dhpd74",
+      "name": "Learning the local language",
+      "x": 372,
+      "y": 203,
+      "parent": "#inn9af"
+    },
+    {
+      "@id": "#6pgufk",
+      "name": "Informed consent and community ethics",
+      "x": 281,
+      "y": 281,
+      "parent": "#inn9af"
+    },
+    {
+      "@id": "#bb46ms",
+      "name": "History of the field",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#f88rc6",
+      "name": "Grew in the 19th century",
+      "x": 164,
+      "y": 335,
+      "parent": "#bb46ms"
+    },
+    {
+      "@id": "#m2bfe3",
+      "name": "Early work tied to colonialism",
+      "x": 38,
+      "y": 391,
+      "parent": "#bb46ms"
+    },
+    {
+      "@id": "#kvqw6r",
+      "name": "Boas challenged racial hierarchies",
+      "x": -124,
+      "y": 447,
+      "link": "https://en.wikipedia.org/wiki/Franz_Boas",
+      "parent": "#bb46ms"
+    },
+    {
+      "@id": "#t2fqny",
+      "name": "Malinowski championed long-term fieldwork",
+      "x": -225,
+      "y": 312,
+      "parent": "#bb46ms"
+    },
+    {
+      "@id": "#mn9hw4",
+      "name": "Uses today",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#chy6fy",
+      "name": "Medical and public health research",
+      "x": -330,
+      "y": 245,
+      "parent": "#mn9hw4"
+    },
+    {
+      "@id": "#v2hz76",
+      "name": "Business and design research",
+      "x": -405,
+      "y": 156,
+      "parent": "#mn9hw4"
+    },
+    {
+      "@id": "#n73fda",
+      "name": "Forensic identification of remains",
+      "x": -465,
+      "y": 56,
+      "parent": "#mn9hw4"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

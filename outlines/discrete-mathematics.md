@@ -1,0 +1,29 @@
+category: Mathematics
+aliases: discrete maths, discrete math, finite mathematics
+- Discrete mathematics
+  - Maths of separate, countable things
+    - Whole numbers, not smooth quantities
+    - Steps and choices, not continuous change
+    - Foundation of computer science
+  - Logic and proof
+    - [True or false statements combined](https://en.wikipedia.org/wiki/Propositional_calculus)
+    - Proof by induction climbs a ladder
+    - Proof by contradiction
+  - Sets and relations
+    - Collections of objects
+    - Functions pair inputs with outputs
+    - Relations like "is a divisor of"
+  - Counting
+    - [Combinatorics counts arrangements](https://en.wikipedia.org/wiki/Combinatorics)
+    - 3 books can be ordered 6 ways
+    - Pigeonhole principle forces a repeat
+  - Graphs and networks
+    - [Dots joined by lines](https://en.wikipedia.org/wiki/Graph_theory)
+    - Seven Bridges of Königsberg, 1736
+    - Trees, paths and colourings
+    - Model roads, friendships, the internet
+  - Numbers and computing
+    - Remainders and clock arithmetic
+    - [Boolean algebra runs digital circuits](https://en.wikipedia.org/wiki/Boolean_algebra)
+    - Encryption relies on prime numbers
+    - Algorithms and their efficiency

@@ -1,0 +1,364 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Hokusai",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#zqsims",
+      "name": "Who he was",
+      "x": -197,
+      "y": -96,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zmw6x3",
+      "name": "Japanese artist, born Edo 1760",
+      "x": -446,
+      "y": -49,
+      "parent": "#zqsims"
+    },
+    {
+      "@id": "#c242w6",
+      "name": "Died 1849, aged about 88",
+      "x": -413,
+      "y": -143,
+      "parent": "#zqsims"
+    },
+    {
+      "@id": "#ubh2kg",
+      "name": "Worked under about 30 different names",
+      "x": -349,
+      "y": -227,
+      "parent": "#zqsims"
+    },
+    {
+      "@id": "#vbk5q5",
+      "name": "Called himself \"old man mad about painting\"",
+      "x": -260,
+      "y": -294,
+      "parent": "#zqsims"
+    },
+    {
+      "@id": "#vze7t3",
+      "name": "Training and early work",
+      "x": -16,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3sf8ph",
+      "name": "Apprenticed to Katsukawa Shunshō around 1778",
+      "x": -158,
+      "y": -354,
+      "parent": "#vze7t3"
+    },
+    {
+      "@id": "#jed8qv",
+      "name": "Early prints of actors and courtesans",
+      "x": -34,
+      "y": -407,
+      "parent": "#vze7t3"
+    },
+    {
+      "@id": "#uzg7pe",
+      "name": "Shifted to landscapes, nature and legends",
+      "x": 120,
+      "y": -464,
+      "parent": "#vze7t3"
+    },
+    {
+      "@id": "#67ekff",
+      "name": "Ukiyo-e woodblock prints",
+      "x": 157,
+      "y": -134,
+      "link": "https://en.wikipedia.org/wiki/Ukiyo-e",
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gyf5nt",
+      "name": "Artist drew, carvers cut, printers inked",
+      "x": 333,
+      "y": -516,
+      "parent": "#67ekff"
+    },
+    {
+      "@id": "#2epmaq",
+      "name": "Prints were cheap and mass-produced",
+      "x": 307,
+      "y": -263,
+      "parent": "#67ekff"
+    },
+    {
+      "@id": "#e2cqwt",
+      "name": "Used imported Prussian blue pigment",
+      "x": 384,
+      "y": -187,
+      "parent": "#67ekff"
+    },
+    {
+      "@id": "#k87wij",
+      "name": "Famous works",
+      "x": 221,
+      "y": 50,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ke5s9s",
+      "name": "Thirty-Six Views of Mount Fuji",
+      "x": 446,
+      "y": -49,
+      "link": "https://en.wikipedia.org/wiki/Thirty-six_Views_of_Mount_Fuji",
+      "parent": "#k87wij"
+    },
+    {
+      "@id": "#i3tdy7",
+      "name": "The Great Wave off Kanagawa",
+      "x": 721,
+      "y": -161,
+      "link": "https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa",
+      "parent": "#ke5s9s"
+    },
+    {
+      "@id": "#t3d8t9",
+      "name": "Fine Wind, Clear Morning (\"Red Fuji\")",
+      "x": 670,
+      "y": 0,
+      "parent": "#ke5s9s"
+    },
+    {
+      "@id": "#qirgwi",
+      "name": "Hokusai Manga sketchbooks, from 1814",
+      "x": 452,
+      "y": 101,
+      "link": "https://en.wikipedia.org/wiki/Hokusai_Manga",
+      "parent": "#k87wij"
+    },
+    {
+      "@id": "#5pii6a",
+      "name": "One Hundred Views of Mount Fuji",
+      "x": 384,
+      "y": 187,
+      "parent": "#k87wij"
+    },
+    {
+      "@id": "#7y4gz4",
+      "name": "Waterfall and bridge print series",
+      "x": 307,
+      "y": 263,
+      "parent": "#k87wij"
+    },
+    {
+      "@id": "#w4wuef",
+      "name": "Life and habits",
+      "x": 16,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mpzcvh",
+      "name": "Moved house about 90 times",
+      "x": 207,
+      "y": 320,
+      "parent": "#w4wuef"
+    },
+    {
+      "@id": "#sfz9ju",
+      "name": "Lived in poverty despite his fame",
+      "x": 96,
+      "y": 368,
+      "parent": "#w4wuef"
+    },
+    {
+      "@id": "#gmcwg9",
+      "name": "Daughter Katsushika Ōi painted alongside him",
+      "x": -35,
+      "y": 423,
+      "parent": "#w4wuef"
+    },
+    {
+      "@id": "#d43c2e",
+      "name": "Kept improving into his late eighties",
+      "x": -214,
+      "y": 474,
+      "parent": "#w4wuef"
+    },
+    {
+      "@id": "#h8tzz2",
+      "name": "Legacy",
+      "x": -197,
+      "y": 96,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#exyq5z",
+      "name": "Inspired Western Japonisme craze",
+      "x": -260,
+      "y": 294,
+      "link": "https://en.wikipedia.org/wiki/Japonisme",
+      "parent": "#h8tzz2"
+    },
+    {
+      "@id": "#kue8z8",
+      "name": "Influenced Monet, Degas and Van Gogh",
+      "x": -349,
+      "y": 227,
+      "parent": "#h8tzz2"
+    },
+    {
+      "@id": "#excyr8",
+      "name": "Great Wave among most reproduced artworks",
+      "x": -431,
+      "y": 149,
+      "parent": "#h8tzz2"
+    },
+    {
+      "@id": "#2pc4cx",
+      "name": "Featured on Japan's 1,000-yen note",
+      "x": -446,
+      "y": 49,
+      "parent": "#h8tzz2"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 14,
+      "end": 19
+    },
+    {
+      "start": 14,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    },
+    {
+      "start": 26,
+      "end": 29
+    },
+    {
+      "start": 26,
+      "end": 30
+    }
+  ],
+  "selectedNode": 0
+}

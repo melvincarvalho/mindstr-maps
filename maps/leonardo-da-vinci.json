@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Leonardo da Vinci",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#yijjsm",
+      "name": "Life",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rz52wi",
+      "name": "Born 1452 near Vinci, Tuscany",
+      "x": -444,
+      "y": -56,
+      "parent": "#yijjsm"
+    },
+    {
+      "@id": "#6mweng",
+      "name": "Trained in Verrocchio's Florence workshop",
+      "x": -401,
+      "y": -163,
+      "parent": "#yijjsm"
+    },
+    {
+      "@id": "#xeyin3",
+      "name": "Worked in Milan for Ludovico Sforza",
+      "x": -318,
+      "y": -255,
+      "parent": "#yijjsm"
+    },
+    {
+      "@id": "#8kquk9",
+      "name": "Died 1519 in France, under Francis I",
+      "x": -204,
+      "y": -321,
+      "parent": "#yijjsm"
+    },
+    {
+      "@id": "#u4ebsv",
+      "name": "Paintings",
+      "x": 71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9cuquz",
+      "name": "Mona Lisa, begun around 1503",
+      "x": -73,
+      "y": -372,
+      "link": "https://en.wikipedia.org/wiki/Mona_Lisa",
+      "parent": "#u4ebsv"
+    },
+    {
+      "@id": "#e6cvfs",
+      "name": "The Last Supper, Milan, 1490s",
+      "x": 82,
+      "y": -420,
+      "link": "https://en.wikipedia.org/wiki/The_Last_Supper_%28Leonardo%29",
+      "parent": "#u4ebsv"
+    },
+    {
+      "@id": "#5tvrzt",
+      "name": "Lady with an Ermine",
+      "x": 204,
+      "y": -321,
+      "parent": "#u4ebsv"
+    },
+    {
+      "@id": "#znigaw",
+      "name": "Only about 15–20 paintings survive",
+      "x": 318,
+      "y": -255,
+      "parent": "#u4ebsv"
+    },
+    {
+      "@id": "#aqa9mh",
+      "name": "Painting techniques",
+      "x": 219,
+      "y": -57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pp6tu5",
+      "name": "Sfumato: soft, smoky transitions",
+      "x": 401,
+      "y": -163,
+      "link": "https://en.wikipedia.org/wiki/Sfumato",
+      "parent": "#aqa9mh"
+    },
+    {
+      "@id": "#aq5hax",
+      "name": "Realistic perspective, light and anatomy",
+      "x": 544,
+      "y": -66,
+      "parent": "#aqa9mh"
+    },
+    {
+      "@id": "#hm9tfc",
+      "name": "Notebooks",
+      "x": 205,
+      "y": 84,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8f9ckx",
+      "name": "Thousands of pages of notes and sketches",
+      "x": 484,
+      "y": 60,
+      "parent": "#hm9tfc"
+    },
+    {
+      "@id": "#vrhm5w",
+      "name": "Mirror writing, right to left",
+      "x": 401,
+      "y": 163,
+      "parent": "#hm9tfc"
+    },
+    {
+      "@id": "#4veq2c",
+      "name": "Vitruvian Man drawing",
+      "x": 318,
+      "y": 255,
+      "link": "https://en.wikipedia.org/wiki/Vitruvian_Man",
+      "parent": "#hm9tfc"
+    },
+    {
+      "@id": "#7bi6gm",
+      "name": "Science and engineering",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ef3v39",
+      "name": "Human anatomy studied through dissection",
+      "x": 204,
+      "y": 321,
+      "parent": "#7bi6gm"
+    },
+    {
+      "@id": "#vgz86n",
+      "name": "Designs for flying machines",
+      "x": 73,
+      "y": 372,
+      "parent": "#7bi6gm"
+    },
+    {
+      "@id": "#eixhhh",
+      "name": "Studied water, geology and optics",
+      "x": -82,
+      "y": 420,
+      "parent": "#7bi6gm"
+    },
+    {
+      "@id": "#nsz8xe",
+      "name": "Military engineering for his patrons",
+      "x": -204,
+      "y": 321,
+      "parent": "#7bi6gm"
+    },
+    {
+      "@id": "#mpfz2x",
+      "name": "Legacy",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2qze9y",
+      "name": "Archetype of the \"Renaissance man\"",
+      "x": -318,
+      "y": 255,
+      "parent": "#mpfz2x"
+    },
+    {
+      "@id": "#7pgf9k",
+      "name": "Mona Lisa hangs in the Louvre",
+      "x": -401,
+      "y": 163,
+      "parent": "#mpfz2x"
+    },
+    {
+      "@id": "#3z5e5b",
+      "name": "Salvator Mundi sold for $450 million, 2017",
+      "x": -484,
+      "y": 60,
+      "parent": "#mpfz2x"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

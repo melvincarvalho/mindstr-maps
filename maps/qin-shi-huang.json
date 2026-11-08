@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Qin Shi Huang",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#gsffgx",
+      "name": "Who he was",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z42vgt",
+      "name": "Born Ying Zheng in 259 BC",
+      "x": -445,
+      "y": -54,
+      "parent": "#gsffgx"
+    },
+    {
+      "@id": "#wkbpzk",
+      "name": "King of Qin from 246 BC",
+      "x": -405,
+      "y": -156,
+      "parent": "#gsffgx"
+    },
+    {
+      "@id": "#q3ux2b",
+      "name": "Died in 210 BC on tour",
+      "x": -330,
+      "y": -245,
+      "parent": "#gsffgx"
+    },
+    {
+      "@id": "#n9jcf6",
+      "name": "Unifying China",
+      "x": -51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d5bxur",
+      "name": "Conquered six rival Warring States",
+      "x": -225,
+      "y": -312,
+      "parent": "#n9jcf6"
+    },
+    {
+      "@id": "#3atg9r",
+      "name": "Unified China in 221 BC",
+      "x": -104,
+      "y": -367,
+      "parent": "#n9jcf6"
+    },
+    {
+      "@id": "#54ugcx",
+      "name": "Took the new title Huangdi, emperor",
+      "x": 42,
+      "y": -423,
+      "parent": "#n9jcf6"
+    },
+    {
+      "@id": "#49ghr5",
+      "name": "Standardising everything",
+      "x": 169,
+      "y": -125,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t9vtbx",
+      "name": "One written script across China",
+      "x": 234,
+      "y": -485,
+      "parent": "#49ghr5"
+    },
+    {
+      "@id": "#3rw3p3",
+      "name": "Common coins, weights and measures",
+      "x": 281,
+      "y": -281,
+      "parent": "#49ghr5"
+    },
+    {
+      "@id": "#538424",
+      "name": "Same axle widths for carts",
+      "x": 372,
+      "y": -203,
+      "parent": "#49ghr5"
+    },
+    {
+      "@id": "#t9ab4s",
+      "name": "Replaced feudal lords with governed commanderies",
+      "x": 544,
+      "y": -136,
+      "parent": "#49ghr5"
+    },
+    {
+      "@id": "#gqav8c",
+      "name": "Harsh rule",
+      "x": 220,
+      "y": 54,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gzkxbw",
+      "name": "Governed by strict Legalist ideas",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Legalism_%28Chinese_philosophy%29",
+      "parent": "#gqav8c"
+    },
+    {
+      "@id": "#4ypjcb",
+      "name": "Ordered burning of books, 213 BC",
+      "x": 430,
+      "y": 106,
+      "link": "https://en.wikipedia.org/wiki/Burning_of_books_and_burying_of_scholars",
+      "parent": "#gqav8c"
+    },
+    {
+      "@id": "#sp4mx2",
+      "name": "Forced labour on huge projects",
+      "x": 372,
+      "y": 203,
+      "parent": "#gqav8c"
+    },
+    {
+      "@id": "#uqn9yz",
+      "name": "Great works",
+      "x": 51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7wmqin",
+      "name": "Linked walls into early Great Wall",
+      "x": 281,
+      "y": 281,
+      "link": "https://en.wikipedia.org/wiki/Great_Wall_of_China",
+      "parent": "#uqn9yz"
+    },
+    {
+      "@id": "#ifk27g",
+      "name": "Built roads and canals",
+      "x": 164,
+      "y": 335,
+      "parent": "#uqn9yz"
+    },
+    {
+      "@id": "#fpkx8j",
+      "name": "Vast tomb near modern Xi'an",
+      "x": 38,
+      "y": 391,
+      "parent": "#uqn9yz"
+    },
+    {
+      "@id": "#26vft3",
+      "name": "Terracotta Army found in 1974",
+      "x": -124,
+      "y": 447,
+      "link": "https://en.wikipedia.org/wiki/Terracotta_Army",
+      "parent": "#uqn9yz"
+    },
+    {
+      "@id": "#huw97j",
+      "name": "Legacy",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#76t6uy",
+      "name": "Searched for an elixir of immortality",
+      "x": -225,
+      "y": 312,
+      "parent": "#huw97j"
+    },
+    {
+      "@id": "#nbirew",
+      "name": "Qin dynasty collapsed in 206 BC",
+      "x": -330,
+      "y": 245,
+      "parent": "#huw97j"
+    },
+    {
+      "@id": "#nnczri",
+      "name": "Han dynasty kept his unified state",
+      "x": -405,
+      "y": 156,
+      "parent": "#huw97j"
+    },
+    {
+      "@id": "#3e4avn",
+      "name": "Name China may come from Qin",
+      "x": -445,
+      "y": 54,
+      "parent": "#huw97j"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

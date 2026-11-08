@@ -1,0 +1,29 @@
+category: Science
+aliases: strong nuclear force, strong force, color force
+- Strong interaction
+  - What it is
+    - Strongest of the four fundamental forces
+    - Binds quarks into protons and neutrons
+    - Holds the atomic nucleus together
+  - How it works
+    - [Quarks carry a "colour" charge](https://en.wikipedia.org/wiki/Color_charge)
+    - [Gluons carry the force between quarks](https://en.wikipedia.org/wiki/Gluon)
+    - Gluons themselves feel the force
+    - [Theory called quantum chromodynamics (QCD)](https://en.wikipedia.org/wiki/Quantum_chromodynamics)
+  - Strange behaviour
+    - Pull grows as quarks move apart
+    - [Quarks are never seen alone](https://en.wikipedia.org/wiki/Color_confinement)
+    - Pulling quarks apart creates new particles
+    - Weakens at very short distances
+  - The nuclear force
+    - Leftover strong force binds protons, neutrons
+    - Overcomes protons' electric repulsion
+    - Reaches only about one nucleus width
+  - Why it matters
+    - Most of your mass is binding energy
+    - [Powers fusion in the Sun](https://en.wikipedia.org/wiki/Nuclear_fusion)
+    - Energy source of nuclear reactors and bombs
+  - Discovery
+    - Nucleus needed a binding force, 1930s
+    - Yukawa predicted pion carriers, 1935
+    - Quark model proposed in 1964

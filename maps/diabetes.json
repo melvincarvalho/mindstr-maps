@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Diabetes",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#njfpjj",
+      "name": "What it is",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yakatv",
+      "name": "Blood sugar stays too high",
+      "x": -445,
+      "y": -54,
+      "parent": "#njfpjj"
+    },
+    {
+      "@id": "#iixy8j",
+      "name": "Insulin moves sugar into cells",
+      "x": -405,
+      "y": -156,
+      "link": "https://en.wikipedia.org/wiki/Insulin",
+      "parent": "#njfpjj"
+    },
+    {
+      "@id": "#g5hwxz",
+      "name": "About 1 in 10 adults worldwide",
+      "x": -330,
+      "y": -245,
+      "parent": "#njfpjj"
+    },
+    {
+      "@id": "#4bd8sf",
+      "name": "Main types",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p8ndaf",
+      "name": "Type 1: immune system destroys insulin cells",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Type_1_diabetes",
+      "parent": "#4bd8sf"
+    },
+    {
+      "@id": "#j6yu4c",
+      "name": "Type 2: body resists insulin",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Type_2_diabetes",
+      "parent": "#4bd8sf"
+    },
+    {
+      "@id": "#zp3ddr",
+      "name": "Gestational: develops during pregnancy",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Gestational_diabetes",
+      "parent": "#4bd8sf"
+    },
+    {
+      "@id": "#g7qkuc",
+      "name": "Prediabetes: higher than normal sugar",
+      "x": 234,
+      "y": -485,
+      "parent": "#4bd8sf"
+    },
+    {
+      "@id": "#86n7fu",
+      "name": "Symptoms",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#agk8vc",
+      "name": "Very thirsty and urinating often",
+      "x": 281,
+      "y": -281,
+      "parent": "#86n7fu"
+    },
+    {
+      "@id": "#i5cdu8",
+      "name": "Tiredness and blurred vision",
+      "x": 372,
+      "y": -203,
+      "parent": "#86n7fu"
+    },
+    {
+      "@id": "#mr6k3w",
+      "name": "Unexplained weight loss",
+      "x": 430,
+      "y": -106,
+      "parent": "#86n7fu"
+    },
+    {
+      "@id": "#qjc5fg",
+      "name": "Slow-healing cuts and infections",
+      "x": 450,
+      "y": 0,
+      "parent": "#86n7fu"
+    },
+    {
+      "@id": "#4b3h5j",
+      "name": "Risk factors for type 2",
+      "x": 190,
+      "y": 104,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tzgqga",
+      "name": "Excess weight, especially around waist",
+      "x": 525,
+      "y": 131,
+      "parent": "#4b3h5j"
+    },
+    {
+      "@id": "#hf96fu",
+      "name": "Inactivity and unhealthy diet",
+      "x": 372,
+      "y": 203,
+      "parent": "#4b3h5j"
+    },
+    {
+      "@id": "#qvpm4s",
+      "name": "Family history and older age",
+      "x": 281,
+      "y": 281,
+      "parent": "#4b3h5j"
+    },
+    {
+      "@id": "#9fqi3b",
+      "name": "Diagnosis",
+      "x": 51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4rsk5g",
+      "name": "HbA1c shows average blood sugar",
+      "x": 164,
+      "y": 335,
+      "link": "https://en.wikipedia.org/wiki/Glycated_hemoglobin",
+      "parent": "#9fqi3b"
+    },
+    {
+      "@id": "#3t9qj2",
+      "name": "Fasting blood glucose test",
+      "x": 38,
+      "y": 391,
+      "parent": "#9fqi3b"
+    },
+    {
+      "@id": "#b5gz45",
+      "name": "Treatment and complications",
+      "x": -169,
+      "y": 125,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pmg9zx",
+      "name": "Type 1 needs insulin for life",
+      "x": -124,
+      "y": 447,
+      "parent": "#b5gz45"
+    },
+    {
+      "@id": "#y9kvdg",
+      "name": "Type 2: diet, exercise, metformin",
+      "x": -225,
+      "y": 312,
+      "parent": "#b5gz45"
+    },
+    {
+      "@id": "#8nc5c4",
+      "name": "Monitor sugar, eyes, feet, kidneys",
+      "x": -330,
+      "y": 245,
+      "parent": "#b5gz45"
+    },
+    {
+      "@id": "#gacgkx",
+      "name": "Can damage heart, nerves and eyes",
+      "x": -459,
+      "y": 177,
+      "parent": "#b5gz45"
+    },
+    {
+      "@id": "#cxhm3w",
+      "name": "Low blood sugar needs fast sugar",
+      "x": -445,
+      "y": 54,
+      "parent": "#b5gz45"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    },
+    {
+      "start": 22,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

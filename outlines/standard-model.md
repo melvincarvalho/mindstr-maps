@@ -1,0 +1,30 @@
+category: Science
+aliases: standard model of particle physics, the standard model, standard model physics
+- Standard Model
+  - What it is
+    - The theory of known particles and forces
+    - Built up in the 1960s and 1970s
+    - Its predictions match experiments extremely well
+  - Matter particles (fermions)
+    - [Six quarks: up, down, and four heavier](https://en.wikipedia.org/wiki/Quark)
+    - Six leptons, including the electron
+    - [Three neutrinos, almost massless](https://en.wikipedia.org/wiki/Neutrino)
+    - Three generations, each heavier than the last
+  - Forces and their carriers
+    - Electromagnetism carried by photons
+    - Strong force carried by gluons
+    - Weak force carried by W, Z bosons
+    - Gravity is not included
+  - The Higgs field
+    - Gives particles their mass
+    - [Higgs boson predicted in 1964](https://en.wikipedia.org/wiki/Higgs_mechanism)
+    - Found at CERN's LHC in 2012
+  - Triumphs
+    - W and Z bosons found in 1983
+    - Top quark found in 1995
+    - Electron magnetism matches to 10+ digits
+  - What it can't explain
+    - [Dark matter and dark energy](https://en.wikipedia.org/wiki/Physics_beyond_the_Standard_Model)
+    - Why neutrinos have mass
+    - Why the universe is mostly matter
+    - How to include gravity

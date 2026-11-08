@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Myth",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#pff2uh",
+      "name": "What a myth is",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#55isci",
+      "name": "Sacred traditional story explaining the world",
+      "x": -525,
+      "y": -59,
+      "parent": "#pff2uh"
+    },
+    {
+      "@id": "#52gwfk",
+      "name": "Gods, heroes and the distant past",
+      "x": -409,
+      "y": -150,
+      "parent": "#pff2uh"
+    },
+    {
+      "@id": "#arp39i",
+      "name": "To scholars, not simply \"false belief\"",
+      "x": -340,
+      "y": -236,
+      "parent": "#pff2uh"
+    },
+    {
+      "@id": "#fe6u5b",
+      "name": "What myths explain",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v2nhmg",
+      "name": "Creation: how the world began",
+      "x": -243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Creation_myth",
+      "parent": "#fe6u5b"
+    },
+    {
+      "@id": "#wu87xn",
+      "name": "Flood stories in Mesopotamia, Bible, India",
+      "x": -133,
+      "y": -360,
+      "parent": "#fe6u5b"
+    },
+    {
+      "@id": "#dhzwwz",
+      "name": "Persephone's descent explains winter",
+      "x": 0,
+      "y": -408,
+      "parent": "#fe6u5b"
+    },
+    {
+      "@id": "#btkma3",
+      "name": "Why customs and rituals exist",
+      "x": 175,
+      "y": -465,
+      "parent": "#fe6u5b"
+    },
+    {
+      "@id": "#exu6wa",
+      "name": "Great mythologies",
+      "x": 209,
+      "y": -76,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#823evd",
+      "name": "Greek: Zeus and the Olympians",
+      "x": 243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Greek_mythology",
+      "parent": "#exu6wa"
+    },
+    {
+      "@id": "#d8wj8c",
+      "name": "Norse: Odin, Thor and Ragnarök",
+      "x": 340,
+      "y": -236,
+      "parent": "#exu6wa"
+    },
+    {
+      "@id": "#cqmtvd",
+      "name": "Egyptian: Osiris, Isis and Ra",
+      "x": 409,
+      "y": -150,
+      "parent": "#exu6wa"
+    },
+    {
+      "@id": "#p8h5xp",
+      "name": "Hindu: Vishnu's avatars, the Mahabharata",
+      "x": 525,
+      "y": -59,
+      "parent": "#exu6wa"
+    },
+    {
+      "@id": "#79k24y",
+      "name": "Mesopotamian: the Epic of Gilgamesh",
+      "x": 445,
+      "y": 51,
+      "parent": "#exu6wa"
+    },
+    {
+      "@id": "#v8sr7z",
+      "name": "Recurring patterns",
+      "x": 174,
+      "y": 120,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#s93pef",
+      "name": "Hero's journey: call, trials, return",
+      "x": 463,
+      "y": 171,
+      "link": "https://en.wikipedia.org/wiki/Hero%27s_journey",
+      "parent": "#v8sr7z"
+    },
+    {
+      "@id": "#uyyphd",
+      "name": "Tricksters like Loki, Coyote, Anansi",
+      "x": 340,
+      "y": 236,
+      "parent": "#v8sr7z"
+    },
+    {
+      "@id": "#ax9qnw",
+      "name": "Sky father and earth mother",
+      "x": 243,
+      "y": 303,
+      "parent": "#v8sr7z"
+    },
+    {
+      "@id": "#djjksu",
+      "name": "How scholars read myths",
+      "x": -33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9agme2",
+      "name": "Frazer linked myths to ritual, magic",
+      "x": 133,
+      "y": 360,
+      "parent": "#djjksu"
+    },
+    {
+      "@id": "#cipc5i",
+      "name": "Campbell: one hero, many faces",
+      "x": 0,
+      "y": 408,
+      "link": "https://en.wikipedia.org/wiki/Joseph_Campbell",
+      "parent": "#djjksu"
+    },
+    {
+      "@id": "#pdsr2b",
+      "name": "Lévi-Strauss: built on binary opposites",
+      "x": -175,
+      "y": 465,
+      "parent": "#djjksu"
+    },
+    {
+      "@id": "#z6i62y",
+      "name": "Jung: shared archetypes in the psyche",
+      "x": -243,
+      "y": 303,
+      "parent": "#djjksu"
+    },
+    {
+      "@id": "#bd26u3",
+      "name": "Myths today",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xiyi24",
+      "name": "Panic, echo and narcissism come from myths",
+      "x": -340,
+      "y": 236,
+      "parent": "#bd26u3"
+    },
+    {
+      "@id": "#pz2j47",
+      "name": "Star Wars drew on Campbell's hero",
+      "x": -409,
+      "y": 150,
+      "parent": "#bd26u3"
+    },
+    {
+      "@id": "#uef777",
+      "name": "Nations tell founding myths",
+      "x": -445,
+      "y": 51,
+      "parent": "#bd26u3"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 10,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

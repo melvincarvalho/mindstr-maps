@@ -1,0 +1,28 @@
+category: Technology
+aliases: what is mechanical engineering, mechanical engineer
+- Mechanical engineering
+  - What it covers
+    - Machines, engines and moving parts
+    - One of the broadest engineering disciplines
+    - Grew from Industrial Revolution workshops
+  - Core sciences
+    - [Mechanics: forces and motion](https://en.wikipedia.org/wiki/Classical_mechanics)
+    - [Thermodynamics: heat and energy](https://en.wikipedia.org/wiki/Thermodynamics)
+    - Fluid mechanics: liquids and gases
+    - Materials science and strength
+  - Classic inventions
+    - [Watt's improved steam engine, 1770s](https://en.wikipedia.org/wiki/Watt_steam_engine)
+    - Machine tools like the lathe
+    - Internal combustion engine, 1800s
+    - Jet engine, 1930s
+    - Industrial robots, 1960s
+  - How products are made
+    - Design in CAD software
+    - Simulate stresses and heat flow
+    - Build and test prototypes
+    - Manufacture: machining, casting, 3D printing
+  - Where they work
+    - Cars, aircraft and spacecraft
+    - Power plants and turbines
+    - Heating, ventilation and air conditioning
+    - Medical devices and robotics

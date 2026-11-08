@@ -1,0 +1,29 @@
+category: People
+aliases: da vinci, leonardo di ser piero da vinci
+- Leonardo da Vinci
+  - Life
+    - Born 1452 near Vinci, Tuscany
+    - Trained in Verrocchio's Florence workshop
+    - Worked in Milan for Ludovico Sforza
+    - Died 1519 in France, under Francis I
+  - Paintings
+    - [Mona Lisa, begun around 1503](https://en.wikipedia.org/wiki/Mona_Lisa)
+    - [The Last Supper, Milan, 1490s](https://en.wikipedia.org/wiki/The_Last_Supper_%28Leonardo%29)
+    - Lady with an Ermine
+    - Only about 15–20 paintings survive
+  - Painting techniques
+    - [Sfumato: soft, smoky transitions](https://en.wikipedia.org/wiki/Sfumato)
+    - Realistic perspective, light and anatomy
+  - Notebooks
+    - Thousands of pages of notes and sketches
+    - Mirror writing, right to left
+    - [Vitruvian Man drawing](https://en.wikipedia.org/wiki/Vitruvian_Man)
+  - Science and engineering
+    - Human anatomy studied through dissection
+    - Designs for flying machines
+    - Studied water, geology and optics
+    - Military engineering for his patrons
+  - Legacy
+    - Archetype of the "Renaissance man"
+    - Mona Lisa hangs in the Louvre
+    - Salvator Mundi sold for $450 million, 2017

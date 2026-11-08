@@ -1,0 +1,28 @@
+category: Society
+aliases: what is a word, words in language
+- Word
+  - Smallest unit that stands alone
+    - Carries meaning and can be spoken alone
+    - Spaces mark words in many scripts
+    - Chinese and Thai write without spaces
+  - [Built from morphemes](https://en.wikipedia.org/wiki/Morpheme)
+    - Roots carry the core meaning
+    - Prefixes and suffixes change it
+    - "Unhappiness" = un + happy + ness
+  - [Word classes](https://en.wikipedia.org/wiki/Part_of_speech)
+    - Content words: nouns, verbs, adjectives
+    - Function words: the, of, and
+    - New words join open classes only
+  - How new words are made
+    - [Borrowing from other languages](https://en.wikipedia.org/wiki/Loanword)
+    - Compounding: sun + flower
+    - Blending: smoke + fog = smog
+    - Clipping and acronyms: phone, laser
+  - Meanings shift over time
+    - [Etymology traces word histories](https://en.wikipedia.org/wiki/Etymology)
+    - "Nice" once meant foolish
+    - Slang can become standard
+  - Words in numbers
+    - Oxford English Dictionary: about 500,000 entries
+    - Adult native speakers know 20,000–40,000
+    - About 100 words make half of text

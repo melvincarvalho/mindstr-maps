@@ -1,0 +1,351 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Early modern period",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#cnc9qz",
+      "name": "When it was",
+      "x": -197,
+      "y": -96,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jdkjph",
+      "name": "Roughly 1500 to 1800",
+      "x": -446,
+      "y": -49,
+      "parent": "#cnc9qz"
+    },
+    {
+      "@id": "#szviub",
+      "name": "After the Middle Ages, before industrialisation",
+      "x": -431,
+      "y": -149,
+      "parent": "#cnc9qz"
+    },
+    {
+      "@id": "#8twpuu",
+      "name": "Starts near printing, 1492 and Reformation",
+      "x": -349,
+      "y": -227,
+      "parent": "#cnc9qz"
+    },
+    {
+      "@id": "#xja3gc",
+      "name": "Ends near the French and Industrial Revolutions",
+      "x": -260,
+      "y": -294,
+      "parent": "#cnc9qz"
+    },
+    {
+      "@id": "#9r84rf",
+      "name": "A connected world",
+      "x": 16,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b5bmzz",
+      "name": "Age of Discovery opened ocean routes",
+      "x": -158,
+      "y": -354,
+      "link": "https://en.wikipedia.org/wiki/Age_of_Discovery",
+      "parent": "#9r84rf"
+    },
+    {
+      "@id": "#6224w3",
+      "name": "Columbian exchange of crops and diseases",
+      "x": -34,
+      "y": -407,
+      "link": "https://en.wikipedia.org/wiki/Columbian_exchange",
+      "parent": "#9r84rf"
+    },
+    {
+      "@id": "#n6niau",
+      "name": "Global trade in silver, spices, sugar",
+      "x": 120,
+      "y": -464,
+      "parent": "#9r84rf"
+    },
+    {
+      "@id": "#vb985k",
+      "name": "Atlantic slave trade forced millions into bondage",
+      "x": 333,
+      "y": -516,
+      "parent": "#9r84rf"
+    },
+    {
+      "@id": "#mgi8av",
+      "name": "Big empires",
+      "x": 211,
+      "y": -73,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9gatv4",
+      "name": "Ottoman, Safavid and Mughal gunpowder empires",
+      "x": 307,
+      "y": -263,
+      "parent": "#mgi8av"
+    },
+    {
+      "@id": "#jxb5bz",
+      "name": "Ming and Qing China",
+      "x": 384,
+      "y": -187,
+      "parent": "#mgi8av"
+    },
+    {
+      "@id": "#wsd8kb",
+      "name": "European seaborne and colonial empires",
+      "x": 490,
+      "y": -109,
+      "parent": "#mgi8av"
+    },
+    {
+      "@id": "#u4m66t",
+      "name": "Tokugawa shogunate unified Japan",
+      "x": 450,
+      "y": 0,
+      "parent": "#mgi8av"
+    },
+    {
+      "@id": "#eysz5x",
+      "name": "Religion and ideas",
+      "x": 178,
+      "y": 116,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#35g78m",
+      "name": "Printing press spread books and pamphlets",
+      "x": 509,
+      "y": 113,
+      "parent": "#eysz5x"
+    },
+    {
+      "@id": "#y529a5",
+      "name": "Protestant Reformation split Western Christianity",
+      "x": 384,
+      "y": 187,
+      "link": "https://en.wikipedia.org/wiki/Reformation",
+      "parent": "#eysz5x"
+    },
+    {
+      "@id": "#hwfbdk",
+      "name": "Scientific Revolution changed how nature was studied",
+      "x": 307,
+      "y": 263,
+      "parent": "#eysz5x"
+    },
+    {
+      "@id": "#6isptb",
+      "name": "Enlightenment championed reason and rights",
+      "x": 207,
+      "y": 320,
+      "parent": "#eysz5x"
+    },
+    {
+      "@id": "#ycnjgb",
+      "name": "States and wars",
+      "x": -47,
+      "y": 180,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wamijy",
+      "name": "Monarchs centralised power; absolutism",
+      "x": 96,
+      "y": 368,
+      "parent": "#ycnjgb"
+    },
+    {
+      "@id": "#726fwr",
+      "name": "Thirty Years' War, 1618–1648",
+      "x": -35,
+      "y": 423,
+      "parent": "#ycnjgb"
+    },
+    {
+      "@id": "#avstng",
+      "name": "Peace of Westphalia shaped sovereign states",
+      "x": -214,
+      "y": 474,
+      "parent": "#ycnjgb"
+    },
+    {
+      "@id": "#iuw6y7",
+      "name": "Gunpowder armies and military revolution",
+      "x": -260,
+      "y": 294,
+      "parent": "#ycnjgb"
+    },
+    {
+      "@id": "#8qxw7h",
+      "name": "Economy and society",
+      "x": -211,
+      "y": 73,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8f88nw",
+      "name": "Merchant capitalism and joint-stock companies",
+      "x": -365,
+      "y": 237,
+      "parent": "#8qxw7h"
+    },
+    {
+      "@id": "#6xpugg",
+      "name": "Most people still farmed the land",
+      "x": -413,
+      "y": 143,
+      "parent": "#8qxw7h"
+    },
+    {
+      "@id": "#wpmjwn",
+      "name": "Witch hunts peaked around 1560–1650",
+      "x": -506,
+      "y": 55,
+      "parent": "#8qxw7h"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    },
+    {
+      "start": 26,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

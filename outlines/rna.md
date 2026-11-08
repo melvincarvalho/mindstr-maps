@@ -1,0 +1,29 @@
+category: Science
+aliases: ribonucleic acid, what is rna, messenger rna
+- RNA
+  - What RNA is
+    - Ribonucleic acid, a cousin of DNA
+    - Usually a single strand
+    - Ribose sugar instead of deoxyribose
+    - Uracil replaces thymine: A, U, G, C
+  - Making proteins
+    - [Transcription copies a gene into RNA](https://en.wikipedia.org/wiki/Transcription_%28biology%29)
+    - [Messenger RNA carries the recipe](https://en.wikipedia.org/wiki/Messenger_RNA)
+    - Ribosomes read three-letter codons
+    - Transfer RNA brings matching amino acids
+    - Ribosomal RNA forms the ribosome's core
+  - Other jobs
+    - MicroRNAs turn genes down
+    - Ribozymes: RNA that acts as enzyme
+    - Splicing cuts introns out of mRNA
+  - [The RNA world idea](https://en.wikipedia.org/wiki/RNA_world)
+    - Early life may have used RNA alone
+    - Stores information and catalyses reactions
+  - RNA viruses
+    - Flu, HIV and coronaviruses carry RNA genomes
+    - High mutation rates speed their evolution
+    - RT-PCR tests detect viral RNA
+  - RNA in medicine
+    - [mRNA vaccines against COVID-19, 2020](https://en.wikipedia.org/wiki/MRNA_vaccine)
+    - RNA interference silences target genes
+    - Antisense drugs target faulty RNA

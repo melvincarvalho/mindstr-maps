@@ -1,0 +1,30 @@
+category: Geography
+aliases: cdmx, ciudad de mexico, mexico df
+- Mexico City
+  - Setting
+    - Capital of Mexico, high plateau
+    - About 2,240 m above sea level
+    - Built on a drained lake bed
+    - Sinking ground and earthquake risk
+  - History
+    - [Aztec capital Tenochtitlan, founded 1325](https://en.wikipedia.org/wiki/Tenochtitlan)
+    - Spanish conquest in 1521
+    - Capital of New Spain
+    - 1985 earthquake killed thousands
+  - People
+    - About 9 million in the city
+    - About 22 million in metro area
+    - Largest Spanish-speaking city on Earth
+  - Economy
+    - Generates a large share of Mexico's GDP
+    - Finance, government and services
+    - Large informal street economy
+  - Landmarks
+    - [Zócalo, the vast main square](https://en.wikipedia.org/wiki/Z%C3%B3calo)
+    - Metropolitan Cathedral and Templo Mayor ruins
+    - Chapultepec Park and Castle
+    - Teotihuacan pyramids nearby
+  - Culture
+    - [National Museum of Anthropology](https://en.wikipedia.org/wiki/National_Museum_of_Anthropology_%28Mexico%29)
+    - Diego Rivera murals and Frida Kahlo
+    - Tacos al pastor and street food

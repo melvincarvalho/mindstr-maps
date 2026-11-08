@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Fishing",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#jvfvsi",
+      "name": "Why people fish",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5nicqm",
+      "name": "Food for billions of people",
+      "x": -465,
+      "y": -53,
+      "parent": "#jvfvsi"
+    },
+    {
+      "@id": "#zv3ke8",
+      "name": "Recreation and sport angling",
+      "x": -409,
+      "y": -150,
+      "parent": "#jvfvsi"
+    },
+    {
+      "@id": "#vkevdw",
+      "name": "Livelihood for coastal communities",
+      "x": -340,
+      "y": -236,
+      "parent": "#jvfvsi"
+    },
+    {
+      "@id": "#nay2y6",
+      "name": "Methods",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d8buau",
+      "name": "Rod, line and baited hook",
+      "x": -243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Angling",
+      "parent": "#nay2y6"
+    },
+    {
+      "@id": "#vpwcc3",
+      "name": "Fly fishing with artificial flies",
+      "x": -133,
+      "y": -360,
+      "link": "https://en.wikipedia.org/wiki/Fly_fishing",
+      "parent": "#nay2y6"
+    },
+    {
+      "@id": "#erjfwt",
+      "name": "Nets: gillnets, seines and trawls",
+      "x": 0,
+      "y": -408,
+      "parent": "#nay2y6"
+    },
+    {
+      "@id": "#jz9v2e",
+      "name": "Traps and pots for crabs, lobsters",
+      "x": 175,
+      "y": -465,
+      "parent": "#nay2y6"
+    },
+    {
+      "@id": "#cpcirk",
+      "name": "Longlines carry thousands of hooks",
+      "x": 243,
+      "y": -303,
+      "parent": "#nay2y6"
+    },
+    {
+      "@id": "#yp9dvr",
+      "name": "Where fish are caught",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sacben",
+      "name": "Rivers and lakes for freshwater species",
+      "x": 340,
+      "y": -236,
+      "parent": "#yp9dvr"
+    },
+    {
+      "@id": "#szx5kg",
+      "name": "Coastal waters and estuaries",
+      "x": 409,
+      "y": -150,
+      "parent": "#yp9dvr"
+    },
+    {
+      "@id": "#pdzc2c",
+      "name": "Open ocean for tuna and cod",
+      "x": 505,
+      "y": -57,
+      "parent": "#yp9dvr"
+    },
+    {
+      "@id": "#ghqzg8",
+      "name": "Ice fishing through frozen lakes",
+      "x": 445,
+      "y": 51,
+      "parent": "#yp9dvr"
+    },
+    {
+      "@id": "#4tmvei",
+      "name": "Commercial fishing",
+      "x": 174,
+      "y": 120,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#64n358",
+      "name": "Factory ships process catch at sea",
+      "x": 463,
+      "y": 171,
+      "parent": "#4tmvei"
+    },
+    {
+      "@id": "#qcjeth",
+      "name": "China catches the most fish",
+      "x": 340,
+      "y": 236,
+      "parent": "#4tmvei"
+    },
+    {
+      "@id": "#qzw8gf",
+      "name": "Aquaculture now rivals wild catch",
+      "x": 243,
+      "y": 303,
+      "link": "https://en.wikipedia.org/wiki/Aquaculture",
+      "parent": "#4tmvei"
+    },
+    {
+      "@id": "#y9sda7",
+      "name": "Sustainability",
+      "x": -33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#imgmk4",
+      "name": "Overfishing has depleted many stocks",
+      "x": 133,
+      "y": 360,
+      "link": "https://en.wikipedia.org/wiki/Overfishing",
+      "parent": "#y9sda7"
+    },
+    {
+      "@id": "#8x4s35",
+      "name": "Bycatch kills dolphins, turtles, seabirds",
+      "x": 0,
+      "y": 408,
+      "parent": "#y9sda7"
+    },
+    {
+      "@id": "#rx7dk2",
+      "name": "Quotas and closed seasons protect stocks",
+      "x": -175,
+      "y": 465,
+      "parent": "#y9sda7"
+    },
+    {
+      "@id": "#4jz75n",
+      "name": "Marine protected areas let fish recover",
+      "x": -243,
+      "y": 303,
+      "parent": "#y9sda7"
+    },
+    {
+      "@id": "#pfrv7z",
+      "name": "Getting started",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xvx2xn",
+      "name": "Get a licence where required",
+      "x": -340,
+      "y": 236,
+      "parent": "#pfrv7z"
+    },
+    {
+      "@id": "#v38rhn",
+      "name": "Learn local size and bag limits",
+      "x": -409,
+      "y": 150,
+      "parent": "#pfrv7z"
+    },
+    {
+      "@id": "#365ur6",
+      "name": "Catch and release handles fish gently",
+      "x": -505,
+      "y": 57,
+      "parent": "#pfrv7z"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

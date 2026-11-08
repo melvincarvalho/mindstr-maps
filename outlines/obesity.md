@@ -1,0 +1,32 @@
+category: Health
+aliases: overweight and obesity, causes of obesity, obesity treatment
+- Obesity
+  - Measuring it
+    - Excess body fat that harms health
+    - [Adults: BMI of 30 or more](https://en.wikipedia.org/wiki/Body_mass_index)
+    - BMI is only a rough screening tool
+    - Waist size flags risky belly fat
+  - Causes
+    - More energy eaten than used
+    - Cheap, energy-dense processed food
+    - Less physical activity in daily life
+    - Genes strongly influence weight
+    - Sleep, stress, some medicines and conditions
+  - Health risks
+    - [Type 2 diabetes](https://en.wikipedia.org/wiki/Type_2_diabetes)
+    - Heart disease and stroke
+    - Several cancers and joint problems
+    - Obstructive sleep apnoea
+  - Global picture
+    - About 1 in 8 people worldwide
+    - Adult rates more than doubled since 1990
+    - Rising fast in lower-income countries
+  - Treatment and support
+    - Eating, activity and behaviour changes
+    - Losing 5–10% of weight helps health
+    - [GLP-1 medicines such as semaglutide](https://en.wikipedia.org/wiki/GLP-1_receptor_agonist)
+    - [Bariatric surgery for severe obesity](https://en.wikipedia.org/wiki/Bariatric_surgery)
+  - Prevention and society
+    - Healthier food environments and labelling
+    - Sugar taxes in some countries
+    - [Weight stigma harms health and care](https://en.wikipedia.org/wiki/Social_stigma_of_obesity)

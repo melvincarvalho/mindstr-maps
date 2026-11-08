@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Economy",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#v6j7hg",
+      "name": "What an economy is",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jpm3km",
+      "name": "How a society produces and shares goods",
+      "x": -524,
+      "y": -64,
+      "parent": "#v6j7hg"
+    },
+    {
+      "@id": "#2jm27m",
+      "name": "Production, distribution, trade, consumption",
+      "x": -401,
+      "y": -163,
+      "parent": "#v6j7hg"
+    },
+    {
+      "@id": "#viqtcb",
+      "name": "Solves scarcity: what, how, for whom",
+      "x": -318,
+      "y": -255,
+      "parent": "#v6j7hg"
+    },
+    {
+      "@id": "#9cm3g7",
+      "name": "Who takes part",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xcs8wt",
+      "name": "Households supply work, spend income",
+      "x": -204,
+      "y": -321,
+      "parent": "#9cm3g7"
+    },
+    {
+      "@id": "#fy5zi6",
+      "name": "Firms hire, produce and sell",
+      "x": -73,
+      "y": -372,
+      "parent": "#9cm3g7"
+    },
+    {
+      "@id": "#h4z994",
+      "name": "Governments tax, spend and regulate",
+      "x": 82,
+      "y": -420,
+      "parent": "#9cm3g7"
+    },
+    {
+      "@id": "#kk4euc",
+      "name": "Banks move savings to borrowers",
+      "x": 204,
+      "y": -321,
+      "parent": "#9cm3g7"
+    },
+    {
+      "@id": "#a8xax9",
+      "name": "Types of economic system",
+      "x": 219,
+      "y": -57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#482b6t",
+      "name": "Market economies: prices coordinate decisions",
+      "x": 318,
+      "y": -255,
+      "link": "https://en.wikipedia.org/wiki/Market_economy",
+      "parent": "#a8xax9"
+    },
+    {
+      "@id": "#8crvxp",
+      "name": "Planned economies: the state decides",
+      "x": 401,
+      "y": -163,
+      "link": "https://en.wikipedia.org/wiki/Planned_economy",
+      "parent": "#a8xax9"
+    },
+    {
+      "@id": "#nrwnzg",
+      "name": "Mixed economies: most countries today",
+      "x": 544,
+      "y": -66,
+      "parent": "#a8xax9"
+    },
+    {
+      "@id": "#3wwdrz",
+      "name": "Traditional economies follow custom",
+      "x": 444,
+      "y": 56,
+      "parent": "#a8xax9"
+    },
+    {
+      "@id": "#uwfgz6",
+      "name": "Sectors",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jjd6en",
+      "name": "Primary: farming, mining, fishing",
+      "x": 401,
+      "y": 163,
+      "parent": "#uwfgz6"
+    },
+    {
+      "@id": "#4te478",
+      "name": "Secondary: manufacturing and construction",
+      "x": 318,
+      "y": 255,
+      "parent": "#uwfgz6"
+    },
+    {
+      "@id": "#578yzd",
+      "name": "Tertiary: services, now the largest",
+      "x": 204,
+      "y": 321,
+      "parent": "#uwfgz6"
+    },
+    {
+      "@id": "#y4pmt9",
+      "name": "Measuring it",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mq5p67",
+      "name": "GDP sums a year's output",
+      "x": 73,
+      "y": 372,
+      "link": "https://en.wikipedia.org/wiki/Gross_domestic_product",
+      "parent": "#y4pmt9"
+    },
+    {
+      "@id": "#s87zwn",
+      "name": "GDP per head compares living standards",
+      "x": -82,
+      "y": 420,
+      "parent": "#y4pmt9"
+    },
+    {
+      "@id": "#ttrscy",
+      "name": "Unemployment, inflation and trade",
+      "x": -204,
+      "y": 321,
+      "parent": "#y4pmt9"
+    },
+    {
+      "@id": "#5ieb7m",
+      "name": "The world economy",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#477g94",
+      "name": "Global output about $100 trillion yearly",
+      "x": -318,
+      "y": 255,
+      "parent": "#5ieb7m"
+    },
+    {
+      "@id": "#x8njh3",
+      "name": "US, China, EU largest economies",
+      "x": -401,
+      "y": 163,
+      "parent": "#5ieb7m"
+    },
+    {
+      "@id": "#mv2nqy",
+      "name": "Globalisation links supply chains worldwide",
+      "x": -544,
+      "y": 66,
+      "link": "https://en.wikipedia.org/wiki/Globalization",
+      "parent": "#5ieb7m"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

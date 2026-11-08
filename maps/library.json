@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Library",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#d5gzyn",
+      "name": "What a library offers",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#reb525",
+      "name": "Books, journals and media to borrow",
+      "x": -445,
+      "y": -54,
+      "parent": "#d5gzyn"
+    },
+    {
+      "@id": "#zstjwe",
+      "name": "Free internet and computers",
+      "x": -405,
+      "y": -156,
+      "parent": "#d5gzyn"
+    },
+    {
+      "@id": "#mz68dk",
+      "name": "Quiet space to study and work",
+      "x": -330,
+      "y": -245,
+      "parent": "#d5gzyn"
+    },
+    {
+      "@id": "#axyfd6",
+      "name": "Librarians help you find information",
+      "x": -225,
+      "y": -312,
+      "parent": "#d5gzyn"
+    },
+    {
+      "@id": "#nazxaf",
+      "name": "Kinds of library",
+      "x": 51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xvzs4j",
+      "name": "Public libraries open to everyone",
+      "x": -104,
+      "y": -367,
+      "parent": "#nazxaf"
+    },
+    {
+      "@id": "#by3izu",
+      "name": "Academic libraries at universities",
+      "x": 42,
+      "y": -423,
+      "parent": "#nazxaf"
+    },
+    {
+      "@id": "#psbuhq",
+      "name": "School libraries",
+      "x": 171,
+      "y": -350,
+      "parent": "#nazxaf"
+    },
+    {
+      "@id": "#dhei2a",
+      "name": "National libraries keep a country's record",
+      "x": 281,
+      "y": -281,
+      "parent": "#nazxaf"
+    },
+    {
+      "@id": "#399u8s",
+      "name": "History",
+      "x": 227,
+      "y": -27,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sw7698",
+      "name": "Ashurbanipal's clay tablet library, Nineveh",
+      "x": 389,
+      "y": -212,
+      "link": "https://en.wikipedia.org/wiki/Library_of_Ashurbanipal",
+      "parent": "#399u8s"
+    },
+    {
+      "@id": "#c977me",
+      "name": "Library of Alexandria, ancient learning centre",
+      "x": 430,
+      "y": -106,
+      "link": "https://en.wikipedia.org/wiki/Library_of_Alexandria",
+      "parent": "#399u8s"
+    },
+    {
+      "@id": "#ex253n",
+      "name": "Medieval monasteries copied manuscripts",
+      "x": 490,
+      "y": 0,
+      "parent": "#399u8s"
+    },
+    {
+      "@id": "#c7kkcs",
+      "name": "Carnegie funded over 2,500 libraries",
+      "x": 430,
+      "y": 106,
+      "parent": "#399u8s"
+    },
+    {
+      "@id": "#2z7cxz",
+      "name": "How it's organised",
+      "x": 155,
+      "y": 157,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5jmmae",
+      "name": "Dewey Decimal Classification by subject",
+      "x": 389,
+      "y": 212,
+      "link": "https://en.wikipedia.org/wiki/Dewey_Decimal_Classification",
+      "parent": "#2z7cxz"
+    },
+    {
+      "@id": "#ez7575",
+      "name": "Catalogue searchable online",
+      "x": 281,
+      "y": 281,
+      "parent": "#2z7cxz"
+    },
+    {
+      "@id": "#sgi4g8",
+      "name": "Call numbers locate each item",
+      "x": 164,
+      "y": 335,
+      "parent": "#2z7cxz"
+    },
+    {
+      "@id": "#hauphv",
+      "name": "Library values",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6c64ds",
+      "name": "Free and equal access to information",
+      "x": 38,
+      "y": 391,
+      "parent": "#hauphv"
+    },
+    {
+      "@id": "#h3resk",
+      "name": "Protecting readers' privacy",
+      "x": -124,
+      "y": 447,
+      "parent": "#hauphv"
+    },
+    {
+      "@id": "#tasswy",
+      "name": "Resisting censorship of books",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wikipedia.org/wiki/Intellectual_freedom",
+      "parent": "#hauphv"
+    },
+    {
+      "@id": "#nwvenf",
+      "name": "Libraries today",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jgpmfw",
+      "name": "E-books and digital lending",
+      "x": -330,
+      "y": 245,
+      "parent": "#nwvenf"
+    },
+    {
+      "@id": "#yrt2wt",
+      "name": "Community events and children's story times",
+      "x": -405,
+      "y": 156,
+      "parent": "#nwvenf"
+    },
+    {
+      "@id": "#7gnyvs",
+      "name": "Library of Congress, among the largest",
+      "x": -505,
+      "y": 60,
+      "parent": "#nwvenf"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

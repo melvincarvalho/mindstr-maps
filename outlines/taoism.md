@@ -1,0 +1,31 @@
+category: Philosophy and religion
+aliases: daoism, taoist philosophy, taoist religion
+- Taoism
+  - Key ideas
+    - Tao: the Way behind all things
+    - [Wu wei: effortless action](https://en.wikipedia.org/wiki/Wu_wei)
+    - [Yin and yang in balance](https://en.wikipedia.org/wiki/Yin_and_yang)
+    - Simplicity, naturalness and spontaneity
+  - Classic texts
+    - [Tao Te Ching, attributed to Laozi](https://en.wikipedia.org/wiki/Tao_Te_Ching)
+    - [Zhuangzi: parables and free thinking](https://en.wikipedia.org/wiki/Zhuangzi_%28book%29)
+    - Daozang, the Taoist canon
+  - History
+    - Roots in China, 4th century BCE
+    - Celestial Masters founded 142 CE
+    - Shaped and was shaped by Buddhism
+    - Suppressed during the Cultural Revolution
+  - Religious practice
+    - Temples to many deities and immortals
+    - Priests perform rituals and blessings
+    - Seeking long life and immortality
+    - Quanzhen monks; Zhengyi married priests
+  - Body and mind
+    - Qi: life energy to cultivate
+    - Meditation and breathing practices
+    - Tai chi and qigong exercises
+    - Inner alchemy for spiritual transformation
+  - Influence
+    - Chinese medicine and martial arts
+    - Landscape painting and poetry
+    - Blends with folk religion in practice

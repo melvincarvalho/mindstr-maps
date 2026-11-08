@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Imperialism",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#39kx97",
+      "name": "Meaning",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ub72gp",
+      "name": "Extending a state's power over others",
+      "x": -464,
+      "y": -58,
+      "parent": "#39kx97"
+    },
+    {
+      "@id": "#6cb969",
+      "name": "By conquest, colonies or economic dominance",
+      "x": -401,
+      "y": -163,
+      "parent": "#39kx97"
+    },
+    {
+      "@id": "#5fs435",
+      "name": "Broader than colonialism; needs no settlers",
+      "x": -318,
+      "y": -255,
+      "parent": "#39kx97"
+    },
+    {
+      "@id": "#tkwnzd",
+      "name": "Empires through history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hpy42m",
+      "name": "Rome, Persia and Han China",
+      "x": -204,
+      "y": -321,
+      "parent": "#tkwnzd"
+    },
+    {
+      "@id": "#g5qdmy",
+      "name": "Mongol Empire, largest contiguous land empire",
+      "x": -73,
+      "y": -372,
+      "parent": "#tkwnzd"
+    },
+    {
+      "@id": "#a4nzvf",
+      "name": "Ottoman, Spanish and Mughal empires",
+      "x": 82,
+      "y": -420,
+      "parent": "#tkwnzd"
+    },
+    {
+      "@id": "#a39tm5",
+      "name": "British Empire covered a quarter of land",
+      "x": 204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/British_Empire",
+      "parent": "#tkwnzd"
+    },
+    {
+      "@id": "#siak62",
+      "name": "Motives",
+      "x": 219,
+      "y": -57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#449zvq",
+      "name": "Raw materials, markets and investment",
+      "x": 318,
+      "y": -255,
+      "parent": "#siak62"
+    },
+    {
+      "@id": "#ystim3",
+      "name": "Strategic bases and great-power rivalry",
+      "x": 401,
+      "y": -163,
+      "parent": "#siak62"
+    },
+    {
+      "@id": "#69vc92",
+      "name": "National prestige and \"civilising mission\"",
+      "x": 504,
+      "y": -62,
+      "parent": "#siak62"
+    },
+    {
+      "@id": "#x5qidv",
+      "name": "Social Darwinism and racial hierarchy",
+      "x": 444,
+      "y": 56,
+      "link": "https://en.wikipedia.org/wiki/Social_Darwinism",
+      "parent": "#siak62"
+    },
+    {
+      "@id": "#ueq98i",
+      "name": "Theories",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rnkt27",
+      "name": "Hobson blamed surplus capital (1902)",
+      "x": 437,
+      "y": 177,
+      "link": "https://en.wikipedia.org/wiki/Imperialism:_A_Study",
+      "parent": "#ueq98i"
+    },
+    {
+      "@id": "#953yck",
+      "name": "Lenin: highest stage of capitalism",
+      "x": 318,
+      "y": 255,
+      "parent": "#ueq98i"
+    },
+    {
+      "@id": "#iyuqks",
+      "name": "Realists see power competition between states",
+      "x": 204,
+      "y": 321,
+      "parent": "#ueq98i"
+    },
+    {
+      "@id": "#48r3cr",
+      "name": "Tools and methods",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aq2q9a",
+      "name": "Gunboats, treaties and protectorates",
+      "x": 73,
+      "y": 372,
+      "parent": "#48r3cr"
+    },
+    {
+      "@id": "#nqi5rp",
+      "name": "Unequal treaties forced on China",
+      "x": -82,
+      "y": 420,
+      "parent": "#48r3cr"
+    },
+    {
+      "@id": "#cvkjq7",
+      "name": "Spheres of influence and client states",
+      "x": -303,
+      "y": 475,
+      "parent": "#48r3cr"
+    },
+    {
+      "@id": "#fdenc8",
+      "name": "Criticism and aftermath",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sipk2g",
+      "name": "Anti-imperialist movements and independence",
+      "x": -318,
+      "y": 255,
+      "parent": "#fdenc8"
+    },
+    {
+      "@id": "#gh5q43",
+      "name": "Cultural imperialism through media and language",
+      "x": -401,
+      "y": 163,
+      "parent": "#fdenc8"
+    },
+    {
+      "@id": "#9hd2jt",
+      "name": "Debates over American and Soviet \"empires\"",
+      "x": -564,
+      "y": 68,
+      "link": "https://en.wikipedia.org/wiki/American_imperialism",
+      "parent": "#fdenc8"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

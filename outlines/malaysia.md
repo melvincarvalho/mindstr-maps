@@ -1,0 +1,33 @@
+category: Geography
+aliases: federation of malaysia, malaysia country
+- Malaysia
+  - Land
+    - Peninsula plus Sabah and Sarawak on Borneo
+    - Kuala Lumpur capital, Putrajaya government seat
+    - [Petronas Towers, once world's tallest](https://en.wikipedia.org/wiki/Petronas_Towers)
+    - Ancient rainforest and Mount Kinabalu
+  - People and languages
+    - About 34 million people
+    - Malays and indigenous peoples are the majority
+    - Large Chinese and Indian communities
+    - Malay is the national language
+    - Islam official, other faiths practised freely
+  - History in brief
+    - [Malacca Sultanate ruled the straits](https://en.wikipedia.org/wiki/Malacca_Sultanate)
+    - Portuguese, Dutch, then British control
+    - Malaya independent in 1957
+    - Malaysia formed in 1963
+    - Singapore left in 1965
+  - Government
+    - Federal constitutional monarchy
+    - [King chosen by rulers every five years](https://en.wikipedia.org/wiki/Yang_di-Pertuan_Agong)
+    - Parliamentary, prime minister leads
+    - Thirteen states, three federal territories
+  - Economy
+    - Palm oil and rubber
+    - Electronics and semiconductor manufacturing
+    - Oil and gas led by Petronas
+  - Culture
+    - Nasi lemak, the national dish
+    - Hari Raya, Chinese New Year, Deepavali
+    - Badminton is hugely popular

@@ -1,0 +1,32 @@
+category: Health
+aliases: mental illness, mental health condition, psychiatric disorder, mental health problems
+- Mental disorder
+  - What it is
+    - Affects thinking, mood or behaviour
+    - Causes distress or disrupts daily life
+    - About 1 in 8 people worldwide
+  - Common types
+    - [Anxiety disorders: excessive fear or worry](https://en.wikipedia.org/wiki/Anxiety_disorder)
+    - [Depression: persistent low mood](https://en.wikipedia.org/wiki/Major_depressive_disorder)
+    - Bipolar disorder: mood swings
+    - Schizophrenia: psychosis, altered perception
+    - Eating disorders
+    - PTSD after trauma
+  - Causes and risk factors
+    - Genes and family history
+    - Stress, trauma and abuse
+    - Poverty, isolation and discrimination
+    - Alcohol, drugs and physical illness
+  - Diagnosis
+    - Assessed by doctors, psychologists, psychiatrists
+    - [DSM-5 and ICD-11 classify conditions](https://en.wikipedia.org/wiki/DSM-5)
+    - Based on symptoms and their duration
+  - Treatment and support
+    - [Talking therapies such as CBT](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy)
+    - Medication such as antidepressants
+    - Peer support and self-help
+    - Many people recover or manage well
+  - Wellbeing and stigma
+    - Stigma stops people seeking help
+    - Sleep, exercise and connection help
+    - Crisis lines for urgent help

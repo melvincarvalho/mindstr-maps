@@ -1,0 +1,34 @@
+category: History
+aliases: modern period, modern times, modern world history
+- Modern era
+  - Its main periods
+    - Begins around 1500
+    - [Early modern period, about 1500–1800](https://en.wikipedia.org/wiki/Early_modern_period)
+    - Late modern period, about 1800–1945
+    - Contemporary history since 1945
+  - Europe reaches the world
+    - Columbus reaches the Americas 1492
+    - Printing press spreads new ideas
+    - Protestant Reformation begins 1517
+    - [Scientific Revolution changes how we know](https://en.wikipedia.org/wiki/Scientific_Revolution)
+    - Atlantic slave trade enslaves millions
+  - Age of revolutions
+    - Enlightenment champions reason and rights
+    - American Revolution, 1775–1783
+    - [French Revolution begins 1789](https://en.wikipedia.org/wiki/French_Revolution)
+    - Nationalism reshapes states and borders
+  - Industry and empire
+    - [Industrial Revolution starts in Britain](https://en.wikipedia.org/wiki/Industrial_Revolution)
+    - Steam power, railways and factories
+    - European empires rule much of world
+    - Population grows from 0.5 to 8 billion
+  - World wars and ideologies
+    - World War I, 1914–1918
+    - World War II, 1939–1945
+    - Democracy, fascism and communism compete
+    - [Cold War divides the world](https://en.wikipedia.org/wiki/Cold_War)
+  - Since 1945
+    - United Nations founded 1945
+    - Decolonization creates dozens of nations
+    - Internet and globalization connect people
+    - Climate change becomes a global challenge

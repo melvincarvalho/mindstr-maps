@@ -1,0 +1,318 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Karl Marx",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#szd7gw",
+      "name": "Life, 1818–1883",
+      "x": -169,
+      "y": -125,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2e3nie",
+      "name": "Born in Trier, Prussia",
+      "x": -445,
+      "y": -54,
+      "parent": "#szd7gw"
+    },
+    {
+      "@id": "#p2sne8",
+      "name": "Studied law and philosophy in Bonn, Berlin",
+      "x": -459,
+      "y": -177,
+      "parent": "#szd7gw"
+    },
+    {
+      "@id": "#7cbv6p",
+      "name": "Radical journalist expelled from several countries",
+      "x": -330,
+      "y": -245,
+      "parent": "#szd7gw"
+    },
+    {
+      "@id": "#qkaan6",
+      "name": "Settled in London from 1849",
+      "x": -225,
+      "y": -312,
+      "parent": "#szd7gw"
+    },
+    {
+      "@id": "#tbpb9n",
+      "name": "Supported by lifelong partner Friedrich Engels",
+      "x": -104,
+      "y": -367,
+      "parent": "#szd7gw"
+    },
+    {
+      "@id": "#qvg6ek",
+      "name": "Major works",
+      "x": 84,
+      "y": -171,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g5mwnx",
+      "name": "The Communist Manifesto with Engels, 1848",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/The_Communist_Manifesto",
+      "parent": "#qvg6ek"
+    },
+    {
+      "@id": "#4xypcp",
+      "name": "Das Kapital, volume one 1867",
+      "x": 234,
+      "y": -485,
+      "link": "https://en.wikipedia.org/wiki/Das_Kapital",
+      "parent": "#qvg6ek"
+    },
+    {
+      "@id": "#ixx5gh",
+      "name": "Theses on Feuerbach and German Ideology",
+      "x": 281,
+      "y": -281,
+      "parent": "#qvg6ek"
+    },
+    {
+      "@id": "#t9fp4t",
+      "name": "Key ideas",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#373ksn",
+      "name": "History driven by material conditions",
+      "x": 372,
+      "y": -203,
+      "link": "https://en.wikipedia.org/wiki/Historical_materialism",
+      "parent": "#t9fp4t"
+    },
+    {
+      "@id": "#t2qs32",
+      "name": "History as class struggle",
+      "x": 430,
+      "y": -106,
+      "parent": "#t9fp4t"
+    },
+    {
+      "@id": "#9qr6pe",
+      "name": "Workers alienated from their labour",
+      "x": 490,
+      "y": 0,
+      "parent": "#t9fp4t"
+    },
+    {
+      "@id": "#iu2w6d",
+      "name": "Profit comes from unpaid surplus labour",
+      "x": 430,
+      "y": 106,
+      "parent": "#t9fp4t"
+    },
+    {
+      "@id": "#i8i76r",
+      "name": "Capitalism would give way to communism",
+      "x": 372,
+      "y": 203,
+      "parent": "#t9fp4t"
+    },
+    {
+      "@id": "#hz8fzr",
+      "name": "Political activity",
+      "x": 126,
+      "y": 261,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#iht4s6",
+      "name": "Leading figure in the First International",
+      "x": 317,
+      "y": 317,
+      "parent": "#hz8fzr"
+    },
+    {
+      "@id": "#5r7nn2",
+      "name": "Defended the Paris Commune of 1871",
+      "x": 178,
+      "y": 365,
+      "parent": "#hz8fzr"
+    },
+    {
+      "@id": "#x6grhu",
+      "name": "Lived in poverty, buried in Highgate",
+      "x": 42,
+      "y": 423,
+      "parent": "#hz8fzr"
+    },
+    {
+      "@id": "#r2hwqx",
+      "name": "Legacy",
+      "x": -169,
+      "y": 125,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xisuyz",
+      "name": "Inspired socialist and communist movements",
+      "x": -132,
+      "y": 479,
+      "link": "https://en.wikipedia.org/wiki/Marxism",
+      "parent": "#r2hwqx"
+    },
+    {
+      "@id": "#eqnqdc",
+      "name": "Claimed by Soviet Union and China",
+      "x": -225,
+      "y": 312,
+      "parent": "#r2hwqx"
+    },
+    {
+      "@id": "#3zw9ei",
+      "name": "Shaped sociology, economics and history",
+      "x": -330,
+      "y": 245,
+      "parent": "#r2hwqx"
+    },
+    {
+      "@id": "#tjyfb9",
+      "name": "Critics cite authoritarian regimes, failed predictions",
+      "x": -459,
+      "y": 177,
+      "parent": "#r2hwqx"
+    },
+    {
+      "@id": "#ss58fh",
+      "name": "Among the most influential modern thinkers",
+      "x": -445,
+      "y": 54,
+      "parent": "#r2hwqx"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 11,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    },
+    {
+      "start": 21,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

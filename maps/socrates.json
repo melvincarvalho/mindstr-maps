@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Socrates",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#cxb8pa",
+      "name": "Who he was",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zqcszu",
+      "name": "Athenian philosopher, about 470–399 BC",
+      "x": -445,
+      "y": -51,
+      "parent": "#cxb8pa"
+    },
+    {
+      "@id": "#y2ss4d",
+      "name": "Son of a stonemason and midwife",
+      "x": -409,
+      "y": -150,
+      "parent": "#cxb8pa"
+    },
+    {
+      "@id": "#h48zi2",
+      "name": "Served as a hoplite soldier",
+      "x": -340,
+      "y": -236,
+      "parent": "#cxb8pa"
+    },
+    {
+      "@id": "#4pmw7i",
+      "name": "Wrote nothing himself",
+      "x": -243,
+      "y": -303,
+      "parent": "#cxb8pa"
+    },
+    {
+      "@id": "#cbpq67",
+      "name": "How we know him",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dvykmh",
+      "name": "Plato's dialogues, main source",
+      "x": -133,
+      "y": -360,
+      "link": "https://en.wikipedia.org/wiki/Socratic_dialogue",
+      "parent": "#cbpq67"
+    },
+    {
+      "@id": "#dwaijg",
+      "name": "Xenophon's memoirs of him",
+      "x": 0,
+      "y": -408,
+      "parent": "#cbpq67"
+    },
+    {
+      "@id": "#v9ty5r",
+      "name": "Mocked in Aristophanes' The Clouds",
+      "x": 175,
+      "y": -465,
+      "parent": "#cbpq67"
+    },
+    {
+      "@id": "#gx74ds",
+      "name": "The Socratic problem: real vs portrayed",
+      "x": 243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Socratic_problem",
+      "parent": "#cbpq67"
+    },
+    {
+      "@id": "#i25mjn",
+      "name": "His method",
+      "x": 209,
+      "y": -76,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u6eya3",
+      "name": "Questioning to expose contradictions",
+      "x": 340,
+      "y": -236,
+      "link": "https://en.wikipedia.org/wiki/Socratic_method",
+      "parent": "#i25mjn"
+    },
+    {
+      "@id": "#3hwajn",
+      "name": "Asked \"What is justice? courage?\"",
+      "x": 409,
+      "y": -150,
+      "parent": "#i25mjn"
+    },
+    {
+      "@id": "#rf9tue",
+      "name": "Claimed only to know his ignorance",
+      "x": 465,
+      "y": -53,
+      "parent": "#i25mjn"
+    },
+    {
+      "@id": "#t9xspg",
+      "name": "Key ideas",
+      "x": 193,
+      "y": 99,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#caky5f",
+      "name": "\"The unexamined life is not worth living\"",
+      "x": 445,
+      "y": 51,
+      "parent": "#t9xspg"
+    },
+    {
+      "@id": "#xrthu3",
+      "name": "Virtue is a kind of knowledge",
+      "x": 409,
+      "y": 150,
+      "parent": "#t9xspg"
+    },
+    {
+      "@id": "#pderf8",
+      "name": "No one does wrong knowingly",
+      "x": 340,
+      "y": 236,
+      "parent": "#t9xspg"
+    },
+    {
+      "@id": "#y8u7m3",
+      "name": "Care for the soul above wealth",
+      "x": 243,
+      "y": 303,
+      "parent": "#t9xspg"
+    },
+    {
+      "@id": "#vf8zmt",
+      "name": "Trial and death",
+      "x": 0,
+      "y": 184,
+      "link": "https://en.wikipedia.org/wiki/Trial_of_Socrates",
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4m6r39",
+      "name": "Charged with impiety and corrupting youth",
+      "x": 133,
+      "y": 360,
+      "parent": "#vf8zmt"
+    },
+    {
+      "@id": "#tr9fs8",
+      "name": "Convicted by an Athenian jury, 399 BC",
+      "x": 0,
+      "y": 408,
+      "parent": "#vf8zmt"
+    },
+    {
+      "@id": "#gyuhj9",
+      "name": "Refused to flee; drank hemlock",
+      "x": -175,
+      "y": 465,
+      "parent": "#vf8zmt"
+    },
+    {
+      "@id": "#a4ycg7",
+      "name": "Legacy",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qjuzcj",
+      "name": "Philosophers before him called \"Pre-Socratics\"",
+      "x": -243,
+      "y": 303,
+      "parent": "#a4ycg7"
+    },
+    {
+      "@id": "#74h58s",
+      "name": "Teacher of Plato, who taught Aristotle",
+      "x": -340,
+      "y": 236,
+      "parent": "#a4ycg7"
+    },
+    {
+      "@id": "#rtvvwg",
+      "name": "Socratic method still used in teaching",
+      "x": -409,
+      "y": 150,
+      "parent": "#a4ycg7"
+    },
+    {
+      "@id": "#spbjhg",
+      "name": "Symbol of free inquiry",
+      "x": -445,
+      "y": 51,
+      "parent": "#a4ycg7"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

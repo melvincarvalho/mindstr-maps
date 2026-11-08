@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "History",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#gzez4w",
+      "name": "What history studies",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qey9k6",
+      "name": "The human past, told through evidence",
+      "x": -525,
+      "y": -62,
+      "parent": "#gzez4w"
+    },
+    {
+      "@id": "#q8q4pi",
+      "name": "Written records begin about 3200 BC",
+      "x": -405,
+      "y": -156,
+      "link": "https://en.wikipedia.org/wiki/History_of_writing",
+      "parent": "#gzez4w"
+    },
+    {
+      "@id": "#deafms",
+      "name": "Prehistory covers the time before writing",
+      "x": -330,
+      "y": -245,
+      "parent": "#gzez4w"
+    },
+    {
+      "@id": "#2sce26",
+      "name": "Sources historians use",
+      "x": -51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r4m3a9",
+      "name": "Primary sources from the time",
+      "x": -225,
+      "y": -312,
+      "parent": "#2sce26"
+    },
+    {
+      "@id": "#rr3zkq",
+      "name": "Secondary sources interpret them",
+      "x": -104,
+      "y": -367,
+      "parent": "#2sce26"
+    },
+    {
+      "@id": "#98wtud",
+      "name": "Archaeology, oral history and DNA",
+      "x": 42,
+      "y": -423,
+      "parent": "#2sce26"
+    },
+    {
+      "@id": "#ce85ba",
+      "name": "How historians work",
+      "x": 190,
+      "y": -104,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jafmk4",
+      "name": "Check sources for bias and reliability",
+      "x": 234,
+      "y": -485,
+      "link": "https://en.wikipedia.org/wiki/Historical_method",
+      "parent": "#ce85ba"
+    },
+    {
+      "@id": "#tznxmw",
+      "name": "Weigh causes and consequences",
+      "x": 281,
+      "y": -281,
+      "parent": "#ce85ba"
+    },
+    {
+      "@id": "#n7q4c6",
+      "name": "Interpretations change with new evidence",
+      "x": 372,
+      "y": -203,
+      "parent": "#ce85ba"
+    },
+    {
+      "@id": "#mrkpiw",
+      "name": "Herodotus, the \"Father of History\"",
+      "x": 506,
+      "y": -126,
+      "link": "https://en.wikipedia.org/wiki/Herodotus",
+      "parent": "#ce85ba"
+    },
+    {
+      "@id": "#4qj8dj",
+      "name": "Historiography: the history of history-writing",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Historiography",
+      "parent": "#ce85ba"
+    },
+    {
+      "@id": "#tbk5b8",
+      "name": "Ways to divide time",
+      "x": 190,
+      "y": 104,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mwppt7",
+      "name": "Ancient, medieval and modern",
+      "x": 468,
+      "y": 116,
+      "parent": "#tbk5b8"
+    },
+    {
+      "@id": "#kgvzzd",
+      "name": "BC/AD or BCE/CE dating",
+      "x": 372,
+      "y": 203,
+      "parent": "#tbk5b8"
+    },
+    {
+      "@id": "#7y3y4b",
+      "name": "Eras named for dynasties or rulers",
+      "x": 281,
+      "y": 281,
+      "parent": "#tbk5b8"
+    },
+    {
+      "@id": "#v5xs2h",
+      "name": "Branches of history",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3xqikb",
+      "name": "Political and military history",
+      "x": 164,
+      "y": 335,
+      "parent": "#v5xs2h"
+    },
+    {
+      "@id": "#jib763",
+      "name": "Social and economic history",
+      "x": 38,
+      "y": 391,
+      "parent": "#v5xs2h"
+    },
+    {
+      "@id": "#7ha28i",
+      "name": "Cultural and intellectual history",
+      "x": -124,
+      "y": 447,
+      "parent": "#v5xs2h"
+    },
+    {
+      "@id": "#ahkiu8",
+      "name": "Environmental and global history",
+      "x": -225,
+      "y": 312,
+      "parent": "#v5xs2h"
+    },
+    {
+      "@id": "#u95rp5",
+      "name": "Why it matters",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ecpc45",
+      "name": "Explains how the present came about",
+      "x": -330,
+      "y": 245,
+      "parent": "#u95rp5"
+    },
+    {
+      "@id": "#vcgvuh",
+      "name": "Shapes national and group identities",
+      "x": -405,
+      "y": 156,
+      "parent": "#u95rp5"
+    },
+    {
+      "@id": "#qpzmft",
+      "name": "Trains judging evidence and arguments",
+      "x": -505,
+      "y": 60,
+      "parent": "#u95rp5"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 9,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

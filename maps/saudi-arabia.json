@@ -1,0 +1,374 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Saudi Arabia",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ax8qr2",
+      "name": "Geography",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gtjtrp",
+      "name": "Most of the Arabian Peninsula",
+      "x": -446,
+      "y": -45,
+      "parent": "#ax8qr2"
+    },
+    {
+      "@id": "#pn27qj",
+      "name": "About 2.15 million km², mostly desert",
+      "x": -456,
+      "y": -145,
+      "parent": "#ax8qr2"
+    },
+    {
+      "@id": "#5kkzgv",
+      "name": "Empty Quarter, vast sand desert",
+      "x": -364,
+      "y": -212,
+      "link": "https://en.wikipedia.org/wiki/Rub%27_al_Khali",
+      "parent": "#ax8qr2"
+    },
+    {
+      "@id": "#pgxkqu",
+      "name": "Red Sea and Persian Gulf coasts",
+      "x": -287,
+      "y": -277,
+      "parent": "#ax8qr2"
+    },
+    {
+      "@id": "#tqq5rq",
+      "name": "Riyadh is the capital",
+      "x": -192,
+      "y": -326,
+      "parent": "#ax8qr2"
+    },
+    {
+      "@id": "#vcxcxe",
+      "name": "People and languages",
+      "x": 43,
+      "y": -181,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#htens9",
+      "name": "About 35 million people",
+      "x": -92,
+      "y": -386,
+      "parent": "#vcxcxe"
+    },
+    {
+      "@id": "#5nrim6",
+      "name": "Around 40% are foreign nationals",
+      "x": 33,
+      "y": -439,
+      "parent": "#vcxcxe"
+    },
+    {
+      "@id": "#veaudj",
+      "name": "Arabic is the official language",
+      "x": 199,
+      "y": -492,
+      "parent": "#vcxcxe"
+    },
+    {
+      "@id": "#s3jspu",
+      "name": "Mostly Sunni Muslim; Shia minority in east",
+      "x": 241,
+      "y": -304,
+      "parent": "#vcxcxe"
+    },
+    {
+      "@id": "#aud9pa",
+      "name": "History in brief",
+      "x": 214,
+      "y": -68,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8wtyxm",
+      "name": "Islam arose in Mecca, 7th century",
+      "x": 328,
+      "y": -246,
+      "parent": "#aud9pa"
+    },
+    {
+      "@id": "#bufbjy",
+      "name": "First Saudi state founded 1727",
+      "x": 394,
+      "y": -173,
+      "parent": "#aud9pa"
+    },
+    {
+      "@id": "#8tb62w",
+      "name": "Unified as kingdom by Ibn Saud, 1932",
+      "x": 512,
+      "y": -106,
+      "link": "https://en.wikipedia.org/wiki/Ibn_Saud",
+      "parent": "#aud9pa"
+    },
+    {
+      "@id": "#27yqdd",
+      "name": "Oil discovered 1938 transformed the country",
+      "x": 450,
+      "y": 0,
+      "parent": "#aud9pa"
+    },
+    {
+      "@id": "#vtatcs",
+      "name": "Government",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nx8bia",
+      "name": "Absolute monarchy ruled by House of Saud",
+      "x": 474,
+      "y": 98,
+      "parent": "#vtatcs"
+    },
+    {
+      "@id": "#9sapm3",
+      "name": "Laws based on Islamic law (Sharia)",
+      "x": 394,
+      "y": 173,
+      "parent": "#vtatcs"
+    },
+    {
+      "@id": "#9zbsac",
+      "name": "Appointed Consultative Assembly, no elected parliament",
+      "x": 328,
+      "y": 246,
+      "parent": "#vtatcs"
+    },
+    {
+      "@id": "#v6yta6",
+      "name": "Crown Prince Mohammed bin Salman also PM",
+      "x": 241,
+      "y": 304,
+      "parent": "#vtatcs"
+    },
+    {
+      "@id": "#c5cf49",
+      "name": "Economy",
+      "x": -14,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8ewgeq",
+      "name": "One of the world's largest oil exporters",
+      "x": 145,
+      "y": 357,
+      "parent": "#c5cf49"
+    },
+    {
+      "@id": "#spm2zz",
+      "name": "State-owned Saudi Aramco dominates output",
+      "x": 31,
+      "y": 407,
+      "parent": "#c5cf49"
+    },
+    {
+      "@id": "#dykgf2",
+      "name": "Leading member of OPEC",
+      "x": -112,
+      "y": 466,
+      "parent": "#c5cf49"
+    },
+    {
+      "@id": "#kmk6jx",
+      "name": "Vision 2030 aims to diversify economy",
+      "x": -318,
+      "y": 522,
+      "link": "https://en.wikipedia.org/wiki/Saudi_Vision_2030",
+      "parent": "#c5cf49"
+    },
+    {
+      "@id": "#jmvhqw",
+      "name": "Culture and society",
+      "x": -202,
+      "y": 89,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#saxnuy",
+      "name": "Hajj pilgrimage to Mecca, millions yearly",
+      "x": -287,
+      "y": 277,
+      "link": "https://en.wikipedia.org/wiki/Hajj",
+      "parent": "#jmvhqw"
+    },
+    {
+      "@id": "#gfqrvw",
+      "name": "Prophet's Mosque in Medina",
+      "x": -364,
+      "y": 212,
+      "parent": "#jmvhqw"
+    },
+    {
+      "@id": "#kuge8s",
+      "name": "Women allowed to drive since 2018",
+      "x": -437,
+      "y": 139,
+      "parent": "#jmvhqw"
+    },
+    {
+      "@id": "#mmfrj2",
+      "name": "Cinemas and concerts returned from 2018",
+      "x": -526,
+      "y": 53,
+      "parent": "#jmvhqw"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 7,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 12,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    },
+    {
+      "start": 0,
+      "end": 27
+    },
+    {
+      "start": 27,
+      "end": 28
+    },
+    {
+      "start": 27,
+      "end": 29
+    },
+    {
+      "start": 27,
+      "end": 30
+    },
+    {
+      "start": 27,
+      "end": 31
+    }
+  ],
+  "selectedNode": 0
+}

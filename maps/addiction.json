@@ -1,0 +1,363 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Addiction",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#x6zq3r",
+      "name": "What it is",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8jy3re",
+      "name": "Compulsive use despite clear harm",
+      "x": -466,
+      "y": -49,
+      "parent": "#x6zq3r"
+    },
+    {
+      "@id": "#scx768",
+      "name": "Recognised as a treatable health condition",
+      "x": -416,
+      "y": -138,
+      "parent": "#x6zq3r"
+    },
+    {
+      "@id": "#tt379m",
+      "name": "Includes substances and behaviours like gambling",
+      "x": -357,
+      "y": -219,
+      "parent": "#x6zq3r"
+    },
+    {
+      "@id": "#dq4fhs",
+      "name": "Common substances",
+      "x": -48,
+      "y": -278,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cnv8hf",
+      "name": "Alcohol",
+      "x": -274,
+      "y": -286,
+      "parent": "#dq4fhs"
+    },
+    {
+      "@id": "#4ghxf5",
+      "name": "Nicotine",
+      "x": -180,
+      "y": -348,
+      "parent": "#dq4fhs"
+    },
+    {
+      "@id": "#nv8msj",
+      "name": "Opioids, including prescription painkillers",
+      "x": -68,
+      "y": -405,
+      "link": "https://en.wikipedia.org/wiki/Opioid_use_disorder",
+      "parent": "#dq4fhs"
+    },
+    {
+      "@id": "#x8942i",
+      "name": "Stimulants such as cocaine",
+      "x": 59,
+      "y": -357,
+      "parent": "#dq4fhs"
+    },
+    {
+      "@id": "#rt46gy",
+      "name": "Cannabis",
+      "x": 228,
+      "y": -438,
+      "parent": "#dq4fhs"
+    },
+    {
+      "@id": "#m4fvwv",
+      "name": "How it develops",
+      "x": 199,
+      "y": -92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gbt5xa",
+      "name": "Dopamine reward pathway learns to crave",
+      "x": 274,
+      "y": -286,
+      "link": "https://en.wikipedia.org/wiki/Reward_system",
+      "parent": "#m4fvwv"
+    },
+    {
+      "@id": "#uvrdtq",
+      "name": "Tolerance: more needed for same effect",
+      "x": 357,
+      "y": -219,
+      "parent": "#m4fvwv"
+    },
+    {
+      "@id": "#urz6k9",
+      "name": "Withdrawal when stopping",
+      "x": 434,
+      "y": -144,
+      "parent": "#m4fvwv"
+    },
+    {
+      "@id": "#e4ft49",
+      "name": "Genes, trauma and stress raise risk",
+      "x": 486,
+      "y": -51,
+      "parent": "#m4fvwv"
+    },
+    {
+      "@id": "#8axq53",
+      "name": "Risks and harms",
+      "x": 199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#if88i3",
+      "name": "Overdose, especially opioids",
+      "x": 446,
+      "y": 47,
+      "parent": "#8axq53"
+    },
+    {
+      "@id": "#8782mf",
+      "name": "Liver, heart and lung damage",
+      "x": 434,
+      "y": 144,
+      "parent": "#8axq53"
+    },
+    {
+      "@id": "#jpjyj2",
+      "name": "Strain on work, money and relationships",
+      "x": 357,
+      "y": 219,
+      "parent": "#8axq53"
+    },
+    {
+      "@id": "#eahcfi",
+      "name": "Often linked with depression or anxiety",
+      "x": 274,
+      "y": 286,
+      "parent": "#8axq53"
+    },
+    {
+      "@id": "#cyvgyh",
+      "name": "Treatment",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cjeapp",
+      "name": "Medically supervised detox when needed",
+      "x": 180,
+      "y": 348,
+      "link": "https://en.wikipedia.org/wiki/Drug_detoxification",
+      "parent": "#cyvgyh"
+    },
+    {
+      "@id": "#d2tbj3",
+      "name": "Talking therapies like CBT",
+      "x": 68,
+      "y": 405,
+      "parent": "#cyvgyh"
+    },
+    {
+      "@id": "#sxwykq",
+      "name": "Medications such as methadone or buprenorphine",
+      "x": -77,
+      "y": 453,
+      "parent": "#cyvgyh"
+    },
+    {
+      "@id": "#fumekz",
+      "name": "Mutual support groups like Alcoholics Anonymous",
+      "x": -268,
+      "y": 513,
+      "link": "https://en.wikipedia.org/wiki/Alcoholics_Anonymous",
+      "parent": "#cyvgyh"
+    },
+    {
+      "@id": "#4xurrz",
+      "name": "Recovery",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sseekg",
+      "name": "Relapse is common, not failure",
+      "x": -274,
+      "y": 286,
+      "parent": "#4xurrz"
+    },
+    {
+      "@id": "#45uknn",
+      "name": "Avoid triggers and build routines",
+      "x": -357,
+      "y": 219,
+      "parent": "#4xurrz"
+    },
+    {
+      "@id": "#cup8kv",
+      "name": "Start with a doctor or helpline",
+      "x": -434,
+      "y": 144,
+      "parent": "#4xurrz"
+    },
+    {
+      "@id": "#tk7r4s",
+      "name": "Family and friends can get support too",
+      "x": -466,
+      "y": 49,
+      "parent": "#4xurrz"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    },
+    {
+      "start": 26,
+      "end": 29
+    },
+    {
+      "start": 26,
+      "end": 30
+    }
+  ],
+  "selectedNode": 0
+}

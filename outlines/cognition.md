@@ -1,0 +1,29 @@
+category: Society
+aliases: cognitive processes, human cognition, how we think, cognitive abilities
+- Cognition
+  - What cognition is
+    - Mental processes of knowing and thinking
+    - Taking in, storing and using information
+    - Studied by cognitive psychology
+  - Attention and perception
+    - Senses filter a flood of input
+    - [Attention spotlights a limited amount](https://en.wikipedia.org/wiki/Attention)
+    - The brain fills gaps with expectations
+  - Memory
+    - [Working memory holds a few items](https://en.wikipedia.org/wiki/Working_memory)
+    - Long-term memory stores facts and skills
+    - Memories are rebuilt, not replayed
+  - Thinking and reasoning
+    - Language helps structure thought
+    - Problem solving and decision making
+    - [Fast intuition versus slow deliberation](https://en.wikipedia.org/wiki/Dual_process_theory)
+    - [Cognitive biases skew judgements](https://en.wikipedia.org/wiki/Cognitive_bias)
+  - Across a lifetime
+    - [Piaget: children think in stages](https://en.wikipedia.org/wiki/Piaget%27s_theory_of_cognitive_development)
+    - Processing speed slows with age
+    - Knowledge and vocabulary keep growing
+  - Keeping your mind sharp
+    - Sleep consolidates memory
+    - Physical exercise benefits the brain
+    - Learning new skills and socialising
+    - See a doctor about worsening memory

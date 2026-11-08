@@ -1,0 +1,34 @@
+category: Geography
+aliases: bombay, mumbai india, bombay india
+- Mumbai
+  - Setting
+    - India's largest city, on the Arabian Sea
+    - [Seven islands joined by land reclamation](https://en.wikipedia.org/wiki/Seven_Islands_of_Bombay)
+    - Metro region over 20 million people
+    - Heavy monsoon rains June to September
+  - History
+    - Koli fishing villages first
+    - Portuguese ceded it to Britain, 1661
+    - East India Company's main western port
+    - Officially renamed from Bombay, 1995
+    - 2008 terrorist attacks
+  - People
+    - Marathi, Hindi, Gujarati and English spoken
+    - Migrants from all over India
+    - [Dharavi, one of Asia's largest slums](https://en.wikipedia.org/wiki/Dharavi)
+  - Economy
+    - India's financial capital
+    - Bombay Stock Exchange, Asia's oldest, 1875
+    - Reserve Bank of India headquarters
+    - Suburban trains carry millions daily
+  - Landmarks
+    - Gateway of India
+    - [Chhatrapati Shivaji Terminus, Gothic station](https://en.wikipedia.org/wiki/Chhatrapati_Shivaji_Terminus)
+    - Marine Drive, the "Queen's Necklace"
+    - Elephanta Caves in the harbour
+    - Haji Ali Dargah on the sea
+  - Culture
+    - [Home of Bollywood, Hindi cinema](https://en.wikipedia.org/wiki/Bollywood)
+    - Dabbawalas deliver lunchboxes citywide
+    - Ganesh Chaturthi festival
+    - Vada pav, the street snack

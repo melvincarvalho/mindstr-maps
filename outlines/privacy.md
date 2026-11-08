@@ -1,0 +1,29 @@
+category: Society
+aliases: right to privacy, personal privacy, privacy rights
+- Privacy
+  - What privacy means
+    - Control over information about yourself
+    - Freedom from unwanted intrusion
+    - Protecting body, home and communications
+  - History of the idea
+    - [Warren and Brandeis essay, 1890](https://en.wikipedia.org/wiki/The_Right_to_Privacy_%28article%29)
+    - Article 12, Universal Declaration of Human Rights
+    - Article 8, European Convention on Human Rights
+  - Why it matters
+    - Supports autonomy and free expression
+    - Protects against discrimination and abuse
+    - Allows intimacy and trusted relationships
+  - Threats
+    - [Government mass surveillance](https://en.wikipedia.org/wiki/Mass_surveillance)
+    - Companies tracking online behaviour
+    - CCTV and facial recognition
+    - Data breaches and identity theft
+  - Laws and protections
+    - [GDPR in the EU since 2018](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)
+    - US Fourth Amendment limits searches
+    - Doctor and lawyer confidentiality
+    - Encryption protects communications
+  - Debates
+    - Privacy versus national security
+    - Privacy versus free press
+    - Nothing to hide argument and responses

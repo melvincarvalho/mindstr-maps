@@ -1,0 +1,29 @@
+category: Technology
+aliases: transportation, modes of transport, history of transport, transport systems
+- Transport
+  - Moving people and goods
+    - Links homes, jobs and markets
+    - Freight carries most traded goods
+    - Infrastructure: roads, rails, ports, airports
+  - On land
+    - Walking, horses and the wheel
+    - [Railways spread from 1820s Britain](https://en.wikipedia.org/wiki/Rail_transport)
+    - Cars and lorries dominate today
+    - Bicycles efficient for short trips
+  - On water
+    - Sailing ships opened global trade
+    - [Shipping containers transformed trade from 1956](https://en.wikipedia.org/wiki/Containerization)
+    - Canals and ferries link regions
+  - In the air
+    - Wright brothers' first flight, 1903
+    - Jet airliners shrink the world
+    - About 4 billion passengers fly yearly
+  - Public transport
+    - Buses, trams and metros
+    - [High-speed rail since Japan's Shinkansen, 1964](https://en.wikipedia.org/wiki/Shinkansen)
+    - Moves many people per road space
+  - Costs and the future
+    - Transport is about a quarter of CO₂
+    - Congestion, noise and road deaths
+    - [Electric vehicles cut tailpipe emissions](https://en.wikipedia.org/wiki/Electric_vehicle)
+    - Self-driving vehicles being tested

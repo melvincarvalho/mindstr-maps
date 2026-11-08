@@ -1,0 +1,31 @@
+category: Technology
+aliases: coal power, coal energy, coal mining, coal-fired power
+- Coal
+  - What coal is
+    - [Fossilised plants from ancient swamps](https://en.wikipedia.org/wiki/Coal_forest)
+    - Buried peat hardens over millions of years
+    - Grades: lignite, bituminous, anthracite
+    - Higher grades hold more carbon and energy
+  - How it is used
+    - Burned to boil water for steam
+    - Steam spins turbines that generate electricity
+    - [Coking coal makes steel from iron ore](https://en.wikipedia.org/wiki/Coke_%28fuel%29)
+    - Heat for cement and industry
+  - Share of world energy
+    - About a quarter of primary energy
+    - About a third of world electricity
+    - China burns over half the world's coal
+    - Use falling in Europe and the US
+  - Mining
+    - Surface mining strips off overlying rock
+    - Underground mining follows deep seams
+    - Biggest producers: China, India, Indonesia
+  - Pros
+    - Abundant and widely distributed reserves
+    - Cheap, steady power on demand
+    - Easy to store and transport
+  - Cons
+    - [Largest single source of CO₂ emissions](https://en.wikipedia.org/wiki/Environmental_impact_of_the_coal_industry)
+    - Air pollution harms lungs and hearts
+    - Mining accidents and black lung disease
+    - Ash, acid rain and scarred landscapes

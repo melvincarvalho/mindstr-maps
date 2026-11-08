@@ -1,0 +1,364 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Publishing",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ebgeec",
+      "name": "What publishing is",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6tzt3q",
+      "name": "Making works public for readers",
+      "x": -486,
+      "y": -51,
+      "parent": "#ebgeec"
+    },
+    {
+      "@id": "#ekkj9r",
+      "name": "Books, newspapers, magazines and journals",
+      "x": -416,
+      "y": -138,
+      "parent": "#ebgeec"
+    },
+    {
+      "@id": "#u5jf5x",
+      "name": "Publisher funds, edits and distributes",
+      "x": -357,
+      "y": -219,
+      "parent": "#ebgeec"
+    },
+    {
+      "@id": "#4ckmiv",
+      "name": "A short history",
+      "x": -60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u4ixp7",
+      "name": "Scribes copied manuscripts by hand",
+      "x": -274,
+      "y": -286,
+      "parent": "#4ckmiv"
+    },
+    {
+      "@id": "#zym4qr",
+      "name": "Gutenberg's press, about 1450",
+      "x": -180,
+      "y": -348,
+      "link": "https://en.wikipedia.org/wiki/Printing_press",
+      "parent": "#4ckmiv"
+    },
+    {
+      "@id": "#6x7aiw",
+      "name": "Mass-market paperbacks in the 1930s",
+      "x": -68,
+      "y": -405,
+      "parent": "#4ckmiv"
+    },
+    {
+      "@id": "#nvx6wu",
+      "name": "Web and e-books from the 1990s",
+      "x": 77,
+      "y": -453,
+      "parent": "#4ckmiv"
+    },
+    {
+      "@id": "#zjecbu",
+      "name": "From manuscript to reader",
+      "x": 199,
+      "y": -92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jhk6gg",
+      "name": "Author submits, often via literary agent",
+      "x": 268,
+      "y": -513,
+      "parent": "#zjecbu"
+    },
+    {
+      "@id": "#xxchw8",
+      "name": "Editing, copyediting and proofreading",
+      "x": 274,
+      "y": -286,
+      "parent": "#zjecbu"
+    },
+    {
+      "@id": "#xu2d5b",
+      "name": "Design, typesetting and cover",
+      "x": 357,
+      "y": -219,
+      "parent": "#zjecbu"
+    },
+    {
+      "@id": "#8gh4iz",
+      "name": "Printing or e-book conversion",
+      "x": 434,
+      "y": -144,
+      "parent": "#zjecbu"
+    },
+    {
+      "@id": "#x8tqyt",
+      "name": "Marketing, reviews and launch",
+      "x": 506,
+      "y": -53,
+      "parent": "#zjecbu"
+    },
+    {
+      "@id": "#bv5cb6",
+      "name": "Distribution to shops and libraries",
+      "x": 446,
+      "y": 47,
+      "parent": "#zjecbu"
+    },
+    {
+      "@id": "#g57c97",
+      "name": "How the money works",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ga2zxn",
+      "name": "Advance paid against future royalties",
+      "x": 470,
+      "y": 156,
+      "parent": "#g57c97"
+    },
+    {
+      "@id": "#nqbu42",
+      "name": "Copyright protects the author's work",
+      "x": 357,
+      "y": 219,
+      "link": "https://en.wikipedia.org/wiki/Copyright",
+      "parent": "#g57c97"
+    },
+    {
+      "@id": "#vjk9gs",
+      "name": "ISBN identifies each edition",
+      "x": 274,
+      "y": 286,
+      "link": "https://en.wikipedia.org/wiki/ISBN",
+      "parent": "#g57c97"
+    },
+    {
+      "@id": "#cwhtws",
+      "name": "Booksellers take a large discount",
+      "x": 180,
+      "y": 348,
+      "parent": "#g57c97"
+    },
+    {
+      "@id": "#v3cc3y",
+      "name": "Kinds of publishing",
+      "x": -60,
+      "y": 178,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dsfusu",
+      "name": "Trade houses like Penguin Random House",
+      "x": 68,
+      "y": 405,
+      "parent": "#v3cc3y"
+    },
+    {
+      "@id": "#xiizsx",
+      "name": "Academic journals use peer review",
+      "x": -77,
+      "y": 453,
+      "link": "https://en.wikipedia.org/wiki/Peer_review",
+      "parent": "#v3cc3y"
+    },
+    {
+      "@id": "#8xz3zw",
+      "name": "Self-publishing and print on demand",
+      "x": -268,
+      "y": 513,
+      "link": "https://en.wikipedia.org/wiki/Self-publishing",
+      "parent": "#v3cc3y"
+    },
+    {
+      "@id": "#ttxatb",
+      "name": "Newspaper and magazine publishing",
+      "x": -274,
+      "y": 286,
+      "parent": "#v3cc3y"
+    },
+    {
+      "@id": "#sf7s47",
+      "name": "Today's changes",
+      "x": -212,
+      "y": 70,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wn4nyy",
+      "name": "Amazon dominates book sales",
+      "x": -357,
+      "y": 219,
+      "parent": "#sf7s47"
+    },
+    {
+      "@id": "#vhcb6u",
+      "name": "Audiobooks are the fastest-growing format",
+      "x": -416,
+      "y": 138,
+      "parent": "#sf7s47"
+    },
+    {
+      "@id": "#dt6wcv",
+      "name": "Open access challenges journal paywalls",
+      "x": -506,
+      "y": 53,
+      "parent": "#sf7s47"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 10,
+      "end": 15
+    },
+    {
+      "start": 10,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    },
+    {
+      "start": 0,
+      "end": 27
+    },
+    {
+      "start": 27,
+      "end": 28
+    },
+    {
+      "start": 27,
+      "end": 29
+    },
+    {
+      "start": 27,
+      "end": 30
+    }
+  ],
+  "selectedNode": 0
+}

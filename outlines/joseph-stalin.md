@@ -1,0 +1,31 @@
+category: People
+aliases: stalin, josef stalin, iosif stalin
+- Joseph Stalin
+  - Early life
+    - Born Ioseb Jughashvili in Georgia, 1878
+    - Trained as a priest, became a revolutionary
+    - Bolshevik organiser under Lenin
+  - Rise to power
+    - Communist Party General Secretary from 1922
+    - Outmanoeuvred rivals after Lenin died in 1924
+    - Sole ruler of the USSR by 1929
+  - Forced transformation
+    - Five-Year Plans drove rapid industrialisation
+    - Peasants forced onto collective farms
+    - [1932–33 famine killed millions, including Holodomor](https://en.wikipedia.org/wiki/Holodomor)
+  - Terror and repression
+    - [Great Purge executed about 700,000, 1936–38](https://en.wikipedia.org/wiki/Great_Purge)
+    - [Gulag labour camps held millions](https://en.wikipedia.org/wiki/Gulag)
+    - Whole ethnic groups deported
+    - Show trials and a cult of personality
+  - Second World War
+    - [Pact with Hitler, 1939](https://en.wikipedia.org/wiki/Molotov%E2%80%93Ribbentrop_Pact)
+    - Invaded by Germany in June 1941
+    - [Victory at Stalingrad turned the war](https://en.wikipedia.org/wiki/Battle_of_Stalingrad)
+    - Soviet war dead about 27 million
+  - Cold War and legacy
+    - Imposed communist rule on Eastern Europe
+    - Died in March 1953
+    - Khrushchev denounced his crimes in 1956
+    - Historians count his regime's victims in millions
+    - Views of him in Russia remain divided

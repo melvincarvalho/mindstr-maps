@@ -1,0 +1,30 @@
+category: People
+aliases: akbar the great, emperor akbar, jalal-ud-din akbar
+- Akbar
+  - Early life
+    - Born 1542 in Umarkot, Sindh
+    - Grandson of Babur, son of Humayun
+    - Became emperor at 13 in 1556
+  - Expanding the empire
+    - [Won Second Battle of Panipat, 1556](https://en.wikipedia.org/wiki/Second_Battle_of_Panipat)
+    - Took Rajput fortress of Chittorgarh, 1568
+    - Annexed Gujarat, Bengal, Kashmir and Deccan lands
+    - Ruled most of northern India
+  - How he governed
+    - Mansabdari system ranked officials
+    - Revenue reforms under Todar Mal
+    - Married Rajput princesses, allied with Rajputs
+    - Abolished the jizya tax on non-Muslims
+  - Religion and ideas
+    - Debates of faiths at Ibadat Khana
+    - [Founded the Din-i Ilahi circle](https://en.wikipedia.org/wiki/Din-i_Ilahi)
+    - Promoted sulh-i kul, peace with all
+  - Culture
+    - [Built Fatehpur Sikri as a capital](https://en.wikipedia.org/wiki/Fatehpur_Sikri)
+    - Mughal miniature painting flourished
+    - Abul Fazl wrote the Akbarnama
+    - Court famed for the "nine jewels"
+  - Legacy
+    - Died 1605 in Agra
+    - Son Jahangir succeeded him
+    - Remembered for religious tolerance

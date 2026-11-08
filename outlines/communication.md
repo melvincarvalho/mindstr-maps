@@ -1,0 +1,33 @@
+category: Society
+aliases: human communication, how communication works, types of communication
+- Communication
+  - The basic model
+    - A sender encodes a message
+    - It travels through a channel
+    - A receiver decodes and interprets it
+    - Noise distorts the message
+    - Feedback shows it was understood
+  - Verbal communication
+    - [Spoken and written language](https://en.wikipedia.org/wiki/Language)
+    - Word choice and tone shape meaning
+    - Sign languages are full languages
+  - [Nonverbal communication](https://en.wikipedia.org/wiki/Nonverbal_communication)
+    - Facial expressions show emotion
+    - Gestures and posture
+    - Eye contact and personal space
+    - Pitch, pace and pauses
+  - Settings
+    - Interpersonal between two people
+    - Group and team discussion
+    - Public speaking to an audience
+    - [Mass media reaches millions](https://en.wikipedia.org/wiki/Mass_media)
+  - Technologies over time
+    - Writing appeared about 3200 BC
+    - [Printing press around 1440](https://en.wikipedia.org/wiki/Printing_press)
+    - Telegraph, telephone, radio, television
+    - Internet, email and social media
+  - Communicating well
+    - [Listen actively before replying](https://en.wikipedia.org/wiki/Active_listening)
+    - Know your audience
+    - Be clear and concise
+    - Check understanding and ask questions

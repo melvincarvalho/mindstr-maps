@@ -1,0 +1,31 @@
+category: Society
+aliases: farming, how farming works, agricultural industry, modern agriculture
+- Agriculture
+  - What it is
+    - Growing crops and raising animals
+    - For food, fibre, fuel and medicine
+    - Uses about a third of land
+  - Origins
+    - [Began about 10,000 years ago](https://en.wikipedia.org/wiki/Neolithic_Revolution)
+    - Independently in several regions
+    - Allowed towns, cities and states
+  - What farms produce
+    - Cereals: wheat, rice, maize
+    - Livestock: cattle, pigs, poultry
+    - Fruit, vegetables and oilseeds
+    - Cotton, coffee and other cash crops
+  - How farming works
+    - Soil, water and sunlight
+    - Crop rotation keeps soil fertile
+    - Irrigation in dry regions
+    - Subsistence versus commercial farming
+  - Modern farming
+    - [Green Revolution boosted yields from 1960s](https://en.wikipedia.org/wiki/Green_Revolution)
+    - [Fertilisers from the Haber process](https://en.wikipedia.org/wiki/Haber_process)
+    - Tractors, combines and precision tech
+    - Genetically modified crops
+  - Challenges
+    - Emits about a quarter of greenhouse gases
+    - Clears forests, drains water, erodes soil
+    - [Organic and sustainable alternatives](https://en.wikipedia.org/wiki/Sustainable_agriculture)
+    - Feeding about 10 billion by 2050s

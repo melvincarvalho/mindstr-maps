@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Decolonization",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#w66ked",
+      "name": "What it was",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a9dtky",
+      "name": "Colonies winning independence from empires",
+      "x": -505,
+      "y": -57,
+      "parent": "#w66ked"
+    },
+    {
+      "@id": "#r4xv9y",
+      "name": "Main wave about 1945–1975",
+      "x": -409,
+      "y": -150,
+      "parent": "#w66ked"
+    },
+    {
+      "@id": "#22kes9",
+      "name": "Earlier: the Americas, 1776–1820s",
+      "x": -340,
+      "y": -236,
+      "parent": "#w66ked"
+    },
+    {
+      "@id": "#mpkftq",
+      "name": "Why empires ended",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sukm8t",
+      "name": "World War II weakened European powers",
+      "x": -243,
+      "y": -303,
+      "parent": "#mpkftq"
+    },
+    {
+      "@id": "#5cwqci",
+      "name": "Nationalist movements demanded self-rule",
+      "x": -133,
+      "y": -360,
+      "parent": "#mpkftq"
+    },
+    {
+      "@id": "#49eihh",
+      "name": "UN Charter backed self-determination",
+      "x": 0,
+      "y": -408,
+      "parent": "#mpkftq"
+    },
+    {
+      "@id": "#esn545",
+      "name": "US and USSR opposed old empires",
+      "x": 175,
+      "y": -465,
+      "parent": "#mpkftq"
+    },
+    {
+      "@id": "#sfjaik",
+      "name": "Negotiated independence",
+      "x": 174,
+      "y": -120,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#896fjw",
+      "name": "India and Pakistan, 1947",
+      "x": 243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Indian_independence_movement",
+      "parent": "#sfjaik"
+    },
+    {
+      "@id": "#hsnue6",
+      "name": "Ghana led sub-Saharan Africa, 1957",
+      "x": 340,
+      "y": -236,
+      "parent": "#sfjaik"
+    },
+    {
+      "@id": "#uihq98",
+      "name": "Year of Africa: 17 nations, 1960",
+      "x": 463,
+      "y": -171,
+      "link": "https://en.wikipedia.org/wiki/Year_of_Africa",
+      "parent": "#sfjaik"
+    },
+    {
+      "@id": "#2tp76c",
+      "name": "Wars of independence",
+      "x": 209,
+      "y": 76,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c72nyp",
+      "name": "Indonesia against the Dutch, 1945–49",
+      "x": 445,
+      "y": -51,
+      "parent": "#2tp76c"
+    },
+    {
+      "@id": "#stghfu",
+      "name": "Vietnam against France, 1946–54",
+      "x": 505,
+      "y": 57,
+      "parent": "#2tp76c"
+    },
+    {
+      "@id": "#pici78",
+      "name": "Algerian War against France, 1954–62",
+      "x": 409,
+      "y": 150,
+      "link": "https://en.wikipedia.org/wiki/Algerian_War",
+      "parent": "#2tp76c"
+    },
+    {
+      "@id": "#e58gqi",
+      "name": "Kenya's Mau Mau uprising",
+      "x": 340,
+      "y": 236,
+      "parent": "#2tp76c"
+    },
+    {
+      "@id": "#53ch2p",
+      "name": "Portugal's African wars ended 1974–75",
+      "x": 243,
+      "y": 303,
+      "parent": "#2tp76c"
+    },
+    {
+      "@id": "#n33jjg",
+      "name": "Costs and difficulties",
+      "x": -33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ppz2j7",
+      "name": "Partition of India displaced millions",
+      "x": 133,
+      "y": 360,
+      "parent": "#n33jjg"
+    },
+    {
+      "@id": "#9h9sku",
+      "name": "Colonial borders kept, sparking conflicts",
+      "x": 0,
+      "y": 408,
+      "parent": "#n33jjg"
+    },
+    {
+      "@id": "#7bjkrp",
+      "name": "Economies still dependent on raw exports",
+      "x": -175,
+      "y": 465,
+      "parent": "#n33jjg"
+    },
+    {
+      "@id": "#mf2u9t",
+      "name": "Cold War rivals backed proxy wars",
+      "x": -243,
+      "y": 303,
+      "parent": "#n33jjg"
+    },
+    {
+      "@id": "#5kuma3",
+      "name": "Legacy",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bwzat3",
+      "name": "UN grew from 51 to 193 members",
+      "x": -340,
+      "y": 236,
+      "parent": "#5kuma3"
+    },
+    {
+      "@id": "#fcwchy",
+      "name": "Non-Aligned Movement founded 1961",
+      "x": -409,
+      "y": 150,
+      "link": "https://en.wikipedia.org/wiki/Non-Aligned_Movement",
+      "parent": "#5kuma3"
+    },
+    {
+      "@id": "#3uvk8m",
+      "name": "Debates over neocolonialism and reparations",
+      "x": -485,
+      "y": 55,
+      "parent": "#5kuma3"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 14,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

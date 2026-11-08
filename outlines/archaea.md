@@ -1,0 +1,27 @@
+category: Science
+aliases: archaebacteria, archaeon, domain archaea
+- Archaea
+  - What they are
+    - Single cells with no nucleus
+    - One of life's three domains
+    - Look like bacteria, differ chemically
+    - [Recognised as separate by Carl Woese, 1977](https://en.wikipedia.org/wiki/Carl_Woese)
+  - What makes them distinct
+    - Unique ether-linked lipids in membranes
+    - No peptidoglycan in cell walls
+    - Gene machinery closer to eukaryotes
+    - None known to cause disease
+  - Where they live
+    - [Hot springs and deep-sea vents](https://en.wikipedia.org/wiki/Extremophile)
+    - Salt lakes so salty they're pink
+    - Common in oceans and soils too
+    - Inside human and cow guts
+  - Main groups
+    - Euryarchaeota include methane makers
+    - Thermoproteota love heat and acid
+    - [Asgard archaea, relatives of eukaryotes](https://en.wikipedia.org/wiki/Asgard_%28archaea%29)
+  - Why they matter
+    - [Methanogens produce most biological methane](https://en.wikipedia.org/wiki/Methanogen)
+    - Ammonia oxidisers drive the nitrogen cycle
+    - Heat-stable enzymes used in industry
+    - Clues to how complex cells began

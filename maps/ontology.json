@@ -1,0 +1,308 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Ontology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#2gbutj",
+      "name": "What ontology asks",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#229m9h",
+      "name": "What kinds of things exist?",
+      "x": -464,
+      "y": -62,
+      "parent": "#2gbutj"
+    },
+    {
+      "@id": "#mqeif5",
+      "name": "Greek for \"the study of being\"",
+      "x": -396,
+      "y": -171,
+      "parent": "#2gbutj"
+    },
+    {
+      "@id": "#pxhhu4",
+      "name": "Quine's \"On What There Is\" (1948)",
+      "x": -305,
+      "y": -265,
+      "link": "https://en.wikipedia.org/wiki/On_What_There_Is",
+      "parent": "#2gbutj"
+    },
+    {
+      "@id": "#c2k5je",
+      "name": "Categories of being",
+      "x": -19,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kgw2r4",
+      "name": "Aristotle listed ten categories",
+      "x": -181,
+      "y": -330,
+      "link": "https://en.wikipedia.org/wiki/Categories_%28Aristotle%29",
+      "parent": "#c2k5je"
+    },
+    {
+      "@id": "#mewdia",
+      "name": "Objects, properties, relations, events",
+      "x": -41,
+      "y": -391,
+      "parent": "#c2k5je"
+    },
+    {
+      "@id": "#ua9r6z",
+      "name": "Concrete things versus abstract ones",
+      "x": 140,
+      "y": -445,
+      "parent": "#c2k5je"
+    },
+    {
+      "@id": "#z33c8i",
+      "name": "Contested entities",
+      "x": 202,
+      "y": -88,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ezyg9r",
+      "name": "Do numbers exist outside our minds?",
+      "x": 246,
+      "y": -301,
+      "parent": "#z33c8i"
+    },
+    {
+      "@id": "#hike2g",
+      "name": "Is a hole something or nothing?",
+      "x": 355,
+      "y": -221,
+      "parent": "#z33c8i"
+    },
+    {
+      "@id": "#y8r9iz",
+      "name": "Does a nation exist beyond its people?",
+      "x": 502,
+      "y": -137,
+      "parent": "#z33c8i"
+    },
+    {
+      "@id": "#56gxbm",
+      "name": "In what sense does Sherlock Holmes exist?",
+      "x": 450,
+      "y": 0,
+      "parent": "#z33c8i"
+    },
+    {
+      "@id": "#67bmyt",
+      "name": "Parts and wholes",
+      "x": 202,
+      "y": 88,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7uem6f",
+      "name": "Is a table more than its atoms?",
+      "x": 483,
+      "y": 132,
+      "parent": "#67bmyt"
+    },
+    {
+      "@id": "#xdt6kc",
+      "name": "Mereology studies parts and wholes",
+      "x": 355,
+      "y": 221,
+      "parent": "#67bmyt"
+    },
+    {
+      "@id": "#bv4chr",
+      "name": "Main approaches",
+      "x": 19,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5jd9sm",
+      "name": "Realism: things exist independently of us",
+      "x": 246,
+      "y": 301,
+      "parent": "#bv4chr"
+    },
+    {
+      "@id": "#bkrxba",
+      "name": "Nominalism: no abstract objects exist",
+      "x": 110,
+      "y": 349,
+      "parent": "#bv4chr"
+    },
+    {
+      "@id": "#siq5i5",
+      "name": "Occam's razor: don't multiply entities",
+      "x": -43,
+      "y": 407,
+      "link": "https://en.wikipedia.org/wiki/Occam%27s_razor",
+      "parent": "#bv4chr"
+    },
+    {
+      "@id": "#a5hsyr",
+      "name": "Heidegger: we forgot the question of Being",
+      "x": -253,
+      "y": 465,
+      "parent": "#bv4chr"
+    },
+    {
+      "@id": "#hw2tfv",
+      "name": "Ontology in computing",
+      "x": -202,
+      "y": 88,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ncp3eb",
+      "name": "Formal vocabularies of concepts and relations",
+      "x": -305,
+      "y": 265,
+      "link": "https://en.wikipedia.org/wiki/Ontology_%28information_science%29",
+      "parent": "#hw2tfv"
+    },
+    {
+      "@id": "#rxz8im",
+      "name": "Gene Ontology classifies biological functions",
+      "x": -396,
+      "y": 171,
+      "parent": "#hw2tfv"
+    },
+    {
+      "@id": "#zd8vv7",
+      "name": "Lets computers share consistent meanings",
+      "x": -544,
+      "y": 74,
+      "parent": "#hw2tfv"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

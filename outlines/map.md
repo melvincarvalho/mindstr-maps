@@ -1,0 +1,30 @@
+category: Technology
+aliases: maps, cartography, mapmaking, how maps are made
+- Map
+  - What a map shows
+    - A scaled-down view from above
+    - Scale relates map distance to ground
+    - Legend explains symbols and colours
+    - North arrow and grid for direction
+  - Kinds of map
+    - Road maps for driving
+    - [Topographic maps show height with contours](https://en.wikipedia.org/wiki/Topographic_map)
+    - Political maps show borders
+    - Thematic maps show data like population
+  - Flattening the globe
+    - A sphere can't flatten without distortion
+    - [Mercator keeps angles, enlarges poles](https://en.wikipedia.org/wiki/Mercator_projection)
+    - Equal-area maps keep true sizes
+  - History
+    - Babylonian clay world map, about 600 BC
+    - [Ptolemy's Geography used coordinates](https://en.wikipedia.org/wiki/Geography_%28Ptolemy%29)
+    - Age of exploration filled in coastlines
+    - National surveys mapped land precisely
+  - Making maps today
+    - Satellite and aerial photos
+    - [GIS layers data on locations](https://en.wikipedia.org/wiki/Geographic_information_system)
+    - Volunteers build OpenStreetMap
+  - Reading a map
+    - Find yourself and orient the map
+    - Use grid references for locations
+    - Close contours mean steep ground

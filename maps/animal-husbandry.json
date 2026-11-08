@@ -1,0 +1,352 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Animal husbandry",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#cw99mp",
+      "name": "Main livestock",
+      "x": -178,
+      "y": -116,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bbzpub",
+      "name": "Cattle for beef, milk and leather",
+      "x": -446,
+      "y": -49,
+      "link": "https://en.wikipedia.org/wiki/Cattle",
+      "parent": "#cw99mp"
+    },
+    {
+      "@id": "#ktjznt",
+      "name": "Pigs for pork",
+      "x": -413,
+      "y": -143,
+      "parent": "#cw99mp"
+    },
+    {
+      "@id": "#ttrfgc",
+      "name": "Chickens for meat and eggs",
+      "x": -349,
+      "y": -227,
+      "parent": "#cw99mp"
+    },
+    {
+      "@id": "#67r26f",
+      "name": "Sheep and goats for meat, milk, wool",
+      "x": -260,
+      "y": -294,
+      "parent": "#cw99mp"
+    },
+    {
+      "@id": "#7kwdqc",
+      "name": "Fish farming, now about half of seafood",
+      "x": -158,
+      "y": -354,
+      "parent": "#cw99mp"
+    },
+    {
+      "@id": "#jz9rc7",
+      "name": "Daily care",
+      "x": 77,
+      "y": -173,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#iaytut",
+      "name": "Feed, water and shelter",
+      "x": -34,
+      "y": -407,
+      "parent": "#jz9rc7"
+    },
+    {
+      "@id": "#r3yxhh",
+      "name": "Vaccination and veterinary care",
+      "x": 120,
+      "y": -464,
+      "parent": "#jz9rc7"
+    },
+    {
+      "@id": "#k9gggm",
+      "name": "Breeding and managing births",
+      "x": 207,
+      "y": -320,
+      "parent": "#jz9rc7"
+    },
+    {
+      "@id": "#ut3k67",
+      "name": "Milking, shearing and egg collection",
+      "x": 307,
+      "y": -263,
+      "parent": "#jz9rc7"
+    },
+    {
+      "@id": "#i96b5y",
+      "name": "Farming systems",
+      "x": 228,
+      "y": -25,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zqrsxe",
+      "name": "Grazing on pasture and rangeland",
+      "x": 384,
+      "y": -187,
+      "parent": "#i96b5y"
+    },
+    {
+      "@id": "#s5ebvd",
+      "name": "Nomadic herding follows seasonal grass",
+      "x": 433,
+      "y": -97,
+      "link": "https://en.wikipedia.org/wiki/Pastoralism",
+      "parent": "#i96b5y"
+    },
+    {
+      "@id": "#f8wwgw",
+      "name": "Intensive indoor farming at large scale",
+      "x": 550,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Intensive_animal_farming",
+      "parent": "#i96b5y"
+    },
+    {
+      "@id": "#sduk6v",
+      "name": "Organic and free-range systems",
+      "x": 433,
+      "y": 97,
+      "parent": "#i96b5y"
+    },
+    {
+      "@id": "#re7m5z",
+      "name": "Breeding",
+      "x": 157,
+      "y": 134,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3eu3uv",
+      "name": "Selective breeding for yield and hardiness",
+      "x": 384,
+      "y": 187,
+      "parent": "#re7m5z"
+    },
+    {
+      "@id": "#vkrjvv",
+      "name": "Artificial insemination spreads top genetics",
+      "x": 307,
+      "y": 263,
+      "parent": "#re7m5z"
+    },
+    {
+      "@id": "#s8qxxg",
+      "name": "Rare breeds kept for diversity",
+      "x": 207,
+      "y": 320,
+      "parent": "#re7m5z"
+    },
+    {
+      "@id": "#bjsn5y",
+      "name": "Why it matters",
+      "x": -16,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h62p42",
+      "name": "Major source of protein worldwide",
+      "x": 96,
+      "y": 368,
+      "parent": "#bjsn5y"
+    },
+    {
+      "@id": "#zugrkw",
+      "name": "Livelihood for over a billion people",
+      "x": -35,
+      "y": 423,
+      "parent": "#bjsn5y"
+    },
+    {
+      "@id": "#494hjv",
+      "name": "Manure fertilises crops",
+      "x": -214,
+      "y": 474,
+      "parent": "#bjsn5y"
+    },
+    {
+      "@id": "#63hcif",
+      "name": "Concerns",
+      "x": -197,
+      "y": 96,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#an2tdz",
+      "name": "About 15% of greenhouse emissions",
+      "x": -260,
+      "y": 294,
+      "link": "https://en.wikipedia.org/wiki/Environmental_impacts_of_animal_agriculture",
+      "parent": "#63hcif"
+    },
+    {
+      "@id": "#cc5c35",
+      "name": "Uses much of the world's farmland",
+      "x": -349,
+      "y": 227,
+      "parent": "#63hcif"
+    },
+    {
+      "@id": "#f5mpjs",
+      "name": "Animal welfare in intensive systems",
+      "x": -431,
+      "y": 149,
+      "parent": "#63hcif"
+    },
+    {
+      "@id": "#gcqpvj",
+      "name": "Antibiotic overuse and disease spread",
+      "x": -466,
+      "y": 51,
+      "parent": "#63hcif"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 7,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 12,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    },
+    {
+      "start": 25,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

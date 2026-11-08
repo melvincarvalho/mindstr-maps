@@ -1,0 +1,30 @@
+category: People
+aliases: alan mathison turing, turing
+- Alan Turing
+  - Early life
+    - Born in London, 1912
+    - Mathematics at King's College, Cambridge
+    - PhD at Princeton under Alonzo Church
+  - Founding computer science
+    - "On Computable Numbers" paper, 1936
+    - [Turing machine: a model of computation](https://en.wikipedia.org/wiki/Turing_machine)
+    - [Halting problem: some questions are undecidable](https://en.wikipedia.org/wiki/Halting_problem)
+    - Idea of a universal, programmable machine
+  - Codebreaking in World War II
+    - [Worked at Bletchley Park](https://en.wikipedia.org/wiki/Bletchley_Park)
+    - [Led Hut 8 against naval Enigma](https://en.wikipedia.org/wiki/Enigma_machine)
+    - Designed the Bombe, building on Polish work
+    - Helped win the Battle of the Atlantic
+  - Computers and AI
+    - Designed the ACE stored-program computer
+    - Programmed the Manchester computers
+    - Turing test asks: can machines think?
+  - Biology
+    - 1952 paper on morphogenesis
+    - Explained patterns like spots and stripes
+  - Persecution and legacy
+    - Convicted for homosexuality in 1952
+    - Accepted hormone treatment instead of prison
+    - Died 1954; inquest ruled suicide
+    - Royal pardon in 2013
+    - Turing Award; on the £50 note

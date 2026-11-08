@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Geometry",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#9zd3ne",
+      "name": "What geometry studies",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b75iji",
+      "name": "Shape, size, position and space",
+      "x": -505,
+      "y": -60,
+      "parent": "#9zd3ne"
+    },
+    {
+      "@id": "#zjs8hj",
+      "name": "Name means \"earth measuring\" in Greek",
+      "x": -405,
+      "y": -156,
+      "parent": "#9zd3ne"
+    },
+    {
+      "@id": "#7325em",
+      "name": "Points, lines and planes as building blocks",
+      "x": -330,
+      "y": -245,
+      "parent": "#9zd3ne"
+    },
+    {
+      "@id": "#xu28c6",
+      "name": "Euclid's approach",
+      "x": -51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sm46x2",
+      "name": "Euclid's Elements, about 300 BC",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Euclid%27s_Elements",
+      "parent": "#xu28c6"
+    },
+    {
+      "@id": "#9fgvm2",
+      "name": "Five axioms, everything else proved",
+      "x": -104,
+      "y": -367,
+      "parent": "#xu28c6"
+    },
+    {
+      "@id": "#5aw3mf",
+      "name": "Parallel postulate sparked centuries of debate",
+      "x": 42,
+      "y": -423,
+      "parent": "#xu28c6"
+    },
+    {
+      "@id": "#ej6kaf",
+      "name": "Core shapes and facts",
+      "x": 169,
+      "y": -125,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tg5ahd",
+      "name": "Triangle angles always sum to 180°",
+      "x": 234,
+      "y": -485,
+      "parent": "#ej6kaf"
+    },
+    {
+      "@id": "#jsba27",
+      "name": "Pythagoras: a² + b² = c²",
+      "x": 281,
+      "y": -281,
+      "link": "https://en.wikipedia.org/wiki/Pythagorean_theorem",
+      "parent": "#ej6kaf"
+    },
+    {
+      "@id": "#zakcrb",
+      "name": "Circle area is pi times radius squared",
+      "x": 372,
+      "y": -203,
+      "parent": "#ej6kaf"
+    },
+    {
+      "@id": "#gwqvnq",
+      "name": "Similar shapes share angles, differ in size",
+      "x": 506,
+      "y": -126,
+      "parent": "#ej6kaf"
+    },
+    {
+      "@id": "#83jywd",
+      "name": "Measuring things",
+      "x": 220,
+      "y": 54,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yvx5ut",
+      "name": "Length, area and volume",
+      "x": 450,
+      "y": 0,
+      "parent": "#83jywd"
+    },
+    {
+      "@id": "#4gn8vf",
+      "name": "Angles measured in degrees or radians",
+      "x": 430,
+      "y": 106,
+      "parent": "#83jywd"
+    },
+    {
+      "@id": "#pw3gvd",
+      "name": "Scale a shape by 2, area ×4",
+      "x": 372,
+      "y": 203,
+      "parent": "#83jywd"
+    },
+    {
+      "@id": "#xw7uqt",
+      "name": "Newer kinds of geometry",
+      "x": 51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dvexhr",
+      "name": "Coordinates turn shapes into equations",
+      "x": 281,
+      "y": 281,
+      "link": "https://en.wikipedia.org/wiki/Analytic_geometry",
+      "parent": "#xw7uqt"
+    },
+    {
+      "@id": "#9thgfn",
+      "name": "Non-Euclidean: curved spaces, parallels meet",
+      "x": 164,
+      "y": 335,
+      "link": "https://en.wikipedia.org/wiki/Non-Euclidean_geometry",
+      "parent": "#xw7uqt"
+    },
+    {
+      "@id": "#hhhgm9",
+      "name": "Topology ignores stretching, keeps connections",
+      "x": 38,
+      "y": 391,
+      "parent": "#xw7uqt"
+    },
+    {
+      "@id": "#672tgd",
+      "name": "Fractals have detail at every scale",
+      "x": -124,
+      "y": 447,
+      "parent": "#xw7uqt"
+    },
+    {
+      "@id": "#jav8mz",
+      "name": "Where it is used",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u8ir75",
+      "name": "Architecture, engineering and surveying",
+      "x": -365,
+      "y": 508,
+      "parent": "#jav8mz"
+    },
+    {
+      "@id": "#7sud8d",
+      "name": "GPS and maps of the Earth",
+      "x": -330,
+      "y": 245,
+      "parent": "#jav8mz"
+    },
+    {
+      "@id": "#fmcgxd",
+      "name": "Computer graphics and video games",
+      "x": -405,
+      "y": 156,
+      "parent": "#jav8mz"
+    },
+    {
+      "@id": "#pdusw8",
+      "name": "Einstein's gravity is curved spacetime",
+      "x": -445,
+      "y": 54,
+      "parent": "#jav8mz"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

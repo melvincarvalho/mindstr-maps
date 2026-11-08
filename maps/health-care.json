@@ -1,0 +1,329 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Health care",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#4ji2xk",
+      "name": "What it covers",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h47dt3",
+      "name": "Prevention, diagnosis and treatment",
+      "x": -485,
+      "y": -58,
+      "parent": "#4ji2xk"
+    },
+    {
+      "@id": "#7riexb",
+      "name": "Rehabilitation and long-term care",
+      "x": -405,
+      "y": -156,
+      "parent": "#4ji2xk"
+    },
+    {
+      "@id": "#4289az",
+      "name": "Mental health and dental care",
+      "x": -330,
+      "y": -245,
+      "parent": "#4ji2xk"
+    },
+    {
+      "@id": "#gt7fta",
+      "name": "Levels of care",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aqvvm9",
+      "name": "Primary care: family doctors and clinics",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Primary_care",
+      "parent": "#gt7fta"
+    },
+    {
+      "@id": "#awqfmr",
+      "name": "Secondary care: specialists and hospitals",
+      "x": -104,
+      "y": -367,
+      "parent": "#gt7fta"
+    },
+    {
+      "@id": "#wdhjsc",
+      "name": "Tertiary care: highly specialised centres",
+      "x": 42,
+      "y": -423,
+      "parent": "#gt7fta"
+    },
+    {
+      "@id": "#bxmprv",
+      "name": "Community and home care",
+      "x": 234,
+      "y": -485,
+      "parent": "#gt7fta"
+    },
+    {
+      "@id": "#rwugee",
+      "name": "Who works in it",
+      "x": 190,
+      "y": -104,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#x5v9a8",
+      "name": "Doctors and nurses",
+      "x": 281,
+      "y": -281,
+      "parent": "#rwugee"
+    },
+    {
+      "@id": "#m4w3c5",
+      "name": "Pharmacists and dentists",
+      "x": 372,
+      "y": -203,
+      "parent": "#rwugee"
+    },
+    {
+      "@id": "#9ra8s9",
+      "name": "Therapists, paramedics and support staff",
+      "x": 506,
+      "y": -126,
+      "parent": "#rwugee"
+    },
+    {
+      "@id": "#bmf49b",
+      "name": "How it is paid for",
+      "x": 207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dwvqm2",
+      "name": "Taxes fund national health services",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Single-payer_healthcare",
+      "parent": "#bmf49b"
+    },
+    {
+      "@id": "#2bmy8x",
+      "name": "Social health insurance from wages",
+      "x": 506,
+      "y": 126,
+      "parent": "#bmf49b"
+    },
+    {
+      "@id": "#djzppn",
+      "name": "Private insurance",
+      "x": 372,
+      "y": 203,
+      "parent": "#bmf49b"
+    },
+    {
+      "@id": "#kbxjfj",
+      "name": "Out-of-pocket payments",
+      "x": 281,
+      "y": 281,
+      "parent": "#bmf49b"
+    },
+    {
+      "@id": "#uz7v86",
+      "name": "Example systems",
+      "x": 17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8pfveb",
+      "name": "UK's NHS, free at point of use",
+      "x": 164,
+      "y": 335,
+      "parent": "#uz7v86"
+    },
+    {
+      "@id": "#st8hbq",
+      "name": "Germany's insurance-based system",
+      "x": 38,
+      "y": 391,
+      "parent": "#uz7v86"
+    },
+    {
+      "@id": "#gshkdz",
+      "name": "US mix of private and public",
+      "x": -124,
+      "y": 447,
+      "parent": "#uz7v86"
+    },
+    {
+      "@id": "#i4uis9",
+      "name": "Big challenges",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#iu3xbz",
+      "name": "Universal health coverage still out of reach",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wikipedia.org/wiki/Universal_health_care",
+      "parent": "#i4uis9"
+    },
+    {
+      "@id": "#sgq38p",
+      "name": "Rising costs of new treatments",
+      "x": -330,
+      "y": 245,
+      "parent": "#i4uis9"
+    },
+    {
+      "@id": "#j9tvsn",
+      "name": "Ageing populations and chronic disease",
+      "x": -405,
+      "y": 156,
+      "parent": "#i4uis9"
+    },
+    {
+      "@id": "#pzz33a",
+      "name": "Staff shortages and waiting times",
+      "x": -445,
+      "y": 54,
+      "parent": "#i4uis9"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

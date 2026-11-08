@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Age of Enlightenment",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#pk4fmm",
+      "name": "What it was",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ex283s",
+      "name": "European intellectual movement, about 1680–1800",
+      "x": -525,
+      "y": -62,
+      "parent": "#pk4fmm"
+    },
+    {
+      "@id": "#mq8cnz",
+      "name": "Reason and evidence over tradition",
+      "x": -405,
+      "y": -156,
+      "parent": "#pk4fmm"
+    },
+    {
+      "@id": "#6z5fn5",
+      "name": "Built on the Scientific Revolution",
+      "x": -330,
+      "y": -245,
+      "parent": "#pk4fmm"
+    },
+    {
+      "@id": "#kr3ff7",
+      "name": "Key thinkers",
+      "x": 17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mwn3de",
+      "name": "John Locke: life, liberty and property",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/John_Locke",
+      "parent": "#kr3ff7"
+    },
+    {
+      "@id": "#232kqc",
+      "name": "Voltaire attacked intolerance and censorship",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Voltaire",
+      "parent": "#kr3ff7"
+    },
+    {
+      "@id": "#bckq5i",
+      "name": "Rousseau wrote The Social Contract",
+      "x": 42,
+      "y": -423,
+      "parent": "#kr3ff7"
+    },
+    {
+      "@id": "#sye54h",
+      "name": "Montesquieu proposed separation of powers",
+      "x": 234,
+      "y": -485,
+      "parent": "#kr3ff7"
+    },
+    {
+      "@id": "#4as6qv",
+      "name": "Kant: \"Dare to know\"",
+      "x": 281,
+      "y": -281,
+      "parent": "#kr3ff7"
+    },
+    {
+      "@id": "#hsnxwp",
+      "name": "Big ideas",
+      "x": 227,
+      "y": -27,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kjf2ss",
+      "name": "Natural rights and government by consent",
+      "x": 372,
+      "y": -203,
+      "parent": "#hsnxwp"
+    },
+    {
+      "@id": "#kfyurb",
+      "name": "Religious tolerance and freedom of speech",
+      "x": 430,
+      "y": -106,
+      "parent": "#hsnxwp"
+    },
+    {
+      "@id": "#wks7ha",
+      "name": "Progress through science and education",
+      "x": 510,
+      "y": 0,
+      "parent": "#hsnxwp"
+    },
+    {
+      "@id": "#amxg7x",
+      "name": "Adam Smith's free-market economics",
+      "x": 430,
+      "y": 106,
+      "link": "https://en.wikipedia.org/wiki/The_Wealth_of_Nations",
+      "parent": "#hsnxwp"
+    },
+    {
+      "@id": "#sr9bdy",
+      "name": "Spreading ideas",
+      "x": 143,
+      "y": 144,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#24bufr",
+      "name": "Diderot's Encyclopédie collected knowledge",
+      "x": 372,
+      "y": 203,
+      "link": "https://en.wikipedia.org/wiki/Encyclop%C3%A9die",
+      "parent": "#sr9bdy"
+    },
+    {
+      "@id": "#hffc2w",
+      "name": "Salons, coffeehouses and learned societies",
+      "x": 281,
+      "y": 281,
+      "parent": "#sr9bdy"
+    },
+    {
+      "@id": "#mms5f3",
+      "name": "Enlightened despots like Frederick the Great",
+      "x": 164,
+      "y": 335,
+      "parent": "#sr9bdy"
+    },
+    {
+      "@id": "#6wzfv8",
+      "name": "Revolutions it inspired",
+      "x": -55,
+      "y": 195,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vc62hn",
+      "name": "American Declaration of Independence, 1776",
+      "x": 38,
+      "y": 391,
+      "parent": "#6wzfv8"
+    },
+    {
+      "@id": "#7j2rt2",
+      "name": "French Revolution and Rights of Man, 1789",
+      "x": -124,
+      "y": 447,
+      "parent": "#6wzfv8"
+    },
+    {
+      "@id": "#cy4fek",
+      "name": "Abolitionist movement against slavery grew",
+      "x": -365,
+      "y": 508,
+      "parent": "#6wzfv8"
+    },
+    {
+      "@id": "#355u4n",
+      "name": "Limits and critiques",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6wxb95",
+      "name": "Rights often denied women and enslaved people",
+      "x": -330,
+      "y": 245,
+      "parent": "#355u4n"
+    },
+    {
+      "@id": "#v7pdht",
+      "name": "Some thinkers justified racial hierarchies",
+      "x": -405,
+      "y": 156,
+      "parent": "#355u4n"
+    },
+    {
+      "@id": "#949ddq",
+      "name": "Romanticism reacted against pure reason",
+      "x": -525,
+      "y": 62,
+      "parent": "#355u4n"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

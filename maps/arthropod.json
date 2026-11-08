@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Arthropod",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#652hs4",
+      "name": "What makes them distinct",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h8a9nz",
+      "name": "Hard outer skeleton of chitin",
+      "x": -445,
+      "y": -54,
+      "parent": "#652hs4"
+    },
+    {
+      "@id": "#m4nrgj",
+      "name": "Jointed legs and segmented bodies",
+      "x": -405,
+      "y": -156,
+      "parent": "#652hs4"
+    },
+    {
+      "@id": "#mgfpsn",
+      "name": "Moult to grow bigger",
+      "x": -330,
+      "y": -245,
+      "link": "https://en.wikipedia.org/wiki/Ecdysis",
+      "parent": "#652hs4"
+    },
+    {
+      "@id": "#gshzd3",
+      "name": "Compound eyes in many groups",
+      "x": -225,
+      "y": -312,
+      "parent": "#652hs4"
+    },
+    {
+      "@id": "#3f5w3w",
+      "name": "Size and diversity",
+      "x": 17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pmwx88",
+      "name": "Over 80% of known animal species",
+      "x": -104,
+      "y": -367,
+      "parent": "#3f5w3w"
+    },
+    {
+      "@id": "#waagj2",
+      "name": "More than 1 million species described",
+      "x": 42,
+      "y": -423,
+      "parent": "#3f5w3w"
+    },
+    {
+      "@id": "#6nn5kb",
+      "name": "Fairyflies to Japanese spider crabs",
+      "x": 234,
+      "y": -485,
+      "parent": "#3f5w3w"
+    },
+    {
+      "@id": "#euy9mf",
+      "name": "Main groups",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#demjxr",
+      "name": "Insects: beetles, ants, butterflies",
+      "x": 281,
+      "y": -281,
+      "link": "https://en.wikipedia.org/wiki/Insect",
+      "parent": "#euy9mf"
+    },
+    {
+      "@id": "#fhmzn6",
+      "name": "Arachnids: spiders, scorpions, ticks",
+      "x": 372,
+      "y": -203,
+      "link": "https://en.wikipedia.org/wiki/Arachnid",
+      "parent": "#euy9mf"
+    },
+    {
+      "@id": "#8qxc8u",
+      "name": "Crustaceans: crabs, shrimp, woodlice",
+      "x": 487,
+      "y": -121,
+      "parent": "#euy9mf"
+    },
+    {
+      "@id": "#8behv3",
+      "name": "Myriapods: centipedes and millipedes",
+      "x": 450,
+      "y": 0,
+      "parent": "#euy9mf"
+    },
+    {
+      "@id": "#zivx3u",
+      "name": "History",
+      "x": 190,
+      "y": 104,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v6xrri",
+      "name": "Trilobites thrived for 270 million years",
+      "x": 468,
+      "y": 116,
+      "link": "https://en.wikipedia.org/wiki/Trilobite",
+      "parent": "#zivx3u"
+    },
+    {
+      "@id": "#cegmtc",
+      "name": "Among first animals to walk on land",
+      "x": 372,
+      "y": 203,
+      "parent": "#zivx3u"
+    },
+    {
+      "@id": "#xp76c6",
+      "name": "Giant sea scorpions grew over 2 metres",
+      "x": 281,
+      "y": 281,
+      "parent": "#zivx3u"
+    },
+    {
+      "@id": "#2n3f2d",
+      "name": "Role in ecosystems",
+      "x": 17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5s73pa",
+      "name": "Pollinate most flowering plants",
+      "x": 164,
+      "y": 335,
+      "parent": "#2n3f2d"
+    },
+    {
+      "@id": "#cf6mdv",
+      "name": "Food for birds, fish and bats",
+      "x": 38,
+      "y": 391,
+      "parent": "#2n3f2d"
+    },
+    {
+      "@id": "#fuk76u",
+      "name": "Break down dead plants and animals",
+      "x": -124,
+      "y": 447,
+      "parent": "#2n3f2d"
+    },
+    {
+      "@id": "#tdvv58",
+      "name": "Arthropods and people",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mnyhfc",
+      "name": "Shrimp, crabs and lobsters as seafood",
+      "x": -225,
+      "y": 312,
+      "parent": "#tdvv58"
+    },
+    {
+      "@id": "#kx858c",
+      "name": "Mosquitoes and ticks spread disease",
+      "x": -330,
+      "y": 245,
+      "parent": "#tdvv58"
+    },
+    {
+      "@id": "#an6u8d",
+      "name": "Crop pests like locusts and aphids",
+      "x": -405,
+      "y": 156,
+      "parent": "#tdvv58"
+    },
+    {
+      "@id": "#v7xnv2",
+      "name": "Silk, honey and dye producers",
+      "x": -445,
+      "y": 54,
+      "parent": "#tdvv58"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

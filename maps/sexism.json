@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Sexism",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#jnmj4u",
+      "name": "What it is",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yjhbcf",
+      "name": "Prejudice or discrimination based on sex",
+      "x": -485,
+      "y": -58,
+      "parent": "#jnmj4u"
+    },
+    {
+      "@id": "#7x4wgs",
+      "name": "Mostly affects women and girls",
+      "x": -405,
+      "y": -156,
+      "parent": "#jnmj4u"
+    },
+    {
+      "@id": "#a9mzw2",
+      "name": "Rooted in gender stereotypes",
+      "x": -330,
+      "y": -245,
+      "parent": "#jnmj4u"
+    },
+    {
+      "@id": "#xj6p3u",
+      "name": "Forms",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c3shay",
+      "name": "Hostile sexism: open contempt",
+      "x": -225,
+      "y": -312,
+      "parent": "#xj6p3u"
+    },
+    {
+      "@id": "#uv6c2f",
+      "name": "Benevolent sexism: protective but limiting",
+      "x": -104,
+      "y": -367,
+      "parent": "#xj6p3u"
+    },
+    {
+      "@id": "#xpxbb7",
+      "name": "Sexual harassment",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Sexual_harassment",
+      "parent": "#xj6p3u"
+    },
+    {
+      "@id": "#mkyr75",
+      "name": "Unequal rules and institutions",
+      "x": 234,
+      "y": -485,
+      "parent": "#xj6p3u"
+    },
+    {
+      "@id": "#gu7rs5",
+      "name": "History",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zsj56p",
+      "name": "Women long denied property and voting rights",
+      "x": 281,
+      "y": -281,
+      "parent": "#gu7rs5"
+    },
+    {
+      "@id": "#6bxrj5",
+      "name": "Women's suffrage won in 20th century",
+      "x": 372,
+      "y": -203,
+      "link": "https://en.wikipedia.org/wiki/Women%27s_suffrage",
+      "parent": "#gu7rs5"
+    },
+    {
+      "@id": "#etbmsp",
+      "name": "Feminism campaigned for equal rights",
+      "x": 468,
+      "y": -116,
+      "link": "https://en.wikipedia.org/wiki/Feminism",
+      "parent": "#gu7rs5"
+    },
+    {
+      "@id": "#syfby6",
+      "name": "UN CEDAW women's rights treaty, 1979",
+      "x": 450,
+      "y": 0,
+      "parent": "#gu7rs5"
+    },
+    {
+      "@id": "#uz75r4",
+      "name": "Work and money",
+      "x": 169,
+      "y": 125,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jyurn7",
+      "name": "Gender pay gap persists worldwide",
+      "x": 449,
+      "y": 111,
+      "link": "https://en.wikipedia.org/wiki/Gender_pay_gap",
+      "parent": "#uz75r4"
+    },
+    {
+      "@id": "#biw5m8",
+      "name": "Few women in top leadership roles",
+      "x": 372,
+      "y": 203,
+      "parent": "#uz75r4"
+    },
+    {
+      "@id": "#za2zud",
+      "name": "Motherhood penalty in pay and promotion",
+      "x": 281,
+      "y": 281,
+      "parent": "#uz75r4"
+    },
+    {
+      "@id": "#7a55v5",
+      "name": "Unpaid care falls mostly on women",
+      "x": 164,
+      "y": 335,
+      "parent": "#uz75r4"
+    },
+    {
+      "@id": "#egv9fe",
+      "name": "Wider effects",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#up5hah",
+      "name": "Girls' schooling limited in some countries",
+      "x": 38,
+      "y": 391,
+      "parent": "#egv9fe"
+    },
+    {
+      "@id": "#mguv35",
+      "name": "Violence against women and girls",
+      "x": -124,
+      "y": 447,
+      "parent": "#egv9fe"
+    },
+    {
+      "@id": "#tzd5wq",
+      "name": "Men face stereotypes about caring roles",
+      "x": -225,
+      "y": 312,
+      "parent": "#egv9fe"
+    },
+    {
+      "@id": "#qd3s5s",
+      "name": "Responses",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xs3im3",
+      "name": "Equal pay and anti-discrimination laws",
+      "x": -330,
+      "y": 245,
+      "parent": "#qd3s5s"
+    },
+    {
+      "@id": "#3nzhpw",
+      "name": "Pay gap reporting by employers",
+      "x": -405,
+      "y": 156,
+      "parent": "#qd3s5s"
+    },
+    {
+      "@id": "#tmq6fy",
+      "name": "Challenging stereotypes in education and media",
+      "x": -505,
+      "y": 60,
+      "parent": "#qd3s5s"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

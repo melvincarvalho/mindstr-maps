@@ -1,0 +1,374 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Brazil",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#hivbhx",
+      "name": "Geography",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qmwkjv",
+      "name": "Fifth-largest country, half of South America",
+      "x": -446,
+      "y": -45,
+      "parent": "#hivbhx"
+    },
+    {
+      "@id": "#jxwpdv",
+      "name": "Holds most of the Amazon rainforest",
+      "x": -456,
+      "y": -145,
+      "link": "https://en.wikipedia.org/wiki/Amazon_rainforest",
+      "parent": "#hivbhx"
+    },
+    {
+      "@id": "#c3624t",
+      "name": "Pantanal, world's largest tropical wetland",
+      "x": -364,
+      "y": -212,
+      "link": "https://en.wikipedia.org/wiki/Pantanal",
+      "parent": "#hivbhx"
+    },
+    {
+      "@id": "#ar7948",
+      "name": "Long Atlantic coastline",
+      "x": -287,
+      "y": -277,
+      "parent": "#hivbhx"
+    },
+    {
+      "@id": "#zngrxy",
+      "name": "Borders all South American countries but two",
+      "x": -192,
+      "y": -326,
+      "parent": "#hivbhx"
+    },
+    {
+      "@id": "#y2f2sy",
+      "name": "People and languages",
+      "x": 43,
+      "y": -181,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vg2473",
+      "name": "Over 200 million people",
+      "x": -92,
+      "y": -386,
+      "parent": "#y2f2sy"
+    },
+    {
+      "@id": "#3p4nja",
+      "name": "Largest Portuguese-speaking country",
+      "x": 33,
+      "y": -439,
+      "parent": "#y2f2sy"
+    },
+    {
+      "@id": "#ggrcjf",
+      "name": "São Paulo is the largest city",
+      "x": 199,
+      "y": -492,
+      "parent": "#y2f2sy"
+    },
+    {
+      "@id": "#2nh6sq",
+      "name": "Mixed European, African and Indigenous ancestry",
+      "x": 263,
+      "y": -332,
+      "parent": "#y2f2sy"
+    },
+    {
+      "@id": "#vi9ex2",
+      "name": "History",
+      "x": 228,
+      "y": -23,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p4535g",
+      "name": "Indigenous peoples including Tupi and Guarani",
+      "x": 328,
+      "y": -246,
+      "parent": "#vi9ex2"
+    },
+    {
+      "@id": "#nehbgz",
+      "name": "Portuguese arrived in 1500",
+      "x": 394,
+      "y": -173,
+      "parent": "#vi9ex2"
+    },
+    {
+      "@id": "#5wv9jr",
+      "name": "Largest destination for enslaved Africans",
+      "x": 436,
+      "y": -90,
+      "link": "https://en.wikipedia.org/wiki/Slavery_in_Brazil",
+      "parent": "#vi9ex2"
+    },
+    {
+      "@id": "#rrn46q",
+      "name": "Independence as an empire, 1822",
+      "x": 470,
+      "y": 0,
+      "parent": "#vi9ex2"
+    },
+    {
+      "@id": "#b8x62s",
+      "name": "Slavery abolished 1888, republic 1889",
+      "x": 436,
+      "y": 90,
+      "parent": "#vi9ex2"
+    },
+    {
+      "@id": "#py2k7x",
+      "name": "Military rule 1964–1985",
+      "x": 394,
+      "y": 173,
+      "link": "https://en.wikipedia.org/wiki/Military_dictatorship_in_Brazil",
+      "parent": "#vi9ex2"
+    },
+    {
+      "@id": "#fgjrsm",
+      "name": "Government",
+      "x": 123,
+      "y": 155,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pgpp2g",
+      "name": "Federal presidential republic",
+      "x": 328,
+      "y": 246,
+      "parent": "#fgjrsm"
+    },
+    {
+      "@id": "#wrgz9x",
+      "name": "26 states and a Federal District",
+      "x": 241,
+      "y": 304,
+      "parent": "#fgjrsm"
+    },
+    {
+      "@id": "#4qncfp",
+      "name": "Capital Brasília, built in 1960",
+      "x": 145,
+      "y": 357,
+      "parent": "#fgjrsm"
+    },
+    {
+      "@id": "#9jy7cb",
+      "name": "Economy",
+      "x": -71,
+      "y": 175,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yab4w8",
+      "name": "Largest economy in Latin America",
+      "x": 31,
+      "y": 407,
+      "parent": "#9jy7cb"
+    },
+    {
+      "@id": "#xbwnka",
+      "name": "Exports soy, coffee, beef and iron ore",
+      "x": -112,
+      "y": 466,
+      "parent": "#9jy7cb"
+    },
+    {
+      "@id": "#aa5qmh",
+      "name": "Aircraft maker Embraer and big industry",
+      "x": -318,
+      "y": 522,
+      "parent": "#9jy7cb"
+    },
+    {
+      "@id": "#jenr5t",
+      "name": "Currency is the Brazilian real",
+      "x": -287,
+      "y": 277,
+      "parent": "#9jy7cb"
+    },
+    {
+      "@id": "#zbhqg2",
+      "name": "Culture",
+      "x": -214,
+      "y": 68,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vgrzur",
+      "name": "Carnival, biggest in Rio de Janeiro",
+      "x": -364,
+      "y": 212,
+      "parent": "#zbhqg2"
+    },
+    {
+      "@id": "#5y7h2c",
+      "name": "Samba and bossa nova",
+      "x": -418,
+      "y": 133,
+      "parent": "#zbhqg2"
+    },
+    {
+      "@id": "#skieuc",
+      "name": "Football: five World Cup wins",
+      "x": -446,
+      "y": 45,
+      "parent": "#zbhqg2"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 7,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 12,
+      "end": 16
+    },
+    {
+      "start": 12,
+      "end": 17
+    },
+    {
+      "start": 12,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    },
+    {
+      "start": 0,
+      "end": 28
+    },
+    {
+      "start": 28,
+      "end": 29
+    },
+    {
+      "start": 28,
+      "end": 30
+    },
+    {
+      "start": 28,
+      "end": 31
+    }
+  ],
+  "selectedNode": 0
+}

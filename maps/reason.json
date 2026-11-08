@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Reason",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#6nrnwd",
+      "name": "What reason is",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ydaujj",
+      "name": "Drawing conclusions from evidence and premises",
+      "x": -524,
+      "y": -64,
+      "parent": "#6nrnwd"
+    },
+    {
+      "@id": "#3ijycd",
+      "name": "Aristotle: humans as rational animals",
+      "x": -401,
+      "y": -163,
+      "parent": "#6nrnwd"
+    },
+    {
+      "@id": "#e699f3",
+      "name": "Theoretical versus practical reason",
+      "x": -318,
+      "y": -255,
+      "parent": "#6nrnwd"
+    },
+    {
+      "@id": "#ni4zbt",
+      "name": "Kinds of reasoning",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#x6cwjh",
+      "name": "Deduction: certain if premises are true",
+      "x": -204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Deductive_reasoning",
+      "parent": "#ni4zbt"
+    },
+    {
+      "@id": "#fr39jy",
+      "name": "Induction: from cases to generalisations",
+      "x": -73,
+      "y": -372,
+      "parent": "#ni4zbt"
+    },
+    {
+      "@id": "#r8z9p4",
+      "name": "Abduction: best explanation, like detectives",
+      "x": 82,
+      "y": -420,
+      "parent": "#ni4zbt"
+    },
+    {
+      "@id": "#he6yub",
+      "name": "Analogy: treating like cases alike",
+      "x": 204,
+      "y": -321,
+      "parent": "#ni4zbt"
+    },
+    {
+      "@id": "#xxqz3w",
+      "name": "Tools of good reasoning",
+      "x": 219,
+      "y": -57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ts7qnj",
+      "name": "Logic checks whether arguments are valid",
+      "x": 318,
+      "y": -255,
+      "parent": "#xxqz3w"
+    },
+    {
+      "@id": "#tp4np7",
+      "name": "Fallacies: ad hominem, straw man",
+      "x": 401,
+      "y": -163,
+      "link": "https://en.wikipedia.org/wiki/Fallacy",
+      "parent": "#xxqz3w"
+    },
+    {
+      "@id": "#qrkf77",
+      "name": "Probability and statistics",
+      "x": 504,
+      "y": -62,
+      "parent": "#xxqz3w"
+    },
+    {
+      "@id": "#vkyyt6",
+      "name": "Experiments test claims against reality",
+      "x": 444,
+      "y": 56,
+      "parent": "#xxqz3w"
+    },
+    {
+      "@id": "#qvtedi",
+      "name": "Reason and emotion",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#332vkg",
+      "name": "Hume: reason is slave of passions",
+      "x": 455,
+      "y": 184,
+      "parent": "#qvtedi"
+    },
+    {
+      "@id": "#gx6e5m",
+      "name": "Kant: reason grounds morality",
+      "x": 318,
+      "y": 255,
+      "parent": "#qvtedi"
+    },
+    {
+      "@id": "#iqf6kt",
+      "name": "Damasio: emotions help good decisions",
+      "x": 204,
+      "y": 321,
+      "parent": "#qvtedi"
+    },
+    {
+      "@id": "#8k2h25",
+      "name": "The Age of Reason",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hv8v7x",
+      "name": "Enlightenment, 1700s, championed reason",
+      "x": 73,
+      "y": 372,
+      "link": "https://en.wikipedia.org/wiki/Age_of_Enlightenment",
+      "parent": "#8k2h25"
+    },
+    {
+      "@id": "#x5vza2",
+      "name": "Descartes and the rationalists",
+      "x": -82,
+      "y": 420,
+      "parent": "#8k2h25"
+    },
+    {
+      "@id": "#zvtfqn",
+      "name": "Romantics pushed back with feeling",
+      "x": -204,
+      "y": 321,
+      "parent": "#8k2h25"
+    },
+    {
+      "@id": "#8m7zrg",
+      "name": "Limits of reason",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tekxmp",
+      "name": "Cognitive biases: Kahneman's fast thinking",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow",
+      "parent": "#8m7zrg"
+    },
+    {
+      "@id": "#ydm6me",
+      "name": "Herbert Simon's bounded rationality",
+      "x": -401,
+      "y": 163,
+      "parent": "#8m7zrg"
+    },
+    {
+      "@id": "#uyxgwd",
+      "name": "Gödel: some truths are unprovable",
+      "x": -484,
+      "y": 60,
+      "parent": "#8m7zrg"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

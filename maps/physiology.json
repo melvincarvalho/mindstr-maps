@@ -1,0 +1,308 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Physiology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ktba79",
+      "name": "What physiology studies",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#32eeua",
+      "name": "How living bodies actually work",
+      "x": -504,
+      "y": -68,
+      "parent": "#ktba79"
+    },
+    {
+      "@id": "#d64q6q",
+      "name": "From cells to organs to systems",
+      "x": -396,
+      "y": -171,
+      "parent": "#ktba79"
+    },
+    {
+      "@id": "#xsw344",
+      "name": "Homeostasis keeps conditions stable",
+      "x": -305,
+      "y": -265,
+      "link": "https://en.wikipedia.org/wiki/Homeostasis",
+      "parent": "#ktba79"
+    },
+    {
+      "@id": "#dyy749",
+      "name": "Control systems",
+      "x": -19,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7w6x3t",
+      "name": "Nervous system: fast electrical signals",
+      "x": -181,
+      "y": -330,
+      "link": "https://en.wikipedia.org/wiki/Nervous_system",
+      "parent": "#dyy749"
+    },
+    {
+      "@id": "#zrcsxh",
+      "name": "Endocrine system: slower hormone signals",
+      "x": -41,
+      "y": -391,
+      "link": "https://en.wikipedia.org/wiki/Endocrine_system",
+      "parent": "#dyy749"
+    },
+    {
+      "@id": "#q4rkqk",
+      "name": "Negative feedback works like a thermostat",
+      "x": 140,
+      "y": -445,
+      "parent": "#dyy749"
+    },
+    {
+      "@id": "#jr5ww3",
+      "name": "Supply and waste",
+      "x": 202,
+      "y": -88,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b6ahhj",
+      "name": "Heart pumps blood around the body",
+      "x": 246,
+      "y": -301,
+      "parent": "#jr5ww3"
+    },
+    {
+      "@id": "#wmzc3f",
+      "name": "Lungs swap oxygen for carbon dioxide",
+      "x": 355,
+      "y": -221,
+      "parent": "#jr5ww3"
+    },
+    {
+      "@id": "#3tnm38",
+      "name": "Gut digests and absorbs food",
+      "x": 464,
+      "y": -127,
+      "parent": "#jr5ww3"
+    },
+    {
+      "@id": "#i8yji4",
+      "name": "Kidneys filter blood and balance water",
+      "x": 450,
+      "y": 0,
+      "parent": "#jr5ww3"
+    },
+    {
+      "@id": "#6tg8fg",
+      "name": "Movement and defence",
+      "x": 182,
+      "y": 113,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a7ck5u",
+      "name": "Muscles contract to move bones",
+      "x": 464,
+      "y": 127,
+      "parent": "#6tg8fg"
+    },
+    {
+      "@id": "#9rzkc4",
+      "name": "Skin controls heat and blocks germs",
+      "x": 355,
+      "y": 221,
+      "parent": "#6tg8fg"
+    },
+    {
+      "@id": "#xgftbw",
+      "name": "Immune system fights infection",
+      "x": 246,
+      "y": 301,
+      "parent": "#6tg8fg"
+    },
+    {
+      "@id": "#4zep7x",
+      "name": "Plant physiology",
+      "x": -19,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b3wkj6",
+      "name": "Photosynthesis makes sugar from light",
+      "x": 110,
+      "y": 349,
+      "parent": "#4zep7x"
+    },
+    {
+      "@id": "#pvc4y7",
+      "name": "Water drawn up through the xylem",
+      "x": -43,
+      "y": 407,
+      "parent": "#4zep7x"
+    },
+    {
+      "@id": "#bux93j",
+      "name": "Stomata open and close for gases",
+      "x": -253,
+      "y": 465,
+      "parent": "#4zep7x"
+    },
+    {
+      "@id": "#ixzw2y",
+      "name": "Why it matters",
+      "x": -202,
+      "y": 88,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rixnc5",
+      "name": "Disease is physiology gone wrong",
+      "x": -305,
+      "y": 265,
+      "parent": "#ixzw2y"
+    },
+    {
+      "@id": "#eimcfz",
+      "name": "Basis of medicine and sports science",
+      "x": -396,
+      "y": 171,
+      "parent": "#ixzw2y"
+    },
+    {
+      "@id": "#3piasa",
+      "name": "Claude Bernard described the internal environment",
+      "x": -544,
+      "y": 74,
+      "link": "https://en.wikipedia.org/wiki/Claude_Bernard",
+      "parent": "#ixzw2y"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

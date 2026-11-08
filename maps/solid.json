@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Solid",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#5vkwq9",
+      "name": "What makes a solid",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6pp4jc",
+      "name": "Keeps its own shape and volume",
+      "x": -444,
+      "y": -56,
+      "parent": "#5vkwq9"
+    },
+    {
+      "@id": "#mbzknu",
+      "name": "Particles packed tightly together",
+      "x": -401,
+      "y": -163,
+      "parent": "#5vkwq9"
+    },
+    {
+      "@id": "#dzi4dw",
+      "name": "Particles vibrate in fixed places",
+      "x": -318,
+      "y": -255,
+      "parent": "#5vkwq9"
+    },
+    {
+      "@id": "#7t8ej9",
+      "name": "Strong forces hold particles in place",
+      "x": -204,
+      "y": -321,
+      "parent": "#5vkwq9"
+    },
+    {
+      "@id": "#vr2p9h",
+      "name": "Two inner structures",
+      "x": 36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#frzbqh",
+      "name": "Crystals: atoms in repeating patterns",
+      "x": -73,
+      "y": -372,
+      "link": "https://en.wikipedia.org/wiki/Crystal",
+      "parent": "#vr2p9h"
+    },
+    {
+      "@id": "#d84ytg",
+      "name": "Salt, diamond and metals are crystalline",
+      "x": 82,
+      "y": -420,
+      "parent": "#vr2p9h"
+    },
+    {
+      "@id": "#nwcgm6",
+      "name": "Amorphous solids lack order, like glass",
+      "x": 204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Amorphous_solid",
+      "parent": "#vr2p9h"
+    },
+    {
+      "@id": "#tu9rqv",
+      "name": "Kinds by bonding",
+      "x": 219,
+      "y": -57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zrnnb3",
+      "name": "Metals: shared sea of electrons",
+      "x": 318,
+      "y": -255,
+      "parent": "#tu9rqv"
+    },
+    {
+      "@id": "#5b4gny",
+      "name": "Ionic: salt's charged atoms lock together",
+      "x": 401,
+      "y": -163,
+      "parent": "#tu9rqv"
+    },
+    {
+      "@id": "#7gy6dm",
+      "name": "Covalent networks: diamond, quartz",
+      "x": 504,
+      "y": -62,
+      "parent": "#tu9rqv"
+    },
+    {
+      "@id": "#cdwkcf",
+      "name": "Molecular solids: ice, sugar",
+      "x": 444,
+      "y": 56,
+      "parent": "#tu9rqv"
+    },
+    {
+      "@id": "#grs2ya",
+      "name": "Properties",
+      "x": 135,
+      "y": 149,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bwkghr",
+      "name": "Hardness, from talc to diamond",
+      "x": 401,
+      "y": 163,
+      "parent": "#grs2ya"
+    },
+    {
+      "@id": "#pvwfgi",
+      "name": "Brittle glass versus bendable metal",
+      "x": 318,
+      "y": 255,
+      "parent": "#grs2ya"
+    },
+    {
+      "@id": "#9dks55",
+      "name": "Conductors, insulators and semiconductors",
+      "x": 204,
+      "y": 321,
+      "parent": "#grs2ya"
+    },
+    {
+      "@id": "#gw8v6x",
+      "name": "Most expand when heated",
+      "x": 73,
+      "y": 372,
+      "parent": "#grs2ya"
+    },
+    {
+      "@id": "#q5bnj2",
+      "name": "Changing state",
+      "x": -104,
+      "y": 164,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g9cjgi",
+      "name": "Melts into a liquid when heated",
+      "x": -82,
+      "y": 420,
+      "link": "https://en.wikipedia.org/wiki/Melting",
+      "parent": "#q5bnj2"
+    },
+    {
+      "@id": "#pcqjfu",
+      "name": "Some sublimate straight to gas",
+      "x": -204,
+      "y": 321,
+      "parent": "#q5bnj2"
+    },
+    {
+      "@id": "#zu7vmw",
+      "name": "Liquids freeze into solids when cooled",
+      "x": -318,
+      "y": 255,
+      "parent": "#q5bnj2"
+    },
+    {
+      "@id": "#969uyg",
+      "name": "Why solids matter",
+      "x": -219,
+      "y": 57,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d32gmt",
+      "name": "Solid-state physics underpins computer chips",
+      "x": -437,
+      "y": 177,
+      "link": "https://en.wikipedia.org/wiki/Solid-state_physics",
+      "parent": "#969uyg"
+    },
+    {
+      "@id": "#j3f8xz",
+      "name": "Engineers choose materials by strength",
+      "x": -524,
+      "y": 64,
+      "parent": "#969uyg"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

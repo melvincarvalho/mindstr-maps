@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Forest",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#pa8kij",
+      "name": "What a forest is",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nxj3ma",
+      "name": "Land dominated by trees",
+      "x": -444,
+      "y": -56,
+      "parent": "#pa8kij"
+    },
+    {
+      "@id": "#hvvpsa",
+      "name": "Covers about 31% of land",
+      "x": -401,
+      "y": -163,
+      "parent": "#pa8kij"
+    },
+    {
+      "@id": "#nm93e8",
+      "name": "Layers: canopy, understory, forest floor",
+      "x": -318,
+      "y": -255,
+      "parent": "#pa8kij"
+    },
+    {
+      "@id": "#9rwuda",
+      "name": "Main types",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b2xmjn",
+      "name": "Tropical rainforest near the equator",
+      "x": -204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Tropical_rainforest",
+      "parent": "#9rwuda"
+    },
+    {
+      "@id": "#fz8pww",
+      "name": "Temperate broadleaf forests shed leaves",
+      "x": -73,
+      "y": -372,
+      "parent": "#9rwuda"
+    },
+    {
+      "@id": "#6jd6qe",
+      "name": "Boreal forest (taiga) is largest",
+      "x": 82,
+      "y": -420,
+      "link": "https://en.wikipedia.org/wiki/Taiga",
+      "parent": "#9rwuda"
+    },
+    {
+      "@id": "#favjk2",
+      "name": "Mangroves grow along tropical coasts",
+      "x": 204,
+      "y": -321,
+      "parent": "#9rwuda"
+    },
+    {
+      "@id": "#aapij3",
+      "name": "What forests do",
+      "x": 219,
+      "y": -57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qc69gk",
+      "name": "Store vast amounts of carbon",
+      "x": 318,
+      "y": -255,
+      "parent": "#aapij3"
+    },
+    {
+      "@id": "#b8zji4",
+      "name": "Home to most land species",
+      "x": 401,
+      "y": -163,
+      "parent": "#aapij3"
+    },
+    {
+      "@id": "#kzgb52",
+      "name": "Regulate rainfall and water cycles",
+      "x": 504,
+      "y": -62,
+      "parent": "#aapij3"
+    },
+    {
+      "@id": "#9b8sx6",
+      "name": "Hold soil and prevent erosion",
+      "x": 444,
+      "y": 56,
+      "parent": "#aapij3"
+    },
+    {
+      "@id": "#659q8u",
+      "name": "What people get",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kcs5tt",
+      "name": "Timber, paper and fuel",
+      "x": 401,
+      "y": 163,
+      "parent": "#659q8u"
+    },
+    {
+      "@id": "#n8gj7h",
+      "name": "Food, medicines and rubber",
+      "x": 318,
+      "y": 255,
+      "parent": "#659q8u"
+    },
+    {
+      "@id": "#sznefx",
+      "name": "Recreation and cultural importance",
+      "x": 204,
+      "y": 321,
+      "parent": "#659q8u"
+    },
+    {
+      "@id": "#xctupk",
+      "name": "Threats",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qj7mx7",
+      "name": "Deforestation for farming and cattle",
+      "x": 73,
+      "y": 372,
+      "link": "https://en.wikipedia.org/wiki/Deforestation",
+      "parent": "#xctupk"
+    },
+    {
+      "@id": "#xbbun5",
+      "name": "Wildfires worsened by drought",
+      "x": -82,
+      "y": 420,
+      "parent": "#xctupk"
+    },
+    {
+      "@id": "#zhvitc",
+      "name": "Pests and disease spread by warming",
+      "x": -204,
+      "y": 321,
+      "parent": "#xctupk"
+    },
+    {
+      "@id": "#qr4g8s",
+      "name": "Protecting forests",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ifnhh9",
+      "name": "Protected areas and national parks",
+      "x": -318,
+      "y": 255,
+      "parent": "#qr4g8s"
+    },
+    {
+      "@id": "#49am8u",
+      "name": "Sustainable forestry certification",
+      "x": -401,
+      "y": 163,
+      "link": "https://en.wikipedia.org/wiki/Sustainable_forest_management",
+      "parent": "#qr4g8s"
+    },
+    {
+      "@id": "#6vhbwa",
+      "name": "Reforestation and natural regrowth",
+      "x": -504,
+      "y": 62,
+      "parent": "#qr4g8s"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

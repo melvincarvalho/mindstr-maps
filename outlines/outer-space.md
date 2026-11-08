@@ -1,0 +1,30 @@
+category: Science
+aliases: what is space, space beyond earth, the vacuum of space
+- Outer space
+  - Where space begins
+    - [Kármán line, 100 km up](https://en.wikipedia.org/wiki/K%C3%A1rm%C3%A1n_line)
+    - US uses 50 miles (80 km)
+    - Atmosphere thins out gradually
+  - What it's like
+    - Near-perfect vacuum
+    - [Background temperature about −270°C](https://en.wikipedia.org/wiki/Cosmic_microwave_background)
+    - Silent: sound needs a medium
+    - Filled with radiation and cosmic rays
+  - What's out there
+    - Sparse gas and dust between stars
+    - Planets, stars and galaxies
+    - Vast empty voids between galaxies
+    - Dark matter and dark energy
+  - Dangers to humans
+    - Unconsciousness within about 15 seconds
+    - Radiation raises cancer risk
+    - Microgravity weakens bones and muscles
+    - [Space debris travels faster than bullets](https://en.wikipedia.org/wiki/Space_debris)
+  - Exploring space
+    - Sputnik 1, first satellite, 1957
+    - Yuri Gagarin, first human, 1961
+    - Apollo 11 Moon landing, 1969
+    - [International Space Station crewed since 2000](https://en.wikipedia.org/wiki/International_Space_Station)
+  - Law of space
+    - [Outer Space Treaty, 1967](https://en.wikipedia.org/wiki/Outer_Space_Treaty)
+    - No nation can claim celestial bodies

@@ -1,0 +1,29 @@
+category: Society
+aliases: universities, university education, what is a university
+- University
+  - What universities do
+    - Teach undergraduate and graduate students
+    - Research that creates new knowledge
+    - Share expertise with the public
+  - History
+    - [Al-Qarawiyyin, Fez: mosque school from 859](https://en.wikipedia.org/wiki/University_of_al-Qarawiyyin)
+    - [University of Bologna, founded 1088](https://en.wikipedia.org/wiki/University_of_Bologna)
+    - Paris and Oxford follow by 1200
+    - [Humboldt model joins teaching and research](https://en.wikipedia.org/wiki/Humboldtian_model_of_higher_education)
+  - Degrees
+    - Bachelor's degree, usually 3–4 years
+    - Master's degree, 1–2 years more
+    - [Doctorate (PhD) through original research](https://en.wikipedia.org/wiki/Doctor_of_Philosophy)
+  - How it's organised
+    - Faculties, schools and departments
+    - Professors, lecturers and researchers
+    - Led by a president or vice-chancellor
+    - [Academic freedom and tenure](https://en.wikipedia.org/wiki/Academic_freedom)
+  - Student life
+    - Lectures, seminars and independent study
+    - Clubs, societies and sports
+    - Often first time living away from home
+  - Choosing and paying
+    - Compare courses, not just rankings
+    - Tuition fees vary widely by country
+    - Scholarships, grants and student loans

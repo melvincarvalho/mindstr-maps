@@ -1,0 +1,31 @@
+category: Society
+aliases: angling, how to fish, fishing techniques
+- Fishing
+  - Why people fish
+    - Food for billions of people
+    - Recreation and sport angling
+    - Livelihood for coastal communities
+  - Methods
+    - [Rod, line and baited hook](https://en.wikipedia.org/wiki/Angling)
+    - [Fly fishing with artificial flies](https://en.wikipedia.org/wiki/Fly_fishing)
+    - Nets: gillnets, seines and trawls
+    - Traps and pots for crabs, lobsters
+    - Longlines carry thousands of hooks
+  - Where fish are caught
+    - Rivers and lakes for freshwater species
+    - Coastal waters and estuaries
+    - Open ocean for tuna and cod
+    - Ice fishing through frozen lakes
+  - Commercial fishing
+    - Factory ships process catch at sea
+    - China catches the most fish
+    - [Aquaculture now rivals wild catch](https://en.wikipedia.org/wiki/Aquaculture)
+  - Sustainability
+    - [Overfishing has depleted many stocks](https://en.wikipedia.org/wiki/Overfishing)
+    - Bycatch kills dolphins, turtles, seabirds
+    - Quotas and closed seasons protect stocks
+    - Marine protected areas let fish recover
+  - Getting started
+    - Get a licence where required
+    - Learn local size and bag limits
+    - Catch and release handles fish gently

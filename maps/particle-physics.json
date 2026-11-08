@@ -1,0 +1,342 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Particle physics",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#d2kdfk",
+      "name": "What it studies",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ag77ap",
+      "name": "The smallest building blocks of matter",
+      "x": -505,
+      "y": -57,
+      "parent": "#d2kdfk"
+    },
+    {
+      "@id": "#gxfdah",
+      "name": "The forces acting between them",
+      "x": -409,
+      "y": -150,
+      "parent": "#d2kdfk"
+    },
+    {
+      "@id": "#3ywq3t",
+      "name": "Why the universe looks as it does",
+      "x": -340,
+      "y": -236,
+      "parent": "#d2kdfk"
+    },
+    {
+      "@id": "#mfx69y",
+      "name": "The particles found so far",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9qc9qr",
+      "name": "Quarks build protons and neutrons",
+      "x": -243,
+      "y": -303,
+      "parent": "#mfx69y"
+    },
+    {
+      "@id": "#s6quqe",
+      "name": "Leptons include electrons and neutrinos",
+      "x": -133,
+      "y": -360,
+      "parent": "#mfx69y"
+    },
+    {
+      "@id": "#ija5ab",
+      "name": "Force carriers like photons and gluons",
+      "x": 0,
+      "y": -408,
+      "parent": "#mfx69y"
+    },
+    {
+      "@id": "#6q9qum",
+      "name": "Higgs boson confirmed in 2012",
+      "x": 175,
+      "y": -465,
+      "link": "https://en.wikipedia.org/wiki/Higgs_boson",
+      "parent": "#mfx69y"
+    },
+    {
+      "@id": "#6yz2ya",
+      "name": "Every particle has an antimatter partner",
+      "x": 243,
+      "y": -303,
+      "parent": "#mfx69y"
+    },
+    {
+      "@id": "#pqwhj5",
+      "name": "How physicists find them",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8i374i",
+      "name": "Particle accelerators smash beams together",
+      "x": 340,
+      "y": -236,
+      "link": "https://en.wikipedia.org/wiki/Particle_accelerator",
+      "parent": "#pqwhj5"
+    },
+    {
+      "@id": "#ye3svb",
+      "name": "Large Hadron Collider: 27 km ring",
+      "x": 409,
+      "y": -150,
+      "link": "https://en.wikipedia.org/wiki/Large_Hadron_Collider",
+      "parent": "#pqwhj5"
+    },
+    {
+      "@id": "#cu82g6",
+      "name": "Detectors track debris from collisions",
+      "x": 565,
+      "y": -63,
+      "parent": "#pqwhj5"
+    },
+    {
+      "@id": "#fhg9c3",
+      "name": "Cosmic rays brought early discoveries",
+      "x": 445,
+      "y": 51,
+      "parent": "#pqwhj5"
+    },
+    {
+      "@id": "#qwbf2s",
+      "name": "Key moments",
+      "x": 151,
+      "y": 139,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y9ygat",
+      "name": "Electron discovered, 1897",
+      "x": 409,
+      "y": 150,
+      "parent": "#qwbf2s"
+    },
+    {
+      "@id": "#pb3esq",
+      "name": "Positron, the first antiparticle, 1932",
+      "x": 340,
+      "y": 236,
+      "parent": "#qwbf2s"
+    },
+    {
+      "@id": "#vx3xry",
+      "name": "Quark model proposed, 1964",
+      "x": 243,
+      "y": 303,
+      "parent": "#qwbf2s"
+    },
+    {
+      "@id": "#dq8sps",
+      "name": "Standard Model assembled in the 1970s",
+      "x": 133,
+      "y": 360,
+      "link": "https://en.wikipedia.org/wiki/Standard_Model",
+      "parent": "#qwbf2s"
+    },
+    {
+      "@id": "#n6yhc8",
+      "name": "Open questions",
+      "x": -96,
+      "y": 167,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rj5qc3",
+      "name": "What is dark matter?",
+      "x": 0,
+      "y": 408,
+      "link": "https://en.wikipedia.org/wiki/Dark_matter",
+      "parent": "#n6yhc8"
+    },
+    {
+      "@id": "#ckijek",
+      "name": "Why matter outnumbers antimatter",
+      "x": -175,
+      "y": 465,
+      "parent": "#n6yhc8"
+    },
+    {
+      "@id": "#9qps6g",
+      "name": "Why neutrinos have tiny masses",
+      "x": -243,
+      "y": 303,
+      "parent": "#n6yhc8"
+    },
+    {
+      "@id": "#97nx7u",
+      "name": "How gravity fits in",
+      "x": -340,
+      "y": 236,
+      "parent": "#n6yhc8"
+    },
+    {
+      "@id": "#p4hcmd",
+      "name": "Spin-offs in daily life",
+      "x": -221,
+      "y": 52,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#42zvfm",
+      "name": "The World Wide Web, born at CERN",
+      "x": -409,
+      "y": 150,
+      "parent": "#p4hcmd"
+    },
+    {
+      "@id": "#yad6g8",
+      "name": "PET scans and cancer proton therapy",
+      "x": -545,
+      "y": 61,
+      "parent": "#p4hcmd"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

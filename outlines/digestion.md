@@ -1,0 +1,28 @@
+category: Science
+aliases: digestive system, how digestion works, human digestion
+- Digestion
+  - Mouth and oesophagus
+    - Teeth chew food into small pieces
+    - [Saliva amylase starts digesting starch](https://en.wikipedia.org/wiki/Amylase)
+    - [Peristalsis squeezes food to the stomach](https://en.wikipedia.org/wiki/Peristalsis)
+  - Stomach
+    - Acid kills microbes and unfolds proteins
+    - Pepsin begins protein digestion
+    - Churns food into chyme for hours
+  - Small intestine
+    - [Bile from the liver emulsifies fat](https://en.wikipedia.org/wiki/Bile)
+    - Pancreatic enzymes digest all nutrient types
+    - [Villi absorb nutrients into the blood](https://en.wikipedia.org/wiki/Intestinal_villus)
+    - Most nutrient absorption happens here
+  - Large intestine
+    - Absorbs water and salts
+    - [Gut bacteria ferment fibre](https://en.wikipedia.org/wiki/Gut_microbiota)
+    - Waste stored and passed as faeces
+  - What gets broken down
+    - Carbohydrates into simple sugars
+    - Proteins into amino acids
+    - Fats into fatty acids and glycerol
+  - Keeping it healthy
+    - Fibre, fluids and regular activity help
+    - Full transit takes about 1–3 days
+    - See a doctor about blood or changes

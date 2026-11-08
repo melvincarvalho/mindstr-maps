@@ -1,0 +1,27 @@
+category: Science
+aliases: soil erosion, weathering and erosion, coastal erosion, what causes erosion
+- Erosion
+  - What it is
+    - Rock and soil carried away
+    - [Weathering breaks rock down first](https://en.wikipedia.org/wiki/Weathering)
+    - Deposition drops material elsewhere
+  - What moves it
+    - Rivers cut valleys and carry silt
+    - [Glaciers carve U-shaped valleys](https://en.wikipedia.org/wiki/U-shaped_valley)
+    - Waves wear back coastlines
+    - Wind sandblasts rock, shifts dunes
+    - Gravity: landslides and rockfalls
+  - Landforms it creates
+    - [Grand Canyon, cut by Colorado River](https://en.wikipedia.org/wiki/Grand_Canyon)
+    - Sea cliffs, arches and stacks
+    - Deltas built from deposited sediment
+  - Human impact
+    - Clearing forests exposes bare soil
+    - Overgrazing and ploughing speed losses
+    - [1930s Dust Bowl on US plains](https://en.wikipedia.org/wiki/Dust_Bowl)
+    - Sediment clogs rivers and reservoirs
+  - Slowing it down
+    - Plant roots hold soil in place
+    - [Contour ploughing and terraces](https://en.wikipedia.org/wiki/Contour_plowing)
+    - Cover crops between harvests
+    - Sea walls and groynes on coasts

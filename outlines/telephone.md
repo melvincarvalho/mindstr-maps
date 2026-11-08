@@ -1,0 +1,28 @@
+category: Technology
+aliases: landline, landline phone, history of the telephone, invention of the telephone
+- Telephone
+  - How it works
+    - Microphone turns voice into electric signals
+    - Signal travels the line via exchanges
+    - Earpiece turns it back into sound
+  - Invention
+    - [Alexander Graham Bell's patent, 1876](https://en.wikipedia.org/wiki/Alexander_Graham_Bell)
+    - Meucci and Gray had rival claims
+    - First words: "Mr. Watson, come here"
+  - Exchanges and switching
+    - Operators connected calls by hand
+    - [Automatic exchanges from the 1890s](https://en.wikipedia.org/wiki/Telephone_exchange)
+    - Phone numbers route each call
+    - Digital switching from the 1970s
+  - The phone at home
+    - Rotary dials, then touch-tone keypads
+    - Cordless handsets and answering machines
+    - [Emergency numbers like 999 and 911](https://en.wikipedia.org/wiki/Emergency_telephone_number)
+  - Going long distance
+    - First US coast-to-coast call, 1915
+    - [First transatlantic phone cable, 1956](https://en.wikipedia.org/wiki/TAT-1)
+    - Satellites and fibre carry calls worldwide
+  - The phone today
+    - Mobile phones overtook landlines
+    - Internet calls use VoIP
+    - Fewer homes keep a landline

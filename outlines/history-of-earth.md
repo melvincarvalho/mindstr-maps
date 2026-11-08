@@ -1,0 +1,30 @@
+category: Science
+aliases: earth's history, geologic history of earth, formation of earth, age of the earth
+- History of Earth
+  - Formation
+    - About 4.54 billion years ago
+    - Built from dust around young Sun
+    - [Giant impact likely formed the Moon](https://en.wikipedia.org/wiki/Giant-impact_hypothesis)
+    - Molten surface cooled into crust
+  - Early Earth
+    - Oceans formed from water vapour
+    - First life about 3.7+ billion years ago
+    - [Microbes add oxygen to air](https://en.wikipedia.org/wiki/Great_Oxidation_Event)
+    - Possible "Snowball Earth" ice ages
+  - Life gets complex
+    - Complex cells about 2 billion years ago
+    - [Cambrian explosion about 540 million years ago](https://en.wikipedia.org/wiki/Cambrian_explosion)
+    - Plants and animals move onto land
+  - Age of dinosaurs
+    - Supercontinent Pangaea breaks apart
+    - Dinosaurs dominate for about 165 million years
+    - [Asteroid ends them 66 million years ago](https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event)
+  - Age of mammals
+    - Mammals and birds diversify
+    - Ice ages over last 2.6 million years
+    - Modern humans about 300,000 years ago
+  - How we know
+    - Radiometric dating of rocks
+    - Fossils record past life
+    - [Geologic time scale divides history](https://en.wikipedia.org/wiki/Geologic_time_scale)
+    - Five major mass extinctions

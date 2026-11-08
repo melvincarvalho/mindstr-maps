@@ -1,0 +1,30 @@
+category: Life and home
+aliases: corn crop, sweetcorn, corn plant, zea mays
+- Maize
+  - The plant
+    - A tall grass, Zea mays
+    - Kernels grow in rows on cobs
+    - Male tassel on top, female silks below
+  - Origins
+    - [Bred from teosinte in Mexico](https://en.wikipedia.org/wiki/Teosinte)
+    - Domesticated about 9,000 years ago
+    - Staple of the Maya and Aztecs
+    - Spread worldwide after 1492
+  - Kinds of maize
+    - Dent corn for feed and industry
+    - [Sweetcorn eaten fresh as a vegetable](https://en.wikipedia.org/wiki/Sweet_corn)
+    - Popcorn kernels burst when heated
+    - Flint corn with a hard shell
+  - How it is used
+    - Most goes to animal feed
+    - Ethanol fuel, especially in the US
+    - Cornflour, corn syrup and oil
+    - [Tortillas from nixtamalised maize](https://en.wikipedia.org/wiki/Nixtamalization)
+  - Global crop
+    - Most produced grain by weight
+    - US is the largest producer
+    - China and Brazil also grow vast amounts
+    - Staple food across much of Africa
+  - Nutrition notes
+    - Rich in starch, low in lysine
+    - [Maize-only diets risked pellagra](https://en.wikipedia.org/wiki/Pellagra)

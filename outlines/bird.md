@@ -1,0 +1,31 @@
+category: Science
+aliases: birds, avian biology, bird species
+- Bird
+  - What makes a bird
+    - Feathers, found on no other living animal
+    - Toothless beak and hard-shelled eggs
+    - Warm-blooded with a four-chambered heart
+    - About 11,000 living species
+  - Built for flight
+    - Hollow, lightweight bones
+    - Wings are modified front limbs
+    - Air sacs give very efficient breathing
+    - Some cannot fly, like ostriches and penguins
+  - Behaviour
+    - Songs and calls to mark territory
+    - Courtship displays to win mates
+    - [Billions migrate between seasons](https://en.wikipedia.org/wiki/Bird_migration)
+    - Nest building and shared chick-rearing
+  - Origins
+    - [Birds are living dinosaurs](https://en.wikipedia.org/wiki/Origin_of_birds)
+    - [Archaeopteryx, about 150 million years old](https://en.wikipedia.org/wiki/Archaeopteryx)
+    - Only beaked dinosaurs survived the asteroid
+  - Birds and humans
+    - Chickens, ducks and geese domesticated for food
+    - Pigeons carried messages; falcons hunted
+    - Parrots and canaries kept as pets
+    - [Birdwatching is a popular hobby](https://en.wikipedia.org/wiki/Birdwatching)
+  - Threats
+    - Habitat loss is the biggest threat
+    - Cats, collisions and pesticides kill billions
+    - Dodo and passenger pigeon driven extinct

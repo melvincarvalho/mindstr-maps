@@ -1,0 +1,31 @@
+category: Health
+aliases: diseases, illness, what is a disease, types of disease
+- Disease
+  - What a disease is
+    - Abnormal state harming body or mind
+    - Has recognisable signs and symptoms
+    - Acute is short, chronic is long-lasting
+  - Main types
+    - [Infectious: spread by pathogens](https://en.wikipedia.org/wiki/Infection)
+    - [Non-communicable: heart disease, cancer, diabetes](https://en.wikipedia.org/wiki/Non-communicable_disease)
+    - Genetic: inherited, like cystic fibrosis
+    - Autoimmune: body attacks its own tissue
+    - Mental disorders affect mood and thinking
+  - Causes and risk factors
+    - Bacteria, viruses, fungi and parasites
+    - Smoking, alcohol, poor diet, inactivity
+    - Genes and family history
+    - Pollution and unsafe water
+    - Age raises most risks
+  - Diagnosis and treatment
+    - History, examination and tests
+    - Medicines such as antibiotics and antivirals
+    - Surgery, therapy and lifestyle change
+  - Prevention
+    - [Vaccines train the immune system](https://en.wikipedia.org/wiki/Vaccine)
+    - Handwashing, clean water and sanitation
+    - Screening catches disease early
+  - The global picture
+    - Heart disease is the leading killer
+    - [Epidemiology tracks spread and causes](https://en.wikipedia.org/wiki/Epidemiology)
+    - Pandemics like COVID-19 spread worldwide

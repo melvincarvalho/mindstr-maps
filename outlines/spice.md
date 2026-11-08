@@ -1,0 +1,28 @@
+category: Life and home
+aliases: spices, culinary spices, herbs and spices, spice guide
+- Spice
+  - What counts as a spice
+    - Dried seeds, bark, roots, fruit, buds
+    - Herbs are the leafy parts instead
+    - Strong flavour from aromatic oils
+  - Common spices and their sources
+    - [Black pepper: dried vine berries](https://en.wikipedia.org/wiki/Black_pepper)
+    - Cinnamon: inner bark of a tree
+    - Cloves: dried unopened flower buds
+    - Cumin and coriander: dried seeds
+    - Turmeric and ginger: underground rhizomes
+    - [Saffron: crocus stigmas, priciest by weight](https://en.wikipedia.org/wiki/Saffron)
+  - A history of trade
+    - [Spice trade linked Asia and Europe](https://en.wikipedia.org/wiki/Spice_trade)
+    - Maluku Islands, the original Spice Islands
+    - Search for routes drove European voyages
+    - Dutch and English East India companies
+  - Cooking with spices
+    - Toast whole seeds to release aroma
+    - Bloom ground spices in hot oil
+    - Blends like garam masala, curry powder
+    - [Chilli heat comes from capsaicin](https://en.wikipedia.org/wiki/Capsaicin)
+  - Buying and storing
+    - Whole spices keep longer than ground
+    - Store airtight, cool and dark
+    - Ground spices fade within about a year

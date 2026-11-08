@@ -1,0 +1,30 @@
+category: Mathematics
+aliases: infinite series, sum of a series, convergent series
+- Series (mathematics)
+  - What a series is
+    - Adding the terms of a sequence
+    - Infinitely many terms, one total
+    - Partial sums approach the answer
+  - Converging examples
+    - [Halving forever: ½+¼+⅛… sums to 1](https://en.wikipedia.org/wiki/Geometric_series)
+    - 0.999… is a series equal to 1
+    - Reciprocal squares sum to π²/6
+  - Diverging examples
+    - [Harmonic series grows without bound, slowly](https://en.wikipedia.org/wiki/Harmonic_series_%28mathematics%29)
+    - Grandi's 1−1+1−1… never settles
+    - Divergent sums can still be useful
+  - Tests for convergence
+    - Terms must shrink towards zero
+    - Shrinking terms are not enough
+    - Ratio test compares successive terms
+    - Compare with a known series
+  - Famous series
+    - [Taylor series turn functions into polynomials](https://en.wikipedia.org/wiki/Taylor_series)
+    - [Fourier series build waves from sines](https://en.wikipedia.org/wiki/Fourier_series)
+    - Leibniz's alternating series gives π/4
+    - e is the sum of 1/n!
+  - History
+    - Zeno's paradox hides a series
+    - Madhava found series for π, about 1400
+    - Euler solved the Basel problem, 1734
+    - Cauchy made convergence rigorous

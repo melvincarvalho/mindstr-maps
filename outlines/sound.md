@@ -1,0 +1,29 @@
+category: Science
+aliases: sound waves, acoustics, how sound works
+- Sound
+  - What sound is
+    - Vibrations passing through a medium
+    - [Longitudinal pressure waves](https://en.wikipedia.org/wiki/Longitudinal_wave)
+    - Cannot travel through a vacuum
+  - Speed of sound
+    - About 343 m/s in air
+    - Faster in water and solids
+    - Breaking it causes a sonic boom
+  - Properties of a sound
+    - Frequency sets pitch, in hertz
+    - Amplitude sets loudness
+    - [Loudness measured in decibels](https://en.wikipedia.org/wiki/Decibel)
+    - Timbre makes instruments sound different
+  - How we hear
+    - Humans hear roughly 20 Hz–20 kHz
+    - Eardrum and tiny bones pass vibrations
+    - [Cochlea turns vibration into nerve signals](https://en.wikipedia.org/wiki/Cochlea)
+    - Loud noise can damage hearing permanently
+  - Sound behaviour
+    - Echoes are reflected sound
+    - [Doppler effect shifts moving sources' pitch](https://en.wikipedia.org/wiki/Doppler_effect)
+    - Resonance amplifies matching frequencies
+  - Using sound
+    - [Ultrasound images the body](https://en.wikipedia.org/wiki/Medical_ultrasound)
+    - Sonar and echolocation find objects
+    - Music, speech and recording

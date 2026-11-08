@@ -1,0 +1,29 @@
+category: Science
+aliases: mineral identification, rock minerals, mineral crystals, what is a mineral
+- Mineral
+  - What counts as a mineral
+    - Naturally formed, inorganic solid
+    - Definite chemical makeup
+    - [Atoms arranged in an ordered crystal](https://en.wikipedia.org/wiki/Crystal)
+    - About 6,000 known species
+  - Common minerals
+    - [Quartz: silicon and oxygen](https://en.wikipedia.org/wiki/Quartz)
+    - Feldspars: most abundant in the crust
+    - Calcite forms limestone and marble
+    - Mica splits into thin sheets
+  - Identifying minerals
+    - [Hardness on the Mohs scale](https://en.wikipedia.org/wiki/Mohs_scale)
+    - Streak: colour of its powder
+    - Lustre: metallic, glassy or dull
+    - Cleavage: how it splits
+    - Colour alone can mislead
+  - How they form
+    - Crystallising from cooling magma
+    - Precipitating from evaporating water
+    - Recrystallising under heat and pressure
+  - Uses
+    - [Ores yield iron, copper, aluminium](https://en.wikipedia.org/wiki/Ore)
+    - Gemstones like diamond and ruby
+    - Gypsum for plaster and drywall
+    - Halite is table salt
+    - Lithium and cobalt for batteries

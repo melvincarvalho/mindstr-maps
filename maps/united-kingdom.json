@@ -1,0 +1,374 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "United Kingdom",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#adp3bw",
+      "name": "Geography",
+      "x": -202,
+      "y": -89,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z2dtmq",
+      "name": "England, Scotland, Wales and Northern Ireland",
+      "x": -506,
+      "y": -51,
+      "parent": "#adp3bw"
+    },
+    {
+      "@id": "#93bher",
+      "name": "Ben Nevis highest peak, 1,345 m",
+      "x": -437,
+      "y": -139,
+      "parent": "#adp3bw"
+    },
+    {
+      "@id": "#r5tfue",
+      "name": "River Severn is the longest",
+      "x": -364,
+      "y": -212,
+      "parent": "#adp3bw"
+    },
+    {
+      "@id": "#c5ffnu",
+      "name": "Mild, wet climate from the Atlantic",
+      "x": -287,
+      "y": -277,
+      "parent": "#adp3bw"
+    },
+    {
+      "@id": "#bqtnjv",
+      "name": "People and languages",
+      "x": -43,
+      "y": -181,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#s9frnm",
+      "name": "About 69 million people",
+      "x": -192,
+      "y": -326,
+      "parent": "#bqtnjv"
+    },
+    {
+      "@id": "#phupew",
+      "name": "London largest city, about 9 million",
+      "x": -92,
+      "y": -386,
+      "parent": "#bqtnjv"
+    },
+    {
+      "@id": "#thtj97",
+      "name": "English, plus Welsh, Gaelic and Irish",
+      "x": 33,
+      "y": -439,
+      "parent": "#bqtnjv"
+    },
+    {
+      "@id": "#uhqphv",
+      "name": "History",
+      "x": 186,
+      "y": -108,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9wy2gm",
+      "name": "Celtic Britons, then Romans from AD 43",
+      "x": 199,
+      "y": -492,
+      "parent": "#uhqphv"
+    },
+    {
+      "@id": "#b2az2v",
+      "name": "Norman Conquest of England in 1066",
+      "x": 241,
+      "y": -304,
+      "link": "https://en.wikipedia.org/wiki/Norman_Conquest",
+      "parent": "#uhqphv"
+    },
+    {
+      "@id": "#w5h86g",
+      "name": "Acts of Union create Great Britain, 1707",
+      "x": 328,
+      "y": -246,
+      "link": "https://en.wikipedia.org/wiki/Acts_of_Union_1707",
+      "parent": "#uhqphv"
+    },
+    {
+      "@id": "#6im6jp",
+      "name": "Industrial Revolution began here",
+      "x": 394,
+      "y": -173,
+      "link": "https://en.wikipedia.org/wiki/Industrial_Revolution",
+      "parent": "#uhqphv"
+    },
+    {
+      "@id": "#usstwv",
+      "name": "Empire once covered a quarter of world",
+      "x": 455,
+      "y": -94,
+      "link": "https://en.wikipedia.org/wiki/British_Empire",
+      "parent": "#uhqphv"
+    },
+    {
+      "@id": "#h42gkf",
+      "name": "European Union member 1973 to 2020",
+      "x": 450,
+      "y": 0,
+      "parent": "#uhqphv"
+    },
+    {
+      "@id": "#wpei2q",
+      "name": "Government",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#575grh",
+      "name": "Constitutional monarchy under King Charles III",
+      "x": 493,
+      "y": 102,
+      "parent": "#wpei2q"
+    },
+    {
+      "@id": "#x22paa",
+      "name": "Parliament: House of Commons and Lords",
+      "x": 394,
+      "y": 173,
+      "parent": "#wpei2q"
+    },
+    {
+      "@id": "#brn7rr",
+      "name": "Prime Minister leads the government",
+      "x": 328,
+      "y": 246,
+      "parent": "#wpei2q"
+    },
+    {
+      "@id": "#uyuy7c",
+      "name": "Devolved governments in Scotland, Wales, Northern Ireland",
+      "x": 241,
+      "y": 304,
+      "parent": "#wpei2q"
+    },
+    {
+      "@id": "#2nu93n",
+      "name": "Economy",
+      "x": -14,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uwki9c",
+      "name": "Among the ten largest world economies",
+      "x": 145,
+      "y": 357,
+      "parent": "#2nu93n"
+    },
+    {
+      "@id": "#xsdqzn",
+      "name": "Services make up about 80% of output",
+      "x": 31,
+      "y": 407,
+      "parent": "#2nu93n"
+    },
+    {
+      "@id": "#3pykuj",
+      "name": "London is a global finance centre",
+      "x": -112,
+      "y": 466,
+      "parent": "#2nu93n"
+    },
+    {
+      "@id": "#sxarry",
+      "name": "Currency is the pound sterling",
+      "x": -210,
+      "y": 354,
+      "parent": "#2nu93n"
+    },
+    {
+      "@id": "#f2fp9m",
+      "name": "Culture",
+      "x": -202,
+      "y": 89,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gkczpf",
+      "name": "Shakespeare and a rich literary tradition",
+      "x": -287,
+      "y": 277,
+      "parent": "#f2fp9m"
+    },
+    {
+      "@id": "#e68i54",
+      "name": "Football, cricket and rugby codified here",
+      "x": -364,
+      "y": 212,
+      "parent": "#f2fp9m"
+    },
+    {
+      "@id": "#bpnsd2",
+      "name": "Pop music from the Beatles onward",
+      "x": -437,
+      "y": 139,
+      "parent": "#f2fp9m"
+    },
+    {
+      "@id": "#7vwm9n",
+      "name": "BBC public broadcaster since 1922",
+      "x": -446,
+      "y": 45,
+      "parent": "#f2fp9m"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 10,
+      "end": 15
+    },
+    {
+      "start": 10,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    },
+    {
+      "start": 0,
+      "end": 27
+    },
+    {
+      "start": 27,
+      "end": 28
+    },
+    {
+      "start": 27,
+      "end": 29
+    },
+    {
+      "start": 27,
+      "end": 30
+    },
+    {
+      "start": 27,
+      "end": 31
+    }
+  ],
+  "selectedNode": 0
+}

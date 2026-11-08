@@ -1,0 +1,29 @@
+category: Society
+aliases: national constitution, constitutional law basics, what is a constitution
+- Constitution
+  - What it is
+    - A state's highest set of rules
+    - Creates and limits government powers
+    - Other laws must comply with it
+  - Typical contents
+    - Structure of government institutions
+    - [Separation of powers between branches](https://en.wikipedia.org/wiki/Separation_of_powers)
+    - Bill of rights for citizens
+    - How elections and leaders work
+    - Federal or unitary division of power
+  - Written or unwritten
+    - Most countries have one codified document
+    - UK, New Zealand: uncodified constitutions
+    - Conventions and court rulings also count
+  - Changing it
+    - Amendment usually needs supermajorities
+    - Some require a referendum
+    - [US Constitution has 27 amendments](https://en.wikipedia.org/wiki/List_of_amendments_to_the_United_States_Constitution)
+  - Enforcing it
+    - [Judicial review strikes down unconstitutional laws](https://en.wikipedia.org/wiki/Judicial_review)
+    - Constitutional or supreme courts decide
+    - Strength varies widely between countries
+  - Landmarks
+    - [Magna Carta, England, 1215](https://en.wikipedia.org/wiki/Magna_Carta)
+    - US Constitution of 1787, oldest in use
+    - India's is the longest written

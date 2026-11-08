@@ -1,0 +1,32 @@
+category: Arts and culture
+aliases: dancing, dance styles, types of dance
+- Dance
+  - Why people dance
+    - Ritual and religious worship
+    - Celebration and social bonding
+    - Courtship and entertainment
+    - Artistic expression on stage
+  - Elements of dance
+    - Body, action, space, time, energy
+    - Rhythm follows music or beat
+    - [Choreography designs the movement](https://en.wikipedia.org/wiki/Choreography)
+  - Theatrical styles
+    - [Ballet from Renaissance courts](https://en.wikipedia.org/wiki/Ballet)
+    - Modern and contemporary dance
+    - Jazz and tap dance
+    - Bharatanatyam and Indian classical dance
+  - Social and folk styles
+    - Waltz, tango and ballroom
+    - Salsa and Latin dances
+    - Folk and ceilidh dances
+  - Street and club styles
+    - [Breaking from 1970s Bronx hip hop](https://en.wikipedia.org/wiki/Breakdancing)
+    - Popping, locking and krumping
+    - TikTok and viral dance trends
+  - Landmark figures
+    - Isadora Duncan pioneered modern dance
+    - Martha Graham's technique
+    - Fred Astaire and Gene Kelly on film
+  - Benefits
+    - Builds fitness, balance and flexibility
+    - Lifts mood and reduces stress

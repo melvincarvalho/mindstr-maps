@@ -1,0 +1,31 @@
+category: Mathematics
+aliases: real analysis, analysis in mathematics, rigorous calculus
+- Mathematical analysis
+  - What analysis studies
+    - Limits, continuity and change made rigorous
+    - Calculus with careful proofs
+    - Infinite processes handled safely
+  - [Real numbers](https://en.wikipedia.org/wiki/Real_number)
+    - Completeness: no gaps on the line
+    - Fractions alone leave holes, like √2
+    - Sequences of fractions fill the holes
+  - Core ideas
+    - Epsilon-delta: as close as you like
+    - Sequences and convergence
+    - Continuous functions have no jumps
+    - Derivatives and integrals defined precisely
+  - Branches
+    - Real analysis: functions of real numbers
+    - [Complex analysis: functions of complex numbers](https://en.wikipedia.org/wiki/Complex_analysis)
+    - Functional analysis: spaces of functions
+    - [Measure theory generalises length and area](https://en.wikipedia.org/wiki/Measure_%28mathematics%29)
+    - [Fourier analysis splits signals into waves](https://en.wikipedia.org/wiki/Fourier_analysis)
+  - History
+    - Cauchy put calculus on firm ground, 1820s
+    - Weierstrass formalised epsilon-delta limits
+    - Strange functions demanded more rigour
+    - Lebesgue's new integral, 1902
+  - Uses
+    - Differential equations model physics
+    - Probability theory rests on measure theory
+    - Signal processing and data compression

@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Central America",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#gwx8hy",
+      "name": "Geography",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b58cex",
+      "name": "Isthmus joining North and South America",
+      "x": -445,
+      "y": -51,
+      "parent": "#gwx8hy"
+    },
+    {
+      "@id": "#gfpaag",
+      "name": "Seven countries from Guatemala to Panama",
+      "x": -409,
+      "y": -150,
+      "parent": "#gwx8hy"
+    },
+    {
+      "@id": "#ddb4vi",
+      "name": "Volcanic mountain spine along the Pacific",
+      "x": -340,
+      "y": -236,
+      "parent": "#gwx8hy"
+    },
+    {
+      "@id": "#ar26kk",
+      "name": "Panama Canal links two oceans",
+      "x": -243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Panama_Canal",
+      "parent": "#gwx8hy"
+    },
+    {
+      "@id": "#znss53",
+      "name": "Climate and nature",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5qift8",
+      "name": "Tropical, with wet and dry seasons",
+      "x": -133,
+      "y": -360,
+      "parent": "#znss53"
+    },
+    {
+      "@id": "#asy3fa",
+      "name": "Rainforests and cloud forests",
+      "x": 0,
+      "y": -408,
+      "parent": "#znss53"
+    },
+    {
+      "@id": "#9zyhri",
+      "name": "Biodiversity hotspot bridging two continents",
+      "x": 175,
+      "y": -465,
+      "parent": "#znss53"
+    },
+    {
+      "@id": "#4adsyu",
+      "name": "Earthquakes, volcanoes and hurricanes",
+      "x": 243,
+      "y": -303,
+      "parent": "#znss53"
+    },
+    {
+      "@id": "#shf23k",
+      "name": "People and languages",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gckxmm",
+      "name": "About 50 million people",
+      "x": 340,
+      "y": -236,
+      "parent": "#shf23k"
+    },
+    {
+      "@id": "#mft95p",
+      "name": "Spanish is the main language",
+      "x": 409,
+      "y": -150,
+      "parent": "#shf23k"
+    },
+    {
+      "@id": "#3r4eg5",
+      "name": "Mayan languages spoken in Guatemala",
+      "x": 525,
+      "y": -59,
+      "parent": "#shf23k"
+    },
+    {
+      "@id": "#5z3c2d",
+      "name": "English in Belize",
+      "x": 445,
+      "y": 51,
+      "parent": "#shf23k"
+    },
+    {
+      "@id": "#nzfmv7",
+      "name": "History in brief",
+      "x": 151,
+      "y": 139,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9xpv8b",
+      "name": "Maya civilisation peaked about 250–900 CE",
+      "x": 481,
+      "y": 178,
+      "link": "https://en.wikipedia.org/wiki/Maya_civilization",
+      "parent": "#nzfmv7"
+    },
+    {
+      "@id": "#jyw34d",
+      "name": "Spanish conquest in the 1500s",
+      "x": 340,
+      "y": 236,
+      "parent": "#nzfmv7"
+    },
+    {
+      "@id": "#bnewzj",
+      "name": "Independence from Spain in 1821",
+      "x": 243,
+      "y": 303,
+      "parent": "#nzfmv7"
+    },
+    {
+      "@id": "#q5k4dg",
+      "name": "Civil wars in the 1970s–90s",
+      "x": 133,
+      "y": 360,
+      "link": "https://en.wikipedia.org/wiki/Central_American_crisis",
+      "parent": "#nzfmv7"
+    },
+    {
+      "@id": "#bmc4jc",
+      "name": "Economy and challenges",
+      "x": -96,
+      "y": 167,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xmkdp2",
+      "name": "Coffee, bananas and textiles exported",
+      "x": 0,
+      "y": 408,
+      "parent": "#bmc4jc"
+    },
+    {
+      "@id": "#aivjwc",
+      "name": "Tourism and canal revenue",
+      "x": -175,
+      "y": 465,
+      "parent": "#bmc4jc"
+    },
+    {
+      "@id": "#hva8qd",
+      "name": "Remittances from emigrants matter",
+      "x": -243,
+      "y": 303,
+      "parent": "#bmc4jc"
+    },
+    {
+      "@id": "#3435t4",
+      "name": "Poverty and gang violence in places",
+      "x": -340,
+      "y": 236,
+      "parent": "#bmc4jc"
+    },
+    {
+      "@id": "#yvi5eb",
+      "name": "Regional ties",
+      "x": -221,
+      "y": 52,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2j8nbr",
+      "name": "SICA integration system",
+      "x": -409,
+      "y": 150,
+      "link": "https://en.wikipedia.org/wiki/Central_American_Integration_System",
+      "parent": "#yvi5eb"
+    },
+    {
+      "@id": "#u9jkf5",
+      "name": "CAFTA-DR trade deal with US",
+      "x": -465,
+      "y": 53,
+      "parent": "#yvi5eb"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

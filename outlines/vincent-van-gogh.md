@@ -1,0 +1,32 @@
+category: People
+aliases: van gogh, vincent van gogh paintings, van gogh artist
+- Vincent van Gogh
+  - Who he was
+    - Dutch painter, born 1853 in Zundert
+    - Died 1890 in France, aged 37
+    - Painted for only about ten years
+  - Before painting
+    - Worked for art dealers Goupil & Cie
+    - Tried teaching and preaching to miners
+    - Took up art seriously in 1880
+  - Stages of his art
+    - Dark Dutch period, peasants and labourers
+      - [The Potato Eaters, 1885](https://en.wikipedia.org/wiki/The_Potato_Eaters)
+    - Paris 1886–88: brighter colour, Impressionist influence
+    - Arles 1888: sunflowers and yellow house
+    - Saint-Rémy asylum 1889: swirling skies
+      - [The Starry Night, 1889](https://en.wikipedia.org/wiki/The_Starry_Night)
+  - Struggles
+    - Severe mental illness, cause still debated
+    - Cut off part of his ear, 1888
+    - Quarrel with Paul Gauguin in Arles
+    - Died from a gunshot wound, Auvers-sur-Oise
+  - [Brother Theo supported him](https://en.wikipedia.org/wiki/Theo_van_Gogh_%28art_dealer%29)
+    - Sent money throughout his career
+    - Hundreds of surviving letters between them
+    - Theo's widow Jo promoted his work
+  - Legacy
+    - About 2,100 artworks, 860 oil paintings
+    - Sold very little in his lifetime
+    - [Pioneer of Post-Impressionism and Expressionism](https://en.wikipedia.org/wiki/Post-Impressionism)
+    - Van Gogh Museum, Amsterdam, opened 1973

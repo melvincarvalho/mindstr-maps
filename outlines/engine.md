@@ -1,0 +1,30 @@
+category: Technology
+aliases: what is an engine, how an engine works, types of engine
+- Engine
+  - What an engine does
+    - Turns energy into motion
+    - Most burn fuel to make heat
+    - Hot gas expands and pushes
+  - [Heat engines](https://en.wikipedia.org/wiki/Heat_engine)
+    - External combustion: steam engines
+    - Internal combustion: petrol and diesel
+    - [Gas turbines and jet engines](https://en.wikipedia.org/wiki/Jet_engine)
+    - Rockets carry their own oxygen
+  - Other kinds
+    - Electric motors use electricity, not fuel
+    - Hydraulic motors run on pressurised fluid
+    - Clockwork stores energy in springs
+  - Key history
+    - [Newcomen's steam engine pumped mines, 1712](https://en.wikipedia.org/wiki/Thomas_Newcomen)
+    - Watt's separate condenser, 1769
+    - Otto's four-stroke engine, 1876
+    - Rudolf Diesel's engine, 1890s
+    - First jet-powered flight, 1939
+  - Efficiency and limits
+    - [Hotter heat source allows higher efficiency](https://en.wikipedia.org/wiki/Thermal_efficiency)
+    - Car engines waste most fuel as heat
+    - Big ship diesels reach about 50%
+  - Impacts
+    - Powered factories, trains and flight
+    - Exhaust causes air pollution
+    - Burning fuel emits carbon dioxide

@@ -1,0 +1,31 @@
+category: Health
+aliases: STI, STD, sexually transmitted disease, venereal disease, sexual health testing
+- Sexually transmitted infection
+  - What they are
+    - Infections passed during sexual contact
+    - Vaginal, anal and oral sex
+    - Often cause no symptoms at all
+  - Common infections
+    - [Chlamydia: most common bacterial STI](https://en.wikipedia.org/wiki/Chlamydia)
+    - Gonorrhoea, increasingly drug-resistant
+    - Syphilis: painless sore, then rash
+    - [HPV can cause cervical cancer](https://en.wikipedia.org/wiki/Human_papillomavirus_infection)
+    - Genital herpes causes recurring blisters
+    - HIV attacks the immune system
+  - Possible signs
+    - Unusual discharge
+    - Pain when urinating
+    - Sores, lumps, rashes or itching
+  - Testing
+    - Urine tests, swabs and blood tests
+    - Regular checks with new partners
+    - Confidential sexual health clinics
+    - Telling partners so they can test
+  - Treatment
+    - Antibiotics cure chlamydia, gonorrhoea, syphilis
+    - Antivirals control herpes and HIV
+    - Untreated, some cause infertility
+  - Prevention
+    - [Condoms greatly reduce risk](https://en.wikipedia.org/wiki/Condom)
+    - HPV and hepatitis B vaccines
+    - [PrEP prevents HIV](https://en.wikipedia.org/wiki/Pre-exposure_prophylaxis)

@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Management",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ck9esu",
+      "name": "Getting things done through people",
+      "x": -220,
+      "y": -54,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cfs9td",
+      "name": "Coordinates people, money and time",
+      "x": -585,
+      "y": -68,
+      "parent": "#ck9esu"
+    },
+    {
+      "@id": "#u4yyzv",
+      "name": "Aims to meet an organisation's goals",
+      "x": -405,
+      "y": -156,
+      "parent": "#ck9esu"
+    },
+    {
+      "@id": "#g2bd7v",
+      "name": "Classic functions of management",
+      "x": -105,
+      "y": -216,
+      "link": "https://en.wikipedia.org/wiki/Henri_Fayol",
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pbmpq8",
+      "name": "Planning sets goals and how",
+      "x": -360,
+      "y": -267,
+      "parent": "#g2bd7v"
+    },
+    {
+      "@id": "#xketn7",
+      "name": "Organising divides and assigns work",
+      "x": -235,
+      "y": -326,
+      "parent": "#g2bd7v"
+    },
+    {
+      "@id": "#5j39kq",
+      "name": "Leading motivates and directs people",
+      "x": -108,
+      "y": -383,
+      "parent": "#g2bd7v"
+    },
+    {
+      "@id": "#i4d2tk",
+      "name": "Controlling checks results against plans",
+      "x": 44,
+      "y": -439,
+      "parent": "#g2bd7v"
+    },
+    {
+      "@id": "#ykq24d",
+      "name": "Levels of managers",
+      "x": 143,
+      "y": -144,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jkpik7",
+      "name": "Top: executives set strategy",
+      "x": 164,
+      "y": -335,
+      "parent": "#ykq24d"
+    },
+    {
+      "@id": "#dxvjpv",
+      "name": "Middle: turn strategy into plans",
+      "x": 281,
+      "y": -281,
+      "parent": "#ykq24d"
+    },
+    {
+      "@id": "#azsyhj",
+      "name": "Front-line: supervise day-to-day work",
+      "x": 372,
+      "y": -203,
+      "parent": "#ykq24d"
+    },
+    {
+      "@id": "#dmzfgw",
+      "name": "Key skills",
+      "x": 227,
+      "y": 27,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5yjpd6",
+      "name": "Making decisions with incomplete information",
+      "x": 487,
+      "y": -121,
+      "parent": "#dmzfgw"
+    },
+    {
+      "@id": "#y9awd2",
+      "name": "Clear communication and listening",
+      "x": 490,
+      "y": 0,
+      "parent": "#dmzfgw"
+    },
+    {
+      "@id": "#psi82k",
+      "name": "Delegating tasks and trusting others",
+      "x": 430,
+      "y": 106,
+      "parent": "#dmzfgw"
+    },
+    {
+      "@id": "#mthf4b",
+      "name": "Giving feedback and developing staff",
+      "x": 372,
+      "y": 203,
+      "parent": "#dmzfgw"
+    },
+    {
+      "@id": "#mmfbmp",
+      "name": "Big ideas over time",
+      "x": 51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3va26i",
+      "name": "Taylor's scientific management, about 1910",
+      "x": 281,
+      "y": 281,
+      "link": "https://en.wikipedia.org/wiki/Scientific_management",
+      "parent": "#mmfbmp"
+    },
+    {
+      "@id": "#j6pxds",
+      "name": "Human relations: people need recognition",
+      "x": 164,
+      "y": 335,
+      "parent": "#mmfbmp"
+    },
+    {
+      "@id": "#6ddehe",
+      "name": "Drucker's management by objectives",
+      "x": 38,
+      "y": 391,
+      "link": "https://en.wikipedia.org/wiki/Management_by_objectives",
+      "parent": "#mmfbmp"
+    },
+    {
+      "@id": "#yxzkje",
+      "name": "Lean and agile ways of working",
+      "x": -124,
+      "y": 447,
+      "parent": "#mmfbmp"
+    },
+    {
+      "@id": "#58smge",
+      "name": "Specialist areas",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j4mc96",
+      "name": "Operations and supply chains",
+      "x": -225,
+      "y": 312,
+      "parent": "#58smge"
+    },
+    {
+      "@id": "#dq55ke",
+      "name": "Human resource management",
+      "x": -330,
+      "y": 245,
+      "link": "https://en.wikipedia.org/wiki/Human_resource_management",
+      "parent": "#58smge"
+    },
+    {
+      "@id": "#925yht",
+      "name": "Project management delivers one-off goals",
+      "x": -405,
+      "y": 156,
+      "parent": "#58smge"
+    },
+    {
+      "@id": "#u77f44",
+      "name": "Financial management of budgets",
+      "x": -445,
+      "y": 54,
+      "parent": "#58smge"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 4,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

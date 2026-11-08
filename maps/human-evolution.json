@@ -1,0 +1,320 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Human evolution",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#rjz4cj",
+      "name": "Shared ancestry with apes",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kqms7c",
+      "name": "Chimp lineage diverged 6–7 million years ago",
+      "x": -564,
+      "y": -68,
+      "parent": "#rjz4cj"
+    },
+    {
+      "@id": "#cn43ih",
+      "name": "Hominins: species closer to us than chimps",
+      "x": -401,
+      "y": -163,
+      "link": "https://en.wikipedia.org/wiki/Hominini",
+      "parent": "#rjz4cj"
+    },
+    {
+      "@id": "#m77iqp",
+      "name": "Evidence from fossils, DNA and tools",
+      "x": -318,
+      "y": -255,
+      "parent": "#rjz4cj"
+    },
+    {
+      "@id": "#87am6m",
+      "name": "Early hominins",
+      "x": -36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ip69sa",
+      "name": "Sahelanthropus, about 7 million years ago",
+      "x": -204,
+      "y": -321,
+      "parent": "#87am6m"
+    },
+    {
+      "@id": "#2zfv7a",
+      "name": "Australopithecus walked upright, ~4–2 million years ago",
+      "x": -73,
+      "y": -372,
+      "link": "https://en.wikipedia.org/wiki/Australopithecus",
+      "parent": "#87am6m"
+    },
+    {
+      "@id": "#28c5au",
+      "name": "Lucy fossil: Ethiopia, 3.2 million years",
+      "x": 82,
+      "y": -420,
+      "parent": "#87am6m"
+    },
+    {
+      "@id": "#brs85m",
+      "name": "Genus Homo",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#74x3w3",
+      "name": "Homo habilis linked to early tools",
+      "x": 204,
+      "y": -321,
+      "parent": "#brs85m"
+    },
+    {
+      "@id": "#vs5t9s",
+      "name": "Homo erectus first to leave Africa",
+      "x": 318,
+      "y": -255,
+      "link": "https://en.wikipedia.org/wiki/Homo_erectus",
+      "parent": "#brs85m"
+    },
+    {
+      "@id": "#ndxxwa",
+      "name": "Taller bodies, longer legs, bigger brains",
+      "x": 455,
+      "y": -184,
+      "parent": "#brs85m"
+    },
+    {
+      "@id": "#pa6m4c",
+      "name": "Our close cousins",
+      "x": 219,
+      "y": 57,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tbt4ue",
+      "name": "Neanderthals in Europe and western Asia",
+      "x": 444,
+      "y": -56,
+      "link": "https://en.wikipedia.org/wiki/Neanderthal",
+      "parent": "#pa6m4c"
+    },
+    {
+      "@id": "#nf5we2",
+      "name": "Denisovans known mostly from DNA",
+      "x": 504,
+      "y": 62,
+      "parent": "#pa6m4c"
+    },
+    {
+      "@id": "#nguay4",
+      "name": "Small Homo floresiensis in Indonesia",
+      "x": 401,
+      "y": 163,
+      "parent": "#pa6m4c"
+    },
+    {
+      "@id": "#9qwvc2",
+      "name": "Neanderthals gone by about 40,000 years ago",
+      "x": 318,
+      "y": 255,
+      "parent": "#pa6m4c"
+    },
+    {
+      "@id": "#vwjvd5",
+      "name": "Modern humans",
+      "x": 36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8z3js5",
+      "name": "Homo sapiens in Africa ~300,000 years ago",
+      "x": 204,
+      "y": 321,
+      "parent": "#vwjvd5"
+    },
+    {
+      "@id": "#vt2i26",
+      "name": "Spread out of Africa ~60,000 years ago",
+      "x": 73,
+      "y": 372,
+      "link": "https://en.wikipedia.org/wiki/Recent_African_origin_of_modern_humans",
+      "parent": "#vwjvd5"
+    },
+    {
+      "@id": "#2mknfa",
+      "name": "Most non-Africans carry 1–2% Neanderthal DNA",
+      "x": -82,
+      "y": 420,
+      "parent": "#vwjvd5"
+    },
+    {
+      "@id": "#viqswx",
+      "name": "Key trends",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bs4mwy",
+      "name": "Upright walking came before big brains",
+      "x": -204,
+      "y": 321,
+      "parent": "#viqswx"
+    },
+    {
+      "@id": "#imht8i",
+      "name": "Brain size roughly tripled",
+      "x": -318,
+      "y": 255,
+      "parent": "#viqswx"
+    },
+    {
+      "@id": "#kaiwag",
+      "name": "Smaller teeth and jaws over time",
+      "x": -401,
+      "y": 163,
+      "parent": "#viqswx"
+    },
+    {
+      "@id": "#dqhkn4",
+      "name": "A branching bush, not a ladder",
+      "x": -444,
+      "y": 56,
+      "parent": "#viqswx"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

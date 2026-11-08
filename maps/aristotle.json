@@ -1,0 +1,340 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Aristotle",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#dxiace",
+      "name": "Who he was",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2pn2qa",
+      "name": "Greek philosopher, 384–322 BC",
+      "x": -445,
+      "y": -51,
+      "parent": "#dxiace"
+    },
+    {
+      "@id": "#fd8g4c",
+      "name": "Born in Stagira, northern Greece",
+      "x": -409,
+      "y": -150,
+      "parent": "#dxiace"
+    },
+    {
+      "@id": "#3s9y2s",
+      "name": "Son of a Macedonian court physician",
+      "x": -340,
+      "y": -236,
+      "parent": "#dxiace"
+    },
+    {
+      "@id": "#52fhgq",
+      "name": "Life",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5bzr8s",
+      "name": "Studied at Plato's Academy about 20 years",
+      "x": -243,
+      "y": -303,
+      "parent": "#52fhgq"
+    },
+    {
+      "@id": "#w6m6nk",
+      "name": "Tutored the young Alexander the Great",
+      "x": -133,
+      "y": -360,
+      "parent": "#52fhgq"
+    },
+    {
+      "@id": "#p5ippn",
+      "name": "Founded the Lyceum in Athens, 335 BC",
+      "x": 0,
+      "y": -408,
+      "link": "https://en.wikipedia.org/wiki/Lyceum_%28classical%29",
+      "parent": "#52fhgq"
+    },
+    {
+      "@id": "#spaipr",
+      "name": "Left Athens after Alexander died",
+      "x": 175,
+      "y": -465,
+      "parent": "#52fhgq"
+    },
+    {
+      "@id": "#brhkjx",
+      "name": "Logic and knowledge",
+      "x": 174,
+      "y": -120,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zxeuu4",
+      "name": "Invented formal logic and the syllogism",
+      "x": 243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Syllogism",
+      "parent": "#brhkjx"
+    },
+    {
+      "@id": "#vtt84b",
+      "name": "Four causes explain why things exist",
+      "x": 340,
+      "y": -236,
+      "parent": "#brhkjx"
+    },
+    {
+      "@id": "#4etkrn",
+      "name": "Knowledge starts from the senses",
+      "x": 463,
+      "y": -171,
+      "parent": "#brhkjx"
+    },
+    {
+      "@id": "#p8wns3",
+      "name": "Science",
+      "x": 221,
+      "y": 52,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j9r8w3",
+      "name": "Classified hundreds of animal species",
+      "x": 445,
+      "y": -51,
+      "parent": "#p8wns3"
+    },
+    {
+      "@id": "#zgn6ax",
+      "name": "Founder of biology as a study",
+      "x": 445,
+      "y": 51,
+      "parent": "#p8wns3"
+    },
+    {
+      "@id": "#d2r8ea",
+      "name": "Physics: earth, water, air, fire, aether",
+      "x": 409,
+      "y": 150,
+      "parent": "#p8wns3"
+    },
+    {
+      "@id": "#vsgvh6",
+      "name": "Many physics ideas later overturned",
+      "x": 340,
+      "y": 236,
+      "parent": "#p8wns3"
+    },
+    {
+      "@id": "#vmwupz",
+      "name": "Ethics and politics",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7jipf9",
+      "name": "Nicomachean Ethics: aim is eudaimonia",
+      "x": 243,
+      "y": 303,
+      "link": "https://en.wikipedia.org/wiki/Nicomachean_Ethics",
+      "parent": "#vmwupz"
+    },
+    {
+      "@id": "#fcxtir",
+      "name": "Virtue as a mean between extremes",
+      "x": 133,
+      "y": 360,
+      "parent": "#vmwupz"
+    },
+    {
+      "@id": "#35sfgf",
+      "name": "\"Man is a political animal\"",
+      "x": 0,
+      "y": 408,
+      "parent": "#vmwupz"
+    },
+    {
+      "@id": "#pzzka4",
+      "name": "Compared constitutions of Greek states",
+      "x": -175,
+      "y": 465,
+      "parent": "#vmwupz"
+    },
+    {
+      "@id": "#5dp2vh",
+      "name": "Legacy",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7fc6s2",
+      "name": "About a third of his works survive",
+      "x": -243,
+      "y": 303,
+      "parent": "#5dp2vh"
+    },
+    {
+      "@id": "#itq252",
+      "name": "Preserved and studied by Islamic scholars",
+      "x": -340,
+      "y": 236,
+      "parent": "#5dp2vh"
+    },
+    {
+      "@id": "#9tphgs",
+      "name": "Aquinas fused him with Christian theology",
+      "x": -409,
+      "y": 150,
+      "parent": "#5dp2vh"
+    },
+    {
+      "@id": "#hjh5qk",
+      "name": "Dominated European thought until 1600s",
+      "x": -445,
+      "y": 51,
+      "parent": "#5dp2vh"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

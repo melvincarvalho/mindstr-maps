@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Color",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#stfqcq",
+      "name": "Light and wavelength",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rptqgj",
+      "name": "Visible light spans about 380–750 nm",
+      "x": -445,
+      "y": -54,
+      "link": "https://en.wikipedia.org/wiki/Visible_spectrum",
+      "parent": "#stfqcq"
+    },
+    {
+      "@id": "#igbqks",
+      "name": "Red has the longest visible wavelengths",
+      "x": -405,
+      "y": -156,
+      "parent": "#stfqcq"
+    },
+    {
+      "@id": "#pui3m5",
+      "name": "Violet has the shortest visible wavelengths",
+      "x": -330,
+      "y": -245,
+      "parent": "#stfqcq"
+    },
+    {
+      "@id": "#68w253",
+      "name": "White light mixes all wavelengths",
+      "x": -225,
+      "y": -312,
+      "parent": "#stfqcq"
+    },
+    {
+      "@id": "#eqm5u9",
+      "name": "Why objects look colored",
+      "x": 51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hxpscc",
+      "name": "Surfaces absorb some wavelengths, reflect others",
+      "x": -104,
+      "y": -367,
+      "parent": "#eqm5u9"
+    },
+    {
+      "@id": "#q59j3d",
+      "name": "Pigments absorb light chemically",
+      "x": 42,
+      "y": -423,
+      "parent": "#eqm5u9"
+    },
+    {
+      "@id": "#ijfvu6",
+      "name": "Structural color comes from microscopic patterns",
+      "x": 234,
+      "y": -485,
+      "parent": "#eqm5u9"
+    },
+    {
+      "@id": "#urvue7",
+      "name": "Prisms and rainbows split light by refraction",
+      "x": 281,
+      "y": -281,
+      "parent": "#eqm5u9"
+    },
+    {
+      "@id": "#ffxv3h",
+      "name": "How we see it",
+      "x": 227,
+      "y": -27,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xnrxny",
+      "name": "Three cone types in the retina",
+      "x": 372,
+      "y": -203,
+      "link": "https://en.wikipedia.org/wiki/Cone_cell",
+      "parent": "#ffxv3h"
+    },
+    {
+      "@id": "#e49euf",
+      "name": "Brain compares cone signals to perceive hue",
+      "x": 430,
+      "y": -106,
+      "parent": "#ffxv3h"
+    },
+    {
+      "@id": "#qk3gzw",
+      "name": "Color blindness affects about 8% of men",
+      "x": 530,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Color_blindness",
+      "parent": "#ffxv3h"
+    },
+    {
+      "@id": "#hbkvz5",
+      "name": "Some animals see ultraviolet light",
+      "x": 430,
+      "y": 106,
+      "parent": "#ffxv3h"
+    },
+    {
+      "@id": "#m9f77d",
+      "name": "Mixing colors",
+      "x": 143,
+      "y": 144,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gbee6t",
+      "name": "Additive: red, green, blue light",
+      "x": 372,
+      "y": 203,
+      "link": "https://en.wikipedia.org/wiki/RGB_color_model",
+      "parent": "#m9f77d"
+    },
+    {
+      "@id": "#abqyfi",
+      "name": "Subtractive: cyan, magenta, yellow inks",
+      "x": 281,
+      "y": 281,
+      "parent": "#m9f77d"
+    },
+    {
+      "@id": "#gra7pj",
+      "name": "Screens use additive, printers subtractive",
+      "x": 164,
+      "y": 335,
+      "parent": "#m9f77d"
+    },
+    {
+      "@id": "#m65w8z",
+      "name": "Describing color",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v2jy6r",
+      "name": "Hue, saturation and brightness",
+      "x": 38,
+      "y": 391,
+      "parent": "#m65w8z"
+    },
+    {
+      "@id": "#bxrkms",
+      "name": "Color wheel shows complementary pairs",
+      "x": -124,
+      "y": 447,
+      "link": "https://en.wikipedia.org/wiki/Color_wheel",
+      "parent": "#m65w8z"
+    },
+    {
+      "@id": "#qeaftz",
+      "name": "Hex codes like #FF0000 on the web",
+      "x": -225,
+      "y": 312,
+      "parent": "#m65w8z"
+    },
+    {
+      "@id": "#hhv4us",
+      "name": "Color in culture",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v8ysvx",
+      "name": "Color words vary between languages",
+      "x": -330,
+      "y": 245,
+      "parent": "#hhv4us"
+    },
+    {
+      "@id": "#bs5ciw",
+      "name": "Meanings differ, e.g. white for mourning",
+      "x": -405,
+      "y": 156,
+      "parent": "#hhv4us"
+    },
+    {
+      "@id": "#tpi36f",
+      "name": "Warm and cool colors set mood",
+      "x": -465,
+      "y": 56,
+      "parent": "#hhv4us"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

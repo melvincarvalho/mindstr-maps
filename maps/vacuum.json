@@ -1,0 +1,308 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Vacuum",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#re2t4f",
+      "name": "What a vacuum is",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#33984g",
+      "name": "Space with little or no matter",
+      "x": -464,
+      "y": -62,
+      "parent": "#re2t4f"
+    },
+    {
+      "@id": "#ua27b5",
+      "name": "Measured by how low the pressure is",
+      "x": -396,
+      "y": -171,
+      "parent": "#re2t4f"
+    },
+    {
+      "@id": "#tjcm7k",
+      "name": "A perfect vacuum is never achieved",
+      "x": -305,
+      "y": -265,
+      "parent": "#re2t4f"
+    },
+    {
+      "@id": "#y4zggt",
+      "name": "History of the idea",
+      "x": -19,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#354ydc",
+      "name": "Aristotle argued nature abhors a vacuum",
+      "x": -181,
+      "y": -330,
+      "parent": "#y4zggt"
+    },
+    {
+      "@id": "#kjikp7",
+      "name": "Torricelli's mercury barometer, 1643",
+      "x": -41,
+      "y": -391,
+      "link": "https://en.wikipedia.org/wiki/Evangelista_Torricelli",
+      "parent": "#y4zggt"
+    },
+    {
+      "@id": "#2gdkcy",
+      "name": "Magdeburg hemispheres: horses couldn't separate",
+      "x": 140,
+      "y": -445,
+      "link": "https://en.wikipedia.org/wiki/Magdeburg_hemispheres",
+      "parent": "#y4zggt"
+    },
+    {
+      "@id": "#m9fvce",
+      "name": "How vacuums behave",
+      "x": 202,
+      "y": -88,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mbqv7q",
+      "name": "Sound cannot travel through it",
+      "x": 246,
+      "y": -301,
+      "parent": "#m9fvce"
+    },
+    {
+      "@id": "#it8ngu",
+      "name": "Light and radio waves pass freely",
+      "x": 355,
+      "y": -221,
+      "parent": "#m9fvce"
+    },
+    {
+      "@id": "#yu982f",
+      "name": "Air pressure outside pushes inward",
+      "x": 502,
+      "y": -137,
+      "parent": "#m9fvce"
+    },
+    {
+      "@id": "#pfgwep",
+      "name": "Liquids boil at lower temperatures",
+      "x": 450,
+      "y": 0,
+      "parent": "#m9fvce"
+    },
+    {
+      "@id": "#afd76c",
+      "name": "Making a vacuum",
+      "x": 182,
+      "y": 113,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5fycgw",
+      "name": "Vacuum pumps remove gas molecules",
+      "x": 464,
+      "y": 127,
+      "link": "https://en.wikipedia.org/wiki/Vacuum_pump",
+      "parent": "#afd76c"
+    },
+    {
+      "@id": "#aphv22",
+      "name": "Strong chambers resist crushing pressure",
+      "x": 355,
+      "y": 221,
+      "parent": "#afd76c"
+    },
+    {
+      "@id": "#q757db",
+      "name": "Seals stop air leaking back",
+      "x": 246,
+      "y": 301,
+      "parent": "#afd76c"
+    },
+    {
+      "@id": "#cvebxj",
+      "name": "Everyday and industrial uses",
+      "x": -56,
+      "y": 178,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j3azci",
+      "name": "Vacuum flasks keep drinks hot",
+      "x": 110,
+      "y": 349,
+      "parent": "#cvebxj"
+    },
+    {
+      "@id": "#8kf3ak",
+      "name": "Vacuum-packed food lasts longer",
+      "x": -43,
+      "y": 407,
+      "parent": "#cvebxj"
+    },
+    {
+      "@id": "#zdgdrs",
+      "name": "Light bulbs and old TV tubes",
+      "x": -253,
+      "y": 465,
+      "parent": "#cvebxj"
+    },
+    {
+      "@id": "#bvec7p",
+      "name": "Making computer chips needs clean vacuum",
+      "x": -305,
+      "y": 265,
+      "parent": "#cvebxj"
+    },
+    {
+      "@id": "#zixxs7",
+      "name": "Vacuums in nature and physics",
+      "x": -218,
+      "y": 60,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aamv4y",
+      "name": "Outer space is a near-perfect vacuum",
+      "x": -396,
+      "y": 171,
+      "parent": "#zixxs7"
+    },
+    {
+      "@id": "#iy7z9q",
+      "name": "Quantum vacuum still has fleeting energy",
+      "x": -604,
+      "y": 83,
+      "link": "https://en.wikipedia.org/wiki/Vacuum_state",
+      "parent": "#zixxs7"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

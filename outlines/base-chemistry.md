@@ -1,0 +1,29 @@
+category: Science
+aliases: bases in chemistry, alkali, alkalis, alkaline substances, chemical base
+- Base (chemistry)
+  - What makes a base
+    - Accepts hydrogen ions (protons)
+    - [Alkalis are bases that dissolve in water](https://en.wikipedia.org/wiki/Alkali)
+    - Releases hydroxide ions in water
+  - Measuring basicity
+    - pH above 7 is basic
+    - Red litmus paper turns blue
+    - Phenolphthalein indicator turns pink
+  - How bases behave
+    - Taste bitter and feel slippery
+    - [Neutralise acids forming salt and water](https://en.wikipedia.org/wiki/Neutralization_%28chemistry%29)
+    - Turn fats into soap
+    - Strong bases ionise fully; weak bases partly
+  - Bases around us
+    - [Baking soda: a mild base](https://en.wikipedia.org/wiki/Sodium_bicarbonate)
+    - Antacids calm excess stomach acid
+    - Ammonia in household cleaners
+    - Lime raises the pH of soil
+  - Industrial bases
+    - [Sodium hydroxide, also called lye](https://en.wikipedia.org/wiki/Sodium_hydroxide)
+    - Used for paper, soap and aluminium
+    - Calcium hydroxide in cement and mortar
+  - Safety
+    - Strong bases damage skin and eyes
+    - Drain cleaners need gloves and goggles
+    - Never mix bleach with ammonia cleaners

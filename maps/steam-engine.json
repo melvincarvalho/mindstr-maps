@@ -1,0 +1,308 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Steam engine",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#aq8bsv",
+      "name": "How it works",
+      "x": -182,
+      "y": -113,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zpxz9p",
+      "name": "Burn fuel to boil water",
+      "x": -444,
+      "y": -59,
+      "parent": "#aq8bsv"
+    },
+    {
+      "@id": "#x2w4wj",
+      "name": "Water expands about 1,700 times as steam",
+      "x": -396,
+      "y": -171,
+      "parent": "#aq8bsv"
+    },
+    {
+      "@id": "#853d7m",
+      "name": "Steam pushes a piston back and forth",
+      "x": -305,
+      "y": -265,
+      "parent": "#aq8bsv"
+    },
+    {
+      "@id": "#zf4cdh",
+      "name": "Condenser turns steam back to water",
+      "x": -181,
+      "y": -330,
+      "parent": "#aq8bsv"
+    },
+    {
+      "@id": "#erj4yq",
+      "name": "Early engines",
+      "x": 56,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rb4x8e",
+      "name": "Hero's aeolipile spun, 1st century AD",
+      "x": -41,
+      "y": -391,
+      "link": "https://en.wikipedia.org/wiki/Aeolipile",
+      "parent": "#erj4yq"
+    },
+    {
+      "@id": "#q359x6",
+      "name": "Savery's steam pump, 1698",
+      "x": 140,
+      "y": -445,
+      "parent": "#erj4yq"
+    },
+    {
+      "@id": "#zkex6e",
+      "name": "Newcomen's engine pumped mines, 1712",
+      "x": 246,
+      "y": -301,
+      "link": "https://en.wikipedia.org/wiki/Newcomen_atmospheric_engine",
+      "parent": "#erj4yq"
+    },
+    {
+      "@id": "#hfwthn",
+      "name": "James Watt's improvements",
+      "x": 218,
+      "y": -60,
+      "link": "https://en.wikipedia.org/wiki/James_Watt",
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e2ae2g",
+      "name": "Separate condenser saved fuel, 1769",
+      "x": 355,
+      "y": -221,
+      "parent": "#hfwthn"
+    },
+    {
+      "@id": "#kbxynw",
+      "name": "Rotary motion drove factory machines",
+      "x": 426,
+      "y": -117,
+      "parent": "#hfwthn"
+    },
+    {
+      "@id": "#sn44x7",
+      "name": "Partnership with Matthew Boulton",
+      "x": 450,
+      "y": 0,
+      "parent": "#hfwthn"
+    },
+    {
+      "@id": "#pwjind",
+      "name": "Steam on the move",
+      "x": 156,
+      "y": 135,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e8ug4z",
+      "name": "Trevithick's first railway locomotive, 1804",
+      "x": 483,
+      "y": 132,
+      "parent": "#pwjind"
+    },
+    {
+      "@id": "#cqbwsm",
+      "name": "Stephenson's Rocket, 1829",
+      "x": 355,
+      "y": 221,
+      "link": "https://en.wikipedia.org/wiki/Stephenson%27s_Rocket",
+      "parent": "#pwjind"
+    },
+    {
+      "@id": "#ysuv53",
+      "name": "Steamships crossed oceans",
+      "x": 246,
+      "y": 301,
+      "parent": "#pwjind"
+    },
+    {
+      "@id": "#cgnm26",
+      "name": "Traction engines and steam ploughs",
+      "x": 110,
+      "y": 349,
+      "parent": "#pwjind"
+    },
+    {
+      "@id": "#vkg7zs",
+      "name": "Industrial Revolution",
+      "x": -92,
+      "y": 169,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nnf2cx",
+      "name": "Factories no longer needed rivers",
+      "x": -43,
+      "y": 407,
+      "parent": "#vkg7zs"
+    },
+    {
+      "@id": "#wtc7cu",
+      "name": "Coal mining boomed",
+      "x": -181,
+      "y": 330,
+      "parent": "#vkg7zs"
+    },
+    {
+      "@id": "#svhbfg",
+      "name": "Cities and railways grew fast",
+      "x": -305,
+      "y": 265,
+      "parent": "#vkg7zs"
+    },
+    {
+      "@id": "#yra4v5",
+      "name": "Steam today",
+      "x": -218,
+      "y": 60,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9i7a8h",
+      "name": "Steam turbines generate much of our electricity",
+      "x": -450,
+      "y": 195,
+      "parent": "#yra4v5"
+    },
+    {
+      "@id": "#xfaqdy",
+      "name": "Heritage railways keep engines running",
+      "x": -504,
+      "y": 68,
+      "parent": "#yra4v5"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

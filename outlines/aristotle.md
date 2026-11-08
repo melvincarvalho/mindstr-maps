@@ -1,0 +1,31 @@
+category: People
+aliases: aristotle philosopher, aristotelian philosophy, aristotle ethics
+- Aristotle
+  - Who he was
+    - Greek philosopher, 384–322 BC
+    - Born in Stagira, northern Greece
+    - Son of a Macedonian court physician
+  - Life
+    - Studied at Plato's Academy about 20 years
+    - Tutored the young Alexander the Great
+    - [Founded the Lyceum in Athens, 335 BC](https://en.wikipedia.org/wiki/Lyceum_%28classical%29)
+    - Left Athens after Alexander died
+  - Logic and knowledge
+    - [Invented formal logic and the syllogism](https://en.wikipedia.org/wiki/Syllogism)
+    - Four causes explain why things exist
+    - Knowledge starts from the senses
+  - Science
+    - Classified hundreds of animal species
+    - Founder of biology as a study
+    - Physics: earth, water, air, fire, aether
+    - Many physics ideas later overturned
+  - Ethics and politics
+    - [Nicomachean Ethics: aim is eudaimonia](https://en.wikipedia.org/wiki/Nicomachean_Ethics)
+    - Virtue as a mean between extremes
+    - "Man is a political animal"
+    - Compared constitutions of Greek states
+  - Legacy
+    - About a third of his works survive
+    - Preserved and studied by Islamic scholars
+    - Aquinas fused him with Christian theology
+    - Dominated European thought until 1600s

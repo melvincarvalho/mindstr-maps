@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Mahayana",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#82gcq8",
+      "name": "What it is",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#im9qui",
+      "name": "\"Great Vehicle\" branch of Buddhism",
+      "x": -465,
+      "y": -56,
+      "parent": "#82gcq8"
+    },
+    {
+      "@id": "#xbux9b",
+      "name": "Emerged in India around 1st century BCE",
+      "x": -405,
+      "y": -156,
+      "parent": "#82gcq8"
+    },
+    {
+      "@id": "#eczacz",
+      "name": "Largest Buddhist tradition today",
+      "x": -330,
+      "y": -245,
+      "parent": "#82gcq8"
+    },
+    {
+      "@id": "#dh4egp",
+      "name": "Key ideas",
+      "x": 17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5ptnig",
+      "name": "Bodhisattva path to free all beings",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Bodhisattva",
+      "parent": "#dh4egp"
+    },
+    {
+      "@id": "#qetwiy",
+      "name": "Emptiness: nothing has fixed essence",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/%C5%9A%C5%AB%C3%B1yat%C4%81",
+      "parent": "#dh4egp"
+    },
+    {
+      "@id": "#c6ue35",
+      "name": "Buddha-nature present in all beings",
+      "x": 42,
+      "y": -423,
+      "parent": "#dh4egp"
+    },
+    {
+      "@id": "#hnfdk8",
+      "name": "Compassion joined with wisdom",
+      "x": 234,
+      "y": -485,
+      "parent": "#dh4egp"
+    },
+    {
+      "@id": "#eubpxn",
+      "name": "Many buddhas in many worlds",
+      "x": 281,
+      "y": -281,
+      "parent": "#dh4egp"
+    },
+    {
+      "@id": "#4vwyrn",
+      "name": "Scriptures",
+      "x": 227,
+      "y": -27,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ybp2t5",
+      "name": "Perfection of Wisdom sutras",
+      "x": 372,
+      "y": -203,
+      "parent": "#4vwyrn"
+    },
+    {
+      "@id": "#v8hs85",
+      "name": "Heart Sutra and Diamond Sutra",
+      "x": 430,
+      "y": -106,
+      "parent": "#4vwyrn"
+    },
+    {
+      "@id": "#6qqejs",
+      "name": "Lotus Sutra",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Lotus_Sutra",
+      "parent": "#4vwyrn"
+    },
+    {
+      "@id": "#yzxrff",
+      "name": "Written in Sanskrit, translated to Chinese",
+      "x": 430,
+      "y": 106,
+      "parent": "#4vwyrn"
+    },
+    {
+      "@id": "#d6r4mn",
+      "name": "Philosophers",
+      "x": 214,
+      "y": 158,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tvuxa6",
+      "name": "Nagarjuna founded Madhyamaka",
+      "x": 389,
+      "y": 212,
+      "link": "https://en.wikipedia.org/wiki/Nagarjuna",
+      "parent": "#d6r4mn"
+    },
+    {
+      "@id": "#tgctzq",
+      "name": "Asanga and Vasubandhu founded Yogacara",
+      "x": 281,
+      "y": 281,
+      "parent": "#d6r4mn"
+    },
+    {
+      "@id": "#zafq5s",
+      "name": "Schools in East Asia",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6twts3",
+      "name": "Zen (Chan) stresses meditation",
+      "x": 164,
+      "y": 335,
+      "link": "https://en.wikipedia.org/wiki/Zen",
+      "parent": "#zafq5s"
+    },
+    {
+      "@id": "#j6s8ip",
+      "name": "Pure Land relies on Amitabha Buddha",
+      "x": 38,
+      "y": 391,
+      "parent": "#zafq5s"
+    },
+    {
+      "@id": "#tcfjsy",
+      "name": "Tiantai and Huayan systems",
+      "x": -124,
+      "y": 447,
+      "parent": "#zafq5s"
+    },
+    {
+      "@id": "#9xi5jp",
+      "name": "Nichiren centres on the Lotus Sutra",
+      "x": -225,
+      "y": 312,
+      "parent": "#zafq5s"
+    },
+    {
+      "@id": "#w5bmv5",
+      "name": "Where it spread",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xczh6s",
+      "name": "China, Korea, Japan, Vietnam",
+      "x": -330,
+      "y": 245,
+      "parent": "#w5bmv5"
+    },
+    {
+      "@id": "#i5r6hw",
+      "name": "Tibet's Vajrayana grew from Mahayana",
+      "x": -405,
+      "y": 156,
+      "parent": "#w5bmv5"
+    },
+    {
+      "@id": "#3npidc",
+      "name": "Silk Road carried it east",
+      "x": -445,
+      "y": 54,
+      "parent": "#w5bmv5"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

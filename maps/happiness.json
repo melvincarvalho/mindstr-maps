@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Happiness",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ixada3",
+      "name": "What happiness means",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#arv6r6",
+      "name": "Pleasant feelings in the moment",
+      "x": -504,
+      "y": -62,
+      "parent": "#ixada3"
+    },
+    {
+      "@id": "#gu72yx",
+      "name": "Life satisfaction when looking back",
+      "x": -401,
+      "y": -163,
+      "parent": "#ixada3"
+    },
+    {
+      "@id": "#3cffhc",
+      "name": "Eudaimonia: a meaningful, flourishing life",
+      "x": -318,
+      "y": -255,
+      "link": "https://en.wikipedia.org/wiki/Eudaimonia",
+      "parent": "#ixada3"
+    },
+    {
+      "@id": "#y3gxhj",
+      "name": "What shapes it",
+      "x": -36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4hd8i7",
+      "name": "Genes set part of our baseline",
+      "x": -204,
+      "y": -321,
+      "parent": "#y3gxhj"
+    },
+    {
+      "@id": "#af2npa",
+      "name": "Circumstances matter less than expected",
+      "x": -73,
+      "y": -372,
+      "parent": "#y3gxhj"
+    },
+    {
+      "@id": "#cabaec",
+      "name": "Daily habits and outlook matter too",
+      "x": 82,
+      "y": -420,
+      "parent": "#y3gxhj"
+    },
+    {
+      "@id": "#v2u33e",
+      "name": "What the research finds",
+      "x": 186,
+      "y": -108,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2ubdbg",
+      "name": "Close relationships matter most of all",
+      "x": 204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Interpersonal_relationship",
+      "parent": "#v2u33e"
+    },
+    {
+      "@id": "#6mvesh",
+      "name": "Money helps most when escaping hardship",
+      "x": 318,
+      "y": -255,
+      "parent": "#v2u33e"
+    },
+    {
+      "@id": "#cnyc8z",
+      "name": "We adapt quickly to gains and losses",
+      "x": 401,
+      "y": -163,
+      "link": "https://en.wikipedia.org/wiki/Hedonic_treadmill",
+      "parent": "#v2u33e"
+    },
+    {
+      "@id": "#hqqmus",
+      "name": "Health and secure work matter",
+      "x": 444,
+      "y": -56,
+      "parent": "#v2u33e"
+    },
+    {
+      "@id": "#xgaedj",
+      "name": "Habits linked to happiness",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9z9i3g",
+      "name": "Spending time with friends and family",
+      "x": 444,
+      "y": 56,
+      "parent": "#xgaedj"
+    },
+    {
+      "@id": "#875eyz",
+      "name": "Regular exercise and enough sleep",
+      "x": 455,
+      "y": 184,
+      "parent": "#xgaedj"
+    },
+    {
+      "@id": "#yeyk8b",
+      "name": "Helping others and acts of kindness",
+      "x": 318,
+      "y": 255,
+      "parent": "#xgaedj"
+    },
+    {
+      "@id": "#zz4tjb",
+      "name": "Noticing what you're grateful for",
+      "x": 204,
+      "y": 321,
+      "parent": "#xgaedj"
+    },
+    {
+      "@id": "#39g638",
+      "name": "Absorbing activities that create flow",
+      "x": 73,
+      "y": 372,
+      "parent": "#xgaedj"
+    },
+    {
+      "@id": "#ygfuk5",
+      "name": "Common misconceptions",
+      "x": -104,
+      "y": 164,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ba7qix",
+      "name": "Constant happiness isn't realistic",
+      "x": -82,
+      "y": 420,
+      "parent": "#ygfuk5"
+    },
+    {
+      "@id": "#68w8j2",
+      "name": "Chasing it directly can backfire",
+      "x": -204,
+      "y": 321,
+      "parent": "#ygfuk5"
+    },
+    {
+      "@id": "#sauhwa",
+      "name": "Sadness and stress are normal too",
+      "x": -318,
+      "y": 255,
+      "parent": "#ygfuk5"
+    },
+    {
+      "@id": "#kcfx8m",
+      "name": "Measuring happiness",
+      "x": -219,
+      "y": 57,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uv3ihj",
+      "name": "Surveys ask people to rate lives",
+      "x": -401,
+      "y": 163,
+      "parent": "#kcfx8m"
+    },
+    {
+      "@id": "#fn76aa",
+      "name": "World Happiness Report ranks countries",
+      "x": -544,
+      "y": 66,
+      "link": "https://en.wikipedia.org/wiki/World_Happiness_Report",
+      "parent": "#kcfx8m"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 14,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

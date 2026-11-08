@@ -1,0 +1,329 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Anarchism",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#5x8rae",
+      "name": "Core beliefs",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wn9cai",
+      "name": "Rejects the state as illegitimate coercion",
+      "x": -505,
+      "y": -60,
+      "parent": "#5x8rae"
+    },
+    {
+      "@id": "#25xvuw",
+      "name": "Opposes unjust hierarchy of all kinds",
+      "x": -405,
+      "y": -156,
+      "parent": "#5x8rae"
+    },
+    {
+      "@id": "#5ktnft",
+      "name": "Society organised by voluntary cooperation",
+      "x": -330,
+      "y": -245,
+      "parent": "#5x8rae"
+    },
+    {
+      "@id": "#cn3yc9",
+      "name": "Key thinkers",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j44mg2",
+      "name": "Proudhon: \"Property is theft!\" (1840)",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon",
+      "parent": "#cn3yc9"
+    },
+    {
+      "@id": "#ryix94",
+      "name": "Bakunin clashed with Marx",
+      "x": -104,
+      "y": -367,
+      "parent": "#cn3yc9"
+    },
+    {
+      "@id": "#35xfcb",
+      "name": "Kropotkin: mutual aid in nature",
+      "x": 42,
+      "y": -423,
+      "parent": "#cn3yc9"
+    },
+    {
+      "@id": "#vdvjzz",
+      "name": "Emma Goldman and Errico Malatesta",
+      "x": 234,
+      "y": -485,
+      "parent": "#cn3yc9"
+    },
+    {
+      "@id": "#2hwuxk",
+      "name": "Main schools",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c6dvwg",
+      "name": "Anarcho-communism shares goods by need",
+      "x": 281,
+      "y": -281,
+      "parent": "#2hwuxk"
+    },
+    {
+      "@id": "#yxtb3b",
+      "name": "Anarcho-syndicalism works through trade unions",
+      "x": 372,
+      "y": -203,
+      "parent": "#2hwuxk"
+    },
+    {
+      "@id": "#9qxsbx",
+      "name": "Individualist anarchism, after Stirner",
+      "x": 487,
+      "y": -121,
+      "parent": "#2hwuxk"
+    },
+    {
+      "@id": "#mbhtpa",
+      "name": "Anarcho-capitalism favours private markets",
+      "x": 450,
+      "y": 0,
+      "parent": "#2hwuxk"
+    },
+    {
+      "@id": "#wj2ptf",
+      "name": "History",
+      "x": 169,
+      "y": 125,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ae6vq4",
+      "name": "First International split, 1872",
+      "x": 430,
+      "y": 106,
+      "parent": "#wj2ptf"
+    },
+    {
+      "@id": "#5ax446",
+      "name": "\"Propaganda of the deed\" assassinations",
+      "x": 372,
+      "y": 203,
+      "parent": "#wj2ptf"
+    },
+    {
+      "@id": "#nmgdnq",
+      "name": "Revolutionary Catalonia, 1936–39",
+      "x": 281,
+      "y": 281,
+      "link": "https://en.wikipedia.org/wiki/Revolutionary_Catalonia",
+      "parent": "#wj2ptf"
+    },
+    {
+      "@id": "#vfhs9y",
+      "name": "Makhnovists in Ukraine",
+      "x": 164,
+      "y": 335,
+      "parent": "#wj2ptf"
+    },
+    {
+      "@id": "#nd8prg",
+      "name": "Today",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h6uczs",
+      "name": "Zapatistas and Rojava draw on ideas",
+      "x": 38,
+      "y": 391,
+      "link": "https://en.wikipedia.org/wiki/Rojava",
+      "parent": "#nd8prg"
+    },
+    {
+      "@id": "#2hmur3",
+      "name": "Influence on anti-globalisation and Occupy",
+      "x": -124,
+      "y": 447,
+      "parent": "#nd8prg"
+    },
+    {
+      "@id": "#xus94q",
+      "name": "Squats, co-ops and mutual aid groups",
+      "x": -225,
+      "y": 312,
+      "parent": "#nd8prg"
+    },
+    {
+      "@id": "#fb722s",
+      "name": "Criticisms",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pmxxfr",
+      "name": "Unworkable without state enforcement",
+      "x": -330,
+      "y": 245,
+      "parent": "#fb722s"
+    },
+    {
+      "@id": "#e77er9",
+      "name": "Vulnerable to stronger, organised powers",
+      "x": -405,
+      "y": 156,
+      "parent": "#fb722s"
+    },
+    {
+      "@id": "#tci8pw",
+      "name": "Associated with violence and disorder",
+      "x": -485,
+      "y": 58,
+      "parent": "#fb722s"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

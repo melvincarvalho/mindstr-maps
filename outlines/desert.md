@@ -1,0 +1,32 @@
+category: Geography
+aliases: deserts, desert biome, what is a desert
+- Desert
+  - What makes a desert
+    - Under about 250 mm rain a year
+    - Evaporation exceeds rainfall
+    - Can be hot or cold
+    - Deserts cover about a third of land
+  - Why deserts form
+    - Sinking dry air near 30° latitude
+    - [Rain shadow behind mountain ranges](https://en.wikipedia.org/wiki/Rain_shadow)
+    - Cold ocean currents along coasts
+    - Distance far inland from the sea
+  - Famous deserts
+    - Antarctica, the largest, is polar desert
+    - [Sahara, largest hot desert](https://en.wikipedia.org/wiki/Sahara)
+    - [Atacama, among the driest places](https://en.wikipedia.org/wiki/Atacama_Desert)
+    - Arabian, Gobi and Australian deserts
+  - Landscapes
+    - Sand dunes cover only about a fifth
+    - Rocky plateaus, mesas and gravel plains
+    - [Oases where groundwater reaches the surface](https://en.wikipedia.org/wiki/Oasis)
+    - Wind and flash floods shape rock
+  - Life in deserts
+    - Cacti and succulents store water
+    - Many animals are active at night
+    - Seeds lie dormant until rain falls
+    - Camels go days without drinking
+  - People and deserts
+    - Nomadic herders like Bedouin and Tuareg
+    - Oil, minerals and solar power
+    - [Desertification threatens farmed drylands](https://en.wikipedia.org/wiki/Desertification)

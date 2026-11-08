@@ -1,0 +1,30 @@
+category: Science
+aliases: reptiles, reptilia, reptile species
+- Reptile
+  - What makes a reptile
+    - Dry skin covered in scales
+    - [Amniotic eggs laid on land](https://en.wikipedia.org/wiki/Amniote)
+    - Ectothermic: body heat from surroundings
+    - Breathe with lungs throughout life
+  - Main groups
+    - Squamates: lizards and snakes, most species
+    - [Turtles and tortoises with protective shells](https://en.wikipedia.org/wiki/Turtle)
+    - Crocodilians: crocodiles, alligators and caimans
+    - [Tuatara: New Zealand's living fossil](https://en.wikipedia.org/wiki/Tuatara)
+  - Evolution
+    - Earliest reptiles over 300 million years ago
+    - Dinosaurs and pterosaurs were reptiles
+    - Birds evolved from dinosaurs
+  - Living with temperature
+    - Bask in the sun to warm up
+    - Need far less food than mammals
+    - Nest temperature sets sex in many
+    - Slow down through cold winters
+  - Senses and defences
+    - Snakes taste air with forked tongues
+    - [Pit vipers sense infrared heat](https://en.wikipedia.org/wiki/Pit_viper)
+    - Chameleons change colour to signal
+    - Some lizards shed their tails
+  - Threats and conservation
+    - Habitat loss and illegal pet trade
+    - About one in five species threatened

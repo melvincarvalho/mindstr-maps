@@ -1,0 +1,30 @@
+category: Science
+aliases: study of animals, animal biology, zoologist
+- Zoology
+  - What it studies
+    - All animals, living and extinct
+    - Their bodies, behaviour and evolution
+    - How they fit in ecosystems
+  - Main branches
+    - [Anatomy and physiology: how bodies work](https://en.wikipedia.org/wiki/Animal_physiology)
+    - [Ethology: animal behaviour](https://en.wikipedia.org/wiki/Ethology)
+    - Taxonomy names and classifies species
+    - Ecology and conservation biology
+  - By animal group
+    - Entomology studies insects
+    - Ornithology studies birds
+    - Ichthyology studies fish
+    - Herpetology studies reptiles and amphibians
+    - Mammalogy studies mammals
+  - Key figures
+    - [Aristotle classified animals in ancient Greece](https://en.wikipedia.org/wiki/History_of_zoology_through_1859)
+    - Linnaeus created two-part species names
+    - [Darwin explained evolution by natural selection](https://en.wikipedia.org/wiki/Charles_Darwin)
+  - Methods
+    - Field observation and tracking
+    - DNA sequencing reveals relationships
+    - Museum collections preserve specimens
+  - Where zoologists work
+    - Universities and research institutes
+    - Zoos, aquariums and wildlife parks
+    - Conservation and wildlife agencies

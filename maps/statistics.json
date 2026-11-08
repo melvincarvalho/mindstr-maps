@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Statistics",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#mmwvj7",
+      "name": "Collecting data",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p6zvr5",
+      "name": "Sample a few to learn about many",
+      "x": -445,
+      "y": -51,
+      "parent": "#mmwvj7"
+    },
+    {
+      "@id": "#ay2v5f",
+      "name": "Random sampling avoids bias",
+      "x": -409,
+      "y": -150,
+      "link": "https://en.wikipedia.org/wiki/Sampling_%28statistics%29",
+      "parent": "#mmwvj7"
+    },
+    {
+      "@id": "#n2xhcb",
+      "name": "Randomised controlled trials test treatments fairly",
+      "x": -340,
+      "y": -236,
+      "parent": "#mmwvj7"
+    },
+    {
+      "@id": "#7c6nkx",
+      "name": "Observational studies can't easily prove cause",
+      "x": -243,
+      "y": -303,
+      "parent": "#mmwvj7"
+    },
+    {
+      "@id": "#b6j8ks",
+      "name": "Describing data",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wijg3u",
+      "name": "Mean, median and mode: typical values",
+      "x": -133,
+      "y": -360,
+      "parent": "#b6j8ks"
+    },
+    {
+      "@id": "#ffsjb6",
+      "name": "Median resists outliers like billionaires",
+      "x": 0,
+      "y": -408,
+      "parent": "#b6j8ks"
+    },
+    {
+      "@id": "#bkfwez",
+      "name": "Spread: range and standard deviation",
+      "x": 175,
+      "y": -465,
+      "parent": "#b6j8ks"
+    },
+    {
+      "@id": "#vhh7xe",
+      "name": "Normal distribution: the bell curve",
+      "x": 243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Normal_distribution",
+      "parent": "#b6j8ks"
+    },
+    {
+      "@id": "#mmd2v5",
+      "name": "Drawing conclusions",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fsq79u",
+      "name": "Polls of 1,000 give about ±3%",
+      "x": 340,
+      "y": -236,
+      "parent": "#mmd2v5"
+    },
+    {
+      "@id": "#6pjnv7",
+      "name": "Hypothesis tests and p-values",
+      "x": 409,
+      "y": -150,
+      "link": "https://en.wikipedia.org/wiki/P-value",
+      "parent": "#mmd2v5"
+    },
+    {
+      "@id": "#x6qq6d",
+      "name": "Confidence intervals give a plausible range",
+      "x": 565,
+      "y": -63,
+      "parent": "#mmd2v5"
+    },
+    {
+      "@id": "#c2cxfc",
+      "name": "Regression measures how variables relate",
+      "x": 445,
+      "y": 51,
+      "parent": "#mmd2v5"
+    },
+    {
+      "@id": "#9nafwh",
+      "name": "Common mistakes",
+      "x": 124,
+      "y": 155,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4ppysn",
+      "name": "Correlation does not imply causation",
+      "x": 427,
+      "y": 157,
+      "link": "https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation",
+      "parent": "#9nafwh"
+    },
+    {
+      "@id": "#nqjze5",
+      "name": "Ice cream and drownings: both summer",
+      "x": 340,
+      "y": 236,
+      "parent": "#9nafwh"
+    },
+    {
+      "@id": "#un5gz4",
+      "name": "Small samples throw up flukes",
+      "x": 243,
+      "y": 303,
+      "parent": "#9nafwh"
+    },
+    {
+      "@id": "#7mkjfq",
+      "name": "Cherry-picking and truncated graph axes",
+      "x": 133,
+      "y": 360,
+      "parent": "#9nafwh"
+    },
+    {
+      "@id": "#khjqzz",
+      "name": "Simpson's paradox: groups reverse the trend",
+      "x": 0,
+      "y": 408,
+      "link": "https://en.wikipedia.org/wiki/Simpson%27s_paradox",
+      "parent": "#9nafwh"
+    },
+    {
+      "@id": "#itbm34",
+      "name": "History and uses",
+      "x": -174,
+      "y": 120,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jw322n",
+      "name": "Censuses go back thousands of years",
+      "x": -175,
+      "y": 465,
+      "parent": "#itbm34"
+    },
+    {
+      "@id": "#nj39u7",
+      "name": "Nightingale's charts reformed army hospitals",
+      "x": -243,
+      "y": 303,
+      "parent": "#itbm34"
+    },
+    {
+      "@id": "#ijcprb",
+      "name": "Fisher shaped modern methods, 1920s",
+      "x": -340,
+      "y": 236,
+      "parent": "#itbm34"
+    },
+    {
+      "@id": "#n7jk87",
+      "name": "Medicine, polling, sport and quality control",
+      "x": -463,
+      "y": 171,
+      "parent": "#itbm34"
+    },
+    {
+      "@id": "#24ywib",
+      "name": "Machine learning builds on statistics",
+      "x": -445,
+      "y": 51,
+      "parent": "#itbm34"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 16,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    },
+    {
+      "start": 22,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

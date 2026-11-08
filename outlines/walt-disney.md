@@ -1,0 +1,27 @@
+category: People
+aliases: walter disney, walter elias disney, walt disney life
+- Walt Disney
+  - Early life
+    - Born 1901 in Chicago
+    - Grew up partly in Marceline, Missouri
+    - Red Cross ambulance driver, France, 1918
+  - Animation pioneer
+    - Laugh-O-Gram Studio failed in Kansas City
+    - Founded Disney studio with Roy, 1923
+    - Lost Oswald the Lucky Rabbit, 1928
+    - [Mickey Mouse in Steamboat Willie, 1928](https://en.wikipedia.org/wiki/Steamboat_Willie)
+  - Feature films
+    - [Snow White, first full-length cel-animated feature, 1937](https://en.wikipedia.org/wiki/Snow_White_and_the_Seven_Dwarfs_%281937_film%29)
+    - Pinocchio (1940) and Bambi (1942)
+    - Fantasia (1940) set animation to classical music
+    - Mary Poppins (1964) mixed live action
+  - Business and parks
+    - 1941 animators' strike divided the studio
+    - Testified before HUAC, 1947
+    - TV: Disneyland series, Mickey Mouse Club
+    - [Disneyland opened in Anaheim, 1955](https://en.wikipedia.org/wiki/Disneyland)
+    - Planned Walt Disney World and EPCOT
+  - Awards and legacy
+    - Record 22 competitive Oscars
+    - Died 1966 of lung cancer
+    - [The Walt Disney Company today](https://en.wikipedia.org/wiki/The_Walt_Disney_Company)

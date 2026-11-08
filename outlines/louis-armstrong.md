@@ -1,0 +1,28 @@
+category: People
+aliases: satchmo, louis armstrong jazz, pops armstrong
+- Louis Armstrong
+  - New Orleans beginnings
+    - Born 1901 in New Orleans
+    - Learned cornet at the Waif's Home
+    - [Mentored by King Oliver](https://en.wikipedia.org/wiki/King_Oliver)
+  - Chicago and the jazz revolution
+    - Joined King Oliver's band, 1922
+    - Hot Five and Hot Seven, 1925–28
+    - Made the soloist the star of jazz
+    - "West End Blues" (1928)
+  - The voice
+    - Gravelly, instantly recognisable singing
+    - [Popularised scat singing](https://en.wikipedia.org/wiki/Scat_singing)
+    - Nicknamed "Satchmo" and "Pops"
+  - Popular star
+    - Films, radio and TV appearances
+    - "Hello, Dolly!" hit US No. 1, 1964
+    - [What a Wonderful World, 1967](https://en.wikipedia.org/wiki/What_a_Wonderful_World)
+    - Duets with Ella Fitzgerald
+  - Ambassador and civil rights
+    - US State Department "jazz ambassador" tours
+    - Condemned the Little Rock crisis, 1957
+  - Legacy
+    - Died 1971 at home in Queens
+    - [Shaped the language of jazz](https://en.wikipedia.org/wiki/Jazz)
+    - Grammy Lifetime Achievement Award, 1972

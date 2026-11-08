@@ -1,0 +1,26 @@
+category: Geography
+aliases: islands, what is an island, how islands form
+- Island
+  - What counts as an island
+    - Land surrounded by water
+    - Smaller than a continent
+    - Very small islands are islets
+    - [Greenland is the largest island](https://en.wikipedia.org/wiki/Greenland)
+  - How islands form
+    - [Volcanoes rising from the seabed](https://en.wikipedia.org/wiki/High_island)
+    - Continental islands on the continental shelf
+    - [Coral atolls ring sunken volcanoes](https://en.wikipedia.org/wiki/Atoll)
+    - Sandbars and barrier islands
+  - Groups of islands
+    - [An archipelago is a chain](https://en.wikipedia.org/wiki/Archipelago)
+    - Indonesia has over 17,000 islands
+    - Hawaii formed over a hotspot
+  - Island life
+    - Species evolve in isolation
+    - Many endemic species found nowhere else
+    - Island dwarfism and gigantism
+    - Invasive species cause extinctions
+  - People on islands
+    - Island nations like Japan, UK
+    - Rely on sea trade and fishing
+    - Low islands threatened by sea rise

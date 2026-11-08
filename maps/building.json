@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Building",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#tndr3k",
+      "name": "What a building does",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p9vx8u",
+      "name": "Shelters people from the weather",
+      "x": -505,
+      "y": -60,
+      "parent": "#tndr3k"
+    },
+    {
+      "@id": "#5dnu44",
+      "name": "Carries loads safely to the ground",
+      "x": -405,
+      "y": -156,
+      "parent": "#tndr3k"
+    },
+    {
+      "@id": "#qac7c7",
+      "name": "Space for living, work and worship",
+      "x": -330,
+      "y": -245,
+      "parent": "#tndr3k"
+    },
+    {
+      "@id": "#45s7ys",
+      "name": "Main parts",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sfixp9",
+      "name": "Foundations spread weight into ground",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Foundation_%28engineering%29",
+      "parent": "#45s7ys"
+    },
+    {
+      "@id": "#vwader",
+      "name": "Frame or load-bearing walls",
+      "x": -104,
+      "y": -367,
+      "parent": "#45s7ys"
+    },
+    {
+      "@id": "#2y8i59",
+      "name": "Roof sheds rain and snow",
+      "x": 42,
+      "y": -423,
+      "parent": "#45s7ys"
+    },
+    {
+      "@id": "#z7q9p4",
+      "name": "Floors, stairs, doors and windows",
+      "x": 234,
+      "y": -485,
+      "parent": "#45s7ys"
+    },
+    {
+      "@id": "#zbaueu",
+      "name": "Services inside",
+      "x": 190,
+      "y": -104,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b8d94f",
+      "name": "Plumbing, drainage and heating",
+      "x": 281,
+      "y": -281,
+      "parent": "#zbaueu"
+    },
+    {
+      "@id": "#stf7hk",
+      "name": "Electrical wiring and lighting",
+      "x": 372,
+      "y": -203,
+      "parent": "#zbaueu"
+    },
+    {
+      "@id": "#4ciiay",
+      "name": "Insulation and ventilation",
+      "x": 430,
+      "y": -106,
+      "parent": "#zbaueu"
+    },
+    {
+      "@id": "#5epw75",
+      "name": "Materials through history",
+      "x": 207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vcvcp6",
+      "name": "Mud brick, timber and thatch",
+      "x": 450,
+      "y": 0,
+      "parent": "#5epw75"
+    },
+    {
+      "@id": "#ntifhn",
+      "name": "Stone and fired brick",
+      "x": 468,
+      "y": 116,
+      "parent": "#5epw75"
+    },
+    {
+      "@id": "#k7qsh9",
+      "name": "Steel frame skyscraper, Chicago, 1885",
+      "x": 372,
+      "y": 203,
+      "link": "https://en.wikipedia.org/wiki/Home_Insurance_Building",
+      "parent": "#5epw75"
+    },
+    {
+      "@id": "#rx9npf",
+      "name": "Reinforced concrete and glass facades",
+      "x": 281,
+      "y": 281,
+      "parent": "#5epw75"
+    },
+    {
+      "@id": "#rxhcud",
+      "name": "From plan to completion",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#eqcwby",
+      "name": "Architect designs, engineer checks structure",
+      "x": 164,
+      "y": 335,
+      "parent": "#rxhcud"
+    },
+    {
+      "@id": "#8qc9qk",
+      "name": "Planning permission from local authority",
+      "x": 38,
+      "y": 391,
+      "parent": "#rxhcud"
+    },
+    {
+      "@id": "#ps2vdc",
+      "name": "Building codes set safety rules",
+      "x": -124,
+      "y": 447,
+      "link": "https://en.wikipedia.org/wiki/Building_code",
+      "parent": "#rxhcud"
+    },
+    {
+      "@id": "#sjkute",
+      "name": "Builders work in stages, inspectors check",
+      "x": -365,
+      "y": 508,
+      "parent": "#rxhcud"
+    },
+    {
+      "@id": "#iznux5",
+      "name": "Tall buildings and energy",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jr38fx",
+      "name": "Burj Khalifa, Dubai, 828 m tall",
+      "x": -330,
+      "y": 245,
+      "link": "https://en.wikipedia.org/wiki/Burj_Khalifa",
+      "parent": "#iznux5"
+    },
+    {
+      "@id": "#bjw6qq",
+      "name": "Safe elevators made towers practical",
+      "x": -405,
+      "y": 156,
+      "parent": "#iznux5"
+    },
+    {
+      "@id": "#2tdt8k",
+      "name": "Buildings use about 30% of energy",
+      "x": -525,
+      "y": 62,
+      "parent": "#iznux5"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

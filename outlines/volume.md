@@ -1,0 +1,28 @@
+category: Mathematics
+aliases: volume of shapes, volume formulas, how to calculate volume
+- Volume
+  - What volume means
+    - Space a 3D object takes up
+    - Counted in unit cubes
+    - Cubic metres, litres, gallons
+  - Box-like shapes
+    - Cuboid: length times width times height
+    - Cube: side length cubed
+    - Prism: cross-section area times length
+  - Pointed and round shapes
+    - Cylinder: pi r squared times height
+    - Cone and pyramid: one-third of prism
+    - [Sphere: four-thirds pi r cubed](https://en.wikipedia.org/wiki/Sphere)
+    - [Archimedes proved the sphere-cylinder ratio](https://en.wikipedia.org/wiki/On_the_Sphere_and_Cylinder)
+  - Measuring real objects
+    - Measuring jug for liquids
+    - [Displacement: sink it, measure water rise](https://en.wikipedia.org/wiki/Displacement_%28fluid%29)
+    - One litre is 1,000 cubic centimetres
+  - Scaling and calculus
+    - Double the lengths, eight times volume
+    - [Cavalieri: equal slices, equal volume](https://en.wikipedia.org/wiki/Cavalieri%27s_principle)
+    - Integration sums thin slices
+  - Everyday uses
+    - Density is mass divided by volume
+    - Engine size in cubic centimetres
+    - Shipping, cooking and medicine doses

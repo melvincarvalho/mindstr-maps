@@ -1,0 +1,32 @@
+category: Philosophy and religion
+aliases: gods and goddesses, deities
+- Deity
+  - What a deity is
+    - A god or goddess, a supernatural being
+    - Worshipped as powerful or sacred
+    - May rule nature, places or fate
+  - How many gods
+    - [Monotheism: one God](https://en.wikipedia.org/wiki/Monotheism)
+    - [Polytheism: many gods](https://en.wikipedia.org/wiki/Polytheism)
+    - Henotheism: one supreme among many
+    - Pantheism: the divine is everything
+  - Famous pantheons
+    - [Greek: Zeus rules from Olympus](https://en.wikipedia.org/wiki/Twelve_Olympians)
+    - Egyptian: Ra, Osiris and Isis
+    - Norse: Odin, Thor and Freyja
+    - Hindu: Vishnu, Shiva and Devi
+    - Yoruba orishas such as Ogun, Oshun
+  - Common roles
+    - Sky, storm and sun gods
+    - Mother and fertility goddesses
+    - Gods of war, love and wisdom
+    - Tricksters like Loki and Coyote
+    - Creators who shape the world
+  - How people relate to them
+    - Offerings, sacrifice and temples
+    - Myths tell of their deeds
+    - Statues and images, or none
+  - Related ideas
+    - Demigods and deified heroes
+    - Rulers treated as divine, like pharaohs
+    - [Animism: spirits within nature](https://en.wikipedia.org/wiki/Animism)

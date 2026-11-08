@@ -1,0 +1,29 @@
+category: Technology
+aliases: printing methods, history of printing, types of printing, how printing works
+- Printing
+  - What printing is
+    - Transferring ink from a master copy
+    - Text or images onto paper, cloth
+    - Makes many identical copies fast
+  - Early printing
+    - Seals stamped clay in Mesopotamia
+    - [Chinese woodblock printing, 7th century](https://en.wikipedia.org/wiki/Woodblock_printing)
+    - [Diamond Sutra, dated 868 AD](https://en.wikipedia.org/wiki/Diamond_Sutra)
+    - Bi Sheng's clay movable type, 1040s
+  - Gutenberg's press
+    - Metal movable type, about 1440
+    - [Gutenberg Bible, about 1455](https://en.wikipedia.org/wiki/Gutenberg_Bible)
+    - Books spread ideas across Europe
+  - Industrial printing
+    - Steam presses printed The Times, 1814
+    - [Lithography: printing from flat stone](https://en.wikipedia.org/wiki/Lithography)
+    - Offset printing for books and magazines
+    - Screen printing for T-shirts
+  - Colour printing
+    - CMYK: cyan, magenta, yellow, black
+    - Tiny halftone dots blend into colours
+  - Printing today
+    - Inkjets spray tiny ink droplets
+    - Laser printers fuse toner with heat
+    - Print-on-demand books
+    - [3D printing builds objects layer by layer](https://en.wikipedia.org/wiki/3D_printing)

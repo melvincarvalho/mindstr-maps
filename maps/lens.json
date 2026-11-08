@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Lens",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#stpgbu",
+      "name": "How lenses bend light",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ids4gw",
+      "name": "Light slows in glass and bends",
+      "x": -505,
+      "y": -60,
+      "link": "https://en.wikipedia.org/wiki/Refraction",
+      "parent": "#stpgbu"
+    },
+    {
+      "@id": "#7t98th",
+      "name": "Curved surfaces bend rays by different amounts",
+      "x": -405,
+      "y": -156,
+      "parent": "#stpgbu"
+    },
+    {
+      "@id": "#gafqa5",
+      "name": "Focal length: where parallel rays meet",
+      "x": -330,
+      "y": -245,
+      "parent": "#stpgbu"
+    },
+    {
+      "@id": "#7nui6u",
+      "name": "Two basic shapes",
+      "x": -51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4d3rrd",
+      "name": "Convex lenses bring light together",
+      "x": -225,
+      "y": -312,
+      "parent": "#7nui6u"
+    },
+    {
+      "@id": "#9srtyu",
+      "name": "Concave lenses spread light out",
+      "x": -104,
+      "y": -367,
+      "parent": "#7nui6u"
+    },
+    {
+      "@id": "#4j9wf4",
+      "name": "Convex lenses can form upside-down images",
+      "x": 42,
+      "y": -423,
+      "parent": "#7nui6u"
+    },
+    {
+      "@id": "#4b64d3",
+      "name": "Power and flaws",
+      "x": 169,
+      "y": -125,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v2na6w",
+      "name": "Shorter focal length means stronger lens",
+      "x": 234,
+      "y": -485,
+      "parent": "#4b64d3"
+    },
+    {
+      "@id": "#zsvxjm",
+      "name": "Opticians measure power in dioptres",
+      "x": 281,
+      "y": -281,
+      "parent": "#4b64d3"
+    },
+    {
+      "@id": "#fzjm95",
+      "name": "Chromatic aberration fringes colours",
+      "x": 372,
+      "y": -203,
+      "link": "https://en.wikipedia.org/wiki/Chromatic_aberration",
+      "parent": "#4b64d3"
+    },
+    {
+      "@id": "#75ebqm",
+      "name": "Compound lenses correct the flaws",
+      "x": 449,
+      "y": -111,
+      "parent": "#4b64d3"
+    },
+    {
+      "@id": "#eas8k7",
+      "name": "History",
+      "x": 220,
+      "y": 54,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mqudjw",
+      "name": "Polished crystal lenses in ancient Assyria",
+      "x": 450,
+      "y": 0,
+      "parent": "#eas8k7"
+    },
+    {
+      "@id": "#gssu6g",
+      "name": "Eyeglasses invented in Italy, about 1290",
+      "x": 430,
+      "y": 106,
+      "link": "https://en.wikipedia.org/wiki/Glasses",
+      "parent": "#eas8k7"
+    },
+    {
+      "@id": "#r2a5hu",
+      "name": "Lenses made telescopes and microscopes possible",
+      "x": 372,
+      "y": 203,
+      "parent": "#eas8k7"
+    },
+    {
+      "@id": "#rmis2m",
+      "name": "Correcting eyesight",
+      "x": 71,
+      "y": 259,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pxkrcv",
+      "name": "Short sight: concave lenses",
+      "x": 317,
+      "y": 317,
+      "parent": "#rmis2m"
+    },
+    {
+      "@id": "#6u3ax4",
+      "name": "Long sight: convex lenses",
+      "x": 178,
+      "y": 365,
+      "parent": "#rmis2m"
+    },
+    {
+      "@id": "#idkxp6",
+      "name": "Astigmatism: cylindrical lenses",
+      "x": 42,
+      "y": 423,
+      "parent": "#rmis2m"
+    },
+    {
+      "@id": "#ismsxu",
+      "name": "Contact lenses sit on the eye",
+      "x": -132,
+      "y": 479,
+      "parent": "#rmis2m"
+    },
+    {
+      "@id": "#kg4ms8",
+      "name": "Lenses all around you",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fx2fyp",
+      "name": "Your eye has its own lens",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wikipedia.org/wiki/Human_eye",
+      "parent": "#kg4ms8"
+    },
+    {
+      "@id": "#udsyjn",
+      "name": "Camera and phone lenses",
+      "x": -330,
+      "y": 245,
+      "parent": "#kg4ms8"
+    },
+    {
+      "@id": "#g6ejux",
+      "name": "Magnifying glasses and projectors",
+      "x": -405,
+      "y": 156,
+      "parent": "#kg4ms8"
+    },
+    {
+      "@id": "#7rud36",
+      "name": "Fresnel lenses in lighthouses",
+      "x": -445,
+      "y": 54,
+      "parent": "#kg4ms8"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

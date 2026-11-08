@@ -1,0 +1,29 @@
+category: Society
+aliases: environmental pollution, types of pollution, pollution causes and effects
+- Pollution
+  - [Air pollution](https://en.wikipedia.org/wiki/Air_pollution)
+    - Fine particles (PM2.5) from burning fuels
+    - Smog from vehicle and factory emissions
+    - About 7 million deaths a year
+    - Indoor smoke from cooking fires
+  - [Water pollution](https://en.wikipedia.org/wiki/Water_pollution)
+    - Sewage spreads cholera and other diseases
+    - Fertiliser runoff causes algal blooms
+    - Oil spills harm marine life
+    - Industrial waste and heavy metals
+  - Land and soil pollution
+    - Landfills leak chemicals into groundwater
+    - Pesticides and mining waste
+    - Plastics break into microplastics
+  - Other forms
+    - Noise pollution harms sleep, health
+    - Light pollution hides the night sky
+    - Radioactive contamination after nuclear accidents
+  - Landmark events
+    - [Great Smog of London, 1952](https://en.wikipedia.org/wiki/Great_Smog_of_London)
+    - Bhopal gas disaster, 1984
+    - Silent Spring sparked environmental movement
+  - Solutions
+    - Clean Air and Clean Water Acts
+    - [Montreal Protocol phased out CFCs](https://en.wikipedia.org/wiki/Montreal_Protocol)
+    - Polluter pays principle

@@ -1,0 +1,29 @@
+category: History
+aliases: history of humanity, history of the world, world history, history of mankind
+- Human history
+  - Prehistory
+    - Homo sapiens arises about 300,000 years ago
+    - Migrations out of Africa reach every continent
+    - Stone tools, fire and cave art
+  - Farming and the first cities
+    - [Farming begins about 10,000 BC](https://en.wikipedia.org/wiki/Neolithic_Revolution)
+    - Mesopotamia, Egypt, Indus Valley and China
+    - Writing invented in Sumer, about 3200 BC
+  - Classical empires, about 500 BC–AD 500
+    - Greece and Rome in the Mediterranean
+    - Persian, Maurya and Han empires
+    - Major religions and philosophies spread
+  - Middle Ages, about 500–1500
+    - Islamic Golden Age centred on Baghdad
+    - [Mongol Empire spans Eurasia](https://en.wikipedia.org/wiki/Mongol_Empire)
+    - Black Death kills millions in the 1340s
+    - Song China, Mali, Aztecs and Incas
+  - Early modern era, about 1500–1800
+    - Columbus's voyages link Old and New Worlds
+    - [Atlantic slave trade enslaves about 12 million](https://en.wikipedia.org/wiki/Atlantic_slave_trade)
+    - Printing press and Scientific Revolution
+  - Modern era
+    - [Industrial Revolution begins in Britain](https://en.wikipedia.org/wiki/Industrial_Revolution)
+    - Two world wars, 1914–1945
+    - Decolonisation and the Cold War
+    - World population passes 8 billion, 2022

@@ -1,0 +1,29 @@
+category: Mathematics
+aliases: 3d space, three dimensions, 3d geometry, 3d coordinates
+- Three-dimensional space
+  - What it means
+    - Three independent directions to move
+    - Length, width and height
+    - Our everyday physical world
+  - Coordinates
+    - [Three perpendicular axes: x, y, z](https://en.wikipedia.org/wiki/Cartesian_coordinate_system)
+    - Every point is three numbers
+    - Distance: Pythagoras with a third term
+    - Spherical coordinates use angles and radius
+  - Objects in 3D
+    - Planes are flat, endless surfaces
+    - [Five Platonic solids exist](https://en.wikipedia.org/wiki/Platonic_solid)
+    - Spheres, cylinders, cones and prisms
+    - Volume and surface area measure solids
+  - Strange 3D facts
+    - Lines can be skew, never meeting
+    - Knots only exist in 3D
+    - Left and right hands are mirror images
+  - Beyond three
+    - [Time as fourth dimension: spacetime](https://en.wikipedia.org/wiki/Spacetime)
+    - [Four-dimensional space and the tesseract](https://en.wikipedia.org/wiki/Four-dimensional_space)
+    - Data science uses many dimensions
+  - Uses
+    - 3D printing and computer-aided design
+    - Games and films use 3D graphics
+    - [Vectors describe forces and motion](https://en.wikipedia.org/wiki/Euclidean_vector)

@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Stroke",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#5vmr5h",
+      "name": "Spot it: FAST",
+      "x": -193,
+      "y": -99,
+      "link": "https://en.wikipedia.org/wiki/FAST_%28stroke%29",
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t7pdvc",
+      "name": "Face drooping on one side",
+      "x": -445,
+      "y": -51,
+      "parent": "#5vmr5h"
+    },
+    {
+      "@id": "#r7f8vd",
+      "name": "Arm weakness or numbness",
+      "x": -409,
+      "y": -150,
+      "parent": "#5vmr5h"
+    },
+    {
+      "@id": "#jhttwd",
+      "name": "Speech slurred or confused",
+      "x": -340,
+      "y": -236,
+      "parent": "#5vmr5h"
+    },
+    {
+      "@id": "#q5n2w2",
+      "name": "Time to call emergency services",
+      "x": -243,
+      "y": -303,
+      "parent": "#5vmr5h"
+    },
+    {
+      "@id": "#pduu4c",
+      "name": "Other sudden signs",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p72zrb",
+      "name": "Vision loss in one or both eyes",
+      "x": -133,
+      "y": -360,
+      "parent": "#pduu4c"
+    },
+    {
+      "@id": "#2b6gmn",
+      "name": "Severe sudden headache",
+      "x": 0,
+      "y": -408,
+      "parent": "#pduu4c"
+    },
+    {
+      "@id": "#z3ukvt",
+      "name": "Dizziness or loss of balance",
+      "x": 175,
+      "y": -465,
+      "parent": "#pduu4c"
+    },
+    {
+      "@id": "#g52yfe",
+      "name": "What happens",
+      "x": 209,
+      "y": -76,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6cjefj",
+      "name": "Blood supply to brain is cut",
+      "x": 243,
+      "y": -303,
+      "parent": "#g52yfe"
+    },
+    {
+      "@id": "#hef96x",
+      "name": "Ischaemic: clot blocks an artery",
+      "x": 340,
+      "y": -236,
+      "link": "https://en.wikipedia.org/wiki/Ischemic_stroke",
+      "parent": "#g52yfe"
+    },
+    {
+      "@id": "#h6va2v",
+      "name": "Haemorrhagic: a vessel bursts",
+      "x": 409,
+      "y": -150,
+      "parent": "#g52yfe"
+    },
+    {
+      "@id": "#fxd6ey",
+      "name": "TIA: warning mini-stroke",
+      "x": 445,
+      "y": -51,
+      "link": "https://en.wikipedia.org/wiki/Transient_ischemic_attack",
+      "parent": "#g52yfe"
+    },
+    {
+      "@id": "#2x4pra",
+      "name": "Brain cells die within minutes",
+      "x": 445,
+      "y": 51,
+      "parent": "#g52yfe"
+    },
+    {
+      "@id": "#5ft6ay",
+      "name": "Risk factors",
+      "x": 151,
+      "y": 139,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mm7muh",
+      "name": "High blood pressure is the biggest",
+      "x": 427,
+      "y": 157,
+      "parent": "#5ft6ay"
+    },
+    {
+      "@id": "#jzae87",
+      "name": "Atrial fibrillation causes clots",
+      "x": 340,
+      "y": 236,
+      "parent": "#5ft6ay"
+    },
+    {
+      "@id": "#vpgc73",
+      "name": "Smoking, diabetes and high cholesterol",
+      "x": 243,
+      "y": 303,
+      "parent": "#5ft6ay"
+    },
+    {
+      "@id": "#ma54j6",
+      "name": "Older age and inactivity",
+      "x": 133,
+      "y": 360,
+      "parent": "#5ft6ay"
+    },
+    {
+      "@id": "#gemfxx",
+      "name": "Emergency treatment",
+      "x": -65,
+      "y": 177,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xsq47y",
+      "name": "Brain scan shows clot or bleed",
+      "x": 0,
+      "y": 408,
+      "parent": "#gemfxx"
+    },
+    {
+      "@id": "#3rhcg2",
+      "name": "Clot-busting drug within hours",
+      "x": -175,
+      "y": 465,
+      "parent": "#gemfxx"
+    },
+    {
+      "@id": "#qgygp8",
+      "name": "Thrombectomy pulls out the clot",
+      "x": -243,
+      "y": 303,
+      "link": "https://en.wikipedia.org/wiki/Thrombectomy",
+      "parent": "#gemfxx"
+    },
+    {
+      "@id": "#rs5myi",
+      "name": "Recovery and prevention",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6e5wcw",
+      "name": "Rehab: physio, speech, occupational therapy",
+      "x": -340,
+      "y": 236,
+      "parent": "#rs5myi"
+    },
+    {
+      "@id": "#bgfz3i",
+      "name": "Blood thinners and blood pressure drugs",
+      "x": -409,
+      "y": 150,
+      "parent": "#rs5myi"
+    },
+    {
+      "@id": "#ipni88",
+      "name": "Healthy lifestyle cuts repeat risk",
+      "x": -525,
+      "y": 59,
+      "parent": "#rs5myi"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 10,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,29 @@
+category: Society
+aliases: feminist movement, women's liberation, women's rights movement, what is feminism
+- Feminism
+  - Core idea
+    - Equal rights and opportunities for women
+    - Challenges discrimination based on sex
+  - First wave, about 1840s–1920s
+    - [Seneca Falls Convention, 1848](https://en.wikipedia.org/wiki/Seneca_Falls_Convention)
+    - [Suffragists win women the vote](https://en.wikipedia.org/wiki/Women%27s_suffrage)
+    - Property and legal rights for women
+  - Second wave, 1960s–1980s
+    - [The Second Sex by Simone de Beauvoir](https://en.wikipedia.org/wiki/The_Second_Sex)
+    - The Feminine Mystique by Betty Friedan
+    - Workplace equality and equal pay laws
+    - Reproductive rights and contraception
+  - Third and fourth waves
+    - 1990s focus on diversity and identity
+    - [Intersectionality links sex, race and class](https://en.wikipedia.org/wiki/Intersectionality)
+    - MeToo movement against sexual harassment
+  - Schools of thought
+    - Liberal: equality through law and reform
+    - Radical: patriarchy as root problem
+    - Marxist and socialist: links to class
+    - Black feminism and womanism
+  - Debates and criticism
+    - Disagreements within feminism over priorities
+    - Conservatives defend traditional gender roles
+    - Disputes over sex work and pornography
+    - Questions about gender identity

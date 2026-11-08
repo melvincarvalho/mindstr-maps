@@ -1,0 +1,30 @@
+category: People
+aliases: archimedes of syracuse
+- Archimedes
+  - Life in Syracuse
+    - Born about 287 BC in Sicily
+    - Greek city ruled by King Hiero II
+    - May have studied in Alexandria
+  - Mathematics
+    - Pi between 3 10/71 and 3 1/7
+    - Sphere is two-thirds of its cylinder
+    - [Areas by the method of exhaustion](https://en.wikipedia.org/wiki/Method_of_exhaustion)
+    - The Sand Reckoner counted huge numbers
+  - Physics
+    - [Buoyancy: Archimedes' principle](https://en.wikipedia.org/wiki/Archimedes%27_principle)
+    - Law of the lever
+    - Centres of gravity of shapes
+    - Eureka bath tale comes from Vitruvius
+  - Inventions
+    - [Archimedes' screw lifts water](https://en.wikipedia.org/wiki/Archimedes%27_screw)
+    - Compound pulleys to move ships
+    - Claw that tipped Roman ships
+    - Heat-ray mirrors are probably legend
+  - Death
+    - Roman siege of Syracuse, 213–212 BC
+    - Killed by a Roman soldier, 212 BC
+    - Tomb marked with sphere and cylinder
+  - Legacy
+    - [Archimedes Palimpsest revealed lost works](https://en.wikipedia.org/wiki/Archimedes_Palimpsest)
+    - Foreshadowed integral calculus
+    - Pictured on the Fields Medal

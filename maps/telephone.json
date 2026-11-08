@@ -1,0 +1,308 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Telephone",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#k3ust9",
+      "name": "How it works",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#34v4cv",
+      "name": "Microphone turns voice into electric signals",
+      "x": -504,
+      "y": -68,
+      "parent": "#k3ust9"
+    },
+    {
+      "@id": "#fzzxkr",
+      "name": "Signal travels the line via exchanges",
+      "x": -396,
+      "y": -171,
+      "parent": "#k3ust9"
+    },
+    {
+      "@id": "#irgb47",
+      "name": "Earpiece turns it back into sound",
+      "x": -305,
+      "y": -265,
+      "parent": "#k3ust9"
+    },
+    {
+      "@id": "#bqk8a8",
+      "name": "Invention",
+      "x": -19,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wi7nnr",
+      "name": "Alexander Graham Bell's patent, 1876",
+      "x": -181,
+      "y": -330,
+      "link": "https://en.wikipedia.org/wiki/Alexander_Graham_Bell",
+      "parent": "#bqk8a8"
+    },
+    {
+      "@id": "#ffwpvq",
+      "name": "Meucci and Gray had rival claims",
+      "x": -41,
+      "y": -391,
+      "parent": "#bqk8a8"
+    },
+    {
+      "@id": "#4sjmed",
+      "name": "First words: \"Mr. Watson, come here\"",
+      "x": 140,
+      "y": -445,
+      "parent": "#bqk8a8"
+    },
+    {
+      "@id": "#66mn5v",
+      "name": "Exchanges and switching",
+      "x": 202,
+      "y": -88,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j77qje",
+      "name": "Operators connected calls by hand",
+      "x": 246,
+      "y": -301,
+      "parent": "#66mn5v"
+    },
+    {
+      "@id": "#v7dtv6",
+      "name": "Automatic exchanges from the 1890s",
+      "x": 355,
+      "y": -221,
+      "link": "https://en.wikipedia.org/wiki/Telephone_exchange",
+      "parent": "#66mn5v"
+    },
+    {
+      "@id": "#khp65c",
+      "name": "Phone numbers route each call",
+      "x": 502,
+      "y": -137,
+      "parent": "#66mn5v"
+    },
+    {
+      "@id": "#p6mzcy",
+      "name": "Digital switching from the 1970s",
+      "x": 450,
+      "y": 0,
+      "parent": "#66mn5v"
+    },
+    {
+      "@id": "#shxapq",
+      "name": "The phone at home",
+      "x": 182,
+      "y": 113,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9wband",
+      "name": "Rotary dials, then touch-tone keypads",
+      "x": 483,
+      "y": 132,
+      "parent": "#shxapq"
+    },
+    {
+      "@id": "#238i5h",
+      "name": "Cordless handsets and answering machines",
+      "x": 355,
+      "y": 221,
+      "parent": "#shxapq"
+    },
+    {
+      "@id": "#t5zw84",
+      "name": "Emergency numbers like 999 and 911",
+      "x": 246,
+      "y": 301,
+      "link": "https://en.wikipedia.org/wiki/Emergency_telephone_number",
+      "parent": "#shxapq"
+    },
+    {
+      "@id": "#fjvzgx",
+      "name": "Going long distance",
+      "x": -19,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tg2udn",
+      "name": "First US coast-to-coast call, 1915",
+      "x": 110,
+      "y": 349,
+      "parent": "#fjvzgx"
+    },
+    {
+      "@id": "#ivmc8w",
+      "name": "First transatlantic phone cable, 1956",
+      "x": -43,
+      "y": 407,
+      "link": "https://en.wikipedia.org/wiki/TAT-1",
+      "parent": "#fjvzgx"
+    },
+    {
+      "@id": "#ic7deu",
+      "name": "Satellites and fibre carry calls worldwide",
+      "x": -253,
+      "y": 465,
+      "parent": "#fjvzgx"
+    },
+    {
+      "@id": "#c4uguv",
+      "name": "The phone today",
+      "x": -202,
+      "y": 88,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#eqnttd",
+      "name": "Mobile phones overtook landlines",
+      "x": -305,
+      "y": 265,
+      "parent": "#c4uguv"
+    },
+    {
+      "@id": "#wdcuhz",
+      "name": "Internet calls use VoIP",
+      "x": -396,
+      "y": 171,
+      "parent": "#c4uguv"
+    },
+    {
+      "@id": "#vd8d9z",
+      "name": "Fewer homes keep a landline",
+      "x": -464,
+      "y": 62,
+      "parent": "#c4uguv"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

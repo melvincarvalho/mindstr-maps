@@ -1,0 +1,29 @@
+category: Society
+aliases: human mind, the mind, what is the mind, mind and brain
+- Mind
+  - What the mind is
+    - Thinking, feeling, perceiving and remembering
+    - The inner life of a person
+    - Closely tied to the brain
+  - What the mind does
+    - Perception turns senses into experience
+    - Memory stores and recalls the past
+    - Reasoning, planning and deciding
+    - Emotions colour every judgement
+  - Mind and brain
+    - About 86 billion neurons connect
+    - Brain damage can change personality
+    - [The mind–body problem remains open](https://en.wikipedia.org/wiki/Mind%E2%80%93body_problem)
+  - Conscious and unconscious
+    - Awareness is only a small part
+    - Much processing happens automatically
+    - [Freud popularised the unconscious mind](https://en.wikipedia.org/wiki/Unconscious_mind)
+  - How we study it
+    - [Psychology studies behaviour and experience](https://en.wikipedia.org/wiki/Psychology)
+    - Neuroscience scans the working brain
+    - [Philosophy of mind asks deeper questions](https://en.wikipedia.org/wiki/Philosophy_of_mind)
+    - Cognitive science links many fields
+  - Other minds
+    - [Theory of mind: reading others' thoughts](https://en.wikipedia.org/wiki/Theory_of_mind)
+    - Animals show varying mental abilities
+    - Could machines ever have minds?

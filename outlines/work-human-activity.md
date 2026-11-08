@@ -1,0 +1,30 @@
+category: Society
+aliases: human labour, meaning of work, why people work, sociology of work
+- Work (human activity)
+  - What work is
+    - Effort to produce goods or services
+    - Paid jobs and unpaid labour
+    - [Unpaid care and housework count too](https://en.wikipedia.org/wiki/Unpaid_work)
+  - Why people work
+    - Income to meet needs
+    - Identity, status and purpose
+    - Social contact and structure
+  - How work changed
+    - Hunting, gathering, then farming
+    - Craft guilds and apprenticeships
+    - [Industrial Revolution moved work to factories](https://en.wikipedia.org/wiki/Industrial_Revolution)
+    - Most rich-country jobs now in services
+  - How work is organised
+    - [Division of labour boosts productivity](https://en.wikipedia.org/wiki/Division_of_labour)
+    - Employment contracts and wages
+    - Self-employment and the gig economy
+    - Unions bargain for workers collectively
+  - Rights and conditions
+    - Eight-hour day won in 20th century
+    - Minimum wages and safety laws
+    - Child and forced labour banned
+    - [ILO sets international labour standards](https://en.wikipedia.org/wiki/International_Labour_Organization)
+  - The future of work
+    - Automation and AI reshape jobs
+    - Hybrid and flexible working spread
+    - [Debates over a universal basic income](https://en.wikipedia.org/wiki/Universal_basic_income)

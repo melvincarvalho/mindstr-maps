@@ -1,0 +1,28 @@
+category: Life and home
+aliases: home furniture, furnishings, types of furniture
+- Furniture
+  - What furniture is for
+    - Sitting, sleeping and working
+    - Storing and displaying things
+    - Shaping how a room is used
+  - Main types
+    - Seating: chairs, sofas, stools, benches
+    - Tables and desks
+    - Beds and mattresses
+    - Storage: wardrobes, shelves, chests of drawers
+  - Materials
+    - Solid hardwoods like oak and walnut
+    - Plywood, MDF and particleboard
+    - Metal, plastic, rattan and glass
+    - Upholstery fabric, leather and foam
+  - Styles through history
+    - Ancient Egyptian chairs and beds
+    - [Chippendale and Georgian craftsmanship](https://en.wikipedia.org/wiki/Thomas_Chippendale)
+    - [Arts and Crafts favoured handwork](https://en.wikipedia.org/wiki/Arts_and_Crafts_movement)
+    - [Mid-century modern: clean simple lines](https://en.wikipedia.org/wiki/Mid-century_modern)
+    - [Flat-pack furniture made it affordable](https://en.wikipedia.org/wiki/Ready-to-assemble_furniture)
+  - Choosing and caring
+    - Measure the room and doorways first
+    - Check joints, frames and stability
+    - Anchor tall units to the wall
+    - Buy second-hand, repair and reupholster

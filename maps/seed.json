@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Seed",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#8cawcd",
+      "name": "What a seed is",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ktuitq",
+      "name": "Embryo plant in a protective coat",
+      "x": -485,
+      "y": -58,
+      "parent": "#8cawcd"
+    },
+    {
+      "@id": "#fm9h2j",
+      "name": "Food store: endosperm or cotyledons",
+      "x": -405,
+      "y": -156,
+      "parent": "#8cawcd"
+    },
+    {
+      "@id": "#t75db2",
+      "name": "Made by seed plants after fertilisation",
+      "x": -330,
+      "y": -245,
+      "link": "https://en.wikipedia.org/wiki/Spermatophyte",
+      "parent": "#8cawcd"
+    },
+    {
+      "@id": "#dtp4he",
+      "name": "Two main groups",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8ak5qx",
+      "name": "Gymnosperms: naked seeds, like conifers",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Gymnosperm",
+      "parent": "#dtp4he"
+    },
+    {
+      "@id": "#ekqyw3",
+      "name": "Flowering plants: seeds enclosed in fruit",
+      "x": -104,
+      "y": -367,
+      "parent": "#dtp4he"
+    },
+    {
+      "@id": "#k5grvr",
+      "name": "Monocots have one seed leaf",
+      "x": 42,
+      "y": -423,
+      "parent": "#dtp4he"
+    },
+    {
+      "@id": "#vpus3v",
+      "name": "Dicots have two seed leaves",
+      "x": 234,
+      "y": -485,
+      "parent": "#dtp4he"
+    },
+    {
+      "@id": "#vrd7bn",
+      "name": "Getting dispersed",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tytyai",
+      "name": "Wind: dandelion parachutes, sycamore wings",
+      "x": 281,
+      "y": -281,
+      "parent": "#vrd7bn"
+    },
+    {
+      "@id": "#8qb6h3",
+      "name": "Animals eat fruit or carry burrs",
+      "x": 372,
+      "y": -203,
+      "parent": "#vrd7bn"
+    },
+    {
+      "@id": "#4rrdnu",
+      "name": "Water carries floating coconuts",
+      "x": 487,
+      "y": -121,
+      "parent": "#vrd7bn"
+    },
+    {
+      "@id": "#rvbk6i",
+      "name": "Some pods burst and fling seeds",
+      "x": 450,
+      "y": 0,
+      "parent": "#vrd7bn"
+    },
+    {
+      "@id": "#vs8aht",
+      "name": "Dormancy",
+      "x": 190,
+      "y": 104,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dr99d4",
+      "name": "Waits for the right conditions",
+      "x": 430,
+      "y": 106,
+      "link": "https://en.wikipedia.org/wiki/Seed_dormancy",
+      "parent": "#vs8aht"
+    },
+    {
+      "@id": "#9wpy9s",
+      "name": "Some need cold, fire or scratching",
+      "x": 372,
+      "y": 203,
+      "parent": "#vs8aht"
+    },
+    {
+      "@id": "#b864bd",
+      "name": "A 2,000-year-old date seed sprouted",
+      "x": 281,
+      "y": 281,
+      "parent": "#vs8aht"
+    },
+    {
+      "@id": "#udz25a",
+      "name": "Germination",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j5nsd3",
+      "name": "Needs water, oxygen and warmth",
+      "x": 164,
+      "y": 335,
+      "parent": "#udz25a"
+    },
+    {
+      "@id": "#xe238k",
+      "name": "Seed soaks up water and swells",
+      "x": 38,
+      "y": 391,
+      "parent": "#udz25a"
+    },
+    {
+      "@id": "#rkb87w",
+      "name": "Root emerges first, then the shoot",
+      "x": -124,
+      "y": 447,
+      "parent": "#udz25a"
+    },
+    {
+      "@id": "#6n75ae",
+      "name": "Stored food lasts until photosynthesis begins",
+      "x": -235,
+      "y": 326,
+      "link": "https://en.wikipedia.org/wiki/Germination",
+      "parent": "#udz25a"
+    },
+    {
+      "@id": "#mvjka6",
+      "name": "Seeds and people",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sa9dp5",
+      "name": "Grains like wheat, rice and maize",
+      "x": -330,
+      "y": 245,
+      "parent": "#mvjka6"
+    },
+    {
+      "@id": "#bf2zzg",
+      "name": "Beans, nuts and cooking oils",
+      "x": -405,
+      "y": 156,
+      "parent": "#mvjka6"
+    },
+    {
+      "@id": "#2hd5af",
+      "name": "Seed banks like Svalbard preserve diversity",
+      "x": -545,
+      "y": 64,
+      "link": "https://en.wikipedia.org/wiki/Svalbard_Global_Seed_Vault",
+      "parent": "#mvjka6"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

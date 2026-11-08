@@ -1,0 +1,32 @@
+category: Science
+aliases: quantum physics, quantum theory, quantum mechanics explained
+- Quantum mechanics
+  - What it describes
+    - How atoms and particles behave
+    - Rules very different from everyday objects
+    - Underlies all of chemistry
+  - Core ideas
+    - Energy comes in discrete packets
+    - [Wave–particle duality](https://en.wikipedia.org/wiki/Wave%E2%80%93particle_duality)
+    - [Uncertainty principle limits precision](https://en.wikipedia.org/wiki/Uncertainty_principle)
+    - Superposition: many states until measured
+    - [Entanglement links distant particles](https://en.wikipedia.org/wiki/Quantum_entanglement)
+    - Tunnelling through barriers
+  - How it was discovered
+    - Planck's quanta explain glowing heat, 1900
+    - Einstein's light quanta, 1905
+    - Bohr's quantised atom, 1913
+    - Heisenberg and Schrödinger's equations, 1925–26
+  - The maths
+    - [Wave function gives probabilities](https://en.wikipedia.org/wiki/Wave_function)
+    - Schrödinger equation shows how it evolves
+    - Results are probabilities, not certainties
+  - What it means
+    - Copenhagen: measurement settles the outcome
+    - Many-worlds: every outcome happens
+    - [Schrödinger's cat thought experiment](https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat)
+  - Where you meet it
+    - Transistors and computer chips
+    - Lasers and LEDs
+    - MRI scanners
+    - Atomic clocks and GPS

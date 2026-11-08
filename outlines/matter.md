@@ -1,0 +1,29 @@
+category: Science
+aliases: what is matter, physical matter, matter physics
+- Matter
+  - What counts as matter
+    - Anything with mass that takes up space
+    - Light and energy alone are not matter
+    - Mass and energy interchange, E = mc²
+  - Building blocks
+    - [Everything is made of atoms](https://en.wikipedia.org/wiki/Atom)
+    - Nucleus of protons and neutrons
+    - Electrons surround the nucleus
+    - Protons and neutrons are made of quarks
+    - About 118 known chemical elements
+  - How atoms combine
+    - Atoms bond to form molecules
+    - Compounds like water (H₂O), salt (NaCl)
+    - Mixtures like air or seawater
+  - [States of matter](https://en.wikipedia.org/wiki/State_of_matter)
+    - Solid, liquid, gas and plasma
+    - Heating or cooling changes state
+    - Mass is conserved in changes
+  - Properties we measure
+    - Mass, volume and density
+    - Melting and boiling points
+    - Physical versus chemical changes
+  - The bigger picture
+    - [Antimatter: opposite charge, annihilates matter](https://en.wikipedia.org/wiki/Antimatter)
+    - [Dark matter outweighs ordinary matter fivefold](https://en.wikipedia.org/wiki/Dark_matter)
+    - Ordinary matter is about 5% of universe

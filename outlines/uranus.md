@@ -1,0 +1,28 @@
+category: Science
+aliases: planet uranus, uranus planet
+- Uranus
+  - Size and orbit
+    - Seventh planet from the Sun
+    - About 4 times Earth's diameter
+    - About 2.9 billion km from the Sun
+    - Year of about 84 Earth years
+  - Discovery
+    - [Found by William Herschel in 1781](https://en.wikipedia.org/wiki/William_Herschel)
+    - First planet found by telescope
+    - Named after Greek god of the sky
+  - An ice giant
+    - Water, ammonia and methane ices
+    - Methane gives the blue-green colour
+    - Coldest atmosphere, about −224°C
+  - Tipped on its side
+    - [Axis tilted about 98 degrees](https://en.wikipedia.org/wiki/Axial_tilt)
+    - Probably knocked over by a collision
+    - Each pole gets 42 years of sunlight
+  - Moons and rings
+    - 29 known moons
+    - Named after Shakespeare and Pope characters
+    - Miranda has giant cliffs
+    - Thin, dark rings found in 1977
+  - Exploration
+    - [Only Voyager 2 has visited, 1986](https://en.wikipedia.org/wiki/Voyager_2)
+    - Orbiter mission a top NASA priority

@@ -1,0 +1,30 @@
+category: People
+aliases: copernicus, mikolaj kopernik, nicholas copernicus
+- Nicolaus Copernicus
+  - Life
+    - Born 1473 in Toruń, Poland
+    - Studied at Kraków, Bologna and Padua
+    - Canon of Warmia, based at Frombork
+    - Died 1543 in Frombork
+  - The Sun-centred universe
+    - [Earth and planets orbit the Sun](https://en.wikipedia.org/wiki/Heliocentrism)
+    - Earth spins daily on its axis
+    - Explained retrograde motion simply
+    - Kept circular orbits and epicycles
+  - [On the Revolutions of the Heavenly Spheres](https://en.wikipedia.org/wiki/De_revolutionibus_orbium_coelestium)
+    - Commentariolus sketch, about 1514
+    - Published 1543, the year he died
+    - Rheticus persuaded him to publish
+    - Osiander's preface called it hypothesis
+  - Other work
+    - Physician, administrator and diplomat
+    - Early statement of Gresham's law
+    - Defended Olsztyn Castle against Teutonic Knights
+  - Reception
+    - Catholic Church suspended the book, 1616
+    - Kepler and Galileo built on it
+    - [Overturned Ptolemy's Earth-centred model](https://en.wikipedia.org/wiki/Geocentric_model)
+  - Legacy
+    - Started the Copernican Revolution
+    - Reburied with honours in Frombork, 2010
+    - Element copernicium named after him

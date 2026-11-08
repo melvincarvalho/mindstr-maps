@@ -1,0 +1,32 @@
+category: People
+aliases: descartes, cartesian philosophy, cogito ergo sum
+- René Descartes
+  - Life, 1596–1650
+    - Born in La Haye, Touraine, France
+    - Educated by Jesuits at La Flèche
+    - Lived mostly in the Dutch Republic
+    - Died in Stockholm serving Queen Christina
+  - Method of doubt
+    - Doubt everything that can be doubted
+    - Senses and dreams may deceive
+    - Imagined an all-deceiving evil demon
+    - ["I think, therefore I am"](https://en.wikipedia.org/wiki/Cogito%2C_ergo_sum)
+  - Mind and body
+    - [Mind and matter are separate substances](https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism)
+    - Mind thinks; body is extended
+    - Pineal gland as their meeting point
+    - Animals seen as complex machines
+  - Mathematics and science
+    - [Invented coordinate geometry](https://en.wikipedia.org/wiki/Cartesian_coordinate_system)
+    - Joined algebra to geometry
+    - Explained rainbows and light refraction
+    - Pictured the universe as matter in motion
+  - Key works
+    - [Discourse on the Method, 1637](https://en.wikipedia.org/wiki/Discourse_on_the_Method)
+    - [Meditations on First Philosophy, 1641](https://en.wikipedia.org/wiki/Meditations_on_First_Philosophy)
+    - Principles of Philosophy, 1644
+    - The Passions of the Soul, 1649
+  - Legacy
+    - Called the father of modern philosophy
+    - Founded continental rationalism
+    - Mind–body problem still debated

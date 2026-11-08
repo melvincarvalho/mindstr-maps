@@ -1,0 +1,374 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Hinduism",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#zdqhmr",
+      "name": "Origins and history",
+      "x": -202,
+      "y": -89,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#q49cwh",
+      "name": "Roots in Vedic religion, about 1500 BCE",
+      "x": -526,
+      "y": -53,
+      "parent": "#zdqhmr"
+    },
+    {
+      "@id": "#f27nra",
+      "name": "No single founder or creed",
+      "x": -437,
+      "y": -139,
+      "parent": "#zdqhmr"
+    },
+    {
+      "@id": "#s3aut4",
+      "name": "Called Sanatana Dharma, \"eternal order\"",
+      "x": -364,
+      "y": -212,
+      "parent": "#zdqhmr"
+    },
+    {
+      "@id": "#4ipuqs",
+      "name": "About 1.2 billion followers worldwide",
+      "x": -287,
+      "y": -277,
+      "parent": "#zdqhmr"
+    },
+    {
+      "@id": "#kmuaua",
+      "name": "Core beliefs",
+      "x": 43,
+      "y": -181,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mgkxmv",
+      "name": "Brahman, the ultimate reality",
+      "x": -192,
+      "y": -326,
+      "link": "https://en.wikipedia.org/wiki/Brahman",
+      "parent": "#kmuaua"
+    },
+    {
+      "@id": "#7nvwr5",
+      "name": "Atman, the eternal self",
+      "x": -92,
+      "y": -386,
+      "parent": "#kmuaua"
+    },
+    {
+      "@id": "#p9bqji",
+      "name": "Karma shapes future lives",
+      "x": 33,
+      "y": -439,
+      "link": "https://en.wikipedia.org/wiki/Karma_in_Hinduism",
+      "parent": "#kmuaua"
+    },
+    {
+      "@id": "#8hcd6r",
+      "name": "Samsara, the cycle of rebirth",
+      "x": 199,
+      "y": -492,
+      "parent": "#kmuaua"
+    },
+    {
+      "@id": "#a7b2g6",
+      "name": "Moksha, liberation from rebirth",
+      "x": 241,
+      "y": -304,
+      "parent": "#kmuaua"
+    },
+    {
+      "@id": "#2m8s7z",
+      "name": "Dharma, duty and right conduct",
+      "x": 328,
+      "y": -246,
+      "parent": "#kmuaua"
+    },
+    {
+      "@id": "#uqrzcq",
+      "name": "Main traditions",
+      "x": 228,
+      "y": -23,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p5rmw3",
+      "name": "Vaishnavism worships Vishnu and his avatars",
+      "x": 394,
+      "y": -173,
+      "parent": "#uqrzcq"
+    },
+    {
+      "@id": "#4s33ty",
+      "name": "Shaivism centres on Shiva",
+      "x": 436,
+      "y": -90,
+      "parent": "#uqrzcq"
+    },
+    {
+      "@id": "#s9smng",
+      "name": "Shaktism honours the Goddess, Devi",
+      "x": 510,
+      "y": 0,
+      "parent": "#uqrzcq"
+    },
+    {
+      "@id": "#hcr2pp",
+      "name": "Smartism treats major deities as equal",
+      "x": 436,
+      "y": 90,
+      "parent": "#uqrzcq"
+    },
+    {
+      "@id": "#rktesy",
+      "name": "Sacred texts",
+      "x": 147,
+      "y": 142,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#enwnet",
+      "name": "Vedas and Upanishads, revealed shruti",
+      "x": 430,
+      "y": 189,
+      "parent": "#rktesy"
+    },
+    {
+      "@id": "#648vt2",
+      "name": "Bhagavad Gita, Krishna's teaching",
+      "x": 328,
+      "y": 246,
+      "link": "https://en.wikipedia.org/wiki/Bhagavad_Gita",
+      "parent": "#rktesy"
+    },
+    {
+      "@id": "#k989k6",
+      "name": "Ramayana and Mahabharata epics",
+      "x": 241,
+      "y": 304,
+      "parent": "#rktesy"
+    },
+    {
+      "@id": "#3b229w",
+      "name": "Puranas tell stories of the gods",
+      "x": 145,
+      "y": 357,
+      "parent": "#rktesy"
+    },
+    {
+      "@id": "#cnqjzh",
+      "name": "Practices",
+      "x": -71,
+      "y": 175,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vqbtx5",
+      "name": "Puja, worship at home and temple",
+      "x": 31,
+      "y": 407,
+      "link": "https://en.wikipedia.org/wiki/Puja_%28Hinduism%29",
+      "parent": "#cnqjzh"
+    },
+    {
+      "@id": "#hg5wmz",
+      "name": "Yoga and meditation",
+      "x": -112,
+      "y": 466,
+      "parent": "#cnqjzh"
+    },
+    {
+      "@id": "#qvgxtu",
+      "name": "Pilgrimage to Varanasi and the Ganges",
+      "x": -318,
+      "y": 522,
+      "parent": "#cnqjzh"
+    },
+    {
+      "@id": "#3762hi",
+      "name": "Festivals such as Diwali and Holi",
+      "x": -287,
+      "y": 277,
+      "parent": "#cnqjzh"
+    },
+    {
+      "@id": "#qqvtk7",
+      "name": "Paths to liberation",
+      "x": -214,
+      "y": 68,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#77zrv6",
+      "name": "Jnana yoga, the path of knowledge",
+      "x": -364,
+      "y": 212,
+      "parent": "#qqvtk7"
+    },
+    {
+      "@id": "#fk8wea",
+      "name": "Bhakti yoga, the path of devotion",
+      "x": -418,
+      "y": 133,
+      "parent": "#qqvtk7"
+    },
+    {
+      "@id": "#u9mcxi",
+      "name": "Karma yoga, the path of selfless action",
+      "x": -526,
+      "y": 53,
+      "parent": "#qqvtk7"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 6,
+      "end": 11
+    },
+    {
+      "start": 6,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    },
+    {
+      "start": 0,
+      "end": 28
+    },
+    {
+      "start": 28,
+      "end": 29
+    },
+    {
+      "start": 28,
+      "end": 30
+    },
+    {
+      "start": 28,
+      "end": 31
+    }
+  ],
+  "selectedNode": 0
+}

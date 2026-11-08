@@ -1,0 +1,32 @@
+category: Philosophy and religion
+aliases: zoroastrian religion, mazdayasna, zoroastrian faith
+- Zoroastrianism
+  - Origins
+    - [Prophet Zarathustra, also called Zoroaster](https://en.wikipedia.org/wiki/Zoroaster)
+    - Dates debated, about 1500–500 BCE
+    - Major faith of ancient Persian empires
+    - Declined after 7th-century Arab conquest
+  - Core beliefs
+    - [Ahura Mazda, the wise creator](https://en.wikipedia.org/wiki/Ahura_Mazda)
+    - Angra Mainyu, the destructive spirit
+    - Asha (truth) against druj (falsehood)
+    - Humans freely choose good or evil
+    - Good finally triumphs, world renewed
+  - Ethics
+    - Good thoughts, good words, good deeds
+    - Charity and care for creation
+  - Scripture
+    - [Avesta, the sacred texts](https://en.wikipedia.org/wiki/Avesta)
+    - Gathas, hymns attributed to Zarathustra
+    - Written in the Avestan language
+  - Worship and practice
+    - [Fire temples keep a sacred fire](https://en.wikipedia.org/wiki/Fire_temple)
+    - Fire seen as a symbol of purity
+    - Navjote initiation with sudreh and kushti
+    - Nowruz, the new year festival
+    - Traditional sky burial in Towers of Silence
+  - Today
+    - [Parsis in India, especially Mumbai](https://en.wikipedia.org/wiki/Parsis)
+    - Small communities remain in Iran
+    - About 100,000–200,000 followers worldwide
+    - Scholars debate influence on Abrahamic faiths

@@ -1,0 +1,31 @@
+category: History
+aliases: sumerians, sumerian civilization, ancient sumer, sumerian civilisation
+- Sumer
+  - Where and when
+    - Southern Mesopotamia, modern southern Iraq
+    - Flourished about 4500–1900 BC
+    - Among the world's first civilisations
+  - City-states
+    - [Uruk, perhaps the first true city](https://en.wikipedia.org/wiki/Uruk)
+    - Ur, Lagash, Eridu and Nippur
+    - Rival cities fought over water, land
+    - Ruled by priests, then kings
+  - Inventions
+    - [Cuneiform writing on clay tablets](https://en.wikipedia.org/wiki/Cuneiform)
+    - Early wheel and plough
+    - Base-60 numbers still in clocks
+    - Irrigation farming of barley
+  - Religion and culture
+    - Gods like Enlil, Inanna and Enki
+    - Ziggurat temples at city centres
+    - [Epic of Gilgamesh, king of Uruk](https://en.wikipedia.org/wiki/Epic_of_Gilgamesh)
+    - [Royal Cemetery of Ur's treasures](https://en.wikipedia.org/wiki/Royal_Cemetery_at_Ur)
+  - Rise and fall
+    - Conquered by Sargon of Akkad
+    - Third Dynasty of Ur revival
+    - Elamites sacked Ur, about 2004 BC
+    - Absorbed into Babylonian culture
+  - Legacy
+    - Sumerian language is an isolate
+    - Remained a sacred, scholarly language
+    - Rediscovered by 19th-century archaeology

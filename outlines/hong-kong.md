@@ -1,0 +1,33 @@
+category: Geography
+aliases: hong kong sar, hongkong, hong kong china
+- Hong Kong
+  - Setting
+    - On the Pearl River Delta, southern China
+    - Hong Kong Island, Kowloon, New Territories
+    - About 7.5 million people
+    - Steep hills; much land is country park
+  - History
+    - [Ceded to Britain after First Opium War](https://en.wikipedia.org/wiki/First_Opium_War)
+    - New Territories leased for 99 years, 1898
+    - Japanese occupation 1941–1945
+    - [Returned to China on 1 July 1997](https://en.wikipedia.org/wiki/Handover_of_Hong_Kong)
+  - Status and recent changes
+    - [Special administrative region of China](https://en.wikipedia.org/wiki/One_country,_two_systems)
+    - Basic Law promises own system until 2047
+    - Large protests in 2019
+    - National Security Law imposed in 2020
+    - Electoral system overhauled in 2021
+  - People
+    - Mostly Cantonese-speaking Han Chinese
+    - Chinese and English are official
+    - Among the world's longest life expectancies
+  - Economy
+    - Major global financial centre
+    - Busy container port and trade hub
+    - Low taxes; dollar pegged to US dollar
+  - Landmarks and culture
+    - [Victoria Harbour and its skyline](https://en.wikipedia.org/wiki/Victoria_Harbour)
+    - Victoria Peak and the Peak Tram
+    - Star Ferry across the harbour
+    - Tian Tan Buddha on Lantau
+    - Dim sum, Cantopop and kung fu films

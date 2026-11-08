@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Rice",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ya9rf8",
+      "name": "The plant",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sregaj",
+      "name": "Grass species Oryza sativa",
+      "x": -445,
+      "y": -54,
+      "parent": "#ya9rf8"
+    },
+    {
+      "@id": "#rcphji",
+      "name": "African rice is Oryza glaberrima",
+      "x": -405,
+      "y": -156,
+      "parent": "#ya9rf8"
+    },
+    {
+      "@id": "#mxgt2y",
+      "name": "Often grown in flooded paddy fields",
+      "x": -330,
+      "y": -245,
+      "parent": "#ya9rf8"
+    },
+    {
+      "@id": "#mc756u",
+      "name": "Origins",
+      "x": -51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h8ijjw",
+      "name": "Domesticated in China's Yangtze valley",
+      "x": -225,
+      "y": -312,
+      "parent": "#mc756u"
+    },
+    {
+      "@id": "#ukhd9t",
+      "name": "About 9,000 years ago",
+      "x": -104,
+      "y": -367,
+      "parent": "#mc756u"
+    },
+    {
+      "@id": "#3nrqgj",
+      "name": "Spread across Asia, then worldwide",
+      "x": 42,
+      "y": -423,
+      "parent": "#mc756u"
+    },
+    {
+      "@id": "#p9trd4",
+      "name": "Kinds of rice",
+      "x": 169,
+      "y": -125,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v68m7n",
+      "name": "Long-grain like basmati and jasmine",
+      "x": 234,
+      "y": -485,
+      "link": "https://en.wikipedia.org/wiki/Basmati",
+      "parent": "#p9trd4"
+    },
+    {
+      "@id": "#6vpeds",
+      "name": "Short-grain sticky rice for sushi",
+      "x": 281,
+      "y": -281,
+      "parent": "#p9trd4"
+    },
+    {
+      "@id": "#7mj9vu",
+      "name": "Arborio for risotto",
+      "x": 372,
+      "y": -203,
+      "link": "https://en.wikipedia.org/wiki/Arborio_rice",
+      "parent": "#p9trd4"
+    },
+    {
+      "@id": "#mcfsai",
+      "name": "Brown rice keeps the bran",
+      "x": 430,
+      "y": -106,
+      "parent": "#p9trd4"
+    },
+    {
+      "@id": "#e4vehc",
+      "name": "Growing rice",
+      "x": 207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wynu23",
+      "name": "Seedlings transplanted into flooded paddies",
+      "x": 450,
+      "y": 0,
+      "parent": "#e4vehc"
+    },
+    {
+      "@id": "#z6ya7c",
+      "name": "Flooding suppresses weeds",
+      "x": 430,
+      "y": 106,
+      "parent": "#e4vehc"
+    },
+    {
+      "@id": "#bj2c4i",
+      "name": "Paddies release methane",
+      "x": 372,
+      "y": 203,
+      "parent": "#e4vehc"
+    },
+    {
+      "@id": "#h83mxc",
+      "name": "Terraces on steep hillsides",
+      "x": 281,
+      "y": 281,
+      "link": "https://en.wikipedia.org/wiki/Rice_Terraces_of_the_Philippine_Cordilleras",
+      "parent": "#e4vehc"
+    },
+    {
+      "@id": "#6s4cbp",
+      "name": "World staple",
+      "x": 17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qm759e",
+      "name": "Main food for over half of humanity",
+      "x": 164,
+      "y": 335,
+      "parent": "#6s4cbp"
+    },
+    {
+      "@id": "#vwa5pt",
+      "name": "China and India grow the most",
+      "x": 38,
+      "y": 391,
+      "parent": "#6s4cbp"
+    },
+    {
+      "@id": "#ij3ibv",
+      "name": "About 90% grown and eaten in Asia",
+      "x": -124,
+      "y": 447,
+      "parent": "#6s4cbp"
+    },
+    {
+      "@id": "#2q65dd",
+      "name": "In the kitchen",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#83faxd",
+      "name": "Boiled, steamed or fried",
+      "x": -225,
+      "y": 312,
+      "parent": "#2q65dd"
+    },
+    {
+      "@id": "#kvjzyk",
+      "name": "Rinse to remove excess starch",
+      "x": -330,
+      "y": 245,
+      "parent": "#2q65dd"
+    },
+    {
+      "@id": "#jadfxd",
+      "name": "Paella, biryani and risotto",
+      "x": -405,
+      "y": 156,
+      "parent": "#2q65dd"
+    },
+    {
+      "@id": "#fithvt",
+      "name": "Golden rice adds vitamin A",
+      "x": -445,
+      "y": 54,
+      "link": "https://en.wikipedia.org/wiki/Golden_rice",
+      "parent": "#2q65dd"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

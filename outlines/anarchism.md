@@ -1,0 +1,30 @@
+category: Society
+aliases: anarchist, anarchists, anarchist philosophy, anarchy political theory
+- Anarchism
+  - Core beliefs
+    - Rejects the state as illegitimate coercion
+    - Opposes unjust hierarchy of all kinds
+    - Society organised by voluntary cooperation
+  - Key thinkers
+    - [Proudhon: "Property is theft!" (1840)](https://en.wikipedia.org/wiki/Pierre-Joseph_Proudhon)
+    - Bakunin clashed with Marx
+    - Kropotkin: mutual aid in nature
+    - Emma Goldman and Errico Malatesta
+  - Main schools
+    - Anarcho-communism shares goods by need
+    - Anarcho-syndicalism works through trade unions
+    - Individualist anarchism, after Stirner
+    - Anarcho-capitalism favours private markets
+  - History
+    - First International split, 1872
+    - "Propaganda of the deed" assassinations
+    - [Revolutionary Catalonia, 1936–39](https://en.wikipedia.org/wiki/Revolutionary_Catalonia)
+    - Makhnovists in Ukraine
+  - Today
+    - [Zapatistas and Rojava draw on ideas](https://en.wikipedia.org/wiki/Rojava)
+    - Influence on anti-globalisation and Occupy
+    - Squats, co-ops and mutual aid groups
+  - Criticisms
+    - Unworkable without state enforcement
+    - Vulnerable to stronger, organised powers
+    - Associated with violence and disorder

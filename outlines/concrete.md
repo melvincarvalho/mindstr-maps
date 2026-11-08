@@ -1,0 +1,27 @@
+category: Technology
+aliases: what is concrete, how concrete is made
+- Concrete
+  - What it's made of
+    - Cement binds everything together
+    - Sand and gravel aggregate
+    - Water starts the hardening
+  - How it hardens
+    - Chemical reaction, not simply drying
+    - Kept damp while it cures
+    - Near full strength after 28 days
+    - Strong squeezed, weak when stretched
+  - [Reinforced concrete](https://en.wikipedia.org/wiki/Reinforced_concrete)
+    - Steel bars carry the tension
+    - Prestressed concrete for long spans
+    - Joseph Monier's patents from 1867
+  - History
+    - [Romans used volcanic ash concrete](https://en.wikipedia.org/wiki/Roman_concrete)
+    - [Pantheon dome still stands, 2nd century](https://en.wikipedia.org/wiki/Pantheon,_Rome)
+    - [Portland cement patented 1824](https://en.wikipedia.org/wiki/Portland_cement)
+  - Everyday uses
+    - Foundations, floors and bridges
+    - Roads, pavements and dams
+    - Most-used material after water
+  - Environmental cost
+    - Cement makes about 8% of CO₂ emissions
+    - Low-carbon cements and recycled aggregate

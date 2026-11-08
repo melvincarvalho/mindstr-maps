@@ -1,0 +1,29 @@
+category: Science
+aliases: moons of planets, natural satellites, planetary moons
+- Natural satellite
+  - What it is
+    - Natural body orbiting a planet
+    - Commonly called a moon
+    - Different from artificial satellites
+  - How moons form
+    - [Giant impact likely made Earth's Moon](https://en.wikipedia.org/wiki/Giant-impact_hypothesis)
+    - Gas giants' moons formed from discs
+    - Some are captured asteroids or comets
+  - Moons in the Solar System
+    - Mercury and Venus have none
+    - Earth has one, Mars two
+    - Jupiter and Saturn have dozens each
+    - Saturn has the most known, over 250
+  - Remarkable moons
+    - [Ganymede is the largest moon](https://en.wikipedia.org/wiki/Ganymede_%28moon%29)
+    - [Titan has a thick atmosphere and lakes](https://en.wikipedia.org/wiki/Titan_%28moon%29)
+    - Europa hides an ocean under ice
+    - Io is the most volcanic world
+    - Enceladus sprays water geysers
+  - How moons behave
+    - [Most are tidally locked](https://en.wikipedia.org/wiki/Tidal_locking)
+    - Moon's gravity raises Earth's tides
+    - Triton orbits backwards around Neptune
+  - Why they matter
+    - Icy ocean moons could host life
+    - Galileo's discovery, 1610, backed Copernicus

@@ -1,0 +1,33 @@
+category: Society
+aliases: fascist ideology, what is fascism, definition of fascism
+- Fascism
+  - Core beliefs
+    - Nation above individual and class
+    - One-party state under a supreme leader
+    - Violence and war glorified as renewal
+    - Rejects liberal democracy and communism
+    - Myth of national rebirth from decline
+  - Origins
+    - Born in Italy after World War I
+    - [Mussolini founded the movement in 1919](https://en.wikipedia.org/wiki/Benito_Mussolini)
+    - Drew on nationalism and veterans' anger
+    - Giovanni Gentile wrote its doctrine
+  - Fascist regimes
+    - Italy under Mussolini, 1922 to 1943
+    - [Nazi Germany under Hitler, 1933 to 1945](https://en.wikipedia.org/wiki/Nazi_Germany)
+    - Franco's Spain had fascist elements
+    - Movements in Romania, Hungary and Croatia
+  - Methods of rule
+    - Secret police and banned opposition
+    - Propaganda and mass rallies
+    - Paramilitaries like the Blackshirts
+    - Corporatism tied business to the state
+  - Crimes of the regimes
+    - [Holocaust: about six million Jews murdered](https://en.wikipedia.org/wiki/The_Holocaust)
+    - Roma, disabled people and others killed
+    - Aggressive wars began World War II
+    - Italian atrocities in Ethiopia and Libya
+  - Legacy and debate
+    - Defeated in 1945, discredited worldwide
+    - [Neo-fascism persists in fringe groups](https://en.wikipedia.org/wiki/Neo-fascism)
+    - Scholars still debate a precise definition

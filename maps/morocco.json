@@ -1,0 +1,364 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Morocco",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#kxfxvq",
+      "name": "Geography",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#q9wtdt",
+      "name": "Atlantic and Mediterranean coastlines",
+      "x": -466,
+      "y": -49,
+      "parent": "#kxfxvq"
+    },
+    {
+      "@id": "#6hvpcd",
+      "name": "Strait of Gibraltar, 14 km from Spain",
+      "x": -434,
+      "y": -144,
+      "link": "https://en.wikipedia.org/wiki/Strait_of_Gibraltar",
+      "parent": "#kxfxvq"
+    },
+    {
+      "@id": "#fqrbg8",
+      "name": "Atlas Mountains cross the country",
+      "x": -357,
+      "y": -219,
+      "link": "https://en.wikipedia.org/wiki/Atlas_Mountains",
+      "parent": "#kxfxvq"
+    },
+    {
+      "@id": "#2k5xxu",
+      "name": "Sahara desert in the south-east",
+      "x": -274,
+      "y": -286,
+      "parent": "#kxfxvq"
+    },
+    {
+      "@id": "#jseqan",
+      "name": "People and languages",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4z8dfr",
+      "name": "About 37 million people",
+      "x": -180,
+      "y": -348,
+      "parent": "#jseqan"
+    },
+    {
+      "@id": "#9rnwzr",
+      "name": "Arabic and Amazigh (Berber) are official",
+      "x": -68,
+      "y": -405,
+      "parent": "#jseqan"
+    },
+    {
+      "@id": "#27235u",
+      "name": "French widely used in business",
+      "x": 77,
+      "y": -453,
+      "parent": "#jseqan"
+    },
+    {
+      "@id": "#smwqah",
+      "name": "Capital Rabat; Casablanca largest city",
+      "x": 172,
+      "y": -333,
+      "parent": "#jseqan"
+    },
+    {
+      "@id": "#z5c2mu",
+      "name": "History in brief",
+      "x": 212,
+      "y": -70,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zmi6aq",
+      "name": "Amazigh peoples, the original inhabitants",
+      "x": 370,
+      "y": -390,
+      "parent": "#z5c2mu"
+    },
+    {
+      "@id": "#pnuwwu",
+      "name": "Idrisids founded first Moroccan state, 788",
+      "x": 357,
+      "y": -219,
+      "parent": "#z5c2mu"
+    },
+    {
+      "@id": "#2he5zg",
+      "name": "Almoravids and Almohads ruled into Spain",
+      "x": 416,
+      "y": -138,
+      "parent": "#z5c2mu"
+    },
+    {
+      "@id": "#ma9twg",
+      "name": "Alaouite dynasty rules since the 1600s",
+      "x": 506,
+      "y": -53,
+      "parent": "#z5c2mu"
+    },
+    {
+      "@id": "#sn7scc",
+      "name": "Independence from France and Spain, 1956",
+      "x": 446,
+      "y": 47,
+      "parent": "#z5c2mu"
+    },
+    {
+      "@id": "#u2nhig",
+      "name": "Government",
+      "x": 182,
+      "y": 112,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wrncyw",
+      "name": "Constitutional monarchy led by the king",
+      "x": 470,
+      "y": 156,
+      "parent": "#u2nhig"
+    },
+    {
+      "@id": "#3waz49",
+      "name": "Elected parliament and prime minister",
+      "x": 357,
+      "y": 219,
+      "parent": "#u2nhig"
+    },
+    {
+      "@id": "#cp9eb9",
+      "name": "Western Sahara's status is disputed",
+      "x": 274,
+      "y": 286,
+      "link": "https://en.wikipedia.org/wiki/Western_Sahara",
+      "parent": "#u2nhig"
+    },
+    {
+      "@id": "#rwfiq3",
+      "name": "Economy",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cp3rz3",
+      "name": "About 70% of world phosphate reserves",
+      "x": 180,
+      "y": 348,
+      "parent": "#rwfiq3"
+    },
+    {
+      "@id": "#ejncqq",
+      "name": "Tourism, farming and car making",
+      "x": 68,
+      "y": 405,
+      "parent": "#rwfiq3"
+    },
+    {
+      "@id": "#y92tne",
+      "name": "Tanger Med, a major Mediterranean port",
+      "x": -77,
+      "y": 453,
+      "parent": "#rwfiq3"
+    },
+    {
+      "@id": "#8g7jwe",
+      "name": "Noor solar complex near Ouarzazate",
+      "x": -268,
+      "y": 513,
+      "link": "https://en.wikipedia.org/wiki/Ouarzazate_Solar_Power_Station",
+      "parent": "#rwfiq3"
+    },
+    {
+      "@id": "#2rhe3g",
+      "name": "Culture and known for",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6bcguw",
+      "name": "Marrakesh's souks and Jemaa el-Fnaa",
+      "x": -274,
+      "y": 286,
+      "link": "https://en.wikipedia.org/wiki/Marrakesh",
+      "parent": "#2rhe3g"
+    },
+    {
+      "@id": "#8xezps",
+      "name": "Old medina of Fez",
+      "x": -357,
+      "y": 219,
+      "parent": "#2rhe3g"
+    },
+    {
+      "@id": "#f8yjqs",
+      "name": "Tagine, couscous and mint tea",
+      "x": -434,
+      "y": 144,
+      "parent": "#2rhe3g"
+    },
+    {
+      "@id": "#guji8f",
+      "name": "World Cup semi-finalists 2022, co-hosts 2030",
+      "x": -546,
+      "y": 57,
+      "parent": "#2rhe3g"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 11,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    },
+    {
+      "start": 26,
+      "end": 29
+    },
+    {
+      "start": 26,
+      "end": 30
+    }
+  ],
+  "selectedNode": 0
+}

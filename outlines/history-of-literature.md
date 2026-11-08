@@ -1,0 +1,31 @@
+category: History
+aliases: literary history, history of world literature, literature through the ages
+- History of literature
+  - Oral roots and first writing
+    - Myths and songs passed down by memory
+    - [Epic of Gilgamesh, oldest great story](https://en.wikipedia.org/wiki/Epic_of_Gilgamesh)
+    - Writing invented in Mesopotamia, about 3200 BC
+  - Ancient classics
+    - Homer's Iliad and Odyssey
+    - Greek tragedy: Aeschylus, Sophocles, Euripides
+    - India's Mahabharata and Ramayana
+    - Chinese Book of Songs and Confucian texts
+    - Virgil's Aeneid and Ovid in Rome
+  - Medieval literature
+    - [The Tale of Genji, about 1010](https://en.wikipedia.org/wiki/The_Tale_of_Genji)
+    - One Thousand and One Nights
+    - Dante's Divine Comedy
+    - Chaucer's Canterbury Tales
+  - Printing and the Renaissance
+    - Gutenberg's press made books cheaper
+    - [Shakespeare's plays and sonnets](https://en.wikipedia.org/wiki/William_Shakespeare)
+    - Cervantes' Don Quixote, an early novel
+  - Rise of the novel
+    - Realist novels of Austen, Dickens, Tolstoy
+    - Romantic poetry celebrated feeling and nature
+    - Serialised fiction for a growing readership
+  - Modern and global literature
+    - [Modernism: Joyce, Woolf, Kafka](https://en.wikipedia.org/wiki/Modernist_literature)
+    - Magical realism of García Márquez
+    - Postcolonial voices like Chinua Achebe
+    - Nobel Prize in Literature since 1901

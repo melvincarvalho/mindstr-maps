@@ -1,0 +1,342 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Board game",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#9sm2jr",
+      "name": "The basics",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aay6rh",
+      "name": "Pieces moved on a marked board",
+      "x": -445,
+      "y": -51,
+      "parent": "#9sm2jr"
+    },
+    {
+      "@id": "#xkb32w",
+      "name": "Turns, rules and a way to win",
+      "x": -409,
+      "y": -150,
+      "parent": "#9sm2jr"
+    },
+    {
+      "@id": "#y464t2",
+      "name": "Dice add chance; some are pure strategy",
+      "x": -340,
+      "y": -236,
+      "parent": "#9sm2jr"
+    },
+    {
+      "@id": "#7knukb",
+      "name": "Ancient classics",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7q9cn9",
+      "name": "Senet, played in ancient Egypt",
+      "x": -243,
+      "y": -303,
+      "parent": "#7knukb"
+    },
+    {
+      "@id": "#6apij3",
+      "name": "Go, played in China for millennia",
+      "x": -133,
+      "y": -360,
+      "parent": "#7knukb"
+    },
+    {
+      "@id": "#gkxwvw",
+      "name": "Chess grew from India's chaturanga",
+      "x": 0,
+      "y": -408,
+      "link": "https://en.wikipedia.org/wiki/Chaturanga",
+      "parent": "#7knukb"
+    },
+    {
+      "@id": "#mpzs69",
+      "name": "Mancala counting games across Africa",
+      "x": 175,
+      "y": -465,
+      "parent": "#7knukb"
+    },
+    {
+      "@id": "#mprtvn",
+      "name": "Families of games",
+      "x": 209,
+      "y": -76,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vtbr23",
+      "name": "Race games: Ludo, backgammon",
+      "x": 243,
+      "y": -303,
+      "parent": "#mprtvn"
+    },
+    {
+      "@id": "#638enp",
+      "name": "Abstract strategy: chess, draughts, Go",
+      "x": 340,
+      "y": -236,
+      "parent": "#mprtvn"
+    },
+    {
+      "@id": "#dtvkdr",
+      "name": "Property trading: Monopoly (1935)",
+      "x": 409,
+      "y": -150,
+      "link": "https://en.wikipedia.org/wiki/Monopoly_%28game%29",
+      "parent": "#mprtvn"
+    },
+    {
+      "@id": "#7t6x8m",
+      "name": "Word games: Scrabble",
+      "x": 445,
+      "y": -51,
+      "parent": "#mprtvn"
+    },
+    {
+      "@id": "#k6kvhr",
+      "name": "Deduction: Cluedo (Clue)",
+      "x": 445,
+      "y": 51,
+      "parent": "#mprtvn"
+    },
+    {
+      "@id": "#ga56y3",
+      "name": "The modern hobby boom",
+      "x": 151,
+      "y": 139,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sgyiqg",
+      "name": "Catan (1995) went worldwide",
+      "x": 445,
+      "y": 164,
+      "link": "https://en.wikipedia.org/wiki/Catan",
+      "parent": "#ga56y3"
+    },
+    {
+      "@id": "#uaxnvf",
+      "name": "Eurogames favour strategy over luck",
+      "x": 340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/Eurogame",
+      "parent": "#ga56y3"
+    },
+    {
+      "@id": "#a6zche",
+      "name": "Cooperative games like Pandemic",
+      "x": 243,
+      "y": 303,
+      "parent": "#ga56y3"
+    },
+    {
+      "@id": "#hvr2tk",
+      "name": "Legacy games change as you play",
+      "x": 133,
+      "y": 360,
+      "parent": "#ga56y3"
+    },
+    {
+      "@id": "#6uikf7",
+      "name": "Choosing and playing",
+      "x": -71,
+      "y": 192,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t3ppbh",
+      "name": "Check player count and length",
+      "x": 0,
+      "y": 408,
+      "parent": "#6uikf7"
+    },
+    {
+      "@id": "#wfwzf5",
+      "name": "Light \"gateway\" games for beginners",
+      "x": -175,
+      "y": 465,
+      "parent": "#6uikf7"
+    },
+    {
+      "@id": "#ewa8rd",
+      "name": "Read the rules or watch a teach",
+      "x": -243,
+      "y": 303,
+      "parent": "#6uikf7"
+    },
+    {
+      "@id": "#sf6hxn",
+      "name": "Machines and meetups",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yvaum7",
+      "name": "Deep Blue beat Kasparov in 1997",
+      "x": -355,
+      "y": 246,
+      "link": "https://en.wikipedia.org/wiki/Deep_Blue_%28chess_computer%29",
+      "parent": "#sf6hxn"
+    },
+    {
+      "@id": "#sy32gw",
+      "name": "AlphaGo beat Lee Sedol in 2016",
+      "x": -409,
+      "y": 150,
+      "parent": "#sf6hxn"
+    },
+    {
+      "@id": "#nbvppv",
+      "name": "Board game cafés and conventions",
+      "x": -505,
+      "y": 57,
+      "parent": "#sf6hxn"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 10,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

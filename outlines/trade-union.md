@@ -1,0 +1,29 @@
+category: Society
+aliases: labor union, labour union, trade unions, what is a trade union, unionisation
+- Trade union
+  - Workers organising together
+    - Members pay regular dues
+    - Strength in numbers when bargaining
+    - Organised by trade, industry or employer
+  - What unions do
+    - [Collective bargaining over pay and conditions](https://en.wikipedia.org/wiki/Collective_bargaining)
+    - Represent members in disputes
+    - Campaign on health and safety
+    - Offer training, legal advice and benefits
+  - Industrial action
+    - [Strikes withdraw labour](https://en.wikipedia.org/wiki/Strike_action)
+    - Work-to-rule and overtime bans
+    - Many countries require a ballot first
+  - History
+    - Grew with the Industrial Revolution
+    - [Tolpuddle Martyrs transported, 1834](https://en.wikipedia.org/wiki/Tolpuddle_Martyrs)
+    - Won the weekend and shorter hours
+    - Peak membership mid-20th century
+  - Around the world
+    - High membership in Nordic countries
+    - National federations like TUC, AFL-CIO
+    - [International Labour Organization sets standards](https://en.wikipedia.org/wiki/International_Labour_Organization)
+  - Debates
+    - Higher wages versus employment effects
+    - Membership falling in many countries
+    - Organising gig and service workers

@@ -1,0 +1,29 @@
+category: Science
+aliases: what is anatomy, study of anatomy, anatomical science
+- Anatomy
+  - What anatomy studies
+    - The structure of living things
+    - Physiology studies how parts work
+    - Covers humans, animals and plants
+  - Ways to study it
+    - Gross anatomy: visible to the eye
+    - [Histology: tissues under a microscope](https://en.wikipedia.org/wiki/Histology)
+    - Dissection of donated bodies
+    - [Medical imaging: X-ray, CT, MRI](https://en.wikipedia.org/wiki/Medical_imaging)
+  - Levels of organisation
+    - Cells form tissues
+    - Tissues form organs
+    - Organs work together as systems
+  - The human body plan
+    - About 206 bones in adults
+    - Over 600 skeletal muscles
+    - Eleven main organ systems
+    - Anatomical position, planes and directions
+  - Comparative anatomy
+    - [Homologous structures reveal shared ancestry](https://en.wikipedia.org/wiki/Homology_%28biology%29)
+    - Vertebrate limbs share one bone pattern
+    - Plant anatomy: roots, stems, leaves
+  - History
+    - Galen's ideas dominated for centuries
+    - [Vesalius's Fabrica corrected Galen, 1543](https://en.wikipedia.org/wiki/Andreas_Vesalius)
+    - Gray's Anatomy first published 1858

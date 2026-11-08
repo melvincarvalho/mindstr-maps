@@ -1,0 +1,27 @@
+category: Society
+aliases: hindu-arabic numerals, hindu-arabic numeral system, western arabic numerals
+- Arabic numerals
+  - How they work
+    - Ten digits, 0 to 9
+    - Position sets each digit's value
+    - Zero holds empty places, as in 205
+  - Born in India
+    - Brahmi numerals gave the digit shapes
+    - Place value with zero by 600s
+    - [Brahmagupta set rules for zero, 628](https://en.wikipedia.org/wiki/Brahmagupta)
+  - Through the Islamic world
+    - [Al-Khwarizmi explained them, about 825](https://en.wikipedia.org/wiki/Al-Khwarizmi)
+    - "Algorithm" comes from his name
+    - [Eastern Arabic digits used in Arab world](https://en.wikipedia.org/wiki/Eastern_Arabic_numerals)
+  - Into Europe
+    - [Fibonacci's Liber Abaci, 1202](https://en.wikipedia.org/wiki/Liber_Abaci)
+    - Merchants adopted them for bookkeeping
+    - Replaced Roman numerals by about 1500s
+    - Printing fixed the shapes we use
+  - Why they won
+    - Easy written addition and multiplication
+    - Any number from just ten symbols
+    - Extend naturally to decimal fractions
+  - Today
+    - Used worldwide in nearly every script
+    - Same system underlies binary and computing

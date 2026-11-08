@@ -1,0 +1,30 @@
+category: Arts and culture
+aliases: symphony orchestra, philharmonic orchestra, orchestras
+- Orchestra
+  - What it is
+    - Large ensemble of mixed instruments
+    - Symphony orchestras: about 60 to 100 players
+    - Chamber orchestras are smaller
+  - Sections, front to back
+    - [Strings: the largest section](https://en.wikipedia.org/wiki/String_section)
+    - Woodwinds: flutes, oboes, clarinets, bassoons
+    - Brass: horns, trumpets, trombones, tuba
+    - Percussion: timpani, drums, cymbals
+    - Harp and keyboards when required
+  - Who leads
+    - [Conductor sets tempo and interpretation](https://en.wikipedia.org/wiki/Conducting)
+    - Concertmaster leads the first violins
+    - Oboe sounds the tuning A
+  - History
+    - Grew from Baroque court ensembles
+    - Haydn and Mozart's era standardised it
+    - Romantics enlarged it: Wagner, Mahler
+    - Baton conductors rose in the 1800s
+  - Repertoire
+    - [Symphony, usually in four movements](https://en.wikipedia.org/wiki/Symphony)
+    - Concerto features a soloist
+    - Opera, ballet and film scores
+  - Famous orchestras
+    - [Vienna Philharmonic, founded 1842](https://en.wikipedia.org/wiki/Vienna_Philharmonic)
+    - Berlin Philharmonic, founded 1882
+    - London Symphony Orchestra, founded 1904

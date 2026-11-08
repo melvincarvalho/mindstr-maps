@@ -1,0 +1,30 @@
+category: Technology
+aliases: dams, how dams work
+- Dam
+  - What dams do
+    - Store water for drinking and farming
+    - [Generate hydroelectric power](https://en.wikipedia.org/wiki/Hydroelectricity)
+    - Control floods downstream
+    - Raise rivers for navigation
+  - Main types
+    - [Embankment dams of earth or rock](https://en.wikipedia.org/wiki/Embankment_dam)
+    - Gravity dams resist by sheer weight
+    - [Arch dams push water into canyon walls](https://en.wikipedia.org/wiki/Arch_dam)
+    - Buttress dams use supporting ribs
+  - Key parts
+    - Reservoir held behind the wall
+    - Spillway releases floodwater safely
+    - Turbines in the powerhouse
+  - Famous dams
+    - [Hoover Dam, USA, finished 1936](https://en.wikipedia.org/wiki/Hoover_Dam)
+    - [Three Gorges: world's largest power station](https://en.wikipedia.org/wiki/Three_Gorges_Dam)
+    - Aswan High Dam tamed the Nile
+  - Downsides
+    - Displaces communities and floods land
+    - Blocks fish migration
+    - Traps sediment, starving deltas downstream
+    - Failures can be catastrophic
+  - Ancient to modern
+    - Jawa Dam, Jordan, about 3000 BC
+    - Romans built masonry dams
+    - Large-dam boom in the 20th century

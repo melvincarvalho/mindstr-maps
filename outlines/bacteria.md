@@ -1,0 +1,31 @@
+category: Science
+aliases: bacterium, bacterial cells, germs and bacteria
+- Bacteria
+  - What they are
+    - Single cells without a nucleus
+    - DNA in one loop, plus plasmids
+    - Usually a few micrometres long
+    - Shapes: rods, spheres and spirals
+  - How they live
+    - Split in two, sometimes every 20 minutes
+    - Swap genes with each other
+    - Some photosynthesise, like cyanobacteria
+    - Form slimy communities called biofilms
+  - Everywhere on Earth
+    - Among the first life, 3.5+ billion years
+    - Soil, oceans, ice and hot springs
+    - [Trillions live in your gut](https://en.wikipedia.org/wiki/Gut_microbiota)
+  - Vital roles
+    - Decompose dead matter and recycle nutrients
+    - [Fix nitrogen for plants](https://en.wikipedia.org/wiki/Nitrogen_fixation)
+    - Cyanobacteria made Earth's oxygen atmosphere
+    - Ferment yoghurt, cheese and sauerkraut
+  - Disease and medicine
+    - Few species cause illness
+    - Tuberculosis, cholera, strep throat, plague
+    - [Antibiotics kill or stop bacteria](https://en.wikipedia.org/wiki/Antibiotic)
+    - [Antibiotic resistance is a growing threat](https://en.wikipedia.org/wiki/Antimicrobial_resistance)
+  - Bacteria in science
+    - E. coli is a lab workhorse
+    - Engineered to make insulin
+    - CRISPR came from bacterial immune defence

@@ -1,0 +1,29 @@
+category: History
+aliases: prehistoric times, prehistoric era, before written history
+- Prehistory
+  - What prehistory means
+    - Human past before writing
+    - Writing began about 3200 BC
+    - Ended at different times worldwide
+  - Human origins
+    - [Split from chimps ~6–7 million years ago](https://en.wikipedia.org/wiki/Human_evolution)
+    - Stone tools from about 3.3 million years
+    - Homo erectus left Africa ~1.9 million years
+    - Homo sapiens arose in Africa ~300,000 years
+  - Spreading across the world
+    - Out of Africa about 60,000 years ago
+    - Met Neanderthals and Denisovans, interbred
+    - Australia by about 50,000 years ago
+    - Americas by at least 15,000 years
+  - The Stone Age
+    - [Paleolithic: hunting, gathering, stone tools](https://en.wikipedia.org/wiki/Paleolithic)
+    - Cave art at Chauvet and Lascaux
+    - Ice Age ended about 11,700 years ago
+  - Farming and settlement
+    - [Neolithic Revolution began ~10,000 BC](https://en.wikipedia.org/wiki/Neolithic_Revolution)
+    - Villages like Çatalhöyük and Jericho
+    - Megaliths such as Stonehenge
+  - Metals and the first states
+    - Copper, then bronze, then iron
+    - Cities and kings in Mesopotamia, Egypt
+    - [Three-age system: Stone, Bronze, Iron](https://en.wikipedia.org/wiki/Three-age_system)

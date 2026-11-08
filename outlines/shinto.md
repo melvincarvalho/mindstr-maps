@@ -1,0 +1,32 @@
+category: Philosophy and religion
+aliases: shintoism, kami no michi, shinto religion
+- Shinto
+  - What it is
+    - Indigenous religion of Japan
+    - Name means "way of the kami"
+    - No founder or single scripture
+  - Beliefs
+    - [Kami: spirits in nature and places](https://en.wikipedia.org/wiki/Kami)
+    - Ancestors can become kami
+    - Purity matters; pollution is cleansed
+    - [Amaterasu, sun goddess](https://en.wikipedia.org/wiki/Amaterasu)
+  - Shrines
+    - [About 80,000 shrines across Japan](https://en.wikipedia.org/wiki/Shinto_shrine)
+    - Torii gate marks sacred space
+    - Ise Grand Shrine honours Amaterasu
+    - Priests and miko maintain shrines
+  - Practices
+    - Rinse hands and mouth before praying
+    - Bow, clap, bow at the shrine
+    - Omamori charms and omikuji fortunes
+    - Matsuri festivals carry kami in procession
+    - Shrine visits at New Year
+  - History
+    - Myths in the Kojiki, 712 CE
+    - Blended with Buddhism for centuries
+    - [State Shinto, 1868 to 1945](https://en.wikipedia.org/wiki/State_Shinto)
+    - Separated from state after 1945
+  - Life today
+    - Many Japanese mix Shinto and Buddhism
+    - Shinto weddings, Buddhist funerals common
+    - Rites for births and new buildings

@@ -1,0 +1,30 @@
+category: Geography
+aliases: rivers, how rivers work, river system
+- River
+  - Where rivers come from
+    - Rain, snowmelt and springs at the source
+    - Tributaries join to grow the flow
+    - [A drainage basin feeds one river](https://en.wikipedia.org/wiki/Drainage_basin)
+  - Shaping the land
+    - Erosion carves valleys and gorges
+    - Meanders swing across flat floodplains
+    - [Cut-off bends become oxbow lakes](https://en.wikipedia.org/wiki/Oxbow_lake)
+    - Waterfalls form over hard rock
+  - Reaching the sea
+    - [Deltas build where sediment drops](https://en.wikipedia.org/wiki/River_delta)
+    - Estuaries mix fresh and salt water
+    - Some drain into inland lakes instead
+  - Great rivers
+    - Nile, about 6,650 km long
+    - Amazon carries the most water by far
+    - Yangtze, longest in Asia
+    - Mississippi drains much of the US
+  - Rivers and people
+    - [Early civilisations grew along rivers](https://en.wikipedia.org/wiki/Cradle_of_civilization)
+    - Irrigation, drinking water and transport
+    - Dams generate hydroelectric power
+    - Floods enrich soil but destroy homes
+  - Under pressure
+    - Pollution from farms, sewage and industry
+    - Dams block fish migration
+    - Overuse dries rivers like the Colorado

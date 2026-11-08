@@ -1,0 +1,308 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Chemical element",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#yftbjc",
+      "name": "Defined by protons",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3iuiwi",
+      "name": "Atomic number counts protons in nucleus",
+      "x": -524,
+      "y": -71,
+      "parent": "#yftbjc"
+    },
+    {
+      "@id": "#49sf9t",
+      "name": "Neutron count varies: isotopes",
+      "x": -396,
+      "y": -171,
+      "parent": "#yftbjc"
+    },
+    {
+      "@id": "#bfsrri",
+      "name": "Cannot be split by chemical means",
+      "x": -305,
+      "y": -265,
+      "parent": "#yftbjc"
+    },
+    {
+      "@id": "#kidntk",
+      "name": "How many there are",
+      "x": -19,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3237b4",
+      "name": "118 known, up to oganesson",
+      "x": -181,
+      "y": -330,
+      "parent": "#kidntk"
+    },
+    {
+      "@id": "#f9z4nk",
+      "name": "About 94 occur naturally on Earth",
+      "x": -41,
+      "y": -391,
+      "parent": "#kidntk"
+    },
+    {
+      "@id": "#tj6ycx",
+      "name": "Heaviest made briefly in laboratories",
+      "x": 140,
+      "y": -445,
+      "parent": "#kidntk"
+    },
+    {
+      "@id": "#ga4jva",
+      "name": "Where elements come from",
+      "x": 182,
+      "y": -113,
+      "link": "https://en.wikipedia.org/wiki/Nucleosynthesis",
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9xede8",
+      "name": "Hydrogen and helium from Big Bang",
+      "x": 246,
+      "y": -301,
+      "parent": "#ga4jva"
+    },
+    {
+      "@id": "#t352wt",
+      "name": "Stars fuse heavier ones up to iron",
+      "x": 355,
+      "y": -221,
+      "parent": "#ga4jva"
+    },
+    {
+      "@id": "#p2kj5f",
+      "name": "Supernovae and neutron star mergers make heavier",
+      "x": 578,
+      "y": -157,
+      "parent": "#ga4jva"
+    },
+    {
+      "@id": "#xm8xfr",
+      "name": "Kinds of element",
+      "x": 202,
+      "y": 88,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9vgax3",
+      "name": "Metals: shiny, conduct electricity",
+      "x": 450,
+      "y": 0,
+      "parent": "#xm8xfr"
+    },
+    {
+      "@id": "#72v6ft",
+      "name": "Nonmetals like oxygen and sulfur",
+      "x": 483,
+      "y": 132,
+      "parent": "#xm8xfr"
+    },
+    {
+      "@id": "#6gn85g",
+      "name": "Metalloids like silicon in between",
+      "x": 355,
+      "y": 221,
+      "parent": "#xm8xfr"
+    },
+    {
+      "@id": "#fxt7zn",
+      "name": "Noble gases rarely react",
+      "x": 246,
+      "y": 301,
+      "link": "https://en.wikipedia.org/wiki/Noble_gas",
+      "parent": "#xm8xfr"
+    },
+    {
+      "@id": "#vawqky",
+      "name": "Symbols and names",
+      "x": -19,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vsz7bv",
+      "name": "One or two letter symbols",
+      "x": 110,
+      "y": 349,
+      "parent": "#vawqky"
+    },
+    {
+      "@id": "#229xit",
+      "name": "Some from Latin: Fe, Cu, Au",
+      "x": -43,
+      "y": 407,
+      "parent": "#vawqky"
+    },
+    {
+      "@id": "#s2hcbh",
+      "name": "IUPAC approves new names",
+      "x": -181,
+      "y": 330,
+      "parent": "#vawqky"
+    },
+    {
+      "@id": "#i2qej7",
+      "name": "History of discovery",
+      "x": -202,
+      "y": 88,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rczy2t",
+      "name": "Lavoisier listed elements in 1789",
+      "x": -305,
+      "y": 265,
+      "link": "https://en.wikipedia.org/wiki/Antoine_Lavoisier",
+      "parent": "#i2qej7"
+    },
+    {
+      "@id": "#8fdjvi",
+      "name": "Mendeleev ordered them in 1869",
+      "x": -396,
+      "y": 171,
+      "link": "https://en.wikipedia.org/wiki/Dmitri_Mendeleev",
+      "parent": "#i2qej7"
+    },
+    {
+      "@id": "#6jpqcp",
+      "name": "Tennessine discovered last, in 2010",
+      "x": -504,
+      "y": 68,
+      "parent": "#i2qej7"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

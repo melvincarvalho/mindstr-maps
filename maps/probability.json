@@ -1,0 +1,353 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Probability",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ghzaxm",
+      "name": "What it measures",
+      "x": -197,
+      "y": -96,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cju6g6",
+      "name": "Scale from 0 (impossible) to 1 (certain)",
+      "x": -506,
+      "y": -55,
+      "parent": "#ghzaxm"
+    },
+    {
+      "@id": "#xic66r",
+      "name": "Fair coin: heads has chance 1/2",
+      "x": -431,
+      "y": -149,
+      "parent": "#ghzaxm"
+    },
+    {
+      "@id": "#c4n456",
+      "name": "Frequency: long-run share of outcomes",
+      "x": -349,
+      "y": -227,
+      "parent": "#ghzaxm"
+    },
+    {
+      "@id": "#654xjp",
+      "name": "Bayesian view: a degree of belief",
+      "x": -260,
+      "y": -294,
+      "parent": "#ghzaxm"
+    },
+    {
+      "@id": "#8xdzbj",
+      "name": "Basic rules",
+      "x": 16,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fpifaz",
+      "name": "Either-or: add, if events exclusive",
+      "x": -158,
+      "y": -354,
+      "parent": "#8xdzbj"
+    },
+    {
+      "@id": "#3d7w6f",
+      "name": "Independent events: multiply the chances",
+      "x": -34,
+      "y": -407,
+      "parent": "#8xdzbj"
+    },
+    {
+      "@id": "#uqif8v",
+      "name": "Two heads in a row: 1/4",
+      "x": 120,
+      "y": -464,
+      "parent": "#8xdzbj"
+    },
+    {
+      "@id": "#rk897h",
+      "name": "Chance of \"not\" is 1 minus chance",
+      "x": 207,
+      "y": -320,
+      "parent": "#8xdzbj"
+    },
+    {
+      "@id": "#ke2xs8",
+      "name": "Key ideas",
+      "x": 211,
+      "y": -73,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#37mrz3",
+      "name": "Expected value: the long-run average",
+      "x": 307,
+      "y": -263,
+      "link": "https://en.wikipedia.org/wiki/Expected_value",
+      "parent": "#ke2xs8"
+    },
+    {
+      "@id": "#qc7gz7",
+      "name": "Law of large numbers",
+      "x": 384,
+      "y": -187,
+      "link": "https://en.wikipedia.org/wiki/Law_of_large_numbers",
+      "parent": "#ke2xs8"
+    },
+    {
+      "@id": "#nwgams",
+      "name": "Conditional probability: chance given new information",
+      "x": 547,
+      "y": -121,
+      "parent": "#ke2xs8"
+    },
+    {
+      "@id": "#ngdfky",
+      "name": "Bayes' theorem updates beliefs with evidence",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Bayes%27_theorem",
+      "parent": "#ke2xs8"
+    },
+    {
+      "@id": "#f4izbw",
+      "name": "Surprises and common mistakes",
+      "x": 178,
+      "y": 116,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4gi3fe",
+      "name": "Gambler's fallacy: coins have no memory",
+      "x": 547,
+      "y": 121,
+      "link": "https://en.wikipedia.org/wiki/Gambler%27s_fallacy",
+      "parent": "#f4izbw"
+    },
+    {
+      "@id": "#kjfvun",
+      "name": "Birthday problem: 23 people, 50% match",
+      "x": 384,
+      "y": 187,
+      "parent": "#f4izbw"
+    },
+    {
+      "@id": "#iw7cgc",
+      "name": "Monty Hall: switching wins 2/3",
+      "x": 307,
+      "y": 263,
+      "link": "https://en.wikipedia.org/wiki/Monty_Hall_problem",
+      "parent": "#f4izbw"
+    },
+    {
+      "@id": "#fjcif4",
+      "name": "Rare disease: most positives can be false",
+      "x": 207,
+      "y": 320,
+      "parent": "#f4izbw"
+    },
+    {
+      "@id": "#i659zk",
+      "name": "History",
+      "x": -16,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zbxv3d",
+      "name": "Cardano studied dice in the 1500s",
+      "x": 96,
+      "y": 368,
+      "parent": "#i659zk"
+    },
+    {
+      "@id": "#nacvyy",
+      "name": "Pascal and Fermat's gambling letters, 1654",
+      "x": -35,
+      "y": 423,
+      "parent": "#i659zk"
+    },
+    {
+      "@id": "#ae4i4r",
+      "name": "Kolmogorov's axioms made it rigorous, 1933",
+      "x": -214,
+      "y": 474,
+      "parent": "#i659zk"
+    },
+    {
+      "@id": "#yq7qws",
+      "name": "Uses",
+      "x": -197,
+      "y": 96,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yh8art",
+      "name": "Insurance and pricing risk",
+      "x": -260,
+      "y": 294,
+      "parent": "#yq7qws"
+    },
+    {
+      "@id": "#wds24j",
+      "name": "Weather forecasts: 70% chance of rain",
+      "x": -349,
+      "y": 227,
+      "parent": "#yq7qws"
+    },
+    {
+      "@id": "#2eihk4",
+      "name": "Casinos and lotteries always have an edge",
+      "x": -431,
+      "y": 149,
+      "parent": "#yq7qws"
+    },
+    {
+      "@id": "#saqu93",
+      "name": "Genetics, quantum physics and AI",
+      "x": -446,
+      "y": 49,
+      "parent": "#yq7qws"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    },
+    {
+      "start": 25,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

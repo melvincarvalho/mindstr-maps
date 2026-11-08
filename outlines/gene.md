@@ -1,0 +1,30 @@
+category: Science
+aliases: genes, what is a gene, gene definition
+- Gene
+  - What a gene is
+    - A stretch of DNA with instructions
+    - Basic unit of heredity
+    - [Word coined by Wilhelm Johannsen, 1909](https://en.wikipedia.org/wiki/Wilhelm_Johannsen)
+    - Sits at a fixed chromosome locus
+    - A few genes sit in mitochondria
+  - How a gene works
+    - [Gene expression: DNA to RNA to protein](https://en.wikipedia.org/wiki/Gene_expression)
+    - Promoters switch genes on and off
+    - Exons code; introns are cut out
+    - Some genes make only functional RNA
+  - Versions of genes
+    - [Alleles are alternative forms](https://en.wikipedia.org/wiki/Allele)
+    - Dominant and recessive alleles
+    - Mutations create new alleles
+  - Genes and traits
+    - Most traits involve many genes
+    - Environment also shapes traits
+    - Single-gene disorders like cystic fibrosis
+  - Gene counts
+    - Humans: about 20,000 protein-coding genes
+    - E. coli bacterium: about 4,300 genes
+    - Gene count doesn't track complexity
+  - Working with genes
+    - [CRISPR edits genes precisely](https://en.wikipedia.org/wiki/CRISPR_gene_editing)
+    - Gene therapy treats some inherited diseases
+    - Genetically modified crops

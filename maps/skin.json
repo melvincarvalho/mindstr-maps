@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Skin",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#giu6nk",
+      "name": "Basic facts",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rppkzj",
+      "name": "Body's largest organ",
+      "x": -445,
+      "y": -51,
+      "parent": "#giu6nk"
+    },
+    {
+      "@id": "#77v5uv",
+      "name": "About 2 square metres in adults",
+      "x": -409,
+      "y": -150,
+      "parent": "#giu6nk"
+    },
+    {
+      "@id": "#22r3sp",
+      "name": "Outer cells replaced about monthly",
+      "x": -340,
+      "y": -236,
+      "parent": "#giu6nk"
+    },
+    {
+      "@id": "#29cwga",
+      "name": "Three layers",
+      "x": -65,
+      "y": -177,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u4c452",
+      "name": "Epidermis: tough waterproof outer layer",
+      "x": -243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Epidermis",
+      "parent": "#29cwga"
+    },
+    {
+      "@id": "#zxufkq",
+      "name": "Dermis: collagen, nerves, blood vessels",
+      "x": -133,
+      "y": -360,
+      "link": "https://en.wikipedia.org/wiki/Dermis",
+      "parent": "#29cwga"
+    },
+    {
+      "@id": "#wxsujr",
+      "name": "Subcutaneous fat insulates and cushions",
+      "x": 0,
+      "y": -408,
+      "parent": "#29cwga"
+    },
+    {
+      "@id": "#vdxdz2",
+      "name": "What it does",
+      "x": 151,
+      "y": -139,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#utqjet",
+      "name": "Barrier against germs and water loss",
+      "x": 175,
+      "y": -465,
+      "parent": "#vdxdz2"
+    },
+    {
+      "@id": "#69pig2",
+      "name": "Sweat cools the body",
+      "x": 243,
+      "y": -303,
+      "parent": "#vdxdz2"
+    },
+    {
+      "@id": "#sfifyb",
+      "name": "Touch, heat and pain receptors",
+      "x": 340,
+      "y": -236,
+      "parent": "#vdxdz2"
+    },
+    {
+      "@id": "#fx7cez",
+      "name": "Makes vitamin D in sunlight",
+      "x": 409,
+      "y": -150,
+      "parent": "#vdxdz2"
+    },
+    {
+      "@id": "#at8tmf",
+      "name": "Hair, nails and glands",
+      "x": 228,
+      "y": 26,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5r6tin",
+      "name": "Hair grows from follicles",
+      "x": 445,
+      "y": -51,
+      "parent": "#at8tmf"
+    },
+    {
+      "@id": "#9ifuhb",
+      "name": "Sebaceous glands make protective oil",
+      "x": 545,
+      "y": 61,
+      "parent": "#at8tmf"
+    },
+    {
+      "@id": "#4iw453",
+      "name": "Melanin gives skin its colour",
+      "x": 409,
+      "y": 150,
+      "link": "https://en.wikipedia.org/wiki/Melanin",
+      "parent": "#at8tmf"
+    },
+    {
+      "@id": "#uv5mt3",
+      "name": "Common problems",
+      "x": 65,
+      "y": 177,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mhea4e",
+      "name": "Acne from blocked hair follicles",
+      "x": 340,
+      "y": 236,
+      "parent": "#uv5mt3"
+    },
+    {
+      "@id": "#678qzp",
+      "name": "Eczema: dry, itchy, inflamed patches",
+      "x": 243,
+      "y": 303,
+      "parent": "#uv5mt3"
+    },
+    {
+      "@id": "#h9tk2c",
+      "name": "Psoriasis: thick scaly plaques",
+      "x": 133,
+      "y": 360,
+      "parent": "#uv5mt3"
+    },
+    {
+      "@id": "#g7q5wf",
+      "name": "Sunburn damages skin cells",
+      "x": 0,
+      "y": 408,
+      "parent": "#uv5mt3"
+    },
+    {
+      "@id": "#738mk6",
+      "name": "Skin cancer, including melanoma",
+      "x": -175,
+      "y": 465,
+      "link": "https://en.wikipedia.org/wiki/Skin_cancer",
+      "parent": "#uv5mt3"
+    },
+    {
+      "@id": "#zna9xk",
+      "name": "Keeping skin healthy",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gm9hbp",
+      "name": "Sunscreen SPF 30 or higher",
+      "x": -243,
+      "y": 303,
+      "parent": "#zna9xk"
+    },
+    {
+      "@id": "#bve9hs",
+      "name": "Cover up and seek shade midday",
+      "x": -340,
+      "y": 236,
+      "parent": "#zna9xk"
+    },
+    {
+      "@id": "#z36x3n",
+      "name": "Moisturise dry skin",
+      "x": -409,
+      "y": 150,
+      "parent": "#zna9xk"
+    },
+    {
+      "@id": "#fpnmqm",
+      "name": "Check moles for changes",
+      "x": -445,
+      "y": 51,
+      "parent": "#zna9xk"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 18,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

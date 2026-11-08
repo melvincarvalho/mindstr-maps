@@ -1,0 +1,31 @@
+category: People
+aliases: mozart, w a mozart, mozart composer
+- Wolfgang Amadeus Mozart
+  - Austrian composer, 1756–1791
+    - Born in Salzburg
+    - Classical era, alongside Haydn
+    - Died in Vienna aged 35
+  - Child prodigy
+    - Composing from about age five
+    - Taught by his father Leopold
+    - Toured Europe's courts with sister Nannerl
+  - Salzburg to Vienna
+    - Court musician for Salzburg's archbishop
+    - Broke away to Vienna in 1781
+    - Freelance as pianist, teacher, composer
+    - Married Constanze Weber, 1782
+  - Great operas
+    - [The Marriage of Figaro, 1786](https://en.wikipedia.org/wiki/The_Marriage_of_Figaro)
+    - Don Giovanni, 1787
+    - Così fan tutte, 1790
+    - [The Magic Flute, 1791](https://en.wikipedia.org/wiki/The_Magic_Flute)
+  - Instrumental music
+    - 41 numbered symphonies; last is Jupiter
+    - 27 piano concertos
+    - Eine kleine Nachtmusik serenade
+    - Chamber music and piano sonatas
+  - Final year and legacy
+    - [Requiem left unfinished at death](https://en.wikipedia.org/wiki/Requiem_%28Mozart%29)
+    - Over 600 works in about 35 years
+    - [Works numbered in the Köchel catalogue](https://en.wikipedia.org/wiki/K%C3%B6chel_catalogue)
+    - [Salieri rivalry myth: the film Amadeus](https://en.wikipedia.org/wiki/Amadeus_%28film%29)

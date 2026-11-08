@@ -1,0 +1,363 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "South America",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#d34mn2",
+      "name": "Land and physical geography",
+      "x": -182,
+      "y": -112,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aipy63",
+      "name": "Fourth-largest continent, about 17.8 million km²",
+      "x": -446,
+      "y": -47,
+      "parent": "#d34mn2"
+    },
+    {
+      "@id": "#zjnnas",
+      "name": "Andes, the longest mountain range",
+      "x": -488,
+      "y": -162,
+      "link": "https://en.wikipedia.org/wiki/Andes",
+      "parent": "#d34mn2"
+    },
+    {
+      "@id": "#i7g4iz",
+      "name": "Amazon River carries the most water",
+      "x": -357,
+      "y": -219,
+      "link": "https://en.wikipedia.org/wiki/Amazon_River",
+      "parent": "#d34mn2"
+    },
+    {
+      "@id": "#738zvm",
+      "name": "Atacama, one of the driest deserts",
+      "x": -274,
+      "y": -286,
+      "parent": "#d34mn2"
+    },
+    {
+      "@id": "#425g3g",
+      "name": "Patagonia and Tierra del Fuego south",
+      "x": -180,
+      "y": -348,
+      "parent": "#d34mn2"
+    },
+    {
+      "@id": "#66z7ux",
+      "name": "Countries",
+      "x": 60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fcira6",
+      "name": "12 sovereign states",
+      "x": -68,
+      "y": -405,
+      "parent": "#66z7ux"
+    },
+    {
+      "@id": "#teqy5d",
+      "name": "Brazil covers nearly half the continent",
+      "x": 77,
+      "y": -453,
+      "parent": "#66z7ux"
+    },
+    {
+      "@id": "#8v3ue8",
+      "name": "French Guiana is part of France",
+      "x": 172,
+      "y": -333,
+      "parent": "#66z7ux"
+    },
+    {
+      "@id": "#tffzwh",
+      "name": "Falklands sovereignty disputed by UK, Argentina",
+      "x": 370,
+      "y": -390,
+      "parent": "#66z7ux"
+    },
+    {
+      "@id": "#rqwrpp",
+      "name": "Nature",
+      "x": 212,
+      "y": -70,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#w45i5r",
+      "name": "Amazon rainforest, the largest tropical forest",
+      "x": 373,
+      "y": -229,
+      "link": "https://en.wikipedia.org/wiki/Amazon_rainforest",
+      "parent": "#rqwrpp"
+    },
+    {
+      "@id": "#dxfg4t",
+      "name": "Galápagos Islands inspired Darwin",
+      "x": 416,
+      "y": -138,
+      "parent": "#rqwrpp"
+    },
+    {
+      "@id": "#3sgw3b",
+      "name": "Angel Falls, the highest waterfall",
+      "x": 446,
+      "y": -47,
+      "parent": "#rqwrpp"
+    },
+    {
+      "@id": "#bervm5",
+      "name": "People and languages",
+      "x": 199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2rq43y",
+      "name": "About 440 million people",
+      "x": 466,
+      "y": 49,
+      "parent": "#bervm5"
+    },
+    {
+      "@id": "#mehvvw",
+      "name": "Spanish and Portuguese dominate",
+      "x": 434,
+      "y": 144,
+      "parent": "#bervm5"
+    },
+    {
+      "@id": "#6uqpv4",
+      "name": "Quechua, Guaraní and Aymara survive",
+      "x": 357,
+      "y": 219,
+      "parent": "#bervm5"
+    },
+    {
+      "@id": "#agqb9e",
+      "name": "Indigenous, European, African and mixed heritage",
+      "x": 274,
+      "y": 286,
+      "parent": "#bervm5"
+    },
+    {
+      "@id": "#4yv2he",
+      "name": "History in brief",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rbdgqm",
+      "name": "Inca Empire ruled the Andes",
+      "x": 180,
+      "y": 348,
+      "link": "https://en.wikipedia.org/wiki/Inca_Empire",
+      "parent": "#4yv2he"
+    },
+    {
+      "@id": "#ncz3kg",
+      "name": "Spanish and Portuguese conquest from 1500s",
+      "x": 68,
+      "y": 405,
+      "parent": "#4yv2he"
+    },
+    {
+      "@id": "#vtntyb",
+      "name": "Independence wars led by Bolívar, San Martín",
+      "x": -77,
+      "y": 453,
+      "parent": "#4yv2he"
+    },
+    {
+      "@id": "#eszcfj",
+      "name": "Military dictatorships in the 20th century",
+      "x": -268,
+      "y": 513,
+      "parent": "#4yv2he"
+    },
+    {
+      "@id": "#nu93fd",
+      "name": "Economy and culture",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#92d8pd",
+      "name": "Soy, beef, coffee, copper and oil",
+      "x": -274,
+      "y": 286,
+      "parent": "#nu93fd"
+    },
+    {
+      "@id": "#bv5hwi",
+      "name": "Mercosur trade bloc",
+      "x": -357,
+      "y": 219,
+      "parent": "#nu93fd"
+    },
+    {
+      "@id": "#egqmit",
+      "name": "Football is a near-religion",
+      "x": -434,
+      "y": 144,
+      "parent": "#nu93fd"
+    },
+    {
+      "@id": "#hm6pvn",
+      "name": "Samba, tango and Carnival",
+      "x": -466,
+      "y": 49,
+      "parent": "#nu93fd"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 7,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    },
+    {
+      "start": 26,
+      "end": 29
+    },
+    {
+      "start": 26,
+      "end": 30
+    }
+  ],
+  "selectedNode": 0
+}

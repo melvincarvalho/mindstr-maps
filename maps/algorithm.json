@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Algorithm",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#76kjsp",
+      "name": "A precise recipe for a task",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hwif8h",
+      "name": "Finite list of clear steps",
+      "x": -505,
+      "y": -60,
+      "parent": "#76kjsp"
+    },
+    {
+      "@id": "#g67cia",
+      "name": "Takes input, produces output",
+      "x": -405,
+      "y": -156,
+      "parent": "#76kjsp"
+    },
+    {
+      "@id": "#kncifa",
+      "name": "Always finishes with an answer",
+      "x": -330,
+      "y": -245,
+      "parent": "#76kjsp"
+    },
+    {
+      "@id": "#in76yd",
+      "name": "Everyday examples",
+      "x": -51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7tknt7",
+      "name": "Long division taught at school",
+      "x": -225,
+      "y": -312,
+      "parent": "#in76yd"
+    },
+    {
+      "@id": "#eh9jtt",
+      "name": "Following a cooking recipe",
+      "x": -104,
+      "y": -367,
+      "parent": "#in76yd"
+    },
+    {
+      "@id": "#6wrxvp",
+      "name": "Sat nav finding the shortest route",
+      "x": 42,
+      "y": -423,
+      "parent": "#in76yd"
+    },
+    {
+      "@id": "#68jy5q",
+      "name": "Classic algorithms",
+      "x": 169,
+      "y": -125,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ew4ids",
+      "name": "Euclid's method for greatest common divisor",
+      "x": 234,
+      "y": -485,
+      "link": "https://en.wikipedia.org/wiki/Euclidean_algorithm",
+      "parent": "#68jy5q"
+    },
+    {
+      "@id": "#vwecsm",
+      "name": "Binary search halves the list",
+      "x": 281,
+      "y": -281,
+      "link": "https://en.wikipedia.org/wiki/Binary_search",
+      "parent": "#68jy5q"
+    },
+    {
+      "@id": "#x2cy4z",
+      "name": "Sorting: merge sort and quicksort",
+      "x": 372,
+      "y": -203,
+      "parent": "#68jy5q"
+    },
+    {
+      "@id": "#a5ig8b",
+      "name": "Dijkstra's shortest path in graphs",
+      "x": 468,
+      "y": -116,
+      "link": "https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm",
+      "parent": "#68jy5q"
+    },
+    {
+      "@id": "#jsvprg",
+      "name": "Measuring how good it is",
+      "x": 207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sr2dts",
+      "name": "Correct for every possible input",
+      "x": 450,
+      "y": 0,
+      "parent": "#jsvprg"
+    },
+    {
+      "@id": "#ktchff",
+      "name": "Speed grows with input size",
+      "x": 506,
+      "y": 126,
+      "parent": "#jsvprg"
+    },
+    {
+      "@id": "#qc6s5d",
+      "name": "Big O notation compares growth",
+      "x": 372,
+      "y": 203,
+      "link": "https://en.wikipedia.org/wiki/Big_O_notation",
+      "parent": "#jsvprg"
+    },
+    {
+      "@id": "#vc32v7",
+      "name": "Memory used matters too",
+      "x": 281,
+      "y": 281,
+      "parent": "#jsvprg"
+    },
+    {
+      "@id": "#gv4apf",
+      "name": "Design strategies",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3j3jty",
+      "name": "Divide and conquer",
+      "x": 164,
+      "y": 335,
+      "parent": "#gv4apf"
+    },
+    {
+      "@id": "#9m4p55",
+      "name": "Greedy: best choice each step",
+      "x": 38,
+      "y": 391,
+      "parent": "#gv4apf"
+    },
+    {
+      "@id": "#5g8rim",
+      "name": "Dynamic programming reuses solved subproblems",
+      "x": -124,
+      "y": 447,
+      "parent": "#gv4apf"
+    },
+    {
+      "@id": "#zkruhq",
+      "name": "Brute force tries everything",
+      "x": -225,
+      "y": 312,
+      "parent": "#gv4apf"
+    },
+    {
+      "@id": "#4v5bsx",
+      "name": "History and limits",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nncuvv",
+      "name": "Named after al-Khwarizmi, 9th century",
+      "x": -330,
+      "y": 245,
+      "parent": "#4v5bsx"
+    },
+    {
+      "@id": "#6vs84j",
+      "name": "Turing defined computation in 1936",
+      "x": -405,
+      "y": 156,
+      "parent": "#4v5bsx"
+    },
+    {
+      "@id": "#t26ug4",
+      "name": "Some problems have no algorithm",
+      "x": -505,
+      "y": 60,
+      "link": "https://en.wikipedia.org/wiki/Halting_problem",
+      "parent": "#4v5bsx"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

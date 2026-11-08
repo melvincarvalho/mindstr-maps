@@ -1,0 +1,352 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "History of philosophy",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#6233fs",
+      "name": "Ancient Greece",
+      "x": -178,
+      "y": -116,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yp6bg8",
+      "name": "Presocratics asked what everything is made of",
+      "x": -446,
+      "y": -49,
+      "parent": "#6233fs"
+    },
+    {
+      "@id": "#cmrwx2",
+      "name": "Socrates questioned everything, died 399 BC",
+      "x": -485,
+      "y": -167,
+      "link": "https://en.wikipedia.org/wiki/Socrates",
+      "parent": "#6233fs"
+    },
+    {
+      "@id": "#q573ug",
+      "name": "Plato's theory of Forms",
+      "x": -349,
+      "y": -227,
+      "parent": "#6233fs"
+    },
+    {
+      "@id": "#ss7ssx",
+      "name": "Aristotle founded logic and much science",
+      "x": -260,
+      "y": -294,
+      "parent": "#6233fs"
+    },
+    {
+      "@id": "#qef3v3",
+      "name": "Stoics and Epicureans on living well",
+      "x": -158,
+      "y": -354,
+      "parent": "#6233fs"
+    },
+    {
+      "@id": "#srhdpc",
+      "name": "Ancient Asia",
+      "x": 77,
+      "y": -173,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xfwhni",
+      "name": "Confucius on virtue and social order",
+      "x": -34,
+      "y": -407,
+      "link": "https://en.wikipedia.org/wiki/Confucius",
+      "parent": "#srhdpc"
+    },
+    {
+      "@id": "#8638fi",
+      "name": "Laozi and the Dao",
+      "x": 120,
+      "y": -464,
+      "parent": "#srhdpc"
+    },
+    {
+      "@id": "#2c9w32",
+      "name": "The Buddha on suffering and its end",
+      "x": 216,
+      "y": -334,
+      "parent": "#srhdpc"
+    },
+    {
+      "@id": "#ikmeti",
+      "name": "Indian schools debated self and reality",
+      "x": 307,
+      "y": -263,
+      "parent": "#srhdpc"
+    },
+    {
+      "@id": "#h4c6ca",
+      "name": "Medieval philosophy",
+      "x": 221,
+      "y": -50,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zv6uzz",
+      "name": "Augustine joined Plato with Christianity",
+      "x": 384,
+      "y": -187,
+      "parent": "#h4c6ca"
+    },
+    {
+      "@id": "#j7dcrj",
+      "name": "Avicenna and Averroes revived Aristotle",
+      "x": 452,
+      "y": -101,
+      "parent": "#h4c6ca"
+    },
+    {
+      "@id": "#cm7kz5",
+      "name": "Aquinas reconciled faith and reason",
+      "x": 450,
+      "y": 0,
+      "parent": "#h4c6ca"
+    },
+    {
+      "@id": "#sxv2ri",
+      "name": "Early modern",
+      "x": 178,
+      "y": 116,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#emnifp",
+      "name": "Descartes: I think, therefore I am",
+      "x": 452,
+      "y": 101,
+      "link": "https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes",
+      "parent": "#sxv2ri"
+    },
+    {
+      "@id": "#5ezzsu",
+      "name": "Locke, Berkeley and Hume's empiricism",
+      "x": 384,
+      "y": 187,
+      "parent": "#sxv2ri"
+    },
+    {
+      "@id": "#u8mpzv",
+      "name": "Hobbes and Rousseau on the social contract",
+      "x": 307,
+      "y": 263,
+      "parent": "#sxv2ri"
+    },
+    {
+      "@id": "#5m4kuv",
+      "name": "Kant on the limits of reason",
+      "x": 207,
+      "y": 320,
+      "parent": "#sxv2ri"
+    },
+    {
+      "@id": "#xdzm4w",
+      "name": "19th century",
+      "x": -47,
+      "y": 180,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2m22yp",
+      "name": "Hegel's dialectic of history",
+      "x": 96,
+      "y": 368,
+      "parent": "#xdzm4w"
+    },
+    {
+      "@id": "#yz6edc",
+      "name": "Marx on class and economics",
+      "x": -35,
+      "y": 423,
+      "parent": "#xdzm4w"
+    },
+    {
+      "@id": "#mg5cng",
+      "name": "Mill's utilitarianism and liberty",
+      "x": -214,
+      "y": 474,
+      "parent": "#xdzm4w"
+    },
+    {
+      "@id": "#duxdp2",
+      "name": "Nietzsche challenged traditional morality",
+      "x": -260,
+      "y": 294,
+      "parent": "#xdzm4w"
+    },
+    {
+      "@id": "#khym6c",
+      "name": "20th century onward",
+      "x": -211,
+      "y": 73,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mji7h6",
+      "name": "Analytic philosophy of language and logic",
+      "x": -349,
+      "y": 227,
+      "parent": "#khym6c"
+    },
+    {
+      "@id": "#a4xwqi",
+      "name": "Existentialism: Sartre and de Beauvoir",
+      "x": -413,
+      "y": 143,
+      "link": "https://en.wikipedia.org/wiki/Existentialism",
+      "parent": "#khym6c"
+    },
+    {
+      "@id": "#k52my6",
+      "name": "Rawls' theory of justice",
+      "x": -466,
+      "y": 51,
+      "parent": "#khym6c"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 7,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    },
+    {
+      "start": 26,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

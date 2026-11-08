@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Animal",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#s3dssh",
+      "name": "What makes an animal",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8n23cs",
+      "name": "Many cells, no cell walls",
+      "x": -445,
+      "y": -51,
+      "parent": "#s3dssh"
+    },
+    {
+      "@id": "#4wcdjk",
+      "name": "Eat other organisms for energy",
+      "x": -409,
+      "y": -150,
+      "parent": "#s3dssh"
+    },
+    {
+      "@id": "#mszzvp",
+      "name": "Most can move at some stage",
+      "x": -340,
+      "y": -236,
+      "parent": "#s3dssh"
+    },
+    {
+      "@id": "#b8xxpj",
+      "name": "Develop from a ball of cells",
+      "x": -243,
+      "y": -303,
+      "parent": "#s3dssh"
+    },
+    {
+      "@id": "#i3hych",
+      "name": "Size and diversity",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kwvrxy",
+      "name": "About 1.5 million species described",
+      "x": -133,
+      "y": -360,
+      "parent": "#i3hych"
+    },
+    {
+      "@id": "#2vmm2h",
+      "name": "Millions more still undiscovered",
+      "x": 0,
+      "y": -408,
+      "parent": "#i3hych"
+    },
+    {
+      "@id": "#zdb5ks",
+      "name": "From microscopic mites to blue whales",
+      "x": 175,
+      "y": -465,
+      "parent": "#i3hych"
+    },
+    {
+      "@id": "#3qhgrx",
+      "name": "Over 30 major body plans, or phyla",
+      "x": 243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Phylum",
+      "parent": "#i3hych"
+    },
+    {
+      "@id": "#k6qq6t",
+      "name": "Major groups",
+      "x": 228,
+      "y": -26,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4mfhwk",
+      "name": "Sponges and jellyfish, the simplest",
+      "x": 340,
+      "y": -236,
+      "parent": "#k6qq6t"
+    },
+    {
+      "@id": "#qy8b3p",
+      "name": "Arthropods: insects, spiders, crabs",
+      "x": 409,
+      "y": -150,
+      "link": "https://en.wikipedia.org/wiki/Arthropod",
+      "parent": "#k6qq6t"
+    },
+    {
+      "@id": "#ktcu8t",
+      "name": "Molluscs: snails, clams, octopuses",
+      "x": 505,
+      "y": -57,
+      "parent": "#k6qq6t"
+    },
+    {
+      "@id": "#2rmjwc",
+      "name": "Worms of many separate kinds",
+      "x": 445,
+      "y": 51,
+      "parent": "#k6qq6t"
+    },
+    {
+      "@id": "#qkt7s4",
+      "name": "Vertebrates: fish, birds, mammals",
+      "x": 409,
+      "y": 150,
+      "parent": "#k6qq6t"
+    },
+    {
+      "@id": "#r9vjgb",
+      "name": "Origins and evolution",
+      "x": 168,
+      "y": 207,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9dfq43",
+      "name": "First animals over 600 million years ago",
+      "x": 370,
+      "y": 256,
+      "parent": "#r9vjgb"
+    },
+    {
+      "@id": "#9qf4f2",
+      "name": "Cambrian explosion, about 540 million years ago",
+      "x": 254,
+      "y": 316,
+      "link": "https://en.wikipedia.org/wiki/Cambrian_explosion",
+      "parent": "#r9vjgb"
+    },
+    {
+      "@id": "#avgj2d",
+      "name": "Closest relatives are fungi",
+      "x": 139,
+      "y": 375,
+      "parent": "#r9vjgb"
+    },
+    {
+      "@id": "#5h6d7x",
+      "name": "How animals live",
+      "x": -65,
+      "y": 177,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xva9p5",
+      "name": "Nervous systems sense and respond",
+      "x": 0,
+      "y": 424,
+      "parent": "#5h6d7x"
+    },
+    {
+      "@id": "#8g9ryh",
+      "name": "Most reproduce sexually",
+      "x": -139,
+      "y": 375,
+      "parent": "#5h6d7x"
+    },
+    {
+      "@id": "#jm78z3",
+      "name": "Predators, grazers, filter feeders, parasites",
+      "x": -243,
+      "y": 303,
+      "parent": "#5h6d7x"
+    },
+    {
+      "@id": "#fc7wpy",
+      "name": "Animals and people",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kqteu9",
+      "name": "Livestock give meat, milk and wool",
+      "x": -340,
+      "y": 236,
+      "parent": "#fc7wpy"
+    },
+    {
+      "@id": "#zvwahx",
+      "name": "Pollinators support many crops",
+      "x": -409,
+      "y": 150,
+      "parent": "#fc7wpy"
+    },
+    {
+      "@id": "#edkdi6",
+      "name": "Many species threatened with extinction",
+      "x": -525,
+      "y": 59,
+      "link": "https://en.wikipedia.org/wiki/Holocene_extinction",
+      "parent": "#fc7wpy"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 11,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

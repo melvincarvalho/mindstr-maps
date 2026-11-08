@@ -1,0 +1,28 @@
+category: Society
+aliases: logograph, logographic writing, logographic script
+- Logogram
+  - A sign for a whole word
+    - 人 means "person"
+    - Says nothing direct about pronunciation
+    - Digits and & are logograms too
+  - Where they are used
+    - [Chinese characters](https://en.wikipedia.org/wiki/Chinese_characters)
+    - [Japanese kanji alongside kana](https://en.wikipedia.org/wiki/Kanji)
+    - Ancient cuneiform and Egyptian hieroglyphs
+    - [Maya script](https://en.wikipedia.org/wiki/Maya_script)
+  - How signs are made
+    - Pictograms: simplified pictures, 山 mountain
+    - Ideograms: abstract ideas, 上 up
+    - [Rebus: borrow a sign for its sound](https://en.wikipedia.org/wiki/Rebus_principle)
+    - Most Chinese characters pair meaning and sound
+  - Strengths
+    - Readable across different spoken dialects
+    - Distinguishes words that sound alike
+    - Dense: much meaning in little space
+  - Challenges
+    - Thousands of signs to learn
+    - About 3,000 characters for everyday Chinese
+    - Typed by phonetic input such as pinyin
+  - Never purely logographic
+    - Every system mixes in sound signs
+    - Writing evolved from logograms toward sounds

@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Book",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#8hkjc7",
+      "name": "What a book is",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hdqf4f",
+      "name": "Long written work bound as one volume",
+      "x": -505,
+      "y": -60,
+      "parent": "#8hkjc7"
+    },
+    {
+      "@id": "#gkgweu",
+      "name": "Pages, spine, cover and title page",
+      "x": -405,
+      "y": -156,
+      "parent": "#8hkjc7"
+    },
+    {
+      "@id": "#bf59j7",
+      "name": "ISBN number identifies each edition",
+      "x": -330,
+      "y": -245,
+      "link": "https://en.wikipedia.org/wiki/ISBN",
+      "parent": "#8hkjc7"
+    },
+    {
+      "@id": "#gekhhc",
+      "name": "Before printing",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#eyifen",
+      "name": "Clay tablets in ancient Mesopotamia",
+      "x": -225,
+      "y": -312,
+      "parent": "#gekhhc"
+    },
+    {
+      "@id": "#cqt36n",
+      "name": "Papyrus scrolls in ancient Egypt",
+      "x": -104,
+      "y": -367,
+      "parent": "#gekhhc"
+    },
+    {
+      "@id": "#x2mptq",
+      "name": "Bound codex replaced scrolls in late antiquity",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Codex",
+      "parent": "#gekhhc"
+    },
+    {
+      "@id": "#megr95",
+      "name": "Monks copied manuscripts by hand",
+      "x": 234,
+      "y": -485,
+      "parent": "#gekhhc"
+    },
+    {
+      "@id": "#uv9nhp",
+      "name": "The printing revolution",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#749asi",
+      "name": "Woodblock-printed Diamond Sutra, China, 868",
+      "x": 281,
+      "y": -281,
+      "parent": "#uv9nhp"
+    },
+    {
+      "@id": "#swtdqa",
+      "name": "Gutenberg's movable-type press, about 1450",
+      "x": 372,
+      "y": -203,
+      "link": "https://en.wikipedia.org/wiki/Printing_press",
+      "parent": "#uv9nhp"
+    },
+    {
+      "@id": "#8pva7z",
+      "name": "Cheaper books spread literacy and ideas",
+      "x": 525,
+      "y": -131,
+      "parent": "#uv9nhp"
+    },
+    {
+      "@id": "#mvru3p",
+      "name": "Cheap paperbacks took off in 1930s",
+      "x": 450,
+      "y": 0,
+      "parent": "#uv9nhp"
+    },
+    {
+      "@id": "#4nzfiz",
+      "name": "Making a book today",
+      "x": 190,
+      "y": 104,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wimj43",
+      "name": "Author writes, editor shapes the text",
+      "x": 506,
+      "y": 126,
+      "parent": "#4nzfiz"
+    },
+    {
+      "@id": "#hst64y",
+      "name": "Publisher designs, prints and markets it",
+      "x": 372,
+      "y": 203,
+      "parent": "#4nzfiz"
+    },
+    {
+      "@id": "#wyxpix",
+      "name": "Self-publishing and print on demand",
+      "x": 281,
+      "y": 281,
+      "parent": "#4nzfiz"
+    },
+    {
+      "@id": "#fcja6m",
+      "name": "Kinds of books",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p3yzap",
+      "name": "Fiction: novels and short stories",
+      "x": 164,
+      "y": 335,
+      "parent": "#fcja6m"
+    },
+    {
+      "@id": "#636cr9",
+      "name": "Non-fiction: history, science, how-to",
+      "x": 38,
+      "y": 391,
+      "parent": "#fcja6m"
+    },
+    {
+      "@id": "#5shkpc",
+      "name": "Reference: dictionaries and encyclopedias",
+      "x": -124,
+      "y": 447,
+      "parent": "#fcja6m"
+    },
+    {
+      "@id": "#ub3ges",
+      "name": "Picture books for young children",
+      "x": -225,
+      "y": 312,
+      "parent": "#fcja6m"
+    },
+    {
+      "@id": "#rqxt7t",
+      "name": "Reading today",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#96aayc",
+      "name": "E-books on phones and e-readers",
+      "x": -330,
+      "y": 245,
+      "link": "https://en.wikipedia.org/wiki/E-book",
+      "parent": "#rqxt7t"
+    },
+    {
+      "@id": "#ecjiuu",
+      "name": "Audiobooks for listening on the go",
+      "x": -405,
+      "y": 156,
+      "parent": "#rqxt7t"
+    },
+    {
+      "@id": "#cekym3",
+      "name": "Public libraries lend books free",
+      "x": -485,
+      "y": 58,
+      "link": "https://en.wikipedia.org/wiki/Library",
+      "parent": "#rqxt7t"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

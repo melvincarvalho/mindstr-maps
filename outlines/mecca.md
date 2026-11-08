@@ -1,0 +1,27 @@
+category: Geography
+aliases: makkah, mecca saudi arabia, holy city of mecca
+- Mecca
+  - Setting
+    - Western Saudi Arabia, Hejaz region
+    - Dry valley ringed by mountains
+    - About 70 km inland from Jeddah
+  - History
+    - Trading town on caravan routes
+    - [Birthplace of Muhammad, about 570](https://en.wikipedia.org/wiki/Muhammad)
+    - Muslims took the city in 630
+    - Saudi rule since the 1920s
+  - Islam's holiest city
+    - [Kaaba, the direction of prayer](https://en.wikipedia.org/wiki/Kaaba)
+    - [Masjid al-Haram, the Great Mosque](https://en.wikipedia.org/wiki/Masjid_al-Haram)
+    - Zamzam well inside the mosque
+    - Only Muslims may enter the city
+  - Pilgrimage
+    - [Hajj: once-in-a-lifetime duty if able](https://en.wikipedia.org/wiki/Hajj)
+    - Up to 2–3 million pilgrims yearly
+    - Umrah, the lesser pilgrimage, any time
+    - Rituals at Mina, Arafat and Muzdalifah
+  - City today
+    - About 2 million residents
+    - Economy built on serving pilgrims
+    - Abraj Al-Bait clock tower overlooks mosque
+    - Huge mosque expansions and rail links

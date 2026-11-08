@@ -1,0 +1,30 @@
+category: Science
+aliases: eukaryotes, eukaryotic cell, eukarya
+- Eukaryote
+  - What makes them distinct
+    - [DNA kept inside a nucleus](https://en.wikipedia.org/wiki/Cell_nucleus)
+    - Membrane-bound compartments called organelles
+    - Internal skeleton lets cells change shape
+    - Usually much larger than bacteria
+  - Inside the cell
+    - Mitochondria release energy from food
+    - Chloroplasts capture sunlight in plants
+    - Ribosomes and endoplasmic reticulum build proteins
+    - Golgi apparatus packages and ships molecules
+  - Origins
+    - Appeared about 2 billion years ago
+    - [Mitochondria were once free-living bacteria](https://en.wikipedia.org/wiki/Endosymbiont)
+    - Host cell likely related to Asgard archaea
+  - Main groups
+    - Animals
+    - Plants and green algae
+    - Fungi, from yeast to mushrooms
+    - [Protists: amoebas, algae, slime moulds](https://en.wikipedia.org/wiki/Protist)
+  - Life strategies
+    - [Sexual reproduction mixes genes](https://en.wikipedia.org/wiki/Sexual_reproduction)
+    - Multicellularity evolved several separate times
+    - Many remain single-celled, like yeast
+  - Why they matter
+    - Includes every human, crop and tree
+    - Malaria parasite is a single-celled eukaryote
+    - Yeast makes bread, beer and research models

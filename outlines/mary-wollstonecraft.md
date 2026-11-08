@@ -1,0 +1,28 @@
+category: People
+aliases: wollstonecraft, vindication of the rights of woman
+- Mary Wollstonecraft
+  - Life, 1759–1797
+    - Born in Spitalfields, London
+    - Worked as companion, teacher and governess
+    - Ran a school in Newington Green
+    - Witnessed the French Revolution in Paris
+  - Writing career
+    - Earned her living as a writer
+    - Reviewer and translator for Joseph Johnson
+    - [Rights of Men answered Burke, 1790](https://en.wikipedia.org/wiki/A_Vindication_of_the_Rights_of_Men)
+    - Letters from Sweden, a travel classic
+    - Novels Mary and The Wrongs of Woman
+  - [A Vindication of the Rights of Woman](https://en.wikipedia.org/wiki/A_Vindication_of_the_Rights_of_Woman)
+    - Published 1792
+    - Women are rational, not naturally inferior
+    - Girls deserve the same education as boys
+    - Answered Rousseau's view of women
+  - Personal life
+    - Daughter Fanny with Gilbert Imlay
+    - [Married philosopher William Godwin, 1797](https://en.wikipedia.org/wiki/William_Godwin)
+    - [Died after giving birth to Mary Shelley](https://en.wikipedia.org/wiki/Mary_Shelley)
+  - Legacy
+    - Founding figure of feminist philosophy
+    - Reputation damaged by Godwin's frank memoir
+    - Revived by suffragists and later feminists
+    - Statue unveiled on Newington Green, 2020

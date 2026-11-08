@@ -1,0 +1,33 @@
+category: History
+aliases: ussr, union of soviet socialist republics, soviet russia
+- Soviet Union
+  - Revolution and founding
+    - [Bolsheviks under Lenin seize power, 1917](https://en.wikipedia.org/wiki/Russian_Revolution)
+    - Civil war won by the Reds
+    - USSR formed December 1922
+  - How it was run
+    - One-party Communist rule
+    - State-planned economy, no private business
+    - Fifteen republics, Russia the largest
+    - Secret police and censorship
+  - [Stalin's rule, 1920s to 1953](https://en.wikipedia.org/wiki/Joseph_Stalin)
+    - Five-year plans for rapid industrialisation
+    - Forced collectivisation of farms
+    - Famine of 1932–33, including Ukraine's Holodomor
+    - Great Purge executed hundreds of thousands
+    - [Millions sent to Gulag labour camps](https://en.wikipedia.org/wiki/Gulag)
+  - World War II
+    - Germany invaded in June 1941
+    - Victory at Stalingrad, 1942–43
+    - About 27 million Soviet deaths
+    - Red Army captured Berlin 1945
+  - Cold War superpower
+    - [Rival to the United States](https://en.wikipedia.org/wiki/Cold_War)
+    - Dominated Eastern Europe, Warsaw Pact
+    - First atomic bomb test 1949
+    - Sputnik 1957, Gagarin in space 1961
+  - Reform and collapse
+    - Economy stagnated in the 1970s
+    - Gorbachev's glasnost and perestroika
+    - Eastern Europe broke free 1989
+    - [Dissolved December 1991 into 15 states](https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union)

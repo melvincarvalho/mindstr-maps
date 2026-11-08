@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Comics",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#syip7g",
+      "name": "What makes a comic",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3swv6p",
+      "name": "Pictures in sequence tell a story",
+      "x": -504,
+      "y": -62,
+      "parent": "#syip7g"
+    },
+    {
+      "@id": "#nepb4f",
+      "name": "Panels, gutters and speech balloons",
+      "x": -401,
+      "y": -163,
+      "parent": "#syip7g"
+    },
+    {
+      "@id": "#wqqq7a",
+      "name": "Writer, penciller, inker, letterer, colourist",
+      "x": -318,
+      "y": -255,
+      "parent": "#syip7g"
+    },
+    {
+      "@id": "#bpfyfc",
+      "name": "Early history",
+      "x": -36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h5khn9",
+      "name": "Rodolphe Töpffer's picture stories, 1830s",
+      "x": -204,
+      "y": -321,
+      "parent": "#bpfyfc"
+    },
+    {
+      "@id": "#scq922",
+      "name": "The Yellow Kid popularises newspaper strips",
+      "x": -73,
+      "y": -372,
+      "link": "https://en.wikipedia.org/wiki/The_Yellow_Kid",
+      "parent": "#bpfyfc"
+    },
+    {
+      "@id": "#qxwrgg",
+      "name": "Daily strips like Peanuts reach millions",
+      "x": 82,
+      "y": -420,
+      "parent": "#bpfyfc"
+    },
+    {
+      "@id": "#uag27r",
+      "name": "American comic books",
+      "x": 186,
+      "y": -108,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vifjad",
+      "name": "Superman debuts in Action Comics, 1938",
+      "x": 303,
+      "y": -475,
+      "link": "https://en.wikipedia.org/wiki/Superman",
+      "parent": "#uag27r"
+    },
+    {
+      "@id": "#yviujy",
+      "name": "Golden Age of superheroes follows",
+      "x": 318,
+      "y": -255,
+      "parent": "#uag27r"
+    },
+    {
+      "@id": "#5vqdtt",
+      "name": "Comics Code censors content from 1954",
+      "x": 401,
+      "y": -163,
+      "parent": "#uag27r"
+    },
+    {
+      "@id": "#bchcq4",
+      "name": "Marvel's Spider-Man and X-Men, 1960s",
+      "x": 444,
+      "y": -56,
+      "parent": "#uag27r"
+    },
+    {
+      "@id": "#35uxzj",
+      "name": "Comics around the world",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jraatp",
+      "name": "Manga: Japan's huge comics industry",
+      "x": 444,
+      "y": 56,
+      "link": "https://en.wikipedia.org/wiki/Manga",
+      "parent": "#35uxzj"
+    },
+    {
+      "@id": "#utnm42",
+      "name": "Osamu Tezuka shapes modern manga",
+      "x": 401,
+      "y": 163,
+      "parent": "#35uxzj"
+    },
+    {
+      "@id": "#rtye6k",
+      "name": "Franco-Belgian classics: Tintin and Asterix",
+      "x": 318,
+      "y": 255,
+      "parent": "#35uxzj"
+    },
+    {
+      "@id": "#cjqevw",
+      "name": "Korean webtoons made for phones",
+      "x": 204,
+      "y": 321,
+      "parent": "#35uxzj"
+    },
+    {
+      "@id": "#mqtv4u",
+      "name": "Graphic novels",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zhyd5r",
+      "name": "Maus wins a special Pulitzer, 1992",
+      "x": 73,
+      "y": 372,
+      "link": "https://en.wikipedia.org/wiki/Maus",
+      "parent": "#mqtv4u"
+    },
+    {
+      "@id": "#zmtsf5",
+      "name": "Watchmen reinvents the superhero, 1986–87",
+      "x": -82,
+      "y": 420,
+      "parent": "#mqtv4u"
+    },
+    {
+      "@id": "#ve6qvp",
+      "name": "Persepolis: memoir of revolutionary Iran",
+      "x": -204,
+      "y": 321,
+      "parent": "#mqtv4u"
+    },
+    {
+      "@id": "#miyprq",
+      "name": "Comics today",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#f7vh2x",
+      "name": "Superhero films dominate the box office",
+      "x": -318,
+      "y": 255,
+      "parent": "#miyprq"
+    },
+    {
+      "@id": "#s8tgya",
+      "name": "Webcomics and digital reading apps",
+      "x": -401,
+      "y": 163,
+      "parent": "#miyprq"
+    },
+    {
+      "@id": "#9injmh",
+      "name": "Fan conventions like San Diego Comic-Con",
+      "x": -504,
+      "y": 62,
+      "parent": "#miyprq"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

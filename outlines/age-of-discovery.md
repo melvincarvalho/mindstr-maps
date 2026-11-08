@@ -1,0 +1,31 @@
+category: History
+aliases: age of exploration, european age of exploration, era of discovery
+- Age of Discovery
+  - Why Europeans sailed
+    - Spices, gold and new trade routes
+    - Ottomans controlled overland routes east
+    - Spreading Christianity and royal rivalry
+    - Caravels, compass and astrolabe made it possible
+  - Portugal leads
+    - Prince Henry sponsored African voyages
+    - Dias rounded Cape of Good Hope, 1488
+    - [Vasco da Gama reached India, 1498](https://en.wikipedia.org/wiki/Vasco_da_Gama)
+    - Cabral reached Brazil in 1500
+  - Spain and the Americas
+    - [Columbus reached the Caribbean in 1492](https://en.wikipedia.org/wiki/Voyages_of_Christopher_Columbus)
+    - Treaty of Tordesillas divided the world, 1494
+    - Balboa sighted the Pacific in 1513
+    - [Magellan–Elcano circumnavigation, 1519–1522](https://en.wikipedia.org/wiki/Magellan_expedition)
+  - Others join in
+    - Cabot, England and North America, 1497
+    - Dutch East India Company founded 1602
+    - French explored the St Lawrence
+  - Consequences
+    - [Columbian exchange of plants, animals, germs](https://en.wikipedia.org/wiki/Columbian_exchange)
+    - Epidemics killed most Indigenous Americans
+    - Conquest and colonisation of the Americas
+    - Atlantic slave trade began and grew
+    - Maps redrawn; a global economy formed
+  - Timeframe
+    - Roughly the 15th to 17th centuries
+    - Other cultures already knew these lands

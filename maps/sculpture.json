@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Sculpture",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#nkci3m",
+      "name": "What sculpture is",
+      "x": -220,
+      "y": -54,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wsb32t",
+      "name": "Three-dimensional art occupying space",
+      "x": -525,
+      "y": -62,
+      "parent": "#nkci3m"
+    },
+    {
+      "@id": "#wv43eh",
+      "name": "Freestanding in the round, or relief",
+      "x": -405,
+      "y": -156,
+      "parent": "#nkci3m"
+    },
+    {
+      "@id": "#k5nue2",
+      "name": "Techniques",
+      "x": -84,
+      "y": -171,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ru8fzu",
+      "name": "Carving away stone or wood",
+      "x": -330,
+      "y": -245,
+      "parent": "#k5nue2"
+    },
+    {
+      "@id": "#7yux56",
+      "name": "Modelling in clay or wax",
+      "x": -225,
+      "y": -312,
+      "parent": "#k5nue2"
+    },
+    {
+      "@id": "#u95b8e",
+      "name": "Casting bronze by the lost-wax method",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Lost-wax_casting",
+      "parent": "#k5nue2"
+    },
+    {
+      "@id": "#k9rsp6",
+      "name": "Assembling found objects and metal",
+      "x": 42,
+      "y": -423,
+      "parent": "#k5nue2"
+    },
+    {
+      "@id": "#jrn27q",
+      "name": "Ancient sculpture",
+      "x": 169,
+      "y": -125,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a7i2is",
+      "name": "Venus of Willendorf, Ice Age figurine",
+      "x": 234,
+      "y": -485,
+      "link": "https://en.wikipedia.org/wiki/Venus_of_Willendorf",
+      "parent": "#jrn27q"
+    },
+    {
+      "@id": "#za6k39",
+      "name": "Egyptian statues of pharaohs and gods",
+      "x": 281,
+      "y": -281,
+      "parent": "#jrn27q"
+    },
+    {
+      "@id": "#rqy3ec",
+      "name": "Greeks perfect the idealised human body",
+      "x": 372,
+      "y": -203,
+      "parent": "#jrn27q"
+    },
+    {
+      "@id": "#638k6h",
+      "name": "China's Terracotta Army, thousands of soldiers",
+      "x": 525,
+      "y": -131,
+      "link": "https://en.wikipedia.org/wiki/Terracotta_Army",
+      "parent": "#jrn27q"
+    },
+    {
+      "@id": "#jyrmjc",
+      "name": "Renaissance and Baroque",
+      "x": 220,
+      "y": 54,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bp4k2t",
+      "name": "Donatello's bronze David",
+      "x": 450,
+      "y": 0,
+      "parent": "#jyrmjc"
+    },
+    {
+      "@id": "#25ddhp",
+      "name": "Michelangelo's marble David, 1501–1504",
+      "x": 430,
+      "y": 106,
+      "link": "https://en.wikipedia.org/wiki/David_%28Michelangelo%29",
+      "parent": "#jyrmjc"
+    },
+    {
+      "@id": "#u2umqv",
+      "name": "Bernini's marble seems to move",
+      "x": 372,
+      "y": 203,
+      "parent": "#jyrmjc"
+    },
+    {
+      "@id": "#tjusgy",
+      "name": "Modern sculpture",
+      "x": 17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xzbapx",
+      "name": "Rodin's The Thinker",
+      "x": 281,
+      "y": 281,
+      "link": "https://en.wikipedia.org/wiki/The_Thinker",
+      "parent": "#tjusgy"
+    },
+    {
+      "@id": "#5qjzmm",
+      "name": "Brâncuși simplifies to pure forms",
+      "x": 164,
+      "y": 335,
+      "parent": "#tjusgy"
+    },
+    {
+      "@id": "#9zjikv",
+      "name": "Henry Moore's reclining figures",
+      "x": 38,
+      "y": 391,
+      "parent": "#tjusgy"
+    },
+    {
+      "@id": "#5zjese",
+      "name": "Giacometti's thin walking figures",
+      "x": -124,
+      "y": 447,
+      "parent": "#tjusgy"
+    },
+    {
+      "@id": "#ah2tm6",
+      "name": "Louise Bourgeois's giant spider Maman",
+      "x": -225,
+      "y": 312,
+      "parent": "#tjusgy"
+    },
+    {
+      "@id": "#dkw7iz",
+      "name": "Sculpture today",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y7yuca",
+      "name": "Installation and land art",
+      "x": -330,
+      "y": 245,
+      "parent": "#dkw7iz"
+    },
+    {
+      "@id": "#23vyth",
+      "name": "Public works like Chicago's Cloud Gate",
+      "x": -405,
+      "y": 156,
+      "parent": "#dkw7iz"
+    },
+    {
+      "@id": "#2rbdwv",
+      "name": "3D printing and digital sculpting",
+      "x": -485,
+      "y": 58,
+      "parent": "#dkw7iz"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 4,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 18,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

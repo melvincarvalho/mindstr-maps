@@ -1,0 +1,32 @@
+category: Technology
+aliases: kitchen oven, cooking oven, types of ovens
+- Oven
+  - Enclosed chamber that heats food
+    - Bakes, roasts and grills
+    - Hot air surrounds food evenly
+  - History
+    - Earth pit ovens in prehistory
+    - Clay and brick bread ovens
+    - [Tandoor and wood-fired pizza ovens](https://en.wikipedia.org/wiki/Tandoor)
+    - Cast-iron stoves in the 1800s
+    - Gas and electric ovens spread, 1900s
+  - Types today
+    - Gas oven
+    - Electric oven
+    - [Fan oven circulates hot air](https://en.wikipedia.org/wiki/Convection_oven)
+    - [Microwave heats the water in food](https://en.wikipedia.org/wiki/Microwave_oven)
+    - Steam and combination ovens
+    - Toaster ovens and air fryers
+  - Cooking basics
+    - Preheat before baking
+    - Fan ovens need about 20°C less
+    - Oven thermometer checks true temperature
+    - Middle shelf heats most evenly
+  - Safety and care
+    - Use oven gloves
+    - Keep children away from hot doors
+    - Gas ovens need good ventilation
+    - Self-cleaning burns residue to ash
+  - Industrial ovens
+    - [Kilns fire pottery and bricks](https://en.wikipedia.org/wiki/Kiln)
+    - Tunnel ovens in commercial bakeries

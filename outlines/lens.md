@@ -1,0 +1,30 @@
+category: Technology
+aliases: optical lens, how lenses work, convex and concave lenses, glass lens
+- Lens
+  - How lenses bend light
+    - [Light slows in glass and bends](https://en.wikipedia.org/wiki/Refraction)
+    - Curved surfaces bend rays by different amounts
+    - Focal length: where parallel rays meet
+  - Two basic shapes
+    - Convex lenses bring light together
+    - Concave lenses spread light out
+    - Convex lenses can form upside-down images
+  - Power and flaws
+    - Shorter focal length means stronger lens
+    - Opticians measure power in dioptres
+    - [Chromatic aberration fringes colours](https://en.wikipedia.org/wiki/Chromatic_aberration)
+    - Compound lenses correct the flaws
+  - History
+    - Polished crystal lenses in ancient Assyria
+    - [Eyeglasses invented in Italy, about 1290](https://en.wikipedia.org/wiki/Glasses)
+    - Lenses made telescopes and microscopes possible
+  - Correcting eyesight
+    - Short sight: concave lenses
+    - Long sight: convex lenses
+    - Astigmatism: cylindrical lenses
+    - Contact lenses sit on the eye
+  - Lenses all around you
+    - [Your eye has its own lens](https://en.wikipedia.org/wiki/Human_eye)
+    - Camera and phone lenses
+    - Magnifying glasses and projectors
+    - Fresnel lenses in lighthouses

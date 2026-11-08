@@ -1,0 +1,29 @@
+category: Technology
+aliases: guns, history of firearms, gun history
+- Firearm
+  - Gun that fires projectiles using propellant
+    - Handguns, rifles and shotguns
+    - Used by militaries, police, hunters, shooters
+  - History
+    - [Fire lances in China, 10th century](https://en.wikipedia.org/wiki/Fire_lance)
+    - Hand cannons by the 1300s
+    - Matchlock, then flintlock muskets
+    - Rifled barrels improved accuracy
+    - Revolvers and repeating rifles, 1800s
+    - Automatic weapons in the 20th century
+  - Laws vary by country
+    - [US Second Amendment: right to bear arms](https://en.wikipedia.org/wiki/Second_Amendment_to_the_United_States_Constitution)
+    - UK banned most handguns in 1997
+    - Australia's 1996 buyback after Port Arthur
+    - Japan has very strict licensing
+    - Licences, background checks, storage rules common
+  - Safety and statistics
+    - US has most civilian guns per person
+    - Suicides are most US gun deaths
+    - Locked storage reduces accidents and suicides
+    - Treat every gun as loaded
+  - Sport and culture
+    - [Olympic shooting events since 1896](https://en.wikipedia.org/wiki/Shooting_at_the_Summer_Olympics)
+    - Hunting traditions and wildlife management
+    - Westerns and action films
+    - Collectors and antique arms

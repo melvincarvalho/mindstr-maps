@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Trigonometry",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#e2g6sq",
+      "name": "The big idea",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sxmy8m",
+      "name": "Links a triangle's angles to its sides",
+      "x": -485,
+      "y": -58,
+      "parent": "#e2g6sq"
+    },
+    {
+      "@id": "#ievbvf",
+      "name": "Same angles give same side ratios",
+      "x": -405,
+      "y": -156,
+      "parent": "#e2g6sq"
+    },
+    {
+      "@id": "#mhmz5u",
+      "name": "Lets you measure what you can't reach",
+      "x": -330,
+      "y": -245,
+      "parent": "#e2g6sq"
+    },
+    {
+      "@id": "#ej9ngr",
+      "name": "Sine, cosine and tangent",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r2rcf7",
+      "name": "Sine is opposite over hypotenuse",
+      "x": -225,
+      "y": -312,
+      "parent": "#ej9ngr"
+    },
+    {
+      "@id": "#p3kwt5",
+      "name": "Cosine is adjacent over hypotenuse",
+      "x": -104,
+      "y": -367,
+      "parent": "#ej9ngr"
+    },
+    {
+      "@id": "#qb9phx",
+      "name": "Tangent is opposite over adjacent",
+      "x": 42,
+      "y": -423,
+      "parent": "#ej9ngr"
+    },
+    {
+      "@id": "#iukwhk",
+      "name": "Memory aid: SOH CAH TOA",
+      "x": 234,
+      "y": -485,
+      "parent": "#ej9ngr"
+    },
+    {
+      "@id": "#muucmy",
+      "name": "The unit circle",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p4ibh8",
+      "name": "Circle of radius one at the origin",
+      "x": 281,
+      "y": -281,
+      "link": "https://en.wikipedia.org/wiki/Unit_circle",
+      "parent": "#muucmy"
+    },
+    {
+      "@id": "#e3wxpu",
+      "name": "Cosine and sine give the point's position",
+      "x": 372,
+      "y": -203,
+      "parent": "#muucmy"
+    },
+    {
+      "@id": "#yzjgir",
+      "name": "Extends trig to any angle",
+      "x": 449,
+      "y": -111,
+      "parent": "#muucmy"
+    },
+    {
+      "@id": "#57enu3",
+      "name": "Sine squared plus cosine squared equals one",
+      "x": 450,
+      "y": 0,
+      "parent": "#muucmy"
+    },
+    {
+      "@id": "#pafa3i",
+      "name": "Any triangle",
+      "x": 190,
+      "y": 104,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jyzc3t",
+      "name": "Law of sines relates sides and angles",
+      "x": 487,
+      "y": 121,
+      "link": "https://en.wikipedia.org/wiki/Law_of_sines",
+      "parent": "#pafa3i"
+    },
+    {
+      "@id": "#h5b67m",
+      "name": "Law of cosines generalises Pythagoras",
+      "x": 372,
+      "y": 203,
+      "link": "https://en.wikipedia.org/wiki/Law_of_cosines",
+      "parent": "#pafa3i"
+    },
+    {
+      "@id": "#g3vdv8",
+      "name": "Area is half ab times sin C",
+      "x": 281,
+      "y": 281,
+      "parent": "#pafa3i"
+    },
+    {
+      "@id": "#8iqzbz",
+      "name": "Waves and cycles",
+      "x": 17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#reayra",
+      "name": "Sine curve repeats every 360°",
+      "x": 164,
+      "y": 335,
+      "parent": "#8iqzbz"
+    },
+    {
+      "@id": "#3v33a7",
+      "name": "Models sound, light and tides",
+      "x": 38,
+      "y": 391,
+      "parent": "#8iqzbz"
+    },
+    {
+      "@id": "#igw3tu",
+      "name": "Fourier: any signal as summed waves",
+      "x": -124,
+      "y": 447,
+      "link": "https://en.wikipedia.org/wiki/Fourier_series",
+      "parent": "#8iqzbz"
+    },
+    {
+      "@id": "#gppt27",
+      "name": "History and uses",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sgc9b5",
+      "name": "Greek astronomers built chord tables",
+      "x": -225,
+      "y": 312,
+      "parent": "#gppt27"
+    },
+    {
+      "@id": "#jaxpx2",
+      "name": "Indian mathematicians defined the sine",
+      "x": -330,
+      "y": 245,
+      "parent": "#gppt27"
+    },
+    {
+      "@id": "#ajdpzw",
+      "name": "Surveying, navigation and GPS",
+      "x": -405,
+      "y": 156,
+      "parent": "#gppt27"
+    },
+    {
+      "@id": "#9xf93u",
+      "name": "Engineering, music and computer graphics",
+      "x": -445,
+      "y": 54,
+      "parent": "#gppt27"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

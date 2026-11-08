@@ -1,0 +1,29 @@
+category: People
+aliases: lavoisier, antoine laurent lavoisier, father of modern chemistry
+- Antoine Lavoisier
+  - Life
+    - Born 1743 in Paris
+    - Trained in law, turned to science
+    - Tax collector in the Ferme générale
+    - Guillotined in 1794 during the Terror
+  - Combustion and oxygen
+    - Burning is combination with oxygen
+    - Named oxygen and hydrogen
+    - [Overturned the phlogiston theory](https://en.wikipedia.org/wiki/Phlogiston_theory)
+    - Water is hydrogen plus oxygen
+  - Careful measurement
+    - Weighed reactants and products precisely
+    - [Mass is conserved in reactions](https://en.wikipedia.org/wiki/Conservation_of_mass)
+    - Showed respiration is slow combustion
+  - Reforming chemistry
+    - Systematic names for compounds, 1787
+    - Elementary Treatise of Chemistry, 1789
+    - Listed 33 elements in a table
+  - Partnerships and public work
+    - [Marie-Anne Paulze Lavoisier, wife and collaborator](https://en.wikipedia.org/wiki/Marie-Anne_Paulze_Lavoisier)
+    - Ran France's gunpowder administration
+    - Helped design the metric system
+  - Legacy
+    - Often called father of modern chemistry
+    - Chemistry became a quantitative science
+    - Execution seen as loss to science

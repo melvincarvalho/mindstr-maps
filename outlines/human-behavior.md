@@ -1,0 +1,31 @@
+category: Society
+aliases: human behaviour, why people behave as they do, behavioral science, behavioural science
+- Human behavior
+  - What shapes behavior
+    - Genes and heredity
+    - Upbringing and environment
+    - [Nature and nurture work together](https://en.wikipedia.org/wiki/Nature_versus_nurture)
+    - Culture sets norms and expectations
+  - Motives and drives
+    - Basic needs: food, safety, sleep
+    - Belonging and social connection
+    - [Maslow's hierarchy: popular but debated](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
+    - Emotions push us to act
+  - Learning shapes behavior
+    - [Classical conditioning: Pavlov's dogs](https://en.wikipedia.org/wiki/Classical_conditioning)
+    - Operant conditioning: rewards and punishments
+    - Copying others: observational learning
+    - Habits form through repetition
+  - Social behavior
+    - Conformity to group pressure
+    - Obedience to authority
+    - Cooperation, altruism and reciprocity
+    - Aggression and conflict
+  - Decision-making quirks
+    - Losses feel bigger than equal gains
+    - Defaults and framing steer choices
+    - Present bias: now over later
+  - Studying behavior
+    - Psychology, sociology and anthropology
+    - [Behavioral economics tests real choices](https://en.wikipedia.org/wiki/Behavioral_economics)
+    - [Some famous findings failed to replicate](https://en.wikipedia.org/wiki/Replication_crisis)

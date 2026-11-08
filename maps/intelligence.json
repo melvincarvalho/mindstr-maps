@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Intelligence",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#vm7d4c",
+      "name": "What it is",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4hvdzr",
+      "name": "Ability to learn, reason and solve problems",
+      "x": -504,
+      "y": -62,
+      "parent": "#vm7d4c"
+    },
+    {
+      "@id": "#3yts3g",
+      "name": "Adapting to new situations",
+      "x": -401,
+      "y": -163,
+      "parent": "#vm7d4c"
+    },
+    {
+      "@id": "#4zkr7p",
+      "name": "Exact definitions still debated",
+      "x": -318,
+      "y": -255,
+      "parent": "#vm7d4c"
+    },
+    {
+      "@id": "#82aurr",
+      "name": "Theories",
+      "x": 36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rcc9j3",
+      "name": "Spearman's g: one general factor",
+      "x": -204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/G_factor_%28psychometrics%29",
+      "parent": "#82aurr"
+    },
+    {
+      "@id": "#2z4h37",
+      "name": "Fluid versus crystallised intelligence",
+      "x": -73,
+      "y": -372,
+      "parent": "#82aurr"
+    },
+    {
+      "@id": "#j5gcct",
+      "name": "Gardner's multiple intelligences, weakly supported",
+      "x": 82,
+      "y": -420,
+      "link": "https://en.wikipedia.org/wiki/Theory_of_multiple_intelligences",
+      "parent": "#82aurr"
+    },
+    {
+      "@id": "#u23xic",
+      "name": "Sternberg: analytical, creative, practical",
+      "x": 204,
+      "y": -321,
+      "parent": "#82aurr"
+    },
+    {
+      "@id": "#ds2ni7",
+      "name": "Emotional intelligence: popular, debated",
+      "x": 318,
+      "y": -255,
+      "link": "https://en.wikipedia.org/wiki/Emotional_intelligence",
+      "parent": "#82aurr"
+    },
+    {
+      "@id": "#pddb2g",
+      "name": "Measuring it",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#abnwa3",
+      "name": "IQ tests set the average at 100",
+      "x": 401,
+      "y": -163,
+      "link": "https://en.wikipedia.org/wiki/Intelligence_quotient",
+      "parent": "#pddb2g"
+    },
+    {
+      "@id": "#m9c2qa",
+      "name": "About two-thirds score between 85 and 115",
+      "x": 444,
+      "y": -56,
+      "parent": "#pddb2g"
+    },
+    {
+      "@id": "#hhcwvj",
+      "name": "Predicts school and job performance",
+      "x": 444,
+      "y": 56,
+      "parent": "#pddb2g"
+    },
+    {
+      "@id": "#ireikw",
+      "name": "Scores rose for decades: Flynn effect",
+      "x": 401,
+      "y": 163,
+      "parent": "#pddb2g"
+    },
+    {
+      "@id": "#i6zamm",
+      "name": "Genes and environment",
+      "x": 140,
+      "y": 220,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#84id37",
+      "name": "Twin studies show substantial heritability",
+      "x": 346,
+      "y": 277,
+      "parent": "#i6zamm"
+    },
+    {
+      "@id": "#9apw3e",
+      "name": "Nutrition, schooling and health matter too",
+      "x": 213,
+      "y": 335,
+      "parent": "#i6zamm"
+    },
+    {
+      "@id": "#bymzrc",
+      "name": "Heritability rises from childhood to adulthood",
+      "x": 76,
+      "y": 388,
+      "parent": "#i6zamm"
+    },
+    {
+      "@id": "#eub2en",
+      "name": "Across a lifetime",
+      "x": -104,
+      "y": 164,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mnkmjk",
+      "name": "Fluid reasoning peaks in early adulthood",
+      "x": -85,
+      "y": 436,
+      "parent": "#eub2en"
+    },
+    {
+      "@id": "#c9emna",
+      "name": "Knowledge keeps growing into old age",
+      "x": -204,
+      "y": 321,
+      "parent": "#eub2en"
+    },
+    {
+      "@id": "#xxf2wg",
+      "name": "Extra schooling raises IQ a few points",
+      "x": -318,
+      "y": 255,
+      "parent": "#eub2en"
+    },
+    {
+      "@id": "#64nm23",
+      "name": "Beyond humans",
+      "x": -219,
+      "y": 57,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3xpf52",
+      "name": "Crows, apes and dolphins solve problems",
+      "x": -419,
+      "y": 170,
+      "parent": "#64nm23"
+    },
+    {
+      "@id": "#s833z5",
+      "name": "Artificial intelligence matches some abilities",
+      "x": -544,
+      "y": 66,
+      "parent": "#64nm23"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

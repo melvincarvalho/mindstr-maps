@@ -1,0 +1,30 @@
+category: People
+aliases: first emperor of china, qin shihuangdi, shi huangdi, ying zheng
+- Qin Shi Huang
+  - Who he was
+    - Born Ying Zheng in 259 BC
+    - King of Qin from 246 BC
+    - Died in 210 BC on tour
+  - Unifying China
+    - Conquered six rival Warring States
+    - Unified China in 221 BC
+    - Took the new title Huangdi, emperor
+  - Standardising everything
+    - One written script across China
+    - Common coins, weights and measures
+    - Same axle widths for carts
+    - Replaced feudal lords with governed commanderies
+  - Harsh rule
+    - [Governed by strict Legalist ideas](https://en.wikipedia.org/wiki/Legalism_%28Chinese_philosophy%29)
+    - [Ordered burning of books, 213 BC](https://en.wikipedia.org/wiki/Burning_of_books_and_burying_of_scholars)
+    - Forced labour on huge projects
+  - Great works
+    - [Linked walls into early Great Wall](https://en.wikipedia.org/wiki/Great_Wall_of_China)
+    - Built roads and canals
+    - Vast tomb near modern Xi'an
+    - [Terracotta Army found in 1974](https://en.wikipedia.org/wiki/Terracotta_Army)
+  - Legacy
+    - Searched for an elixir of immortality
+    - Qin dynasty collapsed in 206 BC
+    - Han dynasty kept his unified state
+    - Name China may come from Qin

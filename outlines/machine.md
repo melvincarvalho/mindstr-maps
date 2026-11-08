@@ -1,0 +1,30 @@
+category: Technology
+aliases: what is a machine, how machines work, machines explained
+- Machine
+  - What makes a machine
+    - Applies force to do useful work
+    - Turns energy into controlled motion
+    - Transforms energy, never creates it
+  - [Simple machines are the building blocks](https://en.wikipedia.org/wiki/Simple_machine)
+    - Levers, wheels, pulleys and inclined planes
+    - Wedges and screws are inclined planes
+    - Less force over a longer distance
+  - Parts of complex machines
+    - Gears change speed and turning force
+    - Shafts, belts and chains carry power
+    - Bearings reduce friction
+    - Springs store energy
+  - Power sources
+    - Muscle, water and wind came first
+    - [Steam engines powered the Industrial Revolution](https://en.wikipedia.org/wiki/Steam_engine)
+    - Petrol and diesel engines
+    - Electric motors now dominate
+  - Measuring a machine
+    - [Mechanical advantage: force out over in](https://en.wikipedia.org/wiki/Mechanical_advantage)
+    - Efficiency: work out over in
+    - Friction wastes energy as heat
+    - [No perpetual motion machine is possible](https://en.wikipedia.org/wiki/Perpetual_motion)
+  - Everyday machines
+    - Bicycles, scissors and can openers
+    - Washing machines and cars
+    - Computers now control many machines

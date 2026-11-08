@@ -1,0 +1,30 @@
+category: People
+aliases: gandhi, mohandas gandhi, mohandas karamchand gandhi
+- Mahatma Gandhi
+  - Early life
+    - Born 1869 in Porbandar, Gujarat
+    - Studied law in London
+  - South Africa, 1893–1914
+    - Faced racial discrimination as a lawyer
+    - Organised Indians against unjust laws
+    - First campaigns of mass civil resistance
+  - Method of nonviolence
+    - [Satyagraha: firm, nonviolent resistance to injustice](https://en.wikipedia.org/wiki/Satyagraha)
+    - Boycotts, strikes, fasts and civil disobedience
+    - Simple living and homespun cloth (khadi)
+  - Leading the independence movement
+    - Led the Indian National Congress from 1920s
+    - [Non-cooperation movement, 1920–22](https://en.wikipedia.org/wiki/Non-cooperation_movement)
+    - [Salt March to Dandi, 1930](https://en.wikipedia.org/wiki/Salt_March)
+    - [Quit India movement, 1942](https://en.wikipedia.org/wiki/Quit_India_Movement)
+    - Jailed by the British many times
+  - Independence and death
+    - India became independent in August 1947
+    - Opposed partition and religious violence
+    - Fasted to stop Hindu–Muslim riots
+    - [Assassinated by Nathuram Godse, January 1948](https://en.wikipedia.org/wiki/Assassination_of_Mahatma_Gandhi)
+  - Legacy and debates
+    - Called "Father of the Nation" in India
+    - Inspired Martin Luther King Jr. and Mandela
+    - Birthday is International Day of Non-Violence
+    - Criticised over early racial views and caste

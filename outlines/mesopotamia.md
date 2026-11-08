@@ -1,0 +1,30 @@
+category: History
+aliases: ancient mesopotamia, land between the rivers, cradle of civilization
+- Mesopotamia
+  - Where it was
+    - Between the Tigris and Euphrates
+    - Mostly modern Iraq
+    - Part of the Fertile Crescent
+  - Firsts
+    - Early cities like Uruk
+    - [Cuneiform writing, about 3200 BC](https://en.wikipedia.org/wiki/Cuneiform)
+    - Irrigation canals made desert farmland
+    - Base-60 counting: our hours, degrees
+  - Peoples and empires
+    - [Sumerians in the south](https://en.wikipedia.org/wiki/Sumer)
+    - Sargon's Akkadian Empire, about 2300 BC
+    - Babylonians under Hammurabi
+    - Assyrians ruled from Nineveh
+    - Neo-Babylonians under Nebuchadnezzar II
+  - Law and literature
+    - [Code of Hammurabi, about 1754 BC](https://en.wikipedia.org/wiki/Code_of_Hammurabi)
+    - [Epic of Gilgamesh](https://en.wikipedia.org/wiki/Epic_of_Gilgamesh)
+    - Clay tablets kept records and letters
+  - Religion and cities
+    - Each city had a patron god
+    - Ziggurats: stepped temple platforms
+    - Priests and kings ruled together
+  - End and legacy
+    - Persia's Cyrus took Babylon, 539 BC
+    - Later Greek, Parthian and Islamic rule
+    - Wheel, astronomy and maths passed on

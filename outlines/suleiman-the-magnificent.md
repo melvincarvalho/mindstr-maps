@@ -1,0 +1,30 @@
+category: People
+aliases: suleiman i, suleiman the lawgiver, kanuni sultan suleyman
+- Suleiman the Magnificent
+  - Who he was
+    - Tenth sultan of the Ottoman Empire
+    - Born 1494 in Trabzon
+    - Reigned 1520 to 1566, the longest
+  - Military campaigns
+    - Captured Belgrade in 1521
+    - Took Rhodes from the Knights, 1522
+    - [Crushed Hungary at Mohács, 1526](https://en.wikipedia.org/wiki/Battle_of_Moh%C3%A1cs)
+    - [Siege of Vienna failed in 1529](https://en.wikipedia.org/wiki/Siege_of_Vienna_%281529%29)
+    - Took Baghdad from Safavid Persia
+  - Power at sea
+    - Admiral Hayreddin Barbarossa led the fleet
+    - Won the Battle of Preveza, 1538
+    - Dominated the eastern Mediterranean
+  - The Lawgiver
+    - Known in Turkey as Kanuni
+    - Codified Ottoman administrative and criminal law
+    - Balanced sultan's law with sharia
+  - Culture and court
+    - Architect Mimar Sinan built Süleymaniye Mosque
+    - Wrote poetry under the name Muhibbi
+    - [Married Hürrem Sultan, a former concubine](https://en.wikipedia.org/wiki/H%C3%BCrrem_Sultan)
+    - Executed sons Mustafa and Bayezid
+  - Death and legacy
+    - Died 1566 besieging Szigetvár
+    - Son Selim II succeeded him
+    - Empire at its height of power

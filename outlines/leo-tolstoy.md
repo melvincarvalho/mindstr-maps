@@ -1,0 +1,30 @@
+category: People
+aliases: tolstoy, lev tolstoy, count tolstoy
+- Leo Tolstoy
+  - Russian writer, 1828–1910
+    - A count, born into landed nobility
+    - [Lived at the Yasnaya Polyana estate](https://en.wikipedia.org/wiki/Yasnaya_Polyana)
+    - Married Sophia Behrs; 13 children
+  - Early life and war
+    - Army officer in the Caucasus
+    - Fought at Sevastopol in the Crimean War
+    - Sevastopol Sketches made his name
+    - Childhood, Boyhood, Youth trilogy
+  - The great novels
+    - [War and Peace: Russia against Napoleon](https://en.wikipedia.org/wiki/War_and_Peace)
+    - [Anna Karenina: love, society, tragedy](https://en.wikipedia.org/wiki/Anna_Karenina)
+    - Realism with deep psychological insight
+  - Spiritual crisis and later works
+    - A Confession: searching for life's meaning
+    - [The Death of Ivan Ilyich](https://en.wikipedia.org/wiki/The_Death_of_Ivan_Ilyich)
+    - Resurrection and Hadji Murat
+    - What Is Art? judged art morally
+  - Radical beliefs
+    - Christianity without church or state
+    - Pacifism and nonresistance to evil
+    - Gave up meat, alcohol and property rights
+    - Excommunicated by the Orthodox Church, 1901
+  - Death and legacy
+    - Fled home at 82, died at Astapovo
+    - [His nonviolence writings inspired Gandhi](https://en.wikipedia.org/wiki/The_Kingdom_of_God_Is_Within_You)
+    - Ranked among the greatest novelists ever

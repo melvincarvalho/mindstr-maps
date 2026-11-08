@@ -1,0 +1,29 @@
+category: Science
+aliases: parts of a flower, flowers, how flowers work
+- Flower
+  - What a flower is for
+    - Reproductive shoot of flowering plants
+    - [About 300,000 species of flowering plants](https://en.wikipedia.org/wiki/Flowering_plant)
+    - First appeared over 130 million years ago
+  - Parts of a flower
+    - Sepals protect the bud
+    - Petals attract pollinators
+    - [Stamens: anthers make pollen](https://en.wikipedia.org/wiki/Stamen)
+    - [Carpels: stigma, style and ovary](https://en.wikipedia.org/wiki/Gynoecium)
+  - Pollination
+    - [Pollen carried to the stigma](https://en.wikipedia.org/wiki/Pollination)
+    - Insects, birds and bats carry pollen
+    - Wind pollinates grasses and many trees
+    - Cross-pollination mixes genes between plants
+  - Attracting pollinators
+    - Colours, including ultraviolet guides
+    - Scent and sugary nectar rewards
+    - Shapes matched to particular pollinators
+  - Fertilisation and fruit
+    - Pollen tube grows down to the ovule
+    - [Double fertilisation: embryo plus endosperm](https://en.wikipedia.org/wiki/Double_fertilization)
+    - Ovules become seeds, ovary becomes fruit
+  - Flowers and people
+    - Many crops need animal pollinators
+    - Gardens and the cut-flower trade
+    - Symbols in art, love and mourning

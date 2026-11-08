@@ -1,0 +1,297 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Metaphysics",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#nesz9b",
+      "name": "The basic questions",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ttigx3",
+      "name": "What exists, and what is it like?",
+      "x": -503,
+      "y": -72,
+      "parent": "#nesz9b"
+    },
+    {
+      "@id": "#edujvz",
+      "name": "Named after Aristotle's book after Physics",
+      "x": -390,
+      "y": -180,
+      "link": "https://en.wikipedia.org/wiki/Metaphysics_%28Aristotle%29",
+      "parent": "#nesz9b"
+    },
+    {
+      "@id": "#8b66ks",
+      "name": "Leibniz: why something rather than nothing?",
+      "x": -289,
+      "y": -276,
+      "parent": "#nesz9b"
+    },
+    {
+      "@id": "#ry23d8",
+      "name": "Mind and body",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9we9ed",
+      "name": "Dualism: mind separate from body (Descartes)",
+      "x": -154,
+      "y": -338,
+      "link": "https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism",
+      "parent": "#ry23d8"
+    },
+    {
+      "@id": "#9xu9m2",
+      "name": "Physicalism: the mind is brain activity",
+      "x": 0,
+      "y": -392,
+      "parent": "#ry23d8"
+    },
+    {
+      "@id": "#rzix3m",
+      "name": "Idealism: only minds are real (Berkeley)",
+      "x": 203,
+      "y": -443,
+      "parent": "#ry23d8"
+    },
+    {
+      "@id": "#kntfs8",
+      "name": "Universals and particulars",
+      "x": 199,
+      "y": -92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zbbw7q",
+      "name": "Plato: perfect Forms exist apart",
+      "x": 289,
+      "y": -276,
+      "parent": "#kntfs8"
+    },
+    {
+      "@id": "#ys38sx",
+      "name": "Aristotle: forms exist only in things",
+      "x": 390,
+      "y": -180,
+      "parent": "#kntfs8"
+    },
+    {
+      "@id": "#i7ptkf",
+      "name": "Nominalism: only individual things exist",
+      "x": 563,
+      "y": -81,
+      "parent": "#kntfs8"
+    },
+    {
+      "@id": "#7un9g7",
+      "name": "Identity and change",
+      "x": 199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wfs5b7",
+      "name": "Ship of Theseus: replaced plank by plank",
+      "x": 523,
+      "y": 75,
+      "link": "https://en.wikipedia.org/wiki/Ship_of_Theseus",
+      "parent": "#7un9g7"
+    },
+    {
+      "@id": "#ycth9w",
+      "name": "Same person now as at age five?",
+      "x": 390,
+      "y": 180,
+      "parent": "#7un9g7"
+    },
+    {
+      "@id": "#k8hhuz",
+      "name": "Heraclitus: everything flows and changes",
+      "x": 289,
+      "y": 276,
+      "parent": "#7un9g7"
+    },
+    {
+      "@id": "#k94teq",
+      "name": "Causation and time",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6b7twy",
+      "name": "Hume: we never observe causes directly",
+      "x": 154,
+      "y": 338,
+      "parent": "#k94teq"
+    },
+    {
+      "@id": "#h5mwwf",
+      "name": "Free will versus determinism",
+      "x": 0,
+      "y": 392,
+      "parent": "#k94teq"
+    },
+    {
+      "@id": "#bqzbcg",
+      "name": "Is the future already fixed?",
+      "x": -203,
+      "y": 443,
+      "parent": "#k94teq"
+    },
+    {
+      "@id": "#e9eqqa",
+      "name": "Possibility and necessity",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#n959tj",
+      "name": "Possible worlds: how things might be",
+      "x": -289,
+      "y": 276,
+      "link": "https://en.wikipedia.org/wiki/Possible_world",
+      "parent": "#e9eqqa"
+    },
+    {
+      "@id": "#ddiev8",
+      "name": "Necessary truths could not be otherwise",
+      "x": -390,
+      "y": 180,
+      "parent": "#e9eqqa"
+    },
+    {
+      "@id": "#78h6ej",
+      "name": "Contingent facts might have been different",
+      "x": -563,
+      "y": 81,
+      "parent": "#e9eqqa"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    }
+  ],
+  "selectedNode": 0
+}

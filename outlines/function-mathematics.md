@@ -1,0 +1,30 @@
+category: Mathematics
+aliases: mathematical function, function in maths, what is a function
+- Function (mathematics)
+  - A rule from inputs to outputs
+    - Each input gives exactly one output
+    - "Double it": 3 becomes 6
+    - Like a machine or a vending slot
+  - Parts of a function
+    - [Domain: the allowed inputs](https://en.wikipedia.org/wiki/Domain_of_a_function)
+    - Codomain: where outputs land
+    - Range: outputs actually reached
+  - Ways to describe one
+    - A formula like "square it"
+    - A table of input–output pairs
+    - [A graph drawn on axes](https://en.wikipedia.org/wiki/Graph_of_a_function)
+    - Arrows between two sets
+  - Common kinds
+    - Linear: straight-line graphs
+    - Quadratic: U-shaped parabolas
+    - Exponential: repeated doubling growth
+    - [Trigonometric: waves and cycles](https://en.wikipedia.org/wiki/Trigonometric_functions)
+  - Key properties
+    - One-to-one: no two inputs share
+    - Onto: every target is reached
+    - Inverse undoes the function
+    - Composition chains functions together
+  - History and uses
+    - Leibniz coined "function" around 1692
+    - [Euler popularised the notation](https://en.wikipedia.org/wiki/Leonhard_Euler)
+    - Models physics, prices and populations

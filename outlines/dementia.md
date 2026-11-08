@@ -1,0 +1,32 @@
+category: Health
+aliases: dementia symptoms, types of dementia, memory loss dementia
+- Dementia
+  - What it is
+    - Progressive decline in memory and thinking
+    - Severe enough to affect daily life
+    - Not a normal part of ageing
+    - About 55 million people worldwide
+  - Main types
+    - [Alzheimer's disease, the most common](https://en.wikipedia.org/wiki/Alzheimer%27s_disease)
+    - [Vascular dementia after reduced blood flow](https://en.wikipedia.org/wiki/Vascular_dementia)
+    - [Dementia with Lewy bodies](https://en.wikipedia.org/wiki/Dementia_with_Lewy_bodies)
+    - Frontotemporal dementia changes personality
+  - Early signs
+    - Forgetting recent events and conversations
+    - Trouble finding words
+    - Getting lost in familiar places
+    - Mood and personality changes
+  - Risk factors
+    - Age is the biggest risk
+    - High blood pressure, diabetes, smoking
+    - Hearing loss and social isolation
+    - Physical inactivity
+  - Diagnosis
+    - Memory and thinking tests
+    - Blood tests rule out other causes
+    - Brain scans show changes
+  - Treatment and care
+    - Drugs can ease some symptoms
+    - Newer drugs target amyloid in Alzheimer's
+    - Routines, activity and social contact
+    - Support for carers matters

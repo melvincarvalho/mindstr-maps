@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Personality",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#9tu4xt",
+      "name": "What personality is",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ie4rji",
+      "name": "Typical patterns of thinking, feeling, acting",
+      "x": -545,
+      "y": -64,
+      "parent": "#9tu4xt"
+    },
+    {
+      "@id": "#6hrrpz",
+      "name": "Fairly stable across time and situations",
+      "x": -405,
+      "y": -156,
+      "parent": "#9tu4xt"
+    },
+    {
+      "@id": "#aqhryn",
+      "name": "Traits are spectrums, not boxes",
+      "x": -330,
+      "y": -245,
+      "parent": "#9tu4xt"
+    },
+    {
+      "@id": "#62a758",
+      "name": "The Big Five traits",
+      "x": 17,
+      "y": -183,
+      "link": "https://en.wikipedia.org/wiki/Big_Five_personality_traits",
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5trdm3",
+      "name": "Openness to experience",
+      "x": -225,
+      "y": -312,
+      "parent": "#62a758"
+    },
+    {
+      "@id": "#3raiqj",
+      "name": "Conscientiousness",
+      "x": -104,
+      "y": -367,
+      "parent": "#62a758"
+    },
+    {
+      "@id": "#g76p32",
+      "name": "Extraversion",
+      "x": 42,
+      "y": -423,
+      "parent": "#62a758"
+    },
+    {
+      "@id": "#dmk868",
+      "name": "Agreeableness",
+      "x": 164,
+      "y": -335,
+      "parent": "#62a758"
+    },
+    {
+      "@id": "#csqdnc",
+      "name": "Neuroticism",
+      "x": 281,
+      "y": -281,
+      "parent": "#62a758"
+    },
+    {
+      "@id": "#76ujcx",
+      "name": "Where it comes from",
+      "x": 220,
+      "y": -54,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jcjegk",
+      "name": "About 40 to 50% heritable",
+      "x": 372,
+      "y": -203,
+      "parent": "#76ujcx"
+    },
+    {
+      "@id": "#p34fii",
+      "name": "Shared family environment matters surprisingly little",
+      "x": 430,
+      "y": -106,
+      "parent": "#76ujcx"
+    },
+    {
+      "@id": "#xsheku",
+      "name": "Temperament visible from infancy",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Temperament",
+      "parent": "#76ujcx"
+    },
+    {
+      "@id": "#36ttzg",
+      "name": "How it changes",
+      "x": 190,
+      "y": 104,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e8eemi",
+      "name": "More agreeable and conscientious with age",
+      "x": 506,
+      "y": 126,
+      "parent": "#36ttzg"
+    },
+    {
+      "@id": "#sewyan",
+      "name": "Neuroticism tends to fall in adulthood",
+      "x": 372,
+      "y": 203,
+      "parent": "#36ttzg"
+    },
+    {
+      "@id": "#2a8kka",
+      "name": "Deliberate change is possible, but slow",
+      "x": 281,
+      "y": 281,
+      "parent": "#36ttzg"
+    },
+    {
+      "@id": "#5xujt9",
+      "name": "Measuring it",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8cwers",
+      "name": "Self-report questionnaires, checked by others",
+      "x": 164,
+      "y": 335,
+      "parent": "#5xujt9"
+    },
+    {
+      "@id": "#cr3f6g",
+      "name": "Myers-Briggs popular but poorly supported",
+      "x": 38,
+      "y": 391,
+      "link": "https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator",
+      "parent": "#5xujt9"
+    },
+    {
+      "@id": "#xk7ta5",
+      "name": "Astrology shows no link to personality",
+      "x": -124,
+      "y": 447,
+      "parent": "#5xujt9"
+    },
+    {
+      "@id": "#wr29p8",
+      "name": "Older ideas: four humours, Freud's id",
+      "x": -365,
+      "y": 508,
+      "parent": "#5xujt9"
+    },
+    {
+      "@id": "#3w2dwa",
+      "name": "Why it matters",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gh4sba",
+      "name": "Conscientiousness predicts work and health",
+      "x": -330,
+      "y": 245,
+      "parent": "#3w2dwa"
+    },
+    {
+      "@id": "#axy7sd",
+      "name": "Shapes relationships and wellbeing",
+      "x": -405,
+      "y": 156,
+      "parent": "#3w2dwa"
+    },
+    {
+      "@id": "#94696p",
+      "name": "Personality disorders: rigid, harmful patterns",
+      "x": -545,
+      "y": 64,
+      "link": "https://en.wikipedia.org/wiki/Personality_disorder",
+      "parent": "#3w2dwa"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,28 @@
+category: Science
+aliases: types of rocks, rock types, three types of rock, rocks and stones
+- Rock (geology)
+  - What rock is
+    - Solid mix of one or more minerals
+    - Makes up Earth's crust and mantle
+  - [Igneous rock](https://en.wikipedia.org/wiki/Igneous_rock)
+    - Cools from molten magma or lava
+    - Granite: slow-cooled, large crystals
+    - Basalt: fast-cooled, fine-grained
+    - Obsidian: natural volcanic glass
+  - [Sedimentary rock](https://en.wikipedia.org/wiki/Sedimentary_rock)
+    - Layers of sediment pressed together
+    - Sandstone, shale and limestone
+    - Where most fossils are found
+  - [Metamorphic rock](https://en.wikipedia.org/wiki/Metamorphic_rock)
+    - Changed by heat and pressure
+    - Limestone becomes marble
+    - Shale becomes slate
+  - [The rock cycle](https://en.wikipedia.org/wiki/Rock_cycle)
+    - Weathering breaks rock into sediment
+    - Melting returns rock to magma
+    - Takes millions of years
+  - Rocks we use
+    - Granite and marble for buildings
+    - Limestone makes cement
+    - Clay and shale for bricks
+    - Flint for early stone tools

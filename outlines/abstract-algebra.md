@@ -1,0 +1,31 @@
+category: Mathematics
+aliases: modern algebra, algebraic structures, groups rings and fields
+- Abstract algebra
+  - Studying structure, not just numbers
+    - Sets with operations obeying rules
+    - Prove once, true everywhere it applies
+    - Symmetry made precise
+  - [Groups](https://en.wikipedia.org/wiki/Group_%28mathematics%29)
+    - One operation, an identity, inverses
+    - Rotations of a square form a group
+    - Clock arithmetic adds hours modulo 12
+    - Rubik's Cube moves form a group
+  - Rings and fields
+    - Rings add and multiply, like integers
+    - Fields also divide, like fractions
+    - Polynomials form a ring too
+    - [Finite fields power error-correcting codes](https://en.wikipedia.org/wiki/Finite_field)
+  - Key ideas
+    - Homomorphisms preserve the structure
+    - Isomorphic means identical in disguise
+    - Lagrange: subgroup sizes divide group size
+    - Vector spaces and modules
+  - History
+    - [Galois linked equations to symmetry](https://en.wikipedia.org/wiki/Galois_theory)
+    - No radical formula for general quintics
+    - Cayley defined abstract groups, 1854
+    - Emmy Noether shaped the modern subject
+  - Uses
+    - [Public-key cryptography relies on groups](https://en.wikipedia.org/wiki/Public-key_cryptography)
+    - Crystals and molecules classified by symmetry
+    - Particle physics built on symmetry groups

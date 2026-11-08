@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Feminism",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#bxwm7r",
+      "name": "Core idea",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#baxh7z",
+      "name": "Equal rights and opportunities for women",
+      "x": -504,
+      "y": -62,
+      "parent": "#bxwm7r"
+    },
+    {
+      "@id": "#4m4zh4",
+      "name": "Challenges discrimination based on sex",
+      "x": -401,
+      "y": -163,
+      "parent": "#bxwm7r"
+    },
+    {
+      "@id": "#xg57p2",
+      "name": "First wave, about 1840s–1920s",
+      "x": -140,
+      "y": -220,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#n7k599",
+      "name": "Seneca Falls Convention, 1848",
+      "x": -346,
+      "y": -277,
+      "link": "https://en.wikipedia.org/wiki/Seneca_Falls_Convention",
+      "parent": "#xg57p2"
+    },
+    {
+      "@id": "#kubfbv",
+      "name": "Suffragists win women the vote",
+      "x": -213,
+      "y": -335,
+      "link": "https://en.wikipedia.org/wiki/Women%27s_suffrage",
+      "parent": "#xg57p2"
+    },
+    {
+      "@id": "#us9qf6",
+      "name": "Property and legal rights for women",
+      "x": -76,
+      "y": -388,
+      "parent": "#xg57p2"
+    },
+    {
+      "@id": "#xh3hcm",
+      "name": "Second wave, 1960s–1980s",
+      "x": 135,
+      "y": -149,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7qh4u4",
+      "name": "The Second Sex by Simone de Beauvoir",
+      "x": 85,
+      "y": -436,
+      "link": "https://en.wikipedia.org/wiki/The_Second_Sex",
+      "parent": "#xh3hcm"
+    },
+    {
+      "@id": "#6xczjg",
+      "name": "The Feminine Mystique by Betty Friedan",
+      "x": 204,
+      "y": -321,
+      "parent": "#xh3hcm"
+    },
+    {
+      "@id": "#drhvp2",
+      "name": "Workplace equality and equal pay laws",
+      "x": 318,
+      "y": -255,
+      "parent": "#xh3hcm"
+    },
+    {
+      "@id": "#etxyw6",
+      "name": "Reproductive rights and contraception",
+      "x": 473,
+      "y": -191,
+      "parent": "#xh3hcm"
+    },
+    {
+      "@id": "#ysfa3q",
+      "name": "Third and fourth waves",
+      "x": 227,
+      "y": 29,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vpne8f",
+      "name": "1990s focus on diversity and identity",
+      "x": 444,
+      "y": -56,
+      "parent": "#ysfa3q"
+    },
+    {
+      "@id": "#np7e33",
+      "name": "Intersectionality links sex, race and class",
+      "x": 584,
+      "y": 70,
+      "link": "https://en.wikipedia.org/wiki/Intersectionality",
+      "parent": "#ysfa3q"
+    },
+    {
+      "@id": "#4c5pju",
+      "name": "MeToo movement against sexual harassment",
+      "x": 401,
+      "y": 163,
+      "parent": "#ysfa3q"
+    },
+    {
+      "@id": "#6pwdta",
+      "name": "Schools of thought",
+      "x": 71,
+      "y": 175,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7wembj",
+      "name": "Liberal: equality through law and reform",
+      "x": 318,
+      "y": 255,
+      "parent": "#6pwdta"
+    },
+    {
+      "@id": "#83s2hf",
+      "name": "Radical: patriarchy as root problem",
+      "x": 204,
+      "y": 321,
+      "parent": "#6pwdta"
+    },
+    {
+      "@id": "#9y9mjx",
+      "name": "Marxist and socialist: links to class",
+      "x": 73,
+      "y": 372,
+      "parent": "#6pwdta"
+    },
+    {
+      "@id": "#etr7z2",
+      "name": "Black feminism and womanism",
+      "x": -82,
+      "y": 420,
+      "parent": "#6pwdta"
+    },
+    {
+      "@id": "#nzh2xx",
+      "name": "Debates and criticism",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6s77ud",
+      "name": "Disagreements within feminism over priorities",
+      "x": -204,
+      "y": 321,
+      "parent": "#nzh2xx"
+    },
+    {
+      "@id": "#a3d87g",
+      "name": "Conservatives defend traditional gender roles",
+      "x": -318,
+      "y": 255,
+      "parent": "#nzh2xx"
+    },
+    {
+      "@id": "#75txdt",
+      "name": "Disputes over sex work and pornography",
+      "x": -401,
+      "y": 163,
+      "parent": "#nzh2xx"
+    },
+    {
+      "@id": "#i944ey",
+      "name": "Questions about gender identity",
+      "x": -444,
+      "y": 56,
+      "parent": "#nzh2xx"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 8,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

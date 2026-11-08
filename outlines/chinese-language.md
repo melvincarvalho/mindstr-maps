@@ -1,0 +1,31 @@
+category: Society
+aliases: chinese, mandarin chinese, learn chinese, learn mandarin
+- Chinese language
+  - Where it's spoken
+    - Over 1.3 billion speakers of all varieties
+    - Official in China, Taiwan and Singapore
+    - One of six UN official languages
+    - Large communities across Southeast Asia
+  - Family and varieties
+    - Sinitic branch of Sino-Tibetan
+    - [Varieties often not mutually intelligible](https://en.wikipedia.org/wiki/Varieties_of_Chinese)
+    - [Standard Mandarin, based on Beijing speech](https://en.wikipedia.org/wiki/Standard_Chinese)
+    - Cantonese, Wu, Min and Hakka
+  - History
+    - Oracle bone writing, c. 1200 BCE
+    - Classical Chinese for two millennia
+    - Vernacular writing adopted, early 1900s
+  - Sounds
+    - Mandarin has four tones plus neutral
+    - Cantonese has six or more tones
+    - [Pinyin romanization since 1958](https://en.wikipedia.org/wiki/Pinyin)
+  - Writing
+    - [Characters stand for syllables and meanings](https://en.wikipedia.org/wiki/Chinese_characters)
+    - Simplified in mainland China since 1950s
+    - Traditional in Taiwan and Hong Kong
+    - About 3,000 characters for everyday reading
+  - Grammar and learning
+    - No conjugation or plural endings
+    - Subject-verb-object order
+    - Measure words between number and noun
+    - Particles like 了 mark aspect

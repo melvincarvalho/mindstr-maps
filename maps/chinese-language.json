@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Chinese language",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#nxx9fr",
+      "name": "Where it's spoken",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ciepcg",
+      "name": "Over 1.3 billion speakers of all varieties",
+      "x": -445,
+      "y": -51,
+      "parent": "#nxx9fr"
+    },
+    {
+      "@id": "#q8ahxd",
+      "name": "Official in China, Taiwan and Singapore",
+      "x": -409,
+      "y": -150,
+      "parent": "#nxx9fr"
+    },
+    {
+      "@id": "#yvpyeu",
+      "name": "One of six UN official languages",
+      "x": -340,
+      "y": -236,
+      "parent": "#nxx9fr"
+    },
+    {
+      "@id": "#qe34t3",
+      "name": "Large communities across Southeast Asia",
+      "x": -243,
+      "y": -303,
+      "parent": "#nxx9fr"
+    },
+    {
+      "@id": "#bpm4dw",
+      "name": "Family and varieties",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6b4q4e",
+      "name": "Sinitic branch of Sino-Tibetan",
+      "x": -133,
+      "y": -360,
+      "parent": "#bpm4dw"
+    },
+    {
+      "@id": "#cugc2k",
+      "name": "Varieties often not mutually intelligible",
+      "x": 0,
+      "y": -408,
+      "link": "https://en.wikipedia.org/wiki/Varieties_of_Chinese",
+      "parent": "#bpm4dw"
+    },
+    {
+      "@id": "#dmnuk4",
+      "name": "Standard Mandarin, based on Beijing speech",
+      "x": 175,
+      "y": -465,
+      "link": "https://en.wikipedia.org/wiki/Standard_Chinese",
+      "parent": "#bpm4dw"
+    },
+    {
+      "@id": "#jfwafg",
+      "name": "Cantonese, Wu, Min and Hakka",
+      "x": 243,
+      "y": -303,
+      "parent": "#bpm4dw"
+    },
+    {
+      "@id": "#39qm5h",
+      "name": "History",
+      "x": 209,
+      "y": -76,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#297bty",
+      "name": "Oracle bone writing, c. 1200 BCE",
+      "x": 340,
+      "y": -236,
+      "parent": "#39qm5h"
+    },
+    {
+      "@id": "#wbgk9a",
+      "name": "Classical Chinese for two millennia",
+      "x": 409,
+      "y": -150,
+      "parent": "#39qm5h"
+    },
+    {
+      "@id": "#vk6vr3",
+      "name": "Vernacular writing adopted, early 1900s",
+      "x": 485,
+      "y": -55,
+      "parent": "#39qm5h"
+    },
+    {
+      "@id": "#bzxawn",
+      "name": "Sounds",
+      "x": 209,
+      "y": 76,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c6m4bb",
+      "name": "Mandarin has four tones plus neutral",
+      "x": 465,
+      "y": 53,
+      "parent": "#bzxawn"
+    },
+    {
+      "@id": "#etmvnr",
+      "name": "Cantonese has six or more tones",
+      "x": 409,
+      "y": 150,
+      "parent": "#bzxawn"
+    },
+    {
+      "@id": "#nmspza",
+      "name": "Pinyin romanization since 1958",
+      "x": 340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/Pinyin",
+      "parent": "#bzxawn"
+    },
+    {
+      "@id": "#vd62xj",
+      "name": "Writing",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vbfwsz",
+      "name": "Characters stand for syllables and meanings",
+      "x": 243,
+      "y": 303,
+      "link": "https://en.wikipedia.org/wiki/Chinese_characters",
+      "parent": "#vd62xj"
+    },
+    {
+      "@id": "#jm4ukw",
+      "name": "Simplified in mainland China since 1950s",
+      "x": 133,
+      "y": 360,
+      "parent": "#vd62xj"
+    },
+    {
+      "@id": "#huxhe5",
+      "name": "Traditional in Taiwan and Hong Kong",
+      "x": 0,
+      "y": 408,
+      "parent": "#vd62xj"
+    },
+    {
+      "@id": "#dswegz",
+      "name": "About 3,000 characters for everyday reading",
+      "x": -175,
+      "y": 465,
+      "parent": "#vd62xj"
+    },
+    {
+      "@id": "#28scj9",
+      "name": "Grammar and learning",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p55v8y",
+      "name": "No conjugation or plural endings",
+      "x": -243,
+      "y": 303,
+      "parent": "#28scj9"
+    },
+    {
+      "@id": "#8g67x5",
+      "name": "Subject-verb-object order",
+      "x": -340,
+      "y": 236,
+      "parent": "#28scj9"
+    },
+    {
+      "@id": "#jue5zc",
+      "name": "Measure words between number and noun",
+      "x": -409,
+      "y": 150,
+      "parent": "#28scj9"
+    },
+    {
+      "@id": "#q2p73i",
+      "name": "Particles like 了 mark aspect",
+      "x": -445,
+      "y": 51,
+      "parent": "#28scj9"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

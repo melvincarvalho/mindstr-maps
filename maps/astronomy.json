@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Astronomy",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#d5cqkp",
+      "name": "What astronomy studies",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a3tin3",
+      "name": "Everything beyond Earth's atmosphere",
+      "x": -525,
+      "y": -62,
+      "parent": "#d5cqkp"
+    },
+    {
+      "@id": "#tkan6b",
+      "name": "Planets, stars, galaxies, the cosmos",
+      "x": -405,
+      "y": -156,
+      "parent": "#d5cqkp"
+    },
+    {
+      "@id": "#d8wmx5",
+      "name": "Astrophysics explains how they work",
+      "x": -330,
+      "y": -245,
+      "link": "https://en.wikipedia.org/wiki/Astrophysics",
+      "parent": "#d5cqkp"
+    },
+    {
+      "@id": "#ua49p3",
+      "name": "Ancient sky watching",
+      "x": -51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#x5tdz3",
+      "name": "Calendars from Sun, Moon and stars",
+      "x": -225,
+      "y": -312,
+      "parent": "#ua49p3"
+    },
+    {
+      "@id": "#bmqpka",
+      "name": "Babylonians recorded planetary motions",
+      "x": -104,
+      "y": -367,
+      "parent": "#ua49p3"
+    },
+    {
+      "@id": "#pdtti6",
+      "name": "Ptolemy's Earth-centred model",
+      "x": 42,
+      "y": -423,
+      "parent": "#ua49p3"
+    },
+    {
+      "@id": "#ki6qbb",
+      "name": "A revolution in astronomy",
+      "x": 169,
+      "y": -125,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dhcck9",
+      "name": "Copernicus put the Sun at centre",
+      "x": 234,
+      "y": -485,
+      "link": "https://en.wikipedia.org/wiki/Copernican_heliocentrism",
+      "parent": "#ki6qbb"
+    },
+    {
+      "@id": "#ikynfr",
+      "name": "Galileo's telescope, 1609–1610",
+      "x": 281,
+      "y": -281,
+      "parent": "#ki6qbb"
+    },
+    {
+      "@id": "#zcacyg",
+      "name": "Kepler's laws of planetary motion",
+      "x": 372,
+      "y": -203,
+      "parent": "#ki6qbb"
+    },
+    {
+      "@id": "#4huq5g",
+      "name": "Newton's gravity explains orbits",
+      "x": 487,
+      "y": -121,
+      "parent": "#ki6qbb"
+    },
+    {
+      "@id": "#dshgvp",
+      "name": "Tools",
+      "x": 207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6za7a5",
+      "name": "Optical telescopes on mountaintops",
+      "x": 450,
+      "y": 0,
+      "parent": "#dshgvp"
+    },
+    {
+      "@id": "#6hajii",
+      "name": "Radio telescopes see invisible wavelengths",
+      "x": 487,
+      "y": 121,
+      "parent": "#dshgvp"
+    },
+    {
+      "@id": "#6iaqj8",
+      "name": "Space telescopes like Hubble and Webb",
+      "x": 372,
+      "y": 203,
+      "link": "https://en.wikipedia.org/wiki/James_Webb_Space_Telescope",
+      "parent": "#dshgvp"
+    },
+    {
+      "@id": "#baawwu",
+      "name": "Spectroscopy reveals composition and motion",
+      "x": 281,
+      "y": 281,
+      "parent": "#dshgvp"
+    },
+    {
+      "@id": "#xdyif6",
+      "name": "Major discoveries",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7n7nie",
+      "name": "Galaxies beyond the Milky Way, 1920s",
+      "x": 164,
+      "y": 335,
+      "parent": "#xdyif6"
+    },
+    {
+      "@id": "#5rfrhn",
+      "name": "Universe expanding: Hubble, 1929",
+      "x": 38,
+      "y": 391,
+      "parent": "#xdyif6"
+    },
+    {
+      "@id": "#nixm6f",
+      "name": "Cosmic microwave background found, 1965",
+      "x": -124,
+      "y": 447,
+      "link": "https://en.wikipedia.org/wiki/Cosmic_microwave_background",
+      "parent": "#xdyif6"
+    },
+    {
+      "@id": "#mqmtst",
+      "name": "Over 5,000 exoplanets found since 1990s",
+      "x": -235,
+      "y": 326,
+      "link": "https://en.wikipedia.org/wiki/Exoplanet",
+      "parent": "#xdyif6"
+    },
+    {
+      "@id": "#n25rx7",
+      "name": "Try it yourself",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5p7rha",
+      "name": "Learn constellations with a star map",
+      "x": -330,
+      "y": 245,
+      "parent": "#n25rx7"
+    },
+    {
+      "@id": "#42vb92",
+      "name": "Binoculars show Moon craters",
+      "x": -405,
+      "y": 156,
+      "parent": "#n25rx7"
+    },
+    {
+      "@id": "#zkisw9",
+      "name": "Find dark skies away from cities",
+      "x": -485,
+      "y": 58,
+      "parent": "#n25rx7"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

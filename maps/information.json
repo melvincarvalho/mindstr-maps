@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Information",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#3ibmdx",
+      "name": "What it is",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5c76qe",
+      "name": "Reduces uncertainty about something",
+      "x": -465,
+      "y": -56,
+      "parent": "#3ibmdx"
+    },
+    {
+      "@id": "#ebizei",
+      "name": "Data given meaning and context",
+      "x": -405,
+      "y": -156,
+      "parent": "#3ibmdx"
+    },
+    {
+      "@id": "#rwpmb3",
+      "name": "Data, information, knowledge, wisdom",
+      "x": -330,
+      "y": -245,
+      "parent": "#3ibmdx"
+    },
+    {
+      "@id": "#ifc9hg",
+      "name": "Measuring information",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pacehm",
+      "name": "Shannon founded information theory, 1948",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Information_theory",
+      "parent": "#ifc9hg"
+    },
+    {
+      "@id": "#pz8zzj",
+      "name": "The bit: one yes-or-no choice",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Bit",
+      "parent": "#ifc9hg"
+    },
+    {
+      "@id": "#fqs62k",
+      "name": "A byte is eight bits",
+      "x": 42,
+      "y": -423,
+      "parent": "#ifc9hg"
+    },
+    {
+      "@id": "#wbp9is",
+      "name": "Entropy measures surprise in a message",
+      "x": 234,
+      "y": -485,
+      "parent": "#ifc9hg"
+    },
+    {
+      "@id": "#hm9r64",
+      "name": "How it is stored",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y78h3k",
+      "name": "DNA stores genetic information",
+      "x": 281,
+      "y": -281,
+      "parent": "#hm9r64"
+    },
+    {
+      "@id": "#ar38e3",
+      "name": "Writing, books and libraries",
+      "x": 372,
+      "y": -203,
+      "parent": "#hm9r64"
+    },
+    {
+      "@id": "#rbnj2r",
+      "name": "Digital files on disks and servers",
+      "x": 487,
+      "y": -121,
+      "parent": "#hm9r64"
+    },
+    {
+      "@id": "#vieggb",
+      "name": "Compression removes redundancy",
+      "x": 450,
+      "y": 0,
+      "parent": "#hm9r64"
+    },
+    {
+      "@id": "#jgvhnx",
+      "name": "How it moves",
+      "x": 190,
+      "y": 104,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kik6ee",
+      "name": "Signals sent through a channel",
+      "x": 449,
+      "y": 111,
+      "parent": "#jgvhnx"
+    },
+    {
+      "@id": "#97igu7",
+      "name": "Error correction fixes transmission noise",
+      "x": 372,
+      "y": 203,
+      "parent": "#jgvhnx"
+    },
+    {
+      "@id": "#5q85g2",
+      "name": "The internet links billions of devices",
+      "x": 281,
+      "y": 281,
+      "parent": "#jgvhnx"
+    },
+    {
+      "@id": "#y2zgc8",
+      "name": "Information in society",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rdgvcy",
+      "name": "The Information Age since computers",
+      "x": 164,
+      "y": 335,
+      "link": "https://en.wikipedia.org/wiki/Information_Age",
+      "parent": "#y2zgc8"
+    },
+    {
+      "@id": "#g62cfa",
+      "name": "Libraries and archives preserve records",
+      "x": 38,
+      "y": 391,
+      "parent": "#y2zgc8"
+    },
+    {
+      "@id": "#rn62qx",
+      "name": "Privacy controls who sees personal data",
+      "x": -124,
+      "y": 447,
+      "parent": "#y2zgc8"
+    },
+    {
+      "@id": "#xr99ey",
+      "name": "Misinformation spreads false claims",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wikipedia.org/wiki/Misinformation",
+      "parent": "#y2zgc8"
+    },
+    {
+      "@id": "#x2xz78",
+      "name": "Judging information",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3q4cry",
+      "name": "Check the source and author",
+      "x": -330,
+      "y": 245,
+      "parent": "#x2xz78"
+    },
+    {
+      "@id": "#uhb8in",
+      "name": "Compare several independent sources",
+      "x": -405,
+      "y": 156,
+      "parent": "#x2xz78"
+    },
+    {
+      "@id": "#sqp2td",
+      "name": "Separate facts from opinion",
+      "x": -485,
+      "y": 58,
+      "parent": "#x2xz78"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

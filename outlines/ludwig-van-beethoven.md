@@ -1,0 +1,30 @@
+category: People
+aliases: beethoven, beethoven composer, l van beethoven
+- Ludwig van Beethoven
+  - German composer, 1770–1827
+    - Born in Bonn; father a court singer
+    - Moved to Vienna in 1792
+    - Studied briefly with Haydn
+  - Bridge from Classical to Romantic
+    - Early works in Haydn and Mozart's style
+    - Middle period: heroic, dramatic scale
+    - Late period: inward and experimental
+  - Deafness
+    - Hearing loss began in his late twenties
+    - [Heiligenstadt Testament, 1802: despair and resolve](https://en.wikipedia.org/wiki/Heiligenstadt_Testament)
+    - Almost totally deaf by about 1818
+    - Kept composing; used conversation books
+  - Nine symphonies
+    - Third, Eroica: once dedicated to Napoleon
+    - Fifth's famous four-note opening
+    - Sixth, Pastoral: scenes of countryside
+    - [Ninth adds chorus: Ode to Joy](https://en.wikipedia.org/wiki/Symphony_No._9_%28Beethoven%29)
+  - Other major works
+    - 32 piano sonatas, including Moonlight
+    - Five piano concertos; fifth is Emperor
+    - [Fidelio, his only opera](https://en.wikipedia.org/wiki/Fidelio)
+    - Missa Solemnis and late string quartets
+  - Legacy
+    - Died in Vienna; huge crowds at funeral
+    - Model of the artist as independent genius
+    - [Ode to Joy: Anthem of Europe](https://en.wikipedia.org/wiki/Anthem_of_Europe)

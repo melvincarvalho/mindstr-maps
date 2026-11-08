@@ -1,0 +1,30 @@
+category: Technology
+aliases: hydroelectric power, hydroelectricity, hydro power, hydroelectric dams
+- Hydropower
+  - How it works
+    - Falling water spins a turbine
+    - Turbine drives a generator
+    - Output depends on flow and drop height
+  - Types of plant
+    - Dams store water in reservoirs
+    - Run-of-river plants use natural flow
+    - [Pumped storage acts as a giant battery](https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity)
+  - Share of world energy
+    - About 6% of primary energy
+    - About 15% of world electricity
+    - Largest renewable source of electricity
+    - Leaders: China, Brazil, Canada
+  - Famous plants
+    - [Three Gorges Dam, China, the largest](https://en.wikipedia.org/wiki/Three_Gorges_Dam)
+    - Itaipu Dam, Brazil and Paraguay
+    - Hoover Dam, United States
+  - Pros
+    - Low-carbon, long-lived plants
+    - Output adjusted quickly to demand
+    - Reservoirs aid irrigation and flood control
+    - Very cheap power once built
+  - Cons
+    - Floods land and displaces communities
+    - Blocks fish migration and river sediment
+    - Droughts cut output
+    - Rotting vegetation in reservoirs emits methane

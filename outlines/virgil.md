@@ -1,0 +1,29 @@
+category: People
+aliases: vergil, publius vergilius maro, virgil roman poet
+- Virgil
+  - Life, 70–19 BC
+    - Born near Mantua, northern Italy
+    - Lived through Rome's civil wars
+    - Patronised by Maecenas and Augustus
+    - Died at Brundisium, buried near Naples
+  - Early works
+    - [Eclogues: ten pastoral poems](https://en.wikipedia.org/wiki/Eclogues)
+    - Fourth Eclogue foretells a golden-age child
+    - [Georgics: poem on farming](https://en.wikipedia.org/wiki/Georgics)
+    - Bees, vines and the farmer's year
+  - [The Aeneid](https://en.wikipedia.org/wiki/Aeneid)
+    - Twelve books in dactylic hexameter
+    - Aeneas flees burning Troy
+    - Doomed love affair with Dido of Carthage
+    - Visits his father in the underworld
+    - Wars in Latium; Turnus killed
+  - Themes
+    - Duty and piety over personal desire
+    - Rome's destiny and Augustus's rule
+    - Cost of empire and war
+  - Legacy
+    - Rome's national epic, taught in schools
+    - Asked for the Aeneid to be burned
+    - Augustus published it unfinished
+    - [Dante's guide in the Divine Comedy](https://en.wikipedia.org/wiki/Divine_Comedy)
+    - Christians read him as a prophet

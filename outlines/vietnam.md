@@ -1,0 +1,34 @@
+category: Geography
+aliases: viet nam, socialist republic of vietnam
+- Vietnam
+  - Land
+    - Long S-shape along the South China Sea
+    - Red River delta in the north
+    - [Mekong Delta in the south](https://en.wikipedia.org/wiki/Mekong_Delta)
+    - Hanoi capital, Ho Chi Minh City largest
+    - Ha Long Bay limestone islands
+  - People and languages
+    - About 100 million people
+    - Vietnamese, tonal, written in Latin script
+    - Kinh majority, 53 minority groups
+    - Folk religion, Buddhism, Catholic minority
+  - History in brief
+    - Chinese rule for about a thousand years
+    - Independent dynasties from 938
+    - French Indochina from the 1880s
+    - [Ho Chi Minh declared independence, 1945](https://en.wikipedia.org/wiki/Ho_Chi_Minh)
+    - [Vietnam War ended 1975, reunification](https://en.wikipedia.org/wiki/Vietnam_War)
+  - Government
+    - One-party Communist state
+    - General secretary is the top leader
+    - National Assembly elected every five years
+  - Economy
+    - Doi Moi market reforms from 1986
+    - Electronics, clothing and shoe exports
+    - World's second-largest coffee producer
+    - Major rice exporter
+  - Culture
+    - Pho and banh mi
+    - Tet, the Lunar New Year
+    - Ao dai, the national dress
+    - [Water puppetry from the Red River](https://en.wikipedia.org/wiki/Water_puppetry)

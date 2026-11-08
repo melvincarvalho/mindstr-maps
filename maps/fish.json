@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Fish",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#rqnjb7",
+      "name": "What makes a fish",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#i77gxj",
+      "name": "Cold-blooded vertebrates living in water",
+      "x": -445,
+      "y": -54,
+      "parent": "#rqnjb7"
+    },
+    {
+      "@id": "#grgixu",
+      "name": "Gills take oxygen from water",
+      "x": -405,
+      "y": -156,
+      "link": "https://en.wikipedia.org/wiki/Gill",
+      "parent": "#rqnjb7"
+    },
+    {
+      "@id": "#vnivzd",
+      "name": "Fins for swimming and steering",
+      "x": -330,
+      "y": -245,
+      "parent": "#rqnjb7"
+    },
+    {
+      "@id": "#wdjs89",
+      "name": "Over 35,000 species, half of all vertebrates",
+      "x": -225,
+      "y": -312,
+      "parent": "#rqnjb7"
+    },
+    {
+      "@id": "#udi7us",
+      "name": "Main groups",
+      "x": 17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z9hf3j",
+      "name": "Jawless fish: lampreys and hagfish",
+      "x": -104,
+      "y": -367,
+      "parent": "#udi7us"
+    },
+    {
+      "@id": "#bkkmmd",
+      "name": "Cartilaginous: sharks and rays",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Chondrichthyes",
+      "parent": "#udi7us"
+    },
+    {
+      "@id": "#e88xjj",
+      "name": "Bony fish: nearly all other species",
+      "x": 234,
+      "y": -485,
+      "link": "https://en.wikipedia.org/wiki/Osteichthyes",
+      "parent": "#udi7us"
+    },
+    {
+      "@id": "#s88nu3",
+      "name": "Body and senses",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wdj2mp",
+      "name": "Scales protect the skin",
+      "x": 281,
+      "y": -281,
+      "parent": "#s88nu3"
+    },
+    {
+      "@id": "#u3xtna",
+      "name": "Swim bladder controls buoyancy",
+      "x": 372,
+      "y": -203,
+      "link": "https://en.wikipedia.org/wiki/Swim_bladder",
+      "parent": "#s88nu3"
+    },
+    {
+      "@id": "#9ehx29",
+      "name": "Lateral line senses movement in water",
+      "x": 506,
+      "y": -126,
+      "parent": "#s88nu3"
+    },
+    {
+      "@id": "#v4zz69",
+      "name": "Most lay eggs; some bear live young",
+      "x": 450,
+      "y": 0,
+      "parent": "#s88nu3"
+    },
+    {
+      "@id": "#7amp6r",
+      "name": "Behaviour",
+      "x": 190,
+      "y": 104,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hsgc8f",
+      "name": "Schools confuse predators",
+      "x": 430,
+      "y": 106,
+      "parent": "#7amp6r"
+    },
+    {
+      "@id": "#a4yank",
+      "name": "Salmon swim upriver to spawn",
+      "x": 372,
+      "y": 203,
+      "parent": "#7amp6r"
+    },
+    {
+      "@id": "#p26es7",
+      "name": "Some build nests or guard young",
+      "x": 281,
+      "y": 281,
+      "parent": "#7amp6r"
+    },
+    {
+      "@id": "#t4ixzb",
+      "name": "History",
+      "x": 51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nk3sxu",
+      "name": "First vertebrates, over 500 million years ago",
+      "x": 164,
+      "y": 335,
+      "parent": "#t4ixzb"
+    },
+    {
+      "@id": "#pp8az2",
+      "name": "Lobe-finned fish gave rise to land animals",
+      "x": 38,
+      "y": 391,
+      "parent": "#t4ixzb"
+    },
+    {
+      "@id": "#7gawmd",
+      "name": "Fish and people",
+      "x": -169,
+      "y": 125,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e8gv4j",
+      "name": "Major protein source for billions",
+      "x": -124,
+      "y": 447,
+      "parent": "#7gawmd"
+    },
+    {
+      "@id": "#svszrg",
+      "name": "Overfishing has collapsed some stocks",
+      "x": -365,
+      "y": 508,
+      "link": "https://en.wikipedia.org/wiki/Overfishing",
+      "parent": "#7gawmd"
+    },
+    {
+      "@id": "#z86j8u",
+      "name": "Fish farming now supplies about half",
+      "x": -330,
+      "y": 245,
+      "parent": "#7gawmd"
+    },
+    {
+      "@id": "#gu7y9d",
+      "name": "Goldfish domesticated in China centuries ago",
+      "x": -459,
+      "y": 177,
+      "parent": "#7gawmd"
+    },
+    {
+      "@id": "#fwvnb6",
+      "name": "Aquariums need filtered, cycled water",
+      "x": -445,
+      "y": 54,
+      "parent": "#7gawmd"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    },
+    {
+      "start": 22,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

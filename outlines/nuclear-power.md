@@ -1,0 +1,32 @@
+category: Technology
+aliases: nuclear energy, nuclear power plants, atomic power, nuclear electricity
+- Nuclear power
+  - How it works
+    - [Fission splits uranium atoms](https://en.wikipedia.org/wiki/Nuclear_fission)
+    - Chain reaction releases heat
+    - Control rods and moderator regulate it
+    - Heat makes steam to spin turbines
+  - The fuel cycle
+    - Uranium mined and enriched
+    - Fuel pellets sealed in rods
+    - Spent fuel stays radioactive for millennia
+    - [Deep geological repositories for waste](https://en.wikipedia.org/wiki/Deep_geological_repository)
+  - Share of world energy
+    - About 4% of primary energy
+    - About 9% of world electricity
+    - France gets about two-thirds of power
+    - About 440 reactors in some 30 countries
+  - Pros
+    - Very low carbon emissions
+    - Steady output day and night
+    - Tiny fuel volume and land use
+    - Among the safest sources per kWh
+  - Cons
+    - High cost and long build times
+    - Long-lived waste needs secure storage
+    - Risk of rare but severe accidents
+    - Links to weapons proliferation concerns
+  - Major accidents
+    - [Chernobyl, Ukraine, 1986](https://en.wikipedia.org/wiki/Chernobyl_disaster)
+    - Fukushima, Japan, 2011
+    - Three Mile Island, US, 1979

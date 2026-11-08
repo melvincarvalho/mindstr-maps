@@ -1,0 +1,29 @@
+category: Life and home
+aliases: tourism industry, travel and tourism, tourist industry
+- Tourism
+  - What tourism is
+    - Trips outside your usual environment
+    - For leisure, business or family visits
+  - History
+    - [Grand Tour of Europe, 17th–18th centuries](https://en.wikipedia.org/wiki/Grand_Tour)
+    - [Thomas Cook's first excursion, 1841](https://en.wikipedia.org/wiki/Thomas_Cook)
+    - Jet airliners bring mass tourism, 1960s
+  - Scale and economy
+    - About 1.4 billion international arrivals yearly
+    - [UN Tourism, formerly UNWTO, tracks it](https://en.wikipedia.org/wiki/World_Tourism_Organization)
+    - France is the most visited country
+    - Supports hotels, transport and restaurant jobs
+  - Types of tourism
+    - Beach and leisure holidays
+    - Cultural and heritage tourism
+    - [Ecotourism in natural areas](https://en.wikipedia.org/wiki/Ecotourism)
+    - Business and conference travel
+    - Medical and religious travel
+  - Problems
+    - [Overtourism strains Venice and Barcelona](https://en.wikipedia.org/wiki/Overtourism)
+    - Flights add carbon emissions
+    - Holiday rentals push up local rents
+  - Responsible tourism
+    - Travel outside peak season
+    - Spend with local businesses
+    - Respect local customs and wildlife

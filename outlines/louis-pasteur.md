@@ -1,0 +1,29 @@
+category: People
+aliases: pasteur, louis pasteur biography
+- Louis Pasteur
+  - Life
+    - Born 1822 in Dole, France
+    - Trained as a chemist in Paris
+    - Professor at Strasbourg and Lille
+    - Died 1895 near Paris
+  - Chemistry
+    - [Discovered molecular chirality in crystals](https://en.wikipedia.org/wiki/Chirality_%28chemistry%29)
+    - Left- and right-handed tartaric acid
+  - Microbes and fermentation
+    - Fermentation caused by living microbes
+    - [Disproved spontaneous generation](https://en.wikipedia.org/wiki/Spontaneous_generation)
+    - Swan-neck flask experiments
+    - [Pasteurisation keeps wine and milk safe](https://en.wikipedia.org/wiki/Pasteurization)
+  - Germ theory of disease
+    - [Microbes cause infectious disease](https://en.wikipedia.org/wiki/Germ_theory_of_disease)
+    - Saved France's silkworm industry
+    - Supported antiseptic surgery and hygiene
+  - Vaccines
+    - Weakened microbes as vaccines
+    - Chicken cholera vaccine, 1879
+    - Anthrax vaccine trial for sheep, 1881
+    - Rabies vaccine given to Joseph Meister, 1885
+  - Legacy
+    - Pasteur Institute founded 1887
+    - Founder of microbiology with Koch
+    - Notebooks later showed undisclosed methods

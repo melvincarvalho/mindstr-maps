@@ -1,0 +1,31 @@
+category: Society
+aliases: criminal behaviour, criminal behavior, causes of crime, crime rates
+- Crime
+  - What counts as crime
+    - An act the law forbids and punishes
+    - Definitions differ by country and era
+    - Usually needs a guilty act and intent
+  - Main types
+    - Violent crime against people
+    - Property crime such as theft
+    - White-collar crime and fraud
+    - Organised crime and trafficking
+    - Cybercrime using computers
+  - Causes studied
+    - Poverty, inequality and lack of opportunity
+    - Peer groups and family background
+    - Drugs and alcohol
+    - Opportunity: easy, unguarded targets
+  - Measuring crime
+    - Police-recorded crime statistics
+    - Victim surveys catch unreported crime
+    - Many Western countries saw falls since 1990s
+  - Responses
+    - Policing and detection
+    - Courts decide guilt and sentence
+    - Prison, fines and community sentences
+    - [Rehabilitation to cut reoffending](https://en.wikipedia.org/wiki/Rehabilitation_%28penology%29)
+  - Prevention
+    - [Situational crime prevention: harder targets](https://en.wikipedia.org/wiki/Situational_crime_prevention)
+    - Early help for at-risk young people
+    - [Criminology studies crime scientifically](https://en.wikipedia.org/wiki/Criminology)

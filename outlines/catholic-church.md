@@ -1,0 +1,29 @@
+category: Philosophy and religion
+aliases: roman catholic church, roman catholicism, catholicism
+- Catholic Church
+  - Beliefs
+    - Teaching rests on Scripture and Tradition
+    - [Seven sacraments convey God's grace](https://en.wikipedia.org/wiki/Sacraments_of_the_Catholic_Church)
+    - Mass centres on the Eucharist
+    - Special honour for Mary and saints
+  - Leadership
+    - [Pope is Bishop of Rome](https://en.wikipedia.org/wiki/Pope)
+    - Seen as successor to Saint Peter
+    - Bishops lead dioceses, priests parishes
+    - Cardinals elect the pope in conclave
+  - History
+    - Traces itself to the apostles
+    - East–West Schism with Orthodoxy in 1054
+    - [Council of Trent answered the Reformation](https://en.wikipedia.org/wiki/Council_of_Trent)
+    - [Second Vatican Council modernised worship (1962–65)](https://en.wikipedia.org/wiki/Second_Vatican_Council)
+  - Structure
+    - Based in Vatican City
+    - Latin Church plus 23 Eastern Catholic churches
+    - Religious orders like Jesuits and Franciscans
+  - In the world
+    - About 1.4 billion members
+    - Largest numbers in Latin America
+    - Runs many schools, hospitals and charities
+  - Current issues
+    - Response to clergy abuse scandals
+    - Debates on women's roles and celibacy

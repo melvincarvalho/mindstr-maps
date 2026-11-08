@@ -1,0 +1,31 @@
+category: Society
+aliases: capitalist system, free market economy, market capitalism, free enterprise
+- Capitalism
+  - Core features
+    - Private ownership of means of production
+    - Markets and prices allocate resources
+    - Profit motive drives investment
+    - Wage labour and competition
+  - Key thinkers
+    - [Adam Smith's "Wealth of Nations" (1776)](https://en.wikipedia.org/wiki/The_Wealth_of_Nations)
+    - Marx analysed and condemned it
+    - Schumpeter's creative destruction
+    - Hayek and Friedman defended free markets
+  - History
+    - Merchant capitalism and trading companies
+    - [Industrial Revolution from about 1760](https://en.wikipedia.org/wiki/Industrial_Revolution)
+    - Keynesian welfare states after 1945
+    - Neoliberal turn from 1980s
+  - Varieties
+    - Laissez-faire with minimal state role
+    - Social market economy, as Germany
+    - Nordic model with high welfare spending
+    - State capitalism, as modern China
+  - Supporters' case
+    - Lifted billions out of extreme poverty
+    - Innovation and consumer choice
+    - Economic freedom supports political freedom
+  - Criticisms
+    - Inequality and concentrated wealth
+    - [Booms, busts and financial crises](https://en.wikipedia.org/wiki/Business_cycle)
+    - Environmental damage and short-termism

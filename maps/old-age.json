@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Old age",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#rrs3yt",
+      "name": "When old age begins",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bxdufr",
+      "name": "Often counted from 60 or 65",
+      "x": -485,
+      "y": -58,
+      "parent": "#rrs3yt"
+    },
+    {
+      "@id": "#udujnd",
+      "name": "Linked to state pension ages",
+      "x": -405,
+      "y": -156,
+      "parent": "#rrs3yt"
+    },
+    {
+      "@id": "#eayf9e",
+      "name": "World population is rapidly ageing",
+      "x": -330,
+      "y": -245,
+      "link": "https://en.wikipedia.org/wiki/Population_ageing",
+      "parent": "#rrs3yt"
+    },
+    {
+      "@id": "#dthvcp",
+      "name": "How the body changes",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rrvrtt",
+      "name": "Cells and tissues gradually wear out",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Ageing",
+      "parent": "#dthvcp"
+    },
+    {
+      "@id": "#m2edgx",
+      "name": "Weaker muscles and thinner bones",
+      "x": -104,
+      "y": -367,
+      "parent": "#dthvcp"
+    },
+    {
+      "@id": "#z72ntm",
+      "name": "Hearing and eyesight decline",
+      "x": 42,
+      "y": -423,
+      "parent": "#dthvcp"
+    },
+    {
+      "@id": "#zm3486",
+      "name": "Higher risk of heart disease and cancer",
+      "x": 234,
+      "y": -485,
+      "parent": "#dthvcp"
+    },
+    {
+      "@id": "#dqb6qu",
+      "name": "The ageing mind",
+      "x": 190,
+      "y": -104,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bp2ix6",
+      "name": "Knowledge and wisdom often grow",
+      "x": 281,
+      "y": -281,
+      "parent": "#dqb6qu"
+    },
+    {
+      "@id": "#4fhk5m",
+      "name": "Processing speed and recall slow",
+      "x": 372,
+      "y": -203,
+      "parent": "#dqb6qu"
+    },
+    {
+      "@id": "#ifxfek",
+      "name": "Dementia is a disease, not normal ageing",
+      "x": 506,
+      "y": -126,
+      "link": "https://en.wikipedia.org/wiki/Dementia",
+      "parent": "#dqb6qu"
+    },
+    {
+      "@id": "#wntyrb",
+      "name": "Staying healthy for longer",
+      "x": 207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#95dx52",
+      "name": "Exercise, including strength and balance",
+      "x": 450,
+      "y": 0,
+      "parent": "#wntyrb"
+    },
+    {
+      "@id": "#3sgpwf",
+      "name": "Loneliness harms health; stay connected",
+      "x": 525,
+      "y": 131,
+      "parent": "#wntyrb"
+    },
+    {
+      "@id": "#rm8n32",
+      "name": "Check-ups, vaccines and medication reviews",
+      "x": 372,
+      "y": 203,
+      "parent": "#wntyrb"
+    },
+    {
+      "@id": "#qr66ip",
+      "name": "Preventing falls at home",
+      "x": 281,
+      "y": 281,
+      "parent": "#wntyrb"
+    },
+    {
+      "@id": "#jt8db8",
+      "name": "Money and care",
+      "x": 17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wu8yuh",
+      "name": "Pensions replace income after retirement",
+      "x": 164,
+      "y": 335,
+      "link": "https://en.wikipedia.org/wiki/Pension",
+      "parent": "#jt8db8"
+    },
+    {
+      "@id": "#nz2wi3",
+      "name": "Care at home or in care homes",
+      "x": 38,
+      "y": 391,
+      "parent": "#jt8db8"
+    },
+    {
+      "@id": "#zrycq3",
+      "name": "Family carers provide much support",
+      "x": -124,
+      "y": 447,
+      "parent": "#jt8db8"
+    },
+    {
+      "@id": "#8jkkb2",
+      "name": "Society and meaning",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k5jfbs",
+      "name": "Life expectancy has doubled since 1900",
+      "x": -245,
+      "y": 340,
+      "parent": "#8jkkb2"
+    },
+    {
+      "@id": "#gbd3hf",
+      "name": "Many cultures honour their elders",
+      "x": -330,
+      "y": 245,
+      "parent": "#8jkkb2"
+    },
+    {
+      "@id": "#qd9d7h",
+      "name": "Grandparenting, volunteering, passing on experience",
+      "x": -405,
+      "y": 156,
+      "parent": "#8jkkb2"
+    },
+    {
+      "@id": "#kuryu3",
+      "name": "Ageism: discrimination based on age",
+      "x": -445,
+      "y": 54,
+      "parent": "#8jkkb2"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

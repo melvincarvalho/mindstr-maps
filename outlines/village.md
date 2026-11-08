@@ -1,0 +1,29 @@
+category: Geography
+aliases: what is a village, village life, rural village
+- Village
+  - What a village is
+    - Small rural settlement
+    - Usually a few hundred to few thousand
+    - Larger than a hamlet, smaller than town
+  - Origins
+    - [First villages after farming began](https://en.wikipedia.org/wiki/Neolithic_Revolution)
+    - Built near water and good soil
+    - Medieval villages centred on manor
+  - Layouts
+    - [Nucleated: houses clustered together](https://en.wikipedia.org/wiki/Nucleated_village)
+    - Linear: along one road
+    - Green village around common land
+  - Typical features
+    - Church, temple or mosque
+    - Village green or square
+    - Shop, pub or meeting place
+    - Surrounded by farmland
+  - Village life
+    - Most people once lived in villages
+    - Close-knit community and local customs
+    - Farming the traditional livelihood
+  - Villages today
+    - Young people leave for cities
+    - Commuters and second homes raise prices
+    - Over 600,000 villages in India
+    - Shops and services close

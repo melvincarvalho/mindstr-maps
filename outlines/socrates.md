@@ -1,0 +1,31 @@
+category: People
+aliases: socrates philosopher, socratic philosophy, trial of socrates
+- Socrates
+  - Who he was
+    - Athenian philosopher, about 470–399 BC
+    - Son of a stonemason and midwife
+    - Served as a hoplite soldier
+    - Wrote nothing himself
+  - How we know him
+    - [Plato's dialogues, main source](https://en.wikipedia.org/wiki/Socratic_dialogue)
+    - Xenophon's memoirs of him
+    - Mocked in Aristophanes' The Clouds
+    - [The Socratic problem: real vs portrayed](https://en.wikipedia.org/wiki/Socratic_problem)
+  - His method
+    - [Questioning to expose contradictions](https://en.wikipedia.org/wiki/Socratic_method)
+    - Asked "What is justice? courage?"
+    - Claimed only to know his ignorance
+  - Key ideas
+    - "The unexamined life is not worth living"
+    - Virtue is a kind of knowledge
+    - No one does wrong knowingly
+    - Care for the soul above wealth
+  - [Trial and death](https://en.wikipedia.org/wiki/Trial_of_Socrates)
+    - Charged with impiety and corrupting youth
+    - Convicted by an Athenian jury, 399 BC
+    - Refused to flee; drank hemlock
+  - Legacy
+    - Philosophers before him called "Pre-Socratics"
+    - Teacher of Plato, who taught Aristotle
+    - Socratic method still used in teaching
+    - Symbol of free inquiry

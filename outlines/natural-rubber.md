@@ -1,0 +1,31 @@
+category: Technology
+aliases: india rubber, latex rubber, hevea rubber, rubber tree latex
+- Natural rubber
+  - Where it comes from
+    - [Sap of the Pará rubber tree](https://en.wikipedia.org/wiki/Hevea_brasiliensis)
+    - Native to the Amazon rainforest
+    - Most now grown in Southeast Asia
+    - Thailand and Indonesia lead production
+  - Harvesting latex
+    - [Tapping: thin cuts in the bark](https://en.wikipedia.org/wiki/Rubber_tapping)
+    - Milky latex drips into cups
+    - Acid coagulates it into sheets
+    - Trees yield for about 25 years
+  - What makes it stretchy
+    - Long chains of polyisoprene
+    - Chains uncoil when pulled, recoil after
+    - Raw rubber goes sticky when hot
+  - Vulcanization
+    - Heating with sulfur links the chains
+    - Makes rubber tough and heat-resistant
+    - [Charles Goodyear patented it, 1844](https://en.wikipedia.org/wiki/Charles_Goodyear)
+  - History
+    - Olmecs made rubber balls by 1600 BC
+    - Named for rubbing out pencil marks
+    - Seeds taken from Brazil to Asia, 1876
+    - [Forced labour in the Congo Free State](https://en.wikipedia.org/wiki/Atrocities_in_the_Congo_Free_State)
+  - Uses today
+    - Tyres use most of it
+    - Gloves, balloons and condoms from latex
+    - Synthetic rubber now supplies over half
+    - Latex allergy affects some people

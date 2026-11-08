@@ -1,0 +1,363 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Botany",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#z54j2p",
+      "name": "What botany studies",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qwhqv2",
+      "name": "The scientific study of plants",
+      "x": -486,
+      "y": -51,
+      "parent": "#z54j2p"
+    },
+    {
+      "@id": "#6ynzhe",
+      "name": "Traditionally also fungi and algae",
+      "x": -416,
+      "y": -138,
+      "parent": "#z54j2p"
+    },
+    {
+      "@id": "#jznuje",
+      "name": "Structure, growth, evolution and uses",
+      "x": -357,
+      "y": -219,
+      "parent": "#z54j2p"
+    },
+    {
+      "@id": "#7ppqaa",
+      "name": "History",
+      "x": -60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#iahhtg",
+      "name": "Theophrastus, \"father of botany\", ancient Greece",
+      "x": -274,
+      "y": -286,
+      "link": "https://en.wikipedia.org/wiki/Theophrastus",
+      "parent": "#7ppqaa"
+    },
+    {
+      "@id": "#z5xstf",
+      "name": "Medieval herbals described medicinal plants",
+      "x": -180,
+      "y": -348,
+      "parent": "#7ppqaa"
+    },
+    {
+      "@id": "#iqmey5",
+      "name": "Linnaeus's two-part names, 1753",
+      "x": -68,
+      "y": -405,
+      "link": "https://en.wikipedia.org/wiki/Carl_Linnaeus",
+      "parent": "#7ppqaa"
+    },
+    {
+      "@id": "#kk7reg",
+      "name": "Mendel's pea experiments founded genetics, 1866",
+      "x": 77,
+      "y": -453,
+      "parent": "#7ppqaa"
+    },
+    {
+      "@id": "#i27eu3",
+      "name": "Main branches",
+      "x": 199,
+      "y": -92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vzf8n9",
+      "name": "Plant anatomy and morphology",
+      "x": 268,
+      "y": -513,
+      "parent": "#i27eu3"
+    },
+    {
+      "@id": "#ffystf",
+      "name": "Plant physiology: how plants function",
+      "x": 274,
+      "y": -286,
+      "parent": "#i27eu3"
+    },
+    {
+      "@id": "#u2mxvc",
+      "name": "Taxonomy: naming and classifying",
+      "x": 357,
+      "y": -219,
+      "parent": "#i27eu3"
+    },
+    {
+      "@id": "#g2s8i5",
+      "name": "Plant ecology: plants and environment",
+      "x": 434,
+      "y": -144,
+      "parent": "#i27eu3"
+    },
+    {
+      "@id": "#cc4uhq",
+      "name": "Paleobotany: fossil plants",
+      "x": 446,
+      "y": -47,
+      "parent": "#i27eu3"
+    },
+    {
+      "@id": "#64ii6k",
+      "name": "Ethnobotany: plants and human cultures",
+      "x": 446,
+      "y": 47,
+      "parent": "#i27eu3"
+    },
+    {
+      "@id": "#dqvvvy",
+      "name": "Methods",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xt5gz2",
+      "name": "Fieldwork and plant collecting",
+      "x": 416,
+      "y": 138,
+      "parent": "#dqvvvy"
+    },
+    {
+      "@id": "#nbvgvc",
+      "name": "Herbarium: archive of pressed specimens",
+      "x": 357,
+      "y": 219,
+      "link": "https://en.wikipedia.org/wiki/Herbarium",
+      "parent": "#dqvvvy"
+    },
+    {
+      "@id": "#h7vf8t",
+      "name": "Microscopy of cells and tissues",
+      "x": 274,
+      "y": 286,
+      "parent": "#dqvvvy"
+    },
+    {
+      "@id": "#m9kdvn",
+      "name": "DNA sequencing reshapes the family tree",
+      "x": 180,
+      "y": 348,
+      "parent": "#dqvvvy"
+    },
+    {
+      "@id": "#c3amgj",
+      "name": "Applications",
+      "x": -60,
+      "y": 178,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kjxj2p",
+      "name": "Crop breeding and agriculture",
+      "x": 68,
+      "y": 405,
+      "parent": "#c3amgj"
+    },
+    {
+      "@id": "#9djnfb",
+      "name": "Medicines like morphine and quinine",
+      "x": -77,
+      "y": 453,
+      "parent": "#c3amgj"
+    },
+    {
+      "@id": "#cum3fr",
+      "name": "Conservation of endangered species",
+      "x": -268,
+      "y": 513,
+      "parent": "#c3amgj"
+    },
+    {
+      "@id": "#k59fvy",
+      "name": "Forestry and horticulture",
+      "x": -274,
+      "y": 286,
+      "parent": "#c3amgj"
+    },
+    {
+      "@id": "#fqfzn3",
+      "name": "Where it happens",
+      "x": -212,
+      "y": 70,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vj2sis",
+      "name": "Kew Gardens, London",
+      "x": -357,
+      "y": 219,
+      "link": "https://en.wikipedia.org/wiki/Royal_Botanic_Gardens,_Kew",
+      "parent": "#fqfzn3"
+    },
+    {
+      "@id": "#wzmdmy",
+      "name": "Seed banks like Svalbard Global Seed Vault",
+      "x": -416,
+      "y": 138,
+      "parent": "#fqfzn3"
+    },
+    {
+      "@id": "#smmsrx",
+      "name": "University labs and field stations",
+      "x": -506,
+      "y": 53,
+      "parent": "#fqfzn3"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 10,
+      "end": 15
+    },
+    {
+      "start": 10,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    },
+    {
+      "start": 0,
+      "end": 27
+    },
+    {
+      "start": 27,
+      "end": 28
+    },
+    {
+      "start": 27,
+      "end": 29
+    },
+    {
+      "start": 27,
+      "end": 30
+    }
+  ],
+  "selectedNode": 0
+}

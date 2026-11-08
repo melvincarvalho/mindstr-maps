@@ -1,0 +1,30 @@
+category: Science
+aliases: study of light, geometric optics, physical optics
+- Optics
+  - What light is
+    - Electromagnetic waves and photons
+    - Travels about 300,000 km per second
+    - Visible light is a narrow band
+  - Reflection
+    - Angle in equals angle out
+    - Flat mirrors make virtual images
+    - Curved mirrors focus light
+  - Refraction
+    - Light bends between different materials
+    - [Snell's law predicts the bending](https://en.wikipedia.org/wiki/Snell%27s_law)
+    - [Total internal reflection guides optical fibres](https://en.wikipedia.org/wiki/Total_internal_reflection)
+    - Dispersion splits white light into colors
+  - Lenses and images
+    - Convex lenses converge light to focus
+    - Concave lenses spread light out
+    - Focal length sets magnifying power
+    - The eye is a natural lens system
+  - Wave optics
+    - [Interference makes bright and dark fringes](https://en.wikipedia.org/wiki/Wave_interference)
+    - Diffraction spreads light around edges
+    - Polarization filters cut glare
+  - Optical technology
+    - Glasses and contact lenses correct vision
+    - [Telescopes and microscopes extend sight](https://en.wikipedia.org/wiki/Optical_telescope)
+    - [Lasers produce coherent light](https://en.wikipedia.org/wiki/Laser)
+    - Cameras record images on sensors

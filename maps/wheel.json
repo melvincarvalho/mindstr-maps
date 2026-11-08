@@ -1,0 +1,308 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Wheel",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#3gw9m2",
+      "name": "Why wheels work",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hhevzb",
+      "name": "Rolling causes far less friction than sliding",
+      "x": -524,
+      "y": -71,
+      "parent": "#3gw9m2"
+    },
+    {
+      "@id": "#nkx9cf",
+      "name": "An axle carries the load",
+      "x": -396,
+      "y": -171,
+      "link": "https://en.wikipedia.org/wiki/Wheel_and_axle",
+      "parent": "#3gw9m2"
+    },
+    {
+      "@id": "#z5mxhf",
+      "name": "Bearings make spinning smoother still",
+      "x": -305,
+      "y": -265,
+      "parent": "#3gw9m2"
+    },
+    {
+      "@id": "#ppymm6",
+      "name": "Invention",
+      "x": 19,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mknhhs",
+      "name": "Potter's wheel probably came first",
+      "x": -181,
+      "y": -330,
+      "parent": "#ppymm6"
+    },
+    {
+      "@id": "#dm3kzn",
+      "name": "First wheeled carts about 3500 BC",
+      "x": -41,
+      "y": -391,
+      "parent": "#ppymm6"
+    },
+    {
+      "@id": "#jeaepb",
+      "name": "Oldest known wooden wheel: Slovenia",
+      "x": 140,
+      "y": -445,
+      "link": "https://en.wikipedia.org/wiki/Ljubljana_Marshes_Wheel",
+      "parent": "#ppymm6"
+    },
+    {
+      "@id": "#3ya992",
+      "name": "Mesoamerica used wheels only on toys",
+      "x": 246,
+      "y": -301,
+      "parent": "#ppymm6"
+    },
+    {
+      "@id": "#iju669",
+      "name": "Better wheels",
+      "x": 227,
+      "y": -30,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2kyb44",
+      "name": "Solid wooden discs came first",
+      "x": 355,
+      "y": -221,
+      "parent": "#iju669"
+    },
+    {
+      "@id": "#jic888",
+      "name": "Spoked wheels lightened chariots, about 2000 BC",
+      "x": 426,
+      "y": -117,
+      "link": "https://en.wikipedia.org/wiki/Spoke",
+      "parent": "#iju669"
+    },
+    {
+      "@id": "#qu4dec",
+      "name": "Iron rims, later wire spokes",
+      "x": 470,
+      "y": 0,
+      "parent": "#iju669"
+    },
+    {
+      "@id": "#5rdwuw",
+      "name": "Dunlop's air-filled tyre, 1888",
+      "x": 426,
+      "y": 117,
+      "link": "https://en.wikipedia.org/wiki/Tire",
+      "parent": "#iju669"
+    },
+    {
+      "@id": "#pcxaj8",
+      "name": "Wheels that do work",
+      "x": 126,
+      "y": 154,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#77iuiz",
+      "name": "Waterwheels ground grain",
+      "x": 355,
+      "y": 221,
+      "parent": "#pcxaj8"
+    },
+    {
+      "@id": "#3kpfwj",
+      "name": "Gears are toothed wheels",
+      "x": 246,
+      "y": 301,
+      "parent": "#pcxaj8"
+    },
+    {
+      "@id": "#rcmh42",
+      "name": "Pulleys, flywheels and turbines",
+      "x": 110,
+      "y": 349,
+      "parent": "#pcxaj8"
+    },
+    {
+      "@id": "#gva5n2",
+      "name": "Everyday wheels",
+      "x": -92,
+      "y": 169,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uss462",
+      "name": "Bicycles, cars and trains",
+      "x": -43,
+      "y": 407,
+      "parent": "#gva5n2"
+    },
+    {
+      "@id": "#ux8y9d",
+      "name": "Trolleys, office chairs and suitcases",
+      "x": -253,
+      "y": 465,
+      "parent": "#gva5n2"
+    },
+    {
+      "@id": "#rhgmsu",
+      "name": "Steering wheels and ships' helms",
+      "x": -305,
+      "y": 265,
+      "parent": "#gva5n2"
+    },
+    {
+      "@id": "#m3p4em",
+      "name": "The wheel as a symbol",
+      "x": -218,
+      "y": 60,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qyht6k",
+      "name": "\"Don't reinvent the wheel\"",
+      "x": -396,
+      "y": 171,
+      "parent": "#m3p4em"
+    },
+    {
+      "@id": "#37qbfv",
+      "name": "Wheel of fortune and Dharma wheel",
+      "x": -524,
+      "y": 71,
+      "parent": "#m3p4em"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

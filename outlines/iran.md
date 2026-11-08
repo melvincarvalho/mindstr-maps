@@ -1,0 +1,33 @@
+category: Geography
+aliases: islamic republic of iran, persia
+- Iran
+  - Geography
+    - West Asia, about 1.6 million km²
+    - Caspian Sea north, Persian Gulf south
+    - Zagros and Alborz mountains ring a plateau
+    - [Capital Tehran, about 9 million people](https://en.wikipedia.org/wiki/Tehran)
+  - People and languages
+    - About 90 million people
+    - Persian (Farsi) is the official language
+    - Azerbaijani, Kurdish, Lur, Arab, Baluch minorities
+    - Mostly Shia Muslim
+  - History in brief
+    - [Achaemenid Empire founded about 550 BC](https://en.wikipedia.org/wiki/Achaemenid_Empire)
+    - Arab conquest brought Islam, 7th century
+    - Safavids made Shia Islam official, 1501
+    - [1979 revolution ended the monarchy](https://en.wikipedia.org/wiki/Iranian_Revolution)
+    - Iran–Iraq War, 1980 to 1988
+  - Government
+    - Islamic republic led by a Supreme Leader
+    - Elected president and parliament (Majlis)
+    - Guardian Council vets candidates and laws
+    - Nuclear programme disputed; under international sanctions
+  - Economy
+    - Among the largest oil and gas reserves
+    - Sanctions limit trade and investment
+    - Petrochemicals, steel, cars and farming
+  - Culture
+    - [Persian poets Ferdowsi, Rumi and Hafez](https://en.wikipedia.org/wiki/Persian_literature)
+    - Nowruz new year at spring equinox
+    - Persian carpets and miniature painting
+    - Ruins of Persepolis, ancient royal capital

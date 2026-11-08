@@ -1,0 +1,28 @@
+category: Society
+aliases: monarchies, kings and queens, royal family system, constitutional monarchy, absolute monarchy
+- Monarchy
+  - What it is
+    - Head of state is a monarch
+    - Usually inherited within a royal family
+    - Some are elected, like the Vatican
+  - Absolute monarchy
+    - Ruler holds full power
+    - [Divine right of kings justified it](https://en.wikipedia.org/wiki/Divine_right_of_kings)
+    - Louis XIV of France as model
+    - Today Saudi Arabia, Brunei, Oman
+  - Constitutional monarchy
+    - Monarch reigns but does not govern
+    - Elected parliament holds real power
+    - UK, Japan, Spain, Sweden, Netherlands
+  - Limiting royal power
+    - [Magna Carta, 1215](https://en.wikipedia.org/wiki/Magna_Carta)
+    - [Glorious Revolution of 1688](https://en.wikipedia.org/wiki/Glorious_Revolution)
+    - French and Russian revolutions abolished monarchies
+  - Arguments for
+    - Politically neutral, unifying head of state
+    - Continuity, tradition and national identity
+    - Tourism and soft power
+  - Arguments against
+    - Hereditary privilege conflicts with equality
+    - Cost to taxpayers
+    - Republicans prefer an elected head

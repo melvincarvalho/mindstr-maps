@@ -1,0 +1,28 @@
+category: Technology
+aliases: preserving food, food preservation methods, how to preserve food
+- Food preservation
+  - Why food spoils
+    - Bacteria, yeasts and moulds multiply
+    - Enzymes break food down
+    - Oxidation turns fats rancid
+  - Keeping it cold
+    - [Refrigeration slows microbial growth](https://en.wikipedia.org/wiki/Refrigeration)
+    - Fridge at about 4°C (40°F)
+    - Freezing at −18°C (0°F) pauses spoilage
+  - Removing water
+    - Drying fruit, meat and herbs
+    - Salting and curing draw out moisture
+    - Sugar preserves jams and candied fruit
+  - Using heat
+    - [Canning seals sterilised food in jars](https://en.wikipedia.org/wiki/Canning)
+    - [Pasteurization kills pathogens in milk](https://en.wikipedia.org/wiki/Pasteurization)
+    - Pressure canning for low-acid foods
+  - Acid, smoke and fermentation
+    - Pickling in vinegar or brine
+    - Fermenting makes sauerkraut, yogurt and kimchi
+    - Smoking dries and flavours meat, fish
+  - Staying safe
+    - [Botulism risk from badly canned food](https://en.wikipedia.org/wiki/Botulism)
+    - Follow tested recipes and times
+    - Discard bulging or leaking cans
+    - Vacuum packing extends shelf life

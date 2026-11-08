@@ -1,0 +1,26 @@
+category: Geography
+aliases: mountains, how mountains form, mountain formation
+- Mountain
+  - What a mountain is
+    - Land rising steeply above surroundings
+    - No single agreed minimum height
+    - [Everest is highest, 8,849 m](https://en.wikipedia.org/wiki/Mount_Everest)
+  - How mountains form
+    - [Colliding tectonic plates fold rock](https://en.wikipedia.org/wiki/Fold_mountains)
+    - Volcanoes build cones of lava
+    - Faults lift blocks of crust
+    - Erosion carves peaks and valleys
+  - Climate and zones
+    - Cooler by about 6.5°C per km
+    - Vegetation changes in bands with height
+    - [Tree line marks where forests stop](https://en.wikipedia.org/wiki/Tree_line)
+    - Rain falls on windward side
+  - Why they matter
+    - Source of most major rivers
+    - Store water as snow and glaciers
+    - Home to unique adapted species
+  - People and mountains
+    - Mining, grazing and terrace farming
+    - Climbing, skiing and tourism
+    - Altitude sickness above about 2,500 m
+    - Landslides and avalanches are hazards

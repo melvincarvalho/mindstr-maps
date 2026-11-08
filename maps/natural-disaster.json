@@ -1,0 +1,352 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Natural disaster",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#2736n3",
+      "name": "Weather disasters",
+      "x": -178,
+      "y": -116,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#q565q4",
+      "name": "Floods: the most common",
+      "x": -446,
+      "y": -49,
+      "parent": "#2736n3"
+    },
+    {
+      "@id": "#2venm9",
+      "name": "Hurricanes, typhoons and cyclones",
+      "x": -467,
+      "y": -161,
+      "parent": "#2736n3"
+    },
+    {
+      "@id": "#zgnrqj",
+      "name": "Tornadoes and severe storms",
+      "x": -349,
+      "y": -227,
+      "parent": "#2736n3"
+    },
+    {
+      "@id": "#fm49sg",
+      "name": "Heatwaves and droughts",
+      "x": -260,
+      "y": -294,
+      "parent": "#2736n3"
+    },
+    {
+      "@id": "#ztgnyp",
+      "name": "Wildfires",
+      "x": -158,
+      "y": -354,
+      "parent": "#2736n3"
+    },
+    {
+      "@id": "#irpt4k",
+      "name": "Geological disasters",
+      "x": 77,
+      "y": -173,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fxbfz2",
+      "name": "Earthquakes from shifting tectonic plates",
+      "x": -34,
+      "y": -407,
+      "link": "https://en.wikipedia.org/wiki/Earthquake",
+      "parent": "#irpt4k"
+    },
+    {
+      "@id": "#npb77w",
+      "name": "Tsunamis from undersea earthquakes",
+      "x": 120,
+      "y": -464,
+      "link": "https://en.wikipedia.org/wiki/Tsunami",
+      "parent": "#irpt4k"
+    },
+    {
+      "@id": "#twh9fa",
+      "name": "Volcanic eruptions",
+      "x": 207,
+      "y": -320,
+      "parent": "#irpt4k"
+    },
+    {
+      "@id": "#viykmu",
+      "name": "Landslides and avalanches",
+      "x": 307,
+      "y": -263,
+      "parent": "#irpt4k"
+    },
+    {
+      "@id": "#gr2qxb",
+      "name": "Why impacts vary",
+      "x": 228,
+      "y": -25,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sx3ggh",
+      "name": "Hazard becomes disaster when people exposed",
+      "x": 418,
+      "y": -203,
+      "parent": "#gr2qxb"
+    },
+    {
+      "@id": "#un5p45",
+      "name": "Poorer areas often suffer most",
+      "x": 433,
+      "y": -97,
+      "parent": "#gr2qxb"
+    },
+    {
+      "@id": "#nbq2yu",
+      "name": "Building standards save lives",
+      "x": 490,
+      "y": 0,
+      "parent": "#gr2qxb"
+    },
+    {
+      "@id": "#xgpc4c",
+      "name": "Climate change worsening some extremes",
+      "x": 433,
+      "y": 97,
+      "parent": "#gr2qxb"
+    },
+    {
+      "@id": "#e2hpdu",
+      "name": "Prepare",
+      "x": 133,
+      "y": 150,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9gk3kg",
+      "name": "Know local hazards and warnings",
+      "x": 384,
+      "y": 187,
+      "parent": "#e2hpdu"
+    },
+    {
+      "@id": "#v9t3gz",
+      "name": "Make an emergency kit",
+      "x": 307,
+      "y": 263,
+      "link": "https://en.wikipedia.org/wiki/Survival_kit",
+      "parent": "#e2hpdu"
+    },
+    {
+      "@id": "#ex6bym",
+      "name": "Plan evacuation routes and meeting points",
+      "x": 207,
+      "y": 320,
+      "parent": "#e2hpdu"
+    },
+    {
+      "@id": "#kqyctp",
+      "name": "Keep documents and insurance safe",
+      "x": 96,
+      "y": 368,
+      "parent": "#e2hpdu"
+    },
+    {
+      "@id": "#x4vx6p",
+      "name": "Respond",
+      "x": -77,
+      "y": 173,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5yu6gg",
+      "name": "Follow official warnings and orders",
+      "x": -35,
+      "y": 423,
+      "parent": "#x4vx6p"
+    },
+    {
+      "@id": "#gi2wks",
+      "name": "Evacuate early when told",
+      "x": -214,
+      "y": 474,
+      "parent": "#x4vx6p"
+    },
+    {
+      "@id": "#5sngvy",
+      "name": "Check on vulnerable neighbours",
+      "x": -260,
+      "y": 294,
+      "parent": "#x4vx6p"
+    },
+    {
+      "@id": "#k2vtrs",
+      "name": "Recover",
+      "x": -211,
+      "y": 73,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#s3z89c",
+      "name": "Aid agencies provide shelter, food, water",
+      "x": -349,
+      "y": 227,
+      "parent": "#k2vtrs"
+    },
+    {
+      "@id": "#cbjq32",
+      "name": "Rebuild stronger and safer",
+      "x": -413,
+      "y": 143,
+      "parent": "#k2vtrs"
+    },
+    {
+      "@id": "#p3bzkv",
+      "name": "Early warning systems save lives",
+      "x": -466,
+      "y": 51,
+      "link": "https://en.wikipedia.org/wiki/Early_warning_system",
+      "parent": "#k2vtrs"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 7,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 12,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    },
+    {
+      "start": 26,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Cooking",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#rjkw4h",
+      "name": "Why we cook",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#86s56v",
+      "name": "Kills germs and makes food safer",
+      "x": -465,
+      "y": -56,
+      "parent": "#rjkw4h"
+    },
+    {
+      "@id": "#kugjnk",
+      "name": "Easier to chew and digest",
+      "x": -405,
+      "y": -156,
+      "parent": "#rjkw4h"
+    },
+    {
+      "@id": "#bba446",
+      "name": "Releases flavour and aroma",
+      "x": -330,
+      "y": -245,
+      "parent": "#rjkw4h"
+    },
+    {
+      "@id": "#ufyk5j",
+      "name": "History",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#88ckms",
+      "name": "Cooking with fire for hundreds of millennia",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans",
+      "parent": "#ufyk5j"
+    },
+    {
+      "@id": "#ayts8x",
+      "name": "Pottery allowed boiling and stewing",
+      "x": -104,
+      "y": -367,
+      "parent": "#ufyk5j"
+    },
+    {
+      "@id": "#wx2hnd",
+      "name": "Earliest recipes on Babylonian clay tablets",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Cookbook",
+      "parent": "#ufyk5j"
+    },
+    {
+      "@id": "#ictusb",
+      "name": "Gas and electric stoves from 1800s",
+      "x": 234,
+      "y": -485,
+      "parent": "#ufyk5j"
+    },
+    {
+      "@id": "#6e5dc6",
+      "name": "Dry heat methods",
+      "x": 190,
+      "y": -104,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3xqvdv",
+      "name": "Roasting and baking in an oven",
+      "x": 281,
+      "y": -281,
+      "parent": "#6e5dc6"
+    },
+    {
+      "@id": "#4v6dfm",
+      "name": "Grilling over direct heat",
+      "x": 372,
+      "y": -203,
+      "parent": "#6e5dc6"
+    },
+    {
+      "@id": "#487xzj",
+      "name": "Frying in hot oil or fat",
+      "x": 449,
+      "y": -111,
+      "link": "https://en.wikipedia.org/wiki/Frying",
+      "parent": "#6e5dc6"
+    },
+    {
+      "@id": "#qah6tq",
+      "name": "Moist heat methods",
+      "x": 220,
+      "y": 54,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ruhazu",
+      "name": "Boiling and simmering in water",
+      "x": 450,
+      "y": 0,
+      "parent": "#qah6tq"
+    },
+    {
+      "@id": "#28dw34",
+      "name": "Steaming keeps more nutrients in",
+      "x": 430,
+      "y": 106,
+      "parent": "#qah6tq"
+    },
+    {
+      "@id": "#rn9y5x",
+      "name": "Braising and stewing tenderise meat",
+      "x": 372,
+      "y": 203,
+      "parent": "#qah6tq"
+    },
+    {
+      "@id": "#y9nui7",
+      "name": "The science",
+      "x": 51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m8r5ap",
+      "name": "Maillard reaction browns and flavours food",
+      "x": 281,
+      "y": 281,
+      "link": "https://en.wikipedia.org/wiki/Maillard_reaction",
+      "parent": "#y9nui7"
+    },
+    {
+      "@id": "#am7ziw",
+      "name": "Caramelisation of sugars",
+      "x": 164,
+      "y": 335,
+      "parent": "#y9nui7"
+    },
+    {
+      "@id": "#tyy76g",
+      "name": "Heat sets proteins like eggs",
+      "x": 38,
+      "y": 391,
+      "parent": "#y9nui7"
+    },
+    {
+      "@id": "#mhtce6",
+      "name": "Starches swell and thicken sauces",
+      "x": -124,
+      "y": 447,
+      "parent": "#y9nui7"
+    },
+    {
+      "@id": "#uh4nvi",
+      "name": "Cuisines of the world",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h326bc",
+      "name": "French cuisine shaped professional cooking",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wikipedia.org/wiki/French_cuisine",
+      "parent": "#uh4nvi"
+    },
+    {
+      "@id": "#jk2r5g",
+      "name": "Chinese stir-frying in a wok",
+      "x": -330,
+      "y": 245,
+      "parent": "#uh4nvi"
+    },
+    {
+      "@id": "#wd77fe",
+      "name": "Indian spice blends and curries",
+      "x": -405,
+      "y": 156,
+      "parent": "#uh4nvi"
+    },
+    {
+      "@id": "#6h9g9f",
+      "name": "Mediterranean, Mexican, Japanese and more",
+      "x": -445,
+      "y": 54,
+      "parent": "#uh4nvi"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

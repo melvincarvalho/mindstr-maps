@@ -1,0 +1,28 @@
+category: Science
+aliases: human physiology, physiology explained, animal physiology
+- Physiology
+  - What physiology studies
+    - How living bodies actually work
+    - From cells to organs to systems
+    - [Homeostasis keeps conditions stable](https://en.wikipedia.org/wiki/Homeostasis)
+  - Control systems
+    - [Nervous system: fast electrical signals](https://en.wikipedia.org/wiki/Nervous_system)
+    - [Endocrine system: slower hormone signals](https://en.wikipedia.org/wiki/Endocrine_system)
+    - Negative feedback works like a thermostat
+  - Supply and waste
+    - Heart pumps blood around the body
+    - Lungs swap oxygen for carbon dioxide
+    - Gut digests and absorbs food
+    - Kidneys filter blood and balance water
+  - Movement and defence
+    - Muscles contract to move bones
+    - Skin controls heat and blocks germs
+    - Immune system fights infection
+  - Plant physiology
+    - Photosynthesis makes sugar from light
+    - Water drawn up through the xylem
+    - Stomata open and close for gases
+  - Why it matters
+    - Disease is physiology gone wrong
+    - Basis of medicine and sports science
+    - [Claude Bernard described the internal environment](https://en.wikipedia.org/wiki/Claude_Bernard)

@@ -1,0 +1,31 @@
+category: Science
+aliases: planet mars, the red planet, red planet, mars planet
+- Mars
+  - Size and orbit
+    - Fourth planet from the Sun
+    - About half Earth's diameter
+    - About 228 million km from the Sun
+    - Year of 687 Earth days
+    - Day just over 24.5 hours
+  - Surface
+    - Red from iron oxide dust
+    - [Olympus Mons, tallest known volcano](https://en.wikipedia.org/wiki/Olympus_Mons)
+    - Valles Marineris, a vast canyon system
+    - Polar caps of water and CO₂ ice
+  - Atmosphere and climate
+    - Thin, mostly carbon dioxide
+    - Average about −60°C
+    - Planet-wide dust storms
+  - Water and life
+    - Dry riverbeds show ancient flowing water
+    - Ice lies beneath the surface
+    - No life found so far
+  - Moons
+    - Phobos and Deimos, small and lumpy
+    - Probably captured asteroids or impact debris
+  - Exploration
+    - Mariner 4 flew past in 1965
+    - Viking landers touched down in 1976
+    - [Curiosity and Perseverance rovers](https://en.wikipedia.org/wiki/Perseverance_%28rover%29)
+    - Ingenuity helicopter flew in 2021
+    - Crewed missions proposed, none yet

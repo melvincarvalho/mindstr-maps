@@ -1,0 +1,352 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Limit (mathematics)",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#rfguw7",
+      "name": "The idea",
+      "x": -211,
+      "y": -73,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cwyeiu",
+      "name": "The value something approaches",
+      "x": -446,
+      "y": -49,
+      "parent": "#rfguw7"
+    },
+    {
+      "@id": "#y6v58e",
+      "name": "Get as close as you like",
+      "x": -413,
+      "y": -143,
+      "parent": "#rfguw7"
+    },
+    {
+      "@id": "#fxwy6m",
+      "name": "Need never actually arrive",
+      "x": -349,
+      "y": -227,
+      "parent": "#rfguw7"
+    },
+    {
+      "@id": "#6n3xgb",
+      "name": "Simple examples",
+      "x": -47,
+      "y": -180,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6fmx3h",
+      "name": "1/2, 1/4, 1/8… approaches 0",
+      "x": -260,
+      "y": -294,
+      "parent": "#6n3xgb"
+    },
+    {
+      "@id": "#s736zf",
+      "name": "0.9, 0.99, 0.999… approaches 1",
+      "x": -158,
+      "y": -354,
+      "parent": "#6n3xgb"
+    },
+    {
+      "@id": "#hzrkg5",
+      "name": "Polygons with more sides approach circles",
+      "x": -34,
+      "y": -407,
+      "parent": "#6n3xgb"
+    },
+    {
+      "@id": "#6sxqjx",
+      "name": "Compound interest more often approaches e",
+      "x": 120,
+      "y": -464,
+      "parent": "#6n3xgb"
+    },
+    {
+      "@id": "#3s3mqs",
+      "name": "Kinds of limits",
+      "x": 178,
+      "y": -116,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c7v8ui",
+      "name": "Limits of sequences",
+      "x": 207,
+      "y": -320,
+      "link": "https://en.wikipedia.org/wiki/Limit_of_a_sequence",
+      "parent": "#3s3mqs"
+    },
+    {
+      "@id": "#jjjjxq",
+      "name": "Limits of functions",
+      "x": 307,
+      "y": -263,
+      "link": "https://en.wikipedia.org/wiki/Limit_of_a_function",
+      "parent": "#3s3mqs"
+    },
+    {
+      "@id": "#qcyeyx",
+      "name": "One-sided: from left or right",
+      "x": 384,
+      "y": -187,
+      "parent": "#3s3mqs"
+    },
+    {
+      "@id": "#n95ai6",
+      "name": "Limits at infinity: long-run behaviour",
+      "x": 471,
+      "y": -105,
+      "parent": "#3s3mqs"
+    },
+    {
+      "@id": "#ebyid6",
+      "name": "Precise definition",
+      "x": 221,
+      "y": 50,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2gcc8v",
+      "name": "Epsilon-delta, from Cauchy and Weierstrass",
+      "x": 450,
+      "y": 0,
+      "parent": "#ebyid6"
+    },
+    {
+      "@id": "#6z75xq",
+      "name": "Any tolerance, however small, is met",
+      "x": 452,
+      "y": 101,
+      "parent": "#ebyid6"
+    },
+    {
+      "@id": "#kykpzr",
+      "name": "Some limits do not exist",
+      "x": 384,
+      "y": 187,
+      "parent": "#ebyid6"
+    },
+    {
+      "@id": "#mtimvv",
+      "name": "What limits build",
+      "x": 77,
+      "y": 173,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vpwp44",
+      "name": "Derivatives: limits of slopes",
+      "x": 307,
+      "y": 263,
+      "link": "https://en.wikipedia.org/wiki/Derivative",
+      "parent": "#mtimvv"
+    },
+    {
+      "@id": "#tz5rqs",
+      "name": "Integrals: limits of sums",
+      "x": 207,
+      "y": 320,
+      "parent": "#mtimvv"
+    },
+    {
+      "@id": "#9w66v2",
+      "name": "Continuity: no jumps or gaps",
+      "x": 96,
+      "y": 368,
+      "parent": "#mtimvv"
+    },
+    {
+      "@id": "#d6r4yi",
+      "name": "Sums of infinite series",
+      "x": -35,
+      "y": 423,
+      "parent": "#mtimvv"
+    },
+    {
+      "@id": "#58z9a3",
+      "name": "History",
+      "x": -178,
+      "y": 116,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ixqhkq",
+      "name": "Zeno's paradoxes raised the problem",
+      "x": -214,
+      "y": 474,
+      "parent": "#58z9a3"
+    },
+    {
+      "@id": "#qjzgxd",
+      "name": "Archimedes' method of exhaustion",
+      "x": -260,
+      "y": 294,
+      "parent": "#58z9a3"
+    },
+    {
+      "@id": "#3kdf2j",
+      "name": "Newton's \"ultimate ratios\"",
+      "x": -349,
+      "y": 227,
+      "parent": "#58z9a3"
+    },
+    {
+      "@id": "#a2c758",
+      "name": "Berkeley mocked \"ghosts of departed quantities\"",
+      "x": -485,
+      "y": 167,
+      "link": "https://en.wikipedia.org/wiki/The_Analyst",
+      "parent": "#58z9a3"
+    },
+    {
+      "@id": "#9g5wzm",
+      "name": "Rigour finally arrived in the 1800s",
+      "x": -446,
+      "y": 49,
+      "parent": "#58z9a3"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    },
+    {
+      "start": 24,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

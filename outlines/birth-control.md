@@ -1,0 +1,32 @@
+category: Health
+aliases: contraception, contraceptive methods, family planning methods, types of birth control
+- Birth control
+  - What it does
+    - Prevents pregnancy after sex
+    - Stops sperm meeting an egg
+    - Or stops ovulation or implantation
+    - Only condoms also protect against STIs
+  - Long-acting reversible methods
+    - [Copper or hormonal IUD in the womb](https://en.wikipedia.org/wiki/Intrauterine_device)
+    - Implant in the arm lasts years
+    - Over 99% effective once in place
+    - Fertility returns soon after removal
+  - Hormonal methods
+    - [Combined pill: oestrogen plus progestogen](https://en.wikipedia.org/wiki/Combined_oral_contraceptive_pill)
+    - Progestogen-only pill
+    - Injection every few months
+    - Patch or vaginal ring
+    - About 91–93% with typical use
+  - Barrier methods
+    - [External condom, about 87% typical](https://en.wikipedia.org/wiki/Condom)
+    - Internal condom
+    - Diaphragm or cap with spermicide
+  - Other options
+    - [Emergency contraception within days of sex](https://en.wikipedia.org/wiki/Emergency_contraception)
+    - Fertility awareness: tracking cycle signs
+    - Withdrawal is least reliable
+    - Vasectomy or tubal sterilisation is permanent
+  - Choosing a method
+    - Typical use matters more than perfect
+    - Consider side effects and health conditions
+    - Ask a clinic, pharmacist or doctor

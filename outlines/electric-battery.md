@@ -1,0 +1,31 @@
+category: Technology
+aliases: how batteries work, electrical battery, battery cell
+- Electric battery
+  - How it works
+    - Stored chemical energy becomes electricity
+    - Anode, cathode and electrolyte
+    - Electrons flow through the outside circuit
+    - Ions move inside through the electrolyte
+  - History
+    - [Volta's voltaic pile, 1800](https://en.wikipedia.org/wiki/Voltaic_pile)
+    - Rechargeable lead-acid battery, 1859
+    - Alkaline battery, 1950s
+    - Lithium-ion commercialised by Sony, 1991
+  - Common types
+    - Alkaline: disposable household cells
+    - [Lithium-ion: phones, laptops, electric cars](https://en.wikipedia.org/wiki/Lithium-ion_battery)
+    - Lead-acid: car starter batteries
+    - Nickel-metal hydride: rechargeable AA cells
+  - Key measures
+    - Voltage: electrical push, in volts
+    - Capacity: charge stored, in amp-hours
+    - Energy density: energy per kilogram
+    - Cycle life: charges before wearing out
+  - Uses
+    - Portable electronics
+    - [Electric vehicles](https://en.wikipedia.org/wiki/Electric_vehicle_battery)
+    - [Grid storage for solar and wind](https://en.wikipedia.org/wiki/Grid_energy_storage)
+  - Safety and recycling
+    - Damaged lithium cells can catch fire
+    - Recycling recovers metals like cobalt
+    - Keep batteries out of household bins

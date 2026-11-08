@@ -1,0 +1,31 @@
+category: People
+aliases: beatles, fab four, beatles band
+- The Beatles
+  - Liverpool origins
+    - John Lennon's Quarrymen, formed 1957
+    - Paul McCartney and George Harrison joined
+    - Hamburg club residencies, 1960–62
+    - Ringo Starr replaced Pete Best, 1962
+  - Beatlemania
+    - Managed by Brian Epstein
+    - [Produced by George Martin](https://en.wikipedia.org/wiki/George_Martin)
+    - "Love Me Do" debut single, 1962
+    - [Ed Sullivan Show, February 1964](https://en.wikipedia.org/wiki/The_Ed_Sullivan_Show)
+  - Studio innovators
+    - Stopped touring after 1966
+    - Rubber Soul and Revolver (1965–66)
+    - [Sgt. Pepper's Lonely Hearts Club Band](https://en.wikipedia.org/wiki/Sgt._Pepper%27s_Lonely_Hearts_Club_Band)
+    - [Abbey Road, recorded last, 1969](https://en.wikipedia.org/wiki/Abbey_Road)
+  - Songwriting
+    - Lennon–McCartney wrote most songs
+    - Harrison's "Something" and "Here Comes the Sun"
+    - "Yesterday" among most covered songs
+  - Break-up
+    - Epstein died in 1967
+    - McCartney announced the split, April 1970
+    - Let It Be released, May 1970
+    - Lennon murdered in New York, 1980
+  - Legacy
+    - Best-selling music act of all time
+    - Made the album an art form
+    - "Now and Then", final song, 2023

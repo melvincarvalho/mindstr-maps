@@ -1,0 +1,31 @@
+category: Arts and culture
+aliases: musical instruments, types of musical instruments, instrument families
+- Musical instrument
+  - How it makes sound
+    - Something vibrates: string, air, skin
+    - A resonator amplifies the vibration
+    - Size and tension set the pitch
+  - [Hornbostel–Sachs classes](https://en.wikipedia.org/wiki/Hornbostel%E2%80%93Sachs)
+    - Idiophones: the body vibrates (cymbals)
+    - Membranophones: stretched skin (drums)
+    - Chordophones: strings (violin, guitar)
+    - Aerophones: vibrating air (flute, trumpet)
+    - Electrophones: electronic (synthesizer)
+  - Orchestral families
+    - Strings: violin, viola, cello, bass
+    - Woodwinds: flute, oboe, clarinet, bassoon
+    - Brass: trumpet, horn, trombone, tuba
+    - Percussion: timpani, snare, xylophone
+  - Keyboards
+    - [Piano invented by Cristofori, about 1700](https://en.wikipedia.org/wiki/Piano)
+    - Harpsichord plucks its strings
+    - Pipe organ blows air through pipes
+  - History
+    - [Bone flutes over 40,000 years old](https://en.wikipedia.org/wiki/Prehistoric_music)
+    - Lyres of Ur, about 2500 BC
+    - [Theremin, early electronic, about 1920](https://en.wikipedia.org/wiki/Theremin)
+    - Electric guitar spread in the 1950s
+  - Learning to play
+    - Piano and guitar are common starts
+    - Short daily practice beats long sessions
+    - Teachers and apps help

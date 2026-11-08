@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "African traditional religions",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#miax7b",
+      "name": "Overview",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ghptma",
+      "name": "Indigenous beliefs of sub-Saharan Africa",
+      "x": -445,
+      "y": -51,
+      "parent": "#miax7b"
+    },
+    {
+      "@id": "#2gmfad",
+      "name": "Many ethnic traditions, no single creed",
+      "x": -409,
+      "y": -150,
+      "parent": "#miax7b"
+    },
+    {
+      "@id": "#4wymf5",
+      "name": "Passed down orally, not in scripture",
+      "x": -340,
+      "y": -236,
+      "parent": "#miax7b"
+    },
+    {
+      "@id": "#wc2tkc",
+      "name": "Often practised alongside Christianity or Islam",
+      "x": -243,
+      "y": -303,
+      "parent": "#miax7b"
+    },
+    {
+      "@id": "#cbqhc6",
+      "name": "Common beliefs",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sct5p6",
+      "name": "A supreme creator, often seen as distant",
+      "x": -133,
+      "y": -360,
+      "parent": "#cbqhc6"
+    },
+    {
+      "@id": "#72a3pe",
+      "name": "Lesser deities and spirits active daily",
+      "x": 0,
+      "y": -408,
+      "parent": "#cbqhc6"
+    },
+    {
+      "@id": "#enuxm5",
+      "name": "Ancestors guide and protect the living",
+      "x": 175,
+      "y": -465,
+      "link": "https://en.wikipedia.org/wiki/Veneration_of_the_dead",
+      "parent": "#cbqhc6"
+    },
+    {
+      "@id": "#e8x8fk",
+      "name": "Harmony between people, nature and spirits",
+      "x": 243,
+      "y": -303,
+      "parent": "#cbqhc6"
+    },
+    {
+      "@id": "#wnqu8j",
+      "name": "Examples",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fnjade",
+      "name": "Yoruba religion and the Orishas",
+      "x": 340,
+      "y": -236,
+      "link": "https://en.wikipedia.org/wiki/Yoruba_religion",
+      "parent": "#wnqu8j"
+    },
+    {
+      "@id": "#c3ar3u",
+      "name": "Akan religion of Ghana",
+      "x": 409,
+      "y": -150,
+      "parent": "#wnqu8j"
+    },
+    {
+      "@id": "#t6htmp",
+      "name": "Zulu traditional religion",
+      "x": 445,
+      "y": -51,
+      "parent": "#wnqu8j"
+    },
+    {
+      "@id": "#c92xxy",
+      "name": "Odinani, the Igbo tradition",
+      "x": 445,
+      "y": 51,
+      "parent": "#wnqu8j"
+    },
+    {
+      "@id": "#we9mn7",
+      "name": "Practices",
+      "x": 151,
+      "y": 139,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gim2zk",
+      "name": "Ifá divination of the Yoruba",
+      "x": 409,
+      "y": 150,
+      "link": "https://en.wikipedia.org/wiki/If%C3%A1",
+      "parent": "#we9mn7"
+    },
+    {
+      "@id": "#hnij47",
+      "name": "Offerings and libations",
+      "x": 340,
+      "y": 236,
+      "parent": "#we9mn7"
+    },
+    {
+      "@id": "#gxdqym",
+      "name": "Music, drumming and masked dance",
+      "x": 243,
+      "y": 303,
+      "parent": "#we9mn7"
+    },
+    {
+      "@id": "#fmqtu8",
+      "name": "Rites of passage mark life stages",
+      "x": 133,
+      "y": 360,
+      "parent": "#we9mn7"
+    },
+    {
+      "@id": "#9k2cxy",
+      "name": "Religious specialists",
+      "x": -65,
+      "y": 177,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#53iyc2",
+      "name": "Diviners interpret the spirit world",
+      "x": 0,
+      "y": 408,
+      "parent": "#9k2cxy"
+    },
+    {
+      "@id": "#37isix",
+      "name": "Herbalists and traditional healers",
+      "x": -175,
+      "y": 465,
+      "parent": "#9k2cxy"
+    },
+    {
+      "@id": "#i7xf9q",
+      "name": "Priests serve shrines of deities",
+      "x": -243,
+      "y": 303,
+      "parent": "#9k2cxy"
+    },
+    {
+      "@id": "#fycg37",
+      "name": "In the Americas",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ri9uxn",
+      "name": "Vodou in Haiti",
+      "x": -340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/Haitian_Vodou",
+      "parent": "#fycg37"
+    },
+    {
+      "@id": "#fuepm6",
+      "name": "Santería in Cuba",
+      "x": -409,
+      "y": 150,
+      "parent": "#fycg37"
+    },
+    {
+      "@id": "#b7qqz5",
+      "name": "Candomblé in Brazil",
+      "x": -445,
+      "y": 51,
+      "parent": "#fycg37"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

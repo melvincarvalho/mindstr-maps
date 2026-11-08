@@ -1,0 +1,26 @@
+category: Geography
+aliases: sahara desert, the sahara, great desert of north africa
+- Sahara
+  - Where it is
+    - Spans North Africa, Atlantic to Red Sea
+    - About 9 million square kilometres
+    - Covers parts of about ten countries
+    - Sahel borders its southern edge
+  - Landscapes
+    - Mostly rocky plateaus and gravel plains
+    - [Sand seas called ergs](https://en.wikipedia.org/wiki/Erg_%28landform%29)
+    - Ahaggar and Tibesti mountain ranges
+    - Oases fed by groundwater
+  - Climate
+    - [Largest hot desert on Earth](https://en.wikipedia.org/wiki/Desert)
+    - Under 100 mm of rain a year
+    - Scorching days, cold nights
+  - Life in the desert
+    - Camels, fennec foxes and addax
+    - Date palms grow around oases
+    - Tuareg and other nomadic peoples
+  - History
+    - [Green Sahara had lakes and grassland](https://en.wikipedia.org/wiki/African_humid_period)
+    - Rock art shows cattle and giraffes
+    - Dried out about 5,000 years ago
+    - [Camel caravans carried gold and salt](https://en.wikipedia.org/wiki/Trans-Saharan_trade)

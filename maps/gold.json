@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Gold",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#2mvtdx",
+      "name": "The element",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6g3k3s",
+      "name": "Symbol Au, atomic number 79",
+      "x": -444,
+      "y": -56,
+      "parent": "#2mvtdx"
+    },
+    {
+      "@id": "#e2869z",
+      "name": "Does not rust or tarnish",
+      "x": -401,
+      "y": -163,
+      "parent": "#2mvtdx"
+    },
+    {
+      "@id": "#u3jzgb",
+      "name": "Most malleable metal: hammered to thin leaf",
+      "x": -318,
+      "y": -255,
+      "parent": "#2mvtdx"
+    },
+    {
+      "@id": "#7h5wrc",
+      "name": "Very dense: about 19 times water",
+      "x": -204,
+      "y": -321,
+      "parent": "#2mvtdx"
+    },
+    {
+      "@id": "#c3bxhq",
+      "name": "Where it comes from",
+      "x": 71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rbw865",
+      "name": "Forged in neutron star collisions and supernovae",
+      "x": -73,
+      "y": -372,
+      "link": "https://en.wikipedia.org/wiki/Nucleosynthesis",
+      "parent": "#c3bxhq"
+    },
+    {
+      "@id": "#68kbs3",
+      "name": "Found in veins and river gravels",
+      "x": 82,
+      "y": -420,
+      "parent": "#c3bxhq"
+    },
+    {
+      "@id": "#9w8kpj",
+      "name": "China, Australia and Russia mine the most",
+      "x": 204,
+      "y": -321,
+      "parent": "#c3bxhq"
+    },
+    {
+      "@id": "#jsx8z4",
+      "name": "All gold ever mined: about 210,000 tonnes",
+      "x": 318,
+      "y": -255,
+      "parent": "#c3bxhq"
+    },
+    {
+      "@id": "#6mc8ym",
+      "name": "Measuring purity",
+      "x": 227,
+      "y": -29,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v56z46",
+      "name": "24 karat is pure gold",
+      "x": 401,
+      "y": -163,
+      "link": "https://en.wikipedia.org/wiki/Fineness",
+      "parent": "#6mc8ym"
+    },
+    {
+      "@id": "#3cv9hp",
+      "name": "18 karat is 75% gold",
+      "x": 444,
+      "y": -56,
+      "parent": "#6mc8ym"
+    },
+    {
+      "@id": "#npt5yv",
+      "name": "Weighed in troy ounces of 31.1 grams",
+      "x": 444,
+      "y": 56,
+      "parent": "#6mc8ym"
+    },
+    {
+      "@id": "#ipeqzu",
+      "name": "Uses",
+      "x": 135,
+      "y": 149,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#34ah3c",
+      "name": "Jewellery takes about half of demand",
+      "x": 401,
+      "y": 163,
+      "parent": "#ipeqzu"
+    },
+    {
+      "@id": "#vqd9tu",
+      "name": "Reliable contacts in phones and computers",
+      "x": 318,
+      "y": 255,
+      "parent": "#ipeqzu"
+    },
+    {
+      "@id": "#k79yau",
+      "name": "Dental crowns and some medicines",
+      "x": 204,
+      "y": 321,
+      "parent": "#ipeqzu"
+    },
+    {
+      "@id": "#vihwps",
+      "name": "Spacecraft visors reflect infrared heat",
+      "x": 73,
+      "y": 372,
+      "parent": "#ipeqzu"
+    },
+    {
+      "@id": "#2czga3",
+      "name": "Gold and money",
+      "x": -104,
+      "y": 164,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tc3ab5",
+      "name": "Backed currencies under the gold standard",
+      "x": -82,
+      "y": 420,
+      "link": "https://en.wikipedia.org/wiki/Gold_standard",
+      "parent": "#2czga3"
+    },
+    {
+      "@id": "#r9khuj",
+      "name": "Central banks still hold large reserves",
+      "x": -204,
+      "y": 321,
+      "parent": "#2czga3"
+    },
+    {
+      "@id": "#tue5uh",
+      "name": "Seen as a safe haven in crises",
+      "x": -318,
+      "y": 255,
+      "parent": "#2czga3"
+    },
+    {
+      "@id": "#hsxkne",
+      "name": "Gold in history",
+      "x": -219,
+      "y": 57,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qi8bza",
+      "name": "Prized by ancient Egypt and the Incas",
+      "x": -401,
+      "y": 163,
+      "parent": "#hsxkne"
+    },
+    {
+      "@id": "#gq75eb",
+      "name": "Gold rushes in California and Australia",
+      "x": -524,
+      "y": 64,
+      "link": "https://en.wikipedia.org/wiki/California_gold_rush",
+      "parent": "#hsxkne"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

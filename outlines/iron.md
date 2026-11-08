@@ -1,0 +1,30 @@
+category: Science
+aliases: iron element, iron metal, element 26
+- Iron
+  - Basics
+    - Atomic number 26, symbol Fe
+    - From Latin ferrum
+    - Strong, grey, magnetic metal
+    - Rusts in damp air
+  - Where it's found
+    - Most of Earth's core
+    - Fourth most abundant in crust
+    - [Ores like haematite and magnetite](https://en.wikipedia.org/wiki/Iron_ore)
+    - Stars' fusion ends at iron
+  - Making iron and steel
+    - [Blast furnace reduces ore with coke](https://en.wikipedia.org/wiki/Blast_furnace)
+    - [Steel: iron with a little carbon](https://en.wikipedia.org/wiki/Steel)
+    - Stainless steel adds chromium
+    - Most-used metal by far
+  - History
+    - [Iron Age began about 1200 BC](https://en.wikipedia.org/wiki/Iron_Age)
+    - Bessemer process made cheap steel, 1850s
+    - Powered the Industrial Revolution
+  - Role in life
+    - [Haemoglobin carries oxygen in blood](https://en.wikipedia.org/wiki/Hemoglobin)
+    - Deficiency causes anaemia
+    - Found in red meat, beans, greens
+  - Uses
+    - Buildings, bridges and ships
+    - Cars, machines and tools
+    - Magnets and electric motors

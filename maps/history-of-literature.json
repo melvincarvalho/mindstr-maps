@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "History of literature",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#xe2aez",
+      "name": "Oral roots and first writing",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mcgbfm",
+      "name": "Myths and songs passed down by memory",
+      "x": -565,
+      "y": -63,
+      "parent": "#xe2aez"
+    },
+    {
+      "@id": "#ewcqay",
+      "name": "Epic of Gilgamesh, oldest great story",
+      "x": -409,
+      "y": -150,
+      "link": "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh",
+      "parent": "#xe2aez"
+    },
+    {
+      "@id": "#nhv5ga",
+      "name": "Writing invented in Mesopotamia, about 3200 BC",
+      "x": -340,
+      "y": -236,
+      "parent": "#xe2aez"
+    },
+    {
+      "@id": "#mfymkk",
+      "name": "Ancient classics",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e354br",
+      "name": "Homer's Iliad and Odyssey",
+      "x": -243,
+      "y": -303,
+      "parent": "#mfymkk"
+    },
+    {
+      "@id": "#xsw6dh",
+      "name": "Greek tragedy: Aeschylus, Sophocles, Euripides",
+      "x": -133,
+      "y": -360,
+      "parent": "#mfymkk"
+    },
+    {
+      "@id": "#uikydf",
+      "name": "India's Mahabharata and Ramayana",
+      "x": 0,
+      "y": -408,
+      "parent": "#mfymkk"
+    },
+    {
+      "@id": "#ub6ccj",
+      "name": "Chinese Book of Songs and Confucian texts",
+      "x": 175,
+      "y": -465,
+      "parent": "#mfymkk"
+    },
+    {
+      "@id": "#6qg5ac",
+      "name": "Virgil's Aeneid and Ovid in Rome",
+      "x": 243,
+      "y": -303,
+      "parent": "#mfymkk"
+    },
+    {
+      "@id": "#jcihdz",
+      "name": "Medieval literature",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c23q46",
+      "name": "The Tale of Genji, about 1010",
+      "x": 340,
+      "y": -236,
+      "link": "https://en.wikipedia.org/wiki/The_Tale_of_Genji",
+      "parent": "#jcihdz"
+    },
+    {
+      "@id": "#kym44i",
+      "name": "One Thousand and One Nights",
+      "x": 409,
+      "y": -150,
+      "parent": "#jcihdz"
+    },
+    {
+      "@id": "#trriyr",
+      "name": "Dante's Divine Comedy",
+      "x": 465,
+      "y": -53,
+      "parent": "#jcihdz"
+    },
+    {
+      "@id": "#aff5ab",
+      "name": "Chaucer's Canterbury Tales",
+      "x": 445,
+      "y": 51,
+      "parent": "#jcihdz"
+    },
+    {
+      "@id": "#sbystq",
+      "name": "Printing and the Renaissance",
+      "x": 174,
+      "y": 120,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qq2b79",
+      "name": "Gutenberg's press made books cheaper",
+      "x": 463,
+      "y": 171,
+      "parent": "#sbystq"
+    },
+    {
+      "@id": "#87uncf",
+      "name": "Shakespeare's plays and sonnets",
+      "x": 340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/William_Shakespeare",
+      "parent": "#sbystq"
+    },
+    {
+      "@id": "#dit95e",
+      "name": "Cervantes' Don Quixote, an early novel",
+      "x": 243,
+      "y": 303,
+      "parent": "#sbystq"
+    },
+    {
+      "@id": "#ztihsp",
+      "name": "Rise of the novel",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#knrpt8",
+      "name": "Realist novels of Austen, Dickens, Tolstoy",
+      "x": 133,
+      "y": 360,
+      "parent": "#ztihsp"
+    },
+    {
+      "@id": "#282f7w",
+      "name": "Romantic poetry celebrated feeling and nature",
+      "x": 0,
+      "y": 408,
+      "parent": "#ztihsp"
+    },
+    {
+      "@id": "#dspwv3",
+      "name": "Serialised fiction for a growing readership",
+      "x": -175,
+      "y": 465,
+      "parent": "#ztihsp"
+    },
+    {
+      "@id": "#q9dwjr",
+      "name": "Modern and global literature",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gwetn4",
+      "name": "Modernism: Joyce, Woolf, Kafka",
+      "x": -243,
+      "y": 303,
+      "link": "https://en.wikipedia.org/wiki/Modernist_literature",
+      "parent": "#q9dwjr"
+    },
+    {
+      "@id": "#37hynb",
+      "name": "Magical realism of García Márquez",
+      "x": -340,
+      "y": 236,
+      "parent": "#q9dwjr"
+    },
+    {
+      "@id": "#kw37gz",
+      "name": "Postcolonial voices like Chinua Achebe",
+      "x": -409,
+      "y": 150,
+      "parent": "#q9dwjr"
+    },
+    {
+      "@id": "#499jy2",
+      "name": "Nobel Prize in Literature since 1901",
+      "x": -445,
+      "y": 51,
+      "parent": "#q9dwjr"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,34 @@
+category: Geography
+aliases: türkiye, republic of turkey
+- Turkey
+  - Geography
+    - Spans Europe (Thrace) and Asia (Anatolia)
+    - About 780,000 km²
+    - [Bosporus links Black Sea and Marmara](https://en.wikipedia.org/wiki/Bosporus)
+    - Ankara capital; Istanbul largest city
+    - Earthquake-prone; 2023 quake killed over 50,000
+  - People and languages
+    - About 85 million people
+    - Turkish is the official language
+    - Kurds are the largest minority
+    - Mostly Sunni Muslim, officially secular state
+  - History in brief
+    - Hittites, Greeks and Romans ruled Anatolia
+    - [Ottomans took Constantinople in 1453](https://en.wikipedia.org/wiki/Fall_of_Constantinople)
+    - Ottoman Empire collapsed after World War I
+    - [Atatürk founded the republic, 1923](https://en.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk)
+  - Government
+    - Presidential republic since 2018 reforms
+    - 600-seat Grand National Assembly
+    - NATO member since 1952; EU candidate
+    - PKK announced its dissolution in 2025
+  - Economy
+    - Currency is the Turkish lira
+    - High inflation through the 2020s
+    - Textiles, cars, steel and farming
+    - Major tourist destination
+    - Customs union with the EU
+  - Culture
+    - [Hagia Sophia, church then mosque](https://en.wikipedia.org/wiki/Hagia_Sophia)
+    - Tea, Turkish coffee and baklava
+    - Whirling dervishes of the Mevlevi order

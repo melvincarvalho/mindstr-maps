@@ -1,0 +1,31 @@
+category: Technology
+aliases: methane gas, fossil gas, gas power, natural gas energy
+- Natural gas
+  - What it is
+    - Mostly methane, a simple hydrocarbon
+    - Formed from buried marine organisms
+    - Trapped in porous rock under impermeable caps
+    - Odourant added so leaks can be smelled
+  - Getting it out
+    - Drilled wells, often alongside oil
+    - [Fracking unlocks gas trapped in shale](https://en.wikipedia.org/wiki/Hydraulic_fracturing)
+    - Piped across continents in pipelines
+    - [Shipped as chilled liquid, LNG](https://en.wikipedia.org/wiki/Liquefied_natural_gas)
+  - How it is used
+    - [Gas turbines and combined-cycle power plants](https://en.wikipedia.org/wiki/Combined_cycle_power_plant)
+    - Home heating and cooking
+    - Feedstock for fertiliser via ammonia
+    - Industrial heat and chemicals
+  - Share of world energy
+    - About a quarter of primary energy
+    - About a fifth of world electricity
+    - Top producers: US, Russia, Iran
+  - Pros
+    - Roughly half coal's CO₂ per kWh
+    - Little soot, sulphur or ash
+    - Plants ramp quickly to balance renewables
+  - Cons
+    - Still a fossil fuel emitting CO₂
+    - [Leaked methane is a potent greenhouse gas](https://en.wikipedia.org/wiki/Methane_emissions)
+    - Price spikes and supply politics
+    - Fracking raises water and quake concerns

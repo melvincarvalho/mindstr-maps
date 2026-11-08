@@ -1,0 +1,363 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Iran",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#5z8hx5",
+      "name": "Geography",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z442q6",
+      "name": "West Asia, about 1.6 million km²",
+      "x": -446,
+      "y": -47,
+      "parent": "#5z8hx5"
+    },
+    {
+      "@id": "#25jqxs",
+      "name": "Caspian Sea north, Persian Gulf south",
+      "x": -434,
+      "y": -144,
+      "parent": "#5z8hx5"
+    },
+    {
+      "@id": "#sc2xh6",
+      "name": "Zagros and Alborz mountains ring a plateau",
+      "x": -357,
+      "y": -219,
+      "parent": "#5z8hx5"
+    },
+    {
+      "@id": "#yydm7x",
+      "name": "Capital Tehran, about 9 million people",
+      "x": -274,
+      "y": -286,
+      "link": "https://en.wikipedia.org/wiki/Tehran",
+      "parent": "#5z8hx5"
+    },
+    {
+      "@id": "#4ccj8r",
+      "name": "People and languages",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zhfyik",
+      "name": "About 90 million people",
+      "x": -180,
+      "y": -348,
+      "parent": "#4ccj8r"
+    },
+    {
+      "@id": "#tgjknd",
+      "name": "Persian (Farsi) is the official language",
+      "x": -68,
+      "y": -405,
+      "parent": "#4ccj8r"
+    },
+    {
+      "@id": "#82ccu7",
+      "name": "Azerbaijani, Kurdish, Lur, Arab, Baluch minorities",
+      "x": 77,
+      "y": -453,
+      "parent": "#4ccj8r"
+    },
+    {
+      "@id": "#53g4n3",
+      "name": "Mostly Shia Muslim",
+      "x": 172,
+      "y": -333,
+      "parent": "#4ccj8r"
+    },
+    {
+      "@id": "#9n9jtz",
+      "name": "History in brief",
+      "x": 212,
+      "y": -70,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kjwr7t",
+      "name": "Achaemenid Empire founded about 550 BC",
+      "x": 370,
+      "y": -390,
+      "link": "https://en.wikipedia.org/wiki/Achaemenid_Empire",
+      "parent": "#9n9jtz"
+    },
+    {
+      "@id": "#uuy35m",
+      "name": "Arab conquest brought Islam, 7th century",
+      "x": 357,
+      "y": -219,
+      "parent": "#9n9jtz"
+    },
+    {
+      "@id": "#stqxrt",
+      "name": "Safavids made Shia Islam official, 1501",
+      "x": 416,
+      "y": -138,
+      "parent": "#9n9jtz"
+    },
+    {
+      "@id": "#srheh6",
+      "name": "1979 revolution ended the monarchy",
+      "x": 506,
+      "y": -53,
+      "link": "https://en.wikipedia.org/wiki/Iranian_Revolution",
+      "parent": "#9n9jtz"
+    },
+    {
+      "@id": "#ayszj6",
+      "name": "Iran–Iraq War, 1980 to 1988",
+      "x": 446,
+      "y": 47,
+      "parent": "#9n9jtz"
+    },
+    {
+      "@id": "#38t28q",
+      "name": "Government",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dtvrzn",
+      "name": "Islamic republic led by a Supreme Leader",
+      "x": 452,
+      "y": 150,
+      "parent": "#38t28q"
+    },
+    {
+      "@id": "#9rh4h7",
+      "name": "Elected president and parliament (Majlis)",
+      "x": 357,
+      "y": 219,
+      "parent": "#38t28q"
+    },
+    {
+      "@id": "#3jzzam",
+      "name": "Guardian Council vets candidates and laws",
+      "x": 274,
+      "y": 286,
+      "parent": "#38t28q"
+    },
+    {
+      "@id": "#ux7ez9",
+      "name": "Nuclear programme disputed; under international sanctions",
+      "x": 180,
+      "y": 348,
+      "parent": "#38t28q"
+    },
+    {
+      "@id": "#mctf4i",
+      "name": "Economy",
+      "x": -30,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cwf5am",
+      "name": "Among the largest oil and gas reserves",
+      "x": 68,
+      "y": 405,
+      "parent": "#mctf4i"
+    },
+    {
+      "@id": "#rptxwp",
+      "name": "Sanctions limit trade and investment",
+      "x": -77,
+      "y": 453,
+      "parent": "#mctf4i"
+    },
+    {
+      "@id": "#axjktm",
+      "name": "Petrochemicals, steel, cars and farming",
+      "x": -268,
+      "y": 513,
+      "parent": "#mctf4i"
+    },
+    {
+      "@id": "#hyarn3",
+      "name": "Culture",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3rjbw5",
+      "name": "Persian poets Ferdowsi, Rumi and Hafez",
+      "x": -274,
+      "y": 286,
+      "link": "https://en.wikipedia.org/wiki/Persian_literature",
+      "parent": "#hyarn3"
+    },
+    {
+      "@id": "#7e9tgc",
+      "name": "Nowruz new year at spring equinox",
+      "x": -357,
+      "y": 219,
+      "parent": "#hyarn3"
+    },
+    {
+      "@id": "#hrmy6c",
+      "name": "Persian carpets and miniature painting",
+      "x": -434,
+      "y": 144,
+      "parent": "#hyarn3"
+    },
+    {
+      "@id": "#pdx4zi",
+      "name": "Ruins of Persepolis, ancient royal capital",
+      "x": -486,
+      "y": 51,
+      "parent": "#hyarn3"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 11,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    },
+    {
+      "start": 26,
+      "end": 29
+    },
+    {
+      "start": 26,
+      "end": 30
+    }
+  ],
+  "selectedNode": 0
+}

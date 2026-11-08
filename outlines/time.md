@@ -1,0 +1,30 @@
+category: Science
+aliases: what is time, nature of time, time in physics
+- Time
+  - What time is
+    - The ordering of events, past to future
+    - A fourth dimension alongside space
+    - [Arrow of time follows rising entropy](https://en.wikipedia.org/wiki/Arrow_of_time)
+  - Measuring time
+    - [Second defined by caesium atom vibrations](https://en.wikipedia.org/wiki/Second)
+    - Atomic clocks are the most precise
+    - Days, months, years from sky cycles
+    - Huygens built the pendulum clock, 1656
+  - Timekeeping on Earth
+    - About 24 time zones around the globe
+    - [UTC is the world reference time](https://en.wikipedia.org/wiki/Coordinated_Universal_Time)
+    - Leap seconds match clocks to Earth's spin
+  - Time in physics
+    - Newton: absolute time, same everywhere
+    - Einstein: time is relative
+    - [Moving clocks tick slower](https://en.wikipedia.org/wiki/Time_dilation)
+    - Strong gravity slows clocks too
+    - GPS satellites correct for both effects
+  - Deep time
+    - Universe about 13.8 billion years old
+    - Earth about 4.5 billion years old
+    - [Geologic time scale divides Earth's past](https://en.wikipedia.org/wiki/Geologic_time_scale)
+  - Human experience of time
+    - Body clock follows a daily rhythm
+    - Time seems to speed up with age
+    - Calendars organise shared time

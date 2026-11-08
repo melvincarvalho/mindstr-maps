@@ -1,0 +1,31 @@
+category: Geography
+aliases: indian subcontinent, south asian countries, the subcontinent
+- South Asia
+  - Countries
+    - India, Pakistan and Bangladesh
+    - Nepal, Bhutan and Sri Lanka
+    - Afghanistan and the Maldives
+  - Land and climate
+    - Himalayas wall off the north
+    - [Indus, Ganges and Brahmaputra rivers](https://en.wikipedia.org/wiki/Ganges)
+    - Thar Desert and Deccan Plateau
+    - [Monsoon brings most yearly rain](https://en.wikipedia.org/wiki/Monsoon_of_South_Asia)
+  - Peoples and languages
+    - About 2 billion people, a quarter worldwide
+    - Indo-Aryan languages: Hindi, Bengali, Urdu
+    - Dravidian languages: Tamil, Telugu, Kannada
+    - English widely used in government
+  - History in brief
+    - [Indus Valley Civilisation, about 2500 BC](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation)
+    - Maurya and Mughal empires
+    - British rule until 1947
+    - [Partition created India and Pakistan](https://en.wikipedia.org/wiki/Partition_of_India)
+    - Bangladesh independent in 1971
+  - Economy
+    - India among the largest economies
+    - IT services and outsourcing boom
+    - Textiles, rice and tea exports
+  - Culture and religion
+    - Hinduism, Buddhism, Sikhism, Jainism born here
+    - Large Muslim populations across the region
+    - Cricket, Bollywood and curry

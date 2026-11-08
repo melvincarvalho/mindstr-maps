@@ -1,0 +1,30 @@
+category: Mathematics
+aliases: trig, sohcahtoa, sine cosine tangent
+- Trigonometry
+  - The big idea
+    - Links a triangle's angles to its sides
+    - Same angles give same side ratios
+    - Lets you measure what you can't reach
+  - Sine, cosine and tangent
+    - Sine is opposite over hypotenuse
+    - Cosine is adjacent over hypotenuse
+    - Tangent is opposite over adjacent
+    - Memory aid: SOH CAH TOA
+  - The unit circle
+    - [Circle of radius one at the origin](https://en.wikipedia.org/wiki/Unit_circle)
+    - Cosine and sine give the point's position
+    - Extends trig to any angle
+    - Sine squared plus cosine squared equals one
+  - Any triangle
+    - [Law of sines relates sides and angles](https://en.wikipedia.org/wiki/Law_of_sines)
+    - [Law of cosines generalises Pythagoras](https://en.wikipedia.org/wiki/Law_of_cosines)
+    - Area is half ab times sin C
+  - Waves and cycles
+    - Sine curve repeats every 360°
+    - Models sound, light and tides
+    - [Fourier: any signal as summed waves](https://en.wikipedia.org/wiki/Fourier_series)
+  - History and uses
+    - Greek astronomers built chord tables
+    - Indian mathematicians defined the sine
+    - Surveying, navigation and GPS
+    - Engineering, music and computer graphics

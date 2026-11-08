@@ -1,0 +1,29 @@
+category: Life and home
+aliases: baby, newborn, babies, caring for a newborn
+- Infant
+  - Who counts as an infant
+    - A child up to about 12 months
+    - [Newborn: first four weeks](https://en.wikipedia.org/wiki/Infant)
+    - Premature if born before 37 weeks
+  - Feeding
+    - [Breast milk or infant formula](https://en.wikipedia.org/wiki/Breastfeeding)
+    - Feed on demand, often 8–12 times daily
+    - Solid foods start around six months
+  - Sleep
+    - Newborns sleep about 14–17 hours daily
+    - [Place on back to reduce SIDS](https://en.wikipedia.org/wiki/Sudden_infant_death_syndrome)
+    - Firm flat mattress, nothing loose in cot
+  - Development milestones
+    - Social smiles around six weeks
+    - Rolling over around four to six months
+    - Sitting up around six months
+    - Crawling, then first words near one
+  - Health and care
+    - Routine check-ups and vaccinations
+    - [Skin-to-skin contact helps bonding](https://en.wikipedia.org/wiki/Kangaroo_care)
+    - Seek help for fever in young babies
+    - Rear-facing car seat for travel
+  - Caregivers matter too
+    - Responsive comforting builds secure attachment
+    - Rest and accept help when offered
+    - [Postnatal depression is common and treatable](https://en.wikipedia.org/wiki/Postpartum_depression)

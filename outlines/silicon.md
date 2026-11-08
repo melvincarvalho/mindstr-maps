@@ -1,0 +1,30 @@
+category: Science
+aliases: silicon element, element 14
+- Silicon
+  - Basics
+    - Atomic number 14, symbol Si
+    - Grey, shiny, brittle metalloid
+    - Isolated by Berzelius in 1824
+  - Where it's found
+    - Second most abundant in Earth's crust
+    - Never free; bound to oxygen
+    - [Quartz and sand are silica](https://en.wikipedia.org/wiki/Silicon_dioxide)
+    - [Silicate minerals make most rocks](https://en.wikipedia.org/wiki/Silicate_mineral)
+  - [A semiconductor](https://en.wikipedia.org/wiki/Semiconductor)
+    - Conducts better than insulators, worse than metals
+    - Doping tunes its conductivity
+    - Purified to 99.9999999% for chips
+  - Electronics
+    - [Transistors and integrated circuits](https://en.wikipedia.org/wiki/Integrated_circuit)
+    - Billions of transistors per chip
+    - Most solar cells are silicon
+    - Gave Silicon Valley its name
+  - Building and materials
+    - Glass is mostly melted sand
+    - Concrete and cement contain silicates
+    - Silicones for sealants and implants
+    - Alloyed into aluminium and steel
+  - Role in life
+    - Diatoms build glassy shells
+    - Grasses stiffen with silica
+    - Breathing fine silica dust harms lungs

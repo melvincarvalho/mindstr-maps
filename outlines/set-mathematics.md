@@ -1,0 +1,28 @@
+category: Mathematics
+aliases: set theory basics, sets in maths, what is a set
+- Set (mathematics)
+  - A collection of distinct objects
+    - Order does not matter
+    - Repeats count only once
+    - The vowels a, e, i, o, u
+  - Describing a set
+    - List members inside curly brackets
+    - Give a rule: all even numbers
+    - [Empty set has no members](https://en.wikipedia.org/wiki/Empty_set)
+  - Combining sets
+    - [Union: in either set](https://en.wikipedia.org/wiki/Union_%28set_theory%29)
+    - [Intersection: in both sets](https://en.wikipedia.org/wiki/Intersection_%28set_theory%29)
+    - Difference: in one, not other
+    - Complement: everything outside the set
+  - Relationships
+    - Subset: every member is shared
+    - Disjoint sets share nothing
+    - [Venn diagrams picture overlaps](https://en.wikipedia.org/wiki/Venn_diagram)
+  - Size and infinity
+    - Finite sets can be counted
+    - Natural numbers form an infinite set
+    - Real numbers are a bigger infinity
+  - History and foundations
+    - [Georg Cantor founded set theory, 1870s](https://en.wikipedia.org/wiki/Georg_Cantor)
+    - Russell's paradox exposed a flaw
+    - Axioms now underpin most of maths

@@ -1,0 +1,32 @@
+category: People
+aliases: marcus tullius cicero, cicero orator, cicero roman
+- Cicero
+  - Who he was
+    - Marcus Tullius Cicero, 106–43 BC
+    - Born in Arpinum, outside Rome's elite
+    - Lawyer, politician, orator and philosopher
+  - Political career
+    - "New man" who reached the consulship
+    - Consul in 63 BC
+    - [Crushed the Catilinarian conspiracy](https://en.wikipedia.org/wiki/Catilinarian_conspiracy)
+    - Exiled 58–57 BC, then recalled
+    - Defended the Republic against strongmen
+  - Downfall
+    - Stayed out of Caesar's assassination plot
+    - [Attacked Mark Antony in the Philippics](https://en.wikipedia.org/wiki/Philippicae)
+    - Proscribed by the Second Triumvirate
+    - Killed 43 BC; head and hands displayed
+  - Writings
+    - Speeches, e.g. Against Verres, Against Catiline
+    - [On Duties, a guide to ethics](https://en.wikipedia.org/wiki/De_Officiis)
+    - On the Republic and On Laws
+    - Over 800 letters survive
+  - Ideas
+    - Natural law binding on all people
+    - Mixed constitution as best government
+    - Rhetoric joined with philosophy
+    - Brought Greek philosophy into Latin
+  - Legacy
+    - Model for classical Latin prose
+    - Petrarch rediscovered his letters, 1345
+    - Influenced Locke and America's founders

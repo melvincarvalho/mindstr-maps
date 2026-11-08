@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Education",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#8f4w3c",
+      "name": "Why it matters",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vjuenb",
+      "name": "Literacy and numeracy for daily life",
+      "x": -445,
+      "y": -54,
+      "parent": "#8f4w3c"
+    },
+    {
+      "@id": "#zsvpxj",
+      "name": "Better jobs and higher earnings",
+      "x": -405,
+      "y": -156,
+      "parent": "#8f4w3c"
+    },
+    {
+      "@id": "#v8k3ae",
+      "name": "Healthier families and active citizens",
+      "x": -330,
+      "y": -245,
+      "parent": "#8f4w3c"
+    },
+    {
+      "@id": "#7drd8a",
+      "name": "A human right since 1948",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Right_to_education",
+      "parent": "#8f4w3c"
+    },
+    {
+      "@id": "#472wqh",
+      "name": "Stages",
+      "x": 51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t8kbij",
+      "name": "Early childhood education",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Early_childhood_education",
+      "parent": "#472wqh"
+    },
+    {
+      "@id": "#qzy3jj",
+      "name": "Primary and secondary school",
+      "x": 42,
+      "y": -423,
+      "parent": "#472wqh"
+    },
+    {
+      "@id": "#4j6ztt",
+      "name": "Higher education and vocational training",
+      "x": 234,
+      "y": -485,
+      "parent": "#472wqh"
+    },
+    {
+      "@id": "#ujqrc7",
+      "name": "Lifelong learning for adults",
+      "x": 281,
+      "y": -281,
+      "parent": "#472wqh"
+    },
+    {
+      "@id": "#aa4bj2",
+      "name": "How people learn",
+      "x": 220,
+      "y": -54,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yta4sk",
+      "name": "Practice with feedback builds skill",
+      "x": 372,
+      "y": -203,
+      "parent": "#aa4bj2"
+    },
+    {
+      "@id": "#gjx96f",
+      "name": "Spacing study out beats cramming",
+      "x": 430,
+      "y": -106,
+      "link": "https://en.wikipedia.org/wiki/Spaced_repetition",
+      "parent": "#aa4bj2"
+    },
+    {
+      "@id": "#ukrqen",
+      "name": "Learning by doing and discussion",
+      "x": 450,
+      "y": 0,
+      "parent": "#aa4bj2"
+    },
+    {
+      "@id": "#u8egw2",
+      "name": "Ways to teach",
+      "x": 169,
+      "y": 125,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uduqt7",
+      "name": "Teacher-led direct instruction",
+      "x": 430,
+      "y": 106,
+      "parent": "#u8egw2"
+    },
+    {
+      "@id": "#w78jnn",
+      "name": "Project and inquiry-based learning",
+      "x": 372,
+      "y": 203,
+      "parent": "#u8egw2"
+    },
+    {
+      "@id": "#nnbmr3",
+      "name": "Online and distance education",
+      "x": 281,
+      "y": 281,
+      "parent": "#u8egw2"
+    },
+    {
+      "@id": "#56bdjx",
+      "name": "Montessori and other alternative methods",
+      "x": 164,
+      "y": 335,
+      "link": "https://en.wikipedia.org/wiki/Montessori_education",
+      "parent": "#u8egw2"
+    },
+    {
+      "@id": "#vk7j9b",
+      "name": "The global picture",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5793w8",
+      "name": "Most children now enrol in primary school",
+      "x": 38,
+      "y": 391,
+      "parent": "#vk7j9b"
+    },
+    {
+      "@id": "#ba46hh",
+      "name": "About 250 million children out of school",
+      "x": -124,
+      "y": 447,
+      "parent": "#vk7j9b"
+    },
+    {
+      "@id": "#da8bc7",
+      "name": "Adult literacy about 87% worldwide",
+      "x": -225,
+      "y": 312,
+      "parent": "#vk7j9b"
+    },
+    {
+      "@id": "#p3dtsp",
+      "name": "Debates",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wc5w7h",
+      "name": "Testing versus broader goals",
+      "x": -330,
+      "y": 245,
+      "parent": "#p3dtsp"
+    },
+    {
+      "@id": "#nnc4yc",
+      "name": "Cost and access to university",
+      "x": -405,
+      "y": 156,
+      "parent": "#p3dtsp"
+    },
+    {
+      "@id": "#km3g83",
+      "name": "Technology and AI in classrooms",
+      "x": -445,
+      "y": 54,
+      "parent": "#p3dtsp"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,340 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Pop music",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#iweihn",
+      "name": "What pop is",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6ug7zh",
+      "name": "Commercial music aimed at wide audiences",
+      "x": -505,
+      "y": -57,
+      "parent": "#iweihn"
+    },
+    {
+      "@id": "#7insgn",
+      "name": "Emerged in the 1950s",
+      "x": -409,
+      "y": -150,
+      "parent": "#iweihn"
+    },
+    {
+      "@id": "#g2k2e4",
+      "name": "Borrows from rock, R&B and dance",
+      "x": -340,
+      "y": -236,
+      "parent": "#iweihn"
+    },
+    {
+      "@id": "#5i6fd3",
+      "name": "The pop song",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qnpxvt",
+      "name": "Verse, pre-chorus, chorus structure",
+      "x": -243,
+      "y": -303,
+      "parent": "#5i6fd3"
+    },
+    {
+      "@id": "#nj95bf",
+      "name": "Catchy hook repeated often",
+      "x": -133,
+      "y": -360,
+      "parent": "#5i6fd3"
+    },
+    {
+      "@id": "#6t5m8h",
+      "name": "Usually three to four minutes",
+      "x": 0,
+      "y": -408,
+      "parent": "#5i6fd3"
+    },
+    {
+      "@id": "#769vgj",
+      "name": "Love and relationships dominate lyrics",
+      "x": 175,
+      "y": -465,
+      "parent": "#5i6fd3"
+    },
+    {
+      "@id": "#5y56vw",
+      "name": "Key eras",
+      "x": 209,
+      "y": -76,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8krdbr",
+      "name": "Tin Pan Alley songwriting factories",
+      "x": 243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Tin_Pan_Alley",
+      "parent": "#5y56vw"
+    },
+    {
+      "@id": "#fg32b7",
+      "name": "Beatles and the 1960s British Invasion",
+      "x": 340,
+      "y": -236,
+      "parent": "#5y56vw"
+    },
+    {
+      "@id": "#mhmdrk",
+      "name": "Motown hit-making in Detroit",
+      "x": 409,
+      "y": -150,
+      "link": "https://en.wikipedia.org/wiki/Motown",
+      "parent": "#5y56vw"
+    },
+    {
+      "@id": "#qrg5z3",
+      "name": "1980s MTV and music videos",
+      "x": 445,
+      "y": -51,
+      "parent": "#5y56vw"
+    },
+    {
+      "@id": "#queatp",
+      "name": "Streaming era from the 2010s",
+      "x": 445,
+      "y": 51,
+      "parent": "#5y56vw"
+    },
+    {
+      "@id": "#j2znas",
+      "name": "Landmark artists",
+      "x": 151,
+      "y": 139,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7ap4ei",
+      "name": "Michael Jackson, the King of Pop",
+      "x": 427,
+      "y": 157,
+      "parent": "#j2znas"
+    },
+    {
+      "@id": "#s9ew3r",
+      "name": "Madonna and reinvention",
+      "x": 340,
+      "y": 236,
+      "parent": "#j2znas"
+    },
+    {
+      "@id": "#88eupf",
+      "name": "Taylor Swift and Beyoncé",
+      "x": 243,
+      "y": 303,
+      "parent": "#j2znas"
+    },
+    {
+      "@id": "#7i9h4c",
+      "name": "K-pop groups like BTS",
+      "x": 133,
+      "y": 360,
+      "parent": "#j2znas"
+    },
+    {
+      "@id": "#28d4pm",
+      "name": "How it's made",
+      "x": -65,
+      "y": 177,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#f6jv2y",
+      "name": "Songwriters and producers write hits",
+      "x": 0,
+      "y": 408,
+      "parent": "#28d4pm"
+    },
+    {
+      "@id": "#2rz6cf",
+      "name": "Studio production and Auto-Tune",
+      "x": -175,
+      "y": 465,
+      "parent": "#28d4pm"
+    },
+    {
+      "@id": "#aj4yi6",
+      "name": "Record labels market the artists",
+      "x": -243,
+      "y": 303,
+      "parent": "#28d4pm"
+    },
+    {
+      "@id": "#baf9zd",
+      "name": "Measuring success",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mtqjz5",
+      "name": "Billboard Hot 100 since 1958",
+      "x": -340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/Billboard_Hot_100",
+      "parent": "#baf9zd"
+    },
+    {
+      "@id": "#32sue3",
+      "name": "Streams now count toward charts",
+      "x": -409,
+      "y": 150,
+      "parent": "#baf9zd"
+    },
+    {
+      "@id": "#murm9c",
+      "name": "Viral moments on social media",
+      "x": -485,
+      "y": 55,
+      "parent": "#baf9zd"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 10,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

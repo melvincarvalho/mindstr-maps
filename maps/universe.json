@@ -1,0 +1,309 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Universe",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#37x25a",
+      "name": "What it contains",
+      "x": -182,
+      "y": -113,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jsqnt5",
+      "name": "All space, time, matter and energy",
+      "x": -444,
+      "y": -59,
+      "parent": "#37x25a"
+    },
+    {
+      "@id": "#d2digd",
+      "name": "At least hundreds of billions of galaxies",
+      "x": -396,
+      "y": -171,
+      "parent": "#37x25a"
+    },
+    {
+      "@id": "#ermzhr",
+      "name": "Galaxies form a web of filaments",
+      "x": -305,
+      "y": -265,
+      "parent": "#37x25a"
+    },
+    {
+      "@id": "#3en2hn",
+      "name": "Huge empty voids between filaments",
+      "x": -181,
+      "y": -330,
+      "parent": "#37x25a"
+    },
+    {
+      "@id": "#vp5kgf",
+      "name": "The beginning",
+      "x": 56,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#f42uye",
+      "name": "Big Bang about 13.8 billion years ago",
+      "x": -41,
+      "y": -391,
+      "link": "https://en.wikipedia.org/wiki/Big_Bang",
+      "parent": "#vp5kgf"
+    },
+    {
+      "@id": "#zmaqtd",
+      "name": "First atoms formed after 380,000 years",
+      "x": 140,
+      "y": -445,
+      "parent": "#vp5kgf"
+    },
+    {
+      "@id": "#yidbc7",
+      "name": "First stars within half a billion years",
+      "x": 246,
+      "y": -301,
+      "parent": "#vp5kgf"
+    },
+    {
+      "@id": "#2vgeng",
+      "name": "Size and shape",
+      "x": 218,
+      "y": -60,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h89nfa",
+      "name": "Observable universe about 93 billion light-years wide",
+      "x": 371,
+      "y": -231,
+      "link": "https://en.wikipedia.org/wiki/Observable_universe",
+      "parent": "#2vgeng"
+    },
+    {
+      "@id": "#tdbuah",
+      "name": "Space looks flat on large scales",
+      "x": 426,
+      "y": -117,
+      "parent": "#2vgeng"
+    },
+    {
+      "@id": "#ciyn66",
+      "name": "The whole may be infinite",
+      "x": 450,
+      "y": 0,
+      "parent": "#2vgeng"
+    },
+    {
+      "@id": "#y24tvq",
+      "name": "What it's made of",
+      "x": 182,
+      "y": 113,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2ahvnk",
+      "name": "Ordinary matter about 5%",
+      "x": 426,
+      "y": 117,
+      "parent": "#y24tvq"
+    },
+    {
+      "@id": "#wkgz6f",
+      "name": "Dark matter about 27%",
+      "x": 355,
+      "y": 221,
+      "link": "https://en.wikipedia.org/wiki/Dark_matter",
+      "parent": "#y24tvq"
+    },
+    {
+      "@id": "#ci4bvk",
+      "name": "Dark energy about 68%",
+      "x": 246,
+      "y": 301,
+      "link": "https://en.wikipedia.org/wiki/Dark_energy",
+      "parent": "#y24tvq"
+    },
+    {
+      "@id": "#zqv82m",
+      "name": "Expansion",
+      "x": -19,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#839pbe",
+      "name": "Galaxies move apart as space stretches",
+      "x": 110,
+      "y": 349,
+      "parent": "#zqv82m"
+    },
+    {
+      "@id": "#adn9a6",
+      "name": "Hubble's law links distance and speed",
+      "x": -43,
+      "y": 407,
+      "parent": "#zqv82m"
+    },
+    {
+      "@id": "#b52erv",
+      "name": "Expansion is accelerating, found 1998",
+      "x": -253,
+      "y": 465,
+      "parent": "#zqv82m"
+    },
+    {
+      "@id": "#dc2mmm",
+      "name": "Possible futures",
+      "x": -202,
+      "y": 88,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ytpaz5",
+      "name": "Most likely: slow cooling to heat death",
+      "x": -305,
+      "y": 265,
+      "link": "https://en.wikipedia.org/wiki/Heat_death_of_the_universe",
+      "parent": "#dc2mmm"
+    },
+    {
+      "@id": "#txnbz7",
+      "name": "Star formation ends in trillions of years",
+      "x": -396,
+      "y": 171,
+      "parent": "#dc2mmm"
+    },
+    {
+      "@id": "#t3zmae",
+      "name": "Big Crunch or Big Rip less favoured",
+      "x": -484,
+      "y": 65,
+      "parent": "#dc2mmm"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

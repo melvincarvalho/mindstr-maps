@@ -1,0 +1,316 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Swahili",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#58pqyk",
+      "name": "Where it is spoken",
+      "x": -169,
+      "y": -125,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zngxjg",
+      "name": "East Africa: Tanzania and Kenya at core",
+      "x": -445,
+      "y": -54,
+      "parent": "#58pqyk"
+    },
+    {
+      "@id": "#kw5m9w",
+      "name": "Also Uganda, DR Congo, Rwanda, Burundi",
+      "x": -459,
+      "y": -177,
+      "parent": "#58pqyk"
+    },
+    {
+      "@id": "#2z2u3n",
+      "name": "Official language of the African Union",
+      "x": -330,
+      "y": -245,
+      "parent": "#58pqyk"
+    },
+    {
+      "@id": "#yqsjux",
+      "name": "Most speakers learn it as second language",
+      "x": -225,
+      "y": -312,
+      "parent": "#58pqyk"
+    },
+    {
+      "@id": "#u9jxpq",
+      "name": "Estimates range from 80 to 200 million",
+      "x": -104,
+      "y": -367,
+      "parent": "#58pqyk"
+    },
+    {
+      "@id": "#skituw",
+      "name": "Family and history",
+      "x": 143,
+      "y": -144,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j36ntq",
+      "name": "A Bantu language, Niger–Congo family",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Bantu_languages",
+      "parent": "#skituw"
+    },
+    {
+      "@id": "#2tsw4s",
+      "name": "Grew in Swahili coast trading towns",
+      "x": 234,
+      "y": -485,
+      "parent": "#skituw"
+    },
+    {
+      "@id": "#3xbnpf",
+      "name": "Many Arabic loanwords from Indian Ocean trade",
+      "x": 281,
+      "y": -281,
+      "parent": "#skituw"
+    },
+    {
+      "@id": "#a6t56t",
+      "name": "Caravan trade carried it inland, 1800s",
+      "x": 372,
+      "y": -203,
+      "parent": "#skituw"
+    },
+    {
+      "@id": "#8qc3q7",
+      "name": "Nyerere made it Tanzania's unifying language",
+      "x": 487,
+      "y": -121,
+      "parent": "#skituw"
+    },
+    {
+      "@id": "#3hy69g",
+      "name": "Sounds and writing",
+      "x": 207,
+      "y": 80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gu5sdj",
+      "name": "Five vowels, spelled as pronounced",
+      "x": 450,
+      "y": 0,
+      "parent": "#3hy69g"
+    },
+    {
+      "@id": "#cqz25h",
+      "name": "Stress on second-to-last syllable",
+      "x": 506,
+      "y": 126,
+      "parent": "#3hy69g"
+    },
+    {
+      "@id": "#jm5dd3",
+      "name": "Once written in Arabic script",
+      "x": 372,
+      "y": 203,
+      "parent": "#3hy69g"
+    },
+    {
+      "@id": "#b4kish",
+      "name": "Latin alphabet standard since colonial era",
+      "x": 281,
+      "y": 281,
+      "parent": "#3hy69g"
+    },
+    {
+      "@id": "#jzqxf2",
+      "name": "Grammar highlights",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u479np",
+      "name": "Nouns sorted into noun classes",
+      "x": 164,
+      "y": 335,
+      "link": "https://en.wikipedia.org/wiki/Noun_class",
+      "parent": "#jzqxf2"
+    },
+    {
+      "@id": "#3ew7sd",
+      "name": "Mtu, watu: person, people",
+      "x": 38,
+      "y": 391,
+      "parent": "#jzqxf2"
+    },
+    {
+      "@id": "#6tbpxc",
+      "name": "Prefixes make agreement across the sentence",
+      "x": -124,
+      "y": 447,
+      "parent": "#jzqxf2"
+    },
+    {
+      "@id": "#gnitmn",
+      "name": "Ni-li-soma: I read (past)",
+      "x": -225,
+      "y": 312,
+      "parent": "#jzqxf2"
+    },
+    {
+      "@id": "#fs4iin",
+      "name": "Words the world knows",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dt6yys",
+      "name": "Safari means journey",
+      "x": -330,
+      "y": 245,
+      "parent": "#fs4iin"
+    },
+    {
+      "@id": "#9s2265",
+      "name": "Hakuna matata: no worries",
+      "x": -405,
+      "y": 156,
+      "parent": "#fs4iin"
+    },
+    {
+      "@id": "#cakjd7",
+      "name": "Kiswahili: the ki- prefix names the language",
+      "x": -565,
+      "y": 66,
+      "parent": "#fs4iin"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 7,
+      "end": 11
+    },
+    {
+      "start": 7,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,31 @@
+category: History
+aliases: incas, inca civilization, tawantinsuyu, inca history
+- Inca Empire
+  - Origins and rise
+    - Began around Cusco, Peru, about 1200s
+    - [Pachacuti expands the state from 1438](https://en.wikipedia.org/wiki/Pachacuti)
+    - Largest empire in pre-Columbian Americas
+  - Land of the four quarters
+    - Called Tawantinsuyu by the Incas
+    - Stretched from Ecuador to central Chile
+    - About 10 million people at its height
+    - Capital Cusco linked all four regions
+  - How it was run
+    - Sapa Inca ruled as son of Sun
+    - Mit'a: labour owed instead of taxes
+    - [Quipu knotted cords recorded data](https://en.wikipedia.org/wiki/Quipu)
+    - Quechua spread as common language
+  - Engineering and farming
+    - [Road network about 40,000 km long](https://en.wikipedia.org/wiki/Inca_road_system)
+    - Mortarless stonework resists earthquakes
+    - Terraced fields on steep Andean slopes
+    - Freeze-dried potatoes stored in warehouses
+  - Religion
+    - Inti the Sun god was supreme
+    - Coricancha temple in Cusco
+    - Royal mummies kept and honoured
+  - Conquest and legacy
+    - Civil war between Huáscar and Atahualpa
+    - [Pizarro captures Atahualpa in 1532](https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Inca_Empire)
+    - Last stronghold Vilcabamba falls in 1572
+    - Machu Picchu now a World Heritage site

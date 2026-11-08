@@ -1,0 +1,29 @@
+category: Science
+aliases: planets, what is a planet, planets of the solar system
+- Planet
+  - What counts as a planet
+    - Orbits the Sun
+    - Massive enough to be round
+    - Has cleared its orbital neighbourhood
+    - [Pluto reclassified dwarf planet, 2006](https://en.wikipedia.org/wiki/Dwarf_planet)
+  - [How planets form](https://en.wikipedia.org/wiki/Nebular_hypothesis)
+    - Dusty disc around a young star
+    - Dust clumps into planetesimals
+    - Giants grabbed gas beyond the frost line
+  - Rocky inner planets
+    - Mercury: smallest, closest to the Sun
+    - Venus: hottest, thick CO₂ atmosphere
+    - Earth: only known world with life
+    - Mars: red, with ancient riverbeds
+  - Giant outer planets
+    - Jupiter: largest, Great Red Spot storm
+    - Saturn: bright ring system
+    - Uranus: ice giant tipped on its side
+    - Neptune: farthest, fastest winds
+  - [Exoplanets](https://en.wikipedia.org/wiki/Exoplanet)
+    - First around Sun-like star, 1995
+    - Over 5,000 confirmed
+    - Found by transits and star wobbles
+    - [Habitable zone allows liquid water](https://en.wikipedia.org/wiki/Circumstellar_habitable_zone)
+  - Name origin
+    - Greek for "wanderer" across the sky

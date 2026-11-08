@@ -1,0 +1,31 @@
+category: Society
+aliases: humor, sense of humour, sense of humor, why things are funny
+- Humour
+  - What humour is
+    - The ability to find things funny
+    - Laughter is its usual sign
+    - Tastes vary by person and culture
+  - Why things are funny
+    - [Incongruity: surprise that suddenly makes sense](https://en.wikipedia.org/wiki/Theories_of_humor)
+    - Superiority: laughing at others' mistakes
+    - Relief: releasing built-up tension
+    - Benign violation: wrong but harmless
+  - Why we laugh
+    - [Laughter predates language](https://en.wikipedia.org/wiki/Laughter)
+    - Apes laugh during play too
+    - Bonds groups and signals safety
+    - Contagious: we laugh more together
+  - Forms of humour
+    - Puns and wordplay
+    - [Irony and sarcasm](https://en.wikipedia.org/wiki/Irony)
+    - Slapstick and physical comedy
+    - Satire mocks the powerful
+    - Self-deprecating jokes about yourself
+  - Benefits of humour
+    - Eases stress and tension
+    - Helps people cope with hardship
+    - Makes people more likeable
+  - Styles that help or hurt
+    - Shared, affiliative humour builds closeness
+    - Mocking humour can wound others
+    - Timing and audience matter

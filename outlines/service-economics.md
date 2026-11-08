@@ -1,0 +1,29 @@
+category: Society
+aliases: services in economics, service sector, tertiary sector, service industry
+- Service (economics)
+  - What a service is
+    - Work done for someone, not an object
+    - Contrast with goods you can own
+    - Haircuts, banking, teaching, transport
+  - Distinctive features
+    - Intangible: can't be touched or stored
+    - Produced and consumed at once
+    - Quality varies with who delivers it
+    - Customer often takes part
+  - Main service industries
+    - Retail, hospitality and tourism
+    - Finance, insurance and real estate
+    - Health care and education
+    - Software, telecoms and media
+    - Government and public administration
+  - The service economy
+    - [Tertiary sector of the economy](https://en.wikipedia.org/wiki/Tertiary_sector_of_the_economy)
+    - About 70–80% of rich-country GDP
+    - [Shift from factories to services](https://en.wikipedia.org/wiki/Deindustrialization)
+  - Economic puzzles
+    - [Baumol's cost disease raises service prices](https://en.wikipedia.org/wiki/Baumol%27s_cost_disease)
+    - Productivity is hard to measure
+    - Digital services now traded across borders
+  - Managing services
+    - Service level agreements set standards
+    - [Service design maps the customer journey](https://en.wikipedia.org/wiki/Service_design)

@@ -1,0 +1,29 @@
+category: Philosophy and religion
+aliases: human reason, rationality, reasoning
+- Reason
+  - What reason is
+    - Drawing conclusions from evidence and premises
+    - Aristotle: humans as rational animals
+    - Theoretical versus practical reason
+  - Kinds of reasoning
+    - [Deduction: certain if premises are true](https://en.wikipedia.org/wiki/Deductive_reasoning)
+    - Induction: from cases to generalisations
+    - Abduction: best explanation, like detectives
+    - Analogy: treating like cases alike
+  - Tools of good reasoning
+    - Logic checks whether arguments are valid
+    - [Fallacies: ad hominem, straw man](https://en.wikipedia.org/wiki/Fallacy)
+    - Probability and statistics
+    - Experiments test claims against reality
+  - Reason and emotion
+    - Hume: reason is slave of passions
+    - Kant: reason grounds morality
+    - Damasio: emotions help good decisions
+  - The Age of Reason
+    - [Enlightenment, 1700s, championed reason](https://en.wikipedia.org/wiki/Age_of_Enlightenment)
+    - Descartes and the rationalists
+    - Romantics pushed back with feeling
+  - Limits of reason
+    - [Cognitive biases: Kahneman's fast thinking](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)
+    - Herbert Simon's bounded rationality
+    - Gödel: some truths are unprovable

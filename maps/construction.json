@@ -1,0 +1,362 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Construction",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#cznysp",
+      "name": "Planning and design",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kurgvq",
+      "name": "Client sets the brief and budget",
+      "x": -486,
+      "y": -51,
+      "parent": "#cznysp"
+    },
+    {
+      "@id": "#rm8ygi",
+      "name": "Architects and engineers draw plans",
+      "x": -434,
+      "y": -144,
+      "parent": "#cznysp"
+    },
+    {
+      "@id": "#2vamg4",
+      "name": "Building permits and planning approval",
+      "x": -357,
+      "y": -219,
+      "link": "https://en.wikipedia.org/wiki/Building_code",
+      "parent": "#cznysp"
+    },
+    {
+      "@id": "#gfkj7j",
+      "name": "Site surveys check soil and access",
+      "x": -274,
+      "y": -286,
+      "parent": "#cznysp"
+    },
+    {
+      "@id": "#4y62zc",
+      "name": "Main materials",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nyykfc",
+      "name": "Concrete is the most-used material",
+      "x": -180,
+      "y": -348,
+      "link": "https://en.wikipedia.org/wiki/Concrete",
+      "parent": "#4y62zc"
+    },
+    {
+      "@id": "#e8tk6t",
+      "name": "Steel frames and reinforcing bars",
+      "x": -68,
+      "y": -405,
+      "parent": "#4y62zc"
+    },
+    {
+      "@id": "#bxwp6f",
+      "name": "Timber, brick and stone",
+      "x": 77,
+      "y": -453,
+      "parent": "#4y62zc"
+    },
+    {
+      "@id": "#f985tb",
+      "name": "Glass and modern composites",
+      "x": 172,
+      "y": -333,
+      "parent": "#4y62zc"
+    },
+    {
+      "@id": "#iffeyd",
+      "name": "Stages of a build",
+      "x": 212,
+      "y": -70,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wreh5p",
+      "name": "Site clearing and excavation",
+      "x": 370,
+      "y": -390,
+      "parent": "#iffeyd"
+    },
+    {
+      "@id": "#eqeyr2",
+      "name": "Foundations spread the building's load",
+      "x": 357,
+      "y": -219,
+      "link": "https://en.wikipedia.org/wiki/Foundation_%28engineering%29",
+      "parent": "#iffeyd"
+    },
+    {
+      "@id": "#hq4awc",
+      "name": "Structural frame and roof",
+      "x": 416,
+      "y": -138,
+      "parent": "#iffeyd"
+    },
+    {
+      "@id": "#wrm5yk",
+      "name": "Services: plumbing, wiring, ventilation",
+      "x": 526,
+      "y": -55,
+      "parent": "#iffeyd"
+    },
+    {
+      "@id": "#92mb53",
+      "name": "Interior fit-out and finishes",
+      "x": 446,
+      "y": 47,
+      "parent": "#iffeyd"
+    },
+    {
+      "@id": "#n8sasf",
+      "name": "Types of construction",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dpdu5y",
+      "name": "Residential homes and flats",
+      "x": 434,
+      "y": 144,
+      "parent": "#n8sasf"
+    },
+    {
+      "@id": "#mxneb8",
+      "name": "Commercial offices and shops",
+      "x": 357,
+      "y": 219,
+      "parent": "#n8sasf"
+    },
+    {
+      "@id": "#n2yead",
+      "name": "Infrastructure: roads, bridges, tunnels",
+      "x": 274,
+      "y": 286,
+      "parent": "#n8sasf"
+    },
+    {
+      "@id": "#7qedx9",
+      "name": "Industrial plants and warehouses",
+      "x": 180,
+      "y": 348,
+      "parent": "#n8sasf"
+    },
+    {
+      "@id": "#3pxq7f",
+      "name": "People on site",
+      "x": -30,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#89iawt",
+      "name": "Project manager runs schedule and costs",
+      "x": 68,
+      "y": 405,
+      "parent": "#3pxq7f"
+    },
+    {
+      "@id": "#8ae657",
+      "name": "Skilled trades: carpenters, electricians, plumbers",
+      "x": -77,
+      "y": 453,
+      "parent": "#3pxq7f"
+    },
+    {
+      "@id": "#bahbci",
+      "name": "Heavy plant operators and labourers",
+      "x": -172,
+      "y": 333,
+      "parent": "#3pxq7f"
+    },
+    {
+      "@id": "#c6qcza",
+      "name": "Safety and sustainability",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a75z9m",
+      "name": "Falls are a leading cause of deaths",
+      "x": -370,
+      "y": 390,
+      "parent": "#c6qcza"
+    },
+    {
+      "@id": "#vn77ji",
+      "name": "Hard hats, harnesses and scaffolding",
+      "x": -357,
+      "y": 219,
+      "parent": "#c6qcza"
+    },
+    {
+      "@id": "#as7t7e",
+      "name": "Cement production emits much CO₂",
+      "x": -434,
+      "y": 144,
+      "parent": "#c6qcza"
+    },
+    {
+      "@id": "#3m53rm",
+      "name": "Insulation and recycled materials cut impact",
+      "x": -566,
+      "y": 59,
+      "parent": "#c6qcza"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 11,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    },
+    {
+      "start": 26,
+      "end": 29
+    },
+    {
+      "start": 26,
+      "end": 30
+    }
+  ],
+  "selectedNode": 0
+}

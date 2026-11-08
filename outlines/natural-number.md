@@ -1,0 +1,29 @@
+category: Mathematics
+aliases: natural numbers, counting numbers, whole numbers
+- Natural number
+  - The counting numbers
+    - 1, 2, 3, 4 and onward
+    - Some definitions also include 0
+    - No fractions or negatives
+  - Basic properties
+    - Every number has a next one
+    - No largest natural number
+    - Adding or multiplying stays natural
+    - Subtracting can leave the set
+  - Kinds of natural numbers
+    - Even and odd numbers
+    - [Primes: 2, 3, 5, 7, 11](https://en.wikipedia.org/wiki/Prime_number)
+    - [Square numbers: 1, 4, 9, 16](https://en.wikipedia.org/wiki/Square_number)
+    - [Perfect numbers like 6 and 28](https://en.wikipedia.org/wiki/Perfect_number)
+  - Foundations
+    - [Peano axioms define them, 1889](https://en.wikipedia.org/wiki/Peano_axioms)
+    - Induction proves facts for all
+    - Infinite but countable
+  - History
+    - Tally marks on ancient bones
+    - Greeks studied them as pure numbers
+    - Zero added much later
+  - Uses
+    - Counting objects and people
+    - Ordering positions in a race
+    - Indexing lists in computing

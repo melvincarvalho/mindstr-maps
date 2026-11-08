@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Weapon",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#46scez",
+      "name": "Tool designed to injure or deter",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gud9r8",
+      "name": "Used for hunting, war and defence",
+      "x": -564,
+      "y": -68,
+      "parent": "#46scez"
+    },
+    {
+      "@id": "#ih9bt8",
+      "name": "Also for sport and ceremony",
+      "x": -401,
+      "y": -163,
+      "parent": "#46scez"
+    },
+    {
+      "@id": "#yjrihi",
+      "name": "Prehistoric and ancient",
+      "x": -71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j3xtkm",
+      "name": "Stone spears and hand axes",
+      "x": -318,
+      "y": -255,
+      "parent": "#yjrihi"
+    },
+    {
+      "@id": "#mj8n28",
+      "name": "Bow and arrow, a Stone Age invention",
+      "x": -204,
+      "y": -321,
+      "parent": "#yjrihi"
+    },
+    {
+      "@id": "#w5m9gx",
+      "name": "Bronze, then iron swords",
+      "x": -73,
+      "y": -372,
+      "parent": "#yjrihi"
+    },
+    {
+      "@id": "#38tuf3",
+      "name": "Chariots and siege engines",
+      "x": 82,
+      "y": -420,
+      "parent": "#yjrihi"
+    },
+    {
+      "@id": "#gy7vac",
+      "name": "Medieval and early modern",
+      "x": 205,
+      "y": -163,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xigz8r",
+      "name": "Longbow and crossbow",
+      "x": 204,
+      "y": -321,
+      "parent": "#gy7vac"
+    },
+    {
+      "@id": "#rd8e5i",
+      "name": "Gunpowder spread from China",
+      "x": 318,
+      "y": -255,
+      "link": "https://en.wikipedia.org/wiki/Gunpowder",
+      "parent": "#gy7vac"
+    },
+    {
+      "@id": "#582xa3",
+      "name": "Cannon changed castle warfare",
+      "x": 509,
+      "y": -205,
+      "parent": "#gy7vac"
+    },
+    {
+      "@id": "#qxsf5b",
+      "name": "Modern warfare",
+      "x": 219,
+      "y": 57,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2jtm8y",
+      "name": "Machine guns in World War I",
+      "x": 444,
+      "y": -56,
+      "parent": "#qxsf5b"
+    },
+    {
+      "@id": "#7szpz7",
+      "name": "Tanks, aircraft and missiles",
+      "x": 464,
+      "y": 58,
+      "parent": "#qxsf5b"
+    },
+    {
+      "@id": "#qsb2dx",
+      "name": "Nuclear weapons first used in 1945",
+      "x": 401,
+      "y": 163,
+      "link": "https://en.wikipedia.org/wiki/Nuclear_weapon",
+      "parent": "#qxsf5b"
+    },
+    {
+      "@id": "#mht7zx",
+      "name": "Drones and cyber weapons",
+      "x": 318,
+      "y": 255,
+      "parent": "#qxsf5b"
+    },
+    {
+      "@id": "#7ti6p9",
+      "name": "Control and law",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ezp8f7",
+      "name": "Chemical Weapons Convention bans chemical arms",
+      "x": 204,
+      "y": 321,
+      "link": "https://en.wikipedia.org/wiki/Chemical_Weapons_Convention",
+      "parent": "#7ti6p9"
+    },
+    {
+      "@id": "#xcm8nj",
+      "name": "Nuclear Non-Proliferation Treaty, 1968",
+      "x": 73,
+      "y": 372,
+      "link": "https://en.wikipedia.org/wiki/Treaty_on_the_Non-Proliferation_of_Nuclear_Weapons",
+      "parent": "#7ti6p9"
+    },
+    {
+      "@id": "#npzhb9",
+      "name": "Ottawa Treaty bans anti-personnel landmines",
+      "x": -82,
+      "y": 420,
+      "parent": "#7ti6p9"
+    },
+    {
+      "@id": "#5prrk5",
+      "name": "National laws limit carrying weapons",
+      "x": -303,
+      "y": 475,
+      "parent": "#7ti6p9"
+    },
+    {
+      "@id": "#wc2c7g",
+      "name": "Culture and sport",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nh4qq8",
+      "name": "Fencing and archery are Olympic sports",
+      "x": -318,
+      "y": 255,
+      "parent": "#wc2c7g"
+    },
+    {
+      "@id": "#kcxb8k",
+      "name": "Swords as symbols of rank",
+      "x": -401,
+      "y": 163,
+      "parent": "#wc2c7g"
+    },
+    {
+      "@id": "#zw5qru",
+      "name": "Museums and historical reenactment",
+      "x": -504,
+      "y": 62,
+      "parent": "#wc2c7g"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 4,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

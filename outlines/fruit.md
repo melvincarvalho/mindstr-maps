@@ -1,0 +1,30 @@
+category: Life and home
+aliases: fruits, types of fruit, fruit and nutrition
+- Fruit
+  - What a fruit is
+    - [Botanically, the seed-bearing ovary of a flower](https://en.wikipedia.org/wiki/Fruit)
+    - Tomatoes and cucumbers are botanical fruits
+    - Cooks call sweet, fleshy produce fruit
+  - Why plants make fruit
+    - Animals eat fruit and spread seeds
+    - Ripening turns starch into sugar
+    - Colour signals when fruit is ripe
+  - Main kinds
+    - Berries like grapes and blueberries
+    - Citrus like oranges and lemons
+    - [Stone fruits like peaches and cherries](https://en.wikipedia.org/wiki/Drupe)
+    - Pome fruits like apples and pears
+    - Tropical like bananas and mangoes
+  - Nutrition
+    - Rich in vitamin C and potassium
+    - Fibre helps digestion
+    - Juice has sugar but less fibre
+    - Guidelines suggest several portions daily
+  - Growing and trade
+    - Bananas are among the most traded
+    - Orchards take years to bear fruit
+    - Global trade gives year-round supply
+  - Storing and ripening
+    - [Ethylene gas speeds ripening](https://en.wikipedia.org/wiki/Ethylene_as_a_plant_hormone)
+    - Bananas ripen nearby fruit faster
+    - Berries spoil fast; refrigerate them

@@ -1,0 +1,28 @@
+category: Science
+aliases: length of a year, how long is a year, solar year
+- Year
+  - One orbit of Earth around the Sun
+    - About 365.25 days long
+    - Earth travels about 940 million km
+    - Average speed about 30 km per second
+  - [Seasons come from Earth's tilt](https://en.wikipedia.org/wiki/Season)
+    - Axis tilted about 23.4 degrees
+    - Not from distance to the Sun
+    - Solstices mark longest and shortest days
+    - Equinoxes split day and night evenly
+  - Kinds of year
+    - [Tropical year: about 365.24 days](https://en.wikipedia.org/wiki/Tropical_year)
+    - Sidereal year: about 365.26 days
+    - Lunar year: 12 months, about 354 days
+  - Calendars
+    - [Leap years add a day every four](https://en.wikipedia.org/wiki/Leap_year)
+    - [Gregorian calendar introduced in 1582](https://en.wikipedia.org/wiki/Gregorian_calendar)
+    - Century years must divide by 400
+    - Islamic calendar follows the Moon
+  - Years on other planets
+    - Mercury: 88 Earth days
+    - Mars: about 687 Earth days
+    - Neptune: about 165 Earth years
+  - Years as units in astronomy
+    - A light-year is a distance, not time
+    - Julian year: exactly 365.25 days

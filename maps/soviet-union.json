@@ -1,0 +1,364 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Soviet Union",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#873w89",
+      "name": "Revolution and founding",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#f3wdzv",
+      "name": "Bolsheviks under Lenin seize power, 1917",
+      "x": -566,
+      "y": -59,
+      "link": "https://en.wikipedia.org/wiki/Russian_Revolution",
+      "parent": "#873w89"
+    },
+    {
+      "@id": "#fush5n",
+      "name": "Civil war won by the Reds",
+      "x": -416,
+      "y": -138,
+      "parent": "#873w89"
+    },
+    {
+      "@id": "#mc24hj",
+      "name": "USSR formed December 1922",
+      "x": -357,
+      "y": -219,
+      "parent": "#873w89"
+    },
+    {
+      "@id": "#9nbz4y",
+      "name": "How it was run",
+      "x": -60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#74g9gr",
+      "name": "One-party Communist rule",
+      "x": -274,
+      "y": -286,
+      "parent": "#9nbz4y"
+    },
+    {
+      "@id": "#ta4naj",
+      "name": "State-planned economy, no private business",
+      "x": -180,
+      "y": -348,
+      "parent": "#9nbz4y"
+    },
+    {
+      "@id": "#2axv3q",
+      "name": "Fifteen republics, Russia the largest",
+      "x": -68,
+      "y": -405,
+      "parent": "#9nbz4y"
+    },
+    {
+      "@id": "#epppit",
+      "name": "Secret police and censorship",
+      "x": 77,
+      "y": -453,
+      "parent": "#9nbz4y"
+    },
+    {
+      "@id": "#e7ds49",
+      "name": "Stalin's rule, 1920s to 1953",
+      "x": 182,
+      "y": -112,
+      "link": "https://en.wikipedia.org/wiki/Joseph_Stalin",
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zerx74",
+      "name": "Five-year plans for rapid industrialisation",
+      "x": 268,
+      "y": -513,
+      "parent": "#e7ds49"
+    },
+    {
+      "@id": "#66353z",
+      "name": "Forced collectivisation of farms",
+      "x": 274,
+      "y": -286,
+      "parent": "#e7ds49"
+    },
+    {
+      "@id": "#u6bd2f",
+      "name": "Famine of 1932–33, including Ukraine's Holodomor",
+      "x": 357,
+      "y": -219,
+      "parent": "#e7ds49"
+    },
+    {
+      "@id": "#96byte",
+      "name": "Great Purge executed hundreds of thousands",
+      "x": 488,
+      "y": -162,
+      "parent": "#e7ds49"
+    },
+    {
+      "@id": "#chp47j",
+      "name": "Millions sent to Gulag labour camps",
+      "x": 446,
+      "y": -47,
+      "link": "https://en.wikipedia.org/wiki/Gulag",
+      "parent": "#e7ds49"
+    },
+    {
+      "@id": "#sbkncr",
+      "name": "World War II",
+      "x": 199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jp2puk",
+      "name": "Germany invaded in June 1941",
+      "x": 446,
+      "y": 47,
+      "parent": "#sbkncr"
+    },
+    {
+      "@id": "#c92w24",
+      "name": "Victory at Stalingrad, 1942–43",
+      "x": 434,
+      "y": 144,
+      "parent": "#sbkncr"
+    },
+    {
+      "@id": "#uf92ix",
+      "name": "About 27 million Soviet deaths",
+      "x": 357,
+      "y": 219,
+      "parent": "#sbkncr"
+    },
+    {
+      "@id": "#w44p7n",
+      "name": "Red Army captured Berlin 1945",
+      "x": 274,
+      "y": 286,
+      "parent": "#sbkncr"
+    },
+    {
+      "@id": "#spwm8q",
+      "name": "Cold War superpower",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fmw4aw",
+      "name": "Rival to the United States",
+      "x": 180,
+      "y": 348,
+      "link": "https://en.wikipedia.org/wiki/Cold_War",
+      "parent": "#spwm8q"
+    },
+    {
+      "@id": "#xdtdr2",
+      "name": "Dominated Eastern Europe, Warsaw Pact",
+      "x": 68,
+      "y": 405,
+      "parent": "#spwm8q"
+    },
+    {
+      "@id": "#cddc6q",
+      "name": "First atomic bomb test 1949",
+      "x": -77,
+      "y": 453,
+      "parent": "#spwm8q"
+    },
+    {
+      "@id": "#kwwsrt",
+      "name": "Sputnik 1957, Gagarin in space 1961",
+      "x": -172,
+      "y": 333,
+      "parent": "#spwm8q"
+    },
+    {
+      "@id": "#ed6bad",
+      "name": "Reform and collapse",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5v6pst",
+      "name": "Economy stagnated in the 1970s",
+      "x": -370,
+      "y": 390,
+      "parent": "#ed6bad"
+    },
+    {
+      "@id": "#6d8seu",
+      "name": "Gorbachev's glasnost and perestroika",
+      "x": -357,
+      "y": 219,
+      "parent": "#ed6bad"
+    },
+    {
+      "@id": "#sqj5cj",
+      "name": "Eastern Europe broke free 1989",
+      "x": -434,
+      "y": 144,
+      "parent": "#ed6bad"
+    },
+    {
+      "@id": "#ape39p",
+      "name": "Dissolved December 1991 into 15 states",
+      "x": -526,
+      "y": 55,
+      "link": "https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union",
+      "parent": "#ed6bad"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 10,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    },
+    {
+      "start": 26,
+      "end": 29
+    },
+    {
+      "start": 26,
+      "end": 30
+    }
+  ],
+  "selectedNode": 0
+}

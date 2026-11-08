@@ -1,0 +1,31 @@
+category: Science
+aliases: energy in physics, forms of energy, conservation of energy, what is energy
+- Energy
+  - What energy is
+    - [The capacity to do work](https://en.wikipedia.org/wiki/Energy)
+    - Measured in joules
+    - Food labels use kilocalories
+    - James Joule showed heat is energy
+  - Main forms
+    - [Kinetic energy is energy of motion](https://en.wikipedia.org/wiki/Kinetic_energy)
+    - [Potential energy is stored by position](https://en.wikipedia.org/wiki/Potential_energy)
+    - Thermal energy is jiggling particles
+    - Chemical energy held in bonds
+    - Light and other radiation
+    - Nuclear energy inside atomic nuclei
+  - [Energy is never created or destroyed](https://en.wikipedia.org/wiki/Conservation_of_energy)
+    - It only changes form
+    - Falling ball swaps potential for kinetic
+    - Some always ends up as waste heat
+  - Key equations in words
+    - Kinetic: half mass times speed squared
+    - Gravitational: mass times g times height
+    - [Einstein: energy equals mass times c²](https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence)
+  - Power is energy per second
+    - One watt is one joule per second
+    - Kilowatt-hour is the household billing unit
+    - A kettle uses about 2–3 kilowatts
+  - Where our energy comes from
+    - Sunlight drives most of it
+    - Fossil fuels store ancient sunlight
+    - Nuclear power splits uranium atoms

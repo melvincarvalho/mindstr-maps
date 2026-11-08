@@ -1,0 +1,31 @@
+category: Science
+aliases: domestic cat, house cat, cats, felis catus, pet cat
+- Cat
+  - The animal
+    - Small carnivore of the cat family
+    - Retractable claws and sharp night vision
+    - Lives about 12 to 18 years
+    - Hundreds of millions kept worldwide
+  - History with humans
+    - [Descends from the African wildcat](https://en.wikipedia.org/wiki/African_wildcat)
+    - Drawn to early farms hunting rodents
+    - Living with people for about 9,500 years
+    - [Revered in ancient Egypt](https://en.wikipedia.org/wiki/Cats_in_ancient_Egypt)
+  - Behaviour
+    - Purring usually signals contentment
+    - Kneading and rubbing mark scent
+    - Sleeps 12 to 16 hours a day
+    - Natural hunter, even when well fed
+  - Body and senses
+    - [Righting reflex lands cats on feet](https://en.wikipedia.org/wiki/Cat_righting_reflex)
+    - Whiskers sense nearby objects
+    - Needs meat: an obligate carnivore
+  - Caring for a cat
+    - Complete cat food and fresh water
+    - Clean litter tray daily
+    - Scratching post and daily play
+    - Vaccinate, neuter and microchip
+    - Yearly vet check-ups
+  - Cats and wildlife
+    - [Kill billions of birds yearly](https://en.wikipedia.org/wiki/Cat_predation_on_wildlife)
+    - Keeping cats indoors protects wildlife

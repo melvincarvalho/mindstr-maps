@@ -1,0 +1,342 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Religion",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#w7ji2i",
+      "name": "What religions usually involve",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2gz3fd",
+      "name": "Beliefs about the sacred or divine",
+      "x": -445,
+      "y": -51,
+      "parent": "#w7ji2i"
+    },
+    {
+      "@id": "#iv2su7",
+      "name": "Worship, prayer and ritual",
+      "x": -409,
+      "y": -150,
+      "parent": "#w7ji2i"
+    },
+    {
+      "@id": "#trvwg5",
+      "name": "Moral codes for how to live",
+      "x": -340,
+      "y": -236,
+      "parent": "#w7ji2i"
+    },
+    {
+      "@id": "#pp4p7r",
+      "name": "Communities, clergy and sacred texts",
+      "x": -243,
+      "y": -303,
+      "parent": "#w7ji2i"
+    },
+    {
+      "@id": "#wpc9a6",
+      "name": "Largest traditions today",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wr6n6j",
+      "name": "Christianity: about 2.3 billion people",
+      "x": -133,
+      "y": -360,
+      "parent": "#wpc9a6"
+    },
+    {
+      "@id": "#zyjdz5",
+      "name": "Islam: about 2 billion people",
+      "x": 0,
+      "y": -408,
+      "parent": "#wpc9a6"
+    },
+    {
+      "@id": "#yk5evs",
+      "name": "Hinduism: about 1.2 billion people",
+      "x": 175,
+      "y": -465,
+      "parent": "#wpc9a6"
+    },
+    {
+      "@id": "#uvpgku",
+      "name": "Buddhism, Sikhism, Judaism and many more",
+      "x": 243,
+      "y": -303,
+      "parent": "#wpc9a6"
+    },
+    {
+      "@id": "#gx4thf",
+      "name": "Families of traditions",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#87wx54",
+      "name": "Abrahamic: Judaism, Christianity, Islam",
+      "x": 340,
+      "y": -236,
+      "link": "https://en.wikipedia.org/wiki/Abrahamic_religions",
+      "parent": "#gx4thf"
+    },
+    {
+      "@id": "#8zx4yw",
+      "name": "Indian: Hinduism, Buddhism, Jainism, Sikhism",
+      "x": 409,
+      "y": -150,
+      "parent": "#gx4thf"
+    },
+    {
+      "@id": "#brzmaa",
+      "name": "East Asian: Taoism, Confucianism, Shinto",
+      "x": 565,
+      "y": -63,
+      "parent": "#gx4thf"
+    },
+    {
+      "@id": "#gzvz2m",
+      "name": "Indigenous and folk religions worldwide",
+      "x": 445,
+      "y": 51,
+      "parent": "#gx4thf"
+    },
+    {
+      "@id": "#mktkig",
+      "name": "Through history",
+      "x": 151,
+      "y": 139,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ac7nn6",
+      "name": "Prehistoric burials hint at early beliefs",
+      "x": 463,
+      "y": 171,
+      "parent": "#mktkig"
+    },
+    {
+      "@id": "#t2brr7",
+      "name": "Axial Age: new teachings, c. 800–200 BCE",
+      "x": 340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/Axial_Age",
+      "parent": "#mktkig"
+    },
+    {
+      "@id": "#tzij8u",
+      "name": "Founders and scriptures shaped lasting faiths",
+      "x": 243,
+      "y": 303,
+      "parent": "#mktkig"
+    },
+    {
+      "@id": "#n44uyb",
+      "name": "Trade, missions and empires spread religions",
+      "x": 133,
+      "y": 360,
+      "parent": "#mktkig"
+    },
+    {
+      "@id": "#in58a7",
+      "name": "Non-religious views",
+      "x": -65,
+      "y": 177,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cumgik",
+      "name": "Nearly a quarter of people are unaffiliated",
+      "x": 0,
+      "y": 408,
+      "link": "https://en.wikipedia.org/wiki/Irreligion",
+      "parent": "#in58a7"
+    },
+    {
+      "@id": "#qaqphg",
+      "name": "Atheism, agnosticism and secular humanism",
+      "x": -175,
+      "y": 465,
+      "parent": "#in58a7"
+    },
+    {
+      "@id": "#2ri9ye",
+      "name": "Secularism separates religion and state",
+      "x": -243,
+      "y": 303,
+      "link": "https://en.wikipedia.org/wiki/Secularism",
+      "parent": "#in58a7"
+    },
+    {
+      "@id": "#qa2ynp",
+      "name": "Studying religion",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wbxim2",
+      "name": "Comparative religion looks across traditions",
+      "x": -340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/Comparative_religion",
+      "parent": "#qa2ynp"
+    },
+    {
+      "@id": "#33w8t7",
+      "name": "Sociology examines religion's role in society",
+      "x": -409,
+      "y": 150,
+      "parent": "#qa2ynp"
+    },
+    {
+      "@id": "#689h53",
+      "name": "Theology reasons from within a faith",
+      "x": -505,
+      "y": 57,
+      "parent": "#qa2ynp"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

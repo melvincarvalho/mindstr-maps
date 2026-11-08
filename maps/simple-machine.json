@@ -1,0 +1,298 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Simple machine",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#fsiy2w",
+      "name": "How they help",
+      "x": -176,
+      "y": -118,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k9fujk",
+      "name": "Change a force's size or direction",
+      "x": -443,
+      "y": -63,
+      "parent": "#fsiy2w"
+    },
+    {
+      "@id": "#j9a3qv",
+      "name": "Less effort, moved over more distance",
+      "x": -390,
+      "y": -180,
+      "parent": "#fsiy2w"
+    },
+    {
+      "@id": "#hz6fie",
+      "name": "Mechanical advantage measures the gain",
+      "x": -289,
+      "y": -276,
+      "link": "https://en.wikipedia.org/wiki/Mechanical_advantage",
+      "parent": "#fsiy2w"
+    },
+    {
+      "@id": "#54zzfp",
+      "name": "Combined, they make compound machines",
+      "x": -154,
+      "y": -338,
+      "parent": "#fsiy2w"
+    },
+    {
+      "@id": "#ij3f8h",
+      "name": "Lever",
+      "x": 79,
+      "y": -173,
+      "link": "https://en.wikipedia.org/wiki/Lever",
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xcz8yv",
+      "name": "A rigid bar turning on a fulcrum",
+      "x": 0,
+      "y": -392,
+      "parent": "#ij3f8h"
+    },
+    {
+      "@id": "#zssp4r",
+      "name": "Three classes by fulcrum position",
+      "x": 203,
+      "y": -443,
+      "parent": "#ij3f8h"
+    },
+    {
+      "@id": "#g6243q",
+      "name": "Seesaws, crowbars and wheelbarrows",
+      "x": 289,
+      "y": -276,
+      "parent": "#ij3f8h"
+    },
+    {
+      "@id": "#7aj4i8",
+      "name": "Wheel and axle",
+      "x": 216,
+      "y": -63,
+      "link": "https://en.wikipedia.org/wiki/Wheel_and_axle",
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zrsd82",
+      "name": "Turning the big wheel twists the axle",
+      "x": 390,
+      "y": -180,
+      "parent": "#7aj4i8"
+    },
+    {
+      "@id": "#6vjwqe",
+      "name": "Doorknobs, taps and screwdrivers",
+      "x": 503,
+      "y": -72,
+      "parent": "#7aj4i8"
+    },
+    {
+      "@id": "#x3gdcb",
+      "name": "Pulley",
+      "x": 199,
+      "y": 92,
+      "link": "https://en.wikipedia.org/wiki/Pulley",
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bxxabp",
+      "name": "Rope running over a grooved wheel",
+      "x": 443,
+      "y": 63,
+      "parent": "#x3gdcb"
+    },
+    {
+      "@id": "#zxe76t",
+      "name": "More pulleys mean less effort",
+      "x": 390,
+      "y": 180,
+      "parent": "#x3gdcb"
+    },
+    {
+      "@id": "#vibyus",
+      "name": "Flagpoles, cranes and window blinds",
+      "x": 289,
+      "y": 276,
+      "parent": "#x3gdcb"
+    },
+    {
+      "@id": "#7pnwpn",
+      "name": "Inclined plane",
+      "x": 0,
+      "y": 184,
+      "link": "https://en.wikipedia.org/wiki/Inclined_plane",
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#eunck4",
+      "name": "Ramps raise loads with less force",
+      "x": 154,
+      "y": 338,
+      "parent": "#7pnwpn"
+    },
+    {
+      "@id": "#k5a66g",
+      "name": "Wedge: two slopes that split things",
+      "x": 0,
+      "y": 392,
+      "parent": "#7pnwpn"
+    },
+    {
+      "@id": "#3y4chu",
+      "name": "Screw: a ramp wrapped round a cylinder",
+      "x": -203,
+      "y": 443,
+      "parent": "#7pnwpn"
+    },
+    {
+      "@id": "#6kpih8",
+      "name": "History",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#eprp4x",
+      "name": "Archimedes explained the lever mathematically",
+      "x": -289,
+      "y": 276,
+      "parent": "#6kpih8"
+    },
+    {
+      "@id": "#x53yn5",
+      "name": "Hero of Alexandria listed five",
+      "x": -390,
+      "y": 180,
+      "parent": "#6kpih8"
+    },
+    {
+      "@id": "#p6znjh",
+      "name": "Renaissance scholars added the inclined plane",
+      "x": -503,
+      "y": 72,
+      "parent": "#6kpih8"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    }
+  ],
+  "selectedNode": 0
+}

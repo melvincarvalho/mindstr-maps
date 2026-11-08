@@ -1,0 +1,29 @@
+category: Arts and culture
+aliases: comic books, graphic novels, comic strips, sequential art
+- Comics
+  - What makes a comic
+    - Pictures in sequence tell a story
+    - Panels, gutters and speech balloons
+    - Writer, penciller, inker, letterer, colourist
+  - Early history
+    - Rodolphe Töpffer's picture stories, 1830s
+    - [The Yellow Kid popularises newspaper strips](https://en.wikipedia.org/wiki/The_Yellow_Kid)
+    - Daily strips like Peanuts reach millions
+  - American comic books
+    - [Superman debuts in Action Comics, 1938](https://en.wikipedia.org/wiki/Superman)
+    - Golden Age of superheroes follows
+    - Comics Code censors content from 1954
+    - Marvel's Spider-Man and X-Men, 1960s
+  - Comics around the world
+    - [Manga: Japan's huge comics industry](https://en.wikipedia.org/wiki/Manga)
+    - Osamu Tezuka shapes modern manga
+    - Franco-Belgian classics: Tintin and Asterix
+    - Korean webtoons made for phones
+  - Graphic novels
+    - [Maus wins a special Pulitzer, 1992](https://en.wikipedia.org/wiki/Maus)
+    - Watchmen reinvents the superhero, 1986–87
+    - Persepolis: memoir of revolutionary Iran
+  - Comics today
+    - Superhero films dominate the box office
+    - Webcomics and digital reading apps
+    - Fan conventions like San Diego Comic-Con

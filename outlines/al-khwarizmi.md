@@ -1,0 +1,26 @@
+category: People
+aliases: muhammad ibn musa al-khwarizmi, al-khwarazmi
+- Al-Khwarizmi
+  - Who he was
+    - Persian scholar, about 780–850
+    - Family from Khwarazm, Central Asia
+    - [Worked at Baghdad's House of Wisdom](https://en.wikipedia.org/wiki/House_of_Wisdom)
+    - Served under Caliph al-Ma'mun
+  - The book of algebra
+    - [Written in Arabic about 820](https://en.wikipedia.org/wiki/The_Compendious_Book_on_Calculation_by_Completion_and_Balancing)
+    - "Al-jabr" gave us the word algebra
+    - Systematic solving of linear and quadratic equations
+    - Completing the square, shown geometrically
+    - Practical uses: inheritance, trade, land
+  - [Hindu–Arabic numerals](https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system)
+    - Explained Indian place-value digits
+    - Used zero as a placeholder
+    - [Latin "Algoritmi" gave us algorithm](https://en.wikipedia.org/wiki/Algorithm)
+  - Astronomy and geography
+    - Astronomical tables, the Zij al-Sindhind
+    - Revised Ptolemy's map coordinates
+    - Wrote on the Jewish calendar
+  - Legacy
+    - Translated into Latin in the 1100s
+    - Spread decimal numerals across Europe
+    - Algebra became its own discipline

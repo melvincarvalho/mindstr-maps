@@ -1,0 +1,30 @@
+category: Health
+aliases: diabetes mellitus, type 2 diabetes, type 1 diabetes, diabetes symptoms
+- Diabetes
+  - What it is
+    - Blood sugar stays too high
+    - [Insulin moves sugar into cells](https://en.wikipedia.org/wiki/Insulin)
+    - About 1 in 10 adults worldwide
+  - Main types
+    - [Type 1: immune system destroys insulin cells](https://en.wikipedia.org/wiki/Type_1_diabetes)
+    - [Type 2: body resists insulin](https://en.wikipedia.org/wiki/Type_2_diabetes)
+    - [Gestational: develops during pregnancy](https://en.wikipedia.org/wiki/Gestational_diabetes)
+    - Prediabetes: higher than normal sugar
+  - Symptoms
+    - Very thirsty and urinating often
+    - Tiredness and blurred vision
+    - Unexplained weight loss
+    - Slow-healing cuts and infections
+  - Risk factors for type 2
+    - Excess weight, especially around waist
+    - Inactivity and unhealthy diet
+    - Family history and older age
+  - Diagnosis
+    - [HbA1c shows average blood sugar](https://en.wikipedia.org/wiki/Glycated_hemoglobin)
+    - Fasting blood glucose test
+  - Treatment and complications
+    - Type 1 needs insulin for life
+    - Type 2: diet, exercise, metformin
+    - Monitor sugar, eyes, feet, kidneys
+    - Can damage heart, nerves and eyes
+    - Low blood sugar needs fast sugar

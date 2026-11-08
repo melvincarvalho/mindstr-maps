@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Sport of athletics",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#v6h6au",
+      "name": "Origins and governance",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qkrs89",
+      "name": "Ancient Olympic stadion race, 776 BC",
+      "x": -445,
+      "y": -54,
+      "link": "https://en.wikipedia.org/wiki/Ancient_Olympic_Games",
+      "parent": "#v6h6au"
+    },
+    {
+      "@id": "#xby2ve",
+      "name": "World Athletics, founded 1912, governs it",
+      "x": -405,
+      "y": -156,
+      "link": "https://en.wikipedia.org/wiki/World_Athletics",
+      "parent": "#v6h6au"
+    },
+    {
+      "@id": "#jsjcbx",
+      "name": "World Championships held since 1983",
+      "x": -330,
+      "y": -245,
+      "parent": "#v6h6au"
+    },
+    {
+      "@id": "#m86yr4",
+      "name": "Centrepiece of the Summer Olympics",
+      "x": -225,
+      "y": -312,
+      "parent": "#v6h6au"
+    },
+    {
+      "@id": "#xu5b7i",
+      "name": "Track: sprints and hurdles",
+      "x": 51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#diaeg4",
+      "name": "100 m, 200 m and 400 m",
+      "x": -104,
+      "y": -367,
+      "parent": "#xu5b7i"
+    },
+    {
+      "@id": "#3unxey",
+      "name": "Usain Bolt ran 9.58 s in 2009",
+      "x": 42,
+      "y": -423,
+      "parent": "#xu5b7i"
+    },
+    {
+      "@id": "#f428fv",
+      "name": "110 m hurdles men, 100 m women",
+      "x": 234,
+      "y": -485,
+      "parent": "#xu5b7i"
+    },
+    {
+      "@id": "#zr37qd",
+      "name": "4×100 m and 4×400 m relays",
+      "x": 281,
+      "y": -281,
+      "parent": "#xu5b7i"
+    },
+    {
+      "@id": "#zibqwi",
+      "name": "Track: middle and long distance",
+      "x": 220,
+      "y": -54,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bkcipi",
+      "name": "800 m and 1500 m reward tactics",
+      "x": 372,
+      "y": -203,
+      "parent": "#zibqwi"
+    },
+    {
+      "@id": "#y28rww",
+      "name": "5000 m and 10,000 m test endurance",
+      "x": 430,
+      "y": -106,
+      "parent": "#zibqwi"
+    },
+    {
+      "@id": "#t29vpa",
+      "name": "3000 m steeplechase with water jump",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Steeplechase_%28athletics%29",
+      "parent": "#zibqwi"
+    },
+    {
+      "@id": "#xi4a6d",
+      "name": "Field: jumps and throws",
+      "x": 169,
+      "y": 125,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ew736f",
+      "name": "High jump and pole vault for height",
+      "x": 487,
+      "y": 121,
+      "parent": "#xi4a6d"
+    },
+    {
+      "@id": "#5s5btn",
+      "name": "Long jump and triple jump",
+      "x": 372,
+      "y": 203,
+      "parent": "#xi4a6d"
+    },
+    {
+      "@id": "#txkifj",
+      "name": "Shot put, discus, hammer, javelin",
+      "x": 281,
+      "y": 281,
+      "parent": "#xi4a6d"
+    },
+    {
+      "@id": "#6ex364",
+      "name": "Three failed attempts end height events",
+      "x": 164,
+      "y": 335,
+      "parent": "#xi4a6d"
+    },
+    {
+      "@id": "#6xhenv",
+      "name": "Combined events",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p6hyb3",
+      "name": "Decathlon: ten events over two days",
+      "x": 38,
+      "y": 391,
+      "link": "https://en.wikipedia.org/wiki/Decathlon",
+      "parent": "#6xhenv"
+    },
+    {
+      "@id": "#rsnm3k",
+      "name": "Heptathlon: seven events for women",
+      "x": -124,
+      "y": 447,
+      "parent": "#6xhenv"
+    },
+    {
+      "@id": "#3sequn",
+      "name": "Points tables score each event",
+      "x": -225,
+      "y": 312,
+      "parent": "#6xhenv"
+    },
+    {
+      "@id": "#gwa93w",
+      "name": "Road and cross country",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#99rqnh",
+      "name": "Marathon: 42.195 km on roads",
+      "x": -330,
+      "y": 245,
+      "link": "https://en.wikipedia.org/wiki/Marathon",
+      "parent": "#gwa93w"
+    },
+    {
+      "@id": "#encs4x",
+      "name": "Race walking: one foot always grounded",
+      "x": -405,
+      "y": 156,
+      "parent": "#gwa93w"
+    },
+    {
+      "@id": "#f9xbte",
+      "name": "Cross country over open terrain",
+      "x": -505,
+      "y": 60,
+      "parent": "#gwa93w"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,29 @@
+category: Science
+aliases: plasma state of matter, plasma state, ionized gas, fourth state of matter
+- Plasma (physics)
+  - What plasma is
+    - Gas so hot electrons break free
+    - Mix of free electrons and ions
+    - Often called the fourth state of matter
+  - How it behaves
+    - Conducts electricity well
+    - Steered by magnetic and electric fields
+    - Glows as electrons rejoin atoms
+  - How it forms
+    - Extreme heat strips electrons off
+    - Strong electric fields ionise gas
+    - Cools back into ordinary gas
+  - Plasma in nature
+    - [Stars, including the Sun, are plasma](https://en.wikipedia.org/wiki/Sun)
+    - [Lightning heats air into plasma](https://en.wikipedia.org/wiki/Lightning)
+    - [Northern lights glow in the ionosphere](https://en.wikipedia.org/wiki/Aurora)
+    - Over 99% of visible universe
+  - Plasma in technology
+    - Neon signs and fluorescent lamps
+    - Plasma cutters slice through metal
+    - Etching patterns onto computer chips
+    - Old plasma TV screens
+  - Fusion energy
+    - [Tokamaks confine plasma with magnets](https://en.wikipedia.org/wiki/Tokamak)
+    - Needs over 100 million °C
+    - ITER is being built in France

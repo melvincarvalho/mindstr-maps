@@ -1,0 +1,296 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Rodent",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#zy64b6",
+      "name": "What makes a rodent",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#q7xcey",
+      "name": "One pair of ever-growing incisors per jaw",
+      "x": -524,
+      "y": -71,
+      "parent": "#zy64b6"
+    },
+    {
+      "@id": "#8e4nie",
+      "name": "Gnawing keeps the teeth worn down",
+      "x": -396,
+      "y": -171,
+      "parent": "#zy64b6"
+    },
+    {
+      "@id": "#qkjvzb",
+      "name": "No canines; a gap before cheek teeth",
+      "x": -305,
+      "y": -265,
+      "parent": "#zy64b6"
+    },
+    {
+      "@id": "#gcgg4b",
+      "name": "Diversity",
+      "x": 56,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6sa2je",
+      "name": "About 40% of all mammal species",
+      "x": -181,
+      "y": -330,
+      "parent": "#gcgg4b"
+    },
+    {
+      "@id": "#v7w77i",
+      "name": "Roughly 2,500 species",
+      "x": -41,
+      "y": -391,
+      "parent": "#gcgg4b"
+    },
+    {
+      "@id": "#ka72d5",
+      "name": "Capybara is the largest living rodent",
+      "x": 140,
+      "y": -445,
+      "link": "https://en.wikipedia.org/wiki/Capybara",
+      "parent": "#gcgg4b"
+    },
+    {
+      "@id": "#unatc3",
+      "name": "Smallest weigh only a few grams",
+      "x": 246,
+      "y": -301,
+      "parent": "#gcgg4b"
+    },
+    {
+      "@id": "#npfrwz",
+      "name": "Every continent except Antarctica",
+      "x": 355,
+      "y": -221,
+      "parent": "#gcgg4b"
+    },
+    {
+      "@id": "#xz9zd5",
+      "name": "Main groups",
+      "x": 227,
+      "y": 30,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d7nmwf",
+      "name": "Mice, rats and hamsters",
+      "x": 426,
+      "y": -117,
+      "parent": "#xz9zd5"
+    },
+    {
+      "@id": "#r8zg98",
+      "name": "Squirrels, chipmunks and marmots",
+      "x": 490,
+      "y": 0,
+      "parent": "#xz9zd5"
+    },
+    {
+      "@id": "#878d75",
+      "name": "Beavers build dams and lodges",
+      "x": 426,
+      "y": 117,
+      "link": "https://en.wikipedia.org/wiki/Beaver",
+      "parent": "#xz9zd5"
+    },
+    {
+      "@id": "#diyake",
+      "name": "Porcupines, cavies and chinchillas",
+      "x": 355,
+      "y": 221,
+      "parent": "#xz9zd5"
+    },
+    {
+      "@id": "#jefq5z",
+      "name": "Life and ecology",
+      "x": 56,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#67qmfc",
+      "name": "Breed fast with large litters",
+      "x": 246,
+      "y": 301,
+      "parent": "#jefq5z"
+    },
+    {
+      "@id": "#2733zz",
+      "name": "Key prey for owls, snakes and foxes",
+      "x": 110,
+      "y": 349,
+      "parent": "#jefq5z"
+    },
+    {
+      "@id": "#xw8v5k",
+      "name": "Squirrels' forgotten seed caches plant trees",
+      "x": -43,
+      "y": 407,
+      "parent": "#jefq5z"
+    },
+    {
+      "@id": "#fca3z6",
+      "name": "Rodents and people",
+      "x": -182,
+      "y": 113,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gdzxb7",
+      "name": "Lab mice used widely in research",
+      "x": -253,
+      "y": 465,
+      "link": "https://en.wikipedia.org/wiki/Laboratory_mouse",
+      "parent": "#fca3z6"
+    },
+    {
+      "@id": "#5avreq",
+      "name": "Pets: hamsters, gerbils and guinea pigs",
+      "x": -305,
+      "y": 265,
+      "parent": "#fca3z6"
+    },
+    {
+      "@id": "#8jqwnm",
+      "name": "Crop pests and spoiled food stores",
+      "x": -396,
+      "y": 171,
+      "parent": "#fca3z6"
+    },
+    {
+      "@id": "#re3wed",
+      "name": "Fleas on rats spread plague",
+      "x": -444,
+      "y": 59,
+      "link": "https://en.wikipedia.org/wiki/Black_Death",
+      "parent": "#fca3z6"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    }
+  ],
+  "selectedNode": 0
+}

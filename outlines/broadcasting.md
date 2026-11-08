@@ -1,0 +1,28 @@
+category: Society
+aliases: radio and television broadcasting, broadcast media
+- Broadcasting
+  - One transmitter, many receivers
+    - Anyone tuned in can receive it
+    - Live and scheduled, unlike on-demand media
+  - How it began
+    - [Marconi's wireless experiments, 1890s](https://en.wikipedia.org/wiki/Guglielmo_Marconi)
+    - Scheduled radio stations from 1920
+    - BBC founded in 1922
+    - Regular TV service from the late 1930s
+    - Television boomed in the 1950s
+  - How signals travel
+    - AM and FM radio waves
+    - Terrestrial towers, satellite and cable
+    - [Digital switchover replaced analogue TV](https://en.wikipedia.org/wiki/Digital_television_transition)
+  - Funding models
+    - [Public service: licence fee or taxes](https://en.wikipedia.org/wiki/Public_broadcasting)
+    - Commercial: paid for by advertising
+    - Subscription: pay TV and satellite
+  - Regulation
+    - Governments license the radio spectrum
+    - Regulators such as FCC and Ofcom
+    - Rules on impartiality and content
+  - Broadcasting today
+    - Streaming and podcasts compete for audiences
+    - Live sport and news still draw millions
+    - Radio still reaches most adults weekly

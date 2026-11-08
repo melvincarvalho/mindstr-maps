@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Chemical bond",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#327vvy",
+      "name": "Why atoms bond",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ry38xt",
+      "name": "Bonded atoms have lower energy",
+      "x": -465,
+      "y": -56,
+      "parent": "#327vvy"
+    },
+    {
+      "@id": "#5eu88i",
+      "name": "Outer electrons do the bonding",
+      "x": -405,
+      "y": -156,
+      "parent": "#327vvy"
+    },
+    {
+      "@id": "#pccmtj",
+      "name": "Many atoms seek eight outer electrons",
+      "x": -330,
+      "y": -245,
+      "link": "https://en.wikipedia.org/wiki/Octet_rule",
+      "parent": "#327vvy"
+    },
+    {
+      "@id": "#h45qcb",
+      "name": "Ionic bonds",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e2xsmt",
+      "name": "Electrons transfer from metal to non-metal",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Ionic_bonding",
+      "parent": "#h45qcb"
+    },
+    {
+      "@id": "#7zbmsk",
+      "name": "Opposite charges attract strongly",
+      "x": -104,
+      "y": -367,
+      "parent": "#h45qcb"
+    },
+    {
+      "@id": "#fra3ts",
+      "name": "Form crystals like table salt",
+      "x": 42,
+      "y": -423,
+      "parent": "#h45qcb"
+    },
+    {
+      "@id": "#uknx8h",
+      "name": "High melting points; conduct when dissolved",
+      "x": 234,
+      "y": -485,
+      "parent": "#h45qcb"
+    },
+    {
+      "@id": "#jvk66d",
+      "name": "Covalent bonds",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#afh2mq",
+      "name": "Atoms share pairs of electrons",
+      "x": 281,
+      "y": -281,
+      "link": "https://en.wikipedia.org/wiki/Covalent_bond",
+      "parent": "#jvk66d"
+    },
+    {
+      "@id": "#njhrpv",
+      "name": "Single, double or triple bonds",
+      "x": 372,
+      "y": -203,
+      "parent": "#jvk66d"
+    },
+    {
+      "@id": "#urfs6j",
+      "name": "Polar when sharing is unequal",
+      "x": 468,
+      "y": -116,
+      "parent": "#jvk66d"
+    },
+    {
+      "@id": "#q45r6n",
+      "name": "Hold together water, sugar and DNA",
+      "x": 450,
+      "y": 0,
+      "parent": "#jvk66d"
+    },
+    {
+      "@id": "#h3rzy8",
+      "name": "Metallic bonds",
+      "x": 190,
+      "y": 104,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#77idug",
+      "name": "Sea of electrons around metal ions",
+      "x": 468,
+      "y": 116,
+      "parent": "#h3rzy8"
+    },
+    {
+      "@id": "#b9k4az",
+      "name": "Explains conductivity and shine",
+      "x": 372,
+      "y": 203,
+      "parent": "#h3rzy8"
+    },
+    {
+      "@id": "#yvcg3v",
+      "name": "Lets metals bend without breaking",
+      "x": 281,
+      "y": 281,
+      "parent": "#h3rzy8"
+    },
+    {
+      "@id": "#3jc5s6",
+      "name": "Weaker attractions between molecules",
+      "x": 17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#84e8ze",
+      "name": "Hydrogen bonds hold DNA strands together",
+      "x": 164,
+      "y": 335,
+      "link": "https://en.wikipedia.org/wiki/Hydrogen_bond",
+      "parent": "#3jc5s6"
+    },
+    {
+      "@id": "#x3gwik",
+      "name": "Hydrogen bonds give water high boiling point",
+      "x": 38,
+      "y": 391,
+      "parent": "#3jc5s6"
+    },
+    {
+      "@id": "#t6re99",
+      "name": "Van der Waals forces let geckos climb",
+      "x": -124,
+      "y": 447,
+      "parent": "#3jc5s6"
+    },
+    {
+      "@id": "#s7aj4x",
+      "name": "Making and breaking bonds",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xh4uyb",
+      "name": "Breaking bonds takes in energy",
+      "x": -225,
+      "y": 312,
+      "parent": "#s7aj4x"
+    },
+    {
+      "@id": "#xusrwc",
+      "name": "Forming bonds gives out energy",
+      "x": -330,
+      "y": 245,
+      "parent": "#s7aj4x"
+    },
+    {
+      "@id": "#ddu62d",
+      "name": "Chemical reactions rearrange bonds",
+      "x": -405,
+      "y": 156,
+      "parent": "#s7aj4x"
+    },
+    {
+      "@id": "#v8k377",
+      "name": "Electronegativity predicts bond type",
+      "x": -445,
+      "y": 54,
+      "link": "https://en.wikipedia.org/wiki/Electronegativity",
+      "parent": "#s7aj4x"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

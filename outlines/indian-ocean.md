@@ -1,0 +1,30 @@
+category: Geography
+aliases: the indian ocean, indian ocean region
+- Indian Ocean
+  - Where it is
+    - Between Africa, Asia and Australia
+    - Third-largest ocean, about 70 million km²
+    - Warmest of the major oceans
+  - Key waters
+    - Arabian Sea and Bay of Bengal
+    - [Strait of Malacca to the Pacific](https://en.wikipedia.org/wiki/Strait_of_Malacca)
+    - Strait of Hormuz to the Persian Gulf
+    - Bab-el-Mandeb to the Red Sea
+  - Islands
+    - Madagascar, the largest
+    - Sri Lanka off southern India
+    - Low-lying Maldives threatened by rising seas
+    - Seychelles, Mauritius and Réunion
+  - Monsoons
+    - [Winds reverse direction with the seasons](https://en.wikipedia.org/wiki/Monsoon)
+    - Summer rains feed South Asia's farms
+    - Indian Ocean Dipole shifts rainfall
+  - Trade and history
+    - Dhows rode the monsoon winds for centuries
+    - Spices, silk and gold crossed it
+    - [Vasco da Gama reached India in 1498](https://en.wikipedia.org/wiki/Vasco_da_Gama)
+    - Key route for today's oil tankers
+  - Hazards
+    - [2004 tsunami killed about 230,000 people](https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami)
+    - Sunda Trench, about 7,200 m deep
+    - Cyclones strike Bangladesh and Mozambique

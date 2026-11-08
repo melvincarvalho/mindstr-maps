@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Carbon",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#7dw9eb",
+      "name": "Basics",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2iipeu",
+      "name": "Atomic number 6, symbol C",
+      "x": -445,
+      "y": -54,
+      "parent": "#7dw9eb"
+    },
+    {
+      "@id": "#yevc7j",
+      "name": "Forms four bonds per atom",
+      "x": -405,
+      "y": -156,
+      "parent": "#7dw9eb"
+    },
+    {
+      "@id": "#f4nrmn",
+      "name": "Builds chains, rings and huge molecules",
+      "x": -330,
+      "y": -245,
+      "parent": "#7dw9eb"
+    },
+    {
+      "@id": "#63aupu",
+      "name": "Forms of pure carbon",
+      "x": -17,
+      "y": -183,
+      "link": "https://en.wikipedia.org/wiki/Allotropes_of_carbon",
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wmjgah",
+      "name": "Diamond: hardest natural material",
+      "x": -225,
+      "y": -312,
+      "parent": "#63aupu"
+    },
+    {
+      "@id": "#fdbrdj",
+      "name": "Graphite: soft, conducts electricity",
+      "x": -104,
+      "y": -367,
+      "parent": "#63aupu"
+    },
+    {
+      "@id": "#56ukqw",
+      "name": "Graphene: one-atom-thick sheet",
+      "x": 42,
+      "y": -423,
+      "parent": "#63aupu"
+    },
+    {
+      "@id": "#kcmxqt",
+      "name": "Fullerenes and nanotubes",
+      "x": 234,
+      "y": -485,
+      "parent": "#63aupu"
+    },
+    {
+      "@id": "#7nut3i",
+      "name": "Where it's found",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dndm94",
+      "name": "Fourth most abundant element in universe",
+      "x": 281,
+      "y": -281,
+      "parent": "#7nut3i"
+    },
+    {
+      "@id": "#y6a43q",
+      "name": "Rocks like limestone and chalk",
+      "x": 372,
+      "y": -203,
+      "parent": "#7nut3i"
+    },
+    {
+      "@id": "#62z62g",
+      "name": "Coal, oil and natural gas",
+      "x": 449,
+      "y": -111,
+      "parent": "#7nut3i"
+    },
+    {
+      "@id": "#tuwxkp",
+      "name": "CO₂ in air and oceans",
+      "x": 450,
+      "y": 0,
+      "parent": "#7nut3i"
+    },
+    {
+      "@id": "#y2bdrg",
+      "name": "Basis of life",
+      "x": 190,
+      "y": 104,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b5zpg3",
+      "name": "Organic chemistry is carbon chemistry",
+      "x": 487,
+      "y": 121,
+      "link": "https://en.wikipedia.org/wiki/Organic_chemistry",
+      "parent": "#y2bdrg"
+    },
+    {
+      "@id": "#ksz3aj",
+      "name": "Backbone of sugars, fats, proteins, DNA",
+      "x": 372,
+      "y": 203,
+      "parent": "#y2bdrg"
+    },
+    {
+      "@id": "#yiwf9z",
+      "name": "About 18% of human body mass",
+      "x": 281,
+      "y": 281,
+      "parent": "#y2bdrg"
+    },
+    {
+      "@id": "#3unb3x",
+      "name": "The carbon cycle",
+      "x": 17,
+      "y": 183,
+      "link": "https://en.wikipedia.org/wiki/Carbon_cycle",
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ccvyqd",
+      "name": "Plants capture CO₂ by photosynthesis",
+      "x": 164,
+      "y": 335,
+      "parent": "#3unb3x"
+    },
+    {
+      "@id": "#hmbpkv",
+      "name": "Respiration and decay release it",
+      "x": 38,
+      "y": 391,
+      "parent": "#3unb3x"
+    },
+    {
+      "@id": "#wjd424",
+      "name": "Burning fossil fuels adds CO₂, warming climate",
+      "x": -124,
+      "y": 447,
+      "parent": "#3unb3x"
+    },
+    {
+      "@id": "#6m43b6",
+      "name": "Uses",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yxk34p",
+      "name": "Steel is iron plus a little carbon",
+      "x": -225,
+      "y": 312,
+      "parent": "#6m43b6"
+    },
+    {
+      "@id": "#en54jn",
+      "name": "Plastics and fuels from hydrocarbons",
+      "x": -330,
+      "y": 245,
+      "parent": "#6m43b6"
+    },
+    {
+      "@id": "#aaatny",
+      "name": "Carbon-14 dates ancient remains",
+      "x": -405,
+      "y": 156,
+      "link": "https://en.wikipedia.org/wiki/Radiocarbon_dating",
+      "parent": "#6m43b6"
+    },
+    {
+      "@id": "#gy6jwq",
+      "name": "Carbon fibre for light, strong parts",
+      "x": -445,
+      "y": 54,
+      "parent": "#6m43b6"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

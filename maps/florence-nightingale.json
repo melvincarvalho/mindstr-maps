@@ -1,0 +1,339 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Florence Nightingale",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#x99322",
+      "name": "Early life",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#44i7np",
+      "name": "Born 1820 in Florence, Italy",
+      "x": -445,
+      "y": -51,
+      "parent": "#x99322"
+    },
+    {
+      "@id": "#yren3s",
+      "name": "Wealthy British family, well educated",
+      "x": -409,
+      "y": -150,
+      "parent": "#x99322"
+    },
+    {
+      "@id": "#i9bd7v",
+      "name": "Felt a calling to serve",
+      "x": -340,
+      "y": -236,
+      "parent": "#x99322"
+    },
+    {
+      "@id": "#7meqbf",
+      "name": "Trained at Kaiserswerth, Germany",
+      "x": -243,
+      "y": -303,
+      "parent": "#x99322"
+    },
+    {
+      "@id": "#igig3u",
+      "name": "Crimean War",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5j8iap",
+      "name": "Led nurses to Scutari, 1854",
+      "x": -133,
+      "y": -360,
+      "link": "https://en.wikipedia.org/wiki/Crimean_War",
+      "parent": "#igig3u"
+    },
+    {
+      "@id": "#wmb2r2",
+      "name": "Filthy hospitals, disease killed most soldiers",
+      "x": 0,
+      "y": -408,
+      "parent": "#igig3u"
+    },
+    {
+      "@id": "#m2z5i5",
+      "name": "Improved hygiene, food and supplies",
+      "x": 175,
+      "y": -465,
+      "parent": "#igig3u"
+    },
+    {
+      "@id": "#vjbvxc",
+      "name": "Night rounds: 'the Lady with the Lamp'",
+      "x": 243,
+      "y": -303,
+      "parent": "#igig3u"
+    },
+    {
+      "@id": "#txcc7i",
+      "name": "Statistics and reform",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wh5pab",
+      "name": "Polar area diagrams of causes of death",
+      "x": 340,
+      "y": -236,
+      "parent": "#txcc7i"
+    },
+    {
+      "@id": "#6ygw89",
+      "name": "First woman in Royal Statistical Society",
+      "x": 409,
+      "y": -150,
+      "parent": "#txcc7i"
+    },
+    {
+      "@id": "#3hkmsh",
+      "name": "Pushed army sanitary reform",
+      "x": 505,
+      "y": -57,
+      "parent": "#txcc7i"
+    },
+    {
+      "@id": "#euessw",
+      "name": "Advised on public health in India",
+      "x": 445,
+      "y": 51,
+      "parent": "#txcc7i"
+    },
+    {
+      "@id": "#53t3v3",
+      "name": "Founding modern nursing",
+      "x": 174,
+      "y": 120,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qxfchj",
+      "name": "Notes on Nursing, 1859",
+      "x": 445,
+      "y": 164,
+      "link": "https://en.wikipedia.org/wiki/Notes_on_Nursing",
+      "parent": "#53t3v3"
+    },
+    {
+      "@id": "#ewxyxp",
+      "name": "Nightingale school at St Thomas', 1860",
+      "x": 340,
+      "y": 236,
+      "parent": "#53t3v3"
+    },
+    {
+      "@id": "#msaemq",
+      "name": "Nursing as a trained profession",
+      "x": 243,
+      "y": 303,
+      "parent": "#53t3v3"
+    },
+    {
+      "@id": "#dgfdbu",
+      "name": "Later life",
+      "x": -33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9z7kpz",
+      "name": "Largely bedridden from her late thirties",
+      "x": 133,
+      "y": 360,
+      "parent": "#dgfdbu"
+    },
+    {
+      "@id": "#4n39r3",
+      "name": "Worked through letters and reports",
+      "x": 0,
+      "y": 408,
+      "parent": "#dgfdbu"
+    },
+    {
+      "@id": "#rhn44q",
+      "name": "Order of Merit, 1907",
+      "x": -175,
+      "y": 465,
+      "parent": "#dgfdbu"
+    },
+    {
+      "@id": "#yazy2f",
+      "name": "Died 1910 in London",
+      "x": -243,
+      "y": 303,
+      "parent": "#dgfdbu"
+    },
+    {
+      "@id": "#az89b4",
+      "name": "Legacy",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#eq33yd",
+      "name": "International Nurses Day on her birthday",
+      "x": -340,
+      "y": 236,
+      "parent": "#az89b4"
+    },
+    {
+      "@id": "#hsquni",
+      "name": "Nightingale Pledge and nursing ideals",
+      "x": -409,
+      "y": 150,
+      "parent": "#az89b4"
+    },
+    {
+      "@id": "#x8tcy9",
+      "name": "Pioneer of evidence-based health policy",
+      "x": -465,
+      "y": 53,
+      "parent": "#az89b4"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,31 @@
+category: Geography
+aliases: africa south of the sahara, subsaharan africa, sub-saharan region
+- Sub-Saharan Africa
+  - Where it is
+    - All of Africa south of the Sahara
+    - [Sahel is the transition belt](https://en.wikipedia.org/wiki/Sahel)
+    - West, East, Central and Southern regions
+  - Land and climate
+    - Congo Basin rainforest
+    - Savannas with large wildlife herds
+    - East African highlands and Rift lakes
+    - Kalahari and Namib deserts in south
+  - Peoples and languages
+    - [Bantu languages span most of the south](https://en.wikipedia.org/wiki/Bantu_languages)
+    - Hausa, Yoruba, Amharic, Swahili, Zulu
+    - English, French, Portuguese as official
+    - Fastest-growing population of any region
+  - History in brief
+    - Kingdoms of Ghana, Mali, Great Zimbabwe
+    - [Atlantic slave trade, 1500s to 1800s](https://en.wikipedia.org/wiki/Atlantic_slave_trade)
+    - [Scramble for Africa and colonial rule](https://en.wikipedia.org/wiki/Scramble_for_Africa)
+    - Independence waves from 1957 onward
+    - Apartheid in South Africa ended 1994
+  - Economy
+    - Nigeria and South Africa lead
+    - Oil, minerals, cocoa, coffee exports
+    - Mobile money pioneered by M-Pesa
+  - Culture
+    - Rich oral traditions and griots
+    - Music from Afrobeat to amapiano
+    - Christianity, Islam and traditional beliefs

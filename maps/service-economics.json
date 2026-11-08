@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Service (economics)",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#3s8ei8",
+      "name": "What a service is",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bkzd97",
+      "name": "Work done for someone, not an object",
+      "x": -504,
+      "y": -62,
+      "parent": "#3s8ei8"
+    },
+    {
+      "@id": "#jetcay",
+      "name": "Contrast with goods you can own",
+      "x": -401,
+      "y": -163,
+      "parent": "#3s8ei8"
+    },
+    {
+      "@id": "#yyxiys",
+      "name": "Haircuts, banking, teaching, transport",
+      "x": -318,
+      "y": -255,
+      "parent": "#3s8ei8"
+    },
+    {
+      "@id": "#x3n7ff",
+      "name": "Distinctive features",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aewjf9",
+      "name": "Intangible: can't be touched or stored",
+      "x": -204,
+      "y": -321,
+      "parent": "#x3n7ff"
+    },
+    {
+      "@id": "#wqwtu6",
+      "name": "Produced and consumed at once",
+      "x": -73,
+      "y": -372,
+      "parent": "#x3n7ff"
+    },
+    {
+      "@id": "#nfv3u6",
+      "name": "Quality varies with who delivers it",
+      "x": 82,
+      "y": -420,
+      "parent": "#x3n7ff"
+    },
+    {
+      "@id": "#a48psc",
+      "name": "Customer often takes part",
+      "x": 204,
+      "y": -321,
+      "parent": "#x3n7ff"
+    },
+    {
+      "@id": "#bw3jye",
+      "name": "Main service industries",
+      "x": 247,
+      "y": -32,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bfiqfa",
+      "name": "Retail, hospitality and tourism",
+      "x": 318,
+      "y": -255,
+      "parent": "#bw3jye"
+    },
+    {
+      "@id": "#pn37p6",
+      "name": "Finance, insurance and real estate",
+      "x": 401,
+      "y": -163,
+      "parent": "#bw3jye"
+    },
+    {
+      "@id": "#g2vj2d",
+      "name": "Health care and education",
+      "x": 524,
+      "y": -64,
+      "parent": "#bw3jye"
+    },
+    {
+      "@id": "#i3a276",
+      "name": "Software, telecoms and media",
+      "x": 444,
+      "y": 56,
+      "parent": "#bw3jye"
+    },
+    {
+      "@id": "#wpky8i",
+      "name": "Government and public administration",
+      "x": 401,
+      "y": 163,
+      "parent": "#bw3jye"
+    },
+    {
+      "@id": "#kjhexf",
+      "name": "The service economy",
+      "x": 140,
+      "y": 220,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r7uc6x",
+      "name": "Tertiary sector of the economy",
+      "x": 346,
+      "y": 277,
+      "link": "https://en.wikipedia.org/wiki/Tertiary_sector_of_the_economy",
+      "parent": "#kjhexf"
+    },
+    {
+      "@id": "#34eh3u",
+      "name": "About 70–80% of rich-country GDP",
+      "x": 213,
+      "y": 335,
+      "parent": "#kjhexf"
+    },
+    {
+      "@id": "#t9qzvn",
+      "name": "Shift from factories to services",
+      "x": 76,
+      "y": 388,
+      "link": "https://en.wikipedia.org/wiki/Deindustrialization",
+      "parent": "#kjhexf"
+    },
+    {
+      "@id": "#xu7qdg",
+      "name": "Economic puzzles",
+      "x": -104,
+      "y": 164,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y373i2",
+      "name": "Baumol's cost disease raises service prices",
+      "x": -85,
+      "y": 436,
+      "link": "https://en.wikipedia.org/wiki/Baumol%27s_cost_disease",
+      "parent": "#xu7qdg"
+    },
+    {
+      "@id": "#bi49e8",
+      "name": "Productivity is hard to measure",
+      "x": -204,
+      "y": 321,
+      "parent": "#xu7qdg"
+    },
+    {
+      "@id": "#d3qbmy",
+      "name": "Digital services now traded across borders",
+      "x": -318,
+      "y": 255,
+      "parent": "#xu7qdg"
+    },
+    {
+      "@id": "#57czmj",
+      "name": "Managing services",
+      "x": -219,
+      "y": 57,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dap2gd",
+      "name": "Service level agreements set standards",
+      "x": -401,
+      "y": 163,
+      "parent": "#57czmj"
+    },
+    {
+      "@id": "#ezrsjd",
+      "name": "Service design maps the customer journey",
+      "x": -544,
+      "y": 66,
+      "link": "https://en.wikipedia.org/wiki/Service_design",
+      "parent": "#57czmj"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 10,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

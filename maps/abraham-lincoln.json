@@ -1,0 +1,320 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Abraham Lincoln",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#t7trfh",
+      "name": "Early life",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dybawg",
+      "name": "Born 1809 in a Kentucky log cabin",
+      "x": -464,
+      "y": -58,
+      "parent": "#t7trfh"
+    },
+    {
+      "@id": "#e7rwzw",
+      "name": "Largely self-taught on the frontier",
+      "x": -401,
+      "y": -163,
+      "parent": "#t7trfh"
+    },
+    {
+      "@id": "#hupknk",
+      "name": "Lawyer and state legislator in Illinois",
+      "x": -318,
+      "y": -255,
+      "parent": "#t7trfh"
+    },
+    {
+      "@id": "#8342gn",
+      "name": "Road to the presidency",
+      "x": -36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dsfvgf",
+      "name": "Lincoln–Douglas debates of 1858",
+      "x": -204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Lincoln%E2%80%93Douglas_debates",
+      "parent": "#8342gn"
+    },
+    {
+      "@id": "#nmek3y",
+      "name": "Opposed the spread of slavery westward",
+      "x": -73,
+      "y": -372,
+      "parent": "#8342gn"
+    },
+    {
+      "@id": "#nesfdc",
+      "name": "Elected 16th US president in 1860",
+      "x": 82,
+      "y": -420,
+      "parent": "#8342gn"
+    },
+    {
+      "@id": "#tiaiy6",
+      "name": "Civil War leader",
+      "x": 186,
+      "y": -108,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ysv738",
+      "name": "Southern states seceded; war began 1861",
+      "x": 204,
+      "y": -321,
+      "parent": "#tiaiy6"
+    },
+    {
+      "@id": "#6iesfs",
+      "name": "Held the Union together for four years",
+      "x": 318,
+      "y": -255,
+      "parent": "#tiaiy6"
+    },
+    {
+      "@id": "#6yq63m",
+      "name": "Gettysburg Address, November 1863",
+      "x": 401,
+      "y": -163,
+      "link": "https://en.wikipedia.org/wiki/Gettysburg_Address",
+      "parent": "#tiaiy6"
+    },
+    {
+      "@id": "#2s85ec",
+      "name": "Re-elected in 1864",
+      "x": 444,
+      "y": -56,
+      "parent": "#tiaiy6"
+    },
+    {
+      "@id": "#gcyt93",
+      "name": "Ending slavery",
+      "x": 205,
+      "y": 84,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k3qm5r",
+      "name": "Emancipation Proclamation took effect 1863",
+      "x": 524,
+      "y": 64,
+      "link": "https://en.wikipedia.org/wiki/Emancipation_Proclamation",
+      "parent": "#gcyt93"
+    },
+    {
+      "@id": "#dnjm3r",
+      "name": "Freed enslaved people in Confederate areas",
+      "x": 401,
+      "y": 163,
+      "parent": "#gcyt93"
+    },
+    {
+      "@id": "#6cbxid",
+      "name": "13th Amendment abolished slavery, 1865",
+      "x": 318,
+      "y": 255,
+      "link": "https://en.wikipedia.org/wiki/Thirteenth_Amendment_to_the_United_States_Constitution",
+      "parent": "#gcyt93"
+    },
+    {
+      "@id": "#sg366y",
+      "name": "Assassination",
+      "x": 36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uxffn7",
+      "name": "Shot by John Wilkes Booth, April 1865",
+      "x": 204,
+      "y": 321,
+      "link": "https://en.wikipedia.org/wiki/Assassination_of_Abraham_Lincoln",
+      "parent": "#sg366y"
+    },
+    {
+      "@id": "#4rbi8p",
+      "name": "Died days after Lee surrendered",
+      "x": 73,
+      "y": 372,
+      "parent": "#sg366y"
+    },
+    {
+      "@id": "#qc4knq",
+      "name": "First US president to be assassinated",
+      "x": -82,
+      "y": 420,
+      "parent": "#sg366y"
+    },
+    {
+      "@id": "#u8ahh8",
+      "name": "Legacy",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gtiewt",
+      "name": "Often ranked among the greatest presidents",
+      "x": -303,
+      "y": 475,
+      "parent": "#u8ahh8"
+    },
+    {
+      "@id": "#rgps6h",
+      "name": "Lincoln Memorial in Washington, D.C.",
+      "x": -318,
+      "y": 255,
+      "parent": "#u8ahh8"
+    },
+    {
+      "@id": "#rcgum8",
+      "name": "Face on the penny and $5 bill",
+      "x": -401,
+      "y": 163,
+      "parent": "#u8ahh8"
+    },
+    {
+      "@id": "#n9jqrd",
+      "name": "Symbol of democracy and national unity",
+      "x": -444,
+      "y": 56,
+      "parent": "#u8ahh8"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

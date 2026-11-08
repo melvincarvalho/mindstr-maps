@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Diplomacy",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#63tif8",
+      "name": "What it is",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cf7vpa",
+      "name": "Managing relations between states peacefully",
+      "x": -505,
+      "y": -57,
+      "parent": "#63tif8"
+    },
+    {
+      "@id": "#s9tzkr",
+      "name": "Negotiation instead of force",
+      "x": -409,
+      "y": -150,
+      "parent": "#63tif8"
+    },
+    {
+      "@id": "#fj2ruq",
+      "name": "Run by foreign ministries and diplomats",
+      "x": -340,
+      "y": -236,
+      "parent": "#63tif8"
+    },
+    {
+      "@id": "#9e79xu",
+      "name": "Who does it",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cz8h5f",
+      "name": "Ambassadors lead embassies abroad",
+      "x": -243,
+      "y": -303,
+      "parent": "#9e79xu"
+    },
+    {
+      "@id": "#rzmg94",
+      "name": "Consulates help citizens and visas",
+      "x": -133,
+      "y": -360,
+      "parent": "#9e79xu"
+    },
+    {
+      "@id": "#2qeph8",
+      "name": "Heads of government at summits",
+      "x": 0,
+      "y": -408,
+      "parent": "#9e79xu"
+    },
+    {
+      "@id": "#4qw7n3",
+      "name": "Envoys and special representatives",
+      "x": 175,
+      "y": -465,
+      "parent": "#9e79xu"
+    },
+    {
+      "@id": "#uvxifa",
+      "name": "Tools",
+      "x": 193,
+      "y": -99,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ysaqid",
+      "name": "Treaties and agreements",
+      "x": 243,
+      "y": -303,
+      "parent": "#uvxifa"
+    },
+    {
+      "@id": "#g7dp89",
+      "name": "Mediation between rivals",
+      "x": 340,
+      "y": -236,
+      "parent": "#uvxifa"
+    },
+    {
+      "@id": "#yg356x",
+      "name": "Sanctions and incentives",
+      "x": 409,
+      "y": -150,
+      "parent": "#uvxifa"
+    },
+    {
+      "@id": "#di7d3p",
+      "name": "Soft power: culture and aid",
+      "x": 445,
+      "y": -51,
+      "link": "https://en.wikipedia.org/wiki/Soft_power",
+      "parent": "#uvxifa"
+    },
+    {
+      "@id": "#aau43k",
+      "name": "Rules and customs",
+      "x": 193,
+      "y": 99,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j96n2e",
+      "name": "Vienna Convention on Diplomatic Relations, 1961",
+      "x": 445,
+      "y": 51,
+      "link": "https://en.wikipedia.org/wiki/Vienna_Convention_on_Diplomatic_Relations",
+      "parent": "#aau43k"
+    },
+    {
+      "@id": "#r5pmgt",
+      "name": "Diplomatic immunity protects envoys",
+      "x": 409,
+      "y": 150,
+      "link": "https://en.wikipedia.org/wiki/Diplomatic_immunity",
+      "parent": "#aau43k"
+    },
+    {
+      "@id": "#fa4ng4",
+      "name": "Expelling diplomats signals displeasure",
+      "x": 340,
+      "y": 236,
+      "parent": "#aau43k"
+    },
+    {
+      "@id": "#q9izts",
+      "name": "Protocol governs ceremony and rank",
+      "x": 243,
+      "y": 303,
+      "parent": "#aau43k"
+    },
+    {
+      "@id": "#tkxc8p",
+      "name": "History",
+      "x": -33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6qf7kn",
+      "name": "Amarna letters of ancient Egypt",
+      "x": 133,
+      "y": 360,
+      "parent": "#tkxc8p"
+    },
+    {
+      "@id": "#fynan6",
+      "name": "Renaissance Italy's permanent embassies",
+      "x": 0,
+      "y": 408,
+      "parent": "#tkxc8p"
+    },
+    {
+      "@id": "#znxnag",
+      "name": "Congress of Vienna, 1815",
+      "x": -175,
+      "y": 465,
+      "link": "https://en.wikipedia.org/wiki/Congress_of_Vienna",
+      "parent": "#tkxc8p"
+    },
+    {
+      "@id": "#muen37",
+      "name": "Multilateral diplomacy through the UN",
+      "x": -243,
+      "y": 303,
+      "parent": "#tkxc8p"
+    },
+    {
+      "@id": "#ijthh4",
+      "name": "Famous examples",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#n36vjg",
+      "name": "Camp David Accords, 1978",
+      "x": -340,
+      "y": 236,
+      "parent": "#ijthh4"
+    },
+    {
+      "@id": "#ynqfra",
+      "name": "Cuban Missile Crisis resolved, 1962",
+      "x": -409,
+      "y": 150,
+      "parent": "#ijthh4"
+    },
+    {
+      "@id": "#tdqgth",
+      "name": "Iran nuclear deal, 2015",
+      "x": -445,
+      "y": 51,
+      "parent": "#ijthh4"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

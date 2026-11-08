@@ -1,0 +1,29 @@
+category: Technology
+aliases: fossil fuels, coal oil and gas, what are fossil fuels
+- Fossil fuel
+  - How they formed
+    - Ancient plants and plankton buried
+    - Heat and pressure over millions of years
+    - Much coal from Carboniferous swamps
+  - The three main fuels
+    - [Coal: power stations and steel](https://en.wikipedia.org/wiki/Coal)
+    - [Oil: transport fuels and plastics](https://en.wikipedia.org/wiki/Petroleum)
+    - [Natural gas: heating and electricity](https://en.wikipedia.org/wiki/Natural_gas)
+  - Role in the world
+    - About 80% of global energy supply
+    - Powered the Industrial Revolution
+    - Feedstock for plastics and fertiliser
+  - Extraction
+    - Underground and open-pit coal mines
+    - Oil and gas wells, onshore and offshore
+    - [Fracking unlocks shale oil and gas](https://en.wikipedia.org/wiki/Hydraulic_fracturing)
+  - Problems
+    - Biggest source of CO₂ emissions
+    - Air pollution harms health
+    - Oil spills and mining damage
+    - Finite: not replaced on human timescales
+  - Moving away
+    - Renewables often cheapest new power
+    - Paris Agreement and net-zero targets
+    - Carbon capture for remaining emissions
+    - COP28 agreed transitioning away, 2023

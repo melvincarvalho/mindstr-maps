@@ -1,0 +1,28 @@
+category: Geography
+aliases: grasslands, grassland biome, grassland ecosystem
+- Grassland
+  - What it is
+    - Land dominated by grasses, few trees
+    - Among the largest land biomes
+    - Between forest and desert in rainfall
+  - Main types
+    - [Savanna: tropical, scattered trees](https://en.wikipedia.org/wiki/Savanna)
+    - [Prairie: North American temperate grassland](https://en.wikipedia.org/wiki/Prairie)
+    - Steppe across Central Asia
+    - Pampas of Argentina and Uruguay
+  - What shapes it
+    - Long dry season or drought
+    - Wildfires clear woody plants
+    - Grazing animals keep grass short
+  - Wildlife
+    - Great herds of wildebeest and bison
+    - Predators like lions and wolves
+    - Burrowers like prairie dogs
+  - People and grasslands
+    - Deep fertile soils became breadbaskets
+    - Livestock grazing and herding
+    - [Dust Bowl showed ploughing's risks](https://en.wikipedia.org/wiki/Dust_Bowl)
+  - Threats
+    - Conversion to cropland
+    - Overgrazing causes desertification
+    - Few grasslands are protected

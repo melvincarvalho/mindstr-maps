@@ -1,0 +1,32 @@
+category: History
+aliases: philosophy history, history of western philosophy, great philosophers through history
+- History of philosophy
+  - Ancient Greece
+    - Presocratics asked what everything is made of
+    - [Socrates questioned everything, died 399 BC](https://en.wikipedia.org/wiki/Socrates)
+    - Plato's theory of Forms
+    - Aristotle founded logic and much science
+    - Stoics and Epicureans on living well
+  - Ancient Asia
+    - [Confucius on virtue and social order](https://en.wikipedia.org/wiki/Confucius)
+    - Laozi and the Dao
+    - The Buddha on suffering and its end
+    - Indian schools debated self and reality
+  - Medieval philosophy
+    - Augustine joined Plato with Christianity
+    - Avicenna and Averroes revived Aristotle
+    - Aquinas reconciled faith and reason
+  - Early modern
+    - [Descartes: I think, therefore I am](https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes)
+    - Locke, Berkeley and Hume's empiricism
+    - Hobbes and Rousseau on the social contract
+    - Kant on the limits of reason
+  - 19th century
+    - Hegel's dialectic of history
+    - Marx on class and economics
+    - Mill's utilitarianism and liberty
+    - Nietzsche challenged traditional morality
+  - 20th century onward
+    - Analytic philosophy of language and logic
+    - [Existentialism: Sartre and de Beauvoir](https://en.wikipedia.org/wiki/Existentialism)
+    - Rawls' theory of justice

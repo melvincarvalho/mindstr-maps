@@ -1,0 +1,29 @@
+category: Science
+aliases: protons, what is a proton
+- Proton
+  - Basic facts
+    - Positive charge, equal to the electron's
+    - About 1,836 times an electron's mass
+    - Made of two up quarks, one down
+    - Stable: no decay ever observed
+  - Discovery
+    - [Rutherford identified it, about 1917–1919](https://en.wikipedia.org/wiki/Ernest_Rutherford)
+    - Knocked out of nitrogen by alpha particles
+    - Named after Greek "protos", first
+  - Defines the element
+    - [Proton count is the atomic number](https://en.wikipedia.org/wiki/Atomic_number)
+    - One proton makes hydrogen
+    - Six make carbon, 92 make uranium
+  - Holding the nucleus together
+    - Protons repel each other electrically
+    - [Strong force overpowers the repulsion](https://en.wikipedia.org/wiki/Nuclear_force)
+    - Neutrons help keep nuclei stable
+  - In stars and space
+    - [Sun fuses protons into helium](https://en.wikipedia.org/wiki/Proton%E2%80%93proton_chain)
+    - Most cosmic rays are fast protons
+    - Hydrogen nuclei fill the universe
+  - In technology and medicine
+    - LHC collides protons near light speed
+    - Proton therapy targets tumours precisely
+    - MRI reads signals from hydrogen protons
+    - Acids work by releasing protons

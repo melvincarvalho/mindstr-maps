@@ -1,0 +1,373 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Italy",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#qn7gen",
+      "name": "Geography",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zr9brg",
+      "name": "Boot-shaped Mediterranean peninsula",
+      "x": -446,
+      "y": -45,
+      "parent": "#qn7gen"
+    },
+    {
+      "@id": "#kz2h2p",
+      "name": "About 300,000 km²",
+      "x": -418,
+      "y": -133,
+      "parent": "#qn7gen"
+    },
+    {
+      "@id": "#nqwqeq",
+      "name": "Alps in north, Apennines down spine",
+      "x": -364,
+      "y": -212,
+      "parent": "#qn7gen"
+    },
+    {
+      "@id": "#r5pet5",
+      "name": "Sicily and Sardinia, largest islands",
+      "x": -287,
+      "y": -277,
+      "parent": "#qn7gen"
+    },
+    {
+      "@id": "#jmubhy",
+      "name": "Volcanoes Etna and Vesuvius still active",
+      "x": -192,
+      "y": -326,
+      "parent": "#qn7gen"
+    },
+    {
+      "@id": "#722mv5",
+      "name": "People and languages",
+      "x": 43,
+      "y": -181,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b83yai",
+      "name": "About 59 million people",
+      "x": -92,
+      "y": -386,
+      "parent": "#722mv5"
+    },
+    {
+      "@id": "#jgzuj3",
+      "name": "Italian plus many regional dialects",
+      "x": 33,
+      "y": -439,
+      "parent": "#722mv5"
+    },
+    {
+      "@id": "#9zzeyj",
+      "name": "Mostly Catholic; Vatican City inside Rome",
+      "x": 199,
+      "y": -492,
+      "parent": "#722mv5"
+    },
+    {
+      "@id": "#gvisus",
+      "name": "Ageing population, low birth rate",
+      "x": 241,
+      "y": -304,
+      "parent": "#722mv5"
+    },
+    {
+      "@id": "#8rfzyk",
+      "name": "History in brief",
+      "x": 223,
+      "y": -46,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cm4q96",
+      "name": "Rome grew into a Mediterranean empire",
+      "x": 328,
+      "y": -246,
+      "link": "https://en.wikipedia.org/wiki/Ancient_Rome",
+      "parent": "#8rfzyk"
+    },
+    {
+      "@id": "#irjzh4",
+      "name": "Renaissance began in Florence, 14th century",
+      "x": 394,
+      "y": -173,
+      "link": "https://en.wikipedia.org/wiki/Italian_Renaissance",
+      "parent": "#8rfzyk"
+    },
+    {
+      "@id": "#m4vakz",
+      "name": "Unified as a kingdom, 1861",
+      "x": 455,
+      "y": -94,
+      "link": "https://en.wikipedia.org/wiki/Italian_unification",
+      "parent": "#8rfzyk"
+    },
+    {
+      "@id": "#uctpyx",
+      "name": "Mussolini's Fascist rule, 1922 to 1943",
+      "x": 530,
+      "y": 0,
+      "parent": "#8rfzyk"
+    },
+    {
+      "@id": "#kzcxys",
+      "name": "Became a republic by referendum, 1946",
+      "x": 436,
+      "y": 90,
+      "parent": "#8rfzyk"
+    },
+    {
+      "@id": "#xy93fy",
+      "name": "Government",
+      "x": 147,
+      "y": 142,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hx99yd",
+      "name": "Parliamentary republic; Rome is capital",
+      "x": 430,
+      "y": 189,
+      "parent": "#xy93fy"
+    },
+    {
+      "@id": "#cewnq6",
+      "name": "President is head of state",
+      "x": 328,
+      "y": 246,
+      "parent": "#xy93fy"
+    },
+    {
+      "@id": "#fc568r",
+      "name": "Prime minister needs confidence of both chambers",
+      "x": 241,
+      "y": 304,
+      "parent": "#xy93fy"
+    },
+    {
+      "@id": "#2v5k2x",
+      "name": "Founding member of the EU",
+      "x": 145,
+      "y": 357,
+      "parent": "#xy93fy"
+    },
+    {
+      "@id": "#wrjwq9",
+      "name": "Economy",
+      "x": -43,
+      "y": 181,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ss8m2p",
+      "name": "Uses the euro; industrial north, poorer south",
+      "x": 31,
+      "y": 407,
+      "parent": "#wrjwq9"
+    },
+    {
+      "@id": "#w9jmgq",
+      "name": "Fashion, cars, machinery and food",
+      "x": -112,
+      "y": 466,
+      "parent": "#wrjwq9"
+    },
+    {
+      "@id": "#2xfsqu",
+      "name": "Tourism is a major industry",
+      "x": -192,
+      "y": 326,
+      "parent": "#wrjwq9"
+    },
+    {
+      "@id": "#267qyg",
+      "name": "Culture",
+      "x": -202,
+      "y": 89,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p6y52j",
+      "name": "Leonardo, Michelangelo and Raphael",
+      "x": -287,
+      "y": 277,
+      "parent": "#267qyg"
+    },
+    {
+      "@id": "#6b9nq4",
+      "name": "Opera of Verdi and Puccini",
+      "x": -364,
+      "y": 212,
+      "parent": "#267qyg"
+    },
+    {
+      "@id": "#p49rq8",
+      "name": "Pasta, pizza, espresso and regional cooking",
+      "x": -437,
+      "y": 139,
+      "parent": "#267qyg"
+    },
+    {
+      "@id": "#mg4mq6",
+      "name": "Among most UNESCO World Heritage Sites",
+      "x": -466,
+      "y": 47,
+      "parent": "#267qyg"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 7,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 12,
+      "end": 16
+    },
+    {
+      "start": 12,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 0,
+      "end": 27
+    },
+    {
+      "start": 27,
+      "end": 28
+    },
+    {
+      "start": 27,
+      "end": 29
+    },
+    {
+      "start": 27,
+      "end": 30
+    },
+    {
+      "start": 27,
+      "end": 31
+    }
+  ],
+  "selectedNode": 0
+}

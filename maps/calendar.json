@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Calendar",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#xg2czq",
+      "name": "Built on sky cycles",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hsxmxx",
+      "name": "Day: Earth spins once",
+      "x": -445,
+      "y": -51,
+      "parent": "#xg2czq"
+    },
+    {
+      "@id": "#3si8wz",
+      "name": "Month: Moon's phases, about 29.5 days",
+      "x": -409,
+      "y": -150,
+      "parent": "#xg2czq"
+    },
+    {
+      "@id": "#pyurxc",
+      "name": "Year: one orbit, about 365.24 days",
+      "x": -340,
+      "y": -236,
+      "parent": "#xg2czq"
+    },
+    {
+      "@id": "#kic2aa",
+      "name": "The cycles don't divide evenly",
+      "x": -243,
+      "y": -303,
+      "parent": "#xg2czq"
+    },
+    {
+      "@id": "#dppq48",
+      "name": "Kinds of calendar",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qhhwn7",
+      "name": "Solar calendars follow the seasons",
+      "x": -133,
+      "y": -360,
+      "parent": "#dppq48"
+    },
+    {
+      "@id": "#7hftkv",
+      "name": "Lunar: Islamic year of 354 days",
+      "x": 0,
+      "y": -408,
+      "link": "https://en.wikipedia.org/wiki/Islamic_calendar",
+      "parent": "#dppq48"
+    },
+    {
+      "@id": "#nibide",
+      "name": "Lunisolar: Hebrew and Chinese calendars",
+      "x": 175,
+      "y": -465,
+      "parent": "#dppq48"
+    },
+    {
+      "@id": "#6gp6qu",
+      "name": "From Rome to Gregory",
+      "x": 209,
+      "y": -76,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vmeu7d",
+      "name": "Julian calendar introduced 45 BC",
+      "x": 243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Julian_calendar",
+      "parent": "#6gp6qu"
+    },
+    {
+      "@id": "#iievhz",
+      "name": "Julian year 11 minutes too long",
+      "x": 340,
+      "y": -236,
+      "parent": "#6gp6qu"
+    },
+    {
+      "@id": "#2j4ufx",
+      "name": "Pope Gregory XIII's reform, 1582",
+      "x": 409,
+      "y": -150,
+      "link": "https://en.wikipedia.org/wiki/Gregorian_calendar",
+      "parent": "#6gp6qu"
+    },
+    {
+      "@id": "#n8m66m",
+      "name": "Ten days skipped to catch up",
+      "x": 485,
+      "y": -55,
+      "parent": "#6gp6qu"
+    },
+    {
+      "@id": "#74vp92",
+      "name": "Britain and colonies switched in 1752",
+      "x": 445,
+      "y": 51,
+      "parent": "#6gp6qu"
+    },
+    {
+      "@id": "#xqv7gg",
+      "name": "Leap years",
+      "x": 174,
+      "y": 120,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#89ydsz",
+      "name": "Extra day every four years",
+      "x": 409,
+      "y": 150,
+      "parent": "#xqv7gg"
+    },
+    {
+      "@id": "#q97vad",
+      "name": "Skip century years except every 400th",
+      "x": 340,
+      "y": 236,
+      "parent": "#xqv7gg"
+    },
+    {
+      "@id": "#cc3g5m",
+      "name": "So 2000 was a leap year",
+      "x": 243,
+      "y": 303,
+      "parent": "#xqv7gg"
+    },
+    {
+      "@id": "#i7jjg7",
+      "name": "Weeks and months",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kvvqrh",
+      "name": "Seven-day week has ancient Near Eastern roots",
+      "x": 133,
+      "y": 360,
+      "parent": "#i7jjg7"
+    },
+    {
+      "@id": "#r6a9uy",
+      "name": "July and August named after Caesars",
+      "x": 0,
+      "y": 408,
+      "parent": "#i7jjg7"
+    },
+    {
+      "@id": "#e2fczt",
+      "name": "September was once the seventh month",
+      "x": -175,
+      "y": 465,
+      "parent": "#i7jjg7"
+    },
+    {
+      "@id": "#5n36eq",
+      "name": "Calendars today",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bbh6va",
+      "name": "Gregorian is the worldwide civil standard",
+      "x": -243,
+      "y": 303,
+      "parent": "#5n36eq"
+    },
+    {
+      "@id": "#9aqkzh",
+      "name": "Religious festivals keep older calendars",
+      "x": -340,
+      "y": 236,
+      "parent": "#5n36eq"
+    },
+    {
+      "@id": "#4dygu5",
+      "name": "Easter and Ramadan dates move yearly",
+      "x": -409,
+      "y": 150,
+      "parent": "#5n36eq"
+    },
+    {
+      "@id": "#zmf3mt",
+      "name": "ISO 8601 writes dates year-month-day",
+      "x": -445,
+      "y": 51,
+      "link": "https://en.wikipedia.org/wiki/ISO_8601",
+      "parent": "#5n36eq"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 10,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,30 @@
+category: Society
+aliases: immigration and emigration, why people migrate, international migration
+- Human migration
+  - Early human migrations
+    - [Modern humans left Africa 60,000+ years ago](https://en.wikipedia.org/wiki/Recent_African_origin_of_modern_humans)
+    - Americas reached across Bering land bridge
+    - Austronesians settled Pacific islands by canoe
+  - Types of migration
+    - Internal: within one country
+    - International: across borders
+    - [Refugees flee war and persecution](https://en.wikipedia.org/wiki/Refugee)
+    - Seasonal and temporary labour migration
+  - Why people move
+    - Push: poverty, conflict, disaster
+    - Pull: jobs, safety, family ties
+    - Climate change expected to increase moves
+  - Great historical movements
+    - [Atlantic slave trade moved 12.5 million](https://en.wikipedia.org/wiki/Atlantic_slave_trade)
+    - European emigration to the Americas, 1800s
+    - Partition of India displaced about 15 million
+    - Rural-to-urban shift worldwide
+  - Today
+    - About 280 million international migrants
+    - Remittances send money to home countries
+    - [UNHCR supports refugees and displaced people](https://en.wikipedia.org/wiki/United_Nations_High_Commissioner_for_Refugees)
+  - Effects and debates
+    - Labour supply and economic growth
+    - Brain drain from origin countries
+    - Integration, identity and cultural change
+    - Border control and immigration policy

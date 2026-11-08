@@ -1,0 +1,30 @@
+category: Geography
+aliases: south pole continent, antarctic continent, the antarctic
+- Antarctica
+  - The land and ice
+    - Fifth-largest continent, around the South Pole
+    - [Ice sheet averages about 2 km thick](https://en.wikipedia.org/wiki/Antarctic_ice_sheet)
+    - Holds most of Earth's fresh water
+    - Transantarctic Mountains split East and West
+  - Extreme climate
+    - Coldest, driest, windiest continent
+    - [Record low about −89°C at Vostok](https://en.wikipedia.org/wiki/Vostok_Station)
+    - Interior is technically a desert
+    - Months of continuous dark or light
+  - Life
+    - Penguins, seals and seabirds on coasts
+    - [Krill feed the Southern Ocean](https://en.wikipedia.org/wiki/Antarctic_krill)
+    - Only mosses and lichens on land
+  - Exploration
+    - First sighted in 1820
+    - [Amundsen reached the Pole in 1911](https://en.wikipedia.org/wiki/Roald_Amundsen)
+    - Scott's party died returning, 1912
+  - Governance
+    - [Antarctic Treaty signed 1959](https://en.wikipedia.org/wiki/Antarctic_Treaty_System)
+    - Reserved for peace and science
+    - Mining banned by environmental protocol
+    - Seven countries' territorial claims frozen
+  - Science and change
+    - Ice cores record ancient climates
+    - Ozone hole discovered above it
+    - Melting ice could raise sea levels

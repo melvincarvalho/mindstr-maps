@@ -1,0 +1,307 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Furniture",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#769ijz",
+      "name": "What furniture is for",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g4egz3",
+      "name": "Sitting, sleeping and working",
+      "x": -484,
+      "y": -60,
+      "parent": "#769ijz"
+    },
+    {
+      "@id": "#9j8udn",
+      "name": "Storing and displaying things",
+      "x": -401,
+      "y": -163,
+      "parent": "#769ijz"
+    },
+    {
+      "@id": "#wfskjk",
+      "name": "Shaping how a room is used",
+      "x": -318,
+      "y": -255,
+      "parent": "#769ijz"
+    },
+    {
+      "@id": "#6pg3s8",
+      "name": "Main types",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yx2r7r",
+      "name": "Seating: chairs, sofas, stools, benches",
+      "x": -204,
+      "y": -321,
+      "parent": "#6pg3s8"
+    },
+    {
+      "@id": "#ay2m9b",
+      "name": "Tables and desks",
+      "x": -73,
+      "y": -372,
+      "parent": "#6pg3s8"
+    },
+    {
+      "@id": "#wxqs83",
+      "name": "Beds and mattresses",
+      "x": 82,
+      "y": -420,
+      "parent": "#6pg3s8"
+    },
+    {
+      "@id": "#fngqdg",
+      "name": "Storage: wardrobes, shelves, chests of drawers",
+      "x": 303,
+      "y": -475,
+      "parent": "#6pg3s8"
+    },
+    {
+      "@id": "#qtwn4v",
+      "name": "Materials",
+      "x": 219,
+      "y": -57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#64qmv7",
+      "name": "Solid hardwoods like oak and walnut",
+      "x": 318,
+      "y": -255,
+      "parent": "#qtwn4v"
+    },
+    {
+      "@id": "#xjfhtd",
+      "name": "Plywood, MDF and particleboard",
+      "x": 401,
+      "y": -163,
+      "parent": "#qtwn4v"
+    },
+    {
+      "@id": "#8qmhfi",
+      "name": "Metal, plastic, rattan and glass",
+      "x": 464,
+      "y": -58,
+      "parent": "#qtwn4v"
+    },
+    {
+      "@id": "#87b8tg",
+      "name": "Upholstery fabric, leather and foam",
+      "x": 444,
+      "y": 56,
+      "parent": "#qtwn4v"
+    },
+    {
+      "@id": "#q2pnhe",
+      "name": "Styles through history",
+      "x": 104,
+      "y": 164,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dfzck7",
+      "name": "Ancient Egyptian chairs and beds",
+      "x": 401,
+      "y": 163,
+      "parent": "#q2pnhe"
+    },
+    {
+      "@id": "#gqij4i",
+      "name": "Chippendale and Georgian craftsmanship",
+      "x": 318,
+      "y": 255,
+      "link": "https://en.wikipedia.org/wiki/Thomas_Chippendale",
+      "parent": "#q2pnhe"
+    },
+    {
+      "@id": "#6af7un",
+      "name": "Arts and Crafts favoured handwork",
+      "x": 204,
+      "y": 321,
+      "link": "https://en.wikipedia.org/wiki/Arts_and_Crafts_movement",
+      "parent": "#q2pnhe"
+    },
+    {
+      "@id": "#hkbm6f",
+      "name": "Mid-century modern: clean simple lines",
+      "x": 73,
+      "y": 372,
+      "link": "https://en.wikipedia.org/wiki/Mid-century_modern",
+      "parent": "#q2pnhe"
+    },
+    {
+      "@id": "#jdrajf",
+      "name": "Flat-pack furniture made it affordable",
+      "x": -82,
+      "y": 420,
+      "link": "https://en.wikipedia.org/wiki/Ready-to-assemble_furniture",
+      "parent": "#q2pnhe"
+    },
+    {
+      "@id": "#mqtdk5",
+      "name": "Choosing and caring",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kcijjg",
+      "name": "Measure the room and doorways first",
+      "x": -204,
+      "y": 321,
+      "parent": "#mqtdk5"
+    },
+    {
+      "@id": "#gd9d4v",
+      "name": "Check joints, frames and stability",
+      "x": -318,
+      "y": 255,
+      "parent": "#mqtdk5"
+    },
+    {
+      "@id": "#9qdks2",
+      "name": "Anchor tall units to the wall",
+      "x": -401,
+      "y": 163,
+      "parent": "#mqtdk5"
+    },
+    {
+      "@id": "#tngv74",
+      "name": "Buy second-hand, repair and reupholster",
+      "x": -444,
+      "y": 56,
+      "parent": "#mqtdk5"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 15,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

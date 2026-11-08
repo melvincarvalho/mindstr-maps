@@ -1,0 +1,34 @@
+category: Geography
+aliases: republic of singapore, singapore city, singapore city-state
+- Singapore
+  - Setting
+    - Island city-state off Malay Peninsula
+    - About 730 km², grown by land reclamation
+    - About 6 million people
+    - Hot, humid and rainy all year
+  - History
+    - [Raffles set up British trading post, 1819](https://en.wikipedia.org/wiki/Founding_of_modern_Singapore)
+    - Japanese occupation 1942–1945
+    - Part of Malaysia from 1963
+    - Independent on 9 August 1965
+    - [Lee Kuan Yew prime minister 1959–1990](https://en.wikipedia.org/wiki/Lee_Kuan_Yew)
+  - People
+    - Mainly Chinese, Malay and Indian
+    - English, Malay, Mandarin and Tamil official
+    - About 80% live in public HDB flats
+  - Government and economy
+    - People's Action Party governing since 1959
+    - Among the world's busiest container ports
+    - Global finance and trade hub
+    - One of the highest GDPs per person
+    - Changi Airport
+  - Landmarks
+    - Marina Bay Sands
+    - [Gardens by the Bay's Supertrees](https://en.wikipedia.org/wiki/Gardens_by_the_Bay)
+    - Merlion statue
+    - Botanic Gardens, a World Heritage Site
+    - Sentosa island resort
+  - Culture
+    - [Hawker centres, UNESCO-listed food culture](https://en.wikipedia.org/wiki/Hawker_centre)
+    - Chilli crab and Hainanese chicken rice
+    - Singlish, the local English

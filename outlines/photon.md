@@ -1,0 +1,30 @@
+category: Science
+aliases: photons, particle of light, light particle, light quantum
+- Photon
+  - What it is
+    - A single packet of light
+    - Carries the electromagnetic force
+    - No mass and no charge
+    - Always travels at light speed
+  - Energy and colour
+    - Energy rises with frequency
+    - Blue photons carry more than red
+    - [Radio to gamma rays: same particle](https://en.wikipedia.org/wiki/Electromagnetic_spectrum)
+  - How the idea arose
+    - Planck's energy quanta, 1900
+    - [Einstein explains photoelectric effect, 1905](https://en.wikipedia.org/wiki/Photoelectric_effect)
+    - Compton shows photons bounce like particles, 1923
+    - Named "photon" in 1926
+  - Wave and particle
+    - [Double-slit test shows interference](https://en.wikipedia.org/wiki/Double-slit_experiment)
+    - Yet detectors register single clicks
+    - Behaves as whichever we measure
+  - Made and absorbed by atoms
+    - Electrons dropping levels emit photons
+    - Each element gives off its own colours
+    - Plants catch photons in photosynthesis
+  - Technology
+    - [Lasers emit matching photons in step](https://en.wikipedia.org/wiki/Laser)
+    - Solar panels turn photons into current
+    - Fibre optics carry data as light
+    - Camera sensors count photons per pixel

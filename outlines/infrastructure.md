@@ -1,0 +1,28 @@
+category: Technology
+aliases: public infrastructure, what is infrastructure, national infrastructure
+- Infrastructure
+  - What it means
+    - Shared systems a society runs on
+    - Physical networks plus the services
+    - Mostly invisible until it fails
+  - Transport networks
+    - Roads, bridges and tunnels
+    - [Railways carry freight and passengers](https://en.wikipedia.org/wiki/Rail_transport)
+    - Ports and airports link countries
+  - Energy
+    - Power stations generate electricity
+    - [Grid carries power across regions](https://en.wikipedia.org/wiki/Electrical_grid)
+    - Pipelines move oil and gas
+  - Water
+    - Dams and reservoirs store supply
+    - Treatment plants make water safe
+    - Sewers and drains remove waste
+  - Communications
+    - [Undersea cables carry most internet traffic](https://en.wikipedia.org/wiki/Submarine_communications_cable)
+    - Fibre networks and mobile masts
+    - Satellites for GPS and broadcasting
+  - Building and paying for it
+    - Designed to last for decades
+    - Funded by taxes, tolls and bills
+    - Neglected maintenance leads to failures
+    - [Critical sites protected from attack](https://en.wikipedia.org/wiki/Critical_infrastructure)

@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Carbon dioxide",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#424n77",
+      "name": "The molecule",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ns28xt",
+      "name": "One carbon atom, two oxygen atoms",
+      "x": -464,
+      "y": -58,
+      "parent": "#424n77"
+    },
+    {
+      "@id": "#hvihep",
+      "name": "Colourless gas, heavier than air",
+      "x": -401,
+      "y": -163,
+      "parent": "#424n77"
+    },
+    {
+      "@id": "#pyczmb",
+      "name": "Turns solid at −78°C as dry ice",
+      "x": -318,
+      "y": -255,
+      "link": "https://en.wikipedia.org/wiki/Dry_ice",
+      "parent": "#424n77"
+    },
+    {
+      "@id": "#ujp9dx",
+      "name": "Where it comes from",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#f5p8sj",
+      "name": "Animals and people breathe it out",
+      "x": -204,
+      "y": -321,
+      "parent": "#ujp9dx"
+    },
+    {
+      "@id": "#ss65r4",
+      "name": "Burning fuels, wood and waste",
+      "x": -73,
+      "y": -372,
+      "parent": "#ujp9dx"
+    },
+    {
+      "@id": "#f2752u",
+      "name": "Volcanoes and decaying matter",
+      "x": 82,
+      "y": -420,
+      "parent": "#ujp9dx"
+    },
+    {
+      "@id": "#5fy8v8",
+      "name": "Cement making and fermentation",
+      "x": 204,
+      "y": -321,
+      "parent": "#ujp9dx"
+    },
+    {
+      "@id": "#wwsafs",
+      "name": "Its role in life",
+      "x": 205,
+      "y": -84,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2azrku",
+      "name": "Plants use it in photosynthesis",
+      "x": 318,
+      "y": -255,
+      "link": "https://en.wikipedia.org/wiki/Photosynthesis",
+      "parent": "#wwsafs"
+    },
+    {
+      "@id": "#6ngfgy",
+      "name": "Part of the carbon cycle",
+      "x": 401,
+      "y": -163,
+      "parent": "#wwsafs"
+    },
+    {
+      "@id": "#sqw8pj",
+      "name": "Breathing rate controlled by blood CO₂",
+      "x": 504,
+      "y": -62,
+      "parent": "#wwsafs"
+    },
+    {
+      "@id": "#jze7dj",
+      "name": "Climate and oceans",
+      "x": 205,
+      "y": 84,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#299y8c",
+      "name": "Main greenhouse gas from human activity",
+      "x": 524,
+      "y": 64,
+      "link": "https://en.wikipedia.org/wiki/Carbon_dioxide_in_Earth%27s_atmosphere",
+      "parent": "#jze7dj"
+    },
+    {
+      "@id": "#b8dd7n",
+      "name": "Risen from 280 to over 420 ppm",
+      "x": 401,
+      "y": 163,
+      "parent": "#jze7dj"
+    },
+    {
+      "@id": "#yts4aq",
+      "name": "Oceans absorb it and turn more acidic",
+      "x": 318,
+      "y": 255,
+      "parent": "#jze7dj"
+    },
+    {
+      "@id": "#hw9nib",
+      "name": "Everyday uses",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hnezer",
+      "name": "Bubbles in fizzy drinks",
+      "x": 204,
+      "y": 321,
+      "parent": "#hw9nib"
+    },
+    {
+      "@id": "#vnmykz",
+      "name": "Fire extinguishers smother flames",
+      "x": 73,
+      "y": 372,
+      "parent": "#hw9nib"
+    },
+    {
+      "@id": "#37e3tx",
+      "name": "Dry ice keeps goods frozen",
+      "x": -82,
+      "y": 420,
+      "parent": "#hw9nib"
+    },
+    {
+      "@id": "#xihcrn",
+      "name": "Greenhouses add it to boost growth",
+      "x": -204,
+      "y": 321,
+      "parent": "#hw9nib"
+    },
+    {
+      "@id": "#6qc65q",
+      "name": "Safety",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qz29gc",
+      "name": "High levels cause headaches and drowsiness",
+      "x": -318,
+      "y": 255,
+      "parent": "#6qc65q"
+    },
+    {
+      "@id": "#hhdq6h",
+      "name": "Can build up in cellars and tanks",
+      "x": -401,
+      "y": 163,
+      "parent": "#6qc65q"
+    },
+    {
+      "@id": "#iaexih",
+      "name": "Captured and stored underground to cut emissions",
+      "x": -524,
+      "y": 64,
+      "link": "https://en.wikipedia.org/wiki/Carbon_capture_and_storage",
+      "parent": "#6qc65q"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

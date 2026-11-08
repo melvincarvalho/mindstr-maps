@@ -1,0 +1,30 @@
+category: Arts and culture
+aliases: romantic movement, romantic era, romantic period, romanticism art
+- Romanticism
+  - What it was
+    - Movement of about 1790 to 1850
+    - Feeling and imagination over reason
+    - Reaction to Enlightenment and industry
+  - Big themes
+    - The sublime power of nature
+    - The lone, inspired genius
+    - Folk tales, the past and nationhood
+    - Mystery, the supernatural and Gothic
+  - Literature
+    - [Wordsworth and Coleridge's Lyrical Ballads, 1798](https://en.wikipedia.org/wiki/Lyrical_Ballads)
+    - Byron, Shelley and Keats
+    - Goethe and the German Sturm und Drang
+    - Mary Shelley's Frankenstein, 1818
+  - Painting
+    - [Caspar David Friedrich's misty landscapes](https://en.wikipedia.org/wiki/Caspar_David_Friedrich)
+    - J. M. W. Turner's storms and light
+    - Delacroix's Liberty Leading the People
+    - Goya's dark visions of war
+  - Music
+    - Beethoven bridged Classical and Romantic
+    - [Chopin, Schubert and Schumann](https://en.wikipedia.org/wiki/Romantic_music)
+    - Wagner's huge music dramas
+  - Legacy
+    - Inspired nationalist movements in Europe
+    - Modern idea of self-expression
+    - [Realism arose in reaction](https://en.wikipedia.org/wiki/Realism_%28arts%29)

@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Clothing",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#427pvz",
+      "name": "Why people wear clothes",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5nzdci",
+      "name": "Protection from cold, sun and injury",
+      "x": -445,
+      "y": -51,
+      "parent": "#427pvz"
+    },
+    {
+      "@id": "#y9u45x",
+      "name": "Modesty norms differ between cultures",
+      "x": -409,
+      "y": -150,
+      "parent": "#427pvz"
+    },
+    {
+      "@id": "#tnr4s9",
+      "name": "Signals identity, status and role",
+      "x": -340,
+      "y": -236,
+      "parent": "#427pvz"
+    },
+    {
+      "@id": "#3n9yhi",
+      "name": "Uniforms mark jobs and teams",
+      "x": -243,
+      "y": -303,
+      "parent": "#427pvz"
+    },
+    {
+      "@id": "#bta5y8",
+      "name": "A long history",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#unvpkd",
+      "name": "Hides and furs worn in prehistory",
+      "x": -133,
+      "y": -360,
+      "link": "https://en.wikipedia.org/wiki/History_of_clothing_and_textiles",
+      "parent": "#bta5y8"
+    },
+    {
+      "@id": "#4pwetc",
+      "name": "Sewing needles over 40,000 years old",
+      "x": 0,
+      "y": -408,
+      "parent": "#bta5y8"
+    },
+    {
+      "@id": "#9uxy59",
+      "name": "Weaving spread with early farming",
+      "x": 175,
+      "y": -465,
+      "parent": "#bta5y8"
+    },
+    {
+      "@id": "#p3ptwv",
+      "name": "Factory-made clothes since the 1800s",
+      "x": 243,
+      "y": -303,
+      "parent": "#bta5y8"
+    },
+    {
+      "@id": "#h4zew8",
+      "name": "What clothes are made of",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sx6n4p",
+      "name": "Plant fibres: cotton and linen",
+      "x": 340,
+      "y": -236,
+      "parent": "#h4zew8"
+    },
+    {
+      "@id": "#h7k7ee",
+      "name": "Animal fibres: wool, silk, leather",
+      "x": 409,
+      "y": -150,
+      "parent": "#h4zew8"
+    },
+    {
+      "@id": "#ucwcdn",
+      "name": "Synthetics like polyester and nylon",
+      "x": 545,
+      "y": -61,
+      "link": "https://en.wikipedia.org/wiki/Synthetic_fiber",
+      "parent": "#h4zew8"
+    },
+    {
+      "@id": "#8wy8gy",
+      "name": "Fabric is woven or knitted yarn",
+      "x": 445,
+      "y": 51,
+      "parent": "#h4zew8"
+    },
+    {
+      "@id": "#sk8y5e",
+      "name": "Main garment types",
+      "x": 151,
+      "y": 139,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e58ji9",
+      "name": "Tops: shirts, blouses, jumpers",
+      "x": 427,
+      "y": 157,
+      "parent": "#sk8y5e"
+    },
+    {
+      "@id": "#gbzdrw",
+      "name": "Bottoms: trousers, skirts, shorts",
+      "x": 340,
+      "y": 236,
+      "parent": "#sk8y5e"
+    },
+    {
+      "@id": "#u3nj2y",
+      "name": "Wraps and robes like sari, kimono",
+      "x": 243,
+      "y": 303,
+      "parent": "#sk8y5e"
+    },
+    {
+      "@id": "#sn5fus",
+      "name": "Outerwear, underwear and footwear",
+      "x": 133,
+      "y": 360,
+      "parent": "#sk8y5e"
+    },
+    {
+      "@id": "#i2vxaw",
+      "name": "Fashion and industry",
+      "x": -71,
+      "y": 192,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vzsjcg",
+      "name": "Trends cycle through seasons and decades",
+      "x": 0,
+      "y": 408,
+      "link": "https://en.wikipedia.org/wiki/Fashion",
+      "parent": "#i2vxaw"
+    },
+    {
+      "@id": "#uptpdz",
+      "name": "Fast fashion makes cheap clothes quickly",
+      "x": -175,
+      "y": 465,
+      "link": "https://en.wikipedia.org/wiki/Fast_fashion",
+      "parent": "#i2vxaw"
+    },
+    {
+      "@id": "#8fgiy4",
+      "name": "Large water use and textile waste",
+      "x": -243,
+      "y": 303,
+      "parent": "#i2vxaw"
+    },
+    {
+      "@id": "#5iha4d",
+      "name": "Caring for clothes",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#axdfpm",
+      "name": "Follow the care label symbols",
+      "x": -355,
+      "y": 246,
+      "parent": "#5iha4d"
+    },
+    {
+      "@id": "#fg9v59",
+      "name": "Wash cooler, line-dry when possible",
+      "x": -409,
+      "y": 150,
+      "parent": "#5iha4d"
+    },
+    {
+      "@id": "#7e8avk",
+      "name": "Repair, swap or buy second-hand",
+      "x": -485,
+      "y": 55,
+      "parent": "#5iha4d"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

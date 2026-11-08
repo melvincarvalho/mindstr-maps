@@ -1,0 +1,31 @@
+category: History
+aliases: golden age of islam, islamic golden age science, medieval islamic science
+- Islamic Golden Age
+  - When and where
+    - Roughly 8th to 13th centuries
+    - [Centred on Abbasid Baghdad](https://en.wikipedia.org/wiki/Abbasid_Caliphate)
+    - Also Córdoba, Cairo and Bukhara
+    - Ends with Mongol sack of Baghdad, 1258
+  - What made it possible
+    - [House of Wisdom in Baghdad](https://en.wikipedia.org/wiki/House_of_Wisdom)
+    - Translating Greek, Persian and Indian works
+    - Paper-making learned from China
+    - Trade routes linking three continents
+  - Mathematics and astronomy
+    - [Al-Khwarizmi founds algebra](https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi)
+    - Hindu–Arabic numerals spread westward
+    - Observatories improved star tables
+    - Astrolabes refined for navigation and prayer
+  - Medicine and science
+    - Ibn Sina's Canon of Medicine
+    - Public hospitals with trained physicians
+    - Ibn al-Haytham's experiments on optics
+    - Al-Razi distinguishes smallpox from measles
+  - Philosophy and culture
+    - Al-Farabi and Ibn Rushd on Aristotle
+    - One Thousand and One Nights collected
+    - Geometric art and grand mosques
+  - Legacy
+    - Arabic texts translated into Latin
+    - Words like algebra, algorithm, alchemy
+    - Helped spark Europe's later Renaissance

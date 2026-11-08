@@ -1,0 +1,32 @@
+category: Philosophy and religion
+aliases: jewish religion, jewish faith, judaism beliefs
+- Judaism
+  - Core beliefs
+    - One God, creator of the world
+    - Covenant between God and Israel
+    - God gave the Torah at Sinai
+    - Hope for a future messianic age
+  - Sacred texts
+    - [Torah: five books of Moses](https://en.wikipedia.org/wiki/Torah)
+    - Hebrew Bible, the Tanakh
+    - [Talmud: rabbinic law and debate](https://en.wikipedia.org/wiki/Talmud)
+  - History
+    - Abraham, Isaac and Jacob as patriarchs
+    - Temple in Jerusalem destroyed 586 BCE
+    - Second Temple destroyed 70 CE
+    - Rabbinic Judaism grows after 70 CE
+    - [Holocaust killed six million Jews](https://en.wikipedia.org/wiki/The_Holocaust)
+  - Practice
+    - [Shabbat, weekly day of rest](https://en.wikipedia.org/wiki/Shabbat)
+    - Kosher dietary laws (kashrut)
+    - Synagogue prayer led by rabbis
+    - Bar and bat mitzvah coming of age
+  - Festivals
+    - Passover recalls the Exodus
+    - Rosh Hashanah and Yom Kippur
+    - Sukkot, Shavuot and Hanukkah
+  - Movements today
+    - [Orthodox keeps traditional halakha](https://en.wikipedia.org/wiki/Orthodox_Judaism)
+    - Conservative and Reform adapt tradition
+    - About 15 million Jews worldwide
+    - Largest communities in Israel and US

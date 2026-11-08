@@ -1,0 +1,29 @@
+category: Science
+aliases: what is life, definition of life, living things
+- Life
+  - What counts as alive
+    - Made of one or more cells
+    - Uses energy through metabolism
+    - Grows, responds and reproduces
+    - Evolves over generations
+    - Viruses are a borderline case
+  - Shared chemistry
+    - Built mainly from carbon compounds
+    - Needs liquid water
+    - [DNA and RNA carry instructions](https://en.wikipedia.org/wiki/Genetic_code)
+  - History on Earth
+    - [Began at least 3.5 billion years ago](https://en.wikipedia.org/wiki/Earliest_known_life_forms)
+    - Microbes alone for about 2 billion years
+    - [Cambrian explosion about 540 million years ago](https://en.wikipedia.org/wiki/Cambrian_explosion)
+    - Five major mass extinctions
+  - Forms of life
+    - Bacteria and archaea, single-celled
+    - Eukaryotes: plants, animals, fungi
+    - Millions of species, most undescribed
+  - Where life lives
+    - From deep-sea vents to ice
+    - Extremophiles survive heat, acid, radiation
+    - Biosphere covers land, sea and air
+  - Open questions
+    - [How life first began](https://en.wikipedia.org/wiki/Abiogenesis)
+    - [Is there life elsewhere?](https://en.wikipedia.org/wiki/Extraterrestrial_life)

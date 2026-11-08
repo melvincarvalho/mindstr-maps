@@ -1,0 +1,29 @@
+category: Geography
+aliases: rome italy, city of rome, eternal city
+- Rome
+  - Setting
+    - Capital of Italy, on the Tiber
+    - Built on seven hills
+    - Encloses Vatican City
+  - History
+    - Legend says founded 753 BC
+    - [Capital of the Roman Empire](https://en.wikipedia.org/wiki/Roman_Empire)
+    - Centre of the papacy for centuries
+    - Capital of united Italy from 1871
+  - People
+    - About 2.8 million, Italy's largest city
+    - Romans, Italians from elsewhere, migrants
+    - City government at Capitoline Hill
+  - Economy
+    - National government and services
+    - Tourism and pilgrimage
+    - Film studios at Cinecittà
+  - Landmarks
+    - [Colosseum, opened AD 80](https://en.wikipedia.org/wiki/Colosseum)
+    - [Pantheon's unreinforced concrete dome](https://en.wikipedia.org/wiki/Pantheon,_Rome)
+    - Roman Forum and Palatine Hill
+    - Trevi Fountain and Spanish Steps
+  - Culture
+    - [St Peter's Basilica and Sistine Chapel](https://en.wikipedia.org/wiki/St._Peter%27s_Basilica)
+    - Renaissance and Baroque art everywhere
+    - Pasta carbonara and cacio e pepe

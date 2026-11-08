@@ -1,0 +1,30 @@
+category: Science
+aliases: pigs, domestic pig, hog, swine, sus domesticus
+- Pig
+  - The animal
+    - [Descends from the wild boar](https://en.wikipedia.org/wiki/Wild_boar)
+    - Sows are female, boars male
+    - Litters of about 10 to 12 piglets
+    - Snout used for rooting soil
+  - Domestication
+    - Tamed about 9,000 years ago
+    - Separately in Near East and China
+    - Spread with farmers across the world
+  - Intelligence and behaviour
+    - Among the smartest farm animals
+    - Social, with grunts to communicate
+    - [Wallow in mud to keep cool](https://en.wikipedia.org/wiki/Wallowing_%28behavior%29)
+    - Can't sweat much
+  - Pigs and food
+    - [Pork is a widely eaten meat](https://en.wikipedia.org/wiki/Pork)
+    - About 1 billion pigs alive
+    - China raises about half
+    - Forbidden in Judaism and Islam
+  - Uses beyond meat
+    - Truffle hunting by scent
+    - Heart valves for human surgery
+    - Kept as pets, like micro pigs
+  - Health and welfare
+    - [African swine fever kills many herds](https://en.wikipedia.org/wiki/African_swine_fever)
+    - Sow stalls banned in some countries
+    - Need space, bedding and things to root

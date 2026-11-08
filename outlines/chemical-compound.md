@@ -1,0 +1,30 @@
+category: Science
+aliases: chemical compounds, what is a compound, compounds in chemistry
+- Chemical compound
+  - What a compound is
+    - Two or more elements chemically bonded
+    - Fixed ratio of elements every time
+    - Properties differ from its elements
+  - Compounds vs mixtures
+    - Mixtures can be separated physically
+    - Compounds need chemical reactions to split
+    - Salty water is a mixture
+  - How atoms are held together
+    - [Ionic: metals give electrons to non-metals](https://en.wikipedia.org/wiki/Ionic_compound)
+    - Covalent: atoms share electrons
+    - Bond type shapes melting point and hardness
+  - Writing formulas
+    - [H₂O: two hydrogens, one oxygen](https://en.wikipedia.org/wiki/Chemical_formula)
+    - CO₂: one carbon, two oxygens
+    - NaCl: sodium and chlorine, one each
+    - Names follow agreed IUPAC rules
+  - Main families
+    - [Organic compounds are built on carbon](https://en.wikipedia.org/wiki/Organic_compound)
+    - Inorganic: salts, oxides, most minerals
+    - Acids and bases
+    - Polymers: long repeating chains like plastics
+  - Everyday examples
+    - Table sugar is sucrose
+    - Baking soda is sodium bicarbonate
+    - Rust is iron oxide
+    - [Over 100 million compounds catalogued](https://en.wikipedia.org/wiki/Chemical_Abstracts_Service)

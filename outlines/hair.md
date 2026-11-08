@@ -1,0 +1,31 @@
+category: Science
+aliases: human hair, how hair grows, hair growth
+- Hair
+  - What hair is
+    - [Made mainly of keratin protein](https://en.wikipedia.org/wiki/Keratin)
+    - Grows from follicles in the skin
+    - Shaft above the skin is dead
+    - Grows everywhere except palms and soles
+  - How it grows
+    - Scalp hair grows about 1 cm monthly
+    - [Cycles of growth, rest and shedding](https://en.wikipedia.org/wiki/Hair_follicle)
+    - Losing 50–100 hairs daily is normal
+    - About 100,000 hairs on the scalp
+  - Colour and texture
+    - [Melanin sets hair colour](https://en.wikipedia.org/wiki/Melanin)
+    - Turns grey as pigment production slows
+    - Follicle shape makes hair straight or curly
+  - What hair does
+    - Helps keep the head warm
+    - Eyelashes and brows protect eyes
+    - Body hair senses light touch
+  - Common problems
+    - [Male and female pattern baldness](https://en.wikipedia.org/wiki/Pattern_hair_loss)
+    - Alopecia areata causes patchy loss
+    - Dandruff from a flaky scalp
+    - Head lice, common in children
+  - Hair care
+    - Wash gently to suit hair type
+    - Limit heat and harsh chemicals
+    - Balanced diet supports healthy hair
+    - Sudden heavy loss: see a doctor

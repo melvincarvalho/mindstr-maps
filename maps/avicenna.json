@@ -1,0 +1,317 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Avicenna",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#v9crg6",
+      "name": "Life",
+      "x": -169,
+      "y": -125,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e7g7k3",
+      "name": "Born about 980 near Bukhara",
+      "x": -445,
+      "y": -54,
+      "parent": "#v9crg6"
+    },
+    {
+      "@id": "#t4q92b",
+      "name": "Persian polymath, wrote mostly in Arabic",
+      "x": -423,
+      "y": -163,
+      "parent": "#v9crg6"
+    },
+    {
+      "@id": "#shxqkc",
+      "name": "Treated the Samanid emir as a teenager",
+      "x": -330,
+      "y": -245,
+      "parent": "#v9crg6"
+    },
+    {
+      "@id": "#jb5p76",
+      "name": "Physician and vizier in Hamadan",
+      "x": -225,
+      "y": -312,
+      "parent": "#v9crg6"
+    },
+    {
+      "@id": "#k9vk3y",
+      "name": "Died 1037 in Hamadan",
+      "x": -104,
+      "y": -367,
+      "parent": "#v9crg6"
+    },
+    {
+      "@id": "#fvcce7",
+      "name": "The Canon of Medicine",
+      "x": 115,
+      "y": -159,
+      "link": "https://en.wikipedia.org/wiki/The_Canon_of_Medicine",
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#f6nxcb",
+      "name": "Five-book medical encyclopedia, finished 1025",
+      "x": 42,
+      "y": -423,
+      "parent": "#fvcce7"
+    },
+    {
+      "@id": "#v7vzht",
+      "name": "Combined Galen, Aristotle and own observation",
+      "x": 234,
+      "y": -485,
+      "parent": "#fvcce7"
+    },
+    {
+      "@id": "#myfha3",
+      "name": "Discussed contagion and quarantine",
+      "x": 281,
+      "y": -281,
+      "parent": "#fvcce7"
+    },
+    {
+      "@id": "#jjk39d",
+      "name": "European medical textbook into the 1600s",
+      "x": 389,
+      "y": -212,
+      "parent": "#fvcce7"
+    },
+    {
+      "@id": "#6msnr4",
+      "name": "Philosophy",
+      "x": 220,
+      "y": 54,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2pdjb7",
+      "name": "The Book of Healing, a scientific encyclopedia",
+      "x": 430,
+      "y": -106,
+      "link": "https://en.wikipedia.org/wiki/The_Book_of_Healing",
+      "parent": "#6msnr4"
+    },
+    {
+      "@id": "#xq58eh",
+      "name": "Built on Aristotle and Neoplatonism",
+      "x": 450,
+      "y": 0,
+      "parent": "#6msnr4"
+    },
+    {
+      "@id": "#54v54f",
+      "name": "Floating man thought experiment",
+      "x": 430,
+      "y": 106,
+      "link": "https://en.wikipedia.org/wiki/Floating_man",
+      "parent": "#6msnr4"
+    },
+    {
+      "@id": "#i5pd8z",
+      "name": "Distinguished essence from existence",
+      "x": 372,
+      "y": 203,
+      "parent": "#6msnr4"
+    },
+    {
+      "@id": "#xjncrd",
+      "name": "Argued God is the Necessary Existent",
+      "x": 281,
+      "y": 281,
+      "parent": "#6msnr4"
+    },
+    {
+      "@id": "#pu3de7",
+      "name": "Other sciences",
+      "x": 17,
+      "y": 183,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cywrmd",
+      "name": "Astronomy, physics, geology and music",
+      "x": 164,
+      "y": 335,
+      "parent": "#pu3de7"
+    },
+    {
+      "@id": "#firdns",
+      "name": "Doubted alchemists could transmute metals",
+      "x": 38,
+      "y": 391,
+      "parent": "#pu3de7"
+    },
+    {
+      "@id": "#9a6epr",
+      "name": "Wrote poetry in Arabic and Persian",
+      "x": -124,
+      "y": 447,
+      "parent": "#pu3de7"
+    },
+    {
+      "@id": "#gw78i5",
+      "name": "Legacy",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hecehg",
+      "name": "Latinised as Avicenna in medieval Europe",
+      "x": -235,
+      "y": 326,
+      "parent": "#gw78i5"
+    },
+    {
+      "@id": "#2mjsa7",
+      "name": "Influenced Aquinas and scholastic thinkers",
+      "x": -330,
+      "y": 245,
+      "parent": "#gw78i5"
+    },
+    {
+      "@id": "#gc9zku",
+      "name": "Al-Ghazali attacked his philosophy",
+      "x": -405,
+      "y": 156,
+      "parent": "#gw78i5"
+    },
+    {
+      "@id": "#7ytfqz",
+      "name": "Mausoleum in Hamadan, Iran",
+      "x": -445,
+      "y": 54,
+      "parent": "#gw78i5"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 7,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 12,
+      "end": 16
+    },
+    {
+      "start": 12,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

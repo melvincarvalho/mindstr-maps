@@ -1,0 +1,320 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Ear",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#m89xfx",
+      "name": "Outer ear",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u7stcf",
+      "name": "Pinna funnels sound inward",
+      "x": -444,
+      "y": -56,
+      "parent": "#m89xfx"
+    },
+    {
+      "@id": "#6ayp4v",
+      "name": "Ear canal ends at the eardrum",
+      "x": -401,
+      "y": -163,
+      "parent": "#m89xfx"
+    },
+    {
+      "@id": "#j5q35k",
+      "name": "Earwax cleans and protects",
+      "x": -318,
+      "y": -255,
+      "parent": "#m89xfx"
+    },
+    {
+      "@id": "#wmkkse",
+      "name": "Middle ear",
+      "x": -36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rqmhaw",
+      "name": "Three tiny bones: hammer, anvil, stirrup",
+      "x": -204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Ossicles",
+      "parent": "#wmkkse"
+    },
+    {
+      "@id": "#6hdvrt",
+      "name": "Bones amplify eardrum vibrations",
+      "x": -73,
+      "y": -372,
+      "parent": "#wmkkse"
+    },
+    {
+      "@id": "#phvczx",
+      "name": "Eustachian tube equalises pressure",
+      "x": 82,
+      "y": -420,
+      "link": "https://en.wikipedia.org/wiki/Eustachian_tube",
+      "parent": "#wmkkse"
+    },
+    {
+      "@id": "#5t6yaz",
+      "name": "Inner ear",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ea3cr5",
+      "name": "Cochlea turns vibrations into nerve signals",
+      "x": 303,
+      "y": -475,
+      "link": "https://en.wikipedia.org/wiki/Cochlea",
+      "parent": "#5t6yaz"
+    },
+    {
+      "@id": "#m579ve",
+      "name": "Hair cells detect different pitches",
+      "x": 318,
+      "y": -255,
+      "parent": "#5t6yaz"
+    },
+    {
+      "@id": "#q3vq6g",
+      "name": "Auditory nerve carries signals to brain",
+      "x": 437,
+      "y": -177,
+      "parent": "#5t6yaz"
+    },
+    {
+      "@id": "#ykce73",
+      "name": "Balance",
+      "x": 227,
+      "y": 29,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mkcesn",
+      "name": "Semicircular canals sense head rotation",
+      "x": 444,
+      "y": -56,
+      "link": "https://en.wikipedia.org/wiki/Vestibular_system",
+      "parent": "#ykce73"
+    },
+    {
+      "@id": "#vfwgyz",
+      "name": "Otolith organs sense gravity and acceleration",
+      "x": 524,
+      "y": 64,
+      "parent": "#ykce73"
+    },
+    {
+      "@id": "#vqg3jm",
+      "name": "Mismatch with eyes causes motion sickness",
+      "x": 401,
+      "y": 163,
+      "parent": "#ykce73"
+    },
+    {
+      "@id": "#69ggwu",
+      "name": "Common problems",
+      "x": 71,
+      "y": 175,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tusifp",
+      "name": "Age-related hearing loss",
+      "x": 318,
+      "y": 255,
+      "link": "https://en.wikipedia.org/wiki/Hearing_loss",
+      "parent": "#69ggwu"
+    },
+    {
+      "@id": "#3uj8q5",
+      "name": "Loud noise damage is permanent",
+      "x": 204,
+      "y": 321,
+      "parent": "#69ggwu"
+    },
+    {
+      "@id": "#m6yysz",
+      "name": "Tinnitus: ringing in the ears",
+      "x": 73,
+      "y": 372,
+      "parent": "#69ggwu"
+    },
+    {
+      "@id": "#bbyvwu",
+      "name": "Middle ear infections, common in children",
+      "x": -82,
+      "y": 420,
+      "parent": "#69ggwu"
+    },
+    {
+      "@id": "#83ebwg",
+      "name": "Looking after ears",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zzh8kj",
+      "name": "Don't push cotton buds inside",
+      "x": -204,
+      "y": 321,
+      "parent": "#83ebwg"
+    },
+    {
+      "@id": "#3594t3",
+      "name": "Keep headphone volume moderate",
+      "x": -318,
+      "y": 255,
+      "parent": "#83ebwg"
+    },
+    {
+      "@id": "#2kxfp9",
+      "name": "Wear ear protection at loud events",
+      "x": -401,
+      "y": 163,
+      "parent": "#83ebwg"
+    },
+    {
+      "@id": "#9ae9b6",
+      "name": "Get hearing tested if struggling",
+      "x": -444,
+      "y": 56,
+      "parent": "#83ebwg"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

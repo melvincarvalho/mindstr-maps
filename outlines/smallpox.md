@@ -1,0 +1,30 @@
+category: Health
+aliases: variola, smallpox eradication, smallpox virus, smallpox vaccine
+- Smallpox
+  - The disease
+    - [Caused by the variola virus](https://en.wikipedia.org/wiki/Variola_virus)
+    - Spread by close face-to-face contact
+    - Fever, then a blistering pustular rash
+    - Killed about 30% of those infected
+    - Survivors often scarred or blinded
+  - History
+    - Afflicted humans for thousands of years
+    - About 300 million deaths in 20th century
+    - Devastated Indigenous peoples of the Americas
+  - Early prevention
+    - [Variolation: deliberate mild infection](https://en.wikipedia.org/wiki/Variolation)
+    - [Jenner's cowpox vaccine, 1796](https://en.wikipedia.org/wiki/Edward_Jenner)
+    - The first vaccine ever developed
+  - Eradication
+    - WHO intensified campaign from 1967
+    - Ring vaccination around each case
+    - Last natural case: Somalia, 1977
+    - Declared eradicated in 1980
+  - Why it matters
+    - Only human disease ever eradicated
+    - Model for polio eradication efforts
+    - Routine vaccination could stop
+  - Today
+    - Virus stocks kept in US and Russia
+    - Vaccines stockpiled against bioterrorism
+    - [Mpox is a related virus](https://en.wikipedia.org/wiki/Mpox)

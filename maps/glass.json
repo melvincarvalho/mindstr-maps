@@ -1,0 +1,307 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Glass",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#k6b4ri",
+      "name": "What glass is",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tbnfq9",
+      "name": "Solid without a crystal structure",
+      "x": -444,
+      "y": -56,
+      "parent": "#k6b4ri"
+    },
+    {
+      "@id": "#q2ikge",
+      "name": "Mostly silica from sand",
+      "x": -401,
+      "y": -163,
+      "parent": "#k6b4ri"
+    },
+    {
+      "@id": "#6ekpr7",
+      "name": "Soda and lime lower melting point",
+      "x": -318,
+      "y": -255,
+      "parent": "#k6b4ri"
+    },
+    {
+      "@id": "#7x34qa",
+      "name": "Old panes don't flow; that's myth",
+      "x": -204,
+      "y": -321,
+      "parent": "#k6b4ri"
+    },
+    {
+      "@id": "#4fua27",
+      "name": "How it's made",
+      "x": 71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#f6uppt",
+      "name": "Melted at about 1,500°C",
+      "x": -73,
+      "y": -372,
+      "parent": "#4fua27"
+    },
+    {
+      "@id": "#dpqdi5",
+      "name": "Float glass spread on molten tin",
+      "x": 82,
+      "y": -420,
+      "link": "https://en.wikipedia.org/wiki/Float_glass",
+      "parent": "#4fua27"
+    },
+    {
+      "@id": "#7swkc6",
+      "name": "Pressed or blown into moulds",
+      "x": 204,
+      "y": -321,
+      "parent": "#4fua27"
+    },
+    {
+      "@id": "#2k3tpu",
+      "name": "Annealing cools slowly to avoid cracks",
+      "x": 318,
+      "y": -255,
+      "parent": "#4fua27"
+    },
+    {
+      "@id": "#zfqash",
+      "name": "History",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mi498q",
+      "name": "First made in Mesopotamia, before 2000 BC",
+      "x": 401,
+      "y": -163,
+      "parent": "#zfqash"
+    },
+    {
+      "@id": "#zj2ncb",
+      "name": "Glassblowing spread under the Romans",
+      "x": 444,
+      "y": -56,
+      "link": "https://en.wikipedia.org/wiki/Glassblowing",
+      "parent": "#zfqash"
+    },
+    {
+      "@id": "#v5vx9m",
+      "name": "Medieval stained glass windows",
+      "x": 444,
+      "y": 56,
+      "parent": "#zfqash"
+    },
+    {
+      "@id": "#msamsq",
+      "name": "Pilkington float process, 1950s",
+      "x": 401,
+      "y": 163,
+      "parent": "#zfqash"
+    },
+    {
+      "@id": "#x3ppci",
+      "name": "Special glasses",
+      "x": 71,
+      "y": 175,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nuhycb",
+      "name": "Toughened glass breaks into small pieces",
+      "x": 318,
+      "y": 255,
+      "link": "https://en.wikipedia.org/wiki/Tempered_glass",
+      "parent": "#x3ppci"
+    },
+    {
+      "@id": "#xwe9a8",
+      "name": "Laminated windscreens hold together",
+      "x": 204,
+      "y": 321,
+      "parent": "#x3ppci"
+    },
+    {
+      "@id": "#ggxy3y",
+      "name": "Borosilicate resists heat in ovenware",
+      "x": 73,
+      "y": 372,
+      "parent": "#x3ppci"
+    },
+    {
+      "@id": "#srpryh",
+      "name": "Optical fibres carry light signals",
+      "x": -82,
+      "y": 420,
+      "link": "https://en.wikipedia.org/wiki/Optical_fiber",
+      "parent": "#x3ppci"
+    },
+    {
+      "@id": "#yhaj5d",
+      "name": "Everyday uses",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sfxdei",
+      "name": "Windows and glass skyscrapers",
+      "x": -204,
+      "y": 321,
+      "parent": "#yhaj5d"
+    },
+    {
+      "@id": "#egq5sx",
+      "name": "Bottles and jars, endlessly recyclable",
+      "x": -318,
+      "y": 255,
+      "parent": "#yhaj5d"
+    },
+    {
+      "@id": "#kw5bq2",
+      "name": "Lenses for glasses, cameras, microscopes",
+      "x": -401,
+      "y": 163,
+      "parent": "#yhaj5d"
+    },
+    {
+      "@id": "#seqshd",
+      "name": "Phone and computer screens",
+      "x": -444,
+      "y": 56,
+      "parent": "#yhaj5d"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

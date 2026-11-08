@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Mongol Empire",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#8szwu7",
+      "name": "Rise",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ghx9sf",
+      "name": "Temüjin unites the steppe tribes",
+      "x": -445,
+      "y": -51,
+      "link": "https://en.wikipedia.org/wiki/Genghis_Khan",
+      "parent": "#8szwu7"
+    },
+    {
+      "@id": "#z43szi",
+      "name": "Proclaimed Genghis Khan in 1206",
+      "x": -409,
+      "y": -150,
+      "parent": "#8szwu7"
+    },
+    {
+      "@id": "#j68k92",
+      "name": "Largest contiguous land empire in history",
+      "x": -340,
+      "y": -236,
+      "parent": "#8szwu7"
+    },
+    {
+      "@id": "#9g8wuf",
+      "name": "Conquests",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ybe8xg",
+      "name": "Northern China's Jin dynasty from 1211",
+      "x": -243,
+      "y": -303,
+      "parent": "#9g8wuf"
+    },
+    {
+      "@id": "#yc5eft",
+      "name": "Khwarazmian Empire destroyed, 1219–1221",
+      "x": -133,
+      "y": -360,
+      "parent": "#9g8wuf"
+    },
+    {
+      "@id": "#vzqacw",
+      "name": "Invasions of Rus' and Eastern Europe",
+      "x": 0,
+      "y": -408,
+      "parent": "#9g8wuf"
+    },
+    {
+      "@id": "#aezt8k",
+      "name": "Sack of Baghdad in 1258",
+      "x": 175,
+      "y": -465,
+      "link": "https://en.wikipedia.org/wiki/Siege_of_Baghdad_%281258%29",
+      "parent": "#9g8wuf"
+    },
+    {
+      "@id": "#b7729s",
+      "name": "Defeated by Mamluks at Ain Jalut, 1260",
+      "x": 243,
+      "y": -303,
+      "parent": "#9g8wuf"
+    },
+    {
+      "@id": "#ub8qex",
+      "name": "Why they won",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#i7amfd",
+      "name": "Mounted archers with composite bows",
+      "x": 340,
+      "y": -236,
+      "parent": "#ub8qex"
+    },
+    {
+      "@id": "#wgxtxm",
+      "name": "Discipline in units of ten",
+      "x": 409,
+      "y": -150,
+      "parent": "#ub8qex"
+    },
+    {
+      "@id": "#7j6emz",
+      "name": "Feigned retreats and fast manoeuvres",
+      "x": 505,
+      "y": -57,
+      "parent": "#ub8qex"
+    },
+    {
+      "@id": "#mieg8w",
+      "name": "Terror against cities that resisted",
+      "x": 445,
+      "y": 51,
+      "parent": "#ub8qex"
+    },
+    {
+      "@id": "#ne8xxq",
+      "name": "Running the empire",
+      "x": 151,
+      "y": 139,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t9sbwy",
+      "name": "Yam relay stations carried messages",
+      "x": 445,
+      "y": 164,
+      "parent": "#ne8xxq"
+    },
+    {
+      "@id": "#i76ysj",
+      "name": "Religious tolerance across the realm",
+      "x": 340,
+      "y": 236,
+      "parent": "#ne8xxq"
+    },
+    {
+      "@id": "#3fscf8",
+      "name": "Pax Mongolica protected Silk Road trade",
+      "x": 243,
+      "y": 303,
+      "link": "https://en.wikipedia.org/wiki/Pax_Mongolica",
+      "parent": "#ne8xxq"
+    },
+    {
+      "@id": "#pvhqi9",
+      "name": "Marco Polo travelled to Kublai's court",
+      "x": 133,
+      "y": 360,
+      "parent": "#ne8xxq"
+    },
+    {
+      "@id": "#yh6e46",
+      "name": "Division into khanates",
+      "x": -71,
+      "y": 192,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rr3ncu",
+      "name": "Split after Möngke's death in 1259",
+      "x": 0,
+      "y": 408,
+      "parent": "#yh6e46"
+    },
+    {
+      "@id": "#dffnmf",
+      "name": "Yuan dynasty in China under Kublai",
+      "x": -175,
+      "y": 465,
+      "link": "https://en.wikipedia.org/wiki/Yuan_dynasty",
+      "parent": "#yh6e46"
+    },
+    {
+      "@id": "#fspnh2",
+      "name": "Golden Horde, Ilkhanate, Chagatai Khanate",
+      "x": -243,
+      "y": 303,
+      "parent": "#yh6e46"
+    },
+    {
+      "@id": "#my2wnz",
+      "name": "Legacy",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k8h7bf",
+      "name": "Tens of millions died in conquests",
+      "x": -355,
+      "y": 246,
+      "parent": "#my2wnz"
+    },
+    {
+      "@id": "#c6ngfn",
+      "name": "East–West exchange of goods and ideas",
+      "x": -409,
+      "y": 150,
+      "parent": "#my2wnz"
+    },
+    {
+      "@id": "#n7n3b6",
+      "name": "Possibly helped spread the Black Death",
+      "x": -465,
+      "y": 53,
+      "parent": "#my2wnz"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

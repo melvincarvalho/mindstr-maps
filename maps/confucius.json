@@ -1,0 +1,352 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Confucius",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#3jkdyu",
+      "name": "Who he was",
+      "x": -211,
+      "y": -73,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uxq4p6",
+      "name": "Chinese teacher, 551–479 BC (traditional)",
+      "x": -506,
+      "y": -55,
+      "parent": "#3jkdyu"
+    },
+    {
+      "@id": "#57i6d7",
+      "name": "Born in the state of Lu",
+      "x": -413,
+      "y": -143,
+      "parent": "#3jkdyu"
+    },
+    {
+      "@id": "#f9xpcm",
+      "name": "Lived in the Spring and Autumn period",
+      "x": -349,
+      "y": -227,
+      "parent": "#3jkdyu"
+    },
+    {
+      "@id": "#vm3wvp",
+      "name": "Life",
+      "x": -47,
+      "y": -180,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u8fi6d",
+      "name": "Minor official in Lu's government",
+      "x": -260,
+      "y": -294,
+      "parent": "#vm3wvp"
+    },
+    {
+      "@id": "#rtumgs",
+      "name": "Travelled states seeking a ruler",
+      "x": -158,
+      "y": -354,
+      "parent": "#vm3wvp"
+    },
+    {
+      "@id": "#j38img",
+      "name": "Spent later years teaching disciples",
+      "x": -34,
+      "y": -407,
+      "parent": "#vm3wvp"
+    },
+    {
+      "@id": "#vik3pd",
+      "name": "Said to have had about 3,000 students",
+      "x": 120,
+      "y": -464,
+      "parent": "#vm3wvp"
+    },
+    {
+      "@id": "#p7j7n6",
+      "name": "Core ideas",
+      "x": 197,
+      "y": -96,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ijg3ng",
+      "name": "Ren: humaneness and benevolence",
+      "x": 207,
+      "y": -320,
+      "parent": "#p7j7n6"
+    },
+    {
+      "@id": "#pa36ss",
+      "name": "Li: ritual, propriety and manners",
+      "x": 307,
+      "y": -263,
+      "parent": "#p7j7n6"
+    },
+    {
+      "@id": "#hzqwid",
+      "name": "Filial piety: respect for parents",
+      "x": 384,
+      "y": -187,
+      "link": "https://en.wikipedia.org/wiki/Filial_piety",
+      "parent": "#p7j7n6"
+    },
+    {
+      "@id": "#bhzq6h",
+      "name": "The junzi, or exemplary person",
+      "x": 433,
+      "y": -97,
+      "parent": "#p7j7n6"
+    },
+    {
+      "@id": "#ni8qyb",
+      "name": "Rulers should govern by moral example",
+      "x": 450,
+      "y": 0,
+      "parent": "#p7j7n6"
+    },
+    {
+      "@id": "#as6u5d",
+      "name": "Key texts",
+      "x": 197,
+      "y": 96,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2fpz5t",
+      "name": "The Analects record his sayings",
+      "x": 452,
+      "y": 101,
+      "link": "https://en.wikipedia.org/wiki/Analects",
+      "parent": "#as6u5d"
+    },
+    {
+      "@id": "#99avey",
+      "name": "Compiled by disciples after his death",
+      "x": 384,
+      "y": 187,
+      "parent": "#as6u5d"
+    },
+    {
+      "@id": "#am9k3r",
+      "name": "Linked to the Five Classics",
+      "x": 307,
+      "y": 263,
+      "link": "https://en.wikipedia.org/wiki/Four_Books_and_Five_Classics",
+      "parent": "#as6u5d"
+    },
+    {
+      "@id": "#rbwaah",
+      "name": "Confucianism after him",
+      "x": 16,
+      "y": 184,
+      "link": "https://en.wikipedia.org/wiki/Confucianism",
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xhvqp5",
+      "name": "Mencius and Xunzi developed his thought",
+      "x": 207,
+      "y": 320,
+      "parent": "#rbwaah"
+    },
+    {
+      "@id": "#trzq48",
+      "name": "State orthodoxy under the Han dynasty",
+      "x": 96,
+      "y": 368,
+      "parent": "#rbwaah"
+    },
+    {
+      "@id": "#3tndda",
+      "name": "Imperial exams tested Confucian texts",
+      "x": -35,
+      "y": 423,
+      "parent": "#rbwaah"
+    },
+    {
+      "@id": "#5dyqn3",
+      "name": "Neo-Confucianism of Zhu Xi",
+      "x": -214,
+      "y": 474,
+      "parent": "#rbwaah"
+    },
+    {
+      "@id": "#wwyw4m",
+      "name": "Legacy",
+      "x": -197,
+      "y": 96,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r9d7ap",
+      "name": "Shaped East Asian family and government",
+      "x": -260,
+      "y": 294,
+      "parent": "#wwyw4m"
+    },
+    {
+      "@id": "#7tc2s8",
+      "name": "Spread to Korea, Japan and Vietnam",
+      "x": -349,
+      "y": 227,
+      "parent": "#wwyw4m"
+    },
+    {
+      "@id": "#pys92p",
+      "name": "Attacked in Mao's Cultural Revolution",
+      "x": -431,
+      "y": 149,
+      "parent": "#wwyw4m"
+    },
+    {
+      "@id": "#eqcmvr",
+      "name": "Temple in Qufu, his hometown",
+      "x": -446,
+      "y": 49,
+      "parent": "#wwyw4m"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 10,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    },
+    {
+      "start": 25,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

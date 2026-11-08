@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Variable (mathematics)",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ji7if9",
+      "name": "What a variable is",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m94i9s",
+      "name": "A symbol standing for a number",
+      "x": -484,
+      "y": -60,
+      "parent": "#ji7if9"
+    },
+    {
+      "@id": "#653cpc",
+      "name": "Usually a letter like x or n",
+      "x": -401,
+      "y": -163,
+      "parent": "#ji7if9"
+    },
+    {
+      "@id": "#xbxgdt",
+      "name": "Its value can change or be unknown",
+      "x": -318,
+      "y": -255,
+      "parent": "#ji7if9"
+    },
+    {
+      "@id": "#x8ik5a",
+      "name": "Roles a variable plays",
+      "x": -36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y4fmqx",
+      "name": "Unknown to find: x+5 = 9",
+      "x": -204,
+      "y": -321,
+      "parent": "#x8ik5a"
+    },
+    {
+      "@id": "#fnni95",
+      "name": "General rule: a+b = b+a",
+      "x": -73,
+      "y": -372,
+      "parent": "#x8ik5a"
+    },
+    {
+      "@id": "#28t3x5",
+      "name": "Quantity that varies, like time",
+      "x": 82,
+      "y": -420,
+      "parent": "#x8ik5a"
+    },
+    {
+      "@id": "#6tjnri",
+      "name": "Variables in functions",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2c354p",
+      "name": "Independent variable is the input",
+      "x": 204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Dependent_and_independent_variables",
+      "parent": "#6tjnri"
+    },
+    {
+      "@id": "#4zwbye",
+      "name": "Dependent variable is the output",
+      "x": 318,
+      "y": -255,
+      "parent": "#6tjnri"
+    },
+    {
+      "@id": "#vs2hwg",
+      "name": "y = 2x: y depends on x",
+      "x": 419,
+      "y": -170,
+      "parent": "#6tjnri"
+    },
+    {
+      "@id": "#hvqacw",
+      "name": "Variables versus constants",
+      "x": 287,
+      "y": 38,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pupihn",
+      "name": "Constants stay fixed, like π",
+      "x": 444,
+      "y": -56,
+      "link": "https://en.wikipedia.org/wiki/Constant_%28mathematics%29",
+      "parent": "#hvqacw"
+    },
+    {
+      "@id": "#3yg73i",
+      "name": "Parameters are fixed per problem",
+      "x": 604,
+      "y": 72,
+      "parent": "#hvqacw"
+    },
+    {
+      "@id": "#pah3pv",
+      "name": "Coefficients multiply variables, as in 3x",
+      "x": 401,
+      "y": 163,
+      "parent": "#hvqacw"
+    },
+    {
+      "@id": "#bvisdz",
+      "name": "Naming conventions",
+      "x": 71,
+      "y": 175,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h7r2cg",
+      "name": "Descartes: x, y, z for unknowns",
+      "x": 318,
+      "y": 255,
+      "parent": "#bvisdz"
+    },
+    {
+      "@id": "#xbebzh",
+      "name": "Early alphabet letters for known values",
+      "x": 204,
+      "y": 321,
+      "parent": "#bvisdz"
+    },
+    {
+      "@id": "#ygav3w",
+      "name": "Viète first used letters, 1590s",
+      "x": 73,
+      "y": 372,
+      "parent": "#bvisdz"
+    },
+    {
+      "@id": "#9a72es",
+      "name": "Greek letters for angles: θ",
+      "x": -82,
+      "y": 420,
+      "parent": "#bvisdz"
+    },
+    {
+      "@id": "#fqpi4t",
+      "name": "Variables elsewhere",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jawmbs",
+      "name": "Random variables in probability",
+      "x": -204,
+      "y": 321,
+      "link": "https://en.wikipedia.org/wiki/Random_variable",
+      "parent": "#fqpi4t"
+    },
+    {
+      "@id": "#q2r6ty",
+      "name": "Free and bound variables in logic",
+      "x": -318,
+      "y": 255,
+      "parent": "#fqpi4t"
+    },
+    {
+      "@id": "#f7vt3r",
+      "name": "Programming variables store changing values",
+      "x": -401,
+      "y": 163,
+      "link": "https://en.wikipedia.org/wiki/Variable_%28computer_science%29",
+      "parent": "#fqpi4t"
+    },
+    {
+      "@id": "#rzbhni",
+      "name": "Variables measured in experiments",
+      "x": -444,
+      "y": 56,
+      "parent": "#fqpi4t"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

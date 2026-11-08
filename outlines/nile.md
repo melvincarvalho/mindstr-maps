@@ -1,0 +1,29 @@
+category: Geography
+aliases: nile river, river nile, the nile
+- Nile
+  - Course
+    - Flows north through eleven countries
+    - About 6,650 km long
+    - Often called the world's longest river
+    - Ends in a delta on the Mediterranean
+  - Two main branches
+    - [White Nile flows from Lake Victoria](https://en.wikipedia.org/wiki/White_Nile)
+    - [Blue Nile rises at Lake Tana](https://en.wikipedia.org/wiki/Blue_Nile)
+    - They meet at Khartoum, Sudan
+    - Blue Nile brings most water and silt
+  - Ancient Egypt
+    - Yearly flood left fertile black silt
+    - Farming possible in the desert
+    - Pyramids and temples line its banks
+    - Calendar followed flood, growth, harvest
+  - Modern dams
+    - [Aswan High Dam completed in 1970](https://en.wikipedia.org/wiki/Aswan_High_Dam)
+    - Lake Nasser ended the annual flood
+    - Ethiopia's Grand Renaissance Dam on Blue Nile
+  - Water and politics
+    - Egypt relies on it for most water
+    - Upstream and downstream countries dispute shares
+    - Delta threatened by sea level rise
+  - Exploration
+    - Source puzzled Europeans for centuries
+    - [Speke named Lake Victoria in 1858](https://en.wikipedia.org/wiki/John_Hanning_Speke)

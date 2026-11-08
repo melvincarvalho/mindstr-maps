@@ -1,0 +1,351 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Spanish language",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#v4u4dv",
+      "name": "Where it's spoken",
+      "x": -178,
+      "y": -116,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gxrez7",
+      "name": "About 500 million native speakers",
+      "x": -446,
+      "y": -49,
+      "parent": "#v4u4dv"
+    },
+    {
+      "@id": "#ni33v4",
+      "name": "Second most native speakers after Mandarin",
+      "x": -485,
+      "y": -167,
+      "parent": "#v4u4dv"
+    },
+    {
+      "@id": "#zbsbju",
+      "name": "Mexico has the most speakers",
+      "x": -349,
+      "y": -227,
+      "parent": "#v4u4dv"
+    },
+    {
+      "@id": "#2da7ps",
+      "name": "Official in about 20 countries",
+      "x": -260,
+      "y": -294,
+      "parent": "#v4u4dv"
+    },
+    {
+      "@id": "#utrjuq",
+      "name": "Over 40 million speakers in the US",
+      "x": -158,
+      "y": -354,
+      "link": "https://en.wikipedia.org/wiki/Spanish_language_in_the_United_States",
+      "parent": "#v4u4dv"
+    },
+    {
+      "@id": "#pkmxp4",
+      "name": "Family",
+      "x": 77,
+      "y": -173,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jr6u69",
+      "name": "Indo-European, Romance branch",
+      "x": -34,
+      "y": -407,
+      "parent": "#pkmxp4"
+    },
+    {
+      "@id": "#yhbvt2",
+      "name": "Grew from Latin in medieval Castile",
+      "x": 120,
+      "y": -464,
+      "parent": "#pkmxp4"
+    },
+    {
+      "@id": "#gm4u64",
+      "name": "Close kin: Portuguese, Italian, Catalan",
+      "x": 333,
+      "y": -516,
+      "parent": "#pkmxp4"
+    },
+    {
+      "@id": "#qtnkw8",
+      "name": "Thousands of Arabic loanwords",
+      "x": 307,
+      "y": -263,
+      "parent": "#pkmxp4"
+    },
+    {
+      "@id": "#t7t9q9",
+      "name": "History",
+      "x": 221,
+      "y": -50,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mdk7bw",
+      "name": "Nebrija's grammar published 1492",
+      "x": 384,
+      "y": -187,
+      "parent": "#t7t9q9"
+    },
+    {
+      "@id": "#sj33c7",
+      "name": "Spread to the Americas from 1492",
+      "x": 452,
+      "y": -101,
+      "parent": "#t7t9q9"
+    },
+    {
+      "@id": "#6hnxy8",
+      "name": "Real Academia Española founded 1713",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Royal_Spanish_Academy",
+      "parent": "#t7t9q9"
+    },
+    {
+      "@id": "#mahi9t",
+      "name": "Sounds and writing",
+      "x": 157,
+      "y": 134,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nns63e",
+      "name": "Just five pure vowel sounds",
+      "x": 433,
+      "y": 97,
+      "parent": "#mahi9t"
+    },
+    {
+      "@id": "#gf7ucn",
+      "name": "Spelling matches pronunciation closely",
+      "x": 384,
+      "y": 187,
+      "parent": "#mahi9t"
+    },
+    {
+      "@id": "#y7z3jn",
+      "name": "Letter ñ, rolled \"rr\"",
+      "x": 307,
+      "y": 263,
+      "parent": "#mahi9t"
+    },
+    {
+      "@id": "#nrq4s6",
+      "name": "Questions open with ¿ and ¡",
+      "x": 207,
+      "y": 320,
+      "parent": "#mahi9t"
+    },
+    {
+      "@id": "#bararg",
+      "name": "Spain says \"th\" for c, z",
+      "x": 96,
+      "y": 368,
+      "parent": "#mahi9t"
+    },
+    {
+      "@id": "#48bib9",
+      "name": "Grammar highlights",
+      "x": -106,
+      "y": 163,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#acfsth",
+      "name": "Two genders: el and la",
+      "x": -35,
+      "y": 423,
+      "parent": "#48bib9"
+    },
+    {
+      "@id": "#xxw585",
+      "name": "Two verbs \"to be\": ser, estar",
+      "x": -214,
+      "y": 474,
+      "link": "https://en.wikipedia.org/wiki/Spanish_verbs",
+      "parent": "#48bib9"
+    },
+    {
+      "@id": "#3gucmt",
+      "name": "Subject pronouns usually dropped",
+      "x": -260,
+      "y": 294,
+      "parent": "#48bib9"
+    },
+    {
+      "@id": "#yy6aay",
+      "name": "Subjunctive used often",
+      "x": -349,
+      "y": 227,
+      "parent": "#48bib9"
+    },
+    {
+      "@id": "#tuxefj",
+      "name": "Tips for learners",
+      "x": -221,
+      "y": 50,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6gnie2",
+      "name": "Formal \"usted\" versus friendly \"tú\"",
+      "x": -413,
+      "y": 143,
+      "parent": "#tuxefj"
+    },
+    {
+      "@id": "#up3yhj",
+      "name": "Easy to read aloud early",
+      "x": -466,
+      "y": 51,
+      "parent": "#tuxefj"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 7,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 16,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    },
+    {
+      "start": 0,
+      "end": 27
+    },
+    {
+      "start": 27,
+      "end": 28
+    },
+    {
+      "start": 27,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

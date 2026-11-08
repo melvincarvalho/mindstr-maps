@@ -1,0 +1,30 @@
+category: Society
+aliases: how businesses work, business basics, types of business
+- Business
+  - What a business is
+    - Sells goods or services for profit
+    - Customers, owners, employees and suppliers
+    - Nonprofits and social enterprises differ
+  - Legal forms
+    - Sole proprietorship, owned by one person
+    - Partnership shared by two or more
+    - [Corporation: a separate legal person](https://en.wikipedia.org/wiki/Corporation)
+    - [Limited liability protects owners' assets](https://en.wikipedia.org/wiki/Limited_liability)
+  - Core functions
+    - Operations make the product
+    - Marketing and sales find customers
+    - Finance and accounting track money
+    - Human resources hires and develops people
+  - Money in and out
+    - Revenue minus costs equals profit
+    - Cash flow keeps it running
+    - Funding from savings, loans or investors
+    - [Financial statements report performance](https://en.wikipedia.org/wiki/Financial_statement)
+  - Size and scale
+    - Small firms are about 90% of businesses
+    - Multinationals operate across many countries
+    - Stock markets let public companies raise money
+  - Responsibilities
+    - Obey laws on tax, safety and competition
+    - Treat workers and customers fairly
+    - [Corporate social responsibility](https://en.wikipedia.org/wiki/Corporate_social_responsibility)

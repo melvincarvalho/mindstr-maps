@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Plasma (physics)",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#9dfazg",
+      "name": "What plasma is",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ram7w2",
+      "name": "Gas so hot electrons break free",
+      "x": -464,
+      "y": -58,
+      "parent": "#9dfazg"
+    },
+    {
+      "@id": "#s7d5zi",
+      "name": "Mix of free electrons and ions",
+      "x": -401,
+      "y": -163,
+      "parent": "#9dfazg"
+    },
+    {
+      "@id": "#j9cix8",
+      "name": "Often called the fourth state of matter",
+      "x": -318,
+      "y": -255,
+      "parent": "#9dfazg"
+    },
+    {
+      "@id": "#g2x9pr",
+      "name": "How it behaves",
+      "x": -36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h482cg",
+      "name": "Conducts electricity well",
+      "x": -204,
+      "y": -321,
+      "parent": "#g2x9pr"
+    },
+    {
+      "@id": "#iijmf3",
+      "name": "Steered by magnetic and electric fields",
+      "x": -73,
+      "y": -372,
+      "parent": "#g2x9pr"
+    },
+    {
+      "@id": "#dair5d",
+      "name": "Glows as electrons rejoin atoms",
+      "x": 82,
+      "y": -420,
+      "parent": "#g2x9pr"
+    },
+    {
+      "@id": "#w3fdnw",
+      "name": "How it forms",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#buw5tj",
+      "name": "Extreme heat strips electrons off",
+      "x": 204,
+      "y": -321,
+      "parent": "#w3fdnw"
+    },
+    {
+      "@id": "#4hqfyy",
+      "name": "Strong electric fields ionise gas",
+      "x": 318,
+      "y": -255,
+      "parent": "#w3fdnw"
+    },
+    {
+      "@id": "#x23ek5",
+      "name": "Cools back into ordinary gas",
+      "x": 401,
+      "y": -163,
+      "parent": "#w3fdnw"
+    },
+    {
+      "@id": "#a3wgfj",
+      "name": "Plasma in nature",
+      "x": 219,
+      "y": 57,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9a55gb",
+      "name": "Stars, including the Sun, are plasma",
+      "x": 444,
+      "y": -56,
+      "link": "https://en.wikipedia.org/wiki/Sun",
+      "parent": "#a3wgfj"
+    },
+    {
+      "@id": "#pqc8bz",
+      "name": "Lightning heats air into plasma",
+      "x": 504,
+      "y": 62,
+      "link": "https://en.wikipedia.org/wiki/Lightning",
+      "parent": "#a3wgfj"
+    },
+    {
+      "@id": "#kce42j",
+      "name": "Northern lights glow in the ionosphere",
+      "x": 401,
+      "y": 163,
+      "link": "https://en.wikipedia.org/wiki/Aurora",
+      "parent": "#a3wgfj"
+    },
+    {
+      "@id": "#3xq6z9",
+      "name": "Over 99% of visible universe",
+      "x": 318,
+      "y": 255,
+      "parent": "#a3wgfj"
+    },
+    {
+      "@id": "#q377uu",
+      "name": "Plasma in technology",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kqje59",
+      "name": "Neon signs and fluorescent lamps",
+      "x": 204,
+      "y": 321,
+      "parent": "#q377uu"
+    },
+    {
+      "@id": "#rz43qs",
+      "name": "Plasma cutters slice through metal",
+      "x": 73,
+      "y": 372,
+      "parent": "#q377uu"
+    },
+    {
+      "@id": "#agvgwm",
+      "name": "Etching patterns onto computer chips",
+      "x": -82,
+      "y": 420,
+      "parent": "#q377uu"
+    },
+    {
+      "@id": "#sqsrj5",
+      "name": "Old plasma TV screens",
+      "x": -204,
+      "y": 321,
+      "parent": "#q377uu"
+    },
+    {
+      "@id": "#crw9bt",
+      "name": "Fusion energy",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bn5ie7",
+      "name": "Tokamaks confine plasma with magnets",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wikipedia.org/wiki/Tokamak",
+      "parent": "#crw9bt"
+    },
+    {
+      "@id": "#66iddi",
+      "name": "Needs over 100 million °C",
+      "x": -401,
+      "y": 163,
+      "parent": "#crw9bt"
+    },
+    {
+      "@id": "#aepckv",
+      "name": "ITER is being built in France",
+      "x": -464,
+      "y": 58,
+      "parent": "#crw9bt"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

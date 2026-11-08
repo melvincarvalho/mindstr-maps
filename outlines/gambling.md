@@ -1,0 +1,33 @@
+category: Life and home
+aliases: betting, gambling addiction, problem gambling
+- Gambling
+  - What it is
+    - Staking money on an uncertain outcome
+    - Odds are set to favour the operator
+    - Legal age and licensing vary by country
+  - Common forms
+    - Lotteries and scratchcards
+    - Sports and horse-race betting
+    - Casino games: roulette, slots, blackjack
+    - Poker against other players
+  - How the odds work
+    - [Expected value is usually negative](https://en.wikipedia.org/wiki/Expected_value)
+    - [Gambler's fallacy: chance has no memory](https://en.wikipedia.org/wiki/Gambler%27s_fallacy)
+    - Near-misses feel like almost winning
+    - Jackpot odds often millions to one
+  - Risks and harms
+    - [Gambling disorder is a recognised addiction](https://en.wikipedia.org/wiki/Problem_gambling)
+    - Chasing losses deepens debt
+    - Linked to anxiety, depression, relationship strain
+    - Fast, always-on online betting raises risk
+  - Warning signs
+    - Spending more than you can afford
+    - Hiding gambling from family
+    - Borrowing money to gamble
+    - Restless or irritable when cutting back
+  - Staying safe and getting help
+    - Set money and time limits first
+    - Self-exclusion schemes block access
+    - National helplines offer free, confidential support
+    - [Gamblers Anonymous peer support groups](https://en.wikipedia.org/wiki/Gamblers_Anonymous)
+    - Talking therapies such as CBT help

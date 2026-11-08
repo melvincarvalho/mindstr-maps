@@ -1,0 +1,30 @@
+category: Science
+aliases: our solar system, the eight planets
+- Solar System
+  - Formation
+    - [Formed about 4.6 billion years ago](https://en.wikipedia.org/wiki/Formation_and_evolution_of_the_Solar_System)
+    - A collapsing cloud of gas and dust
+    - Planets grew in a spinning disc
+  - The Sun
+    - Holds 99.8% of the mass
+    - Its gravity keeps everything in orbit
+  - Rocky inner planets
+    - Mercury: smallest, closest to Sun
+    - Venus: hottest, thick CO₂ atmosphere
+    - Earth: the only known life
+    - Mars: cold red desert world
+  - Giant outer planets
+    - [Jupiter: largest, Great Red Spot](https://en.wikipedia.org/wiki/Jupiter)
+    - Saturn: bright icy rings
+    - Uranus: ice giant tipped on its side
+    - Neptune: farthest planet, fiercest winds
+  - Smaller bodies
+    - Asteroid belt between Mars and Jupiter
+    - [Kuiper belt: Pluto and other dwarfs](https://en.wikipedia.org/wiki/Kuiper_belt)
+    - Pluto reclassified as dwarf planet, 2006
+    - Comets from the distant Oort cloud
+    - Hundreds of moons, including ours
+  - Exploring it
+    - [1 AU: Earth–Sun distance, 150 million km](https://en.wikipedia.org/wiki/Astronomical_unit)
+    - Probes have visited every planet
+    - [Voyager 1 entered interstellar space, 2012](https://en.wikipedia.org/wiki/Voyager_1)

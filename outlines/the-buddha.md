@@ -1,0 +1,30 @@
+category: People
+aliases: siddhartha gautama, gautama buddha, shakyamuni buddha
+- The Buddha
+  - What historians can say
+    - Lived in north India, 5th century BCE
+    - From the Shakya clan, near Lumbini
+    - Teachings passed down orally for centuries
+    - [Pali Canon written in 1st century BCE](https://en.wikipedia.org/wiki/Pali_Canon)
+  - The life as tradition tells it
+    - Prince Siddhartha raised in luxury
+    - Four sights: age, sickness, death, an ascetic
+    - Left home at 29 to seek truth
+    - Rejected extreme fasting for the Middle Way
+  - Awakening and teaching
+    - [Awoke beneath the Bodhi tree, Bodh Gaya](https://en.wikipedia.org/wiki/Bodhi_Tree)
+    - First sermon in the deer park, Sarnath
+    - Taught for about 45 years
+    - Founded a community of monks and nuns
+    - Died at Kushinagar, about age 80
+  - What Buddhists teach
+    - [Four Noble Truths: suffering and its end](https://en.wikipedia.org/wiki/Four_Noble_Truths)
+    - [Noble Eightfold Path to liberation](https://en.wikipedia.org/wiki/Noble_Eightfold_Path)
+    - Impermanence and non-self
+    - Karma and rebirth
+    - Nirvana: freedom from craving and rebirth
+  - Legacy
+    - Emperor Ashoka spread Buddhism widely
+    - Theravada, Mahayana and Vajrayana traditions
+    - About 500 million Buddhists today
+    - Shaped art, ethics and meditation worldwide

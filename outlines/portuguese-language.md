@@ -1,0 +1,31 @@
+category: Society
+aliases: portuguese, learn portuguese, português
+- Portuguese language
+  - Where it's spoken
+    - About 260 million speakers worldwide
+    - Brazil has over 200 million
+    - Portugal, Angola, Mozambique and more
+    - [Official in nine CPLP countries](https://en.wikipedia.org/wiki/Community_of_Portuguese_Language_Countries)
+  - History
+    - Grew from Latin in northwest Iberia
+    - [Galician-Portuguese poetry, 1200s](https://en.wikipedia.org/wiki/Galician-Portuguese)
+    - Spread by voyages from the 1400s
+    - [Camões wrote The Lusiads, 1572](https://en.wikipedia.org/wiki/Lu%C3%ADs_de_Cam%C3%B5es)
+  - Family
+    - Romance branch of Indo-European
+    - Closest relative is Galician
+    - Partly understandable to Spanish speakers
+  - Sounds and writing
+    - Nasal vowels, as in pão
+    - Latin alphabet with ç, ã, õ
+    - European speech swallows unstressed vowels
+    - 1990 spelling agreement unified spelling
+  - Grammar highlights
+    - Two verbs for "to be": ser, estar
+    - Nouns are masculine or feminine
+    - Personal infinitive takes person endings
+    - Future subjunctive still in everyday use
+  - Tips for learners
+    - [Choose Brazilian or European Portuguese](https://en.wikipedia.org/wiki/Brazilian_Portuguese)
+    - Você is common in Brazil
+    - Spanish helps, but false friends abound

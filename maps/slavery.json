@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Slavery",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#j7q39v",
+      "name": "What slavery is",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#34w2rg",
+      "name": "People owned as property",
+      "x": -445,
+      "y": -54,
+      "parent": "#j7q39v"
+    },
+    {
+      "@id": "#5swjuf",
+      "name": "Forced labour without pay or freedom",
+      "x": -405,
+      "y": -156,
+      "parent": "#j7q39v"
+    },
+    {
+      "@id": "#ex5zb6",
+      "name": "Status often inherited by children",
+      "x": -330,
+      "y": -245,
+      "parent": "#j7q39v"
+    },
+    {
+      "@id": "#r3ict5",
+      "name": "Ancient world",
+      "x": -51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#s2x8ri",
+      "name": "Mesopotamia, Egypt and the Code of Hammurabi",
+      "x": -225,
+      "y": -312,
+      "parent": "#r3ict5"
+    },
+    {
+      "@id": "#vus8gh",
+      "name": "Greece and Rome relied on slave labour",
+      "x": -104,
+      "y": -367,
+      "parent": "#r3ict5"
+    },
+    {
+      "@id": "#63bsc7",
+      "name": "Captives of war often enslaved",
+      "x": 42,
+      "y": -423,
+      "parent": "#r3ict5"
+    },
+    {
+      "@id": "#bjxyk8",
+      "name": "Atlantic slave trade",
+      "x": 169,
+      "y": -125,
+      "link": "https://en.wikipedia.org/wiki/Atlantic_slave_trade",
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z467jd",
+      "name": "About 12.5 million Africans shipped, 1500s–1860s",
+      "x": 234,
+      "y": -485,
+      "parent": "#bjxyk8"
+    },
+    {
+      "@id": "#rr82du",
+      "name": "Middle Passage killed many in transit",
+      "x": 281,
+      "y": -281,
+      "parent": "#bjxyk8"
+    },
+    {
+      "@id": "#xvg3hq",
+      "name": "Plantations of sugar, cotton and tobacco",
+      "x": 372,
+      "y": -203,
+      "parent": "#bjxyk8"
+    },
+    {
+      "@id": "#wxqrue",
+      "name": "Racial ideology used to justify it",
+      "x": 487,
+      "y": -121,
+      "parent": "#bjxyk8"
+    },
+    {
+      "@id": "#w3i5rv",
+      "name": "Other systems",
+      "x": 220,
+      "y": 54,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yhndsi",
+      "name": "Arab and trans-Saharan slave trades",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Arab_slave_trade",
+      "parent": "#w3i5rv"
+    },
+    {
+      "@id": "#gv75xy",
+      "name": "Serfdom in Russia until 1861",
+      "x": 430,
+      "y": 106,
+      "parent": "#w3i5rv"
+    },
+    {
+      "@id": "#wzup3n",
+      "name": "Indian Ocean and Asian slavery",
+      "x": 372,
+      "y": 203,
+      "parent": "#w3i5rv"
+    },
+    {
+      "@id": "#7i54fg",
+      "name": "Abolition",
+      "x": 17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rji4f7",
+      "name": "Haitian Revolution, 1791–1804",
+      "x": 281,
+      "y": 281,
+      "parent": "#7i54fg"
+    },
+    {
+      "@id": "#y5ack8",
+      "name": "Britain's Slavery Abolition Act, 1833",
+      "x": 164,
+      "y": 335,
+      "link": "https://en.wikipedia.org/wiki/Slavery_Abolition_Act_1833",
+      "parent": "#7i54fg"
+    },
+    {
+      "@id": "#69t96t",
+      "name": "US Thirteenth Amendment, 1865",
+      "x": 38,
+      "y": 391,
+      "parent": "#7i54fg"
+    },
+    {
+      "@id": "#99eb52",
+      "name": "Brazil last in Americas, 1888",
+      "x": -124,
+      "y": 447,
+      "parent": "#7i54fg"
+    },
+    {
+      "@id": "#wx9xmm",
+      "name": "Mauritania criminalised it in 2007",
+      "x": -225,
+      "y": 312,
+      "parent": "#7i54fg"
+    },
+    {
+      "@id": "#syzxej",
+      "name": "Legacy and today",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4azeuv",
+      "name": "Modern slavery: trafficking, forced labour",
+      "x": -330,
+      "y": 245,
+      "link": "https://en.wikipedia.org/wiki/Modern_slavery",
+      "parent": "#syzxej"
+    },
+    {
+      "@id": "#ay98wv",
+      "name": "Tens of millions still estimated enslaved",
+      "x": -405,
+      "y": 156,
+      "parent": "#syzxej"
+    },
+    {
+      "@id": "#y8i79r",
+      "name": "Debates over reparations and memorials",
+      "x": -505,
+      "y": 60,
+      "parent": "#syzxej"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 18,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

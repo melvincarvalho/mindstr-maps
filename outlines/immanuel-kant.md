@@ -1,0 +1,29 @@
+category: People
+aliases: kant, kantian philosophy, critique of pure reason
+- Immanuel Kant
+  - Life, 1724–1804
+    - Born in Königsberg, Prussia
+    - Never travelled far from home
+    - Taught at University of Königsberg
+    - Famous for his strict daily routine
+  - Theory of knowledge
+    - [Critique of Pure Reason, 1781](https://en.wikipedia.org/wiki/Critique_of_Pure_Reason)
+    - Reconciled rationalism and empiricism
+    - Mind shapes experience: space, time, causality
+    - Things-in-themselves remain unknowable
+    - Called it his "Copernican revolution"
+  - Ethics
+    - [Act only on universalisable maxims](https://en.wikipedia.org/wiki/Categorical_imperative)
+    - Treat people as ends, never merely means
+    - Morality rests on duty, not consequences
+    - Critique of Practical Reason, 1788
+  - Other contributions
+    - Critique of Judgment on beauty, 1790
+    - ["What Is Enlightenment?": dare to know](https://en.wikipedia.org/wiki/Answering_the_Question:_What_Is_Enlightenment%3F)
+    - [Perpetual Peace proposes league of nations](https://en.wikipedia.org/wiki/Perpetual_Peace:_A_Philosophical_Sketch)
+    - Nebular hypothesis on solar system origins
+  - Legacy
+    - Central figure of modern philosophy
+    - Inspired German idealism: Fichte, Hegel
+    - [Shaped deontological ethics and human rights](https://en.wikipedia.org/wiki/Deontology)
+    - Criticised for racial views in anthropology

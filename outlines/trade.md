@@ -1,0 +1,29 @@
+category: Society
+aliases: international trade, global trade, world trade, imports and exports
+- Trade
+  - Exchanging goods and services
+    - Barter came before money
+    - Imports are bought from abroad
+    - Exports are sold abroad
+  - Why countries trade
+    - Different resources and climates
+    - [Comparative advantage: specialise and swap](https://en.wikipedia.org/wiki/Comparative_advantage)
+    - Larger markets lower costs
+  - Historic trade routes
+    - [Silk Road linked China and Europe](https://en.wikipedia.org/wiki/Silk_Road)
+    - Spice trade by sea
+    - Atlantic trade, including enslaved people
+  - Barriers and agreements
+    - Tariffs tax imported goods
+    - Quotas limit import quantities
+    - [WTO sets global trade rules](https://en.wikipedia.org/wiki/World_Trade_Organization)
+    - Free trade areas and customs unions
+  - Modern global trade
+    - Shipping containers cut transport costs
+    - Global supply chains span countries
+    - China is the largest goods exporter
+    - Services trade growing fast
+  - Debates
+    - Cheaper goods versus lost local jobs
+    - [Balance of trade: surpluses and deficits](https://en.wikipedia.org/wiki/Balance_of_trade)
+    - Protectionism versus free trade

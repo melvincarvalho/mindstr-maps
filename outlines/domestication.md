@@ -1,0 +1,30 @@
+category: Technology
+aliases: domestication of animals, plant domestication, domesticated animals, animal domestication
+- Domestication
+  - What it means
+    - Humans shape species over generations
+    - Wild traits replaced by useful ones
+    - Species come to depend on people
+  - First animals
+    - [Dogs from wolves, over 15,000 years ago](https://en.wikipedia.org/wiki/Domestication_of_the_dog)
+    - Sheep and goats, about 11,000 years ago
+    - Cattle and pigs soon after
+    - [Horses on the steppe, 5,500 years ago](https://en.wikipedia.org/wiki/Domestication_of_the_horse)
+    - Cats drawn to grain stores
+  - First crops
+    - [Wheat and barley in the Fertile Crescent](https://en.wikipedia.org/wiki/Fertile_Crescent)
+    - Rice in China
+    - Maize from teosinte in Mexico
+    - Potatoes in the Andes
+  - Domestication syndrome
+    - Tamer, less fearful animals
+    - Floppy ears and patchy coats
+    - Seeds that stay on the plant
+    - Bigger fruits and grains
+  - Consequences
+    - [Made farming and settled villages possible](https://en.wikipedia.org/wiki/Neolithic_Revolution)
+    - Food surpluses fed cities and states
+    - Diseases jumped from animals to humans
+  - Still happening
+    - Silver fox experiment in Russia
+    - Fish and new crops being domesticated

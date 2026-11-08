@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Base (chemistry)",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#mz48qu",
+      "name": "What makes a base",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9yvp64",
+      "name": "Accepts hydrogen ions (protons)",
+      "x": -484,
+      "y": -60,
+      "parent": "#mz48qu"
+    },
+    {
+      "@id": "#kmfzzh",
+      "name": "Alkalis are bases that dissolve in water",
+      "x": -401,
+      "y": -163,
+      "link": "https://en.wikipedia.org/wiki/Alkali",
+      "parent": "#mz48qu"
+    },
+    {
+      "@id": "#3c9a4k",
+      "name": "Releases hydroxide ions in water",
+      "x": -318,
+      "y": -255,
+      "parent": "#mz48qu"
+    },
+    {
+      "@id": "#8i6pwr",
+      "name": "Measuring basicity",
+      "x": -36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nzgx34",
+      "name": "pH above 7 is basic",
+      "x": -204,
+      "y": -321,
+      "parent": "#8i6pwr"
+    },
+    {
+      "@id": "#agd54j",
+      "name": "Red litmus paper turns blue",
+      "x": -73,
+      "y": -372,
+      "parent": "#8i6pwr"
+    },
+    {
+      "@id": "#cue7kn",
+      "name": "Phenolphthalein indicator turns pink",
+      "x": 82,
+      "y": -420,
+      "parent": "#8i6pwr"
+    },
+    {
+      "@id": "#2nkp3k",
+      "name": "How bases behave",
+      "x": 186,
+      "y": -108,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dt52dk",
+      "name": "Taste bitter and feel slippery",
+      "x": 204,
+      "y": -321,
+      "parent": "#2nkp3k"
+    },
+    {
+      "@id": "#ynbudp",
+      "name": "Neutralise acids forming salt and water",
+      "x": 318,
+      "y": -255,
+      "link": "https://en.wikipedia.org/wiki/Neutralization_%28chemistry%29",
+      "parent": "#2nkp3k"
+    },
+    {
+      "@id": "#tta4kr",
+      "name": "Turn fats into soap",
+      "x": 401,
+      "y": -163,
+      "parent": "#2nkp3k"
+    },
+    {
+      "@id": "#h6pzpr",
+      "name": "Strong bases ionise fully; weak bases partly",
+      "x": 444,
+      "y": -56,
+      "parent": "#2nkp3k"
+    },
+    {
+      "@id": "#6zqs5z",
+      "name": "Bases around us",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xggitu",
+      "name": "Baking soda: a mild base",
+      "x": 444,
+      "y": 56,
+      "link": "https://en.wikipedia.org/wiki/Sodium_bicarbonate",
+      "parent": "#6zqs5z"
+    },
+    {
+      "@id": "#cp5i4d",
+      "name": "Antacids calm excess stomach acid",
+      "x": 401,
+      "y": 163,
+      "parent": "#6zqs5z"
+    },
+    {
+      "@id": "#smfkce",
+      "name": "Ammonia in household cleaners",
+      "x": 318,
+      "y": 255,
+      "parent": "#6zqs5z"
+    },
+    {
+      "@id": "#rzqen9",
+      "name": "Lime raises the pH of soil",
+      "x": 204,
+      "y": 321,
+      "parent": "#6zqs5z"
+    },
+    {
+      "@id": "#vep7b9",
+      "name": "Industrial bases",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ng6hp9",
+      "name": "Sodium hydroxide, also called lye",
+      "x": 73,
+      "y": 372,
+      "link": "https://en.wikipedia.org/wiki/Sodium_hydroxide",
+      "parent": "#vep7b9"
+    },
+    {
+      "@id": "#3f5m33",
+      "name": "Used for paper, soap and aluminium",
+      "x": -82,
+      "y": 420,
+      "parent": "#vep7b9"
+    },
+    {
+      "@id": "#u8cs2v",
+      "name": "Calcium hydroxide in cement and mortar",
+      "x": -204,
+      "y": 321,
+      "parent": "#vep7b9"
+    },
+    {
+      "@id": "#ssj84d",
+      "name": "Safety",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#n9zbm5",
+      "name": "Strong bases damage skin and eyes",
+      "x": -318,
+      "y": 255,
+      "parent": "#ssj84d"
+    },
+    {
+      "@id": "#bjhdt5",
+      "name": "Drain cleaners need gloves and goggles",
+      "x": -401,
+      "y": 163,
+      "parent": "#ssj84d"
+    },
+    {
+      "@id": "#85vh3m",
+      "name": "Never mix bleach with ammonia cleaners",
+      "x": -464,
+      "y": 58,
+      "parent": "#ssj84d"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

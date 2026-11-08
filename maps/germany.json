@@ -1,0 +1,374 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Germany",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#5u7j9g",
+      "name": "Geography",
+      "x": -202,
+      "y": -89,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d5h52g",
+      "name": "Central Europe, about 357,000 km²",
+      "x": -446,
+      "y": -45,
+      "parent": "#5u7j9g"
+    },
+    {
+      "@id": "#ui9tg6",
+      "name": "North Sea plain to Alps",
+      "x": -418,
+      "y": -133,
+      "parent": "#5u7j9g"
+    },
+    {
+      "@id": "#uuwimf",
+      "name": "Rhine, Elbe and Danube rivers",
+      "x": -364,
+      "y": -212,
+      "parent": "#5u7j9g"
+    },
+    {
+      "@id": "#8y3926",
+      "name": "Berlin capital and largest city",
+      "x": -287,
+      "y": -277,
+      "parent": "#5u7j9g"
+    },
+    {
+      "@id": "#hmhxau",
+      "name": "People and languages",
+      "x": -14,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m3rmhs",
+      "name": "About 84 million people",
+      "x": -192,
+      "y": -326,
+      "parent": "#hmhxau"
+    },
+    {
+      "@id": "#mzqbd3",
+      "name": "German is the official language",
+      "x": -92,
+      "y": -386,
+      "parent": "#hmhxau"
+    },
+    {
+      "@id": "#pckuj9",
+      "name": "About a quarter have migrant backgrounds",
+      "x": 33,
+      "y": -439,
+      "parent": "#hmhxau"
+    },
+    {
+      "@id": "#w332xf",
+      "name": "Catholic, Protestant and growing non-religious",
+      "x": 199,
+      "y": -492,
+      "parent": "#hmhxau"
+    },
+    {
+      "@id": "#52sn4i",
+      "name": "History in brief",
+      "x": 202,
+      "y": -89,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y3mdn6",
+      "name": "Holy Roman Empire for nearly 1,000 years",
+      "x": 241,
+      "y": -304,
+      "parent": "#52sn4i"
+    },
+    {
+      "@id": "#9j35i9",
+      "name": "Luther began the Reformation, 1517",
+      "x": 328,
+      "y": -246,
+      "link": "https://en.wikipedia.org/wiki/Reformation",
+      "parent": "#52sn4i"
+    },
+    {
+      "@id": "#xmefw2",
+      "name": "Unified as empire under Bismarck, 1871",
+      "x": 394,
+      "y": -173,
+      "parent": "#52sn4i"
+    },
+    {
+      "@id": "#ivfywe",
+      "name": "Nazi dictatorship and the Holocaust",
+      "x": 493,
+      "y": -102,
+      "link": "https://en.wikipedia.org/wiki/The_Holocaust",
+      "parent": "#52sn4i"
+    },
+    {
+      "@id": "#urgy3m",
+      "name": "Split East and West, reunified 1990",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/German_reunification",
+      "parent": "#52sn4i"
+    },
+    {
+      "@id": "#bcqxcu",
+      "name": "Government",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#89n5xt",
+      "name": "Federal parliamentary republic",
+      "x": 436,
+      "y": 90,
+      "parent": "#bcqxcu"
+    },
+    {
+      "@id": "#74wnqf",
+      "name": "Chancellor elected by the Bundestag",
+      "x": 394,
+      "y": 173,
+      "parent": "#bcqxcu"
+    },
+    {
+      "@id": "#v5gxe7",
+      "name": "Bundesrat represents the states",
+      "x": 328,
+      "y": 246,
+      "parent": "#bcqxcu"
+    },
+    {
+      "@id": "#ajzk69",
+      "name": "Founding EU member; NATO since 1955",
+      "x": 241,
+      "y": 304,
+      "parent": "#bcqxcu"
+    },
+    {
+      "@id": "#yr5gwk",
+      "name": "Economy",
+      "x": -14,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4zkca8",
+      "name": "Europe's largest economy; uses the euro",
+      "x": 145,
+      "y": 357,
+      "parent": "#yr5gwk"
+    },
+    {
+      "@id": "#su9pps",
+      "name": "Cars, machinery and chemicals exported",
+      "x": 31,
+      "y": 407,
+      "parent": "#yr5gwk"
+    },
+    {
+      "@id": "#nvm32y",
+      "name": "Family-owned Mittelstand firms",
+      "x": -112,
+      "y": 466,
+      "parent": "#yr5gwk"
+    },
+    {
+      "@id": "#66ppw9",
+      "name": "Shut last nuclear plants in 2023",
+      "x": -318,
+      "y": 522,
+      "parent": "#yr5gwk"
+    },
+    {
+      "@id": "#z2ae33",
+      "name": "Culture",
+      "x": -202,
+      "y": 89,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#psqkvu",
+      "name": "Composers Bach, Beethoven and Brahms",
+      "x": -287,
+      "y": 277,
+      "link": "https://en.wikipedia.org/wiki/Music_of_Germany",
+      "parent": "#z2ae33"
+    },
+    {
+      "@id": "#w5bg24",
+      "name": "Thinkers Kant, Hegel and Marx",
+      "x": -364,
+      "y": 212,
+      "parent": "#z2ae33"
+    },
+    {
+      "@id": "#eiu9fy",
+      "name": "Goethe and Schiller in literature",
+      "x": -437,
+      "y": 139,
+      "parent": "#z2ae33"
+    },
+    {
+      "@id": "#fswfdg",
+      "name": "Beer, Oktoberfest and Christmas markets",
+      "x": -466,
+      "y": 47,
+      "parent": "#z2ae33"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 11,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    },
+    {
+      "start": 0,
+      "end": 27
+    },
+    {
+      "start": 27,
+      "end": 28
+    },
+    {
+      "start": 27,
+      "end": 29
+    },
+    {
+      "start": 27,
+      "end": 30
+    },
+    {
+      "start": 27,
+      "end": 31
+    }
+  ],
+  "selectedNode": 0
+}

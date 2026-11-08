@@ -1,0 +1,29 @@
+category: People
+aliases: mendeleev, dmitri mendeleyev, father of the periodic table
+- Dmitri Mendeleev
+  - Life
+    - Born 1834 in Tobolsk, Siberia
+    - Youngest of a large family
+    - Studied in St Petersburg and Heidelberg
+    - Professor at St Petersburg University
+    - Died 1907 in St Petersburg
+  - The periodic table
+    - [Arranged elements by atomic weight, 1869](https://en.wikipedia.org/wiki/Periodic_table)
+    - Properties repeat in regular periods
+    - Grouped similar elements in columns
+    - Ordered the 63 elements then known
+  - Bold predictions
+    - Left gaps for undiscovered elements
+    - [Gallium found 1875, eka-aluminium](https://en.wikipedia.org/wiki/Gallium)
+    - Scandium found 1879, eka-boron
+    - Germanium found 1886, eka-silicon
+    - Corrected some atomic weights
+  - Other work
+    - Principles of Chemistry textbook
+    - Studied solutions and gas expansion
+    - Advised on oil and industry
+    - Head of Russia's weights and measures
+  - Legacy
+    - Element 101 named mendelevium
+    - Table later reordered by atomic number
+    - Missed the Nobel Prize narrowly

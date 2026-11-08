@@ -1,0 +1,31 @@
+category: Geography
+aliases: south east asia, asean countries, southeast asian countries
+- Southeast Asia
+  - Mainland and islands
+    - Mainland: Myanmar, Thailand, Laos, Cambodia, Vietnam
+    - Peninsula and islands: Malaysia, Singapore
+    - Indonesia, Philippines, Brunei, Timor-Leste
+  - Land and climate
+    - Tropical, hot and humid year-round
+    - [Mekong flows through six countries](https://en.wikipedia.org/wiki/Mekong)
+    - Volcanoes along the Ring of Fire
+    - Rainforests rich in wildlife
+  - Peoples and languages
+    - About 680 million people
+    - [Indonesia, largest Muslim-majority country](https://en.wikipedia.org/wiki/Indonesia)
+    - Austronesian, Tai, Mon-Khmer language families
+    - Large Chinese and Indian communities
+  - History in brief
+    - Indian-influenced kingdoms like Khmer, Srivijaya
+    - [Angkor Wat, built 12th century](https://en.wikipedia.org/wiki/Angkor_Wat)
+    - European colonies; Thailand never colonised
+    - [Vietnam War ended 1975](https://en.wikipedia.org/wiki/Vietnam_War)
+  - Economy
+    - [ASEAN links eleven member states](https://en.wikipedia.org/wiki/ASEAN)
+    - Singapore a global trade hub
+    - Electronics, palm oil, rice exports
+    - Tourism from Bali to Bangkok
+  - Culture and religion
+    - Buddhism on the mainland
+    - Islam in Indonesia, Malaysia, Brunei
+    - Catholic majority in the Philippines

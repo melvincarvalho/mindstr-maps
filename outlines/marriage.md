@@ -1,0 +1,30 @@
+category: Life and home
+aliases: matrimony, wedlock, married life
+- Marriage
+  - What marriage is
+    - A recognised union between spouses
+    - Creates legal, social and family ties
+    - Found in almost every culture
+  - Forms of marriage
+    - Monogamy: two spouses
+    - [Polygamy is legal in some countries](https://en.wikipedia.org/wiki/Polygamy)
+    - [Arranged and love marriages](https://en.wikipedia.org/wiki/Arranged_marriage)
+    - [Same-sex marriage legal in 30+ countries](https://en.wikipedia.org/wiki/Same-sex_marriage)
+  - Civil and religious sides
+    - Civil marriage registered by the state
+    - Religious ceremonies follow faith traditions
+    - [Cohabitation and civil partnerships as alternatives](https://en.wikipedia.org/wiki/Civil_union)
+  - Legal effects
+    - Shared property and inheritance rights
+    - Tax, pension and immigration rules
+    - Spouses usually become next of kin
+    - Minimum ages and consent required
+  - Making it work
+    - Communicate honestly and often
+    - Agree on money, chores and children
+    - Keep time for each other
+    - Couples counselling can help
+  - Ending a marriage
+    - [Divorce legally dissolves the marriage](https://en.wikipedia.org/wiki/Divorce)
+    - Courts divide assets and arrange childcare
+    - Widowhood when a spouse dies

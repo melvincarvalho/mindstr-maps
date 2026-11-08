@@ -1,0 +1,31 @@
+category: People
+aliases: napoleon bonaparte, napoleon i, emperor napoleon
+- Napoleon
+  - Early life
+    - Born 1769 in Corsica
+    - Trained as an artillery officer in France
+    - Rose during the French Revolution
+  - Rise to power
+    - Won fame in Italian campaign, 1796–1797
+    - Egyptian campaign, 1798–1799
+    - Seized power in 1799 coup
+    - Crowned Emperor of the French, 1804
+  - [Napoleonic Wars](https://en.wikipedia.org/wiki/Napoleonic_Wars)
+    - [Triumph at Austerlitz, 1805](https://en.wikipedia.org/wiki/Battle_of_Austerlitz)
+    - Lost French fleet at Trafalgar, 1805
+    - Dominated much of continental Europe
+    - Disastrous invasion of Russia, 1812
+  - Reforms at home
+    - [Napoleonic Code reshaped civil law](https://en.wikipedia.org/wiki/Napoleonic_Code)
+    - Concordat with the Catholic Church
+    - Bank of France and lycée schools
+    - Restored slavery in French colonies, 1802
+  - Fall
+    - Exiled to Elba in 1814
+    - Returned for the Hundred Days
+    - [Defeated at Waterloo, 1815](https://en.wikipedia.org/wiki/Battle_of_Waterloo)
+    - Died 1821 in exile on Saint Helena
+  - Legacy
+    - Civil code copied worldwide
+    - Spread revolutionary ideas across Europe
+    - Millions died in his wars

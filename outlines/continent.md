@@ -1,0 +1,30 @@
+category: Geography
+aliases: continents, seven continents, continents of the world, list of continents
+- Continent
+  - What a continent is
+    - A very large, continuous landmass
+    - Defined by convention, not strict rules
+    - Includes its continental shelf
+  - The usual seven
+    - Asia, the largest and most populous
+    - Africa, second largest
+    - North America and South America
+    - Antarctica, ice-covered and uninhabited
+    - Europe and Australia, the smallest two
+  - Other ways to count
+    - Six: Americas joined as one
+    - Six: Europe and Asia as Eurasia
+    - Four or five in some traditions
+  - How continents formed
+    - [Plate tectonics moves the crust](https://en.wikipedia.org/wiki/Plate_tectonics)
+    - [Pangaea split about 200 million years ago](https://en.wikipedia.org/wiki/Pangaea)
+    - Plates still drift centimetres a year
+    - [Continental drift first proposed by Wegener](https://en.wikipedia.org/wiki/Continental_drift)
+  - Borders between continents
+    - Urals and Caucasus split Europe, Asia
+    - Panama joins the Americas
+    - Suez divides Africa from Asia
+  - Odd cases
+    - [Zealandia, a mostly sunken continent](https://en.wikipedia.org/wiki/Zealandia)
+    - Islands grouped with nearby continents
+    - Oceania used instead of Australia

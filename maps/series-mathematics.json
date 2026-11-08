@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Series (mathematics)",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#4ycf8w",
+      "name": "What a series is",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#txamy3",
+      "name": "Adding the terms of a sequence",
+      "x": -485,
+      "y": -58,
+      "parent": "#4ycf8w"
+    },
+    {
+      "@id": "#gjbx97",
+      "name": "Infinitely many terms, one total",
+      "x": -405,
+      "y": -156,
+      "parent": "#4ycf8w"
+    },
+    {
+      "@id": "#q97km7",
+      "name": "Partial sums approach the answer",
+      "x": -330,
+      "y": -245,
+      "parent": "#4ycf8w"
+    },
+    {
+      "@id": "#5nc8zq",
+      "name": "Converging examples",
+      "x": -51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m98vyb",
+      "name": "Halving forever: ½+¼+⅛… sums to 1",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Geometric_series",
+      "parent": "#5nc8zq"
+    },
+    {
+      "@id": "#538886",
+      "name": "0.999… is a series equal to 1",
+      "x": -104,
+      "y": -367,
+      "parent": "#5nc8zq"
+    },
+    {
+      "@id": "#yxdtp5",
+      "name": "Reciprocal squares sum to π²/6",
+      "x": 42,
+      "y": -423,
+      "parent": "#5nc8zq"
+    },
+    {
+      "@id": "#7cuyya",
+      "name": "Diverging examples",
+      "x": 179,
+      "y": -183,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#duxxe7",
+      "name": "Harmonic series grows without bound, slowly",
+      "x": 234,
+      "y": -485,
+      "link": "https://en.wikipedia.org/wiki/Harmonic_series_%28mathematics%29",
+      "parent": "#7cuyya"
+    },
+    {
+      "@id": "#bwptg7",
+      "name": "Grandi's 1−1+1−1… never settles",
+      "x": 281,
+      "y": -281,
+      "parent": "#7cuyya"
+    },
+    {
+      "@id": "#ycix2k",
+      "name": "Divergent sums can still be useful",
+      "x": 610,
+      "y": -329,
+      "parent": "#7cuyya"
+    },
+    {
+      "@id": "#m98b3y",
+      "name": "Tests for convergence",
+      "x": 247,
+      "y": 29,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bc7c8b",
+      "name": "Terms must shrink towards zero",
+      "x": 430,
+      "y": -106,
+      "parent": "#m98b3y"
+    },
+    {
+      "@id": "#6hw26k",
+      "name": "Shrinking terms are not enough",
+      "x": 530,
+      "y": 0,
+      "parent": "#m98b3y"
+    },
+    {
+      "@id": "#m2fpxd",
+      "name": "Ratio test compares successive terms",
+      "x": 430,
+      "y": 106,
+      "parent": "#m98b3y"
+    },
+    {
+      "@id": "#kx9kd9",
+      "name": "Compare with a known series",
+      "x": 372,
+      "y": 203,
+      "parent": "#m98b3y"
+    },
+    {
+      "@id": "#uftnek",
+      "name": "Famous series",
+      "x": 51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3n5fie",
+      "name": "Taylor series turn functions into polynomials",
+      "x": 281,
+      "y": 281,
+      "link": "https://en.wikipedia.org/wiki/Taylor_series",
+      "parent": "#uftnek"
+    },
+    {
+      "@id": "#j55hzt",
+      "name": "Fourier series build waves from sines",
+      "x": 164,
+      "y": 335,
+      "link": "https://en.wikipedia.org/wiki/Fourier_series",
+      "parent": "#uftnek"
+    },
+    {
+      "@id": "#9qv43g",
+      "name": "Leibniz's alternating series gives π/4",
+      "x": 38,
+      "y": 391,
+      "parent": "#uftnek"
+    },
+    {
+      "@id": "#6ermq8",
+      "name": "e is the sum of 1/n!",
+      "x": -124,
+      "y": 447,
+      "parent": "#uftnek"
+    },
+    {
+      "@id": "#hwjeh2",
+      "name": "History",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gxaw4m",
+      "name": "Zeno's paradox hides a series",
+      "x": -225,
+      "y": 312,
+      "parent": "#hwjeh2"
+    },
+    {
+      "@id": "#mxswiv",
+      "name": "Madhava found series for π, about 1400",
+      "x": -330,
+      "y": 245,
+      "parent": "#hwjeh2"
+    },
+    {
+      "@id": "#5cik6b",
+      "name": "Euler solved the Basel problem, 1734",
+      "x": -405,
+      "y": 156,
+      "parent": "#hwjeh2"
+    },
+    {
+      "@id": "#zpe97x",
+      "name": "Cauchy made convergence rigorous",
+      "x": -445,
+      "y": 54,
+      "parent": "#hwjeh2"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

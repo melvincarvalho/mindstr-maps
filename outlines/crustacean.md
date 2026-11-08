@@ -1,0 +1,31 @@
+category: Science
+aliases: crustaceans, crustacea, shellfish crustaceans
+- Crustacean
+  - What makes them distinct
+    - Two pairs of antennae
+    - Hard shell stiffened with calcium
+    - Branched limbs for swimming and feeding
+    - Most breathe through gills
+  - Size and diversity
+    - About 70,000 known species
+    - Tiny copepods to giant spider crabs
+    - Mostly marine, some freshwater and land
+  - Familiar groups
+    - [Crabs, lobsters, shrimp and crayfish](https://en.wikipedia.org/wiki/Decapoda)
+    - [Barnacles glue themselves to rocks](https://en.wikipedia.org/wiki/Barnacle)
+    - Woodlice live on land
+    - [Krill swarm in polar seas](https://en.wikipedia.org/wiki/Krill)
+    - Copepods, possibly the most numerous animals
+  - Life cycle
+    - Hatch as a nauplius larva
+    - Moult the shell to grow
+    - Some regrow lost limbs
+  - Role in ecosystems
+    - Krill feed whales, seals and penguins
+    - Copepods link plankton to fish
+    - Scavengers clean the seafloor
+  - Crustaceans and people
+    - Major seafood worldwide
+    - [Shrimp farming is a huge industry](https://en.wikipedia.org/wiki/Shrimp_farming)
+    - Shellfish allergy is common
+    - Barnacles foul ship hulls

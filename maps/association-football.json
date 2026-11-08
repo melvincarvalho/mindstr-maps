@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Association football",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#mqx7ki",
+      "name": "The basics",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zzcmdm",
+      "name": "Two teams of eleven players",
+      "x": -445,
+      "y": -51,
+      "parent": "#mqx7ki"
+    },
+    {
+      "@id": "#y7isig",
+      "name": "Score by getting ball into goal",
+      "x": -409,
+      "y": -150,
+      "parent": "#mqx7ki"
+    },
+    {
+      "@id": "#y234vq",
+      "name": "Only goalkeepers handle, in their area",
+      "x": -340,
+      "y": -236,
+      "parent": "#mqx7ki"
+    },
+    {
+      "@id": "#vskjqa",
+      "name": "Two 45-minute halves",
+      "x": -243,
+      "y": -303,
+      "parent": "#mqx7ki"
+    },
+    {
+      "@id": "#bbn9s2",
+      "name": "Key rules",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yucxzr",
+      "name": "Offside stops attackers goal-hanging",
+      "x": -133,
+      "y": -360,
+      "link": "https://en.wikipedia.org/wiki/Offside_%28association_football%29",
+      "parent": "#bbn9s2"
+    },
+    {
+      "@id": "#gkse56",
+      "name": "Fouls give free kicks or penalties",
+      "x": 0,
+      "y": -408,
+      "parent": "#bbn9s2"
+    },
+    {
+      "@id": "#ezqqmm",
+      "name": "Yellow card cautions, red sends off",
+      "x": 175,
+      "y": -465,
+      "parent": "#bbn9s2"
+    },
+    {
+      "@id": "#ypir2k",
+      "name": "VAR reviews major decisions",
+      "x": 243,
+      "y": -303,
+      "parent": "#bbn9s2"
+    },
+    {
+      "@id": "#dyqx2q",
+      "name": "Origins",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jwjpqa",
+      "name": "Football Association founded in London, 1863",
+      "x": 340,
+      "y": -236,
+      "link": "https://en.wikipedia.org/wiki/The_Football_Association",
+      "parent": "#dyqx2q"
+    },
+    {
+      "@id": "#mbtg2g",
+      "name": "IFAB guards the Laws since 1886",
+      "x": 409,
+      "y": -150,
+      "link": "https://en.wikipedia.org/wiki/Laws_of_the_Game_%28association_football%29",
+      "parent": "#dyqx2q"
+    },
+    {
+      "@id": "#fnkjix",
+      "name": "Spread worldwide with British trade",
+      "x": 465,
+      "y": -53,
+      "parent": "#dyqx2q"
+    },
+    {
+      "@id": "#vbid3i",
+      "name": "FIFA founded in Paris, 1904",
+      "x": 445,
+      "y": 51,
+      "parent": "#dyqx2q"
+    },
+    {
+      "@id": "#b2488x",
+      "name": "Competitions",
+      "x": 151,
+      "y": 139,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uquib2",
+      "name": "First World Cup: Uruguay, 1930",
+      "x": 409,
+      "y": 150,
+      "link": "https://en.wikipedia.org/wiki/FIFA_World_Cup",
+      "parent": "#b2488x"
+    },
+    {
+      "@id": "#zvn52t",
+      "name": "Women's World Cup since 1991",
+      "x": 340,
+      "y": 236,
+      "parent": "#b2488x"
+    },
+    {
+      "@id": "#m2rt84",
+      "name": "UEFA Champions League for European clubs",
+      "x": 243,
+      "y": 303,
+      "parent": "#b2488x"
+    },
+    {
+      "@id": "#geetn9",
+      "name": "Leagues like Premier League, La Liga",
+      "x": 133,
+      "y": 360,
+      "parent": "#b2488x"
+    },
+    {
+      "@id": "#m5scbw",
+      "name": "Positions and tactics",
+      "x": -65,
+      "y": 177,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kn73sd",
+      "name": "Goalkeeper, defenders, midfielders, forwards",
+      "x": 0,
+      "y": 408,
+      "parent": "#m5scbw"
+    },
+    {
+      "@id": "#7ie2ug",
+      "name": "Formations like 4-4-2 and 4-3-3",
+      "x": -175,
+      "y": 465,
+      "parent": "#m5scbw"
+    },
+    {
+      "@id": "#i6s7my",
+      "name": "Pressing versus possession styles",
+      "x": -243,
+      "y": 303,
+      "parent": "#m5scbw"
+    },
+    {
+      "@id": "#vvvspd",
+      "name": "The global game",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5k8hbe",
+      "name": "World's most popular sport",
+      "x": -340,
+      "y": 236,
+      "parent": "#vvvspd"
+    },
+    {
+      "@id": "#fzfpbe",
+      "name": "Brazil has won five World Cups",
+      "x": -409,
+      "y": 150,
+      "parent": "#vvvspd"
+    },
+    {
+      "@id": "#buwdcn",
+      "name": "Greats include Pelé, Maradona, Messi",
+      "x": -505,
+      "y": 57,
+      "parent": "#vvvspd"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

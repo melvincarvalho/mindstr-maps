@@ -1,0 +1,339 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Simón Bolívar",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#gqz4vm",
+      "name": "Early life",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#az659a",
+      "name": "Born 1783 in Caracas, Venezuela",
+      "x": -445,
+      "y": -51,
+      "parent": "#gqz4vm"
+    },
+    {
+      "@id": "#ncn2m8",
+      "name": "Wealthy Creole family, orphaned young",
+      "x": -409,
+      "y": -150,
+      "parent": "#gqz4vm"
+    },
+    {
+      "@id": "#abn3u2",
+      "name": "Educated in Europe, inspired by Enlightenment",
+      "x": -340,
+      "y": -236,
+      "parent": "#gqz4vm"
+    },
+    {
+      "@id": "#k5vcma",
+      "name": "Vowed in Rome to free South America",
+      "x": -243,
+      "y": -303,
+      "parent": "#gqz4vm"
+    },
+    {
+      "@id": "#fn4w7f",
+      "name": "War of independence",
+      "x": 65,
+      "y": -177,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dyk5z2",
+      "name": "First Venezuelan republics collapsed, 1812–1814",
+      "x": -133,
+      "y": -360,
+      "parent": "#fn4w7f"
+    },
+    {
+      "@id": "#xdnrdv",
+      "name": "Jamaica Letter set out his vision, 1815",
+      "x": 0,
+      "y": -408,
+      "parent": "#fn4w7f"
+    },
+    {
+      "@id": "#hchjmw",
+      "name": "Crossed the Andes in 1819",
+      "x": 175,
+      "y": -465,
+      "parent": "#fn4w7f"
+    },
+    {
+      "@id": "#g6xm3k",
+      "name": "Won Battle of Boyacá, 1819",
+      "x": 243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Battle_of_Boyac%C3%A1",
+      "parent": "#fn4w7f"
+    },
+    {
+      "@id": "#eunvdu",
+      "name": "Won Battle of Carabobo, 1821",
+      "x": 340,
+      "y": -236,
+      "parent": "#fn4w7f"
+    },
+    {
+      "@id": "#pkzvpk",
+      "name": "Nations he freed",
+      "x": 228,
+      "y": -26,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v2nbwi",
+      "name": "Venezuela, Colombia and Ecuador",
+      "x": 409,
+      "y": -150,
+      "parent": "#pkzvpk"
+    },
+    {
+      "@id": "#wqy33h",
+      "name": "Peru, with Antonio José de Sucre",
+      "x": 505,
+      "y": -57,
+      "parent": "#pkzvpk"
+    },
+    {
+      "@id": "#43j9kv",
+      "name": "Bolivia named after him",
+      "x": 445,
+      "y": 51,
+      "parent": "#pkzvpk"
+    },
+    {
+      "@id": "#e3gwqb",
+      "name": "Statesman",
+      "x": 151,
+      "y": 139,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z3grqi",
+      "name": "President of Gran Colombia",
+      "x": 409,
+      "y": 150,
+      "link": "https://en.wikipedia.org/wiki/Gran_Colombia",
+      "parent": "#e3gwqb"
+    },
+    {
+      "@id": "#7344q4",
+      "name": "Dreamed of united Spanish America",
+      "x": 340,
+      "y": 236,
+      "parent": "#e3gwqb"
+    },
+    {
+      "@id": "#jsepc6",
+      "name": "Called Congress of Panama, 1826",
+      "x": 243,
+      "y": 303,
+      "parent": "#e3gwqb"
+    },
+    {
+      "@id": "#p9na56",
+      "name": "Ruled as dictator from 1828",
+      "x": 133,
+      "y": 360,
+      "parent": "#e3gwqb"
+    },
+    {
+      "@id": "#9jn7it",
+      "name": "Decline",
+      "x": -65,
+      "y": 177,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ahhd6u",
+      "name": "Survived assassination attempt in 1828",
+      "x": 0,
+      "y": 408,
+      "parent": "#9jn7it"
+    },
+    {
+      "@id": "#6kzajk",
+      "name": "Gran Colombia broke apart",
+      "x": -175,
+      "y": 465,
+      "parent": "#9jn7it"
+    },
+    {
+      "@id": "#9s8yjd",
+      "name": "Died 1830 of tuberculosis",
+      "x": -243,
+      "y": 303,
+      "parent": "#9jn7it"
+    },
+    {
+      "@id": "#bdcw7f",
+      "name": "Legacy",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fx4h8w",
+      "name": "Hailed as El Libertador",
+      "x": -340,
+      "y": 236,
+      "parent": "#bdcw7f"
+    },
+    {
+      "@id": "#b7zumr",
+      "name": "Venezuela's currency named after him",
+      "x": -409,
+      "y": 150,
+      "parent": "#bdcw7f"
+    },
+    {
+      "@id": "#k3u3a2",
+      "name": "Admired across Latin American politics",
+      "x": -465,
+      "y": 53,
+      "parent": "#bdcw7f"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 6,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

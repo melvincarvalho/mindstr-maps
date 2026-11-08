@@ -1,0 +1,329 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Indus Valley Civilisation",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#7ymur7",
+      "name": "Where and when",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a85kmg",
+      "name": "Indus river basin, Pakistan and northwest India",
+      "x": -545,
+      "y": -64,
+      "parent": "#7ymur7"
+    },
+    {
+      "@id": "#8wwkwv",
+      "name": "Mature phase about 2600–1900 BC",
+      "x": -405,
+      "y": -156,
+      "parent": "#7ymur7"
+    },
+    {
+      "@id": "#8ievk7",
+      "name": "Largest Bronze Age civilisation by area",
+      "x": -330,
+      "y": -245,
+      "parent": "#7ymur7"
+    },
+    {
+      "@id": "#jxtwxk",
+      "name": "Great cities",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b5zi4t",
+      "name": "Mohenjo-daro in Sindh",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Mohenjo-daro",
+      "parent": "#jxtwxk"
+    },
+    {
+      "@id": "#2xd5sa",
+      "name": "Harappa, first site identified",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Harappa",
+      "parent": "#jxtwxk"
+    },
+    {
+      "@id": "#95wjzn",
+      "name": "Dholavira and Lothal in Gujarat",
+      "x": 42,
+      "y": -423,
+      "parent": "#jxtwxk"
+    },
+    {
+      "@id": "#vhpgzy",
+      "name": "Rakhigarhi in Haryana",
+      "x": 234,
+      "y": -485,
+      "parent": "#jxtwxk"
+    },
+    {
+      "@id": "#pfjc4h",
+      "name": "Urban planning",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sd95p6",
+      "name": "Grid streets and baked-brick houses",
+      "x": 281,
+      "y": -281,
+      "parent": "#pfjc4h"
+    },
+    {
+      "@id": "#6je7x3",
+      "name": "Covered drains and household bathrooms",
+      "x": 372,
+      "y": -203,
+      "parent": "#pfjc4h"
+    },
+    {
+      "@id": "#23k53t",
+      "name": "Great Bath at Mohenjo-daro",
+      "x": 449,
+      "y": -111,
+      "parent": "#pfjc4h"
+    },
+    {
+      "@id": "#h6xwsm",
+      "name": "Standardised bricks and weights",
+      "x": 450,
+      "y": 0,
+      "parent": "#pfjc4h"
+    },
+    {
+      "@id": "#vd989n",
+      "name": "Economy and trade",
+      "x": 169,
+      "y": 125,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jsyz5a",
+      "name": "Wheat, barley and early cotton",
+      "x": 449,
+      "y": 111,
+      "parent": "#vd989n"
+    },
+    {
+      "@id": "#6rxqhc",
+      "name": "Lothal's dockyard for sea trade",
+      "x": 372,
+      "y": 203,
+      "parent": "#vd989n"
+    },
+    {
+      "@id": "#tmj6cj",
+      "name": "Traded with Mesopotamia, called Meluhha",
+      "x": 281,
+      "y": 281,
+      "parent": "#vd989n"
+    },
+    {
+      "@id": "#tdyvjr",
+      "name": "Beads, seals and fine craft",
+      "x": 164,
+      "y": 335,
+      "parent": "#vd989n"
+    },
+    {
+      "@id": "#wska9p",
+      "name": "Mysteries",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9bk9sx",
+      "name": "Indus script still undeciphered",
+      "x": 38,
+      "y": 391,
+      "link": "https://en.wikipedia.org/wiki/Indus_script",
+      "parent": "#wska9p"
+    },
+    {
+      "@id": "#63ecxy",
+      "name": "No obvious palaces or royal tombs",
+      "x": -124,
+      "y": 447,
+      "parent": "#wska9p"
+    },
+    {
+      "@id": "#fn2qww",
+      "name": "Who ruled remains unclear",
+      "x": -225,
+      "y": 312,
+      "parent": "#wska9p"
+    },
+    {
+      "@id": "#4npkj4",
+      "name": "Decline",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rtuhge",
+      "name": "Cities shrank after about 1900 BC",
+      "x": -330,
+      "y": 245,
+      "parent": "#4npkj4"
+    },
+    {
+      "@id": "#bj9b33",
+      "name": "Weaker monsoon, shifting rivers likely",
+      "x": -405,
+      "y": 156,
+      "parent": "#4npkj4"
+    },
+    {
+      "@id": "#3jxhsf",
+      "name": "Rediscovered by excavations in the 1920s",
+      "x": -485,
+      "y": 58,
+      "parent": "#4npkj4"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

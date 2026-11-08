@@ -1,0 +1,340 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Vegetable",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#bbe9nt",
+      "name": "What counts as a vegetable",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h8xcpj",
+      "name": "A cooking term, not a botanical one",
+      "x": -545,
+      "y": -61,
+      "parent": "#bbe9nt"
+    },
+    {
+      "@id": "#usn9df",
+      "name": "Edible plant parts used in savoury dishes",
+      "x": -409,
+      "y": -150,
+      "parent": "#bbe9nt"
+    },
+    {
+      "@id": "#xb8ye5",
+      "name": "Tomatoes and peppers are botanically fruits",
+      "x": -340,
+      "y": -236,
+      "parent": "#bbe9nt"
+    },
+    {
+      "@id": "#teep2d",
+      "name": "Grouped by plant part",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gpm4jn",
+      "name": "Leaves: lettuce, spinach, cabbage",
+      "x": -243,
+      "y": -303,
+      "parent": "#teep2d"
+    },
+    {
+      "@id": "#5f73ry",
+      "name": "Roots and tubers: carrots, potatoes",
+      "x": -133,
+      "y": -360,
+      "parent": "#teep2d"
+    },
+    {
+      "@id": "#q5ustz",
+      "name": "Stems and shoots: celery, asparagus",
+      "x": 0,
+      "y": -408,
+      "parent": "#teep2d"
+    },
+    {
+      "@id": "#6nz649",
+      "name": "Flowers: broccoli, cauliflower, artichoke",
+      "x": 175,
+      "y": -465,
+      "parent": "#teep2d"
+    },
+    {
+      "@id": "#2js452",
+      "name": "Bulbs: onions, garlic, leeks",
+      "x": 243,
+      "y": -303,
+      "parent": "#teep2d"
+    },
+    {
+      "@id": "#rbdaz6",
+      "name": "Seeds and pods: peas, beans, sweetcorn",
+      "x": 340,
+      "y": -236,
+      "parent": "#teep2d"
+    },
+    {
+      "@id": "#uwyc3b",
+      "name": "Why they matter for health",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#utuyvd",
+      "name": "Rich in fibre, vitamins and minerals",
+      "x": 409,
+      "y": -150,
+      "link": "https://en.wikipedia.org/wiki/Dietary_fiber",
+      "parent": "#uwyc3b"
+    },
+    {
+      "@id": "#5347ib",
+      "name": "Low in calories, filling",
+      "x": 445,
+      "y": -51,
+      "parent": "#uwyc3b"
+    },
+    {
+      "@id": "#puw8mc",
+      "name": "Linked to lower heart disease risk",
+      "x": 445,
+      "y": 51,
+      "parent": "#uwyc3b"
+    },
+    {
+      "@id": "#hbb7zk",
+      "name": "WHO: 400 g fruit and veg daily",
+      "x": 409,
+      "y": 150,
+      "link": "https://en.wikipedia.org/wiki/5_A_Day",
+      "parent": "#uwyc3b"
+    },
+    {
+      "@id": "#r8xntm",
+      "name": "Buying and storing",
+      "x": 96,
+      "y": 167,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jeezjs",
+      "name": "Seasonal and local often tastes best",
+      "x": 340,
+      "y": 236,
+      "parent": "#r8xntm"
+    },
+    {
+      "@id": "#dg547m",
+      "name": "Frozen vegetables keep nutrients well",
+      "x": 243,
+      "y": 303,
+      "parent": "#r8xntm"
+    },
+    {
+      "@id": "#izinzh",
+      "name": "Most leafy greens chill in the fridge",
+      "x": 133,
+      "y": 360,
+      "parent": "#r8xntm"
+    },
+    {
+      "@id": "#fupt3z",
+      "name": "Keep potatoes and onions cool, dark",
+      "x": 0,
+      "y": 408,
+      "parent": "#r8xntm"
+    },
+    {
+      "@id": "#8rc7qr",
+      "name": "Cooking them well",
+      "x": -124,
+      "y": 155,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pzxm47",
+      "name": "Steam or roast to keep flavour",
+      "x": -175,
+      "y": 465,
+      "parent": "#8rc7qr"
+    },
+    {
+      "@id": "#6pczm4",
+      "name": "Avoid boiling to mush",
+      "x": -243,
+      "y": 303,
+      "parent": "#8rc7qr"
+    },
+    {
+      "@id": "#cx7b9d",
+      "name": "Wash before eating, especially raw",
+      "x": -340,
+      "y": 236,
+      "parent": "#8rc7qr"
+    },
+    {
+      "@id": "#5hptm7",
+      "name": "Growing your own",
+      "x": -221,
+      "y": 52,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4xs4uy",
+      "name": "Start with easy salad leaves",
+      "x": -409,
+      "y": 150,
+      "link": "https://en.wikipedia.org/wiki/Kitchen_garden",
+      "parent": "#5hptm7"
+    },
+    {
+      "@id": "#6jixiy",
+      "name": "Rotate crops to avoid disease",
+      "x": -485,
+      "y": 55,
+      "parent": "#5hptm7"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 5,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 12,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

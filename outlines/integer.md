@@ -1,0 +1,30 @@
+category: Mathematics
+aliases: integers, negative numbers, whole numbers and negatives
+- Integer
+  - Whole numbers with signs
+    - −3, 0 and 7 are integers
+    - No fractions or decimals
+    - Natural numbers plus zero and negatives
+  - The number line
+    - Zero sits in the middle
+    - Negatives extend to the left
+    - Absolute value: distance from zero
+  - Arithmetic rules
+    - Adding a negative means subtracting
+    - Negative times negative is positive
+    - Division can leave a remainder
+    - Closed under adding, subtracting, multiplying
+  - Everyday uses
+    - Temperatures below freezing
+    - Bank balances and debts
+    - Floors below ground level
+    - Heights below sea level
+  - Ideas built on integers
+    - [Divisibility and prime factors](https://en.wikipedia.org/wiki/Divisor)
+    - [Modular arithmetic: clock maths](https://en.wikipedia.org/wiki/Modular_arithmetic)
+    - Even and odd numbers
+  - History and notation
+    - Chinese used negative numbers by 200 BC
+    - [Brahmagupta's rules for negatives, 628](https://en.wikipedia.org/wiki/Brahmagupta)
+    - ℤ comes from German Zahlen
+    - [Computers store fixed-size integers](https://en.wikipedia.org/wiki/Integer_%28computer_science%29)

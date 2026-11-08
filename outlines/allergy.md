@@ -1,0 +1,31 @@
+category: Health
+aliases: allergies, allergic reaction, food allergy
+- Allergy
+  - What it is
+    - Immune system overreacts to harmless things
+    - IgE antibodies trigger histamine release
+    - Often runs in families
+  - Common triggers
+    - Pollen causes hay fever
+    - Dust mites and pet dander
+    - Peanuts, tree nuts, milk, eggs, shellfish
+    - Insect stings
+    - Medicines such as penicillin
+  - Symptoms
+    - Sneezing, runny nose, itchy eyes
+    - Hives, rash or eczema flare
+    - Wheezing and asthma attacks
+    - Swelling of lips, face or tongue
+  - [Anaphylaxis is an emergency](https://en.wikipedia.org/wiki/Anaphylaxis)
+    - Breathing trouble, throat swelling, collapse
+    - Use adrenaline auto-injector if prescribed
+    - Call emergency services immediately
+  - Diagnosis
+    - [Skin prick test](https://en.wikipedia.org/wiki/Skin_allergy_test)
+    - Blood test for specific IgE
+    - Supervised food challenge
+  - Managing allergies
+    - Avoid known triggers, read food labels
+    - [Antihistamines ease mild symptoms](https://en.wikipedia.org/wiki/Antihistamine)
+    - Steroid nasal sprays for hay fever
+    - [Immunotherapy builds tolerance over years](https://en.wikipedia.org/wiki/Allergen_immunotherapy)

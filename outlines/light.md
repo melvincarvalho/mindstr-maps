@@ -1,0 +1,29 @@
+category: Science
+aliases: visible light, nature of light, light physics
+- Light
+  - What light is
+    - Electromagnetic waves our eyes detect
+    - [Wavelengths about 400 to 700 nanometres](https://en.wikipedia.org/wiki/Visible_spectrum)
+    - Comes in packets called photons
+  - Where light comes from
+    - The Sun and other stars
+    - Hot objects glow: fire, bulbs
+    - LEDs and lasers release photons directly
+  - How light behaves
+    - Travels in straight lines, casting shadows
+    - [Reflects off mirrors and surfaces](https://en.wikipedia.org/wiki/Reflection_%28physics%29)
+    - Refracts in lenses, water and glass
+    - Fastest thing, about 300,000 km/s
+  - Colour
+    - [Newton split white light with a prism](https://en.wikipedia.org/wiki/Opticks)
+    - Rainbows: raindrops spread out colours
+    - Objects reflect the colours we see
+    - Sky is blue from scattered sunlight
+  - Wave or particle?
+    - Newton favoured tiny particles
+    - [Young's double slit showed waves, 1801](https://en.wikipedia.org/wiki/Double-slit_experiment)
+    - Einstein's photons explained the photoelectric effect
+    - Today: both, in quantum physics
+  - Light and life
+    - Plants turn sunlight into food
+    - Eyes and vision depend on it

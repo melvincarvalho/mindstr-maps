@@ -1,0 +1,32 @@
+category: Life and home
+aliases: toys, children's toys, kids toys
+- Toy
+  - What toys are for
+    - [Play builds motor and social skills](https://en.wikipedia.org/wiki/Play_%28activity%29)
+    - Pretend play grows imagination
+    - Adults collect and play too
+  - Toys through history
+    - Ancient dolls, balls and spinning tops
+    - [Yo-yos date to ancient Greece](https://en.wikipedia.org/wiki/Yo-yo)
+    - Factory mass production from 1800s
+    - Plastic toys boom after 1945
+  - Main kinds of toy
+    - [Dolls and action figures](https://en.wikipedia.org/wiki/Doll)
+    - Construction sets like LEGO bricks
+    - Puzzles and board games
+    - Balls, bikes and outdoor toys
+    - Electronic and video game toys
+  - Famous toys and dates
+    - [Teddy bear, 1902](https://en.wikipedia.org/wiki/Teddy_bear)
+    - LEGO brick patented, 1958
+    - Barbie launched, 1959
+    - Rubik's Cube invented, 1974
+  - Choosing safe toys
+    - Follow the age label
+    - Small parts choke under-threes
+    - Button batteries and magnets are dangerous
+    - Look for CE or ASTM marks
+  - The toy industry
+    - LEGO, Mattel and Hasbro lead
+    - Most sales come before Christmas
+    - Films and TV drive toy lines

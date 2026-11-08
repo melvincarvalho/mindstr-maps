@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Allergy",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#em3vrp",
+      "name": "What it is",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#drr7hg",
+      "name": "Immune system overreacts to harmless things",
+      "x": -505,
+      "y": -57,
+      "parent": "#em3vrp"
+    },
+    {
+      "@id": "#mjy5qc",
+      "name": "IgE antibodies trigger histamine release",
+      "x": -409,
+      "y": -150,
+      "parent": "#em3vrp"
+    },
+    {
+      "@id": "#tgahy5",
+      "name": "Often runs in families",
+      "x": -340,
+      "y": -236,
+      "parent": "#em3vrp"
+    },
+    {
+      "@id": "#vn374v",
+      "name": "Common triggers",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nv9jfj",
+      "name": "Pollen causes hay fever",
+      "x": -243,
+      "y": -303,
+      "parent": "#vn374v"
+    },
+    {
+      "@id": "#wx7zsj",
+      "name": "Dust mites and pet dander",
+      "x": -133,
+      "y": -360,
+      "parent": "#vn374v"
+    },
+    {
+      "@id": "#43qa9c",
+      "name": "Peanuts, tree nuts, milk, eggs, shellfish",
+      "x": 0,
+      "y": -408,
+      "parent": "#vn374v"
+    },
+    {
+      "@id": "#mgifkv",
+      "name": "Insect stings",
+      "x": 127,
+      "y": -345,
+      "parent": "#vn374v"
+    },
+    {
+      "@id": "#mftpna",
+      "name": "Medicines such as penicillin",
+      "x": 364,
+      "y": -446,
+      "parent": "#vn374v"
+    },
+    {
+      "@id": "#5b6q28",
+      "name": "Symptoms",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r2vng4",
+      "name": "Sneezing, runny nose, itchy eyes",
+      "x": 340,
+      "y": -236,
+      "parent": "#5b6q28"
+    },
+    {
+      "@id": "#jfyi7j",
+      "name": "Hives, rash or eczema flare",
+      "x": 409,
+      "y": -150,
+      "parent": "#5b6q28"
+    },
+    {
+      "@id": "#hqu2bs",
+      "name": "Wheezing and asthma attacks",
+      "x": 445,
+      "y": -51,
+      "parent": "#5b6q28"
+    },
+    {
+      "@id": "#f9d9ri",
+      "name": "Swelling of lips, face or tongue",
+      "x": 445,
+      "y": 51,
+      "parent": "#5b6q28"
+    },
+    {
+      "@id": "#bc4fe8",
+      "name": "Anaphylaxis is an emergency",
+      "x": 174,
+      "y": 120,
+      "link": "https://en.wikipedia.org/wiki/Anaphylaxis",
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wdkzy5",
+      "name": "Breathing trouble, throat swelling, collapse",
+      "x": 463,
+      "y": 171,
+      "parent": "#bc4fe8"
+    },
+    {
+      "@id": "#59fzdd",
+      "name": "Use adrenaline auto-injector if prescribed",
+      "x": 340,
+      "y": 236,
+      "parent": "#bc4fe8"
+    },
+    {
+      "@id": "#hwtsy7",
+      "name": "Call emergency services immediately",
+      "x": 243,
+      "y": 303,
+      "parent": "#bc4fe8"
+    },
+    {
+      "@id": "#f4f544",
+      "name": "Diagnosis",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4neb9a",
+      "name": "Skin prick test",
+      "x": 133,
+      "y": 360,
+      "link": "https://en.wikipedia.org/wiki/Skin_allergy_test",
+      "parent": "#f4f544"
+    },
+    {
+      "@id": "#b3dct9",
+      "name": "Blood test for specific IgE",
+      "x": 0,
+      "y": 408,
+      "parent": "#f4f544"
+    },
+    {
+      "@id": "#q8yx59",
+      "name": "Supervised food challenge",
+      "x": -127,
+      "y": 345,
+      "parent": "#f4f544"
+    },
+    {
+      "@id": "#xcyrh2",
+      "name": "Managing allergies",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hd7mkd",
+      "name": "Avoid known triggers, read food labels",
+      "x": -342,
+      "y": 420,
+      "parent": "#xcyrh2"
+    },
+    {
+      "@id": "#m248pg",
+      "name": "Antihistamines ease mild symptoms",
+      "x": -340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/Antihistamine",
+      "parent": "#xcyrh2"
+    },
+    {
+      "@id": "#md44zs",
+      "name": "Steroid nasal sprays for hay fever",
+      "x": -409,
+      "y": 150,
+      "parent": "#xcyrh2"
+    },
+    {
+      "@id": "#mai2u8",
+      "name": "Immunotherapy builds tolerance over years",
+      "x": -445,
+      "y": 51,
+      "link": "https://en.wikipedia.org/wiki/Allergen_immunotherapy",
+      "parent": "#xcyrh2"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

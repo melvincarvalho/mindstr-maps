@@ -1,0 +1,33 @@
+category: Geography
+aliases: republic of kenya
+- Kenya
+  - Geography
+    - Straddles the equator on the Indian Ocean
+    - [Mount Kenya, Africa's second-highest peak](https://en.wikipedia.org/wiki/Mount_Kenya)
+    - [Great Rift Valley runs north to south](https://en.wikipedia.org/wiki/Great_Rift_Valley)
+    - Shares Lake Victoria with Uganda, Tanzania
+  - People and languages
+    - About 55 million people
+    - Capital Nairobi, East Africa's business hub
+    - Swahili and English are official
+    - Over 40 ethnic groups, Kikuyu largest
+  - History in brief
+    - Swahili coastal towns traded across the ocean
+    - British rule from 1895
+    - [Mau Mau uprising in the 1950s](https://en.wikipedia.org/wiki/Mau_Mau_rebellion)
+    - Independence in 1963 under Jomo Kenyatta
+    - New constitution adopted in 2010
+  - Government
+    - Presidential republic
+    - 47 counties with devolved powers
+    - Elections every five years
+  - Economy
+    - Tea, cut flowers and coffee exports
+    - [M-Pesa pioneered mobile money](https://en.wikipedia.org/wiki/M-Pesa)
+    - Safari tourism and coastal resorts
+    - Geothermal power from Rift volcanoes
+  - Culture and known for
+    - [Great Migration in the Maasai Mara](https://en.wikipedia.org/wiki/Maasai_Mara)
+    - Kipchoge and world-class distance runners
+    - Maasai herders and their beadwork
+    - Nyama choma and ugali

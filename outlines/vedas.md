@@ -1,0 +1,31 @@
+category: Philosophy and religion
+aliases: the vedas, four vedas, vedic scriptures
+- Vedas
+  - What they are
+    - Oldest Hindu scriptures, in Vedic Sanskrit
+    - Composed about 1500–500 BCE
+    - Revered as shruti, "that which is heard"
+    - Passed down orally for centuries
+  - The four Vedas
+    - [Rigveda, over 1,000 hymns](https://en.wikipedia.org/wiki/Rigveda)
+    - Samaveda, melodies for chanting
+    - Yajurveda, formulas for sacrifice
+    - Atharvaveda, spells and everyday rites
+  - Layers of each Veda
+    - Samhitas, the hymn collections
+    - Brahmanas explain the rituals
+    - Aranyakas, "forest" texts on ritual meaning
+    - [Upanishads, philosophical teachings](https://en.wikipedia.org/wiki/Upanishads)
+  - Gods and ideas
+    - Indra, god of storms and war
+    - Agni, the sacred fire
+    - Soma, a ritual drink and deity
+    - Rita, the cosmic order
+  - Ritual and recitation
+    - [Yajna, the fire sacrifice](https://en.wikipedia.org/wiki/Yajna)
+    - Memorised with exact recitation patterns
+    - Chanting recognised by UNESCO in 2003
+  - Legacy
+    - [Basis of Vedanta philosophy](https://en.wikipedia.org/wiki/Vedanta)
+    - Mantras still used in Hindu rites
+    - Key source for early Indian history

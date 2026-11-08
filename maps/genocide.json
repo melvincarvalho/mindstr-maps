@@ -1,0 +1,353 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Genocide",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#j4az9z",
+      "name": "Definition in international law",
+      "x": -197,
+      "y": -96,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#24437j",
+      "name": "1948 Genocide Convention",
+      "x": -506,
+      "y": -55,
+      "link": "https://en.wikipedia.org/wiki/Genocide_Convention",
+      "parent": "#j4az9z"
+    },
+    {
+      "@id": "#b6f6dq",
+      "name": "Intent to destroy a group, even partly",
+      "x": -431,
+      "y": -149,
+      "parent": "#j4az9z"
+    },
+    {
+      "@id": "#xzrq5p",
+      "name": "National, ethnic, racial or religious groups",
+      "x": -349,
+      "y": -227,
+      "parent": "#j4az9z"
+    },
+    {
+      "@id": "#h2b38z",
+      "name": "Term coined by Raphael Lemkin, 1944",
+      "x": -260,
+      "y": -294,
+      "link": "https://en.wikipedia.org/wiki/Raphael_Lemkin",
+      "parent": "#j4az9z"
+    },
+    {
+      "@id": "#ba4ija",
+      "name": "Acts listed in the Convention",
+      "x": 26,
+      "y": -344,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9stfhh",
+      "name": "Killing members of the group",
+      "x": -179,
+      "y": -399,
+      "parent": "#ba4ija"
+    },
+    {
+      "@id": "#y4inka",
+      "name": "Causing serious bodily or mental harm",
+      "x": -37,
+      "y": -455,
+      "parent": "#ba4ija"
+    },
+    {
+      "@id": "#nhk295",
+      "name": "Imposing conditions meant to destroy it",
+      "x": 132,
+      "y": -512,
+      "parent": "#ba4ija"
+    },
+    {
+      "@id": "#icjyst",
+      "name": "Preventing births or transferring children",
+      "x": 261,
+      "y": -404,
+      "parent": "#ba4ija"
+    },
+    {
+      "@id": "#eea945",
+      "name": "Documented examples",
+      "x": 221,
+      "y": -50,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h4mdi7",
+      "name": "The Holocaust: about six million Jews",
+      "x": 307,
+      "y": -263,
+      "link": "https://en.wikipedia.org/wiki/The_Holocaust",
+      "parent": "#eea945"
+    },
+    {
+      "@id": "#yp3mfh",
+      "name": "Armenian genocide, Ottoman Empire, 1915–1917",
+      "x": 384,
+      "y": -187,
+      "parent": "#eea945"
+    },
+    {
+      "@id": "#n3zmx3",
+      "name": "Cambodia under the Khmer Rouge, 1975–1979",
+      "x": 452,
+      "y": -101,
+      "parent": "#eea945"
+    },
+    {
+      "@id": "#gjnsjd",
+      "name": "Rwanda: Tutsi killed in 1994",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Rwandan_genocide",
+      "parent": "#eea945"
+    },
+    {
+      "@id": "#mzkpm9",
+      "name": "Srebrenica, 1995, ruled genocide by courts",
+      "x": 433,
+      "y": 97,
+      "parent": "#eea945"
+    },
+    {
+      "@id": "#dp7jj7",
+      "name": "Warning signs",
+      "x": 171,
+      "y": 146,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#724heh",
+      "name": "Dehumanising propaganda against a group",
+      "x": 401,
+      "y": 195,
+      "parent": "#dp7jj7"
+    },
+    {
+      "@id": "#c34d4m",
+      "name": "Discriminatory laws and exclusion",
+      "x": 307,
+      "y": 263,
+      "parent": "#dp7jj7"
+    },
+    {
+      "@id": "#xp79cw",
+      "name": "Gregory Stanton's ten stages model",
+      "x": 207,
+      "y": 320,
+      "parent": "#dp7jj7"
+    },
+    {
+      "@id": "#cxg46r",
+      "name": "Justice and accountability",
+      "x": -17,
+      "y": 200,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hbigym",
+      "name": "Rwanda and Yugoslavia tribunals, 1990s",
+      "x": 96,
+      "y": 368,
+      "parent": "#cxg46r"
+    },
+    {
+      "@id": "#py64ra",
+      "name": "International Criminal Court since 2002",
+      "x": -35,
+      "y": 423,
+      "parent": "#cxg46r"
+    },
+    {
+      "@id": "#yp4yyr",
+      "name": "International Court of Justice hears state cases",
+      "x": -214,
+      "y": 474,
+      "parent": "#cxg46r"
+    },
+    {
+      "@id": "#ncxc7g",
+      "name": "Prevention",
+      "x": -197,
+      "y": 96,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ztp6be",
+      "name": "UN adviser on genocide prevention",
+      "x": -260,
+      "y": 294,
+      "parent": "#ncxc7g"
+    },
+    {
+      "@id": "#3yrurz",
+      "name": "Responsibility to Protect, agreed 2005",
+      "x": -365,
+      "y": 237,
+      "link": "https://en.wikipedia.org/wiki/Responsibility_to_protect",
+      "parent": "#ncxc7g"
+    },
+    {
+      "@id": "#td5q7f",
+      "name": "Early warning and diplomatic pressure",
+      "x": -431,
+      "y": 149,
+      "parent": "#ncxc7g"
+    },
+    {
+      "@id": "#d4eu2q",
+      "name": "Remembrance and education",
+      "x": -446,
+      "y": 49,
+      "parent": "#ncxc7g"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 11,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    },
+    {
+      "start": 25,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,352 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "North America",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ijqukc",
+      "name": "Land and physical geography",
+      "x": -178,
+      "y": -116,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#62jdp2",
+      "name": "Third-largest continent, about 24 million km²",
+      "x": -446,
+      "y": -49,
+      "parent": "#ijqukc"
+    },
+    {
+      "@id": "#d9jffe",
+      "name": "Rocky Mountains run down the west",
+      "x": -485,
+      "y": -167,
+      "link": "https://en.wikipedia.org/wiki/Rocky_Mountains",
+      "parent": "#ijqukc"
+    },
+    {
+      "@id": "#f8uyds",
+      "name": "Great Plains and Canadian Shield inland",
+      "x": -349,
+      "y": -227,
+      "parent": "#ijqukc"
+    },
+    {
+      "@id": "#6vm4zw",
+      "name": "Great Lakes hold vast fresh water",
+      "x": -260,
+      "y": -294,
+      "link": "https://en.wikipedia.org/wiki/Great_Lakes",
+      "parent": "#ijqukc"
+    },
+    {
+      "@id": "#9rik68",
+      "name": "Mississippi–Missouri is the longest river system",
+      "x": -158,
+      "y": -354,
+      "parent": "#ijqukc"
+    },
+    {
+      "@id": "#u9d95e",
+      "name": "Countries and regions",
+      "x": 106,
+      "y": -163,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#i8s8z9",
+      "name": "23 sovereign states",
+      "x": -34,
+      "y": -407,
+      "parent": "#u9d95e"
+    },
+    {
+      "@id": "#u5agmv",
+      "name": "Canada, United States and Mexico dominate",
+      "x": 120,
+      "y": -464,
+      "parent": "#u9d95e"
+    },
+    {
+      "@id": "#4mbh7g",
+      "name": "Central America links to South America",
+      "x": 333,
+      "y": -516,
+      "parent": "#u9d95e"
+    },
+    {
+      "@id": "#28fgag",
+      "name": "Caribbean islands lie to the east",
+      "x": 307,
+      "y": -263,
+      "parent": "#u9d95e"
+    },
+    {
+      "@id": "#qgu58q",
+      "name": "Greenland belongs to the Kingdom of Denmark",
+      "x": 435,
+      "y": -211,
+      "parent": "#u9d95e"
+    },
+    {
+      "@id": "#wdk64e",
+      "name": "Climate and nature",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d6bubw",
+      "name": "Arctic tundra to tropical rainforest",
+      "x": 433,
+      "y": -97,
+      "parent": "#wdk64e"
+    },
+    {
+      "@id": "#umkjkq",
+      "name": "Deserts of the southwest and Mexico",
+      "x": 530,
+      "y": 0,
+      "parent": "#wdk64e"
+    },
+    {
+      "@id": "#df5rcr",
+      "name": "Hurricanes strike the Gulf and Caribbean",
+      "x": 433,
+      "y": 97,
+      "parent": "#wdk64e"
+    },
+    {
+      "@id": "#wnnhn7",
+      "name": "People and languages",
+      "x": 171,
+      "y": 146,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yxkvje",
+      "name": "About 600 million people",
+      "x": 401,
+      "y": 195,
+      "parent": "#wnnhn7"
+    },
+    {
+      "@id": "#rs85xd",
+      "name": "English, Spanish and French widely spoken",
+      "x": 307,
+      "y": 263,
+      "parent": "#wnnhn7"
+    },
+    {
+      "@id": "#7jzksv",
+      "name": "Hundreds of Indigenous languages survive",
+      "x": 207,
+      "y": 320,
+      "parent": "#wnnhn7"
+    },
+    {
+      "@id": "#9mgs5g",
+      "name": "History in brief",
+      "x": -47,
+      "y": 180,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tmjxa8",
+      "name": "Peoples arrived from Asia 15,000+ years ago",
+      "x": 96,
+      "y": 368,
+      "parent": "#9mgs5g"
+    },
+    {
+      "@id": "#k35eic",
+      "name": "Maya and Aztec civilisations in Mesoamerica",
+      "x": -35,
+      "y": 423,
+      "link": "https://en.wikipedia.org/wiki/Mesoamerica",
+      "parent": "#9mgs5g"
+    },
+    {
+      "@id": "#uzqrzc",
+      "name": "European colonisation from 1492",
+      "x": -214,
+      "y": 474,
+      "parent": "#9mgs5g"
+    },
+    {
+      "@id": "#v73zsy",
+      "name": "Independence movements from 1776 onward",
+      "x": -260,
+      "y": 294,
+      "parent": "#9mgs5g"
+    },
+    {
+      "@id": "#44qeab",
+      "name": "Economy and ties",
+      "x": -211,
+      "y": 73,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xqbcg9",
+      "name": "United States is the largest economy",
+      "x": -349,
+      "y": 227,
+      "parent": "#44qeab"
+    },
+    {
+      "@id": "#zfrqxk",
+      "name": "USMCA trade pact links three countries",
+      "x": -413,
+      "y": 143,
+      "link": "https://en.wikipedia.org/wiki/United_States%E2%80%93Mexico%E2%80%93Canada_Agreement",
+      "parent": "#44qeab"
+    },
+    {
+      "@id": "#q3qtut",
+      "name": "Oil, farming, tech and tourism",
+      "x": -486,
+      "y": 53,
+      "parent": "#44qeab"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 7,
+      "end": 11
+    },
+    {
+      "start": 7,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    },
+    {
+      "start": 26,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

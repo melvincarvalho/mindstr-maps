@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Map",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#xvjjmr",
+      "name": "What a map shows",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mybdp9",
+      "name": "A scaled-down view from above",
+      "x": -445,
+      "y": -54,
+      "parent": "#xvjjmr"
+    },
+    {
+      "@id": "#5y3ja2",
+      "name": "Scale relates map distance to ground",
+      "x": -405,
+      "y": -156,
+      "parent": "#xvjjmr"
+    },
+    {
+      "@id": "#idc77f",
+      "name": "Legend explains symbols and colours",
+      "x": -330,
+      "y": -245,
+      "parent": "#xvjjmr"
+    },
+    {
+      "@id": "#7tdadd",
+      "name": "North arrow and grid for direction",
+      "x": -225,
+      "y": -312,
+      "parent": "#xvjjmr"
+    },
+    {
+      "@id": "#bxpstn",
+      "name": "Kinds of map",
+      "x": 51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hqawdd",
+      "name": "Road maps for driving",
+      "x": -104,
+      "y": -367,
+      "parent": "#bxpstn"
+    },
+    {
+      "@id": "#dbgxac",
+      "name": "Topographic maps show height with contours",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Topographic_map",
+      "parent": "#bxpstn"
+    },
+    {
+      "@id": "#a26vpc",
+      "name": "Political maps show borders",
+      "x": 164,
+      "y": -335,
+      "parent": "#bxpstn"
+    },
+    {
+      "@id": "#ebcaqj",
+      "name": "Thematic maps show data like population",
+      "x": 281,
+      "y": -281,
+      "parent": "#bxpstn"
+    },
+    {
+      "@id": "#xa7k9i",
+      "name": "Flattening the globe",
+      "x": 220,
+      "y": -54,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gtpug7",
+      "name": "A sphere can't flatten without distortion",
+      "x": 372,
+      "y": -203,
+      "parent": "#xa7k9i"
+    },
+    {
+      "@id": "#p5u25y",
+      "name": "Mercator keeps angles, enlarges poles",
+      "x": 430,
+      "y": -106,
+      "link": "https://en.wikipedia.org/wiki/Mercator_projection",
+      "parent": "#xa7k9i"
+    },
+    {
+      "@id": "#5e6n3m",
+      "name": "Equal-area maps keep true sizes",
+      "x": 450,
+      "y": 0,
+      "parent": "#xa7k9i"
+    },
+    {
+      "@id": "#ncutkw",
+      "name": "History",
+      "x": 169,
+      "y": 125,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pypbjm",
+      "name": "Babylonian clay world map, about 600 BC",
+      "x": 430,
+      "y": 106,
+      "parent": "#ncutkw"
+    },
+    {
+      "@id": "#9c64rq",
+      "name": "Ptolemy's Geography used coordinates",
+      "x": 372,
+      "y": 203,
+      "link": "https://en.wikipedia.org/wiki/Geography_%28Ptolemy%29",
+      "parent": "#ncutkw"
+    },
+    {
+      "@id": "#xkfmjw",
+      "name": "Age of exploration filled in coastlines",
+      "x": 281,
+      "y": 281,
+      "parent": "#ncutkw"
+    },
+    {
+      "@id": "#rxnfss",
+      "name": "National surveys mapped land precisely",
+      "x": 164,
+      "y": 335,
+      "parent": "#ncutkw"
+    },
+    {
+      "@id": "#m4nrtf",
+      "name": "Making maps today",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p7mz8i",
+      "name": "Satellite and aerial photos",
+      "x": 38,
+      "y": 391,
+      "parent": "#m4nrtf"
+    },
+    {
+      "@id": "#rffy76",
+      "name": "GIS layers data on locations",
+      "x": -124,
+      "y": 447,
+      "link": "https://en.wikipedia.org/wiki/Geographic_information_system",
+      "parent": "#m4nrtf"
+    },
+    {
+      "@id": "#rqptzy",
+      "name": "Volunteers build OpenStreetMap",
+      "x": -225,
+      "y": 312,
+      "parent": "#m4nrtf"
+    },
+    {
+      "@id": "#v33qzx",
+      "name": "Reading a map",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5vx7y6",
+      "name": "Find yourself and orient the map",
+      "x": -330,
+      "y": 245,
+      "parent": "#v33qzx"
+    },
+    {
+      "@id": "#qk3zxq",
+      "name": "Use grid references for locations",
+      "x": -405,
+      "y": 156,
+      "parent": "#v33qzx"
+    },
+    {
+      "@id": "#7gjzik",
+      "name": "Close contours mean steep ground",
+      "x": -465,
+      "y": 56,
+      "parent": "#v33qzx"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,30 @@
+category: Science
+aliases: planet mercury, closest planet to the sun, innermost planet
+- Mercury (planet)
+  - Basic facts
+    - Smallest of the eight planets
+    - Closest planet to the Sun
+    - Orbits about 58 million km out
+    - [Named after the Roman messenger god](https://en.wikipedia.org/wiki/Mercury_%28mythology%29)
+    - Seen only near sunrise or sunset
+  - Orbit and spin
+    - A year lasts 88 Earth days
+    - Spins three times every two orbits
+    - Sunrise to sunrise: 176 Earth days
+    - [Orbit's drift helped confirm general relativity](https://en.wikipedia.org/wiki/Tests_of_general_relativity)
+  - Surface
+    - Heavily cratered, like the Moon
+    - [Caloris Basin, about 1,550 km wide](https://en.wikipedia.org/wiki/Caloris_Planitia)
+    - Long cliffs from a shrinking planet
+  - Extreme temperatures
+    - About 430 °C by day
+    - About −180 °C at night
+    - Almost no atmosphere to hold heat
+    - Water ice in shadowed polar craters
+  - Interior
+    - Iron core about 85% of its radius
+    - Weak global magnetic field
+  - Exploration
+    - [Mariner 10 flew by in 1974–75](https://en.wikipedia.org/wiki/Mariner_10)
+    - [MESSENGER orbited from 2011 to 2015](https://en.wikipedia.org/wiki/MESSENGER)
+    - European–Japanese BepiColombo launched 2018

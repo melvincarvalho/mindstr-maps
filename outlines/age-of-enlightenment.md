@@ -1,0 +1,30 @@
+category: History
+aliases: the enlightenment, enlightenment era, age of reason, enlightenment philosophy
+- Age of Enlightenment
+  - What it was
+    - European intellectual movement, about 1680–1800
+    - Reason and evidence over tradition
+    - Built on the Scientific Revolution
+  - Key thinkers
+    - [John Locke: life, liberty and property](https://en.wikipedia.org/wiki/John_Locke)
+    - [Voltaire attacked intolerance and censorship](https://en.wikipedia.org/wiki/Voltaire)
+    - Rousseau wrote The Social Contract
+    - Montesquieu proposed separation of powers
+    - Kant: "Dare to know"
+  - Big ideas
+    - Natural rights and government by consent
+    - Religious tolerance and freedom of speech
+    - Progress through science and education
+    - [Adam Smith's free-market economics](https://en.wikipedia.org/wiki/The_Wealth_of_Nations)
+  - Spreading ideas
+    - [Diderot's Encyclopédie collected knowledge](https://en.wikipedia.org/wiki/Encyclop%C3%A9die)
+    - Salons, coffeehouses and learned societies
+    - Enlightened despots like Frederick the Great
+  - Revolutions it inspired
+    - American Declaration of Independence, 1776
+    - French Revolution and Rights of Man, 1789
+    - Abolitionist movement against slavery grew
+  - Limits and critiques
+    - Rights often denied women and enslaved people
+    - Some thinkers justified racial hierarchies
+    - Romanticism reacted against pure reason

@@ -1,0 +1,363 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Myanmar",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#nprpkg",
+      "name": "Land",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wv7ep8",
+      "name": "Irrawaddy River runs north to south",
+      "x": -446,
+      "y": -47,
+      "link": "https://en.wikipedia.org/wiki/Irrawaddy_River",
+      "parent": "#nprpkg"
+    },
+    {
+      "@id": "#x2tthc",
+      "name": "Naypyidaw capital since 2006",
+      "x": -416,
+      "y": -138,
+      "parent": "#nprpkg"
+    },
+    {
+      "@id": "#v8d6q4",
+      "name": "Yangon is the largest city",
+      "x": -357,
+      "y": -219,
+      "parent": "#nprpkg"
+    },
+    {
+      "@id": "#nezest",
+      "name": "Borders China, India, Thailand, Bangladesh, Laos",
+      "x": -274,
+      "y": -286,
+      "parent": "#nprpkg"
+    },
+    {
+      "@id": "#j72xff",
+      "name": "People and languages",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mkquxa",
+      "name": "About 55 million people",
+      "x": -180,
+      "y": -348,
+      "parent": "#j72xff"
+    },
+    {
+      "@id": "#t5fcxz",
+      "name": "Bamar majority, Burmese is official",
+      "x": -68,
+      "y": -405,
+      "parent": "#j72xff"
+    },
+    {
+      "@id": "#354dbz",
+      "name": "Over 130 recognised ethnic groups",
+      "x": 77,
+      "y": -453,
+      "parent": "#j72xff"
+    },
+    {
+      "@id": "#dnz9x9",
+      "name": "Mostly Theravada Buddhist",
+      "x": 172,
+      "y": -333,
+      "parent": "#j72xff"
+    },
+    {
+      "@id": "#mtvm4k",
+      "name": "History in brief",
+      "x": 212,
+      "y": -70,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4ftqsb",
+      "name": "Pagan kingdom, from the 11th century",
+      "x": 370,
+      "y": -390,
+      "link": "https://en.wikipedia.org/wiki/Pagan_Kingdom",
+      "parent": "#mtvm4k"
+    },
+    {
+      "@id": "#crnfcu",
+      "name": "British colony, fully conquered by 1885",
+      "x": 357,
+      "y": -219,
+      "parent": "#mtvm4k"
+    },
+    {
+      "@id": "#vdrcvt",
+      "name": "Independence in 1948",
+      "x": 416,
+      "y": -138,
+      "parent": "#mtvm4k"
+    },
+    {
+      "@id": "#vuppx6",
+      "name": "Military rule from 1962",
+      "x": 446,
+      "y": -47,
+      "parent": "#mtvm4k"
+    },
+    {
+      "@id": "#f99hta",
+      "name": "Renamed Myanmar in 1989",
+      "x": 446,
+      "y": 47,
+      "parent": "#mtvm4k"
+    },
+    {
+      "@id": "#ubsqiw",
+      "name": "Government",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4tkhwb",
+      "name": "Aung San Suu Kyi's party won 2015",
+      "x": 434,
+      "y": 144,
+      "link": "https://en.wikipedia.org/wiki/Aung_San_Suu_Kyi",
+      "parent": "#ubsqiw"
+    },
+    {
+      "@id": "#qy5hj7",
+      "name": "Military seized power in 2021 coup",
+      "x": 357,
+      "y": 219,
+      "parent": "#ubsqiw"
+    },
+    {
+      "@id": "#wceb5c",
+      "name": "Armed conflict across many regions",
+      "x": 274,
+      "y": 286,
+      "parent": "#ubsqiw"
+    },
+    {
+      "@id": "#f9actn",
+      "name": "Rohingya fled to Bangladesh from 2017",
+      "x": 180,
+      "y": 348,
+      "parent": "#ubsqiw"
+    },
+    {
+      "@id": "#wafqw4",
+      "name": "Economy",
+      "x": -30,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5yw53r",
+      "name": "Rice, teak and natural gas",
+      "x": 68,
+      "y": 405,
+      "parent": "#wafqw4"
+    },
+    {
+      "@id": "#e8seav",
+      "name": "Jade and ruby mining",
+      "x": -77,
+      "y": 453,
+      "parent": "#wafqw4"
+    },
+    {
+      "@id": "#tcwimm",
+      "name": "Among Asia's poorer economies",
+      "x": -172,
+      "y": 333,
+      "parent": "#wafqw4"
+    },
+    {
+      "@id": "#a46wcp",
+      "name": "Culture",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#itgbmf",
+      "name": "Shwedagon Pagoda in Yangon",
+      "x": -370,
+      "y": 390,
+      "link": "https://en.wikipedia.org/wiki/Shwedagon_Pagoda",
+      "parent": "#a46wcp"
+    },
+    {
+      "@id": "#3ggxvf",
+      "name": "Thanaka paste worn on faces",
+      "x": -357,
+      "y": 219,
+      "parent": "#a46wcp"
+    },
+    {
+      "@id": "#vd3kd3",
+      "name": "Longyi, the wrap-around garment",
+      "x": -434,
+      "y": 144,
+      "parent": "#a46wcp"
+    },
+    {
+      "@id": "#8y4rm4",
+      "name": "Thingyan water festival in April",
+      "x": -446,
+      "y": 47,
+      "parent": "#a46wcp"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 11,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    },
+    {
+      "start": 26,
+      "end": 29
+    },
+    {
+      "start": 26,
+      "end": 30
+    }
+  ],
+  "selectedNode": 0
+}

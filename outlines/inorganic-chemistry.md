@@ -1,0 +1,29 @@
+category: Science
+aliases: inorganic compounds, inorganic chem
+- Inorganic chemistry
+  - What it covers
+    - Compounds mostly not built on carbon
+    - Metals, minerals, salts and gases
+    - Some carbon too: CO₂, carbonates
+  - [Metals and transition metals](https://en.wikipedia.org/wiki/Transition_metal)
+    - Iron, copper and gold in daily use
+    - Transition metals form coloured compounds
+    - [Coordination complexes: ligands around metals](https://en.wikipedia.org/wiki/Coordination_complex)
+  - Salts, acids and bases
+    - Table salt is sodium chloride
+    - Sulfuric acid, a top industrial chemical
+    - Limestone, lime and soda for glass
+  - Main group elements
+    - Silicon in sand, glass and chips
+    - Nitrogen and phosphorus in fertilisers
+    - Noble gases rarely react
+  - Industry and materials
+    - [Haber process makes ammonia](https://en.wikipedia.org/wiki/Haber_process)
+    - Catalytic converters use platinum metals
+    - Cement, ceramics and glass
+    - Lithium-ion batteries power phones
+  - Life and medicine
+    - Iron in haemoglobin carries oxygen
+    - Calcium phosphate builds bones
+    - [Cisplatin treats some cancers](https://en.wikipedia.org/wiki/Cisplatin)
+    - Lithium salts treat bipolar disorder

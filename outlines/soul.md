@@ -1,0 +1,28 @@
+category: Philosophy and religion
+aliases: human soul, the soul, immortal soul
+- Soul
+  - The basic idea
+    - The non-physical essence of a person
+    - Often thought to outlast the body
+    - Linked to mind, life and identity
+  - Ancient ideas
+    - [Plato: an immortal soul in three parts](https://en.wikipedia.org/wiki/Plato)
+    - Aristotle: the soul is the body's form
+    - Egyptians spoke of ka and ba
+  - In religions
+    - Christians believe the soul lives on
+    - Muslims speak of the ruh, from God
+    - Jewish thought names nefesh and neshamah
+    - [Hindus believe the atman is eternal](https://en.wikipedia.org/wiki/%C4%80tman_%28Hinduism%29)
+    - [Buddhists teach anatta: no fixed self](https://en.wikipedia.org/wiki/Anatta)
+  - Philosophy of mind
+    - [Descartes: mind and body are distinct](https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism)
+    - Physicalism: mind arises from the brain
+    - [The mind–body problem remains debated](https://en.wikipedia.org/wiki/Mind%E2%80%93body_problem)
+  - Science's view
+    - Neuroscience links thoughts to brain activity
+    - No agreed scientific test for a soul
+    - Consciousness is not yet fully explained
+  - In everyday language
+    - "Soul" also means deep feeling
+    - Soul music, soul food, soulmates

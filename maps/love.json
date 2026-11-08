@@ -1,0 +1,329 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Love",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#gu5exy",
+      "name": "Kinds of love",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gb5rmu",
+      "name": "Romantic and passionate love",
+      "x": -445,
+      "y": -54,
+      "parent": "#gu5exy"
+    },
+    {
+      "@id": "#9se3ud",
+      "name": "Love between parents and children",
+      "x": -405,
+      "y": -156,
+      "parent": "#gu5exy"
+    },
+    {
+      "@id": "#9vxf8j",
+      "name": "Friendship and companionship",
+      "x": -330,
+      "y": -245,
+      "parent": "#gu5exy"
+    },
+    {
+      "@id": "#naphsb",
+      "name": "Love for community or humanity",
+      "x": -225,
+      "y": -312,
+      "parent": "#gu5exy"
+    },
+    {
+      "@id": "#zkym9c",
+      "name": "The science of love",
+      "x": 17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9ef2s3",
+      "name": "Oxytocin strengthens bonds and trust",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Oxytocin",
+      "parent": "#zkym9c"
+    },
+    {
+      "@id": "#hkvm76",
+      "name": "Dopamine drives early infatuation",
+      "x": 42,
+      "y": -423,
+      "parent": "#zkym9c"
+    },
+    {
+      "@id": "#39kvc9",
+      "name": "Passion usually fades into deeper attachment",
+      "x": 234,
+      "y": -485,
+      "parent": "#zkym9c"
+    },
+    {
+      "@id": "#2kxrfp",
+      "name": "Models of love",
+      "x": 190,
+      "y": -104,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6yuvba",
+      "name": "Sternberg: intimacy, passion, commitment",
+      "x": 281,
+      "y": -281,
+      "link": "https://en.wikipedia.org/wiki/Triangular_theory_of_love",
+      "parent": "#2kxrfp"
+    },
+    {
+      "@id": "#zem34x",
+      "name": "Attachment styles start in childhood",
+      "x": 372,
+      "y": -203,
+      "link": "https://en.wikipedia.org/wiki/Attachment_theory",
+      "parent": "#2kxrfp"
+    },
+    {
+      "@id": "#qzvqma",
+      "name": "Ancient Greeks: eros, philia, agape",
+      "x": 468,
+      "y": -116,
+      "parent": "#2kxrfp"
+    },
+    {
+      "@id": "#6s8hhf",
+      "name": "Why love matters",
+      "x": 220,
+      "y": 54,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vn2p6w",
+      "name": "Pair bonds help raise children",
+      "x": 450,
+      "y": 0,
+      "parent": "#6s8hhf"
+    },
+    {
+      "@id": "#4mp8m5",
+      "name": "Close bonds protect health and longevity",
+      "x": 430,
+      "y": 106,
+      "parent": "#6s8hhf"
+    },
+    {
+      "@id": "#zhvkpm",
+      "name": "Loneliness harms wellbeing",
+      "x": 372,
+      "y": 203,
+      "parent": "#6s8hhf"
+    },
+    {
+      "@id": "#fvjwce",
+      "name": "Keeping love healthy",
+      "x": 51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jmh8xb",
+      "name": "Listen and show interest daily",
+      "x": 281,
+      "y": 281,
+      "parent": "#fvjwce"
+    },
+    {
+      "@id": "#utnp69",
+      "name": "Express appreciation and affection",
+      "x": 164,
+      "y": 335,
+      "parent": "#fvjwce"
+    },
+    {
+      "@id": "#gw6i9x",
+      "name": "Handle conflict calmly and fairly",
+      "x": 38,
+      "y": 391,
+      "parent": "#fvjwce"
+    },
+    {
+      "@id": "#xe8ggu",
+      "name": "Keep trust through honesty",
+      "x": -124,
+      "y": 447,
+      "parent": "#fvjwce"
+    },
+    {
+      "@id": "#33syz2",
+      "name": "Loss and warning signs",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u26qks",
+      "name": "Heartbreak can feel like physical pain",
+      "x": -225,
+      "y": 312,
+      "parent": "#33syz2"
+    },
+    {
+      "@id": "#uqpmgt",
+      "name": "Grief is love's price for loss",
+      "x": -330,
+      "y": 245,
+      "parent": "#33syz2"
+    },
+    {
+      "@id": "#v5rbe5",
+      "name": "Control or abuse isn't love",
+      "x": -405,
+      "y": 156,
+      "parent": "#33syz2"
+    },
+    {
+      "@id": "#uiz7ya",
+      "name": "Seek support after abuse or heartbreak",
+      "x": -445,
+      "y": 54,
+      "parent": "#33syz2"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

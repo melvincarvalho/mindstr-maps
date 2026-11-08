@@ -1,0 +1,30 @@
+category: Philosophy and religion
+aliases: confucian philosophy, teachings of confucius, ruism
+- Confucianism
+  - Origins
+    - [Confucius taught in Lu, about 500 BCE](https://en.wikipedia.org/wiki/Confucius)
+    - [The Analects record his sayings](https://en.wikipedia.org/wiki/Analects)
+    - Mencius and Xunzi developed it
+  - Core virtues
+    - Ren: humaneness toward others
+    - Li: ritual and proper conduct
+    - Yi: doing what is right
+    - [Filial piety: honour parents and ancestors](https://en.wikipedia.org/wiki/Filial_piety)
+  - Five key relationships
+    - Ruler and subject
+    - Father and son
+    - Husband and wife
+    - Elder and younger brother
+    - Friend and friend
+  - Government
+    - Rule by moral example, not force
+    - Han dynasty made it state orthodoxy
+    - [Exams on the classics chose officials](https://en.wikipedia.org/wiki/Imperial_examination)
+  - Later history
+    - [Neo-Confucianism: Zhu Xi, 12th century](https://en.wikipedia.org/wiki/Neo-Confucianism)
+    - Spread to Korea, Japan and Vietnam
+    - Attacked in 1919 and Cultural Revolution
+  - Everyday legacy
+    - Respect for elders and teachers
+    - High value placed on education
+    - Don't impose on others what you dislike

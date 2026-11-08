@@ -1,0 +1,30 @@
+category: Science
+aliases: force in physics, what is a force, types of forces
+- Force
+  - A push or a pull
+    - Changes an object's speed or direction
+    - Can stretch, squash or twist things
+    - [Measured in newtons](https://en.wikipedia.org/wiki/Newton_%28unit%29)
+    - One newton: roughly a small apple's weight
+  - Force equals mass times acceleration
+    - Forces have size and direction
+    - [Balanced forces leave motion unchanged](https://en.wikipedia.org/wiki/Net_force)
+    - Heavier objects need more force
+  - Everyday forces
+    - Weight: gravity pulling you down
+    - [Friction resists sliding surfaces](https://en.wikipedia.org/wiki/Friction)
+    - Normal force: surfaces push back
+    - Tension in ropes and cables
+    - Air resistance slows falling objects
+  - [Four fundamental forces](https://en.wikipedia.org/wiki/Fundamental_interaction)
+    - Gravity: weakest, but reaches everywhere
+    - Electromagnetism binds atoms and molecules
+    - Strong force holds atomic nuclei together
+    - Weak force drives radioactive decay
+  - Turning and pressing
+    - [Torque: force times distance from pivot](https://en.wikipedia.org/wiki/Torque)
+    - Pressure is force per area
+    - Sharp knives focus force on tiny areas
+  - Every force has a partner
+    - Action and reaction: equal and opposite
+    - Rockets push gas back, move forward

@@ -1,0 +1,28 @@
+category: Geography
+aliases: amazon jungle, amazonia, the amazon rainforest
+- Amazon rainforest
+  - Where it is
+    - Covers about 5.5 million km²
+    - About 60% lies in Brazil
+    - Spans nine countries and territories
+  - [The Amazon River](https://en.wikipedia.org/wiki/Amazon_River)
+    - Largest river by water discharge
+    - Fed by over 1,000 tributaries
+    - Floods seasonally into várzea forests
+  - Biodiversity
+    - About 10% of known species
+    - Around 16,000 tree species
+    - Jaguars, pink river dolphins, macaws
+  - Climate role
+    - Stores huge amounts of carbon
+    - Trees recycle rain inland
+    - Risk of tipping into savanna
+  - People
+    - [Hundreds of Indigenous peoples live there](https://en.wikipedia.org/wiki/Indigenous_peoples_in_Brazil)
+    - Some groups remain uncontacted
+    - Manaus is the largest city
+  - Threats and protection
+    - [Deforestation mainly for cattle ranching](https://en.wikipedia.org/wiki/Deforestation_of_the_Amazon_rainforest)
+    - Soy farming, logging and mining
+    - Fires set to clear land
+    - Indigenous lands and parks slow clearing

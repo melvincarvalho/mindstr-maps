@@ -1,0 +1,31 @@
+category: Society
+aliases: nationalist ideology, what is nationalism, national self-determination
+- Nationalism
+  - Core beliefs
+    - The nation is the key political unit
+    - Each nation should govern itself
+    - Loyalty to the nation above other ties
+    - Shared culture, language and history
+  - Key thinkers
+    - Johann Gottfried Herder on national culture
+    - Giuseppe Mazzini linked nation and liberty
+    - [Benedict Anderson's "imagined communities"](https://en.wikipedia.org/wiki/Imagined_Communities)
+    - Ernest Gellner tied it to industrialisation
+  - History
+    - Rose with the French Revolution
+    - Unified Italy and Germany by 1871
+    - Broke up empires after World War I
+    - [Drove decolonisation after 1945](https://en.wikipedia.org/wiki/Decolonization)
+  - Main forms
+    - [Civic: membership through shared values](https://en.wikipedia.org/wiki/Civic_nationalism)
+    - [Ethnic: membership through ancestry](https://en.wikipedia.org/wiki/Ethnic_nationalism)
+    - Independence movements for stateless nations
+    - Economic nationalism protects home industry
+  - Real-world examples
+    - Indian independence movement
+    - Zionism and Palestinian nationalism
+    - Scottish and Catalan independence campaigns
+  - Main criticisms
+    - Can fuel war and ethnic cleansing
+    - Excludes minorities and migrants
+    - Defenders: builds solidarity and democracy

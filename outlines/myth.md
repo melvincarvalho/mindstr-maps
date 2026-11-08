@@ -1,0 +1,31 @@
+category: Philosophy and religion
+aliases: mythology, myths and legends, what is a myth
+- Myth
+  - What a myth is
+    - Sacred traditional story explaining the world
+    - Gods, heroes and the distant past
+    - To scholars, not simply "false belief"
+  - What myths explain
+    - [Creation: how the world began](https://en.wikipedia.org/wiki/Creation_myth)
+    - Flood stories in Mesopotamia, Bible, India
+    - Persephone's descent explains winter
+    - Why customs and rituals exist
+  - Great mythologies
+    - [Greek: Zeus and the Olympians](https://en.wikipedia.org/wiki/Greek_mythology)
+    - Norse: Odin, Thor and Ragnarök
+    - Egyptian: Osiris, Isis and Ra
+    - Hindu: Vishnu's avatars, the Mahabharata
+    - Mesopotamian: the Epic of Gilgamesh
+  - Recurring patterns
+    - [Hero's journey: call, trials, return](https://en.wikipedia.org/wiki/Hero%27s_journey)
+    - Tricksters like Loki, Coyote, Anansi
+    - Sky father and earth mother
+  - How scholars read myths
+    - Frazer linked myths to ritual, magic
+    - [Campbell: one hero, many faces](https://en.wikipedia.org/wiki/Joseph_Campbell)
+    - Lévi-Strauss: built on binary opposites
+    - Jung: shared archetypes in the psyche
+  - Myths today
+    - Panic, echo and narcissism come from myths
+    - Star Wars drew on Campbell's hero
+    - Nations tell founding myths

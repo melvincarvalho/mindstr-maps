@@ -1,0 +1,363 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Tanzania",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#yqxdn2",
+      "name": "Geography",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mqdeax",
+      "name": "Kilimanjaro, Africa's highest peak, 5,895 m",
+      "x": -506,
+      "y": -53,
+      "link": "https://en.wikipedia.org/wiki/Mount_Kilimanjaro",
+      "parent": "#yqxdn2"
+    },
+    {
+      "@id": "#sfk6p8",
+      "name": "On lakes Victoria, Tanganyika and Nyasa",
+      "x": -416,
+      "y": -138,
+      "parent": "#yqxdn2"
+    },
+    {
+      "@id": "#tw6s4m",
+      "name": "Indian Ocean coast and Zanzibar islands",
+      "x": -357,
+      "y": -219,
+      "parent": "#yqxdn2"
+    },
+    {
+      "@id": "#m6p35n",
+      "name": "People and languages",
+      "x": -90,
+      "y": -268,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fc7y5f",
+      "name": "About 67 million people",
+      "x": -310,
+      "y": -325,
+      "parent": "#m6p35n"
+    },
+    {
+      "@id": "#t57m9h",
+      "name": "Swahili national language; English also official",
+      "x": -196,
+      "y": -378,
+      "parent": "#m6p35n"
+    },
+    {
+      "@id": "#7kzq6f",
+      "name": "Over 120 ethnic groups, none dominant",
+      "x": -74,
+      "y": -437,
+      "parent": "#m6p35n"
+    },
+    {
+      "@id": "#4pkpaq",
+      "name": "Dodoma capital; Dar es Salaam largest city",
+      "x": 83,
+      "y": -485,
+      "parent": "#m6p35n"
+    },
+    {
+      "@id": "#uujz33",
+      "name": "History in brief",
+      "x": 199,
+      "y": -92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8h4z6v",
+      "name": "Olduvai Gorge's early human fossils",
+      "x": 284,
+      "y": -543,
+      "link": "https://en.wikipedia.org/wiki/Olduvai_Gorge",
+      "parent": "#uujz33"
+    },
+    {
+      "@id": "#f6anz5",
+      "name": "Kilwa and Zanzibar Swahili trading ports",
+      "x": 274,
+      "y": -286,
+      "parent": "#uujz33"
+    },
+    {
+      "@id": "#45fpje",
+      "name": "German, then British colonial rule",
+      "x": 357,
+      "y": -219,
+      "parent": "#uujz33"
+    },
+    {
+      "@id": "#r9rspa",
+      "name": "Tanganyika independent in 1961",
+      "x": 434,
+      "y": -144,
+      "parent": "#uujz33"
+    },
+    {
+      "@id": "#9v4pxq",
+      "name": "Union with Zanzibar formed Tanzania, 1964",
+      "x": 506,
+      "y": -53,
+      "parent": "#uujz33"
+    },
+    {
+      "@id": "#m76uyz",
+      "name": "Julius Nyerere's ujamaa socialism",
+      "x": 446,
+      "y": 47,
+      "link": "https://en.wikipedia.org/wiki/Julius_Nyerere",
+      "parent": "#uujz33"
+    },
+    {
+      "@id": "#qchm5h",
+      "name": "Government",
+      "x": 182,
+      "y": 112,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7nhgnq",
+      "name": "Presidential republic",
+      "x": 416,
+      "y": 138,
+      "parent": "#qchm5h"
+    },
+    {
+      "@id": "#nqgpkb",
+      "name": "Zanzibar keeps its own semi-autonomous government",
+      "x": 357,
+      "y": 219,
+      "parent": "#qchm5h"
+    },
+    {
+      "@id": "#tawzhb",
+      "name": "First woman president sworn in 2021",
+      "x": 274,
+      "y": 286,
+      "parent": "#qchm5h"
+    },
+    {
+      "@id": "#j23vs3",
+      "name": "Economy",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#epr8e4",
+      "name": "Cashews, coffee, tea and Zanzibar cloves",
+      "x": 180,
+      "y": 348,
+      "parent": "#j23vs3"
+    },
+    {
+      "@id": "#axj8xw",
+      "name": "Gold is the top export",
+      "x": 68,
+      "y": 405,
+      "parent": "#j23vs3"
+    },
+    {
+      "@id": "#4f62en",
+      "name": "Safari and beach tourism",
+      "x": -77,
+      "y": 453,
+      "parent": "#j23vs3"
+    },
+    {
+      "@id": "#ni6s29",
+      "name": "Offshore natural gas in the south",
+      "x": -268,
+      "y": 513,
+      "parent": "#j23vs3"
+    },
+    {
+      "@id": "#v6td7y",
+      "name": "Culture and known for",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nej2ak",
+      "name": "Serengeti and the wildebeest migration",
+      "x": -274,
+      "y": 286,
+      "link": "https://en.wikipedia.org/wiki/Serengeti",
+      "parent": "#v6td7y"
+    },
+    {
+      "@id": "#iv7sif",
+      "name": "Ngorongoro Crater's dense wildlife",
+      "x": -357,
+      "y": 219,
+      "parent": "#v6td7y"
+    },
+    {
+      "@id": "#r6cqm5",
+      "name": "Stone Town, Zanzibar's historic heart",
+      "x": -434,
+      "y": 144,
+      "parent": "#v6td7y"
+    },
+    {
+      "@id": "#x7vhc3",
+      "name": "Tanzanite, a gem found only here",
+      "x": -506,
+      "y": 53,
+      "parent": "#v6td7y"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 10,
+      "end": 15
+    },
+    {
+      "start": 10,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    },
+    {
+      "start": 26,
+      "end": 29
+    },
+    {
+      "start": 26,
+      "end": 30
+    }
+  ],
+  "selectedNode": 0
+}

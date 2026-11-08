@@ -1,0 +1,29 @@
+category: Geography
+aliases: human settlements, types of settlement, settlement geography
+- Human settlement
+  - What it is
+    - Any place where people live
+    - Ranges from hamlet to megacity
+    - Permanent, seasonal or temporary
+  - Why sites were chosen
+    - Fresh water from rivers or wells
+    - Defensible high ground or river bends
+    - Fertile soil for farming
+    - Crossing points, harbours and trade routes
+  - How settlement began
+    - Nomadic hunter-gatherers for most of history
+    - [Farming began about 10,000 BCE](https://en.wikipedia.org/wiki/Neolithic_Revolution)
+    - [Jericho and Çatalhöyük among earliest](https://en.wikipedia.org/wiki/%C3%87atalh%C3%B6y%C3%BCk)
+    - First cities in Mesopotamia
+  - Settlement hierarchy
+    - Hamlet, village, town, city
+    - Larger places offer more services
+    - [Central place theory explains spacing](https://en.wikipedia.org/wiki/Central_place_theory)
+  - Shapes and patterns
+    - Nucleated: clustered around a centre
+    - Linear: strung along a road or river
+    - Dispersed: scattered farms
+  - Today
+    - Over half of humanity is urban
+    - [About a billion live in slums](https://en.wikipedia.org/wiki/Slum)
+    - Rural settlements still house billions

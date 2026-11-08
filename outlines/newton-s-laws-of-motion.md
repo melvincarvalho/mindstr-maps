@@ -1,0 +1,26 @@
+category: Science
+aliases: newtons laws, newton's three laws, laws of motion, newton's first law
+- Newton's laws of motion
+  - [Published in the Principia, 1687](https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica)
+    - Built on Galileo's work on inertia
+    - Explained falling apples and orbiting moons
+  - [First law: inertia](https://en.wikipedia.org/wiki/Inertia)
+    - Objects stay at rest or keep moving
+    - Unless a net force acts on them
+    - Passengers lurch forward when a bus brakes
+    - Spacecraft coast without firing engines
+  - Second law: force equals mass times acceleration
+    - Same push moves light things faster
+    - Doubling force doubles the acceleration
+    - Unit of force is named the newton
+    - [Force is momentum's rate of change](https://en.wikipedia.org/wiki/Momentum)
+  - [Third law: action and reaction](https://en.wikipedia.org/wiki/Reaction_%28physics%29)
+    - Every force has an equal, opposite partner
+    - Partner forces act on different objects
+    - Rockets push exhaust back, shoot forward
+    - Swimmers push water backward to advance
+  - Where they fail
+    - [Very fast: Einstein's special relativity](https://en.wikipedia.org/wiki/Special_relativity)
+    - Very small: quantum mechanics
+    - Need a non-accelerating reference frame
+    - Still accurate enough for Moon landings

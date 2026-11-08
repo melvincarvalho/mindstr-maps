@@ -1,0 +1,33 @@
+category: Society
+aliases: latin language, learn latin, classical latin
+- Latin
+  - What it is
+    - Language of ancient Rome
+    - Italic branch of Indo-European
+    - Official language of Vatican City
+    - No native speakers today
+  - History
+    - Old Latin inscriptions from about 600 BCE
+    - [Classical Latin of Cicero and Virgil](https://en.wikipedia.org/wiki/Classical_Latin)
+    - Spread across the Roman Empire
+    - Medieval Europe's language of learning
+    - [Church Latin in Catholic liturgy](https://en.wikipedia.org/wiki/Ecclesiastical_Latin)
+  - Its descendants
+    - [Vulgar Latin, the everyday spoken form](https://en.wikipedia.org/wiki/Vulgar_Latin)
+    - [Became the Romance languages](https://en.wikipedia.org/wiki/Romance_languages)
+    - Italian, Spanish, French, Portuguese, Romanian
+    - Over half of English words via Latin
+  - Sounds and writing
+    - Roman alphabet of about 23 letters
+    - Vowel length changes meaning
+    - Classical c and g always hard
+  - Grammar highlights
+    - Six main cases mark a noun's role
+    - Five noun declensions
+    - Four verb conjugations
+    - Word order free, verb often last
+    - No articles: "a" or "the"
+  - Still in use today
+    - Scientific names like Homo sapiens
+    - Legal and medical terms
+    - Mottoes, abbreviations like e.g., etc.

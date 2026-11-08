@@ -1,0 +1,307 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Adam Smith",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#xhgahm",
+      "name": "Life, 1723–1790",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#x6r8hg",
+      "name": "Born in Kirkcaldy, Scotland",
+      "x": -444,
+      "y": -56,
+      "parent": "#xhgahm"
+    },
+    {
+      "@id": "#mi6ufp",
+      "name": "Studied at Glasgow and Oxford",
+      "x": -419,
+      "y": -170,
+      "parent": "#xhgahm"
+    },
+    {
+      "@id": "#xw64vf",
+      "name": "Professor of moral philosophy at Glasgow",
+      "x": -318,
+      "y": -255,
+      "parent": "#xhgahm"
+    },
+    {
+      "@id": "#dj9e2y",
+      "name": "Toured France, met Quesnay and Voltaire",
+      "x": -204,
+      "y": -321,
+      "parent": "#xhgahm"
+    },
+    {
+      "@id": "#vzs3xk",
+      "name": "Later Commissioner of Customs in Edinburgh",
+      "x": -73,
+      "y": -372,
+      "parent": "#xhgahm"
+    },
+    {
+      "@id": "#9vgj2a",
+      "name": "The Theory of Moral Sentiments, 1759",
+      "x": 77,
+      "y": -190,
+      "link": "https://en.wikipedia.org/wiki/The_Theory_of_Moral_Sentiments",
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vgf675",
+      "name": "Morality grows from sympathy with others",
+      "x": 82,
+      "y": -420,
+      "parent": "#9vgj2a"
+    },
+    {
+      "@id": "#rhecap",
+      "name": "Imagined impartial spectator guides conscience",
+      "x": 303,
+      "y": -475,
+      "parent": "#9vgj2a"
+    },
+    {
+      "@id": "#2uansd",
+      "name": "The Wealth of Nations, 1776",
+      "x": 219,
+      "y": -57,
+      "link": "https://en.wikipedia.org/wiki/The_Wealth_of_Nations",
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r5p8wt",
+      "name": "Division of labour boosts productivity",
+      "x": 318,
+      "y": -255,
+      "link": "https://en.wikipedia.org/wiki/Division_of_labour",
+      "parent": "#2uansd"
+    },
+    {
+      "@id": "#qg5mkz",
+      "name": "Pin factory as famous example",
+      "x": 437,
+      "y": -177,
+      "parent": "#2uansd"
+    },
+    {
+      "@id": "#u3zeb5",
+      "name": "Wealth is production, not gold",
+      "x": 544,
+      "y": -66,
+      "parent": "#2uansd"
+    },
+    {
+      "@id": "#f9by2x",
+      "name": "Markets set prices through competition",
+      "x": 444,
+      "y": 56,
+      "parent": "#2uansd"
+    },
+    {
+      "@id": "#7pb3nb",
+      "name": "Key ideas",
+      "x": 104,
+      "y": 164,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5763ig",
+      "name": "Self-interest guided by an invisible hand",
+      "x": 401,
+      "y": 163,
+      "link": "https://en.wikipedia.org/wiki/Invisible_hand",
+      "parent": "#7pb3nb"
+    },
+    {
+      "@id": "#qi6g5g",
+      "name": "Criticised mercantilism and monopolies",
+      "x": 318,
+      "y": 255,
+      "parent": "#7pb3nb"
+    },
+    {
+      "@id": "#mqsh89",
+      "name": "Favoured free trade between nations",
+      "x": 204,
+      "y": 321,
+      "parent": "#7pb3nb"
+    },
+    {
+      "@id": "#85mu4i",
+      "name": "State provides defence, justice, public works",
+      "x": 73,
+      "y": 372,
+      "parent": "#7pb3nb"
+    },
+    {
+      "@id": "#8c5fc6",
+      "name": "Warned merchants conspire against the public",
+      "x": -82,
+      "y": 420,
+      "parent": "#7pb3nb"
+    },
+    {
+      "@id": "#bcef8i",
+      "name": "Legacy",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9qbt7e",
+      "name": "Called the father of modern economics",
+      "x": -204,
+      "y": 321,
+      "parent": "#bcef8i"
+    },
+    {
+      "@id": "#k3xkfx",
+      "name": "Key figure of Scottish Enlightenment",
+      "x": -318,
+      "y": 255,
+      "parent": "#bcef8i"
+    },
+    {
+      "@id": "#a7jr54",
+      "name": "Influenced Ricardo, Malthus and Marx",
+      "x": -401,
+      "y": 163,
+      "parent": "#bcef8i"
+    },
+    {
+      "@id": "#8isjdd",
+      "name": "Face on Bank of England £20 note",
+      "x": -444,
+      "y": 56,
+      "parent": "#bcef8i"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 15,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

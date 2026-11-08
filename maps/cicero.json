@@ -1,0 +1,351 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Cicero",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#wfnxz6",
+      "name": "Who he was",
+      "x": -211,
+      "y": -73,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2rqw5s",
+      "name": "Marcus Tullius Cicero, 106–43 BC",
+      "x": -466,
+      "y": -51,
+      "parent": "#wfnxz6"
+    },
+    {
+      "@id": "#yvb6d6",
+      "name": "Born in Arpinum, outside Rome's elite",
+      "x": -413,
+      "y": -143,
+      "parent": "#wfnxz6"
+    },
+    {
+      "@id": "#zhscaq",
+      "name": "Lawyer, politician, orator and philosopher",
+      "x": -349,
+      "y": -227,
+      "parent": "#wfnxz6"
+    },
+    {
+      "@id": "#sbvcv7",
+      "name": "Political career",
+      "x": -16,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mkdnu3",
+      "name": "\"New man\" who reached the consulship",
+      "x": -260,
+      "y": -294,
+      "parent": "#sbvcv7"
+    },
+    {
+      "@id": "#itxk9g",
+      "name": "Consul in 63 BC",
+      "x": -158,
+      "y": -354,
+      "parent": "#sbvcv7"
+    },
+    {
+      "@id": "#b7af5q",
+      "name": "Crushed the Catilinarian conspiracy",
+      "x": -34,
+      "y": -407,
+      "link": "https://en.wikipedia.org/wiki/Catilinarian_conspiracy",
+      "parent": "#sbvcv7"
+    },
+    {
+      "@id": "#yxkhkn",
+      "name": "Exiled 58–57 BC, then recalled",
+      "x": 120,
+      "y": -464,
+      "parent": "#sbvcv7"
+    },
+    {
+      "@id": "#qs4fg5",
+      "name": "Defended the Republic against strongmen",
+      "x": 207,
+      "y": -320,
+      "parent": "#sbvcv7"
+    },
+    {
+      "@id": "#5trps6",
+      "name": "Downfall",
+      "x": 211,
+      "y": -73,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kzwgr2",
+      "name": "Stayed out of Caesar's assassination plot",
+      "x": 307,
+      "y": -263,
+      "parent": "#5trps6"
+    },
+    {
+      "@id": "#xhrz98",
+      "name": "Attacked Mark Antony in the Philippics",
+      "x": 384,
+      "y": -187,
+      "link": "https://en.wikipedia.org/wiki/Philippicae",
+      "parent": "#5trps6"
+    },
+    {
+      "@id": "#esgqr9",
+      "name": "Proscribed by the Second Triumvirate",
+      "x": 471,
+      "y": -105,
+      "parent": "#5trps6"
+    },
+    {
+      "@id": "#vsuuhi",
+      "name": "Killed 43 BC; head and hands displayed",
+      "x": 450,
+      "y": 0,
+      "parent": "#5trps6"
+    },
+    {
+      "@id": "#kkw94w",
+      "name": "Writings",
+      "x": 178,
+      "y": 116,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#exzzgq",
+      "name": "Speeches, e.g. Against Verres, Against Catiline",
+      "x": 490,
+      "y": 109,
+      "parent": "#kkw94w"
+    },
+    {
+      "@id": "#ttj9ij",
+      "name": "On Duties, a guide to ethics",
+      "x": 384,
+      "y": 187,
+      "link": "https://en.wikipedia.org/wiki/De_Officiis",
+      "parent": "#kkw94w"
+    },
+    {
+      "@id": "#5m7tv4",
+      "name": "On the Republic and On Laws",
+      "x": 307,
+      "y": 263,
+      "parent": "#kkw94w"
+    },
+    {
+      "@id": "#4x5hqp",
+      "name": "Over 800 letters survive",
+      "x": 207,
+      "y": 320,
+      "parent": "#kkw94w"
+    },
+    {
+      "@id": "#aqmrte",
+      "name": "Ideas",
+      "x": -47,
+      "y": 180,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#q8x9ru",
+      "name": "Natural law binding on all people",
+      "x": 96,
+      "y": 368,
+      "parent": "#aqmrte"
+    },
+    {
+      "@id": "#u2ahww",
+      "name": "Mixed constitution as best government",
+      "x": -35,
+      "y": 423,
+      "parent": "#aqmrte"
+    },
+    {
+      "@id": "#5j7z9q",
+      "name": "Rhetoric joined with philosophy",
+      "x": -214,
+      "y": 474,
+      "parent": "#aqmrte"
+    },
+    {
+      "@id": "#4nriqw",
+      "name": "Brought Greek philosophy into Latin",
+      "x": -260,
+      "y": 294,
+      "parent": "#aqmrte"
+    },
+    {
+      "@id": "#tdhux5",
+      "name": "Legacy",
+      "x": -211,
+      "y": 73,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vtt4ez",
+      "name": "Model for classical Latin prose",
+      "x": -349,
+      "y": 227,
+      "parent": "#tdhux5"
+    },
+    {
+      "@id": "#7j4v5c",
+      "name": "Petrarch rediscovered his letters, 1345",
+      "x": -413,
+      "y": 143,
+      "parent": "#tdhux5"
+    },
+    {
+      "@id": "#k77izr",
+      "name": "Influenced Locke and America's founders",
+      "x": -486,
+      "y": 53,
+      "parent": "#tdhux5"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    },
+    {
+      "start": 26,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

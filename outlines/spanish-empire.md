@@ -1,0 +1,31 @@
+category: History
+aliases: spanish colonial empire, hispanic monarchy
+- Spanish Empire
+  - Beginnings
+    - Union of Castile and Aragon, 1469
+    - Reconquista ended with Granada, 1492
+    - Columbus's voyage funded the same year
+  - Conquest of the Americas
+    - Cortés defeated the Aztecs, 1521
+    - Pizarro defeated the Inca from 1532
+    - Viceroyalties of New Spain and Peru
+    - Indigenous populations collapsed from disease and violence
+  - Global reach
+    - [Habsburg Charles V inherited vast lands](https://en.wikipedia.org/wiki/Charles_V%2C_Holy_Roman_Emperor)
+    - Philippines colonised; named for Philip II
+    - [Manila galleons linked Mexico and Asia](https://en.wikipedia.org/wiki/Manila_galleon)
+    - "Empire on which the sun never sets"
+  - Wealth and its costs
+    - [Potosí and Mexican silver mines](https://en.wikipedia.org/wiki/Spanish_treasure_fleet)
+    - Encomienda and mita forced Indigenous labour
+    - Enslaved Africans brought to plantations and mines
+    - Silver inflows fed price inflation in Europe
+  - Power and conflict
+    - Spanish Armada failed against England, 1588
+    - Dutch Revolt led to independent Netherlands
+    - Defended Catholicism; Spanish Inquisition
+    - Spanish Golden Age: Cervantes, Velázquez
+  - Decline and legacy
+    - Latin American independence wars, 1808–1826
+    - Lost Cuba and Philippines in 1898
+    - Spanish now spoken by about 500 million

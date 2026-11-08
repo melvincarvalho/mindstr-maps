@@ -1,0 +1,33 @@
+category: Technology
+aliases: lasers, how lasers work, laser beam, laser light
+- Laser
+  - How it works
+    - Energy pumps atoms into excited states
+    - [Stimulated emission copies a passing photon](https://en.wikipedia.org/wiki/Stimulated_emission)
+    - Mirrors bounce light back and forth
+    - A partly silvered mirror lets beam out
+  - What makes laser light special
+    - One colour, a single wavelength
+    - Waves in step: coherent light
+    - Narrow beam that barely spreads
+    - Focuses to a tiny, intense spot
+  - History
+    - Einstein predicted stimulated emission, 1917
+    - Microwave maser came first, 1954
+    - [Maiman's ruby laser, 1960](https://en.wikipedia.org/wiki/Theodore_Maiman)
+    - Called "a solution looking for a problem"
+  - Types
+    - Gas lasers: helium-neon, carbon dioxide
+    - Solid-state: ruby, Nd:YAG
+    - [Laser diodes: tiny and cheap](https://en.wikipedia.org/wiki/Laser_diode)
+    - Fibre lasers for cutting metal
+  - Everyday uses
+    - Barcode scanners at checkouts
+    - Fibre-optic internet carries laser pulses
+    - CD, DVD and Blu-ray players
+    - Laser printers and pointers
+  - Medicine, industry and science
+    - [LASIK eye surgery reshapes the cornea](https://en.wikipedia.org/wiki/LASIK)
+    - Cutting, welding and engraving
+    - Lidar measures distance with pulses
+    - Never look into a laser beam

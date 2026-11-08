@@ -1,0 +1,30 @@
+category: Society
+aliases: colonial rule, colonial empires, history of colonialism, settler colonialism
+- Colonialism
+  - What it is
+    - One people ruling another's territory
+    - Settler colonies replace or displace locals
+    - Extractive colonies exploit labour and resources
+  - Main waves
+    - Spain and Portugal in the Americas
+    - Britain, France and Netherlands in Asia
+    - [Scramble for Africa after 1880s](https://en.wikipedia.org/wiki/Scramble_for_Africa)
+    - Japan in Korea and Taiwan
+  - How it worked
+    - Charter companies like the East India Company
+    - Plantations, mines and cash crops
+    - Rule through local elites and chiefs
+    - Missionaries, schools and colonial languages
+  - Human costs
+    - [Atlantic slave trade took 12+ million](https://en.wikipedia.org/wiki/Atlantic_slave_trade)
+    - Epidemics devastated Indigenous Americans
+    - Famines, forced labour and massacres
+    - [Congo Free State atrocities under Leopold](https://en.wikipedia.org/wiki/Congo_Free_State)
+  - Debates
+    - Defenders cited trade, railways and law
+    - Critics stress exploitation and racism
+    - Arbitrary borders still shape conflicts
+  - End and legacy
+    - [Decolonisation mostly 1945 to 1975](https://en.wikipedia.org/wiki/Decolonization)
+    - Postcolonial theory examines lasting effects
+    - Neocolonialism: economic influence without rule

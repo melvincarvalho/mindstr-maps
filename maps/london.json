@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "London",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#b99cen",
+      "name": "Setting",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dwcs23",
+      "name": "Capital of England and the UK",
+      "x": -445,
+      "y": -54,
+      "parent": "#b99cen"
+    },
+    {
+      "@id": "#2nwjqg",
+      "name": "Built on the River Thames",
+      "x": -405,
+      "y": -156,
+      "parent": "#b99cen"
+    },
+    {
+      "@id": "#bhyec8",
+      "name": "32 boroughs plus the City",
+      "x": -330,
+      "y": -245,
+      "parent": "#b99cen"
+    },
+    {
+      "@id": "#in7y56",
+      "name": "History",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5vz9nb",
+      "name": "Romans founded Londinium about AD 47",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Londinium",
+      "parent": "#in7y56"
+    },
+    {
+      "@id": "#kdzcuv",
+      "name": "Great Fire of London, 1666",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Great_Fire_of_London",
+      "parent": "#in7y56"
+    },
+    {
+      "@id": "#dyqpug",
+      "name": "Heart of the British Empire",
+      "x": 42,
+      "y": -423,
+      "parent": "#in7y56"
+    },
+    {
+      "@id": "#ps5fah",
+      "name": "Survived the Blitz in WWII",
+      "x": 234,
+      "y": -485,
+      "parent": "#in7y56"
+    },
+    {
+      "@id": "#u4jb39",
+      "name": "People",
+      "x": 190,
+      "y": -104,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ugstnn",
+      "name": "About 9 million residents",
+      "x": 281,
+      "y": -281,
+      "parent": "#u4jb39"
+    },
+    {
+      "@id": "#nerer3",
+      "name": "Over 300 languages spoken",
+      "x": 372,
+      "y": -203,
+      "parent": "#u4jb39"
+    },
+    {
+      "@id": "#3z5cwb",
+      "name": "Mayor and Greater London Authority",
+      "x": 430,
+      "y": -106,
+      "parent": "#u4jb39"
+    },
+    {
+      "@id": "#dkrawz",
+      "name": "Economy",
+      "x": 207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mdicxu",
+      "name": "Global finance hub: City and Canary Wharf",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/City_of_London",
+      "parent": "#dkrawz"
+    },
+    {
+      "@id": "#en2djx",
+      "name": "Law, insurance, media and tech",
+      "x": 430,
+      "y": 106,
+      "parent": "#dkrawz"
+    },
+    {
+      "@id": "#mvvqwj",
+      "name": "Heathrow among world's busiest airports",
+      "x": 372,
+      "y": 203,
+      "parent": "#dkrawz"
+    },
+    {
+      "@id": "#xvxabx",
+      "name": "Very high housing costs",
+      "x": 281,
+      "y": 281,
+      "parent": "#dkrawz"
+    },
+    {
+      "@id": "#xenqeg",
+      "name": "Landmarks",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zibbyp",
+      "name": "Tower of London and Tower Bridge",
+      "x": 164,
+      "y": 335,
+      "parent": "#xenqeg"
+    },
+    {
+      "@id": "#yhbwkm",
+      "name": "Big Ben and Houses of Parliament",
+      "x": 38,
+      "y": 391,
+      "parent": "#xenqeg"
+    },
+    {
+      "@id": "#nu85ec",
+      "name": "Buckingham Palace and royal parks",
+      "x": -124,
+      "y": 447,
+      "parent": "#xenqeg"
+    },
+    {
+      "@id": "#8i4tx7",
+      "name": "St Paul's Cathedral by Christopher Wren",
+      "x": -225,
+      "y": 312,
+      "parent": "#xenqeg"
+    },
+    {
+      "@id": "#p73tyv",
+      "name": "Culture",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6i45q7",
+      "name": "West End theatre",
+      "x": -330,
+      "y": 245,
+      "link": "https://en.wikipedia.org/wiki/West_End_theatre",
+      "parent": "#p73tyv"
+    },
+    {
+      "@id": "#3hyk57",
+      "name": "Free British Museum and National Gallery",
+      "x": -405,
+      "y": 156,
+      "parent": "#p73tyv"
+    },
+    {
+      "@id": "#9qep9e",
+      "name": "Underground, oldest metro, opened 1863",
+      "x": -465,
+      "y": 56,
+      "parent": "#p73tyv"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

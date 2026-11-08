@@ -1,0 +1,30 @@
+category: Society
+aliases: racial discrimination, racial prejudice, race discrimination
+- Racism
+  - What it is
+    - Prejudice or discrimination based on race
+    - Belief some races are superior
+    - Race is mainly a social category
+  - Forms
+    - Individual prejudice and abuse
+    - [Institutional racism in systems and policies](https://en.wikipedia.org/wiki/Institutional_racism)
+    - Racial profiling by police
+    - Unequal access to jobs and housing
+  - History
+    - [Atlantic slave trade, 16th–19th centuries](https://en.wikipedia.org/wiki/Atlantic_slave_trade)
+    - Colonial rule justified by racial hierarchy
+    - "Scientific racism" now discredited
+    - The Holocaust murdered six million Jews
+    - [Apartheid in South Africa, 1948–1994](https://en.wikipedia.org/wiki/Apartheid)
+  - Resistance and change
+    - Abolition movements ended legal slavery
+    - [US civil rights movement, 1950s–60s](https://en.wikipedia.org/wiki/Civil_rights_movement)
+    - UN anti-racism convention, 1965
+  - Evidence today
+    - CVs with ethnic names get fewer callbacks
+    - Gaps in wealth, health and incarceration
+    - Hate crimes recorded by police
+  - Tackling it
+    - Equality laws ban race discrimination
+    - Education about history and bias
+    - Monitoring outcomes in workplaces

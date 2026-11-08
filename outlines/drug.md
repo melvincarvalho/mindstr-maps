@@ -1,0 +1,31 @@
+category: Health
+aliases: drugs, recreational drugs, psychoactive drugs
+- Drug
+  - What a drug is
+    - Substance that changes how the body works
+    - Medicines treat or prevent disease
+    - Recreational drugs taken for their effects
+  - [How drugs work](https://en.wikipedia.org/wiki/Pharmacology)
+    - Bind to receptors or enzymes
+    - Dose determines effect and harm
+    - Liver breaks down, kidneys excrete
+  - [Psychoactive drug classes](https://en.wikipedia.org/wiki/Psychoactive_drug)
+    - Depressants: alcohol, opioids, benzodiazepines
+    - Stimulants: caffeine, nicotine, cocaine
+    - Hallucinogens: LSD, psilocybin
+    - Cannabis has mixed effects
+  - Risks and harms
+    - [Tolerance and dependence](https://en.wikipedia.org/wiki/Substance_dependence)
+    - Overdose risk, especially mixing depressants
+    - Street drugs vary in strength, purity
+    - Tobacco and alcohol cause most drug deaths
+  - Law and regulation
+    - Medicines tested and licensed before sale
+    - [UN treaties control many drugs](https://en.wikipedia.org/wiki/Single_Convention_on_Narcotic_Drugs)
+    - Laws vary widely by country
+    - Portugal decriminalised personal possession, 2001
+  - Help and harm reduction
+    - Naloxone reverses opioid overdose
+    - Treatment helps; many people recover
+    - [Harm reduction: needle exchange, drug checking](https://en.wikipedia.org/wiki/Harm_reduction)
+    - Doctors, helplines and support services

@@ -1,0 +1,31 @@
+category: History
+aliases: andean civilisations, ancient andes, civilizations of the andes, ancient peru
+- Andean civilizations
+  - Setting
+    - Andes mountains and Pacific coastal desert
+    - Mostly modern Peru, Bolivia and Ecuador
+    - Llamas and alpacas carried loads
+  - Early cultures
+    - [Caral flourished about 2600 BC](https://en.wikipedia.org/wiki/Caral)
+    - Chavín culture spread, about 900 BC
+    - Paracas textiles on the south coast
+  - Regional states
+    - Moche built adobe pyramids, fine pottery
+    - [Nazca Lines drawn in the desert](https://en.wikipedia.org/wiki/Nazca_Lines)
+    - [Tiwanaku near Lake Titicaca](https://en.wikipedia.org/wiki/Tiwanaku)
+    - Wari empire in the highlands
+    - Chimú kingdom, capital Chan Chan
+  - Inca Empire
+    - [Largest empire in pre-Columbian America](https://en.wikipedia.org/wiki/Inca_Empire)
+    - Capital at Cusco
+    - Pachacuti expanded it from 1438
+    - Machu Picchu built as royal estate
+  - Ways of life
+    - Terraces and irrigation for farming
+    - Potatoes, maize and freeze-dried chuño
+    - [Quipu knotted cords kept records](https://en.wikipedia.org/wiki/Quipu)
+    - Inca roads ran thousands of kilometres
+  - Spanish conquest
+    - Pizarro captured Atahualpa, 1532
+    - Civil war and smallpox weakened the Inca
+    - Last stronghold, Vilcabamba, fell 1572

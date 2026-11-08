@@ -1,0 +1,32 @@
+category: Arts and culture
+aliases: building design, architectural styles
+- Architecture
+  - What architecture is
+    - Art and science of designing buildings
+    - [Vitruvius: firmness, commodity, delight](https://en.wikipedia.org/wiki/Vitruvius)
+    - Shapes how people live and move
+  - Ancient foundations
+    - Egyptian pyramids, about 2600 BC
+    - Greek temples and the classical orders
+    - Roman arches, domes and concrete
+  - Medieval to Renaissance
+    - [Gothic cathedrals: pointed arches, flying buttresses](https://en.wikipedia.org/wiki/Gothic_architecture)
+    - Brunelleschi's dome in Florence
+    - Baroque churches and palaces
+  - Traditions worldwide
+    - Chinese timber halls and courtyards
+    - Islamic domes, arches and minarets
+    - Taj Mahal, completed about 1653
+  - Modern and contemporary
+    - Steel frames made skyscrapers possible
+    - [Modernism stripped away ornament](https://en.wikipedia.org/wiki/Modern_architecture)
+    - Frank Lloyd Wright's organic architecture
+    - Zaha Hadid and Frank Gehry's curves
+  - How a building gets made
+    - Brief from the client
+    - Sketches, plans and models
+    - Engineers check structure and services
+    - Planning permission, then construction
+  - Today's challenges
+    - [Green building to cut carbon](https://en.wikipedia.org/wiki/Green_building)
+    - Reusing old buildings

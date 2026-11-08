@@ -1,0 +1,340 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Family",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#rt6gkk",
+      "name": "What a family is",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cfi2xs",
+      "name": "People linked by birth, partnership or choice",
+      "x": -545,
+      "y": -61,
+      "parent": "#rt6gkk"
+    },
+    {
+      "@id": "#ujrdbq",
+      "name": "Care, support and shared identity",
+      "x": -409,
+      "y": -150,
+      "parent": "#rt6gkk"
+    },
+    {
+      "@id": "#hn96jp",
+      "name": "The basic unit of most societies",
+      "x": -340,
+      "y": -236,
+      "parent": "#rt6gkk"
+    },
+    {
+      "@id": "#2spmzh",
+      "name": "Many family forms",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wwbmcx",
+      "name": "Nuclear: parents and their children",
+      "x": -243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Nuclear_family",
+      "parent": "#2spmzh"
+    },
+    {
+      "@id": "#atei33",
+      "name": "Extended: grandparents, aunts, cousins together",
+      "x": -133,
+      "y": -360,
+      "link": "https://en.wikipedia.org/wiki/Extended_family",
+      "parent": "#2spmzh"
+    },
+    {
+      "@id": "#i2pvp6",
+      "name": "Single-parent and blended stepfamilies",
+      "x": 0,
+      "y": -408,
+      "parent": "#2spmzh"
+    },
+    {
+      "@id": "#d7kuka",
+      "name": "Adoptive, foster and same-sex parent families",
+      "x": 175,
+      "y": -465,
+      "parent": "#2spmzh"
+    },
+    {
+      "@id": "#ytuzb7",
+      "name": "Chosen family of close friends",
+      "x": 243,
+      "y": -303,
+      "parent": "#2spmzh"
+    },
+    {
+      "@id": "#scjbad",
+      "name": "What families do",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kgpmw8",
+      "name": "Raise and protect children",
+      "x": 340,
+      "y": -236,
+      "parent": "#scjbad"
+    },
+    {
+      "@id": "#agxsb6",
+      "name": "Share money, housing and chores",
+      "x": 409,
+      "y": -150,
+      "parent": "#scjbad"
+    },
+    {
+      "@id": "#zi5t73",
+      "name": "Care for elderly and ill relatives",
+      "x": 505,
+      "y": -57,
+      "parent": "#scjbad"
+    },
+    {
+      "@id": "#4msz4s",
+      "name": "Pass on language, values and traditions",
+      "x": 445,
+      "y": 51,
+      "parent": "#scjbad"
+    },
+    {
+      "@id": "#9dgp5k",
+      "name": "Kinship and relatives",
+      "x": 174,
+      "y": 120,
+      "link": "https://en.wikipedia.org/wiki/Kinship",
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dumk4m",
+      "name": "Parents, siblings and grandparents",
+      "x": 463,
+      "y": 171,
+      "parent": "#9dgp5k"
+    },
+    {
+      "@id": "#3merg5",
+      "name": "In-laws joined by marriage",
+      "x": 340,
+      "y": 236,
+      "parent": "#9dgp5k"
+    },
+    {
+      "@id": "#5y5etu",
+      "name": "Family trees trace ancestry",
+      "x": 243,
+      "y": 303,
+      "parent": "#9dgp5k"
+    },
+    {
+      "@id": "#jdzcjw",
+      "name": "Healthy family life",
+      "x": -33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vabjmz",
+      "name": "Regular time and meals together",
+      "x": 133,
+      "y": 360,
+      "parent": "#jdzcjw"
+    },
+    {
+      "@id": "#3fvc4y",
+      "name": "Listen and talk openly",
+      "x": 0,
+      "y": 408,
+      "parent": "#jdzcjw"
+    },
+    {
+      "@id": "#b4cmav",
+      "name": "Handle conflict calmly and fairly",
+      "x": -175,
+      "y": 465,
+      "parent": "#jdzcjw"
+    },
+    {
+      "@id": "#jmb3f5",
+      "name": "Respect each person's boundaries",
+      "x": -243,
+      "y": 303,
+      "parent": "#jdzcjw"
+    },
+    {
+      "@id": "#6xymha",
+      "name": "Changing over time",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ncb9iv",
+      "name": "Smaller households in many countries",
+      "x": -340,
+      "y": 236,
+      "parent": "#6xymha"
+    },
+    {
+      "@id": "#c9er2y",
+      "name": "People marry and have children later",
+      "x": -409,
+      "y": 150,
+      "parent": "#6xymha"
+    },
+    {
+      "@id": "#ghbkxc",
+      "name": "Help exists for abuse or crisis",
+      "x": -485,
+      "y": 55,
+      "parent": "#6xymha"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

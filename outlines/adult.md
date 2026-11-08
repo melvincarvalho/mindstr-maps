@@ -1,0 +1,30 @@
+category: Life and home
+aliases: adulthood, grown-up, becoming an adult
+- Adult
+  - What makes an adult
+    - Biologically: puberty is complete
+    - [Legally: age of majority, usually 18](https://en.wikipedia.org/wiki/Age_of_majority)
+    - Socially: independence and responsibility
+  - Stages of adult life
+    - Early adulthood, about 18 to 40
+    - [Middle age, roughly 40 to 65](https://en.wikipedia.org/wiki/Middle_age)
+    - Older adulthood from about 65
+  - Rights that come with age
+    - [Voting at 18 in most countries](https://en.wikipedia.org/wiki/Voting_age)
+    - Signing contracts and renting a home
+    - Full responsibility under the law
+    - Drinking ages vary, 16 to 21
+  - Everyday responsibilities
+    - Earning a living and paying tax
+    - Managing money and housing
+    - Looking after your own health
+    - Caring for children or parents
+  - The adult body and mind
+    - Physical strength peaks in the twenties
+    - [The brain keeps changing throughout life](https://en.wikipedia.org/wiki/Neuroplasticity)
+    - Knowledge and vocabulary keep growing
+    - Muscle and metabolism slowly decline
+  - Relationships and purpose
+    - Partners, marriage or living single
+    - Friendships take more deliberate effort
+    - Work, hobbies and community give meaning

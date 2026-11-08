@@ -1,0 +1,364 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Lung",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#9hsh2j",
+      "name": "Structure",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fq2w3e",
+      "name": "Two lungs either side of heart",
+      "x": -446,
+      "y": -47,
+      "parent": "#9hsh2j"
+    },
+    {
+      "@id": "#3qvvke",
+      "name": "Right has three lobes, left two",
+      "x": -434,
+      "y": -144,
+      "parent": "#9hsh2j"
+    },
+    {
+      "@id": "#m2v66w",
+      "name": "Protected by ribs, sit on diaphragm",
+      "x": -357,
+      "y": -219,
+      "parent": "#9hsh2j"
+    },
+    {
+      "@id": "#wmnbmg",
+      "name": "Pleura: thin lining that eases movement",
+      "x": -274,
+      "y": -286,
+      "link": "https://en.wikipedia.org/wiki/Pleural_cavity",
+      "parent": "#9hsh2j"
+    },
+    {
+      "@id": "#3d2b2c",
+      "name": "Inside the lungs",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pqdgeh",
+      "name": "Bronchial tree branches about 23 times",
+      "x": -180,
+      "y": -348,
+      "link": "https://en.wikipedia.org/wiki/Bronchus",
+      "parent": "#3d2b2c"
+    },
+    {
+      "@id": "#g26sgx",
+      "name": "About 480 million alveoli",
+      "x": -68,
+      "y": -405,
+      "link": "https://en.wikipedia.org/wiki/Pulmonary_alveolus",
+      "parent": "#3d2b2c"
+    },
+    {
+      "@id": "#7sjthc",
+      "name": "Surface area roughly a tennis court",
+      "x": 77,
+      "y": -453,
+      "parent": "#3d2b2c"
+    },
+    {
+      "@id": "#7m8xqn",
+      "name": "Surfactant stops air sacs collapsing",
+      "x": 268,
+      "y": -513,
+      "parent": "#3d2b2c"
+    },
+    {
+      "@id": "#i4qe52",
+      "name": "What lungs do",
+      "x": 199,
+      "y": -92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qbp8xh",
+      "name": "Take in oxygen for the body",
+      "x": 274,
+      "y": -286,
+      "parent": "#i4qe52"
+    },
+    {
+      "@id": "#4i42uv",
+      "name": "Remove carbon dioxide waste",
+      "x": 357,
+      "y": -219,
+      "parent": "#i4qe52"
+    },
+    {
+      "@id": "#mhes39",
+      "name": "Help balance blood acidity",
+      "x": 434,
+      "y": -144,
+      "parent": "#i4qe52"
+    },
+    {
+      "@id": "#fpyahd",
+      "name": "Filter small clots from the blood",
+      "x": 466,
+      "y": -49,
+      "parent": "#i4qe52"
+    },
+    {
+      "@id": "#brmzd2",
+      "name": "Lung capacity",
+      "x": 212,
+      "y": 70,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ffer3w",
+      "name": "About 6 litres total in adults",
+      "x": 466,
+      "y": 49,
+      "parent": "#brmzd2"
+    },
+    {
+      "@id": "#zy766c",
+      "name": "Normal breath is about 0.5 litres",
+      "x": 416,
+      "y": 138,
+      "parent": "#brmzd2"
+    },
+    {
+      "@id": "#f4zzw3",
+      "name": "Spirometry measures how well you breathe",
+      "x": 357,
+      "y": 219,
+      "link": "https://en.wikipedia.org/wiki/Spirometry",
+      "parent": "#brmzd2"
+    },
+    {
+      "@id": "#v7bse4",
+      "name": "Common problems",
+      "x": 30,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vs27bc",
+      "name": "Asthma and COPD block airflow",
+      "x": 274,
+      "y": 286,
+      "parent": "#v7bse4"
+    },
+    {
+      "@id": "#raj546",
+      "name": "Pneumonia and tuberculosis are infections",
+      "x": 180,
+      "y": 348,
+      "parent": "#v7bse4"
+    },
+    {
+      "@id": "#9g7gqy",
+      "name": "Lung cancer, strongly linked to smoking",
+      "x": 68,
+      "y": 405,
+      "link": "https://en.wikipedia.org/wiki/Lung_cancer",
+      "parent": "#v7bse4"
+    },
+    {
+      "@id": "#pazggx",
+      "name": "Collapsed lung (pneumothorax)",
+      "x": -77,
+      "y": 453,
+      "parent": "#v7bse4"
+    },
+    {
+      "@id": "#8wffwj",
+      "name": "Blood clot in lungs (pulmonary embolism)",
+      "x": -268,
+      "y": 513,
+      "parent": "#v7bse4"
+    },
+    {
+      "@id": "#7xqnkz",
+      "name": "Keeping lungs healthy",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#75uufe",
+      "name": "Not smoking is the biggest factor",
+      "x": -274,
+      "y": 286,
+      "parent": "#7xqnkz"
+    },
+    {
+      "@id": "#9wivux",
+      "name": "Stay active to keep breathing strong",
+      "x": -357,
+      "y": 219,
+      "parent": "#7xqnkz"
+    },
+    {
+      "@id": "#my76ip",
+      "name": "Reduce exposure to dust and fumes",
+      "x": -434,
+      "y": 144,
+      "parent": "#7xqnkz"
+    },
+    {
+      "@id": "#bnz2tx",
+      "name": "See a doctor for persistent cough",
+      "x": -506,
+      "y": 53,
+      "parent": "#7xqnkz"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 20,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    },
+    {
+      "start": 26,
+      "end": 29
+    },
+    {
+      "start": 26,
+      "end": 30
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,29 @@
+category: Life and home
+aliases: sexuality, human sexual behaviour, human sexual behavior
+- Human sexuality
+  - What sexuality includes
+    - Biology, feelings, identity and relationships
+    - Attraction, desire and behaviour
+    - Changes across the whole lifespan
+  - Biology
+    - Sex hormones shape development and desire
+    - Reproductive systems differ between sexes
+    - Puberty brings sexual maturity
+  - Orientation and identity
+    - [Sexual orientation: who attracts you](https://en.wikipedia.org/wiki/Sexual_orientation)
+    - Gender identity is a separate idea
+    - Most people experience orientation as unchosen
+  - Healthy relationships
+    - [Consent must be freely given](https://en.wikipedia.org/wiki/Sexual_consent)
+    - Respect, trust and good communication
+    - Age of consent laws protect young people
+  - Sexual health
+    - [Contraception prevents unplanned pregnancy](https://en.wikipedia.org/wiki/Birth_control)
+    - [Condoms also reduce infection risk](https://en.wikipedia.org/wiki/Sexually_transmitted_infection)
+    - Regular testing and HPV vaccination
+    - Clinics give confidential advice
+  - Culture and society
+    - Norms differ widely across cultures
+    - Religions teach different sexual ethics
+    - [Kinsey's 1940s surveys began modern research](https://en.wikipedia.org/wiki/Kinsey_Reports)
+    - Laws vary greatly by country

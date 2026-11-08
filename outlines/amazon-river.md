@@ -1,0 +1,32 @@
+category: Geography
+aliases: amazon river facts, rio amazonas, river amazon
+- Amazon River
+  - Course
+    - Rises in the Peruvian Andes
+    - Flows east across Peru and Brazil
+    - Called the Solimões above Manaus
+    - Enters the Atlantic near Marajó Island
+  - Size and flow
+    - About 6,400 km long
+    - Rivals the Nile as longest river
+    - Largest discharge of any river
+    - About a fifth of world river flow
+    - Drainage basin about 7 million km²
+  - Tributaries
+    - [Rio Negro meets it at Manaus](https://en.wikipedia.org/wiki/Meeting_of_Waters)
+    - Madeira is the largest tributary
+    - More than 1,000 tributaries in all
+  - Wildlife
+    - [Amazon river dolphin, the pink boto](https://en.wikipedia.org/wiki/Amazon_river_dolphin)
+    - Piranhas and giant arapaima fish
+    - Over 3,000 known fish species
+    - Annual floods create flooded forest
+  - People and history
+    - Indigenous peoples lived here millennia
+    - [Orellana sailed its length in 1542](https://en.wikipedia.org/wiki/Francisco_de_Orellana)
+    - Named after Greek myth's Amazons
+    - Manaus grew rich on rubber
+  - Today
+    - No bridges cross the main river
+    - Ocean ships reach Manaus and Iquitos
+    - Deforestation and dams threaten the basin

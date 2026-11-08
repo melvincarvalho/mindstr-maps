@@ -1,0 +1,29 @@
+category: Society
+aliases: first name and surname, given name, how names work
+- Personal name
+  - Parts of a name
+    - Given name chosen at birth
+    - [Surname shared with the family](https://en.wikipedia.org/wiki/Surname)
+    - Middle names, nicknames and titles
+  - Name order varies
+    - Western: given name first
+    - China, Japan, Korea, Hungary: family first
+    - [Spanish names use two surnames](https://en.wikipedia.org/wiki/Spanish_naming_customs)
+  - Where surnames come from
+    - Jobs: Smith, Müller, Ferrari
+    - Fathers' names: Johnson, Ivanov, Fernández
+    - Places and features: Hill, Rivers
+    - Looks or traits: Brown, Klein
+  - Not everyone has a surname
+    - [Iceland still uses patronymics](https://en.wikipedia.org/wiki/Icelandic_name)
+    - Many Indonesians use one name
+    - Japanese commoners took surnames in 1875
+  - Customs and law
+    - Births must be registered with a name
+    - Some countries approve or ban names
+    - Marriage may change or combine surnames
+    - Saints, ancestors and fashion inspire names
+  - Names in numbers
+    - Wang and Li each about 100 million
+    - Popular baby names change every generation
+    - [Anthroponymy is the study of names](https://en.wikipedia.org/wiki/Anthroponymy)

@@ -1,0 +1,32 @@
+category: Society
+aliases: greek, modern greek, learn greek
+- Greek language
+  - Where it's spoken
+    - About 13 million speakers
+    - Official in Greece and Cyprus
+    - An official language of the EU
+    - Diaspora in Australia, US, UK
+  - History
+    - [Linear B: Mycenaean Greek, c. 1400 BCE](https://en.wikipedia.org/wiki/Linear_B)
+    - [Ancient Greek of Homer and Plato](https://en.wikipedia.org/wiki/Ancient_Greek)
+    - [Koine, language of the New Testament](https://en.wikipedia.org/wiki/Koine_Greek)
+    - Medieval Greek of the Byzantine Empire
+    - Demotic made official standard in 1976
+  - Family
+    - Own Hellenic branch of Indo-European
+    - Over 3,000 years of written record
+    - Rich source of scientific vocabulary
+  - Sounds and writing
+    - [24-letter Greek alphabet](https://en.wikipedia.org/wiki/Greek_alphabet)
+    - Adapted from Phoenician, adding vowels
+    - Single stress accent mark since 1982
+    - Question mark looks like ";"
+  - Grammar highlights
+    - Three genders
+    - Four cases in modern Greek
+    - No infinitive; uses να clauses
+    - Verbs mark aspect: ongoing or complete
+  - Tips for learners
+    - Alphabet learnable in a few days
+    - Many English words have Greek roots
+    - Stress position changes meaning

@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "History of religion",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#6vev9g",
+      "name": "Earliest beliefs",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6d3mfq",
+      "name": "Burials with grave goods",
+      "x": -445,
+      "y": -51,
+      "parent": "#6vev9g"
+    },
+    {
+      "@id": "#66v72a",
+      "name": "Animism: spirits in nature",
+      "x": -409,
+      "y": -150,
+      "parent": "#6vev9g"
+    },
+    {
+      "@id": "#7pqzqr",
+      "name": "Göbekli Tepe temple, about 9500 BC",
+      "x": -340,
+      "y": -236,
+      "link": "https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe",
+      "parent": "#6vev9g"
+    },
+    {
+      "@id": "#4wxpy9",
+      "name": "Ancient religions",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gsu5rj",
+      "name": "Mesopotamian and Egyptian gods and temples",
+      "x": -243,
+      "y": -303,
+      "parent": "#4wxpy9"
+    },
+    {
+      "@id": "#92jwq4",
+      "name": "Greek and Roman pantheons",
+      "x": -133,
+      "y": -360,
+      "parent": "#4wxpy9"
+    },
+    {
+      "@id": "#eajhba",
+      "name": "Vedic religion, root of Hinduism",
+      "x": 0,
+      "y": -408,
+      "parent": "#4wxpy9"
+    },
+    {
+      "@id": "#7896pd",
+      "name": "Zoroastrianism in ancient Persia",
+      "x": 175,
+      "y": -465,
+      "parent": "#4wxpy9"
+    },
+    {
+      "@id": "#q786hn",
+      "name": "Axial Age, about 800–200 BC",
+      "x": 193,
+      "y": -99,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#enrtyb",
+      "name": "Buddhism founded by Siddhartha Gautama",
+      "x": 243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Buddhism",
+      "parent": "#q786hn"
+    },
+    {
+      "@id": "#8d53hr",
+      "name": "Jainism's teaching of non-violence",
+      "x": 340,
+      "y": -236,
+      "parent": "#q786hn"
+    },
+    {
+      "@id": "#ui5h79",
+      "name": "Confucianism and Taoism in China",
+      "x": 409,
+      "y": -150,
+      "parent": "#q786hn"
+    },
+    {
+      "@id": "#miqt3w",
+      "name": "Hebrew prophets and Jewish monotheism",
+      "x": 445,
+      "y": -51,
+      "parent": "#q786hn"
+    },
+    {
+      "@id": "#xnb9xd",
+      "name": "Abrahamic faiths spread",
+      "x": 193,
+      "y": 99,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4fkxrf",
+      "name": "Christianity grew from Jesus's followers",
+      "x": 445,
+      "y": 51,
+      "parent": "#xnb9xd"
+    },
+    {
+      "@id": "#u3iu3h",
+      "name": "Rome adopted Christianity in 4th century",
+      "x": 409,
+      "y": 150,
+      "parent": "#xnb9xd"
+    },
+    {
+      "@id": "#4ky3ut",
+      "name": "Islam began with Muhammad, 610 AD",
+      "x": 340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/Islam",
+      "parent": "#xnb9xd"
+    },
+    {
+      "@id": "#qxp9xg",
+      "name": "Sikhism founded by Guru Nanak, about 1500",
+      "x": 243,
+      "y": 303,
+      "parent": "#xnb9xd"
+    },
+    {
+      "@id": "#qhh3e2",
+      "name": "Splits and reforms",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wxdrdd",
+      "name": "Great Schism of East and West, 1054",
+      "x": 133,
+      "y": 360,
+      "parent": "#qhh3e2"
+    },
+    {
+      "@id": "#aewax7",
+      "name": "Protestant Reformation began 1517",
+      "x": 0,
+      "y": 408,
+      "link": "https://en.wikipedia.org/wiki/Reformation",
+      "parent": "#qhh3e2"
+    },
+    {
+      "@id": "#8zjf2h",
+      "name": "Sunni and Shia split over succession",
+      "x": -175,
+      "y": 465,
+      "parent": "#qhh3e2"
+    },
+    {
+      "@id": "#iyz5gv",
+      "name": "Modern era",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vxqnaf",
+      "name": "Secularism and separation of church and state",
+      "x": -243,
+      "y": 303,
+      "parent": "#iyz5gv"
+    },
+    {
+      "@id": "#42gxft",
+      "name": "Missionaries spread faiths worldwide",
+      "x": -340,
+      "y": 236,
+      "parent": "#iyz5gv"
+    },
+    {
+      "@id": "#umtygj",
+      "name": "New religious movements emerged",
+      "x": -409,
+      "y": 150,
+      "parent": "#iyz5gv"
+    },
+    {
+      "@id": "#e4iik3",
+      "name": "Christianity and Islam largest today",
+      "x": -445,
+      "y": 51,
+      "parent": "#iyz5gv"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

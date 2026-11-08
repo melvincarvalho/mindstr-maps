@@ -1,0 +1,363 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Indonesia",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#4kpd2i",
+      "name": "Land",
+      "x": -182,
+      "y": -112,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#baxf7z",
+      "name": "About 17,000 islands across the equator",
+      "x": -446,
+      "y": -47,
+      "parent": "#4kpd2i"
+    },
+    {
+      "@id": "#w3ccw4",
+      "name": "Main islands include Java, Sumatra, Sulawesi",
+      "x": -452,
+      "y": -150,
+      "parent": "#4kpd2i"
+    },
+    {
+      "@id": "#eej3fp",
+      "name": "Jakarta capital, Nusantara planned to replace it",
+      "x": -357,
+      "y": -219,
+      "parent": "#4kpd2i"
+    },
+    {
+      "@id": "#mxnrqa",
+      "name": "Ring of Fire volcanoes and earthquakes",
+      "x": -274,
+      "y": -286,
+      "link": "https://en.wikipedia.org/wiki/Ring_of_Fire",
+      "parent": "#4kpd2i"
+    },
+    {
+      "@id": "#gpjeud",
+      "name": "Orangutans, Komodo dragons, rainforests",
+      "x": -180,
+      "y": -348,
+      "parent": "#4kpd2i"
+    },
+    {
+      "@id": "#w7j5qf",
+      "name": "People and languages",
+      "x": 30,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jy987c",
+      "name": "About 280 million, fourth most populous",
+      "x": -68,
+      "y": -405,
+      "parent": "#w7j5qf"
+    },
+    {
+      "@id": "#wkvura",
+      "name": "Indonesian unites hundreds of local languages",
+      "x": 77,
+      "y": -453,
+      "link": "https://en.wikipedia.org/wiki/Indonesian_language",
+      "parent": "#w7j5qf"
+    },
+    {
+      "@id": "#agdmck",
+      "name": "Largest Muslim population, about 87%",
+      "x": 268,
+      "y": -513,
+      "parent": "#w7j5qf"
+    },
+    {
+      "@id": "#6k8z68",
+      "name": "History in brief",
+      "x": 212,
+      "y": -70,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fsgpsu",
+      "name": "Srivijaya and Majapahit empires",
+      "x": 274,
+      "y": -286,
+      "parent": "#6k8z68"
+    },
+    {
+      "@id": "#xpi2um",
+      "name": "Spice trade drew European traders",
+      "x": 357,
+      "y": -219,
+      "parent": "#6k8z68"
+    },
+    {
+      "@id": "#fyx8mh",
+      "name": "Dutch colony as the East Indies",
+      "x": 416,
+      "y": -138,
+      "parent": "#6k8z68"
+    },
+    {
+      "@id": "#25q355",
+      "name": "Sukarno declared independence in 1945",
+      "x": 526,
+      "y": -55,
+      "link": "https://en.wikipedia.org/wiki/Sukarno",
+      "parent": "#6k8z68"
+    },
+    {
+      "@id": "#x2xwx6",
+      "name": "Suharto ruled about 30 years until 1998",
+      "x": 446,
+      "y": 47,
+      "parent": "#6k8z68"
+    },
+    {
+      "@id": "#kskit4",
+      "name": "Government",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mp9e6v",
+      "name": "Presidential republic, directly elected",
+      "x": 452,
+      "y": 150,
+      "parent": "#kskit4"
+    },
+    {
+      "@id": "#cp5tha",
+      "name": "Pancasila: five founding principles",
+      "x": 357,
+      "y": 219,
+      "link": "https://en.wikipedia.org/wiki/Pancasila_%28politics%29",
+      "parent": "#kskit4"
+    },
+    {
+      "@id": "#7fr5e5",
+      "name": "Democratic reforms since 1998",
+      "x": 274,
+      "y": 286,
+      "parent": "#kskit4"
+    },
+    {
+      "@id": "#6qvyxe",
+      "name": "East Timor became independent, 2002",
+      "x": 180,
+      "y": 348,
+      "parent": "#kskit4"
+    },
+    {
+      "@id": "#uua63y",
+      "name": "Economy",
+      "x": -30,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6arm27",
+      "name": "Largest economy in Southeast Asia",
+      "x": 68,
+      "y": 405,
+      "parent": "#uua63y"
+    },
+    {
+      "@id": "#tfpxdv",
+      "name": "Palm oil, coal and nickel exports",
+      "x": -77,
+      "y": 453,
+      "parent": "#uua63y"
+    },
+    {
+      "@id": "#hkgx2g",
+      "name": "Member of the G20",
+      "x": -172,
+      "y": 333,
+      "parent": "#uua63y"
+    },
+    {
+      "@id": "#eczsew",
+      "name": "Culture",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xxxb47",
+      "name": "Borobudur, giant Buddhist temple in Java",
+      "x": -370,
+      "y": 390,
+      "parent": "#eczsew"
+    },
+    {
+      "@id": "#a5mnz3",
+      "name": "Bali keeps a Hindu tradition",
+      "x": -357,
+      "y": 219,
+      "parent": "#eczsew"
+    },
+    {
+      "@id": "#8iwj9j",
+      "name": "Batik cloth and gamelan music",
+      "x": -416,
+      "y": 138,
+      "parent": "#eczsew"
+    },
+    {
+      "@id": "#3fpyqw",
+      "name": "Nasi goreng and rendang",
+      "x": -446,
+      "y": 47,
+      "parent": "#eczsew"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 11,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    },
+    {
+      "start": 26,
+      "end": 29
+    },
+    {
+      "start": 26,
+      "end": 30
+    }
+  ],
+  "selectedNode": 0
+}

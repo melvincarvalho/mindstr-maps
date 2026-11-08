@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "International Red Cross and Red Crescent Movement",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#pibxzi",
+      "name": "Three parts of one Movement",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qw225s",
+      "name": "ICRC protects victims of armed conflict",
+      "x": -565,
+      "y": -63,
+      "link": "https://en.wikipedia.org/wiki/International_Committee_of_the_Red_Cross",
+      "parent": "#pibxzi"
+    },
+    {
+      "@id": "#k7n8uv",
+      "name": "About 190 national societies worldwide",
+      "x": -409,
+      "y": -150,
+      "parent": "#pibxzi"
+    },
+    {
+      "@id": "#nq9cfk",
+      "name": "IFRC coordinates disaster relief",
+      "x": -340,
+      "y": -236,
+      "link": "https://en.wikipedia.org/wiki/International_Federation_of_Red_Cross_and_Red_Crescent_Societies",
+      "parent": "#pibxzi"
+    },
+    {
+      "@id": "#pnezsp",
+      "name": "Origins",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j6bfey",
+      "name": "Henry Dunant saw Solferino's wounded, 1859",
+      "x": -243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Henry_Dunant",
+      "parent": "#pnezsp"
+    },
+    {
+      "@id": "#mvhyxv",
+      "name": "ICRC founded in Geneva, 1863",
+      "x": -133,
+      "y": -360,
+      "parent": "#pnezsp"
+    },
+    {
+      "@id": "#pfgyh7",
+      "name": "First Geneva Convention signed 1864",
+      "x": 0,
+      "y": -408,
+      "parent": "#pnezsp"
+    },
+    {
+      "@id": "#564r8g",
+      "name": "Dunant shared the first Nobel Peace Prize",
+      "x": 175,
+      "y": -465,
+      "parent": "#pnezsp"
+    },
+    {
+      "@id": "#htm79c",
+      "name": "ICRC won Nobel Peace Prize three times",
+      "x": 243,
+      "y": -303,
+      "parent": "#pnezsp"
+    },
+    {
+      "@id": "#q9a4zu",
+      "name": "Seven Fundamental Principles",
+      "x": 209,
+      "y": -76,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4p2gn9",
+      "name": "Humanity and impartiality",
+      "x": 340,
+      "y": -236,
+      "parent": "#q9a4zu"
+    },
+    {
+      "@id": "#2pmvd4",
+      "name": "Neutrality and independence",
+      "x": 409,
+      "y": -150,
+      "parent": "#q9a4zu"
+    },
+    {
+      "@id": "#pbjgww",
+      "name": "Voluntary service, unity and universality",
+      "x": 585,
+      "y": -65,
+      "parent": "#q9a4zu"
+    },
+    {
+      "@id": "#v452z5",
+      "name": "The emblems and the law",
+      "x": 193,
+      "y": 99,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#87mi3j",
+      "name": "Geneva Conventions protect the emblem",
+      "x": 445,
+      "y": 51,
+      "link": "https://en.wikipedia.org/wiki/Geneva_Conventions",
+      "parent": "#v452z5"
+    },
+    {
+      "@id": "#u4gyh5",
+      "name": "Red cross, red crescent, red crystal",
+      "x": 409,
+      "y": 150,
+      "parent": "#v452z5"
+    },
+    {
+      "@id": "#xdsets",
+      "name": "Emblem marks protected medical workers",
+      "x": 340,
+      "y": 236,
+      "parent": "#v452z5"
+    },
+    {
+      "@id": "#fpekcx",
+      "name": "Misusing the emblem is prohibited",
+      "x": 243,
+      "y": 303,
+      "parent": "#v452z5"
+    },
+    {
+      "@id": "#m26n8y",
+      "name": "Work in armed conflict",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#73545i",
+      "name": "Visits prisoners of war and detainees",
+      "x": 133,
+      "y": 360,
+      "parent": "#m26n8y"
+    },
+    {
+      "@id": "#u8t3if",
+      "name": "Reconnects families separated by war",
+      "x": 0,
+      "y": 408,
+      "parent": "#m26n8y"
+    },
+    {
+      "@id": "#6m5iy9",
+      "name": "Promotes international humanitarian law",
+      "x": -175,
+      "y": 465,
+      "parent": "#m26n8y"
+    },
+    {
+      "@id": "#zyi2xg",
+      "name": "Work in peacetime",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9ha3u8",
+      "name": "Disaster response and recovery",
+      "x": -243,
+      "y": 303,
+      "parent": "#zyi2xg"
+    },
+    {
+      "@id": "#ayqewb",
+      "name": "Blood donation services in many countries",
+      "x": -340,
+      "y": 236,
+      "parent": "#zyi2xg"
+    },
+    {
+      "@id": "#ynzsfn",
+      "name": "First aid training",
+      "x": -409,
+      "y": 150,
+      "parent": "#zyi2xg"
+    },
+    {
+      "@id": "#qmj74x",
+      "name": "Community health programmes",
+      "x": -445,
+      "y": 51,
+      "parent": "#zyi2xg"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

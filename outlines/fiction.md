@@ -1,0 +1,32 @@
+category: Arts and culture
+aliases: fictional stories, works of fiction, imaginative literature
+- Fiction
+  - What fiction is
+    - Invented people, places and events
+    - Can be set in real history
+    - [Willing suspension of disbelief](https://en.wikipedia.org/wiki/Suspension_of_disbelief)
+  - Forms by length
+    - Novels, usually over 40,000 words
+    - Novellas sit between novel and story
+    - Short stories read in one sitting
+    - Flash fiction under about 1,000 words
+  - Media
+    - Written prose and verse
+    - Plays, films and television drama
+    - Comics and graphic novels
+    - Video games with interactive stories
+  - Main genres
+    - Literary fiction stresses style and character
+    - [Science fiction imagines future technologies](https://en.wikipedia.org/wiki/Science_fiction)
+    - Fantasy builds magical worlds
+    - Crime and mystery solve puzzles
+    - Romance centres on a love story
+    - Horror aims to frighten
+  - Building blocks
+    - Plot, character, setting, theme
+    - Point of view shapes the telling
+    - Dialogue reveals character
+  - Why it matters
+    - Builds empathy through other minds
+    - Explores "what if" safely
+    - [Roots in epics like Gilgamesh](https://en.wikipedia.org/wiki/Epic_of_Gilgamesh)

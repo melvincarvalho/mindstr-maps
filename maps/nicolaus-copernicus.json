@@ -1,0 +1,329 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Nicolaus Copernicus",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#r3d5xp",
+      "name": "Life",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tcv6cm",
+      "name": "Born 1473 in Toruń, Poland",
+      "x": -445,
+      "y": -54,
+      "parent": "#r3d5xp"
+    },
+    {
+      "@id": "#94gkkn",
+      "name": "Studied at Kraków, Bologna and Padua",
+      "x": -405,
+      "y": -156,
+      "parent": "#r3d5xp"
+    },
+    {
+      "@id": "#cx52hg",
+      "name": "Canon of Warmia, based at Frombork",
+      "x": -330,
+      "y": -245,
+      "parent": "#r3d5xp"
+    },
+    {
+      "@id": "#c3u7bj",
+      "name": "Died 1543 in Frombork",
+      "x": -225,
+      "y": -312,
+      "parent": "#r3d5xp"
+    },
+    {
+      "@id": "#46k3t9",
+      "name": "The Sun-centred universe",
+      "x": 51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fz2gmw",
+      "name": "Earth and planets orbit the Sun",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Heliocentrism",
+      "parent": "#46k3t9"
+    },
+    {
+      "@id": "#vj5rvn",
+      "name": "Earth spins daily on its axis",
+      "x": 42,
+      "y": -423,
+      "parent": "#46k3t9"
+    },
+    {
+      "@id": "#e42fux",
+      "name": "Explained retrograde motion simply",
+      "x": 234,
+      "y": -485,
+      "parent": "#46k3t9"
+    },
+    {
+      "@id": "#f2mnru",
+      "name": "Kept circular orbits and epicycles",
+      "x": 281,
+      "y": -281,
+      "parent": "#46k3t9"
+    },
+    {
+      "@id": "#55rf93",
+      "name": "On the Revolutions of the Heavenly Spheres",
+      "x": 347,
+      "y": -39,
+      "link": "https://en.wikipedia.org/wiki/De_revolutionibus_orbium_coelestium",
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3utx7p",
+      "name": "Commentariolus sketch, about 1514",
+      "x": 372,
+      "y": -203,
+      "parent": "#55rf93"
+    },
+    {
+      "@id": "#7qtdfi",
+      "name": "Published 1543, the year he died",
+      "x": 430,
+      "y": -106,
+      "parent": "#55rf93"
+    },
+    {
+      "@id": "#5pb6fy",
+      "name": "Rheticus persuaded him to publish",
+      "x": 750,
+      "y": 0,
+      "parent": "#55rf93"
+    },
+    {
+      "@id": "#azkk3y",
+      "name": "Osiander's preface called it hypothesis",
+      "x": 430,
+      "y": 106,
+      "parent": "#55rf93"
+    },
+    {
+      "@id": "#5jhtt9",
+      "name": "Other work",
+      "x": 143,
+      "y": 144,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9yishu",
+      "name": "Physician, administrator and diplomat",
+      "x": 372,
+      "y": 203,
+      "parent": "#5jhtt9"
+    },
+    {
+      "@id": "#kwvcsm",
+      "name": "Early statement of Gresham's law",
+      "x": 281,
+      "y": 281,
+      "parent": "#5jhtt9"
+    },
+    {
+      "@id": "#4rgybg",
+      "name": "Defended Olsztyn Castle against Teutonic Knights",
+      "x": 164,
+      "y": 335,
+      "parent": "#5jhtt9"
+    },
+    {
+      "@id": "#8addz7",
+      "name": "Reception",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c8cn3f",
+      "name": "Catholic Church suspended the book, 1616",
+      "x": 38,
+      "y": 391,
+      "parent": "#8addz7"
+    },
+    {
+      "@id": "#6zx8nc",
+      "name": "Kepler and Galileo built on it",
+      "x": -124,
+      "y": 447,
+      "parent": "#8addz7"
+    },
+    {
+      "@id": "#7knjnu",
+      "name": "Overturned Ptolemy's Earth-centred model",
+      "x": -365,
+      "y": 508,
+      "link": "https://en.wikipedia.org/wiki/Geocentric_model",
+      "parent": "#8addz7"
+    },
+    {
+      "@id": "#t4k2gg",
+      "name": "Legacy",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cyeapu",
+      "name": "Started the Copernican Revolution",
+      "x": -330,
+      "y": 245,
+      "parent": "#t4k2gg"
+    },
+    {
+      "@id": "#qx2ncg",
+      "name": "Reburied with honours in Frombork, 2010",
+      "x": -405,
+      "y": 156,
+      "parent": "#t4k2gg"
+    },
+    {
+      "@id": "#ypddjd",
+      "name": "Element copernicium named after him",
+      "x": -465,
+      "y": 56,
+      "parent": "#t4k2gg"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

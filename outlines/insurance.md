@@ -1,0 +1,30 @@
+category: Society
+aliases: how insurance works, insurance explained, insurance policy, what is insurance
+- Insurance
+  - The basic idea
+    - Many people pool small regular payments
+    - The few who suffer losses get paid
+    - Trades uncertain loss for fixed cost
+  - Key terms
+    - Premium: what you pay for cover
+    - Deductible or excess: your share first
+    - Policy: the contract and its exclusions
+    - Claim: asking the insurer to pay
+  - Common types
+    - [Life insurance pays out on death](https://en.wikipedia.org/wiki/Life_insurance)
+    - [Health insurance covers medical costs](https://en.wikipedia.org/wiki/Health_insurance)
+    - Car insurance, often legally required
+    - Home and contents insurance
+    - Travel and liability insurance
+  - How insurers make money
+    - [Actuaries price risk with statistics](https://en.wikipedia.org/wiki/Actuary)
+    - Invest premiums before claims are paid
+    - [Reinsurers insure the insurers](https://en.wikipedia.org/wiki/Reinsurance)
+  - Built-in problems
+    - [Adverse selection: risky people buy more](https://en.wikipedia.org/wiki/Adverse_selection)
+    - Moral hazard: insured people take risks
+    - Fraud and exaggerated claims raise prices
+  - History
+    - Marine insurance in medieval Italian ports
+    - Lloyd's of London began around 1688
+    - Social insurance via state pensions, unemployment

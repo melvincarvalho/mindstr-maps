@@ -1,0 +1,33 @@
+category: Science
+aliases: human liver, liver function, what does the liver do
+- Liver
+  - Where it is and what it's like
+    - Upper right abdomen, under the ribs
+    - Largest internal organ, about 1.5 kg
+    - Gets blood from gut via portal vein
+    - [Can regrow after partial removal](https://en.wikipedia.org/wiki/Liver_regeneration)
+  - What it does
+    - Processes nutrients absorbed from food
+    - Stores sugar as glycogen for energy
+    - Breaks down alcohol, drugs and toxins
+    - Makes bile to digest fats
+    - Makes blood-clotting proteins and albumin
+  - Key parts
+    - [Hepatocytes do most of the work](https://en.wikipedia.org/wiki/Hepatocyte)
+    - Gallbladder stores bile between meals
+    - Bile ducts drain into the intestine
+  - Common problems
+    - [Fatty liver linked to obesity, diabetes](https://en.wikipedia.org/wiki/Non-alcoholic_fatty_liver_disease)
+    - Alcohol damage builds up over years
+    - Hepatitis viruses cause inflammation
+    - [Cirrhosis: lasting scarring of tissue](https://en.wikipedia.org/wiki/Cirrhosis)
+    - Gallstones block bile flow
+  - Warning signs
+    - Jaundice: yellow skin and eyes
+    - Dark urine and pale stools
+    - Often no symptoms until advanced
+  - Keeping it healthy
+    - Keep alcohol within recommended limits
+    - Maintain a healthy weight
+    - Vaccines protect against hepatitis A, B
+    - Take medicines only as directed

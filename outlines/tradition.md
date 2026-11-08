@@ -1,0 +1,28 @@
+category: Society
+aliases: traditions, customs and traditions, cultural tradition
+- Tradition
+  - What a tradition is
+    - Belief or custom handed down
+    - From Latin tradere, "to hand over"
+    - Gives continuity between generations
+  - Kinds of tradition
+    - Religious rites and holy days
+    - Family customs and recipes
+    - National ceremonies and symbols
+    - Crafts, skills and trade practices
+  - How traditions pass on
+    - [Storytelling and oral tradition](https://en.wikipedia.org/wiki/Oral_tradition)
+    - Imitation, practice and apprenticeship
+    - Writing, records and institutions
+  - Why traditions matter
+    - Build identity and belonging
+    - Mark life stages and seasons
+    - Carry accumulated practical knowledge
+  - Change and invention
+    - [Some "ancient" traditions are recent inventions](https://en.wikipedia.org/wiki/Invented_tradition)
+    - Traditions adapt to new circumstances
+    - [Modernization challenges older customs](https://en.wikipedia.org/wiki/Modernization_theory)
+  - Debates
+    - [Conservatism values inherited institutions](https://en.wikipedia.org/wiki/Conservatism)
+    - Criticized when it justifies inequality
+    - [UNESCO safeguards living heritage](https://en.wikipedia.org/wiki/Intangible_cultural_heritage)

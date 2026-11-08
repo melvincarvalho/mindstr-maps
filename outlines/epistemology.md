@@ -1,0 +1,28 @@
+category: Philosophy and religion
+aliases: theory of knowledge, philosophy of knowledge, epistemology philosophy
+- Epistemology
+  - Key questions
+    - What is knowledge?
+    - How does knowing differ from believing?
+    - Can we know anything for certain?
+  - Defining knowledge
+    - Justified true belief, from Plato
+    - [Gettier cases break that definition, 1963](https://en.wikipedia.org/wiki/Gettier_problem)
+    - Reliabilism: formed by reliable processes
+  - Sources of knowledge
+    - Perception: seeing the cup there
+    - Reason: 2+2=4, known a priori
+    - Memory and testimony from others
+    - Introspection of your own mind
+  - Rationalism versus empiricism
+    - [Rationalists: Descartes, Spinoza, Leibniz](https://en.wikipedia.org/wiki/Rationalism)
+    - [Empiricists: Locke, Berkeley, Hume](https://en.wikipedia.org/wiki/Empiricism)
+    - Kant combined both approaches
+  - Skepticism
+    - Descartes' evil demon doubt
+    - [Brain in a vat](https://en.wikipedia.org/wiki/Brain_in_a_vat)
+    - G. E. Moore: "Here is one hand"
+  - Structure of justification
+    - Foundationalism: basic beliefs support others
+    - Coherentism: beliefs support each other
+    - The infinite regress of reasons

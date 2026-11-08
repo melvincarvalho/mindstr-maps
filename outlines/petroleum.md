@@ -1,0 +1,31 @@
+category: Technology
+aliases: crude oil, oil industry, petroleum oil, oil and petroleum
+- Petroleum
+  - What it is
+    - Liquid mix of hydrocarbons
+    - Formed from ancient marine plankton
+    - Heat and pressure over millions of years
+    - Collects in reservoir rock under seals
+  - From well to product
+    - Drilling on land and offshore
+    - [Refineries split crude by boiling point](https://en.wikipedia.org/wiki/Fractional_distillation)
+    - Petrol, diesel, jet fuel, heating oil
+    - Plastics, asphalt and chemicals too
+  - Share of world energy
+    - Largest source, about a third of energy
+    - Over 90% of transport fuel
+    - Little used for electricity today
+  - Oil and the world
+    - Top producers: US, Saudi Arabia, Russia
+    - [OPEC coordinates many exporters' output](https://en.wikipedia.org/wiki/OPEC)
+    - [1973 oil crisis showed supply's power](https://en.wikipedia.org/wiki/1973_oil_crisis)
+    - Prices swing with wars and recessions
+  - Pros
+    - Very energy-dense and easy to move
+    - Powers vehicles, ships and planes
+    - Vast existing infrastructure
+  - Cons
+    - Major source of CO₂ emissions
+    - Exhaust pollutes city air
+    - [Spills damage seas and coasts](https://en.wikipedia.org/wiki/Oil_spill)
+    - Reserves are finite and unevenly spread

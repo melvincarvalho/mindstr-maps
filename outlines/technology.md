@@ -1,0 +1,30 @@
+category: Technology
+aliases: what is technology, technology explained, technological change
+- Technology
+  - What technology is
+    - Applying knowledge to practical problems
+    - Tools, machines, techniques and systems
+    - Distinct from science, but feeds it
+  - Prehistoric beginnings
+    - [Stone tools over 3 million years old](https://en.wikipedia.org/wiki/Stone_tool)
+    - Control of fire for warmth, cooking
+    - [Farming began about 12,000 years ago](https://en.wikipedia.org/wiki/Neolithic_Revolution)
+  - Great turning points
+    - Bronze, then iron, metalworking
+    - Printing press spread knowledge, 1440s
+    - [Steam power drove the Industrial Revolution](https://en.wikipedia.org/wiki/Industrial_Revolution)
+    - Electricity and telegraph, 1800s
+    - Computers and the internet, 1900s
+  - How new technology spreads
+    - Invention, then innovation, then adoption
+    - Patents protect and reward inventors
+    - Shared standards let devices interconnect
+  - Effects on society
+    - Higher productivity and living standards
+    - Some jobs automated, new ones created
+    - Pollution and climate impacts
+    - Privacy and surveillance concerns
+  - Today's frontiers
+    - [Artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
+    - Renewable energy and batteries
+    - Biotechnology and gene editing

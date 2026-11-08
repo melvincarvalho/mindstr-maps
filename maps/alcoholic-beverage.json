@@ -1,0 +1,352 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Alcoholic beverage",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#5c5eaq",
+      "name": "What it is",
+      "x": -211,
+      "y": -73,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fx6be3",
+      "name": "Contains ethanol from fermentation",
+      "x": -486,
+      "y": -53,
+      "link": "https://en.wikipedia.org/wiki/Ethanol",
+      "parent": "#5c5eaq"
+    },
+    {
+      "@id": "#pzsc6k",
+      "name": "Yeast turns sugars into alcohol",
+      "x": -413,
+      "y": -143,
+      "parent": "#5c5eaq"
+    },
+    {
+      "@id": "#kbmcnv",
+      "name": "Strength measured as ABV",
+      "x": -349,
+      "y": -227,
+      "parent": "#5c5eaq"
+    },
+    {
+      "@id": "#cskndm",
+      "name": "Main types",
+      "x": -47,
+      "y": -180,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4k6tr4",
+      "name": "Beer: fermented malted grain",
+      "x": -260,
+      "y": -294,
+      "link": "https://en.wikipedia.org/wiki/Beer",
+      "parent": "#cskndm"
+    },
+    {
+      "@id": "#tsf3fd",
+      "name": "Wine: fermented grape juice",
+      "x": -158,
+      "y": -354,
+      "parent": "#cskndm"
+    },
+    {
+      "@id": "#exg695",
+      "name": "Spirits: distilled, around 40% ABV",
+      "x": -34,
+      "y": -407,
+      "parent": "#cskndm"
+    },
+    {
+      "@id": "#unbiee",
+      "name": "Cider, sake, mead and more",
+      "x": 120,
+      "y": -464,
+      "parent": "#cskndm"
+    },
+    {
+      "@id": "#4jrd3s",
+      "name": "Effects on the body",
+      "x": 178,
+      "y": -116,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dweki4",
+      "name": "A depressant slowing the brain",
+      "x": 207,
+      "y": -320,
+      "parent": "#4jrd3s"
+    },
+    {
+      "@id": "#ktawie",
+      "name": "Impairs judgement, balance, reaction time",
+      "x": 307,
+      "y": -263,
+      "parent": "#4jrd3s"
+    },
+    {
+      "@id": "#qi9njm",
+      "name": "Liver clears roughly one drink hourly",
+      "x": 384,
+      "y": -187,
+      "parent": "#4jrd3s"
+    },
+    {
+      "@id": "#sbkye6",
+      "name": "Hangovers, dehydration and poor sleep",
+      "x": 490,
+      "y": -109,
+      "parent": "#4jrd3s"
+    },
+    {
+      "@id": "#zyy2be",
+      "name": "Health risks",
+      "x": 197,
+      "y": 96,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nz24yi",
+      "name": "Causes several cancers, says WHO",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Alcohol_and_cancer",
+      "parent": "#zyy2be"
+    },
+    {
+      "@id": "#d8c8cq",
+      "name": "Liver disease and high blood pressure",
+      "x": 471,
+      "y": 105,
+      "parent": "#zyy2be"
+    },
+    {
+      "@id": "#x8fyup",
+      "name": "Risk rises with amount drunk",
+      "x": 384,
+      "y": 187,
+      "parent": "#zyy2be"
+    },
+    {
+      "@id": "#6b3tfv",
+      "name": "No level is entirely risk-free",
+      "x": 307,
+      "y": 263,
+      "parent": "#zyy2be"
+    },
+    {
+      "@id": "#9hmeth",
+      "name": "Alcohol use disorder and dependence",
+      "x": 207,
+      "y": 320,
+      "link": "https://en.wikipedia.org/wiki/Alcoholism",
+      "parent": "#zyy2be"
+    },
+    {
+      "@id": "#shnajw",
+      "name": "Mainstream guidance",
+      "x": -47,
+      "y": 180,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#42utji",
+      "name": "UK advises max 14 units weekly",
+      "x": 96,
+      "y": 368,
+      "parent": "#shnajw"
+    },
+    {
+      "@id": "#zhwnz5",
+      "name": "Spread drinking, have alcohol-free days",
+      "x": -35,
+      "y": 423,
+      "parent": "#shnajw"
+    },
+    {
+      "@id": "#jw9equ",
+      "name": "Never drink and drive",
+      "x": -214,
+      "y": 474,
+      "parent": "#shnajw"
+    },
+    {
+      "@id": "#nie4ek",
+      "name": "Avoid alcohol in pregnancy",
+      "x": -260,
+      "y": 294,
+      "parent": "#shnajw"
+    },
+    {
+      "@id": "#myrwgz",
+      "name": "Law and society",
+      "x": -211,
+      "y": 73,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xyfpbc",
+      "name": "Minimum legal drinking ages vary",
+      "x": -349,
+      "y": 227,
+      "parent": "#myrwgz"
+    },
+    {
+      "@id": "#yyj4fe",
+      "name": "US banned alcohol 1920 to 1933",
+      "x": -413,
+      "y": 143,
+      "parent": "#myrwgz"
+    },
+    {
+      "@id": "#y4hin3",
+      "name": "Prohibited in some Muslim-majority countries",
+      "x": -526,
+      "y": 57,
+      "parent": "#myrwgz"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 15,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    },
+    {
+      "start": 26,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

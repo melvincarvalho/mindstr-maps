@@ -1,0 +1,29 @@
+category: People
+aliases: lady murasaki, author of the tale of genji
+- Murasaki Shikibu
+  - Heian Japan, about 973 to 1014
+    - [Court culture of the Heian period](https://en.wikipedia.org/wiki/Heian_period)
+    - Lived in the capital, Heian-kyō (Kyoto)
+    - Real name unknown; "Murasaki" is a nickname
+  - Early life
+    - Daughter of scholar Fujiwara no Tametoki
+    - Learned Chinese classics, unusual for women
+    - Married Fujiwara no Nobutaka; widowed young
+    - Daughter Daini no Sanmi, also a poet
+  - Lady-in-waiting at court
+    - Served Empress Shōshi from about 1005
+    - [Shōshi's father: regent Fujiwara no Michinaga](https://en.wikipedia.org/wiki/Fujiwara_no_Michinaga)
+    - [Rival writer Sei Shōnagon](https://en.wikipedia.org/wiki/Sei_Sh%C5%8Dnagon)
+  - [The Tale of Genji](https://en.wikipedia.org/wiki/The_Tale_of_Genji)
+    - 54 chapters about Prince Genji's loves
+    - Last chapters follow his heirs at Uji
+    - Written in kana, Japanese vernacular script
+    - Mono no aware: beauty of passing things
+  - Other writings
+    - [The Diary of Lady Murasaki](https://en.wikipedia.org/wiki/The_Diary_of_Lady_Murasaki)
+    - A collection of her waka poems
+  - Legacy
+    - Often called the world's first novel
+    - 12th-century illustrated Genji scrolls
+    - Translated by Arthur Waley, 1925–1933
+    - Pictured on Japan's 2,000-yen note

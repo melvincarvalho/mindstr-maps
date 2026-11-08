@@ -1,0 +1,30 @@
+category: Science
+aliases: science of sleep, why do we sleep, sleep cycle, sleep stages
+- Sleep
+  - What sleep is
+    - Reduced awareness, quickly reversible
+    - Found in nearly all animals studied
+    - Adults spend about a third asleep
+  - Sleep stages
+    - [Non-REM: light sleep to deep sleep](https://en.wikipedia.org/wiki/Non-rapid_eye_movement_sleep)
+    - Deep slow-wave sleep dominates early night
+    - [REM sleep: vivid dreams, relaxed muscles](https://en.wikipedia.org/wiki/Rapid_eye_movement_sleep)
+    - Cycles last about 90 minutes
+  - What controls it
+    - [Circadian clock tracks a 24-hour day](https://en.wikipedia.org/wiki/Circadian_rhythm)
+    - Sleep pressure builds as adenosine accumulates
+    - Melatonin rises in darkness
+    - Caffeine blocks adenosine receptors
+  - Why we sleep
+    - Consolidates memories and learning
+    - Brain may clear waste products
+    - Supports immune function and repair
+  - How much
+    - Newborns about 14 to 17 hours
+    - Adults need about 7 to 9 hours
+    - Teenagers' body clocks shift later
+  - Sleep disorders
+    - [Insomnia: trouble falling or staying asleep](https://en.wikipedia.org/wiki/Insomnia)
+    - [Sleep apnoea: breathing repeatedly pauses](https://en.wikipedia.org/wiki/Sleep_apnea)
+    - Narcolepsy: sudden daytime sleep attacks
+    - Chronic short sleep raises health risks

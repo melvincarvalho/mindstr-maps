@@ -1,0 +1,29 @@
+category: Technology
+aliases: satellites, artificial satellite, how satellites work, satellite orbits
+- Satellite
+  - Falling around the Earth
+    - Moving sideways fast enough to keep missing
+    - Higher orbits travel more slowly
+    - Thin air slowly drags low ones down
+  - Kinds of orbit
+    - Low Earth orbit: a few hundred km
+    - [Geostationary: fixed over one spot](https://en.wikipedia.org/wiki/Geostationary_orbit)
+    - Polar orbits scan the whole planet
+  - History
+    - [Sputnik 1, first satellite, 1957](https://en.wikipedia.org/wiki/Sputnik_1)
+    - Telstar relays live TV, 1962
+    - Thousands now orbit the Earth
+  - What satellites do
+    - Communications, TV and internet
+    - [GPS satellites tell you where you are](https://en.wikipedia.org/wiki/Global_Positioning_System)
+    - Weather forecasting from space
+    - Earth observation and mapping
+    - Space telescopes like Hubble
+  - Inside a satellite
+    - Solar panels and batteries for power
+    - Antennas talk to ground stations
+    - Small thrusters keep it in position
+  - Problems in orbit
+    - Megaconstellations like Starlink crowd orbits
+    - [Space debris threatens collisions](https://en.wikipedia.org/wiki/Space_debris)
+    - Dead satellites burn up or retire

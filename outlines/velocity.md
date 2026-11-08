@@ -1,0 +1,28 @@
+category: Science
+aliases: what is velocity, speed and velocity, velocity in physics
+- Velocity
+  - Speed with a direction
+    - 50 km/h north is a velocity
+    - [Speed alone is a scalar](https://en.wikipedia.org/wiki/Speed)
+    - [Velocity is a vector](https://en.wikipedia.org/wiki/Euclidean_vector)
+  - Calculating it
+    - Displacement divided by time
+    - Measured in metres per second
+    - Average versus instantaneous velocity
+    - Slope of a position–time graph
+  - Changing velocity
+    - [Acceleration is change in velocity](https://en.wikipedia.org/wiki/Acceleration)
+    - Turning at steady speed still accelerates
+    - Braking means acceleration against motion
+  - Velocity is relative
+    - Depends on the observer's frame
+    - Walking on a train adds the speeds
+    - Light's speed is the same for everyone
+  - Famous velocities
+    - Light: about 300,000 km per second
+    - [Escape velocity from Earth: 11.2 km/s](https://en.wikipedia.org/wiki/Escape_velocity)
+    - Sound in air: about 343 m/s
+    - Earth orbits the Sun at 30 km/s
+  - [Momentum: mass times velocity](https://en.wikipedia.org/wiki/Momentum)
+    - Conserved in collisions
+    - Heavy, fast objects are hardest to stop

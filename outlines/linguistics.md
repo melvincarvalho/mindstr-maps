@@ -1,0 +1,30 @@
+category: Society
+aliases: study of language, language science, what is linguistics
+- Linguistics
+  - The scientific study of language
+    - Describes how people actually speak
+    - Descriptive, not prescriptive
+    - Covers spoken, written and signed languages
+  - Core levels of structure
+    - [Phonetics: how speech sounds are made](https://en.wikipedia.org/wiki/Phonetics)
+    - Phonology: sound patterns of a language
+    - Morphology: how words are built
+    - Syntax: how sentences are built
+    - Semantics and pragmatics: meaning in context
+  - Wider fields
+    - [Historical: how languages change and split](https://en.wikipedia.org/wiki/Historical_linguistics)
+    - [Sociolinguistics: dialect, class and identity](https://en.wikipedia.org/wiki/Sociolinguistics)
+    - Psycholinguistics: language in the mind
+    - Computational: language and computers
+  - Languages of the world
+    - About 7,000 living languages
+    - [Indo-European has the most speakers](https://en.wikipedia.org/wiki/Indo-European_languages)
+    - Roughly 40% are endangered
+  - Key ideas and thinkers
+    - Saussure: the sign is arbitrary
+    - Chomsky: an innate universal grammar
+    - Every dialect has consistent rules
+  - Tools of the trade
+    - [IPA writes any speech sound](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet)
+    - Fieldwork with native speakers
+    - Large text corpora and statistics

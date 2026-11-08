@@ -1,0 +1,352 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Vincent van Gogh",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#p5jwju",
+      "name": "Who he was",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ui6iur",
+      "name": "Dutch painter, born 1853 in Zundert",
+      "x": -465,
+      "y": -56,
+      "parent": "#p5jwju"
+    },
+    {
+      "@id": "#5u7rjh",
+      "name": "Died 1890 in France, aged 37",
+      "x": -405,
+      "y": -156,
+      "parent": "#p5jwju"
+    },
+    {
+      "@id": "#wve6c3",
+      "name": "Painted for only about ten years",
+      "x": -330,
+      "y": -245,
+      "parent": "#p5jwju"
+    },
+    {
+      "@id": "#f995zc",
+      "name": "Before painting",
+      "x": -51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hzht8d",
+      "name": "Worked for art dealers Goupil & Cie",
+      "x": -225,
+      "y": -312,
+      "parent": "#f995zc"
+    },
+    {
+      "@id": "#j3bhyv",
+      "name": "Tried teaching and preaching to miners",
+      "x": -104,
+      "y": -367,
+      "parent": "#f995zc"
+    },
+    {
+      "@id": "#kextr7",
+      "name": "Took up art seriously in 1880",
+      "x": 42,
+      "y": -423,
+      "parent": "#f995zc"
+    },
+    {
+      "@id": "#z3p6ij",
+      "name": "Stages of his art",
+      "x": 169,
+      "y": -125,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qk8x6i",
+      "name": "Dark Dutch period, peasants and labourers",
+      "x": 234,
+      "y": -485,
+      "parent": "#z3p6ij"
+    },
+    {
+      "@id": "#vweeyt",
+      "name": "The Potato Eaters, 1885",
+      "x": 266,
+      "y": -544,
+      "link": "https://en.wikipedia.org/wiki/The_Potato_Eaters",
+      "parent": "#qk8x6i"
+    },
+    {
+      "@id": "#3ui5ef",
+      "name": "Paris 1886–88: brighter colour, Impressionist influence",
+      "x": 281,
+      "y": -281,
+      "parent": "#z3p6ij"
+    },
+    {
+      "@id": "#knta7i",
+      "name": "Arles 1888: sunflowers and yellow house",
+      "x": 372,
+      "y": -203,
+      "parent": "#z3p6ij"
+    },
+    {
+      "@id": "#3iyaqi",
+      "name": "Saint-Rémy asylum 1889: swirling skies",
+      "x": 468,
+      "y": -116,
+      "parent": "#z3p6ij"
+    },
+    {
+      "@id": "#i6evr9",
+      "name": "The Starry Night, 1889",
+      "x": 716,
+      "y": -178,
+      "link": "https://en.wikipedia.org/wiki/The_Starry_Night",
+      "parent": "#3iyaqi"
+    },
+    {
+      "@id": "#cswxtd",
+      "name": "Struggles",
+      "x": 207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#azdr4m",
+      "name": "Severe mental illness, cause still debated",
+      "x": 450,
+      "y": 0,
+      "parent": "#cswxtd"
+    },
+    {
+      "@id": "#3uie8t",
+      "name": "Cut off part of his ear, 1888",
+      "x": 449,
+      "y": 111,
+      "parent": "#cswxtd"
+    },
+    {
+      "@id": "#hzb9wj",
+      "name": "Quarrel with Paul Gauguin in Arles",
+      "x": 372,
+      "y": 203,
+      "parent": "#cswxtd"
+    },
+    {
+      "@id": "#pyrf9k",
+      "name": "Died from a gunshot wound, Auvers-sur-Oise",
+      "x": 281,
+      "y": 281,
+      "parent": "#cswxtd"
+    },
+    {
+      "@id": "#bkqg9g",
+      "name": "Brother Theo supported him",
+      "x": 17,
+      "y": 183,
+      "link": "https://en.wikipedia.org/wiki/Theo_van_Gogh_%28art_dealer%29",
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3awnn3",
+      "name": "Sent money throughout his career",
+      "x": 164,
+      "y": 335,
+      "parent": "#bkqg9g"
+    },
+    {
+      "@id": "#49zu67",
+      "name": "Hundreds of surviving letters between them",
+      "x": 38,
+      "y": 391,
+      "parent": "#bkqg9g"
+    },
+    {
+      "@id": "#n693ey",
+      "name": "Theo's widow Jo promoted his work",
+      "x": -124,
+      "y": 447,
+      "parent": "#bkqg9g"
+    },
+    {
+      "@id": "#cqt784",
+      "name": "Legacy",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#97fkke",
+      "name": "About 2,100 artworks, 860 oil paintings",
+      "x": -225,
+      "y": 312,
+      "parent": "#cqt784"
+    },
+    {
+      "@id": "#i4c7mm",
+      "name": "Sold very little in his lifetime",
+      "x": -330,
+      "y": 245,
+      "parent": "#cqt784"
+    },
+    {
+      "@id": "#zxzbtt",
+      "name": "Pioneer of Post-Impressionism and Expressionism",
+      "x": -405,
+      "y": 156,
+      "link": "https://en.wikipedia.org/wiki/Post-Impressionism",
+      "parent": "#cqt784"
+    },
+    {
+      "@id": "#77dkb7",
+      "name": "Van Gogh Museum, Amsterdam, opened 1973",
+      "x": -445,
+      "y": 54,
+      "parent": "#cqt784"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 9,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    },
+    {
+      "start": 25,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

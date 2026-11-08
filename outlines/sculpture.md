@@ -1,0 +1,30 @@
+category: Arts and culture
+aliases: sculptures, history of sculpture, sculptors, statues
+- Sculpture
+  - What sculpture is
+    - Three-dimensional art occupying space
+    - Freestanding in the round, or relief
+  - Techniques
+    - Carving away stone or wood
+    - Modelling in clay or wax
+    - [Casting bronze by the lost-wax method](https://en.wikipedia.org/wiki/Lost-wax_casting)
+    - Assembling found objects and metal
+  - Ancient sculpture
+    - [Venus of Willendorf, Ice Age figurine](https://en.wikipedia.org/wiki/Venus_of_Willendorf)
+    - Egyptian statues of pharaohs and gods
+    - Greeks perfect the idealised human body
+    - [China's Terracotta Army, thousands of soldiers](https://en.wikipedia.org/wiki/Terracotta_Army)
+  - Renaissance and Baroque
+    - Donatello's bronze David
+    - [Michelangelo's marble David, 1501–1504](https://en.wikipedia.org/wiki/David_%28Michelangelo%29)
+    - Bernini's marble seems to move
+  - Modern sculpture
+    - [Rodin's The Thinker](https://en.wikipedia.org/wiki/The_Thinker)
+    - Brâncuși simplifies to pure forms
+    - Henry Moore's reclining figures
+    - Giacometti's thin walking figures
+    - Louise Bourgeois's giant spider Maman
+  - Sculpture today
+    - Installation and land art
+    - Public works like Chicago's Cloud Gate
+    - 3D printing and digital sculpting

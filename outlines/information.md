@@ -1,0 +1,30 @@
+category: Society
+aliases: what is information, information theory basics, data and information
+- Information
+  - What it is
+    - Reduces uncertainty about something
+    - Data given meaning and context
+    - Data, information, knowledge, wisdom
+  - Measuring information
+    - [Shannon founded information theory, 1948](https://en.wikipedia.org/wiki/Information_theory)
+    - [The bit: one yes-or-no choice](https://en.wikipedia.org/wiki/Bit)
+    - A byte is eight bits
+    - Entropy measures surprise in a message
+  - How it is stored
+    - DNA stores genetic information
+    - Writing, books and libraries
+    - Digital files on disks and servers
+    - Compression removes redundancy
+  - How it moves
+    - Signals sent through a channel
+    - Error correction fixes transmission noise
+    - The internet links billions of devices
+  - Information in society
+    - [The Information Age since computers](https://en.wikipedia.org/wiki/Information_Age)
+    - Libraries and archives preserve records
+    - Privacy controls who sees personal data
+    - [Misinformation spreads false claims](https://en.wikipedia.org/wiki/Misinformation)
+  - Judging information
+    - Check the source and author
+    - Compare several independent sources
+    - Separate facts from opinion

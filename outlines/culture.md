@@ -1,0 +1,29 @@
+category: Society
+aliases: human culture, definition of culture, what is culture
+- Culture
+  - What culture means
+    - Shared beliefs, values and practices
+    - Learned, not inherited genetically
+    - Passed between generations by teaching
+  - Core elements
+    - [Language carries meaning and identity](https://en.wikipedia.org/wiki/Language)
+    - Religion and belief systems
+    - Customs, rituals and etiquette
+    - Arts, music and literature
+    - Food, dress and everyday objects
+  - How culture spreads and changes
+    - [Diffusion through trade and migration](https://en.wikipedia.org/wiki/Cultural_diffusion)
+    - Technology and media speed change
+    - Globalization blends local traditions
+  - Levels of culture
+    - National and ethnic cultures
+    - Subcultures within a society
+    - Organizational culture in workplaces
+  - Studying culture
+    - [Anthropology studies human cultures](https://en.wikipedia.org/wiki/Anthropology)
+    - [Cultural relativism: judge on own terms](https://en.wikipedia.org/wiki/Cultural_relativism)
+    - Ethnocentrism judges others by own norms
+  - Culture and identity
+    - Shapes how people see the world
+    - Culture shock in unfamiliar settings
+    - [UNESCO lists intangible cultural heritage](https://en.wikipedia.org/wiki/Intangible_cultural_heritage)

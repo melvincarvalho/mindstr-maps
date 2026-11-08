@@ -1,0 +1,30 @@
+category: Science
+aliases: arthropods, arthropoda, jointed-leg animals
+- Arthropod
+  - What makes them distinct
+    - Hard outer skeleton of chitin
+    - Jointed legs and segmented bodies
+    - [Moult to grow bigger](https://en.wikipedia.org/wiki/Ecdysis)
+    - Compound eyes in many groups
+  - Size and diversity
+    - Over 80% of known animal species
+    - More than 1 million species described
+    - Fairyflies to Japanese spider crabs
+  - Main groups
+    - [Insects: beetles, ants, butterflies](https://en.wikipedia.org/wiki/Insect)
+    - [Arachnids: spiders, scorpions, ticks](https://en.wikipedia.org/wiki/Arachnid)
+    - Crustaceans: crabs, shrimp, woodlice
+    - Myriapods: centipedes and millipedes
+  - History
+    - [Trilobites thrived for 270 million years](https://en.wikipedia.org/wiki/Trilobite)
+    - Among first animals to walk on land
+    - Giant sea scorpions grew over 2 metres
+  - Role in ecosystems
+    - Pollinate most flowering plants
+    - Food for birds, fish and bats
+    - Break down dead plants and animals
+  - Arthropods and people
+    - Shrimp, crabs and lobsters as seafood
+    - Mosquitoes and ticks spread disease
+    - Crop pests like locusts and aphids
+    - Silk, honey and dye producers

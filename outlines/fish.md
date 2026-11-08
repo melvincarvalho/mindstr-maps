@@ -1,0 +1,30 @@
+category: Science
+aliases: fishes, fish biology, types of fish
+- Fish
+  - What makes a fish
+    - Cold-blooded vertebrates living in water
+    - [Gills take oxygen from water](https://en.wikipedia.org/wiki/Gill)
+    - Fins for swimming and steering
+    - Over 35,000 species, half of all vertebrates
+  - Main groups
+    - Jawless fish: lampreys and hagfish
+    - [Cartilaginous: sharks and rays](https://en.wikipedia.org/wiki/Chondrichthyes)
+    - [Bony fish: nearly all other species](https://en.wikipedia.org/wiki/Osteichthyes)
+  - Body and senses
+    - Scales protect the skin
+    - [Swim bladder controls buoyancy](https://en.wikipedia.org/wiki/Swim_bladder)
+    - Lateral line senses movement in water
+    - Most lay eggs; some bear live young
+  - Behaviour
+    - Schools confuse predators
+    - Salmon swim upriver to spawn
+    - Some build nests or guard young
+  - History
+    - First vertebrates, over 500 million years ago
+    - Lobe-finned fish gave rise to land animals
+  - Fish and people
+    - Major protein source for billions
+    - [Overfishing has collapsed some stocks](https://en.wikipedia.org/wiki/Overfishing)
+    - Fish farming now supplies about half
+    - Goldfish domesticated in China centuries ago
+    - Aquariums need filtered, cycled water

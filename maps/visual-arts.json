@@ -1,0 +1,351 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Visual arts",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ekyzr5",
+      "name": "The main media",
+      "x": -178,
+      "y": -116,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2zna5s",
+      "name": "Painting in oil, acrylic, watercolour",
+      "x": -446,
+      "y": -49,
+      "link": "https://en.wikipedia.org/wiki/Painting",
+      "parent": "#ekyzr5"
+    },
+    {
+      "@id": "#itse3c",
+      "name": "Drawing and printmaking",
+      "x": -413,
+      "y": -143,
+      "parent": "#ekyzr5"
+    },
+    {
+      "@id": "#dcgazg",
+      "name": "Sculpture in stone, metal, clay",
+      "x": -349,
+      "y": -227,
+      "parent": "#ekyzr5"
+    },
+    {
+      "@id": "#xf3wve",
+      "name": "Photography and film",
+      "x": -260,
+      "y": -294,
+      "parent": "#ekyzr5"
+    },
+    {
+      "@id": "#mk7phj",
+      "name": "Digital art and installation",
+      "x": -158,
+      "y": -354,
+      "parent": "#ekyzr5"
+    },
+    {
+      "@id": "#5dx2jm",
+      "name": "Elements of art",
+      "x": 47,
+      "y": -180,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#iebj2e",
+      "name": "Line, shape and form",
+      "x": -34,
+      "y": -407,
+      "parent": "#5dx2jm"
+    },
+    {
+      "@id": "#kxuvkv",
+      "name": "Colour, value and texture",
+      "x": 120,
+      "y": -464,
+      "parent": "#5dx2jm"
+    },
+    {
+      "@id": "#78ucc6",
+      "name": "Space and composition",
+      "x": 207,
+      "y": -320,
+      "parent": "#5dx2jm"
+    },
+    {
+      "@id": "#uk3xy8",
+      "name": "A short history",
+      "x": 228,
+      "y": -25,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#chgsxk",
+      "name": "Cave paintings over 40,000 years old",
+      "x": 307,
+      "y": -263,
+      "parent": "#uk3xy8"
+    },
+    {
+      "@id": "#wweuz8",
+      "name": "Classical Greek and Roman sculpture",
+      "x": 384,
+      "y": -187,
+      "parent": "#uk3xy8"
+    },
+    {
+      "@id": "#8zjyy9",
+      "name": "Renaissance perspective and realism",
+      "x": 433,
+      "y": -97,
+      "link": "https://en.wikipedia.org/wiki/Renaissance_art",
+      "parent": "#uk3xy8"
+    },
+    {
+      "@id": "#ig6dhr",
+      "name": "Impressionism captures light, 1870s",
+      "x": 530,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Impressionism",
+      "parent": "#uk3xy8"
+    },
+    {
+      "@id": "#z83vdm",
+      "name": "Modern art: Cubism to abstraction",
+      "x": 433,
+      "y": 97,
+      "parent": "#uk3xy8"
+    },
+    {
+      "@id": "#78y9ik",
+      "name": "Contemporary and conceptual art",
+      "x": 384,
+      "y": 187,
+      "parent": "#uk3xy8"
+    },
+    {
+      "@id": "#hjsjbs",
+      "name": "Landmark works",
+      "x": 77,
+      "y": 173,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wtru3y",
+      "name": "Leonardo's Mona Lisa",
+      "x": 307,
+      "y": 263,
+      "parent": "#hjsjbs"
+    },
+    {
+      "@id": "#4gimce",
+      "name": "Michelangelo's Sistine Chapel ceiling",
+      "x": 207,
+      "y": 320,
+      "parent": "#hjsjbs"
+    },
+    {
+      "@id": "#49d58w",
+      "name": "Hokusai's The Great Wave",
+      "x": 96,
+      "y": 368,
+      "parent": "#hjsjbs"
+    },
+    {
+      "@id": "#scya5r",
+      "name": "Picasso's Guernica",
+      "x": -35,
+      "y": 423,
+      "parent": "#hjsjbs"
+    },
+    {
+      "@id": "#fjmjdx",
+      "name": "Where to see art",
+      "x": -133,
+      "y": 150,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6bjv8z",
+      "name": "Louvre, Met and British Museum",
+      "x": -214,
+      "y": 474,
+      "parent": "#fjmjdx"
+    },
+    {
+      "@id": "#igmmwm",
+      "name": "Galleries, biennales and art fairs",
+      "x": -260,
+      "y": 294,
+      "parent": "#fjmjdx"
+    },
+    {
+      "@id": "#wjh396",
+      "name": "Public murals and street art",
+      "x": -349,
+      "y": 227,
+      "parent": "#fjmjdx"
+    },
+    {
+      "@id": "#s324ie",
+      "name": "Looking at art",
+      "x": -221,
+      "y": 50,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b2rgp2",
+      "name": "Notice what you see first",
+      "x": -413,
+      "y": 143,
+      "parent": "#s324ie"
+    },
+    {
+      "@id": "#hjd288",
+      "name": "Ask who made it, and why",
+      "x": -466,
+      "y": 51,
+      "parent": "#s324ie"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 11,
+      "end": 16
+    },
+    {
+      "start": 11,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 0,
+      "end": 27
+    },
+    {
+      "start": 27,
+      "end": 28
+    },
+    {
+      "start": 27,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

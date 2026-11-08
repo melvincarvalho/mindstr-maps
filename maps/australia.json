@@ -1,0 +1,375 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Australia",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#j4vd5k",
+      "name": "Geography",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#83b436",
+      "name": "Only country covering a whole continent",
+      "x": -446,
+      "y": -45,
+      "parent": "#j4vd5k"
+    },
+    {
+      "@id": "#reyzzt",
+      "name": "Mostly arid outback interior",
+      "x": -418,
+      "y": -133,
+      "parent": "#j4vd5k"
+    },
+    {
+      "@id": "#4jseve",
+      "name": "Great Barrier Reef off Queensland",
+      "x": -364,
+      "y": -212,
+      "link": "https://en.wikipedia.org/wiki/Great_Barrier_Reef",
+      "parent": "#j4vd5k"
+    },
+    {
+      "@id": "#wd4gei",
+      "name": "Kangaroos, koalas and platypus found here",
+      "x": -287,
+      "y": -277,
+      "parent": "#j4vd5k"
+    },
+    {
+      "@id": "#gkkmgy",
+      "name": "Uluru, sacred sandstone monolith",
+      "x": -192,
+      "y": -326,
+      "link": "https://en.wikipedia.org/wiki/Uluru",
+      "parent": "#j4vd5k"
+    },
+    {
+      "@id": "#u44fz6",
+      "name": "People and languages",
+      "x": 71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vvb8jc",
+      "name": "About 27 million people",
+      "x": -92,
+      "y": -386,
+      "parent": "#u44fz6"
+    },
+    {
+      "@id": "#7r3h4h",
+      "name": "Most live on east and southeast coasts",
+      "x": 33,
+      "y": -439,
+      "parent": "#u44fz6"
+    },
+    {
+      "@id": "#qmcctc",
+      "name": "Sydney and Melbourne largest cities",
+      "x": 199,
+      "y": -492,
+      "parent": "#u44fz6"
+    },
+    {
+      "@id": "#us7d76",
+      "name": "English main language; many migrant languages",
+      "x": 241,
+      "y": -304,
+      "parent": "#u44fz6"
+    },
+    {
+      "@id": "#xyd9ew",
+      "name": "About 30% born overseas",
+      "x": 328,
+      "y": -246,
+      "parent": "#u44fz6"
+    },
+    {
+      "@id": "#d4ita7",
+      "name": "History",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vem27k",
+      "name": "Aboriginal and Torres Strait Islander peoples",
+      "x": 430,
+      "y": -189,
+      "link": "https://en.wikipedia.org/wiki/Aboriginal_Australians",
+      "parent": "#d4ita7"
+    },
+    {
+      "@id": "#yyqam2",
+      "name": "Present for at least 50,000 years",
+      "x": 436,
+      "y": -90,
+      "parent": "#d4ita7"
+    },
+    {
+      "@id": "#j33czm",
+      "name": "British penal colony founded in 1788",
+      "x": 490,
+      "y": 0,
+      "parent": "#d4ita7"
+    },
+    {
+      "@id": "#eyuqfj",
+      "name": "Colonies federated in 1901",
+      "x": 436,
+      "y": 90,
+      "link": "https://en.wikipedia.org/wiki/Federation_of_Australia",
+      "parent": "#d4ita7"
+    },
+    {
+      "@id": "#6s2w2r",
+      "name": "Stolen Generations: children removed from families",
+      "x": 394,
+      "y": 173,
+      "link": "https://en.wikipedia.org/wiki/Stolen_Generations",
+      "parent": "#d4ita7"
+    },
+    {
+      "@id": "#t296qt",
+      "name": "Government",
+      "x": 134,
+      "y": 222,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xiu9ak",
+      "name": "Constitutional monarchy, parliamentary democracy",
+      "x": 373,
+      "y": 279,
+      "parent": "#t296qt"
+    },
+    {
+      "@id": "#96gsi9",
+      "name": "Six states and two mainland territories",
+      "x": 263,
+      "y": 332,
+      "parent": "#t296qt"
+    },
+    {
+      "@id": "#navq6f",
+      "name": "Capital is Canberra",
+      "x": 157,
+      "y": 387,
+      "parent": "#t296qt"
+    },
+    {
+      "@id": "#vakqct",
+      "name": "Voting is compulsory",
+      "x": 33,
+      "y": 439,
+      "parent": "#t296qt"
+    },
+    {
+      "@id": "#csya9s",
+      "name": "Economy",
+      "x": -123,
+      "y": 155,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wvbnuq",
+      "name": "Exports iron ore, coal and gas",
+      "x": -120,
+      "y": 498,
+      "parent": "#csya9s"
+    },
+    {
+      "@id": "#vkktuk",
+      "name": "China is the largest trading partner",
+      "x": -192,
+      "y": 326,
+      "parent": "#csya9s"
+    },
+    {
+      "@id": "#v7mpti",
+      "name": "Education and tourism earn abroad",
+      "x": -287,
+      "y": 277,
+      "parent": "#csya9s"
+    },
+    {
+      "@id": "#hnue42",
+      "name": "Currency is the Australian dollar",
+      "x": -364,
+      "y": 212,
+      "parent": "#csya9s"
+    },
+    {
+      "@id": "#n4ikvy",
+      "name": "Culture",
+      "x": -223,
+      "y": 46,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9grfiy",
+      "name": "Cricket, rugby and Australian rules football",
+      "x": -418,
+      "y": 133,
+      "parent": "#n4ikvy"
+    },
+    {
+      "@id": "#3t3kbj",
+      "name": "Sydney Opera House opened 1973",
+      "x": -446,
+      "y": 45,
+      "parent": "#n4ikvy"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 7,
+      "end": 11
+    },
+    {
+      "start": 7,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 13,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    },
+    {
+      "start": 0,
+      "end": 29
+    },
+    {
+      "start": 29,
+      "end": 30
+    },
+    {
+      "start": 29,
+      "end": 31
+    }
+  ],
+  "selectedNode": 0
+}

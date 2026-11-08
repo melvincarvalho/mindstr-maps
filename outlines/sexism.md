@@ -1,0 +1,30 @@
+category: Society
+aliases: gender discrimination, sex discrimination, gender bias
+- Sexism
+  - What it is
+    - Prejudice or discrimination based on sex
+    - Mostly affects women and girls
+    - Rooted in gender stereotypes
+  - Forms
+    - Hostile sexism: open contempt
+    - Benevolent sexism: protective but limiting
+    - [Sexual harassment](https://en.wikipedia.org/wiki/Sexual_harassment)
+    - Unequal rules and institutions
+  - History
+    - Women long denied property and voting rights
+    - [Women's suffrage won in 20th century](https://en.wikipedia.org/wiki/Women%27s_suffrage)
+    - [Feminism campaigned for equal rights](https://en.wikipedia.org/wiki/Feminism)
+    - UN CEDAW women's rights treaty, 1979
+  - Work and money
+    - [Gender pay gap persists worldwide](https://en.wikipedia.org/wiki/Gender_pay_gap)
+    - Few women in top leadership roles
+    - Motherhood penalty in pay and promotion
+    - Unpaid care falls mostly on women
+  - Wider effects
+    - Girls' schooling limited in some countries
+    - Violence against women and girls
+    - Men face stereotypes about caring roles
+  - Responses
+    - Equal pay and anti-discrimination laws
+    - Pay gap reporting by employers
+    - Challenging stereotypes in education and media

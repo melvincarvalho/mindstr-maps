@@ -1,0 +1,28 @@
+category: Philosophy and religion
+aliases: what is belief, ethics of belief, why we believe things
+- Belief
+  - What a belief is
+    - Taking something to be true
+    - Guides action: rain forecast, take umbrella
+    - Held even when not thinking of it
+    - Comes in degrees of confidence
+  - Belief versus knowledge
+    - Beliefs can be false; knowledge cannot
+    - Knowledge also needs good justification
+  - How beliefs form
+    - Perception, testimony and inference
+    - [Confirmation bias favours existing views](https://en.wikipedia.org/wiki/Confirmation_bias)
+    - Motivated reasoning: believing what comforts
+    - Friends and groups shape shared beliefs
+  - Ethics of belief
+    - [Clifford: believe only on sufficient evidence](https://en.wikipedia.org/wiki/W._K._Clifford)
+    - William James: "The Will to Believe"
+    - [Pascal's wager on believing in God](https://en.wikipedia.org/wiki/Pascal%27s_wager)
+  - Degrees of belief
+    - [Bayesian probability: belief as credence](https://en.wikipedia.org/wiki/Bayesian_probability)
+    - Update as new evidence arrives
+    - Calibration: 70% sure, right 70%
+  - Faith and worldviews
+    - Faith: trust beyond proof
+    - Worldviews link many beliefs together
+    - Changing deep beliefs is hard

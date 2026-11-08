@@ -1,0 +1,28 @@
+category: Mathematics
+aliases: pi number, 3.14159, value of pi
+- Pi
+  - What pi is
+    - Circumference divided by diameter
+    - Same for every circle
+    - About 3.14159, never repeating
+  - Using pi in circles
+    - Circumference is π times diameter
+    - Area is π times radius squared
+    - Sphere volume is 4/3 πr³
+  - Its strange nature
+    - [Irrational: proved by Lambert, 1761](https://en.wikipedia.org/wiki/Proof_that_%CF%80_is_irrational)
+    - [Transcendental: Lindemann, 1882](https://en.wikipedia.org/wiki/Lindemann%E2%80%93Weierstrass_theorem)
+    - [So squaring the circle is impossible](https://en.wikipedia.org/wiki/Squaring_the_circle)
+  - Ancient estimates
+    - Babylonians used about 3⅛
+    - [Archimedes trapped it with polygons](https://en.wikipedia.org/wiki/Archimedes)
+    - Zu Chongzhi's 355/113, 5th century
+  - Modern calculation
+    - Infinite series replaced polygons
+    - Symbol π popularised by Euler
+    - Computers reach trillions of digits
+    - About 40 digits suffice for the universe
+  - Beyond geometry
+    - Waves, pendulums and oscillations
+    - Appears in the bell curve
+    - Pi Day is 14 March

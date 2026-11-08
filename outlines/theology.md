@@ -1,0 +1,33 @@
+category: Philosophy and religion
+aliases: study of god, what is theology
+- Theology
+  - What theology is
+    - Systematic study of God and religion
+    - From Greek theos (god) and logos
+    - Usually reasoned from within a faith
+  - Main branches
+    - [Systematic theology: doctrines as a whole](https://en.wikipedia.org/wiki/Systematic_theology)
+    - Biblical and scriptural studies
+    - Historical theology traces doctrines
+    - Practical theology: ministry and worship
+    - Moral theology and ethics
+  - Methods and sources
+    - [Interpreting scripture (hermeneutics)](https://en.wikipedia.org/wiki/Hermeneutics)
+    - Tradition and earlier teachers
+    - Reason and philosophy
+    - Religious experience
+  - Theology across faiths
+    - [Kalam: Islamic rational theology](https://en.wikipedia.org/wiki/Kalam)
+    - Jewish thought from Talmud to Maimonides
+    - Hindu schools such as Vedanta
+    - Buddhist doctrine, without a creator God
+  - Key figures
+    - [Augustine of Hippo, 4th–5th century](https://en.wikipedia.org/wiki/Augustine_of_Hippo)
+    - [Thomas Aquinas joined faith and Aristotle](https://en.wikipedia.org/wiki/Thomas_Aquinas)
+    - Al-Ghazali in 11th-century Islam
+    - Martin Luther and the Reformation
+    - Karl Barth in the 20th century
+  - Today
+    - Taught in universities and seminaries
+    - Distinct from neutral religious studies
+    - Dialogue with science and other faiths

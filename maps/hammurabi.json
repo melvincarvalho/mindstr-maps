@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Hammurabi",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#sfhrfj",
+      "name": "Who he was",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dnpns5",
+      "name": "Sixth king of Babylon's first dynasty",
+      "x": -485,
+      "y": -58,
+      "parent": "#sfhrfj"
+    },
+    {
+      "@id": "#uujeh7",
+      "name": "Reigned about 1792 to 1750 BC",
+      "x": -405,
+      "y": -156,
+      "parent": "#sfhrfj"
+    },
+    {
+      "@id": "#cxhiwg",
+      "name": "An Amorite ruler in Mesopotamia",
+      "x": -330,
+      "y": -245,
+      "parent": "#sfhrfj"
+    },
+    {
+      "@id": "#x5pgpr",
+      "name": "Building an empire",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gmkint",
+      "name": "Inherited a small city-state",
+      "x": -225,
+      "y": -312,
+      "parent": "#x5pgpr"
+    },
+    {
+      "@id": "#7thtu9",
+      "name": "Defeated Rim-Sin of Larsa about 1763 BC",
+      "x": -104,
+      "y": -367,
+      "parent": "#x5pgpr"
+    },
+    {
+      "@id": "#7s93uz",
+      "name": "Conquered the rich city of Mari",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Mari,_Syria",
+      "parent": "#x5pgpr"
+    },
+    {
+      "@id": "#qw7piw",
+      "name": "Ruled most of Mesopotamia by his death",
+      "x": 234,
+      "y": -485,
+      "parent": "#x5pgpr"
+    },
+    {
+      "@id": "#6wbypt",
+      "name": "Running the kingdom",
+      "x": 190,
+      "y": -104,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#78d34r",
+      "name": "Dug and repaired irrigation canals",
+      "x": 281,
+      "y": -281,
+      "parent": "#6wbypt"
+    },
+    {
+      "@id": "#pphtff",
+      "name": "Clay letters show hands-on government",
+      "x": 372,
+      "y": -203,
+      "parent": "#6wbypt"
+    },
+    {
+      "@id": "#cavbd5",
+      "name": "Raised Marduk as Babylon's chief god",
+      "x": 506,
+      "y": -126,
+      "parent": "#6wbypt"
+    },
+    {
+      "@id": "#b359qg",
+      "name": "The Code of Hammurabi",
+      "x": 190,
+      "y": 104,
+      "link": "https://en.wikipedia.org/wiki/Code_of_Hammurabi",
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rnmr5z",
+      "name": "About 282 laws on a basalt stele",
+      "x": 450,
+      "y": 0,
+      "parent": "#b359qg"
+    },
+    {
+      "@id": "#bm5fgv",
+      "name": "Written in Akkadian cuneiform",
+      "x": 487,
+      "y": 121,
+      "parent": "#b359qg"
+    },
+    {
+      "@id": "#ucrzb9",
+      "name": "Covers trade, family, property, wages",
+      "x": 372,
+      "y": 203,
+      "parent": "#b359qg"
+    },
+    {
+      "@id": "#ndhfct",
+      "name": "Eye for an eye punishments",
+      "x": 281,
+      "y": 281,
+      "link": "https://en.wikipedia.org/wiki/Eye_for_an_eye",
+      "parent": "#b359qg"
+    },
+    {
+      "@id": "#ebxek8",
+      "name": "Penalties depended on social class",
+      "x": 164,
+      "y": 335,
+      "parent": "#b359qg"
+    },
+    {
+      "@id": "#wpfuqd",
+      "name": "Rediscovery",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#adiuhq",
+      "name": "Stele found at Susa in 1901",
+      "x": 38,
+      "y": 391,
+      "parent": "#wpfuqd"
+    },
+    {
+      "@id": "#zxarht",
+      "name": "Now displayed in the Louvre, Paris",
+      "x": -124,
+      "y": 447,
+      "parent": "#wpfuqd"
+    },
+    {
+      "@id": "#k4uj3n",
+      "name": "Legacy",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aerznr",
+      "name": "Made Babylon a leading Mesopotamian city",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wikipedia.org/wiki/Babylon",
+      "parent": "#k4uj3n"
+    },
+    {
+      "@id": "#hrigee",
+      "name": "Among the earliest well-preserved law codes",
+      "x": -330,
+      "y": 245,
+      "parent": "#k4uj3n"
+    },
+    {
+      "@id": "#49d8bk",
+      "name": "Idea of publicly displayed laws",
+      "x": -405,
+      "y": 156,
+      "parent": "#k4uj3n"
+    },
+    {
+      "@id": "#witnm3",
+      "name": "Honoured among lawgivers in US Capitol",
+      "x": -445,
+      "y": 54,
+      "parent": "#k4uj3n"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 14,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,27 @@
+category: Science
+aliases: space in physics, physical space, space (physics)
+- Space
+  - What space is
+    - The room where things exist and move
+    - Measured as distance between objects
+    - Three dimensions: length, width, height
+  - Old ideas about space
+    - Greeks debated whether empty space exists
+    - [Newton: a fixed, absolute stage](https://en.wikipedia.org/wiki/Absolute_space_and_time)
+    - Leibniz: only relations between objects
+  - Measuring and mapping space
+    - [Euclid's geometry describes flat space](https://en.wikipedia.org/wiki/Euclidean_geometry)
+    - Coordinates pin down any point
+    - The metre is defined using light
+  - Space joins time
+    - [Einstein merged them into spacetime](https://en.wikipedia.org/wiki/Spacetime)
+    - Moving observers disagree on lengths
+    - Fast objects shrink along their motion
+  - Curved and stretching space
+    - Mass and energy curve spacetime
+    - Gravity is objects following curves
+    - [The universe's space is expanding](https://en.wikipedia.org/wiki/Expansion_of_the_universe)
+  - Open questions
+    - Is space infinite or finite?
+    - Extra hidden dimensions in string theory
+    - Is space made of tiny units?

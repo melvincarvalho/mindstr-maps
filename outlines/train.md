@@ -1,0 +1,30 @@
+category: Technology
+aliases: trains, railway, railroad, how trains work, history of railways
+- Train
+  - How trains work
+    - Steel wheels on steel rails, low friction
+    - Flanged wheels keep it on track
+    - Locomotive pulls or units power themselves
+    - Signals keep trains safely apart
+  - Power sources
+    - [Steam locomotives burned coal](https://en.wikipedia.org/wiki/Steam_locomotive)
+    - Diesel engines often drive electric motors
+    - Electric trains draw from overhead wires
+  - History
+    - [Stephenson's Rocket, 1829](https://en.wikipedia.org/wiki/Stephenson%27s_Rocket)
+    - 1830 Liverpool–Manchester, first intercity line
+    - 1869 US transcontinental railroad completed
+    - [1964 Japan's Shinkansen bullet train](https://en.wikipedia.org/wiki/Shinkansen)
+  - Kinds of train
+    - High-speed trains over 300 km/h
+    - Commuter and metro trains in cities
+    - Freight trains haul heavy bulk goods
+    - Trams and light rail on streets
+  - Why rail matters
+    - Moves many people with little energy
+    - Lower emissions than cars or planes
+    - Railways built towns and standard time
+  - Riding a train
+    - Book ahead for cheaper fares
+    - Check platform and departure boards
+    - [Maglev trains float on magnets](https://en.wikipedia.org/wiki/Maglev)

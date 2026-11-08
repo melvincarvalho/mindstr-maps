@@ -1,0 +1,34 @@
+category: Health
+aliases: what is cancer, cancer explained, malignant tumour, cancer symptoms
+- Cancer
+  - What it is
+    - Cells grow and divide uncontrollably
+    - Caused by DNA mutations
+    - [Malignant tumours invade nearby tissue](https://en.wikipedia.org/wiki/Neoplasm)
+    - [Metastasis spreads it around the body](https://en.wikipedia.org/wiki/Metastasis)
+  - Risk factors
+    - Smoking causes most lung cancers
+    - Alcohol, obesity and inactivity
+    - UV light from sun and sunbeds
+    - Ageing and inherited genes like BRCA
+  - Common types
+    - Breast, lung, bowel and prostate
+    - Skin cancer including melanoma
+    - Leukaemia and lymphoma in blood
+  - Warning signs to check
+    - Unexplained lump or swelling
+    - Unexplained weight loss or tiredness
+    - Changed bowel habits or bleeding
+    - New or changing mole
+  - Diagnosis
+    - Biopsy confirms cancer cells
+    - Scans show size and spread
+  - Treatment
+    - Surgery removes the tumour
+    - [Chemotherapy kills dividing cells](https://en.wikipedia.org/wiki/Chemotherapy)
+    - Radiotherapy targets the tumour
+    - Immunotherapy and targeted drugs
+  - Prevention and screening
+    - Don't smoke, limit alcohol
+    - HPV vaccine prevents cervical cancer
+    - [Screening finds cancer early](https://en.wikipedia.org/wiki/Cancer_screening)

@@ -1,0 +1,32 @@
+category: Science
+aliases: viruses, what is a virus, how viruses work
+- Virus
+  - What a virus is
+    - Genes wrapped in a protein coat
+    - Far smaller than bacteria
+    - Can only reproduce inside cells
+    - Debated whether they count as alive
+  - How infection works
+    - Attaches to receptors on host cells
+    - Hijacks the cell to copy itself
+    - New viruses burst or bud out
+    - [Mutations create new variants](https://en.wikipedia.org/wiki/Mutation)
+  - How they spread
+    - Airborne droplets and aerosols
+    - Touch, contaminated surfaces and food
+    - Blood, sex and mother to child
+    - Insect bites, like mosquitoes
+  - Viral diseases
+    - Common cold and influenza
+    - Measles, HIV and hepatitis
+    - [COVID-19 pandemic from 2020](https://en.wikipedia.org/wiki/COVID-19_pandemic)
+    - Some cause cancers, like HPV
+  - Defences
+    - [Vaccines train the immune system](https://en.wikipedia.org/wiki/Vaccine)
+    - Antibiotics don't work on viruses
+    - Antivirals treat some infections
+    - Handwashing, ventilation, staying home sick
+  - Discovery and uses
+    - Tobacco mosaic virus found in 1890s
+    - [Bacteriophages infect and kill bacteria](https://en.wikipedia.org/wiki/Bacteriophage)
+    - Modified viruses deliver gene therapy

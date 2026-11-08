@@ -1,0 +1,31 @@
+category: Society
+aliases: international diplomacy, diplomatic relations, what is diplomacy
+- Diplomacy
+  - What it is
+    - Managing relations between states peacefully
+    - Negotiation instead of force
+    - Run by foreign ministries and diplomats
+  - Who does it
+    - Ambassadors lead embassies abroad
+    - Consulates help citizens and visas
+    - Heads of government at summits
+    - Envoys and special representatives
+  - Tools
+    - Treaties and agreements
+    - Mediation between rivals
+    - Sanctions and incentives
+    - [Soft power: culture and aid](https://en.wikipedia.org/wiki/Soft_power)
+  - Rules and customs
+    - [Vienna Convention on Diplomatic Relations, 1961](https://en.wikipedia.org/wiki/Vienna_Convention_on_Diplomatic_Relations)
+    - [Diplomatic immunity protects envoys](https://en.wikipedia.org/wiki/Diplomatic_immunity)
+    - Expelling diplomats signals displeasure
+    - Protocol governs ceremony and rank
+  - History
+    - Amarna letters of ancient Egypt
+    - Renaissance Italy's permanent embassies
+    - [Congress of Vienna, 1815](https://en.wikipedia.org/wiki/Congress_of_Vienna)
+    - Multilateral diplomacy through the UN
+  - Famous examples
+    - Camp David Accords, 1978
+    - Cuban Missile Crisis resolved, 1962
+    - Iran nuclear deal, 2015

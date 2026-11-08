@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Natural number",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#bfncqf",
+      "name": "The counting numbers",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pvisct",
+      "name": "1, 2, 3, 4 and onward",
+      "x": -444,
+      "y": -56,
+      "parent": "#bfncqf"
+    },
+    {
+      "@id": "#za8zii",
+      "name": "Some definitions also include 0",
+      "x": -401,
+      "y": -163,
+      "parent": "#bfncqf"
+    },
+    {
+      "@id": "#m9k6dx",
+      "name": "No fractions or negatives",
+      "x": -318,
+      "y": -255,
+      "parent": "#bfncqf"
+    },
+    {
+      "@id": "#dxhnes",
+      "name": "Basic properties",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zzu7ui",
+      "name": "Every number has a next one",
+      "x": -204,
+      "y": -321,
+      "parent": "#dxhnes"
+    },
+    {
+      "@id": "#e7b3gr",
+      "name": "No largest natural number",
+      "x": -73,
+      "y": -372,
+      "parent": "#dxhnes"
+    },
+    {
+      "@id": "#a3me3m",
+      "name": "Adding or multiplying stays natural",
+      "x": 82,
+      "y": -420,
+      "parent": "#dxhnes"
+    },
+    {
+      "@id": "#hcti38",
+      "name": "Subtracting can leave the set",
+      "x": 204,
+      "y": -321,
+      "parent": "#dxhnes"
+    },
+    {
+      "@id": "#hcdm9s",
+      "name": "Kinds of natural numbers",
+      "x": 219,
+      "y": -57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4h23rt",
+      "name": "Even and odd numbers",
+      "x": 318,
+      "y": -255,
+      "parent": "#hcdm9s"
+    },
+    {
+      "@id": "#gnu6fa",
+      "name": "Primes: 2, 3, 5, 7, 11",
+      "x": 401,
+      "y": -163,
+      "link": "https://en.wikipedia.org/wiki/Prime_number",
+      "parent": "#hcdm9s"
+    },
+    {
+      "@id": "#7njxhi",
+      "name": "Square numbers: 1, 4, 9, 16",
+      "x": 524,
+      "y": -64,
+      "link": "https://en.wikipedia.org/wiki/Square_number",
+      "parent": "#hcdm9s"
+    },
+    {
+      "@id": "#yrsc2k",
+      "name": "Perfect numbers like 6 and 28",
+      "x": 444,
+      "y": 56,
+      "link": "https://en.wikipedia.org/wiki/Perfect_number",
+      "parent": "#hcdm9s"
+    },
+    {
+      "@id": "#4xq956",
+      "name": "Foundations",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#syimef",
+      "name": "Peano axioms define them, 1889",
+      "x": 419,
+      "y": 170,
+      "link": "https://en.wikipedia.org/wiki/Peano_axioms",
+      "parent": "#4xq956"
+    },
+    {
+      "@id": "#3yqvv9",
+      "name": "Induction proves facts for all",
+      "x": 318,
+      "y": 255,
+      "parent": "#4xq956"
+    },
+    {
+      "@id": "#rcbh9y",
+      "name": "Infinite but countable",
+      "x": 204,
+      "y": 321,
+      "parent": "#4xq956"
+    },
+    {
+      "@id": "#7krt3j",
+      "name": "History",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gz67dg",
+      "name": "Tally marks on ancient bones",
+      "x": 73,
+      "y": 372,
+      "parent": "#7krt3j"
+    },
+    {
+      "@id": "#9c6mui",
+      "name": "Greeks studied them as pure numbers",
+      "x": -82,
+      "y": 420,
+      "parent": "#7krt3j"
+    },
+    {
+      "@id": "#927x2r",
+      "name": "Zero added much later",
+      "x": -204,
+      "y": 321,
+      "parent": "#7krt3j"
+    },
+    {
+      "@id": "#cj4q9c",
+      "name": "Uses",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d6ia8k",
+      "name": "Counting objects and people",
+      "x": -318,
+      "y": 255,
+      "parent": "#cj4q9c"
+    },
+    {
+      "@id": "#6z35bz",
+      "name": "Ordering positions in a race",
+      "x": -401,
+      "y": 163,
+      "parent": "#cj4q9c"
+    },
+    {
+      "@id": "#w3tn55",
+      "name": "Indexing lists in computing",
+      "x": -444,
+      "y": 56,
+      "parent": "#cj4q9c"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

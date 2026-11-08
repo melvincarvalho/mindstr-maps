@@ -1,0 +1,30 @@
+category: Science
+aliases: survival of the fittest, selection pressure, how natural selection works
+- Natural selection
+  - The four conditions
+    - Individuals vary in their traits
+    - Some variation is inherited
+    - More offspring born than can survive
+    - Some traits improve survival or reproduction
+  - The result
+    - Helpful traits become more common
+    - Populations adapt to their environment
+    - Acts on individuals; populations evolve
+  - Kinds of selection
+    - [Directional: one extreme is favoured](https://en.wikipedia.org/wiki/Directional_selection)
+    - Stabilising: the average is favoured
+    - Disruptive: both extremes are favoured
+    - [Sexual selection: traits that win mates](https://en.wikipedia.org/wiki/Sexual_selection)
+  - Classic examples
+    - [Peppered moths darkened in sooty Britain](https://en.wikipedia.org/wiki/Peppered_moth_evolution)
+    - Finch beaks changed with Galapagos droughts
+    - Bacteria evolving antibiotic resistance
+    - Insects resisting pesticides
+  - Common misunderstandings
+    - Fittest means best at reproducing
+    - It has no goal or foresight
+    - Individuals don't evolve in a lifetime
+  - History
+    - Darwin and Wallace presented it, 1858
+    - [Herbert Spencer coined survival of the fittest](https://en.wikipedia.org/wiki/Survival_of_the_fittest)
+    - Breeders' artificial selection inspired Darwin

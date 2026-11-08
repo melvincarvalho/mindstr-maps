@@ -1,0 +1,28 @@
+category: Geography
+aliases: andes mountains, andean mountains, cordillera de los andes
+- Andes
+  - Where they are
+    - [Longest continental mountain range](https://en.wikipedia.org/wiki/List_of_mountain_ranges)
+    - About 7,000 km along South America
+    - Runs through seven countries
+  - How they formed
+    - [Nazca Plate dives under South America](https://en.wikipedia.org/wiki/Nazca_Plate)
+    - Many active volcanoes
+    - Frequent large earthquakes
+  - Peaks and plateaus
+    - [Aconcagua, 6,961 m, highest outside Asia](https://en.wikipedia.org/wiki/Aconcagua)
+    - Altiplano, a high plateau
+    - Lake Titicaca on Peru–Bolivia border
+    - Atacama Desert on western flank
+  - Life
+    - Llamas, alpacas and vicuñas
+    - Andean condor soars overhead
+    - Potatoes first domesticated here
+  - People and history
+    - [Inca Empire centred on Cusco](https://en.wikipedia.org/wiki/Inca_Empire)
+    - Machu Picchu built in 1400s
+    - Quechua and Aymara still widely spoken
+    - La Paz and Quito are high capitals
+  - Today
+    - Copper, lithium and silver mining
+    - Glaciers supply water but are shrinking

@@ -1,0 +1,30 @@
+category: Geography
+aliases: moscow russia, moskva, russian capital
+- Moscow
+  - Setting
+    - Capital of Russia, on Moskva River
+    - Ring roads around the Kremlin
+    - Cold winters, warm summers
+  - History
+    - First recorded in 1147
+    - Grand Duchy of Moscow united Russia
+    - Peter the Great moved capital away
+    - [Napoleon occupied and it burned, 1812](https://en.wikipedia.org/wiki/French_invasion_of_Russia)
+    - Soviet capital again from 1918
+  - People
+    - About 13 million, among Europe's largest
+    - Draws migrants from across Russia
+    - Central Asian and Caucasus communities
+  - Economy
+    - Russia's financial and business centre
+    - Moscow City skyscraper district
+    - Energy firms, government and services
+  - Landmarks
+    - [The Kremlin, seat of power](https://en.wikipedia.org/wiki/Moscow_Kremlin)
+    - [Red Square](https://en.wikipedia.org/wiki/Red_Square)
+    - Saint Basil's Cathedral's coloured domes
+    - Seven Stalinist skyscrapers
+  - Culture
+    - Bolshoi Theatre ballet and opera
+    - [Metro stations like underground palaces](https://en.wikipedia.org/wiki/Moscow_Metro)
+    - Tretyakov Gallery of Russian art

@@ -1,0 +1,329 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Performing arts",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#5ez83i",
+      "name": "What they are",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#unut5v",
+      "name": "Art made live by performers",
+      "x": -445,
+      "y": -54,
+      "parent": "#5ez83i"
+    },
+    {
+      "@id": "#kgznga",
+      "name": "Performer, audience and a space",
+      "x": -405,
+      "y": -156,
+      "parent": "#5ez83i"
+    },
+    {
+      "@id": "#563cs3",
+      "name": "Unlike paintings, each show is unique",
+      "x": -330,
+      "y": -245,
+      "parent": "#5ez83i"
+    },
+    {
+      "@id": "#x45rhh",
+      "name": "Main forms",
+      "x": 17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#imuewq",
+      "name": "Theatre and drama",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Theatre",
+      "parent": "#x45rhh"
+    },
+    {
+      "@id": "#eywuyi",
+      "name": "Music: concerts, opera, bands",
+      "x": -104,
+      "y": -367,
+      "parent": "#x45rhh"
+    },
+    {
+      "@id": "#gi4cub",
+      "name": "Dance: ballet to hip hop",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Dance",
+      "parent": "#x45rhh"
+    },
+    {
+      "@id": "#vdcsxt",
+      "name": "Musical theatre combines all three",
+      "x": 234,
+      "y": -485,
+      "parent": "#x45rhh"
+    },
+    {
+      "@id": "#qsi8sh",
+      "name": "Comedy, magic, circus and puppetry",
+      "x": 281,
+      "y": -281,
+      "parent": "#x45rhh"
+    },
+    {
+      "@id": "#gppmcs",
+      "name": "Who makes a show",
+      "x": 227,
+      "y": -27,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2uhcpt",
+      "name": "Writers, composers and choreographers",
+      "x": 372,
+      "y": -203,
+      "parent": "#gppmcs"
+    },
+    {
+      "@id": "#q35ic6",
+      "name": "Directors shape the production",
+      "x": 430,
+      "y": -106,
+      "parent": "#gppmcs"
+    },
+    {
+      "@id": "#skd2ue",
+      "name": "Actors, musicians and dancers perform",
+      "x": 530,
+      "y": 0,
+      "parent": "#gppmcs"
+    },
+    {
+      "@id": "#bs6u4t",
+      "name": "Designers create sets, costume, lighting",
+      "x": 430,
+      "y": 106,
+      "parent": "#gppmcs"
+    },
+    {
+      "@id": "#4ghs3x",
+      "name": "Where it happens",
+      "x": 155,
+      "y": 157,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ui9eua",
+      "name": "Theatres, concert halls and opera houses",
+      "x": 389,
+      "y": 212,
+      "parent": "#4ghs3x"
+    },
+    {
+      "@id": "#3tjuku",
+      "name": "Street performance and festivals",
+      "x": 281,
+      "y": 281,
+      "parent": "#4ghs3x"
+    },
+    {
+      "@id": "#n5hf6z",
+      "name": "Edinburgh Fringe, world's largest arts festival",
+      "x": 164,
+      "y": 335,
+      "parent": "#4ghs3x"
+    },
+    {
+      "@id": "#zwg2ua",
+      "name": "Through history",
+      "x": -84,
+      "y": 171,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d55jxp",
+      "name": "Ritual and storytelling in early societies",
+      "x": 38,
+      "y": 391,
+      "parent": "#zwg2ua"
+    },
+    {
+      "@id": "#ssbh9q",
+      "name": "Greek tragedy and comedy",
+      "x": -124,
+      "y": 447,
+      "link": "https://en.wikipedia.org/wiki/Theatre_of_ancient_Greece",
+      "parent": "#zwg2ua"
+    },
+    {
+      "@id": "#ihpggg",
+      "name": "Noh and kabuki in Japan",
+      "x": -225,
+      "y": 312,
+      "parent": "#zwg2ua"
+    },
+    {
+      "@id": "#9mx6ru",
+      "name": "Film and broadcast widened audiences",
+      "x": -330,
+      "y": 245,
+      "parent": "#zwg2ua"
+    },
+    {
+      "@id": "#b76v9x",
+      "name": "Training and careers",
+      "x": -220,
+      "y": 54,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#q8itnh",
+      "name": "Drama schools and conservatories",
+      "x": -405,
+      "y": 156,
+      "parent": "#b76v9x"
+    },
+    {
+      "@id": "#ad6j97",
+      "name": "Auditions, rehearsals and touring",
+      "x": -525,
+      "y": 62,
+      "parent": "#b76v9x"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

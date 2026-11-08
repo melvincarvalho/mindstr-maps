@@ -1,0 +1,30 @@
+category: People
+aliases: cleopatra vii, cleopatra vii philopator, queen cleopatra, cleopatra of egypt
+- Cleopatra
+  - Who she was
+    - Last active ruler of Ptolemaic Egypt
+    - Lived 69 to 30 BC
+    - [Macedonian Greek dynasty after Alexander](https://en.wikipedia.org/wiki/Ptolemaic_dynasty)
+    - First of her line to speak Egyptian
+  - Rise to the throne
+    - Co-ruled with brother Ptolemy XIII
+    - Driven out, then backed by Caesar
+    - Restored to power in 47 BC
+  - Julius Caesar
+    - Became his ally and lover
+    - Son Caesarion born about 47 BC
+    - Lived in Rome until his murder
+  - Mark Antony
+    - Allied with Antony from 41 BC
+    - Three children together
+    - Gave Roman lands to her children
+  - Downfall
+    - [Defeated by Octavian at Actium, 31 BC](https://en.wikipedia.org/wiki/Battle_of_Actium)
+    - Antony took his own life
+    - Died by suicide in Alexandria, 30 BC
+    - Egypt became a Roman province
+  - Legacy
+    - Shrewd, multilingual political ruler
+    - Image shaped by hostile Roman sources
+    - [Shakespeare's Antony and Cleopatra](https://en.wikipedia.org/wiki/Antony_and_Cleopatra)
+    - Many films, including 1963 epic

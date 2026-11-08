@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Cat",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#9z7ujk",
+      "name": "The animal",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rhec3p",
+      "name": "Small carnivore of the cat family",
+      "x": -445,
+      "y": -51,
+      "parent": "#9z7ujk"
+    },
+    {
+      "@id": "#esycty",
+      "name": "Retractable claws and sharp night vision",
+      "x": -409,
+      "y": -150,
+      "parent": "#9z7ujk"
+    },
+    {
+      "@id": "#kdzu3q",
+      "name": "Lives about 12 to 18 years",
+      "x": -340,
+      "y": -236,
+      "parent": "#9z7ujk"
+    },
+    {
+      "@id": "#bazkx4",
+      "name": "Hundreds of millions kept worldwide",
+      "x": -243,
+      "y": -303,
+      "parent": "#9z7ujk"
+    },
+    {
+      "@id": "#xbdmxd",
+      "name": "History with humans",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hrgm8x",
+      "name": "Descends from the African wildcat",
+      "x": -133,
+      "y": -360,
+      "link": "https://en.wikipedia.org/wiki/African_wildcat",
+      "parent": "#xbdmxd"
+    },
+    {
+      "@id": "#48q89h",
+      "name": "Drawn to early farms hunting rodents",
+      "x": 0,
+      "y": -408,
+      "parent": "#xbdmxd"
+    },
+    {
+      "@id": "#jq5wdt",
+      "name": "Living with people for about 9,500 years",
+      "x": 175,
+      "y": -465,
+      "parent": "#xbdmxd"
+    },
+    {
+      "@id": "#eyfjme",
+      "name": "Revered in ancient Egypt",
+      "x": 243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Cats_in_ancient_Egypt",
+      "parent": "#xbdmxd"
+    },
+    {
+      "@id": "#u4hehg",
+      "name": "Behaviour",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vxg59j",
+      "name": "Purring usually signals contentment",
+      "x": 340,
+      "y": -236,
+      "parent": "#u4hehg"
+    },
+    {
+      "@id": "#h64pf6",
+      "name": "Kneading and rubbing mark scent",
+      "x": 409,
+      "y": -150,
+      "parent": "#u4hehg"
+    },
+    {
+      "@id": "#abccp4",
+      "name": "Sleeps 12 to 16 hours a day",
+      "x": 445,
+      "y": -51,
+      "parent": "#u4hehg"
+    },
+    {
+      "@id": "#5c52aw",
+      "name": "Natural hunter, even when well fed",
+      "x": 445,
+      "y": 51,
+      "parent": "#u4hehg"
+    },
+    {
+      "@id": "#abujtf",
+      "name": "Body and senses",
+      "x": 174,
+      "y": 120,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rhnuym",
+      "name": "Righting reflex lands cats on feet",
+      "x": 463,
+      "y": 171,
+      "link": "https://en.wikipedia.org/wiki/Cat_righting_reflex",
+      "parent": "#abujtf"
+    },
+    {
+      "@id": "#wp4msd",
+      "name": "Whiskers sense nearby objects",
+      "x": 340,
+      "y": 236,
+      "parent": "#abujtf"
+    },
+    {
+      "@id": "#9qpga2",
+      "name": "Needs meat: an obligate carnivore",
+      "x": 243,
+      "y": 303,
+      "parent": "#abujtf"
+    },
+    {
+      "@id": "#qyqqh5",
+      "name": "Caring for a cat",
+      "x": -65,
+      "y": 177,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d8jzkv",
+      "name": "Complete cat food and fresh water",
+      "x": 133,
+      "y": 360,
+      "parent": "#qyqqh5"
+    },
+    {
+      "@id": "#uxbwcj",
+      "name": "Clean litter tray daily",
+      "x": 0,
+      "y": 408,
+      "parent": "#qyqqh5"
+    },
+    {
+      "@id": "#7ggxpw",
+      "name": "Scratching post and daily play",
+      "x": -175,
+      "y": 465,
+      "parent": "#qyqqh5"
+    },
+    {
+      "@id": "#4rdbdt",
+      "name": "Vaccinate, neuter and microchip",
+      "x": -243,
+      "y": 303,
+      "parent": "#qyqqh5"
+    },
+    {
+      "@id": "#9erz6f",
+      "name": "Yearly vet check-ups",
+      "x": -340,
+      "y": 236,
+      "parent": "#qyqqh5"
+    },
+    {
+      "@id": "#6v5sk5",
+      "name": "Cats and wildlife",
+      "x": -221,
+      "y": 52,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cjex3w",
+      "name": "Kill billions of birds yearly",
+      "x": -409,
+      "y": 150,
+      "link": "https://en.wikipedia.org/wiki/Cat_predation_on_wildlife",
+      "parent": "#6v5sk5"
+    },
+    {
+      "@id": "#ctupmz",
+      "name": "Keeping cats indoors protects wildlife",
+      "x": -525,
+      "y": 59,
+      "parent": "#6v5sk5"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 20,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

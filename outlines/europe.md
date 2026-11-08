@@ -1,0 +1,32 @@
+category: Geography
+aliases: european continent, continent of europe, geography of europe
+- Europe
+  - Land and climate
+    - Western peninsula of Eurasia
+    - [Alps, Pyrenees and Scandinavian mountains](https://en.wikipedia.org/wiki/Alps)
+    - Danube, Rhine and Volga rivers
+    - Gulf Stream keeps the northwest mild
+    - Mediterranean climate in the south
+  - Peoples and languages
+    - About 740 million people
+    - Over 40 countries; Russia the largest
+    - Germanic, Romance and Slavic languages
+    - Ageing populations, migration from abroad
+  - History in brief
+    - [Ancient Greece and Rome](https://en.wikipedia.org/wiki/Classical_antiquity)
+    - Renaissance, Reformation and Enlightenment
+    - [Industrial Revolution began in Britain](https://en.wikipedia.org/wiki/Industrial_Revolution)
+    - Colonial empires spanned the globe
+    - Two world wars, then Cold War
+  - Politics and unity
+    - [European Union of 27 countries](https://en.wikipedia.org/wiki/European_Union)
+    - Euro shared by most EU members
+    - NATO alliance and Council of Europe
+  - Economy
+    - Germany, UK and France the largest
+    - Cars, machinery, finance, tourism
+    - Strong welfare states
+  - Culture
+    - Christianity shaped art and calendar
+    - Classical music, from Bach to Beethoven
+    - Football is the most popular sport

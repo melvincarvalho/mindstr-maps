@@ -1,0 +1,31 @@
+category: Science
+aliases: storms, severe weather, types of storms, storm safety
+- Storm
+  - What a storm is
+    - Disturbed weather with wind or rain
+    - Usually around low air pressure
+    - Fed by warm, moist rising air
+  - Types of storm
+    - [Thunderstorms: lightning and heavy showers](https://en.wikipedia.org/wiki/Thunderstorm)
+    - [Tropical cyclones: hurricanes and typhoons](https://en.wikipedia.org/wiki/Tropical_cyclone)
+    - [Tornadoes: spinning columns of air](https://en.wikipedia.org/wiki/Tornado)
+    - Winter storms and blizzards
+    - Dust and sand storms
+  - Dangers
+    - Strong winds topple trees and buildings
+    - Flooding from heavy rain
+    - Storm surge floods coasts
+    - Lightning, hail and power cuts
+  - Tracking and warnings
+    - Satellites and radar follow storms
+    - Storms are named to aid warnings
+    - Hurricanes rated on Saffir–Simpson scale
+  - Before a storm
+    - Follow official warnings and evacuation orders
+    - Secure loose objects outdoors
+    - Charge phones, store water and torches
+  - During and after
+    - Stay indoors away from windows
+    - Tornado: lowest floor, interior room
+    - Avoid fallen power lines
+    - Check on neighbours

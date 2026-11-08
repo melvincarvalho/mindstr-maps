@@ -1,0 +1,31 @@
+category: Technology
+aliases: papermaking, how paper is made, history of paper, paper making
+- Paper
+  - What paper is
+    - A mat of plant cellulose fibres
+    - Fibres bond as the water dries
+    - [Named after Egyptian papyrus](https://en.wikipedia.org/wiki/Papyrus)
+  - Invention and spread
+    - [Cai Lun improved papermaking, 105 AD](https://en.wikipedia.org/wiki/Cai_Lun)
+    - Early paper from bark, hemp and rags
+    - Reached Samarkand and Baghdad by 800
+    - Reached Europe by the 12th century
+  - How it's made
+    - Logs chipped and turned into pulp
+    - [Chemical pulping removes lignin](https://en.wikipedia.org/wiki/Pulp_%28paper%29)
+    - Bleached for white paper
+    - Pulp spread on a moving mesh
+    - Pressed, dried and wound onto rolls
+  - Kinds of paper
+    - Printing and writing paper
+    - Packaging and cardboard, the largest share
+    - Tissue and kitchen towels
+    - Newsprint yellows as lignin ages
+  - Why it mattered
+    - [Made printing cheap after Gutenberg](https://en.wikipedia.org/wiki/Printing_press)
+    - Books, newspapers and paper money
+    - Office paper use falling in digital age
+  - Environment
+    - Fibres recycled about 5 to 7 times
+    - Much pulp from managed plantations
+    - Mills use lots of water and energy

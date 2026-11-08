@@ -1,0 +1,31 @@
+category: Philosophy and religion
+aliases: life after death, what happens after death, the afterlife
+- Afterlife
+  - The core question
+    - What, if anything, follows death?
+    - Does a soul or self continue?
+    - Shapes funerals, ethics and hope
+  - Abrahamic traditions
+    - [A final judgment, then heaven or hell](https://en.wikipedia.org/wiki/Last_Judgment)
+    - Christians believe in bodily resurrection
+    - Muslims believe in Jannah and Jahannam
+    - Catholic teaching includes purgatory
+    - Jewish views vary, including Olam Ha-Ba
+  - Rebirth traditions
+    - [Hindus believe the soul is reborn](https://en.wikipedia.org/wiki/Reincarnation)
+    - Karma shapes the next life
+    - Moksha, liberation, ends the cycle
+    - [Buddhists seek nirvana, ending rebirth](https://en.wikipedia.org/wiki/Nirvana)
+  - Ancient beliefs
+    - Egyptians: heart weighed against a feather
+    - Greeks pictured Hades, the underworld
+    - Norse warriors hoped for Valhalla
+    - Many cultures honour ancestors as present
+  - Non-religious views
+    - Many atheists see death as the end
+    - Agnostics say we cannot know
+    - [Near-death experiences are studied scientifically](https://en.wikipedia.org/wiki/Near-death_experience)
+  - Living with the idea
+    - Funeral rites reflect afterlife beliefs
+    - Comfort for the grieving
+    - A motive for moral living

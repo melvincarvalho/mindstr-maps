@@ -1,0 +1,32 @@
+category: History
+aliases: mughal india, mughals, mughal dynasty, moghul empire
+- Mughal Empire
+  - Foundation
+    - [Babur won the Battle of Panipat, 1526](https://en.wikipedia.org/wiki/First_Battle_of_Panipat)
+    - Descended from Timur and Genghis Khan
+    - Humayun lost, then regained the throne
+  - Great emperors
+    - [Akbar expanded and unified the empire](https://en.wikipedia.org/wiki/Akbar)
+    - Jahangir patronised painting and gardens
+    - Shah Jahan built the Taj Mahal
+    - Aurangzeb pushed borders to greatest extent
+  - How it was ruled
+    - Mansabdari ranks for nobles and officers
+    - Land revenue system funded the state
+    - Akbar abolished the jizya tax on non-Muslims
+    - Rajput alliances through marriage and office
+  - Art and architecture
+    - [Taj Mahal, a tomb for Mumtaz Mahal](https://en.wikipedia.org/wiki/Taj_Mahal)
+    - Red Fort and Fatehpur Sikri
+    - Mughal miniature painting
+    - Persian was the language of court
+  - Economy
+    - Among the world's largest economies around 1700
+    - Textiles, spices and indigo exported worldwide
+    - European trading companies set up ports
+  - Decline
+    - Wars and revolts after Aurangzeb's death, 1707
+    - Marathas, Sikhs and regional states rose
+    - Nader Shah sacked Delhi, 1739
+    - [British East India Company took control](https://en.wikipedia.org/wiki/East_India_Company)
+    - Last emperor exiled by British after 1857

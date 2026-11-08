@@ -1,0 +1,32 @@
+category: Science
+aliases: what are algae, microalgae, seaweeds
+- Algae
+  - What algae are
+    - Photosynthesisers simpler than land plants
+    - No true roots, stems or leaves
+    - Several unrelated lineages, not one group
+    - From single cells to giant kelp
+  - Main kinds
+    - [Green algae, ancestors of land plants](https://en.wikipedia.org/wiki/Green_algae)
+    - Red algae, many in deeper water
+    - Brown algae, including kelp
+    - [Diatoms in glass-like silica shells](https://en.wikipedia.org/wiki/Diatom)
+    - Cyanobacteria: "blue-green algae", actually bacteria
+  - Where they live
+    - Oceans, lakes and rivers
+    - Snow, soil and tree bark
+    - Partners with fungi in lichens
+    - Inside corals, feeding them sugars
+  - Why they matter
+    - Make roughly half of Earth's oxygen
+    - Base of aquatic food chains
+    - [Chloroplasts came from engulfed cyanobacteria](https://en.wikipedia.org/wiki/Symbiogenesis)
+  - Uses
+    - Nori, kombu and other edible seaweeds
+    - Agar and carrageenan thicken foods
+    - Spirulina and chlorella supplements
+    - Researched as a biofuel source
+  - Problems
+    - [Harmful algal blooms poison water](https://en.wikipedia.org/wiki/Harmful_algal_bloom)
+    - Fertiliser runoff feeds blooms
+    - Dead zones when blooms decay

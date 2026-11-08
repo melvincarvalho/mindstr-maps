@@ -1,0 +1,30 @@
+category: Life and home
+aliases: drinks, beverage, beverages, types of drinks
+- Drink
+  - Why we drink
+    - Body is about 60% water
+    - Replaces water lost every day
+    - Thirst signals mild dehydration
+  - Everyday drinks
+    - [Water, the healthiest choice](https://en.wikipedia.org/wiki/Drinking_water)
+    - [Tea, the most drunk after water](https://en.wikipedia.org/wiki/Tea)
+    - Coffee, the main caffeine source
+    - Milk and plant-based milks
+  - Sweet drinks
+    - Soft drinks and sodas
+    - Fruit juice and smoothies
+    - Energy drinks, high in caffeine
+    - Sugary drinks raise tooth decay risk
+  - Alcoholic drinks
+    - Beer, wine and spirits
+    - Made by fermenting sugars with yeast
+    - [Alcohol carries real health risks](https://en.wikipedia.org/wiki/Long-term_effects_of_alcohol)
+    - Illegal under a minimum age
+  - Drinks in culture
+    - Tea ceremonies in Japan and China
+    - Coffee houses as meeting places
+    - Toasts mark celebrations
+  - How much to drink
+    - Roughly 6 to 8 glasses daily
+    - Need more in heat or exercise
+    - [Pale urine suggests good hydration](https://en.wikipedia.org/wiki/Dehydration)

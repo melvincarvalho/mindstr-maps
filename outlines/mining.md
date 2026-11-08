@@ -1,0 +1,32 @@
+category: Society
+aliases: mining industry, mineral extraction, how mining works
+- Mining
+  - What is mined
+    - Coal for power and steel
+    - Metal ores: iron, copper, gold
+    - Industrial minerals: salt, potash, sand
+    - Gemstones such as diamonds
+    - Lithium and cobalt for batteries
+  - Main methods
+    - [Open-pit mining digs from the surface](https://en.wikipedia.org/wiki/Open-pit_mining)
+    - Underground shafts and tunnels reach deep ores
+    - Placer mining sifts river sediments
+    - Solution mining dissolves minerals underground
+  - From ore to metal
+    - Exploration and drilling find deposits
+    - Crushing and grinding the ore
+    - Flotation separates valuable minerals
+    - [Smelting extracts the pure metal](https://en.wikipedia.org/wiki/Smelting)
+  - Safety and health
+    - Cave-ins and gas explosions
+    - [Black lung from coal dust](https://en.wikipedia.org/wiki/Coalworker%27s_pneumoconiosis)
+    - Ventilation and safety laws cut deaths
+  - Environmental impact
+    - [Acid mine drainage pollutes rivers](https://en.wikipedia.org/wiki/Acid_mine_drainage)
+    - Tailings dams can fail catastrophically
+    - Land cleared and habitats lost
+    - Restoring land after mines close
+  - Economy and society
+    - Mining towns boom and bust
+    - Major producers: China, Australia, Chile
+    - Artisanal miners, often in poverty

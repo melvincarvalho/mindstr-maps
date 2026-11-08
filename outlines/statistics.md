@@ -1,0 +1,30 @@
+category: Mathematics
+aliases: statistics maths, statistical analysis, stats basics
+- Statistics
+  - Collecting data
+    - Sample a few to learn about many
+    - [Random sampling avoids bias](https://en.wikipedia.org/wiki/Sampling_%28statistics%29)
+    - Randomised controlled trials test treatments fairly
+    - Observational studies can't easily prove cause
+  - Describing data
+    - Mean, median and mode: typical values
+    - Median resists outliers like billionaires
+    - Spread: range and standard deviation
+    - [Normal distribution: the bell curve](https://en.wikipedia.org/wiki/Normal_distribution)
+  - Drawing conclusions
+    - Polls of 1,000 give about ±3%
+    - [Hypothesis tests and p-values](https://en.wikipedia.org/wiki/P-value)
+    - Confidence intervals give a plausible range
+    - Regression measures how variables relate
+  - Common mistakes
+    - [Correlation does not imply causation](https://en.wikipedia.org/wiki/Correlation_does_not_imply_causation)
+    - Ice cream and drownings: both summer
+    - Small samples throw up flukes
+    - Cherry-picking and truncated graph axes
+    - [Simpson's paradox: groups reverse the trend](https://en.wikipedia.org/wiki/Simpson%27s_paradox)
+  - History and uses
+    - Censuses go back thousands of years
+    - Nightingale's charts reformed army hospitals
+    - Fisher shaped modern methods, 1920s
+    - Medicine, polling, sport and quality control
+    - Machine learning builds on statistics

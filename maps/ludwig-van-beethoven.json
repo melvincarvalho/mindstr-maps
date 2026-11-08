@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Ludwig van Beethoven",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#s3rqf6",
+      "name": "German composer, 1770–1827",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kwcsq2",
+      "name": "Born in Bonn; father a court singer",
+      "x": -545,
+      "y": -64,
+      "parent": "#s3rqf6"
+    },
+    {
+      "@id": "#vxdkjw",
+      "name": "Moved to Vienna in 1792",
+      "x": -405,
+      "y": -156,
+      "parent": "#s3rqf6"
+    },
+    {
+      "@id": "#s6ufa4",
+      "name": "Studied briefly with Haydn",
+      "x": -330,
+      "y": -245,
+      "parent": "#s3rqf6"
+    },
+    {
+      "@id": "#7ahyak",
+      "name": "Bridge from Classical to Romantic",
+      "x": -51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fmvuph",
+      "name": "Early works in Haydn and Mozart's style",
+      "x": -225,
+      "y": -312,
+      "parent": "#7ahyak"
+    },
+    {
+      "@id": "#h3g4ct",
+      "name": "Middle period: heroic, dramatic scale",
+      "x": -104,
+      "y": -367,
+      "parent": "#7ahyak"
+    },
+    {
+      "@id": "#zijxrm",
+      "name": "Late period: inward and experimental",
+      "x": 42,
+      "y": -423,
+      "parent": "#7ahyak"
+    },
+    {
+      "@id": "#ajc3bm",
+      "name": "Deafness",
+      "x": 169,
+      "y": -125,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vv2cr4",
+      "name": "Hearing loss began in his late twenties",
+      "x": 234,
+      "y": -485,
+      "parent": "#ajc3bm"
+    },
+    {
+      "@id": "#hdautr",
+      "name": "Heiligenstadt Testament, 1802: despair and resolve",
+      "x": 281,
+      "y": -281,
+      "link": "https://en.wikipedia.org/wiki/Heiligenstadt_Testament",
+      "parent": "#ajc3bm"
+    },
+    {
+      "@id": "#gr5m5r",
+      "name": "Almost totally deaf by about 1818",
+      "x": 372,
+      "y": -203,
+      "parent": "#ajc3bm"
+    },
+    {
+      "@id": "#9niyis",
+      "name": "Kept composing; used conversation books",
+      "x": 449,
+      "y": -111,
+      "parent": "#ajc3bm"
+    },
+    {
+      "@id": "#eiazbk",
+      "name": "Nine symphonies",
+      "x": 207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ekcwnm",
+      "name": "Third, Eroica: once dedicated to Napoleon",
+      "x": 450,
+      "y": 0,
+      "parent": "#eiazbk"
+    },
+    {
+      "@id": "#jab5t9",
+      "name": "Fifth's famous four-note opening",
+      "x": 487,
+      "y": 121,
+      "parent": "#eiazbk"
+    },
+    {
+      "@id": "#6fnygn",
+      "name": "Sixth, Pastoral: scenes of countryside",
+      "x": 372,
+      "y": 203,
+      "parent": "#eiazbk"
+    },
+    {
+      "@id": "#2p4esx",
+      "name": "Ninth adds chorus: Ode to Joy",
+      "x": 281,
+      "y": 281,
+      "link": "https://en.wikipedia.org/wiki/Symphony_No._9_%28Beethoven%29",
+      "parent": "#eiazbk"
+    },
+    {
+      "@id": "#33ewrc",
+      "name": "Other major works",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#n6f7hk",
+      "name": "32 piano sonatas, including Moonlight",
+      "x": 164,
+      "y": 335,
+      "parent": "#33ewrc"
+    },
+    {
+      "@id": "#jb3fek",
+      "name": "Five piano concertos; fifth is Emperor",
+      "x": 38,
+      "y": 391,
+      "parent": "#33ewrc"
+    },
+    {
+      "@id": "#p9dg4c",
+      "name": "Fidelio, his only opera",
+      "x": -124,
+      "y": 447,
+      "link": "https://en.wikipedia.org/wiki/Fidelio",
+      "parent": "#33ewrc"
+    },
+    {
+      "@id": "#v8rfij",
+      "name": "Missa Solemnis and late string quartets",
+      "x": -225,
+      "y": 312,
+      "parent": "#33ewrc"
+    },
+    {
+      "@id": "#ez87i5",
+      "name": "Legacy",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3cmx73",
+      "name": "Died in Vienna; huge crowds at funeral",
+      "x": -330,
+      "y": 245,
+      "parent": "#ez87i5"
+    },
+    {
+      "@id": "#3brv6y",
+      "name": "Model of the artist as independent genius",
+      "x": -405,
+      "y": 156,
+      "parent": "#ez87i5"
+    },
+    {
+      "@id": "#jbbhq7",
+      "name": "Ode to Joy: Anthem of Europe",
+      "x": -445,
+      "y": 54,
+      "link": "https://en.wikipedia.org/wiki/Anthem_of_Europe",
+      "parent": "#ez87i5"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

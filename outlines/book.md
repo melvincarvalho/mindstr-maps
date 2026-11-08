@@ -1,0 +1,30 @@
+category: Technology
+aliases: books, history of the book, history of books
+- Book
+  - What a book is
+    - Long written work bound as one volume
+    - Pages, spine, cover and title page
+    - [ISBN number identifies each edition](https://en.wikipedia.org/wiki/ISBN)
+  - Before printing
+    - Clay tablets in ancient Mesopotamia
+    - Papyrus scrolls in ancient Egypt
+    - [Bound codex replaced scrolls in late antiquity](https://en.wikipedia.org/wiki/Codex)
+    - Monks copied manuscripts by hand
+  - The printing revolution
+    - Woodblock-printed Diamond Sutra, China, 868
+    - [Gutenberg's movable-type press, about 1450](https://en.wikipedia.org/wiki/Printing_press)
+    - Cheaper books spread literacy and ideas
+    - Cheap paperbacks took off in 1930s
+  - Making a book today
+    - Author writes, editor shapes the text
+    - Publisher designs, prints and markets it
+    - Self-publishing and print on demand
+  - Kinds of books
+    - Fiction: novels and short stories
+    - Non-fiction: history, science, how-to
+    - Reference: dictionaries and encyclopedias
+    - Picture books for young children
+  - Reading today
+    - [E-books on phones and e-readers](https://en.wikipedia.org/wiki/E-book)
+    - Audiobooks for listening on the go
+    - [Public libraries lend books free](https://en.wikipedia.org/wiki/Library)

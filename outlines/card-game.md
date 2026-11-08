@@ -1,0 +1,32 @@
+category: Life and home
+aliases: card games, games with playing cards
+- Card game
+  - The standard deck
+    - 52 cards in four suits
+    - Hearts, diamonds, clubs and spades
+    - Ace to king, plus jokers
+    - [Invented in China, about 9th century](https://en.wikipedia.org/wiki/Playing_card)
+    - Reached Europe in the 1370s
+  - Main families
+    - Trick-taking: bridge, whist, spades
+    - Rummy: melding sets and runs
+    - Shedding: Crazy Eights, Uno
+    - Patience: solitaire for one player
+    - Casino: blackjack, baccarat
+  - Well-known games
+    - [Bridge: partnership bidding and play](https://en.wikipedia.org/wiki/Contract_bridge)
+    - [Poker: betting and bluffing](https://en.wikipedia.org/wiki/Poker)
+    - Gin rummy for two
+    - Snap and Go Fish for children
+  - Other decks
+    - Tarot decks began as game cards
+    - Hanafuda flower cards in Japan
+    - Spanish and Italian suited decks
+  - Collectible card games
+    - [Magic: The Gathering (1993)](https://en.wikipedia.org/wiki/Magic:_The_Gathering)
+    - Pokémon Trading Card Game
+    - Players build their own decks
+  - Skills involved
+    - Remembering which cards are gone
+    - Probability and reading opponents
+    - Signalling to partners within rules

@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Textile",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#xf37kp",
+      "name": "Fibres",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yfn9eq",
+      "name": "Plant: cotton, linen, hemp",
+      "x": -444,
+      "y": -56,
+      "parent": "#xf37kp"
+    },
+    {
+      "@id": "#9knd4c",
+      "name": "Animal: wool and silk",
+      "x": -401,
+      "y": -163,
+      "parent": "#xf37kp"
+    },
+    {
+      "@id": "#t3ruxb",
+      "name": "Synthetic: polyester and nylon",
+      "x": -318,
+      "y": -255,
+      "link": "https://en.wikipedia.org/wiki/Synthetic_fiber",
+      "parent": "#xf37kp"
+    },
+    {
+      "@id": "#c9reg5",
+      "name": "Semi-synthetic: viscose from wood pulp",
+      "x": -204,
+      "y": -321,
+      "parent": "#xf37kp"
+    },
+    {
+      "@id": "#6s6mby",
+      "name": "From fibre to yarn",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dauwxt",
+      "name": "Cleaning and combing loose fibres",
+      "x": -73,
+      "y": -372,
+      "parent": "#6s6mby"
+    },
+    {
+      "@id": "#u438hk",
+      "name": "Spinning twists fibres into yarn",
+      "x": 82,
+      "y": -420,
+      "link": "https://en.wikipedia.org/wiki/Spinning_%28textiles%29",
+      "parent": "#6s6mby"
+    },
+    {
+      "@id": "#mvbyur",
+      "name": "Making fabric",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#myyp6n",
+      "name": "Weaving interlaces warp and weft",
+      "x": 204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Weaving",
+      "parent": "#mvbyur"
+    },
+    {
+      "@id": "#qw88kn",
+      "name": "Knitting loops one yarn together",
+      "x": 318,
+      "y": -255,
+      "parent": "#mvbyur"
+    },
+    {
+      "@id": "#z39iu3",
+      "name": "Felt and nonwovens bond loose fibres",
+      "x": 437,
+      "y": -177,
+      "parent": "#mvbyur"
+    },
+    {
+      "@id": "#eqwgxc",
+      "name": "Finishing",
+      "x": 227,
+      "y": 29,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uhigj8",
+      "name": "Dyeing and printing add colour",
+      "x": 444,
+      "y": -56,
+      "parent": "#eqwgxc"
+    },
+    {
+      "@id": "#b9fpfu",
+      "name": "Treatments against shrinking and water",
+      "x": 504,
+      "y": 62,
+      "parent": "#eqwgxc"
+    },
+    {
+      "@id": "#tddxj5",
+      "name": "Cutting and sewing into products",
+      "x": 401,
+      "y": 163,
+      "parent": "#eqwgxc"
+    },
+    {
+      "@id": "#vytz4i",
+      "name": "History",
+      "x": 71,
+      "y": 175,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zig9by",
+      "name": "Weaving at least 9,000 years old",
+      "x": 318,
+      "y": 255,
+      "parent": "#vytz4i"
+    },
+    {
+      "@id": "#283sui",
+      "name": "Silk Road traded Chinese silk",
+      "x": 204,
+      "y": 321,
+      "link": "https://en.wikipedia.org/wiki/Silk_Road",
+      "parent": "#vytz4i"
+    },
+    {
+      "@id": "#522yid",
+      "name": "Spinning jenny and power loom mechanised it",
+      "x": 73,
+      "y": 372,
+      "parent": "#vytz4i"
+    },
+    {
+      "@id": "#hmecyw",
+      "name": "Textile mills led Britain's Industrial Revolution",
+      "x": -82,
+      "y": 420,
+      "parent": "#vytz4i"
+    },
+    {
+      "@id": "#d4zivx",
+      "name": "Industry today",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wybuec",
+      "name": "Clothing, furnishings and technical fabrics",
+      "x": -204,
+      "y": 321,
+      "parent": "#d4zivx"
+    },
+    {
+      "@id": "#qdywkc",
+      "name": "China, India and Bangladesh major producers",
+      "x": -318,
+      "y": 255,
+      "parent": "#d4zivx"
+    },
+    {
+      "@id": "#xgsg64",
+      "name": "Fast fashion raises waste concerns",
+      "x": -401,
+      "y": 163,
+      "parent": "#d4zivx"
+    },
+    {
+      "@id": "#56f4ks",
+      "name": "Rana Plaza collapse, 2013, spurred safety reforms",
+      "x": -444,
+      "y": 56,
+      "parent": "#d4zivx"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

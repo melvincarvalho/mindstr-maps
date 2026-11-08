@@ -1,0 +1,29 @@
+category: Life and home
+aliases: having sex, coitus, making love
+- Sexual intercourse
+  - What it is
+    - Sexual activity between partners
+    - [Main way humans reproduce](https://en.wikipedia.org/wiki/Human_reproduction)
+    - Also for pleasure, intimacy and bonding
+  - Consent comes first
+    - Everyone must freely agree
+    - Anyone can stop at any time
+    - No consent if drunk, asleep or pressured
+    - [Laws set an age of consent](https://en.wikipedia.org/wiki/Age_of_consent)
+  - Pregnancy and contraception
+    - Sperm can fertilise an egg
+    - Condoms, the pill and implants
+    - [Emergency contraception works best quickly](https://en.wikipedia.org/wiki/Emergency_contraception)
+  - Sexually transmitted infections
+    - Chlamydia, gonorrhoea, herpes, HPV, HIV
+    - Many have no symptoms at first
+    - Condoms lower risk; testing finds infections
+    - [Effective HIV treatment prevents sexual transmission](https://en.wikipedia.org/wiki/HIV)
+  - The emotional side
+    - Readiness differs for everyone
+    - Talking openly builds trust
+    - Feeling unsure is a reason to wait
+  - Culture and law
+    - Views shaped by religion and culture
+    - Laws on marriage and age vary
+    - [Sex education teaches health and consent](https://en.wikipedia.org/wiki/Sex_education)

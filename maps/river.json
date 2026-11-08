@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "River",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#2hyg54",
+      "name": "Where rivers come from",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4rxh7t",
+      "name": "Rain, snowmelt and springs at the source",
+      "x": -545,
+      "y": -64,
+      "parent": "#2hyg54"
+    },
+    {
+      "@id": "#82dxqh",
+      "name": "Tributaries join to grow the flow",
+      "x": -405,
+      "y": -156,
+      "parent": "#2hyg54"
+    },
+    {
+      "@id": "#z74fh7",
+      "name": "A drainage basin feeds one river",
+      "x": -330,
+      "y": -245,
+      "link": "https://en.wikipedia.org/wiki/Drainage_basin",
+      "parent": "#2hyg54"
+    },
+    {
+      "@id": "#mdhqg7",
+      "name": "Shaping the land",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yuiaju",
+      "name": "Erosion carves valleys and gorges",
+      "x": -225,
+      "y": -312,
+      "parent": "#mdhqg7"
+    },
+    {
+      "@id": "#xcvw49",
+      "name": "Meanders swing across flat floodplains",
+      "x": -104,
+      "y": -367,
+      "parent": "#mdhqg7"
+    },
+    {
+      "@id": "#6hpzrk",
+      "name": "Cut-off bends become oxbow lakes",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Oxbow_lake",
+      "parent": "#mdhqg7"
+    },
+    {
+      "@id": "#888f6g",
+      "name": "Waterfalls form over hard rock",
+      "x": 234,
+      "y": -485,
+      "parent": "#mdhqg7"
+    },
+    {
+      "@id": "#eqrs59",
+      "name": "Reaching the sea",
+      "x": 190,
+      "y": -104,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hqvhwh",
+      "name": "Deltas build where sediment drops",
+      "x": 281,
+      "y": -281,
+      "link": "https://en.wikipedia.org/wiki/River_delta",
+      "parent": "#eqrs59"
+    },
+    {
+      "@id": "#jt7rtr",
+      "name": "Estuaries mix fresh and salt water",
+      "x": 372,
+      "y": -203,
+      "parent": "#eqrs59"
+    },
+    {
+      "@id": "#t9at89",
+      "name": "Some drain into inland lakes instead",
+      "x": 487,
+      "y": -121,
+      "parent": "#eqrs59"
+    },
+    {
+      "@id": "#qhu7sg",
+      "name": "Great rivers",
+      "x": 207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ay6ta2",
+      "name": "Nile, about 6,650 km long",
+      "x": 450,
+      "y": 0,
+      "parent": "#qhu7sg"
+    },
+    {
+      "@id": "#upc4tu",
+      "name": "Amazon carries the most water by far",
+      "x": 487,
+      "y": 121,
+      "parent": "#qhu7sg"
+    },
+    {
+      "@id": "#snmhdu",
+      "name": "Yangtze, longest in Asia",
+      "x": 372,
+      "y": 203,
+      "parent": "#qhu7sg"
+    },
+    {
+      "@id": "#sk8v7e",
+      "name": "Mississippi drains much of the US",
+      "x": 281,
+      "y": 281,
+      "parent": "#qhu7sg"
+    },
+    {
+      "@id": "#qhvadb",
+      "name": "Rivers and people",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vqeq5g",
+      "name": "Early civilisations grew along rivers",
+      "x": 164,
+      "y": 335,
+      "link": "https://en.wikipedia.org/wiki/Cradle_of_civilization",
+      "parent": "#qhvadb"
+    },
+    {
+      "@id": "#jd7bxm",
+      "name": "Irrigation, drinking water and transport",
+      "x": 38,
+      "y": 391,
+      "parent": "#qhvadb"
+    },
+    {
+      "@id": "#g3s6fa",
+      "name": "Dams generate hydroelectric power",
+      "x": -124,
+      "y": 447,
+      "parent": "#qhvadb"
+    },
+    {
+      "@id": "#v35zzj",
+      "name": "Floods enrich soil but destroy homes",
+      "x": -225,
+      "y": 312,
+      "parent": "#qhvadb"
+    },
+    {
+      "@id": "#iwe6sn",
+      "name": "Under pressure",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#32diy8",
+      "name": "Pollution from farms, sewage and industry",
+      "x": -330,
+      "y": 245,
+      "parent": "#iwe6sn"
+    },
+    {
+      "@id": "#4nrgw3",
+      "name": "Dams block fish migration",
+      "x": -405,
+      "y": 156,
+      "parent": "#iwe6sn"
+    },
+    {
+      "@id": "#4743ui",
+      "name": "Overuse dries rivers like the Colorado",
+      "x": -505,
+      "y": 60,
+      "parent": "#iwe6sn"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

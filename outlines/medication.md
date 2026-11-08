@@ -1,0 +1,31 @@
+category: Health
+aliases: medicines, prescription medicines, over-the-counter medicines, taking medicines
+- Medication
+  - Types of medicine
+    - Prescription-only medicines
+    - Over-the-counter medicines
+    - [Generics work as well as brands](https://en.wikipedia.org/wiki/Generic_drug)
+    - Vaccines and biologics
+  - Forms and routes
+    - Tablets, capsules and liquids
+    - Injections, inhalers, creams, patches
+    - Route affects speed and strength
+  - From lab to pharmacy
+    - Discovery and lab testing
+    - [Clinical trials in phases before approval](https://en.wikipedia.org/wiki/Phases_of_clinical_research)
+    - Regulators such as FDA, EMA approve
+    - Safety monitored after approval
+  - Taking medicines safely
+    - Follow dose, timing and instructions
+    - [Check interactions, including herbal remedies](https://en.wikipedia.org/wiki/Drug_interaction)
+    - Don't share prescription medicines
+    - Store safely, away from children
+    - Ask a pharmacist if unsure
+  - [Side effects](https://en.wikipedia.org/wiki/Adverse_effect)
+    - Most are mild and temporary
+    - Allergic reactions need urgent help
+    - Report suspected side effects
+  - Wider issues
+    - [WHO Essential Medicines List](https://en.wikipedia.org/wiki/WHO_Model_List_of_Essential_Medicines)
+    - Cost and access vary widely
+    - Many medicines at once raise risks

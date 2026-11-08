@@ -1,0 +1,328 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Sadness",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#3v6ja2",
+      "name": "What sadness is",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9emqa3",
+      "name": "Emotional pain after loss or disappointment",
+      "x": -525,
+      "y": -62,
+      "parent": "#3v6ja2"
+    },
+    {
+      "@id": "#tjy5hk",
+      "name": "One of the basic human emotions",
+      "x": -405,
+      "y": -156,
+      "parent": "#3v6ja2"
+    },
+    {
+      "@id": "#crakaj",
+      "name": "Usually fades with time",
+      "x": -330,
+      "y": -245,
+      "parent": "#3v6ja2"
+    },
+    {
+      "@id": "#zw3n3g",
+      "name": "Why we have it",
+      "x": -51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5yibtz",
+      "name": "Signals that something mattered to us",
+      "x": -225,
+      "y": -312,
+      "parent": "#zw3n3g"
+    },
+    {
+      "@id": "#jnsmw2",
+      "name": "Slows us down to reflect",
+      "x": -104,
+      "y": -367,
+      "parent": "#zw3n3g"
+    },
+    {
+      "@id": "#ns3qw7",
+      "name": "Tears invite comfort from others",
+      "x": 42,
+      "y": -423,
+      "parent": "#zw3n3g"
+    },
+    {
+      "@id": "#6fdsyd",
+      "name": "How sadness shows",
+      "x": 155,
+      "y": -157,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7fm6mb",
+      "name": "Crying, low energy, heavy body",
+      "x": 234,
+      "y": -485,
+      "parent": "#6fdsyd"
+    },
+    {
+      "@id": "#bbnzzd",
+      "name": "Withdrawing from people and activities",
+      "x": 281,
+      "y": -281,
+      "parent": "#6fdsyd"
+    },
+    {
+      "@id": "#ffg9p9",
+      "name": "Downturned mouth and drooping eyelids",
+      "x": 389,
+      "y": -212,
+      "parent": "#6fdsyd"
+    },
+    {
+      "@id": "#6z4smf",
+      "name": "Common causes",
+      "x": 227,
+      "y": 27,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#enurcs",
+      "name": "Grief after someone dies",
+      "x": 430,
+      "y": -106,
+      "link": "https://en.wikipedia.org/wiki/Grief",
+      "parent": "#6z4smf"
+    },
+    {
+      "@id": "#4irp7w",
+      "name": "Breakups and lost friendships",
+      "x": 470,
+      "y": 0,
+      "parent": "#6z4smf"
+    },
+    {
+      "@id": "#ayt9ns",
+      "name": "Failures and unmet hopes",
+      "x": 430,
+      "y": 106,
+      "parent": "#6z4smf"
+    },
+    {
+      "@id": "#sdipkk",
+      "name": "Loneliness and isolation",
+      "x": 372,
+      "y": 203,
+      "parent": "#6z4smf"
+    },
+    {
+      "@id": "#vmx37t",
+      "name": "Healthy ways to cope",
+      "x": 51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vxiu7i",
+      "name": "Let yourself feel it and cry",
+      "x": 281,
+      "y": 281,
+      "parent": "#vmx37t"
+    },
+    {
+      "@id": "#6m6xdb",
+      "name": "Talk to someone you trust",
+      "x": 164,
+      "y": 335,
+      "parent": "#vmx37t"
+    },
+    {
+      "@id": "#xsmis7",
+      "name": "Keep moving, sleeping and eating well",
+      "x": 38,
+      "y": 391,
+      "parent": "#vmx37t"
+    },
+    {
+      "@id": "#it3mxb",
+      "name": "Do small things you usually enjoy",
+      "x": -124,
+      "y": 447,
+      "parent": "#vmx37t"
+    },
+    {
+      "@id": "#7be5j9",
+      "name": "Sadness or depression?",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ru9znc",
+      "name": "Sadness has a cause and passes",
+      "x": -225,
+      "y": 312,
+      "parent": "#7be5j9"
+    },
+    {
+      "@id": "#3d2cve",
+      "name": "Depression lasts weeks and affects everything",
+      "x": -330,
+      "y": 245,
+      "link": "https://en.wikipedia.org/wiki/Major_depressive_disorder",
+      "parent": "#7be5j9"
+    },
+    {
+      "@id": "#mgsrqu",
+      "name": "See a doctor if it lingers",
+      "x": -405,
+      "y": 156,
+      "parent": "#7be5j9"
+    },
+    {
+      "@id": "#6kxcu5",
+      "name": "Thoughts of self-harm need urgent help",
+      "x": -445,
+      "y": 54,
+      "parent": "#7be5j9"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

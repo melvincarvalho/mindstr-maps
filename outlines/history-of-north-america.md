@@ -1,0 +1,32 @@
+category: History
+aliases: north american history, north america history
+- History of North America
+  - First peoples
+    - Arrived from Asia 15,000+ years ago
+    - Mound builders at Cahokia on the Mississippi
+    - Ancestral Puebloans in the Southwest
+    - Hundreds of diverse nations and languages
+  - Mesoamerica
+    - Olmec, the earliest major civilization
+    - [Maya cities, astronomy and writing](https://en.wikipedia.org/wiki/Maya_civilization)
+    - Aztec capital Tenochtitlan founded 1325
+  - European colonization
+    - Norse reach Newfoundland about 1000
+    - [Spain conquers the Aztecs, 1521](https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Aztec_Empire)
+    - French in Canada, British on Atlantic coast
+    - Epidemics devastate Indigenous populations
+    - Enslaved Africans forced onto plantations
+  - Independence
+    - [American Revolution, 1775–1783](https://en.wikipedia.org/wiki/American_Revolution)
+    - Haiti's slave revolution wins independence, 1804
+    - Mexico independent from Spain, 1821
+    - Canadian Confederation, 1867
+  - Expansion and conflict
+    - US expands west, displacing Native nations
+    - Mexican–American War, 1846–1848
+    - [US Civil War ends slavery, 1861–65](https://en.wikipedia.org/wiki/American_Civil_War)
+    - Mexican Revolution, 1910–1920
+  - Modern era
+    - US becomes a superpower after 1945
+    - US civil rights movement, 1950s–60s
+    - NAFTA links the three economies, 1994

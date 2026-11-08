@@ -1,0 +1,31 @@
+category: Science
+aliases: planet earth, the earth, our planet, earth planet
+- Earth
+  - Place in space
+    - Third planet from the Sun
+    - About 150 million km from the Sun
+    - Diameter about 12,700 km
+    - Formed about 4.5 billion years ago
+    - [Tilted axis gives the seasons](https://en.wikipedia.org/wiki/Axial_tilt)
+  - Inside the planet
+    - Iron and nickel core
+    - Rocky mantle flows slowly
+    - [Crust split into moving tectonic plates](https://en.wikipedia.org/wiki/Plate_tectonics)
+    - Molten outer core makes magnetic field
+  - Surface and water
+    - Oceans cover about 71% of surface
+    - Seven continents on the land
+    - Water cycles through sea, air, land
+  - Atmosphere
+    - About 78% nitrogen, 21% oxygen
+    - Ozone layer blocks ultraviolet light
+    - Greenhouse gases keep it habitable
+  - Life
+    - Only planet known to host life
+    - Life began about 3.5-4 billion years ago
+    - Photosynthesis filled the air with oxygen
+    - Humans now reshaping the climate
+  - The Moon and beyond
+    - One natural satellite, the Moon
+    - Moon's gravity drives the tides
+    - Thousands of artificial satellites in orbit

@@ -1,0 +1,30 @@
+category: Life and home
+aliases: household, homemaking, running a home
+- Home
+  - What makes a home
+    - Shelter, safety and privacy
+    - A base for family and belonging
+    - Somewhere to rest and be yourself
+  - Kinds of homes
+    - Houses, flats and apartments
+    - Shared, multigenerational and communal homes
+    - Mobile homes, boats and tents
+  - Renting or owning
+    - Renting is flexible, with fewer repairs
+    - [Mortgages spread a purchase over decades](https://en.wikipedia.org/wiki/Mortgage_loan)
+    - Budget for bills, tax and insurance
+  - Rooms and what they do
+    - Kitchen for cooking and gathering
+    - Bedrooms for sleep and privacy
+    - Bathroom for washing and toilet
+    - Living room for relaxing together
+  - Running a household
+    - Cleaning and laundry routines
+    - Share chores fairly among residents
+    - Pay utilities: power, water, internet
+    - [Regular maintenance prevents costly repairs](https://en.wikipedia.org/wiki/Home_repair)
+  - Keeping it safe
+    - [Smoke alarms on every floor](https://en.wikipedia.org/wiki/Smoke_detector)
+    - Carbon monoxide alarms near burners
+    - Lock doors and windows
+    - Store medicines and cleaners out of reach

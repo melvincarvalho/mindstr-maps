@@ -1,0 +1,30 @@
+category: Life and home
+aliases: childhood, children, child development
+- Child
+  - What a child is
+    - A young person below adulthood
+    - Usually under 18 in law
+    - Childhood shaped by culture and era
+  - [Stages of development](https://en.wikipedia.org/wiki/Child_development)
+    - Infancy: birth to one year
+    - Toddler years: walking and first sentences
+    - Early childhood: play and imagination
+    - Middle childhood: school and friendships
+    - Adolescence: puberty and independence
+  - What children need
+    - Nutrition, sleep and health care
+    - Love and stable relationships
+    - [Play builds body and mind](https://en.wikipedia.org/wiki/Play_%28activity%29)
+    - Safety from harm and neglect
+  - Learning
+    - Language grows fastest in early years
+    - [Piaget described four thinking stages](https://en.wikipedia.org/wiki/Piaget%27s_theory_of_cognitive_development)
+    - Schooling usually starts around five or six
+  - [Children's rights](https://en.wikipedia.org/wiki/Convention_on_the_Rights_of_the_Child)
+    - UN convention adopted in 1989
+    - Right to education and health
+    - Protection from child labour and abuse
+    - A voice in decisions affecting them
+  - Global picture
+    - About a quarter of people are children
+    - Child deaths have fallen sharply since 1990

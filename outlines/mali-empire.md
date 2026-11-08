@@ -1,0 +1,30 @@
+category: History
+aliases: empire of mali, mali kingdom, manden kurufaba
+- Mali Empire
+  - Founding
+    - West African empire, about 1235–1600
+    - [Sundiata Keita defeats Sosso kingdom](https://en.wikipedia.org/wiki/Sundiata_Keita)
+    - Epic of Sundiata told by griots
+    - Heartland on the upper Niger River
+  - Wealth and trade
+    - Controlled gold fields of Bambuk and Bure
+    - Gold traded for Saharan salt
+    - Trans-Saharan caravans to North Africa
+    - Copper, ivory and enslaved people traded
+  - [Mansa Musa](https://en.wikipedia.org/wiki/Mansa_Musa)
+    - Ruled about 1312–1337
+    - Hajj to Mecca in 1324
+    - Gave so much gold Cairo's prices fell
+    - Often called history's richest person
+  - [Timbuktu, centre of learning](https://en.wikipedia.org/wiki/Timbuktu)
+    - Sankore and Djinguereber mosques
+    - Thousands of manuscripts still survive
+    - Scholars drawn from across Islamic world
+  - Society and rule
+    - Mansa ruled over many provinces
+    - Islam among elites, traditional beliefs widespread
+    - [Ibn Battuta visited in 1352](https://en.wikipedia.org/wiki/Ibn_Battuta)
+  - Decline
+    - Succession disputes weakened central power
+    - Songhai Empire took Timbuktu and Gao
+    - Atlantic trade bypassed Saharan routes

@@ -1,0 +1,352 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Mathematics",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#dnziv5",
+      "name": "The study of number, shape and pattern",
+      "x": -211,
+      "y": -73,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9t3s7h",
+      "name": "Starts from definitions and axioms",
+      "x": -586,
+      "y": -63,
+      "parent": "#dnziv5"
+    },
+    {
+      "@id": "#baz8b5",
+      "name": "Results are proved, not just observed",
+      "x": -413,
+      "y": -143,
+      "parent": "#dnziv5"
+    },
+    {
+      "@id": "#scwgqs",
+      "name": "Abstract ideas that apply everywhere",
+      "x": -349,
+      "y": -227,
+      "parent": "#dnziv5"
+    },
+    {
+      "@id": "#7dz7jf",
+      "name": "Main branches",
+      "x": -16,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dwtwqp",
+      "name": "Arithmetic and number theory",
+      "x": -260,
+      "y": -294,
+      "link": "https://en.wikipedia.org/wiki/Number_theory",
+      "parent": "#7dz7jf"
+    },
+    {
+      "@id": "#4wc2by",
+      "name": "Algebra: unknowns and structures",
+      "x": -158,
+      "y": -354,
+      "parent": "#7dz7jf"
+    },
+    {
+      "@id": "#r7u88m",
+      "name": "Geometry: shape, space and measurement",
+      "x": -34,
+      "y": -407,
+      "parent": "#7dz7jf"
+    },
+    {
+      "@id": "#kpz2hi",
+      "name": "Calculus: change and accumulation",
+      "x": 120,
+      "y": -464,
+      "link": "https://en.wikipedia.org/wiki/Calculus",
+      "parent": "#7dz7jf"
+    },
+    {
+      "@id": "#94w72p",
+      "name": "Probability and statistics: chance and data",
+      "x": 225,
+      "y": -348,
+      "parent": "#7dz7jf"
+    },
+    {
+      "@id": "#kw9gtt",
+      "name": "How mathematicians work",
+      "x": 211,
+      "y": -73,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gazy6v",
+      "name": "Spot a pattern in examples",
+      "x": 307,
+      "y": -263,
+      "parent": "#kw9gtt"
+    },
+    {
+      "@id": "#494ena",
+      "name": "Make a precise conjecture",
+      "x": 384,
+      "y": -187,
+      "parent": "#kw9gtt"
+    },
+    {
+      "@id": "#qz6rts",
+      "name": "Prove it with logical steps",
+      "x": 490,
+      "y": -109,
+      "parent": "#kw9gtt"
+    },
+    {
+      "@id": "#4ff75w",
+      "name": "Generalise to wider cases",
+      "x": 450,
+      "y": 0,
+      "parent": "#kw9gtt"
+    },
+    {
+      "@id": "#s9afpa",
+      "name": "A short history",
+      "x": 157,
+      "y": 134,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tui2q5",
+      "name": "Counting tallies over 20,000 years old",
+      "x": 452,
+      "y": 101,
+      "parent": "#s9afpa"
+    },
+    {
+      "@id": "#bikdth",
+      "name": "Babylonians and Egyptians: practical calculation",
+      "x": 384,
+      "y": 187,
+      "parent": "#s9afpa"
+    },
+    {
+      "@id": "#d8h4y4",
+      "name": "Euclid's Elements organised proof",
+      "x": 307,
+      "y": 263,
+      "link": "https://en.wikipedia.org/wiki/Euclid%27s_Elements",
+      "parent": "#s9afpa"
+    },
+    {
+      "@id": "#ip3zz8",
+      "name": "Zero and decimal digits from India",
+      "x": 207,
+      "y": 320,
+      "parent": "#s9afpa"
+    },
+    {
+      "@id": "#icjpbq",
+      "name": "Newton and Leibniz invent calculus",
+      "x": 96,
+      "y": 368,
+      "parent": "#s9afpa"
+    },
+    {
+      "@id": "#7b6waz",
+      "name": "Where it is used",
+      "x": -106,
+      "y": 163,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ve8jvw",
+      "name": "Physics and engineering models",
+      "x": -35,
+      "y": 423,
+      "parent": "#7b6waz"
+    },
+    {
+      "@id": "#umtwrk",
+      "name": "Computers, codes and encryption",
+      "x": -214,
+      "y": 474,
+      "parent": "#7b6waz"
+    },
+    {
+      "@id": "#2abi45",
+      "name": "Finance, insurance and economics",
+      "x": -260,
+      "y": 294,
+      "parent": "#7b6waz"
+    },
+    {
+      "@id": "#5dxiez",
+      "name": "Medicine and data science",
+      "x": -349,
+      "y": 227,
+      "parent": "#7b6waz"
+    },
+    {
+      "@id": "#mniqyu",
+      "name": "Big open questions",
+      "x": -221,
+      "y": 50,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ky7t3g",
+      "name": "Riemann hypothesis about prime numbers",
+      "x": -413,
+      "y": 143,
+      "link": "https://en.wikipedia.org/wiki/Riemann_hypothesis",
+      "parent": "#mniqyu"
+    },
+    {
+      "@id": "#6ha2st",
+      "name": "P versus NP in computing",
+      "x": -466,
+      "y": 51,
+      "parent": "#mniqyu"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 16,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    },
+    {
+      "start": 0,
+      "end": 27
+    },
+    {
+      "start": 27,
+      "end": 28
+    },
+    {
+      "start": 27,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

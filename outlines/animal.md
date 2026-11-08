@@ -1,0 +1,31 @@
+category: Science
+aliases: animals, kingdom animalia, the animal kingdom, fauna
+- Animal
+  - What makes an animal
+    - Many cells, no cell walls
+    - Eat other organisms for energy
+    - Most can move at some stage
+    - Develop from a ball of cells
+  - Size and diversity
+    - About 1.5 million species described
+    - Millions more still undiscovered
+    - From microscopic mites to blue whales
+    - [Over 30 major body plans, or phyla](https://en.wikipedia.org/wiki/Phylum)
+  - Major groups
+    - Sponges and jellyfish, the simplest
+    - [Arthropods: insects, spiders, crabs](https://en.wikipedia.org/wiki/Arthropod)
+    - Molluscs: snails, clams, octopuses
+    - Worms of many separate kinds
+    - Vertebrates: fish, birds, mammals
+  - Origins and evolution
+    - First animals over 600 million years ago
+    - [Cambrian explosion, about 540 million years ago](https://en.wikipedia.org/wiki/Cambrian_explosion)
+    - Closest relatives are fungi
+  - How animals live
+    - Nervous systems sense and respond
+    - Most reproduce sexually
+    - Predators, grazers, filter feeders, parasites
+  - Animals and people
+    - Livestock give meat, milk and wool
+    - Pollinators support many crops
+    - [Many species threatened with extinction](https://en.wikipedia.org/wiki/Holocene_extinction)

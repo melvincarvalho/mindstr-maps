@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Rock music",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#5ahccd",
+      "name": "Roots",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hqwu36",
+      "name": "Blues, country and rhythm and blues",
+      "x": -445,
+      "y": -54,
+      "parent": "#5ahccd"
+    },
+    {
+      "@id": "#jfz7np",
+      "name": "Rock and roll in 1950s America",
+      "x": -405,
+      "y": -156,
+      "link": "https://en.wikipedia.org/wiki/Rock_and_roll",
+      "parent": "#5ahccd"
+    },
+    {
+      "@id": "#4eg2qq",
+      "name": "Chuck Berry, Elvis Presley, Little Richard",
+      "x": -330,
+      "y": -245,
+      "parent": "#5ahccd"
+    },
+    {
+      "@id": "#mm54n9",
+      "name": "The sound",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4pctxg",
+      "name": "Electric guitar leads the band",
+      "x": -225,
+      "y": -312,
+      "parent": "#mm54n9"
+    },
+    {
+      "@id": "#ktvkir",
+      "name": "Bass guitar and drum kit backbeat",
+      "x": -104,
+      "y": -367,
+      "parent": "#mm54n9"
+    },
+    {
+      "@id": "#4p5pxu",
+      "name": "Loud amplified live performance",
+      "x": 42,
+      "y": -423,
+      "parent": "#mm54n9"
+    },
+    {
+      "@id": "#q8wap8",
+      "name": "Verse–chorus songs and guitar solos",
+      "x": 234,
+      "y": -485,
+      "parent": "#mm54n9"
+    },
+    {
+      "@id": "#z56qe6",
+      "name": "1960s breakthrough",
+      "x": 190,
+      "y": -104,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vxnbry",
+      "name": "The Beatles and British Invasion",
+      "x": 281,
+      "y": -281,
+      "link": "https://en.wikipedia.org/wiki/British_Invasion",
+      "parent": "#z56qe6"
+    },
+    {
+      "@id": "#qf99q6",
+      "name": "Rolling Stones, The Who, Jimi Hendrix",
+      "x": 372,
+      "y": -203,
+      "parent": "#z56qe6"
+    },
+    {
+      "@id": "#8xau2a",
+      "name": "Psychedelia and Woodstock 1969",
+      "x": 468,
+      "y": -116,
+      "parent": "#z56qe6"
+    },
+    {
+      "@id": "#96dcky",
+      "name": "Major subgenres",
+      "x": 190,
+      "y": 104,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qpcs2i",
+      "name": "Hard rock and heavy metal",
+      "x": 450,
+      "y": 0,
+      "parent": "#96dcky"
+    },
+    {
+      "@id": "#kvcfjn",
+      "name": "Progressive rock's long ambitious songs",
+      "x": 487,
+      "y": 121,
+      "parent": "#96dcky"
+    },
+    {
+      "@id": "#v8mfkb",
+      "name": "Punk rock's fast, raw rebellion",
+      "x": 372,
+      "y": 203,
+      "link": "https://en.wikipedia.org/wiki/Punk_rock",
+      "parent": "#96dcky"
+    },
+    {
+      "@id": "#dse9k4",
+      "name": "Alternative and grunge in the 1990s",
+      "x": 281,
+      "y": 281,
+      "parent": "#96dcky"
+    },
+    {
+      "@id": "#cwmw6v",
+      "name": "Indie rock",
+      "x": 164,
+      "y": 335,
+      "parent": "#96dcky"
+    },
+    {
+      "@id": "#nuxfwv",
+      "name": "Culture and influence",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tx7hgc",
+      "name": "Youth rebellion and counterculture",
+      "x": 38,
+      "y": 391,
+      "parent": "#nuxfwv"
+    },
+    {
+      "@id": "#x9segn",
+      "name": "Albums as artistic statements",
+      "x": -124,
+      "y": 447,
+      "parent": "#nuxfwv"
+    },
+    {
+      "@id": "#c9g9t5",
+      "name": "Stadium tours and festivals",
+      "x": -225,
+      "y": 312,
+      "parent": "#nuxfwv"
+    },
+    {
+      "@id": "#ig6hy4",
+      "name": "Legacy",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kvjx4m",
+      "name": "Rock and Roll Hall of Fame",
+      "x": -330,
+      "y": 245,
+      "link": "https://en.wikipedia.org/wiki/Rock_and_Roll_Hall_of_Fame",
+      "parent": "#ig6hy4"
+    },
+    {
+      "@id": "#3yxy3v",
+      "name": "Shaped pop, hip hop and metal",
+      "x": -405,
+      "y": 156,
+      "parent": "#ig6hy4"
+    },
+    {
+      "@id": "#25qyhq",
+      "name": "Overtaken by hip hop in sales",
+      "x": -445,
+      "y": 54,
+      "parent": "#ig6hy4"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 14,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

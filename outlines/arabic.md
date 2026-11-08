@@ -1,0 +1,33 @@
+category: Society
+aliases: arabic language, learn arabic, modern standard arabic
+- Arabic
+  - Where it's spoken
+    - About 400 million speakers
+    - Official in over 20 countries
+    - One of six UN official languages
+    - Language of the Quran for Muslims
+  - History and family
+    - Semitic branch of Afroasiatic
+    - Related to Hebrew and Aramaic
+    - Spread with Islam from the 600s
+    - Golden Age language of science
+    - English words: algebra, coffee, sugar
+  - Standard and dialects
+    - [Classical Arabic of the Quran](https://en.wikipedia.org/wiki/Classical_Arabic)
+    - [Modern Standard Arabic for media, writing](https://en.wikipedia.org/wiki/Modern_Standard_Arabic)
+    - [Spoken dialects vary widely by region](https://en.wikipedia.org/wiki/Varieties_of_Arabic)
+    - Egyptian, Levantine, Gulf, Maghrebi
+  - Sounds and writing
+    - [28 letters, written right to left](https://en.wikipedia.org/wiki/Arabic_alphabet)
+    - Letters join and change shape
+    - Short vowels usually left unwritten
+    - Throat sounds like ʿayn and ḥā'
+  - Grammar highlights
+    - [Words built on three-consonant roots](https://en.wikipedia.org/wiki/Semitic_root)
+    - k-t-b: write, book, office
+    - Singular, dual and plural
+    - Irregular "broken" plurals
+  - Tips for learners
+    - Decide: Standard, dialect or both
+    - Learn roots to unlock vocabulary
+    - The script takes weeks, not months

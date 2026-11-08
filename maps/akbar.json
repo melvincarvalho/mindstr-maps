@@ -1,0 +1,329 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Akbar",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#87degx",
+      "name": "Early life",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zg3re3",
+      "name": "Born 1542 in Umarkot, Sindh",
+      "x": -445,
+      "y": -54,
+      "parent": "#87degx"
+    },
+    {
+      "@id": "#8vzwvk",
+      "name": "Grandson of Babur, son of Humayun",
+      "x": -405,
+      "y": -156,
+      "parent": "#87degx"
+    },
+    {
+      "@id": "#i2dqm7",
+      "name": "Became emperor at 13 in 1556",
+      "x": -330,
+      "y": -245,
+      "parent": "#87degx"
+    },
+    {
+      "@id": "#ig6im8",
+      "name": "Expanding the empire",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wsxj28",
+      "name": "Won Second Battle of Panipat, 1556",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Second_Battle_of_Panipat",
+      "parent": "#ig6im8"
+    },
+    {
+      "@id": "#v68idw",
+      "name": "Took Rajput fortress of Chittorgarh, 1568",
+      "x": -104,
+      "y": -367,
+      "parent": "#ig6im8"
+    },
+    {
+      "@id": "#9z5tnb",
+      "name": "Annexed Gujarat, Bengal, Kashmir and Deccan lands",
+      "x": 42,
+      "y": -423,
+      "parent": "#ig6im8"
+    },
+    {
+      "@id": "#g8hhfe",
+      "name": "Ruled most of northern India",
+      "x": 234,
+      "y": -485,
+      "parent": "#ig6im8"
+    },
+    {
+      "@id": "#xqdn5t",
+      "name": "How he governed",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a2rnqw",
+      "name": "Mansabdari system ranked officials",
+      "x": 281,
+      "y": -281,
+      "parent": "#xqdn5t"
+    },
+    {
+      "@id": "#h7q8wh",
+      "name": "Revenue reforms under Todar Mal",
+      "x": 372,
+      "y": -203,
+      "parent": "#xqdn5t"
+    },
+    {
+      "@id": "#i82z63",
+      "name": "Married Rajput princesses, allied with Rajputs",
+      "x": 525,
+      "y": -131,
+      "parent": "#xqdn5t"
+    },
+    {
+      "@id": "#4qug5j",
+      "name": "Abolished the jizya tax on non-Muslims",
+      "x": 450,
+      "y": 0,
+      "parent": "#xqdn5t"
+    },
+    {
+      "@id": "#drvn5k",
+      "name": "Religion and ideas",
+      "x": 190,
+      "y": 104,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#229pk3",
+      "name": "Debates of faiths at Ibadat Khana",
+      "x": 487,
+      "y": 121,
+      "parent": "#drvn5k"
+    },
+    {
+      "@id": "#42x3z7",
+      "name": "Founded the Din-i Ilahi circle",
+      "x": 372,
+      "y": 203,
+      "link": "https://en.wikipedia.org/wiki/Din-i_Ilahi",
+      "parent": "#drvn5k"
+    },
+    {
+      "@id": "#unewyb",
+      "name": "Promoted sulh-i kul, peace with all",
+      "x": 281,
+      "y": 281,
+      "parent": "#drvn5k"
+    },
+    {
+      "@id": "#kfycht",
+      "name": "Culture",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ha72jt",
+      "name": "Built Fatehpur Sikri as a capital",
+      "x": 164,
+      "y": 335,
+      "link": "https://en.wikipedia.org/wiki/Fatehpur_Sikri",
+      "parent": "#kfycht"
+    },
+    {
+      "@id": "#3eywnq",
+      "name": "Mughal miniature painting flourished",
+      "x": 38,
+      "y": 391,
+      "parent": "#kfycht"
+    },
+    {
+      "@id": "#7tfqt3",
+      "name": "Abul Fazl wrote the Akbarnama",
+      "x": -124,
+      "y": 447,
+      "parent": "#kfycht"
+    },
+    {
+      "@id": "#p5e2ne",
+      "name": "Court famed for the \"nine jewels\"",
+      "x": -225,
+      "y": 312,
+      "parent": "#kfycht"
+    },
+    {
+      "@id": "#aetbrf",
+      "name": "Legacy",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8s4rgk",
+      "name": "Died 1605 in Agra",
+      "x": -330,
+      "y": 245,
+      "parent": "#aetbrf"
+    },
+    {
+      "@id": "#t83dsm",
+      "name": "Son Jahangir succeeded him",
+      "x": -405,
+      "y": 156,
+      "parent": "#aetbrf"
+    },
+    {
+      "@id": "#zkdrty",
+      "name": "Remembered for religious tolerance",
+      "x": -445,
+      "y": 54,
+      "parent": "#aetbrf"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

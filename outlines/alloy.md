@@ -1,0 +1,27 @@
+category: Science
+aliases: alloys, metal alloys, what is an alloy
+- Alloy
+  - What an alloy is
+    - A metal mixed with other elements
+    - Usually melted together then cooled
+    - Properties differ from the pure metals
+  - Why alloys are stronger
+    - Different-sized atoms disrupt neat layers
+    - Layers can't slide as easily
+    - Pure metals are often too soft
+  - Two ways atoms mix
+    - Substitutional: similar atoms swap places
+    - Interstitial: small atoms fill gaps
+  - Famous alloys
+    - [Bronze: copper and tin](https://en.wikipedia.org/wiki/Bronze)
+    - [Brass: copper and zinc](https://en.wikipedia.org/wiki/Brass)
+    - [Steel: iron and carbon](https://en.wikipedia.org/wiki/Steel)
+    - [Stainless steel adds chromium against rust](https://en.wikipedia.org/wiki/Stainless_steel)
+    - Solder joins electronics, mostly tin-based
+  - Gold and coins
+    - 18-carat gold is 75% gold
+    - Cupronickel makes many silver-coloured coins
+  - Special-purpose alloys
+    - Aluminium alloys keep aircraft light
+    - Titanium alloys in jet engines and implants
+    - Shape-memory alloys spring back when heated

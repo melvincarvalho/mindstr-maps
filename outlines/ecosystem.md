@@ -1,0 +1,32 @@
+category: Science
+aliases: what is an ecosystem, ecological system, ecosystems explained
+- Ecosystem
+  - What it is
+    - Living things plus their physical surroundings
+    - Term coined by Arthur Tansley, 1935
+    - Any scale, from pond to ocean
+  - Living parts
+    - Producers: plants and algae photosynthesise
+    - Consumers: herbivores, carnivores, omnivores
+    - Decomposers: fungi and bacteria recycle
+    - [Keystone species hold systems together](https://en.wikipedia.org/wiki/Keystone_species)
+  - Non-living parts
+    - Sunlight, water and temperature
+    - Soil, rock and nutrients
+    - Climate shapes which species thrive
+  - Energy flow
+    - [Food webs link who eats whom](https://en.wikipedia.org/wiki/Food_web)
+    - [About 10% passes up each level](https://en.wikipedia.org/wiki/Trophic_level)
+    - Energy flows one way, lost as heat
+  - Nutrient cycles
+    - Carbon cycles through air and life
+    - [Nitrogen fixed by soil bacteria](https://en.wikipedia.org/wiki/Nitrogen_cycle)
+    - Water cycle moves rain to rivers
+  - Change and balance
+    - [Succession: bare ground becomes forest](https://en.wikipedia.org/wiki/Ecological_succession)
+    - Fires and floods reset habitats
+    - Invasive species can upset balance
+  - Major types
+    - Forests, grasslands and deserts
+    - Freshwater lakes, rivers and wetlands
+    - Oceans and coral reefs

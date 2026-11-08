@@ -1,0 +1,30 @@
+category: Science
+aliases: planet jupiter, jupiter planet, largest planet
+- Jupiter
+  - Size and orbit
+    - Fifth planet, the largest
+    - About 11 times Earth's diameter
+    - More massive than all others combined
+    - About 778 million km from the Sun
+    - Year of about 12 Earth years
+  - A gas giant
+    - Mostly hydrogen and helium
+    - No solid surface
+    - Day under 10 hours, fastest spin
+    - Powerful magnetic field and radiation belts
+  - Weather
+    - Coloured bands of cloud
+    - [Great Red Spot, a centuries-old storm](https://en.wikipedia.org/wiki/Great_Red_Spot)
+    - Lightning and ammonia clouds
+  - Moons and rings
+    - Around 95 known moons
+    - [Four Galilean moons found in 1610](https://en.wikipedia.org/wiki/Galilean_moons)
+    - Io, the most volcanic world known
+    - Europa has an ocean under ice
+    - Ganymede, largest moon in Solar System
+    - Faint dusty rings
+  - Exploration
+    - Pioneer and Voyager flybys in 1970s
+    - Galileo orbiter, 1995-2003
+    - Juno orbiting since 2016
+    - [Juice and Europa Clipper on the way](https://en.wikipedia.org/wiki/Europa_Clipper)

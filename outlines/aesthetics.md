@@ -1,0 +1,29 @@
+category: Philosophy and religion
+aliases: philosophy of art, aesthetics philosophy, philosophy of taste
+- Aesthetics
+  - Key questions
+    - What makes something beautiful?
+    - Is taste just personal preference?
+    - What counts as art?
+    - Why enjoy tragedy and horror?
+  - Ancient views
+    - Plato: art is a copy of copies
+    - [Aristotle: tragedy brings catharsis](https://en.wikipedia.org/wiki/Catharsis)
+    - Beauty as harmony and proportion
+  - Taste and judgement
+    - [Hume: trust experienced critics' consensus](https://en.wikipedia.org/wiki/Of_the_Standard_of_Taste)
+    - Kant: disinterested pleasure claiming universality
+    - [The beautiful versus the sublime](https://en.wikipedia.org/wiki/Sublime_%28philosophy%29)
+  - What is art?
+    - Imitation theory: art represents reality
+    - Expression theory: art conveys feeling (Tolstoy)
+    - Formalism: "significant form" (Clive Bell)
+    - Institutional theory: the artworld decides (Dickie)
+    - [Duchamp's urinal "Fountain", 1917](https://en.wikipedia.org/wiki/Fountain_%28Duchamp%29)
+  - Everyday aesthetics
+    - Design of phones, cars and homes
+    - Food, gardens and landscapes
+    - Fashion and personal style
+  - Beyond the West
+    - Japanese wabi-sabi: beauty in imperfection
+    - Indian rasa theory of emotional flavour

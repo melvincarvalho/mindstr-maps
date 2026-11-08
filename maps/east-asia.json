@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "East Asia",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#npdwwd",
+      "name": "Countries and territories",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kb9pzk",
+      "name": "China, Japan, North and South Korea",
+      "x": -545,
+      "y": -61,
+      "parent": "#npdwwd"
+    },
+    {
+      "@id": "#q5cc2s",
+      "name": "Mongolia and Taiwan",
+      "x": -409,
+      "y": -150,
+      "parent": "#npdwwd"
+    },
+    {
+      "@id": "#crtavt",
+      "name": "Hong Kong and Macau",
+      "x": -340,
+      "y": -236,
+      "parent": "#npdwwd"
+    },
+    {
+      "@id": "#kw4cnw",
+      "name": "Land and climate",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h3vcxk",
+      "name": "Tibetan Plateau, the world's highest",
+      "x": -243,
+      "y": -303,
+      "parent": "#kw4cnw"
+    },
+    {
+      "@id": "#8p5ga9",
+      "name": "Yangtze and Yellow rivers",
+      "x": -133,
+      "y": -360,
+      "link": "https://en.wikipedia.org/wiki/Yangtze",
+      "parent": "#kw4cnw"
+    },
+    {
+      "@id": "#hi24vj",
+      "name": "Gobi Desert in the north",
+      "x": 0,
+      "y": -408,
+      "parent": "#kw4cnw"
+    },
+    {
+      "@id": "#kqghnc",
+      "name": "Japan sits on the Ring of Fire",
+      "x": 175,
+      "y": -465,
+      "parent": "#kw4cnw"
+    },
+    {
+      "@id": "#9n3855",
+      "name": "Monsoon summers, cold dry winters",
+      "x": 243,
+      "y": -303,
+      "parent": "#kw4cnw"
+    },
+    {
+      "@id": "#qq86qx",
+      "name": "Peoples and languages",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#emjsuj",
+      "name": "About 1.6 billion people",
+      "x": 340,
+      "y": -236,
+      "parent": "#qq86qx"
+    },
+    {
+      "@id": "#nsh46z",
+      "name": "Han Chinese the largest ethnic group",
+      "x": 409,
+      "y": -150,
+      "parent": "#qq86qx"
+    },
+    {
+      "@id": "#ymxwfd",
+      "name": "Chinese, Japanese, Korean, Mongolian",
+      "x": 545,
+      "y": -61,
+      "parent": "#qq86qx"
+    },
+    {
+      "@id": "#uhsik3",
+      "name": "Chinese characters shaped regional writing",
+      "x": 445,
+      "y": 51,
+      "link": "https://en.wikipedia.org/wiki/Chinese_characters",
+      "parent": "#qq86qx"
+    },
+    {
+      "@id": "#jsgbgx",
+      "name": "History in brief",
+      "x": 151,
+      "y": 139,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#385s3k",
+      "name": "Chinese dynasties from about 1600 BC",
+      "x": 445,
+      "y": 164,
+      "parent": "#jsgbgx"
+    },
+    {
+      "@id": "#f6g4h9",
+      "name": "Confucianism and Buddhism spread widely",
+      "x": 340,
+      "y": 236,
+      "parent": "#jsgbgx"
+    },
+    {
+      "@id": "#ikr74f",
+      "name": "Japan's empire and World War II",
+      "x": 243,
+      "y": 303,
+      "parent": "#jsgbgx"
+    },
+    {
+      "@id": "#9ivupc",
+      "name": "Korean War divided the peninsula, 1950–53",
+      "x": 133,
+      "y": 360,
+      "parent": "#jsgbgx"
+    },
+    {
+      "@id": "#2kh9ch",
+      "name": "Economy",
+      "x": -65,
+      "y": 177,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fs63tj",
+      "name": "China, world's second-largest economy",
+      "x": 0,
+      "y": 408,
+      "link": "https://en.wikipedia.org/wiki/Economy_of_China",
+      "parent": "#2kh9ch"
+    },
+    {
+      "@id": "#n9nm5t",
+      "name": "Japan and Korea lead in electronics, cars",
+      "x": -175,
+      "y": 465,
+      "parent": "#2kh9ch"
+    },
+    {
+      "@id": "#kp5b9g",
+      "name": "Taiwan makes most advanced chips",
+      "x": -243,
+      "y": 303,
+      "parent": "#2kh9ch"
+    },
+    {
+      "@id": "#n3kpyx",
+      "name": "Culture",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#urfv8i",
+      "name": "Chopsticks, rice, tea and soy",
+      "x": -340,
+      "y": 236,
+      "parent": "#n3kpyx"
+    },
+    {
+      "@id": "#9kqt9k",
+      "name": "Anime, K-pop and Chinese cinema",
+      "x": -409,
+      "y": 150,
+      "parent": "#n3kpyx"
+    },
+    {
+      "@id": "#c4i4ms",
+      "name": "Lunar New Year, the biggest festival",
+      "x": -465,
+      "y": 53,
+      "link": "https://en.wikipedia.org/wiki/Chinese_New_Year",
+      "parent": "#n3kpyx"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

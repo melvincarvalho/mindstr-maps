@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Arithmetic",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#i9b9x8",
+      "name": "The four operations",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#94752b",
+      "name": "Addition combines amounts",
+      "x": -445,
+      "y": -51,
+      "link": "https://en.wikipedia.org/wiki/Addition",
+      "parent": "#i9b9x8"
+    },
+    {
+      "@id": "#ne44yu",
+      "name": "Subtraction finds the difference",
+      "x": -409,
+      "y": -150,
+      "parent": "#i9b9x8"
+    },
+    {
+      "@id": "#gbs2bw",
+      "name": "Multiplication is repeated addition",
+      "x": -340,
+      "y": -236,
+      "parent": "#i9b9x8"
+    },
+    {
+      "@id": "#abwyam",
+      "name": "Division shares into equal groups",
+      "x": -243,
+      "y": -303,
+      "parent": "#i9b9x8"
+    },
+    {
+      "@id": "#urhfby",
+      "name": "Kinds of numbers",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6pwci3",
+      "name": "Whole numbers for counting",
+      "x": -133,
+      "y": -360,
+      "parent": "#urhfby"
+    },
+    {
+      "@id": "#7t6ddr",
+      "name": "Negative numbers below zero",
+      "x": 0,
+      "y": -408,
+      "parent": "#urhfby"
+    },
+    {
+      "@id": "#n3xhbg",
+      "name": "Fractions and decimals for parts",
+      "x": 175,
+      "y": -465,
+      "parent": "#urhfby"
+    },
+    {
+      "@id": "#7vyzkp",
+      "name": "Percentages are hundredths",
+      "x": 243,
+      "y": -303,
+      "parent": "#urhfby"
+    },
+    {
+      "@id": "#4uv3nf",
+      "name": "Rules that always hold",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4wrte4",
+      "name": "Order doesn't matter when adding or multiplying",
+      "x": 340,
+      "y": -236,
+      "parent": "#4uv3nf"
+    },
+    {
+      "@id": "#b5gwmv",
+      "name": "Multiplication distributes over addition",
+      "x": 409,
+      "y": -150,
+      "parent": "#4uv3nf"
+    },
+    {
+      "@id": "#p49fsu",
+      "name": "Order of operations: brackets first",
+      "x": 545,
+      "y": -61,
+      "link": "https://en.wikipedia.org/wiki/Order_of_operations",
+      "parent": "#4uv3nf"
+    },
+    {
+      "@id": "#y5h84i",
+      "name": "Dividing by zero is undefined",
+      "x": 445,
+      "y": 51,
+      "parent": "#4uv3nf"
+    },
+    {
+      "@id": "#epxdnp",
+      "name": "Written methods",
+      "x": 174,
+      "y": 120,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ndujjf",
+      "name": "Place value: ones, tens, hundreds",
+      "x": 463,
+      "y": 171,
+      "link": "https://en.wikipedia.org/wiki/Positional_notation",
+      "parent": "#epxdnp"
+    },
+    {
+      "@id": "#c6wjug",
+      "name": "Carrying and borrowing in columns",
+      "x": 340,
+      "y": 236,
+      "parent": "#epxdnp"
+    },
+    {
+      "@id": "#nir2s8",
+      "name": "Long multiplication and long division",
+      "x": 243,
+      "y": 303,
+      "parent": "#epxdnp"
+    },
+    {
+      "@id": "#8r9tiy",
+      "name": "History",
+      "x": -33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pahh28",
+      "name": "Tally marks on bones, Stone Age",
+      "x": 133,
+      "y": 360,
+      "parent": "#8r9tiy"
+    },
+    {
+      "@id": "#wjs5dk",
+      "name": "Babylonians counted in base 60",
+      "x": 0,
+      "y": 408,
+      "parent": "#8r9tiy"
+    },
+    {
+      "@id": "#zww4j6",
+      "name": "Indian digits and zero spread westward",
+      "x": -175,
+      "y": 465,
+      "link": "https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system",
+      "parent": "#8r9tiy"
+    },
+    {
+      "@id": "#j2irus",
+      "name": "Fibonacci popularised them in Europe, 1202",
+      "x": -243,
+      "y": 303,
+      "parent": "#8r9tiy"
+    },
+    {
+      "@id": "#fymx5n",
+      "name": "Everyday uses",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a2f28i",
+      "name": "Shopping, budgets and giving change",
+      "x": -340,
+      "y": 236,
+      "parent": "#fymx5n"
+    },
+    {
+      "@id": "#szdmbj",
+      "name": "Scaling recipes with ratios",
+      "x": -409,
+      "y": 150,
+      "parent": "#fymx5n"
+    },
+    {
+      "@id": "#h94a49",
+      "name": "Mental tricks: round, then adjust",
+      "x": -485,
+      "y": 55,
+      "parent": "#fymx5n"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,28 @@
+category: Mathematics
+aliases: polygons, regular polygon, types of polygons
+- Polygon
+  - What a polygon is
+    - Flat shape of straight sides
+    - Closed, with sides meeting at vertices
+    - Name means "many angles" in Greek
+  - Named by number of sides
+    - Triangle 3, quadrilateral 4
+    - Pentagon 5, hexagon 6
+    - Octagon 8, decagon 10
+  - Kinds of polygon
+    - [Regular: equal sides and angles](https://en.wikipedia.org/wiki/Regular_polygon)
+    - Convex: every corner points outward
+    - Concave: at least one dent inward
+    - Simple versus self-crossing, like stars
+  - Angle facts
+    - Interior angles: (n − 2) × 180°
+    - Exterior angles always total 360°
+    - Regular hexagon's angles are 120°
+  - Tiling and patterns
+    - [Only triangles, squares, hexagons tile alone](https://en.wikipedia.org/wiki/Euclidean_tilings_by_convex_regular_polygons)
+    - Bees build hexagonal honeycomb cells
+    - Islamic art combines many polygons
+  - Uses and history
+    - [Gauss constructed the 17-sided polygon](https://en.wikipedia.org/wiki/Heptadecagon)
+    - Computer graphics build models from triangles
+    - Stop signs are octagons

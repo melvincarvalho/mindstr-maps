@@ -1,0 +1,353 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Zoroastrianism",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#39e9dh",
+      "name": "Origins",
+      "x": -197,
+      "y": -96,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xsghri",
+      "name": "Prophet Zarathustra, also called Zoroaster",
+      "x": -486,
+      "y": -53,
+      "link": "https://en.wikipedia.org/wiki/Zoroaster",
+      "parent": "#39e9dh"
+    },
+    {
+      "@id": "#gwapr8",
+      "name": "Dates debated, about 1500–500 BCE",
+      "x": -431,
+      "y": -149,
+      "parent": "#39e9dh"
+    },
+    {
+      "@id": "#ta2sdr",
+      "name": "Major faith of ancient Persian empires",
+      "x": -349,
+      "y": -227,
+      "parent": "#39e9dh"
+    },
+    {
+      "@id": "#w5g4a2",
+      "name": "Declined after 7th-century Arab conquest",
+      "x": -260,
+      "y": -294,
+      "parent": "#39e9dh"
+    },
+    {
+      "@id": "#9wbrin",
+      "name": "Core beliefs",
+      "x": 47,
+      "y": -180,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7xrk85",
+      "name": "Ahura Mazda, the wise creator",
+      "x": -158,
+      "y": -354,
+      "link": "https://en.wikipedia.org/wiki/Ahura_Mazda",
+      "parent": "#9wbrin"
+    },
+    {
+      "@id": "#uhu5vb",
+      "name": "Angra Mainyu, the destructive spirit",
+      "x": -34,
+      "y": -407,
+      "parent": "#9wbrin"
+    },
+    {
+      "@id": "#phyuj9",
+      "name": "Asha (truth) against druj (falsehood)",
+      "x": 120,
+      "y": -464,
+      "parent": "#9wbrin"
+    },
+    {
+      "@id": "#pucqcg",
+      "name": "Humans freely choose good or evil",
+      "x": 207,
+      "y": -320,
+      "parent": "#9wbrin"
+    },
+    {
+      "@id": "#kj26b6",
+      "name": "Good finally triumphs, world renewed",
+      "x": 307,
+      "y": -263,
+      "parent": "#9wbrin"
+    },
+    {
+      "@id": "#zwsk9e",
+      "name": "Ethics",
+      "x": 211,
+      "y": -73,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e2hibj",
+      "name": "Good thoughts, good words, good deeds",
+      "x": 384,
+      "y": -187,
+      "parent": "#zwsk9e"
+    },
+    {
+      "@id": "#ybnqea",
+      "name": "Charity and care for creation",
+      "x": 433,
+      "y": -97,
+      "parent": "#zwsk9e"
+    },
+    {
+      "@id": "#ksr4ch",
+      "name": "Scripture",
+      "x": 221,
+      "y": 50,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c8knrz",
+      "name": "Avesta, the sacred texts",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Avesta",
+      "parent": "#ksr4ch"
+    },
+    {
+      "@id": "#2f9tw3",
+      "name": "Gathas, hymns attributed to Zarathustra",
+      "x": 452,
+      "y": 101,
+      "parent": "#ksr4ch"
+    },
+    {
+      "@id": "#n32juj",
+      "name": "Written in the Avestan language",
+      "x": 384,
+      "y": 187,
+      "parent": "#ksr4ch"
+    },
+    {
+      "@id": "#vb36rx",
+      "name": "Worship and practice",
+      "x": 47,
+      "y": 180,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ixw8ga",
+      "name": "Fire temples keep a sacred fire",
+      "x": 307,
+      "y": 263,
+      "link": "https://en.wikipedia.org/wiki/Fire_temple",
+      "parent": "#vb36rx"
+    },
+    {
+      "@id": "#z4qu7s",
+      "name": "Fire seen as a symbol of purity",
+      "x": 207,
+      "y": 320,
+      "parent": "#vb36rx"
+    },
+    {
+      "@id": "#zka52q",
+      "name": "Navjote initiation with sudreh and kushti",
+      "x": 96,
+      "y": 368,
+      "parent": "#vb36rx"
+    },
+    {
+      "@id": "#biw3xe",
+      "name": "Nowruz, the new year festival",
+      "x": -35,
+      "y": 423,
+      "parent": "#vb36rx"
+    },
+    {
+      "@id": "#x4ue6h",
+      "name": "Traditional sky burial in Towers of Silence",
+      "x": -214,
+      "y": 474,
+      "parent": "#vb36rx"
+    },
+    {
+      "@id": "#c2pke9",
+      "name": "Today",
+      "x": -197,
+      "y": 96,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#x3fye6",
+      "name": "Parsis in India, especially Mumbai",
+      "x": -260,
+      "y": 294,
+      "link": "https://en.wikipedia.org/wiki/Parsis",
+      "parent": "#c2pke9"
+    },
+    {
+      "@id": "#k7rtaq",
+      "name": "Small communities remain in Iran",
+      "x": -349,
+      "y": 227,
+      "parent": "#c2pke9"
+    },
+    {
+      "@id": "#3ux3v2",
+      "name": "About 100,000–200,000 followers worldwide",
+      "x": -431,
+      "y": 149,
+      "parent": "#c2pke9"
+    },
+    {
+      "@id": "#np4hny",
+      "name": "Scholars debate influence on Abrahamic faiths",
+      "x": -486,
+      "y": 53,
+      "parent": "#c2pke9"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 6,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 19,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    },
+    {
+      "start": 25,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,31 @@
+category: People
+aliases: ali ibn abi talib, imam ali, caliph ali
+- Ali
+  - [Ali ibn Abi Talib, about 600–661](https://en.wikipedia.org/wiki/Ali)
+    - Muhammad's cousin, son of Abu Talib
+    - Born in Mecca
+    - Married Muhammad's daughter Fatima
+    - Father of Hasan and Husayn
+  - Early Islam
+    - Among the first to accept Islam
+    - Took Muhammad's place on Hijra night
+    - Noted fighter at Badr and Khaybar
+  - The succession question
+    - Abu Bakr chosen caliph in 632
+    - [Shia: named successor at Ghadir Khumm](https://en.wikipedia.org/wiki/Event_of_Ghadir_Khumm)
+    - Passed over for Umar and Uthman
+  - Caliph from 656 to 661
+    - Chosen after Uthman's assassination
+    - Moved his capital to Kufa
+    - [First Fitna, the first civil war](https://en.wikipedia.org/wiki/First_Fitna)
+    - Battle of the Camel, 656
+    - [Battle of Siffin against Muawiya, 657](https://en.wikipedia.org/wiki/Battle_of_Siffin)
+  - Death
+    - Struck by a Kharijite in Kufa, 661
+    - Imam Ali Shrine in Najaf, Iraq
+    - Muawiya then founded the Umayyad Caliphate
+  - Legacy
+    - Shia Muslims revere him as first Imam
+    - Sunnis: fourth Rightly Guided Caliph
+    - [Sermons collected in Nahj al-Balagha](https://en.wikipedia.org/wiki/Nahj_al-Balagha)
+    - Revered in Sufism as spiritual master

@@ -1,0 +1,31 @@
+category: People
+aliases: madame curie, maria sklodowska, marie sklodowska curie
+- Marie Curie
+  - Early life in Poland
+    - Born Maria Skłodowska, Warsaw, 1867
+    - Russian rule barred women from university
+    - [Studied at the secret Flying University](https://en.wikipedia.org/wiki/Flying_University)
+  - Paris and Pierre
+    - Moved to Paris in 1891
+    - Physics and maths degrees at the Sorbonne
+    - [Married physicist Pierre Curie in 1895](https://en.wikipedia.org/wiki/Pierre_Curie)
+  - Radioactivity
+    - Followed up Becquerel's uranium rays
+    - [Coined the word "radioactivity"](https://en.wikipedia.org/wiki/Radioactive_decay)
+    - Showed radiation comes from atoms themselves
+    - [Discovered polonium and radium in 1898](https://en.wikipedia.org/wiki/Radium)
+  - Two Nobel Prizes
+    - 1903 Physics, shared with Pierre and Becquerel
+    - 1911 Chemistry, for polonium and radium
+    - First woman to win a Nobel
+    - Only person with Nobels in two sciences
+  - Later work
+    - Pierre killed by a horse cart, 1906
+    - Sorbonne's first woman professor, 1906
+    - Mobile X-ray units in World War I
+    - Founded the Radium Institute in Paris
+  - Legacy
+    - Died 1934 of radiation-linked aplastic anaemia
+    - Her notebooks are still radioactive
+    - [Daughter Irène won the 1935 Nobel](https://en.wikipedia.org/wiki/Ir%C3%A8ne_Joliot-Curie)
+    - Reburied in the Panthéon in 1995

@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Alexander the Great",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#g6nj8v",
+      "name": "Early life",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#auewrc",
+      "name": "Born 356 BC in Pella, Macedon",
+      "x": -445,
+      "y": -54,
+      "parent": "#g6nj8v"
+    },
+    {
+      "@id": "#d77njr",
+      "name": "Son of King Philip II",
+      "x": -405,
+      "y": -156,
+      "parent": "#g6nj8v"
+    },
+    {
+      "@id": "#2kktg6",
+      "name": "Tutored by Aristotle as a teenager",
+      "x": -330,
+      "y": -245,
+      "link": "https://en.wikipedia.org/wiki/Aristotle",
+      "parent": "#g6nj8v"
+    },
+    {
+      "@id": "#4dje9z",
+      "name": "Became king at 20 in 336 BC",
+      "x": -225,
+      "y": -312,
+      "parent": "#g6nj8v"
+    },
+    {
+      "@id": "#7v8rn4",
+      "name": "Conquest of Persia",
+      "x": 51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kzm73u",
+      "name": "Crossed into Asia in 334 BC",
+      "x": -104,
+      "y": -367,
+      "parent": "#7v8rn4"
+    },
+    {
+      "@id": "#rw76hq",
+      "name": "Won at the Granicus and Issus",
+      "x": 42,
+      "y": -423,
+      "parent": "#7v8rn4"
+    },
+    {
+      "@id": "#3kgm4b",
+      "name": "Captured Tyre after a long siege",
+      "x": 234,
+      "y": -485,
+      "parent": "#7v8rn4"
+    },
+    {
+      "@id": "#5u9zmg",
+      "name": "Crushed Darius III at Gaugamela, 331 BC",
+      "x": 281,
+      "y": -281,
+      "link": "https://en.wikipedia.org/wiki/Battle_of_Gaugamela",
+      "parent": "#7v8rn4"
+    },
+    {
+      "@id": "#vdzg7y",
+      "name": "Egypt and the East",
+      "x": 220,
+      "y": -54,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bynpam",
+      "name": "Founded Alexandria in Egypt",
+      "x": 372,
+      "y": -203,
+      "parent": "#vdzg7y"
+    },
+    {
+      "@id": "#gt7zws",
+      "name": "Burned the palace at Persepolis",
+      "x": 430,
+      "y": -106,
+      "parent": "#vdzg7y"
+    },
+    {
+      "@id": "#bdw6r8",
+      "name": "Fought through Bactria and Sogdiana",
+      "x": 450,
+      "y": 0,
+      "parent": "#vdzg7y"
+    },
+    {
+      "@id": "#q7sies",
+      "name": "India and the turn back",
+      "x": 190,
+      "y": 104,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#eg7iam",
+      "name": "Defeated King Porus at the Hydaspes",
+      "x": 525,
+      "y": 131,
+      "link": "https://en.wikipedia.org/wiki/Battle_of_the_Hydaspes",
+      "parent": "#q7sies"
+    },
+    {
+      "@id": "#27st83",
+      "name": "Troops refused to march further east",
+      "x": 372,
+      "y": 203,
+      "parent": "#q7sies"
+    },
+    {
+      "@id": "#pij2qy",
+      "name": "Hard return through the Gedrosian Desert",
+      "x": 281,
+      "y": 281,
+      "parent": "#q7sies"
+    },
+    {
+      "@id": "#ncwzap",
+      "name": "Death",
+      "x": 17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pzu637",
+      "name": "Died in Babylon in 323 BC",
+      "x": 164,
+      "y": 335,
+      "parent": "#ncwzap"
+    },
+    {
+      "@id": "#umjey5",
+      "name": "Aged 32; cause still debated",
+      "x": 38,
+      "y": 391,
+      "parent": "#ncwzap"
+    },
+    {
+      "@id": "#3zgxym",
+      "name": "Generals fought over his empire",
+      "x": -124,
+      "y": 447,
+      "parent": "#ncwzap"
+    },
+    {
+      "@id": "#2k3aia",
+      "name": "Legacy",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hybmjc",
+      "name": "Never lost a major battle",
+      "x": -225,
+      "y": 312,
+      "parent": "#2k3aia"
+    },
+    {
+      "@id": "#nvhybt",
+      "name": "Began the Hellenistic period",
+      "x": -330,
+      "y": 245,
+      "link": "https://en.wikipedia.org/wiki/Hellenistic_period",
+      "parent": "#2k3aia"
+    },
+    {
+      "@id": "#fwski3",
+      "name": "Spread Greek language and culture eastward",
+      "x": -405,
+      "y": 156,
+      "parent": "#2k3aia"
+    },
+    {
+      "@id": "#238j4y",
+      "name": "Dozens of cities named after him",
+      "x": -445,
+      "y": 54,
+      "parent": "#2k3aia"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

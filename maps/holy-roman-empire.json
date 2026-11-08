@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Holy Roman Empire",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#mycmyz",
+      "name": "What it was",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9v2t7j",
+      "name": "Central European realm, 800/962–1806",
+      "x": -485,
+      "y": -58,
+      "parent": "#mycmyz"
+    },
+    {
+      "@id": "#gfxgmr",
+      "name": "Mostly German lands, plus Italy and Bohemia",
+      "x": -405,
+      "y": -156,
+      "parent": "#mycmyz"
+    },
+    {
+      "@id": "#tfvmjk",
+      "name": "\"Neither holy, nor Roman, nor an empire\"",
+      "x": -330,
+      "y": -245,
+      "parent": "#mycmyz"
+    },
+    {
+      "@id": "#vt7a8x",
+      "name": "Beginnings",
+      "x": -51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ufe28b",
+      "name": "Charlemagne crowned by the Pope, 800",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Charlemagne",
+      "parent": "#vt7a8x"
+    },
+    {
+      "@id": "#v2jnwc",
+      "name": "Otto I crowned emperor in 962",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Otto_the_Great",
+      "parent": "#vt7a8x"
+    },
+    {
+      "@id": "#wztk57",
+      "name": "Claimed succession to ancient Rome",
+      "x": 42,
+      "y": -423,
+      "parent": "#vt7a8x"
+    },
+    {
+      "@id": "#mgm7kh",
+      "name": "How it worked",
+      "x": 169,
+      "y": -125,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jd4ui6",
+      "name": "Hundreds of princes, bishops and cities",
+      "x": 234,
+      "y": -485,
+      "parent": "#mgm7kh"
+    },
+    {
+      "@id": "#5gxkcg",
+      "name": "Emperor chosen by prince-electors",
+      "x": 281,
+      "y": -281,
+      "parent": "#mgm7kh"
+    },
+    {
+      "@id": "#etiuiu",
+      "name": "Golden Bull of 1356 fixed seven electors",
+      "x": 372,
+      "y": -203,
+      "link": "https://en.wikipedia.org/wiki/Golden_Bull_of_1356",
+      "parent": "#mgm7kh"
+    },
+    {
+      "@id": "#idvhmb",
+      "name": "Imperial Diet, the Reichstag, met regularly",
+      "x": 487,
+      "y": -121,
+      "parent": "#mgm7kh"
+    },
+    {
+      "@id": "#vvs3bk",
+      "name": "Emperors and popes",
+      "x": 220,
+      "y": 54,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6v8dg6",
+      "name": "Investiture Controversy over appointing bishops",
+      "x": 450,
+      "y": 0,
+      "parent": "#vvs3bk"
+    },
+    {
+      "@id": "#izpmyi",
+      "name": "Henry IV's penance at Canossa, 1077",
+      "x": 430,
+      "y": 106,
+      "parent": "#vvs3bk"
+    },
+    {
+      "@id": "#zmyj72",
+      "name": "Frederick Barbarossa's wars in Italy",
+      "x": 372,
+      "y": 203,
+      "parent": "#vvs3bk"
+    },
+    {
+      "@id": "#36hrez",
+      "name": "Habsburg era",
+      "x": 51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#st66sq",
+      "name": "Habsburgs held the crown from 1438",
+      "x": 281,
+      "y": 281,
+      "parent": "#36hrez"
+    },
+    {
+      "@id": "#26ezm4",
+      "name": "Charles V ruled a vast inheritance",
+      "x": 164,
+      "y": 335,
+      "parent": "#36hrez"
+    },
+    {
+      "@id": "#pvkcx7",
+      "name": "Luther's Reformation divided the empire",
+      "x": 38,
+      "y": 391,
+      "parent": "#36hrez"
+    },
+    {
+      "@id": "#atv5r7",
+      "name": "Thirty Years' War, 1618–1648",
+      "x": -124,
+      "y": 447,
+      "link": "https://en.wikipedia.org/wiki/Thirty_Years%27_War",
+      "parent": "#36hrez"
+    },
+    {
+      "@id": "#dsyay5",
+      "name": "End and legacy",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tb2kv7",
+      "name": "Peace of Westphalia weakened the emperor",
+      "x": -225,
+      "y": 312,
+      "parent": "#dsyay5"
+    },
+    {
+      "@id": "#6keyeu",
+      "name": "Napoleon's victories hastened its collapse",
+      "x": -330,
+      "y": 245,
+      "parent": "#dsyay5"
+    },
+    {
+      "@id": "#hbpjza",
+      "name": "Francis II dissolved it in 1806",
+      "x": -405,
+      "y": 156,
+      "parent": "#dsyay5"
+    },
+    {
+      "@id": "#y9xajt",
+      "name": "Shaped Germany's federal tradition",
+      "x": -445,
+      "y": 54,
+      "parent": "#dsyay5"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

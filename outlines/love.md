@@ -1,0 +1,30 @@
+category: Society
+aliases: what is love, romantic love, kinds of love, types of love
+- Love
+  - Kinds of love
+    - Romantic and passionate love
+    - Love between parents and children
+    - Friendship and companionship
+    - Love for community or humanity
+  - The science of love
+    - [Oxytocin strengthens bonds and trust](https://en.wikipedia.org/wiki/Oxytocin)
+    - Dopamine drives early infatuation
+    - Passion usually fades into deeper attachment
+  - Models of love
+    - [Sternberg: intimacy, passion, commitment](https://en.wikipedia.org/wiki/Triangular_theory_of_love)
+    - [Attachment styles start in childhood](https://en.wikipedia.org/wiki/Attachment_theory)
+    - Ancient Greeks: eros, philia, agape
+  - Why love matters
+    - Pair bonds help raise children
+    - Close bonds protect health and longevity
+    - Loneliness harms wellbeing
+  - Keeping love healthy
+    - Listen and show interest daily
+    - Express appreciation and affection
+    - Handle conflict calmly and fairly
+    - Keep trust through honesty
+  - Loss and warning signs
+    - Heartbreak can feel like physical pain
+    - Grief is love's price for loss
+    - Control or abuse isn't love
+    - Seek support after abuse or heartbreak

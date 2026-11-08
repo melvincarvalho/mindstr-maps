@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Charles Darwin",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ww5kyf",
+      "name": "Early life",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#igdksq",
+      "name": "Born 1809 in Shrewsbury, England",
+      "x": -465,
+      "y": -53,
+      "parent": "#ww5kyf"
+    },
+    {
+      "@id": "#ykykhm",
+      "name": "Dropped medicine at Edinburgh",
+      "x": -409,
+      "y": -150,
+      "parent": "#ww5kyf"
+    },
+    {
+      "@id": "#5nkihp",
+      "name": "Studied at Cambridge, loved beetle collecting",
+      "x": -340,
+      "y": -236,
+      "parent": "#ww5kyf"
+    },
+    {
+      "@id": "#sbwkwj",
+      "name": "Voyage of the Beagle",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bt48ws",
+      "name": "Five-year voyage, 1831 to 1836",
+      "x": -243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Second_voyage_of_HMS_Beagle",
+      "parent": "#sbwkwj"
+    },
+    {
+      "@id": "#a96t5q",
+      "name": "Fossils and geology of South America",
+      "x": -133,
+      "y": -360,
+      "parent": "#sbwkwj"
+    },
+    {
+      "@id": "#e3nqsb",
+      "name": "Galápagos finches and tortoises",
+      "x": 0,
+      "y": -408,
+      "parent": "#sbwkwj"
+    },
+    {
+      "@id": "#93mt3p",
+      "name": "Read Lyell on slow geological change",
+      "x": 175,
+      "y": -465,
+      "parent": "#sbwkwj"
+    },
+    {
+      "@id": "#9bbfwd",
+      "name": "The theory",
+      "x": 193,
+      "y": -99,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ntxfwn",
+      "name": "Natural selection of favourable variations",
+      "x": 243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Natural_selection",
+      "parent": "#9bbfwd"
+    },
+    {
+      "@id": "#yg2whv",
+      "name": "Inspired partly by Malthus on population",
+      "x": 340,
+      "y": -236,
+      "parent": "#9bbfwd"
+    },
+    {
+      "@id": "#nyd4bf",
+      "name": "Worked privately for about 20 years",
+      "x": 409,
+      "y": -150,
+      "parent": "#9bbfwd"
+    },
+    {
+      "@id": "#2imv5v",
+      "name": "Joint paper with Wallace, 1858",
+      "x": 445,
+      "y": -51,
+      "parent": "#9bbfwd"
+    },
+    {
+      "@id": "#9u4idh",
+      "name": "Major books",
+      "x": 193,
+      "y": 99,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#is3jpu",
+      "name": "On the Origin of Species, 1859",
+      "x": 445,
+      "y": 51,
+      "link": "https://en.wikipedia.org/wiki/On_the_Origin_of_Species",
+      "parent": "#9u4idh"
+    },
+    {
+      "@id": "#wqzkg6",
+      "name": "The Descent of Man, 1871",
+      "x": 409,
+      "y": 150,
+      "parent": "#9u4idh"
+    },
+    {
+      "@id": "#437nm9",
+      "name": "Expression of the Emotions, 1872",
+      "x": 340,
+      "y": 236,
+      "parent": "#9u4idh"
+    },
+    {
+      "@id": "#9ibd9b",
+      "name": "Studies of orchids, barnacles, earthworms",
+      "x": 243,
+      "y": 303,
+      "parent": "#9u4idh"
+    },
+    {
+      "@id": "#4usynt",
+      "name": "Life at Down House",
+      "x": -33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2k9ebf",
+      "name": "Married cousin Emma Wedgwood",
+      "x": 133,
+      "y": 360,
+      "parent": "#4usynt"
+    },
+    {
+      "@id": "#dhmnhb",
+      "name": "Ten children, three died young",
+      "x": 0,
+      "y": 408,
+      "parent": "#4usynt"
+    },
+    {
+      "@id": "#zgzpez",
+      "name": "Chronic illness limited his travel",
+      "x": -175,
+      "y": 465,
+      "parent": "#4usynt"
+    },
+    {
+      "@id": "#h44fze",
+      "name": "Died 1882, buried in Westminster Abbey",
+      "x": -243,
+      "y": 303,
+      "parent": "#4usynt"
+    },
+    {
+      "@id": "#miq99c",
+      "name": "Legacy",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cun3m6",
+      "name": "Foundation of evolutionary biology",
+      "x": -340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/Evolution",
+      "parent": "#miq99c"
+    },
+    {
+      "@id": "#ymuwp5",
+      "name": "Common descent of all life",
+      "x": -409,
+      "y": 150,
+      "parent": "#miq99c"
+    },
+    {
+      "@id": "#2d5jp6",
+      "name": "Debates over religion and humanity's place",
+      "x": -485,
+      "y": 55,
+      "parent": "#miq99c"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,30 @@
+category: Science
+aliases: biological reproduction, sexual reproduction, asexual reproduction
+- Reproduction
+  - Asexual reproduction
+    - One parent, offspring are clones
+    - Bacteria divide by binary fission
+    - Budding, runners and fragmentation
+    - [Some animals use parthenogenesis](https://en.wikipedia.org/wiki/Parthenogenesis)
+  - Sexual reproduction
+    - Two parents combine genetic material
+    - [Meiosis halves the chromosome number](https://en.wikipedia.org/wiki/Meiosis)
+    - Fertilisation fuses sperm and egg
+    - Shuffled genes give varied offspring
+  - Why sex exists
+    - Variation helps adapt to change
+    - Helps resist parasites and disease
+    - Costs time, energy and finding mates
+  - In plants
+    - Flowers and pollination produce seeds
+    - Ferns and mosses release spores
+    - Cuttings and bulbs clone plants
+  - In animals
+    - Many fish and frogs fertilise externally
+    - Mammals, birds and reptiles fertilise internally
+    - Eggs laid or young born live
+    - Parental care varies widely
+  - Human reproduction
+    - [Menstrual cycle releases an egg monthly](https://en.wikipedia.org/wiki/Menstrual_cycle)
+    - Pregnancy lasts about nine months
+    - [IVF and other assisted reproduction](https://en.wikipedia.org/wiki/In_vitro_fertilisation)

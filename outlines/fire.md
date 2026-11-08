@@ -1,0 +1,32 @@
+category: Science
+aliases: what is fire, how fire works, fire triangle, flames
+- Fire
+  - What fire is
+    - Fast combustion releasing heat and light
+    - Flames are glowing hot gases
+    - Smoke is unburnt particles and gases
+  - [The fire triangle](https://en.wikipedia.org/wiki/Fire_triangle)
+    - Fuel: wood, paper, gas, oil
+    - Heat to reach ignition temperature
+    - Oxygen from the air
+    - Remove one side and it goes out
+  - How fire spreads
+    - Conduction through solid materials
+    - Convection carries hot gases upward
+    - Radiation heats nearby objects
+    - Flashover can ignite a whole room
+  - Fire and people
+    - [Early humans learned to control it](https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans)
+    - Cooking, warmth and protection
+    - Smelting metal and firing pottery
+    - [Wildfires shape many ecosystems](https://en.wikipedia.org/wiki/Wildfire)
+  - Putting fires out
+    - Water cools burning solids
+    - Never water on oil or electrical fires
+    - Fire blankets smother small pan fires
+    - [Extinguishers are rated by fire class](https://en.wikipedia.org/wiki/Fire_extinguisher)
+  - Staying safe
+    - Fit smoke alarms and test monthly
+    - Get out, stay out, call for help
+    - Smoke, not flames, causes most deaths
+    - Stop, drop and roll if clothes catch

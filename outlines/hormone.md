@@ -1,0 +1,31 @@
+category: Science
+aliases: hormones, chemical messengers, endocrine hormones
+- Hormone
+  - Chemical messengers in the blood
+    - Made in one place, act elsewhere
+    - Bind receptors on target cells
+    - Tiny amounts have big effects
+    - First identified: secretin, 1902
+  - [Endocrine glands make them](https://en.wikipedia.org/wiki/Endocrine_system)
+    - [Pituitary, the "master gland"](https://en.wikipedia.org/wiki/Pituitary_gland)
+    - Thyroid sets metabolic rate
+    - Adrenals release adrenaline and cortisol
+    - Pancreas makes insulin and glucagon
+    - Ovaries and testes make sex hormones
+  - Chemical types
+    - Peptides: insulin, growth hormone
+    - Steroids from cholesterol: oestrogen, testosterone
+    - Amines: adrenaline, thyroxine
+  - What they control
+    - Blood sugar and energy use
+    - Growth and puberty
+    - Stress and "fight or flight"
+    - Sleep cycles via melatonin
+    - Reproduction and pregnancy
+  - Keeping balance
+    - Negative feedback keeps levels steady
+    - Hypothalamus links brain and glands
+  - When it goes wrong
+    - [Diabetes: insulin missing or ignored](https://en.wikipedia.org/wiki/Diabetes)
+    - Over- or underactive thyroid
+    - Hormone therapy replaces what's missing

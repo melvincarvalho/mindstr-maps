@@ -1,0 +1,30 @@
+category: Health
+aliases: antibiotics, antibacterial drugs, how antibiotics work
+- Antibiotic
+  - What antibiotics do
+    - Kill bacteria or stop them multiplying
+    - Useless against viruses like colds, flu
+    - Target parts human cells lack
+  - How they work
+    - Break bacterial cell walls
+    - Block protein-making ribosomes
+    - Stop bacteria copying their DNA
+  - Main groups
+    - [Penicillins such as amoxicillin](https://en.wikipedia.org/wiki/Penicillin)
+    - Cephalosporins
+    - Macrolides such as azithromycin
+    - Tetracyclines and fluoroquinolones
+  - Using them well
+    - Only for bacterial infections
+    - Take exactly as prescribed
+    - Never share or save leftovers
+    - Side effects: diarrhoea, thrush, allergy
+  - [Antibiotic resistance](https://en.wikipedia.org/wiki/Antimicrobial_resistance)
+    - Bacteria evolve to survive drugs
+    - Overuse in people and livestock
+    - [MRSA is a well-known resistant bacterium](https://en.wikipedia.org/wiki/Methicillin-resistant_Staphylococcus_aureus)
+    - Directly caused about 1.27 million deaths, 2019
+  - History
+    - [Fleming discovered penicillin in 1928](https://en.wikipedia.org/wiki/Alexander_Fleming)
+    - Mass-produced during World War II
+    - Few new classes found since 1980s

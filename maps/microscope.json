@@ -1,0 +1,340 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Microscope",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#96eire",
+      "name": "How a light microscope works",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#thd6tm",
+      "name": "Light shines up through the sample",
+      "x": -445,
+      "y": -51,
+      "parent": "#96eire"
+    },
+    {
+      "@id": "#2airjp",
+      "name": "Objective lens makes a magnified image",
+      "x": -409,
+      "y": -150,
+      "parent": "#96eire"
+    },
+    {
+      "@id": "#48ctxd",
+      "name": "Eyepiece magnifies it again",
+      "x": -340,
+      "y": -236,
+      "parent": "#96eire"
+    },
+    {
+      "@id": "#tqdev3",
+      "name": "Up to about 1,000× magnification",
+      "x": -243,
+      "y": -303,
+      "parent": "#96eire"
+    },
+    {
+      "@id": "#b7vh6t",
+      "name": "Parts",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u3zjp5",
+      "name": "Stage and clips hold the slide",
+      "x": -133,
+      "y": -360,
+      "parent": "#b7vh6t"
+    },
+    {
+      "@id": "#fm9ac8",
+      "name": "Coarse and fine focus knobs",
+      "x": 0,
+      "y": -408,
+      "parent": "#b7vh6t"
+    },
+    {
+      "@id": "#mb8pka",
+      "name": "Objectives on a rotating nosepiece",
+      "x": 175,
+      "y": -465,
+      "parent": "#b7vh6t"
+    },
+    {
+      "@id": "#p2ntce",
+      "name": "History",
+      "x": 193,
+      "y": -99,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#csikn5",
+      "name": "Compound microscopes appear in Netherlands, ~1600",
+      "x": 243,
+      "y": -303,
+      "parent": "#p2ntce"
+    },
+    {
+      "@id": "#zfyj9r",
+      "name": "Hooke's Micrographia named cells, 1665",
+      "x": 340,
+      "y": -236,
+      "link": "https://en.wikipedia.org/wiki/Micrographia",
+      "parent": "#p2ntce"
+    },
+    {
+      "@id": "#swj5tz",
+      "name": "Leeuwenhoek first saw bacteria, 1670s",
+      "x": 409,
+      "y": -150,
+      "link": "https://en.wikipedia.org/wiki/Antonie_van_Leeuwenhoek",
+      "parent": "#p2ntce"
+    },
+    {
+      "@id": "#77z998",
+      "name": "First electron microscope built in 1931",
+      "x": 445,
+      "y": -51,
+      "parent": "#p2ntce"
+    },
+    {
+      "@id": "#kj3mie",
+      "name": "Types",
+      "x": 193,
+      "y": 99,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bfv45p",
+      "name": "Electron microscopes use beams of electrons",
+      "x": 445,
+      "y": 51,
+      "link": "https://en.wikipedia.org/wiki/Electron_microscope",
+      "parent": "#kj3mie"
+    },
+    {
+      "@id": "#75fr7n",
+      "name": "Scanning electron microscopes show surfaces",
+      "x": 409,
+      "y": 150,
+      "parent": "#kj3mie"
+    },
+    {
+      "@id": "#b7ff4w",
+      "name": "Fluorescence microscopes light up tagged molecules",
+      "x": 340,
+      "y": 236,
+      "parent": "#kj3mie"
+    },
+    {
+      "@id": "#qfu7i6",
+      "name": "Scanning probe microscopes can image atoms",
+      "x": 243,
+      "y": 303,
+      "parent": "#kj3mie"
+    },
+    {
+      "@id": "#tmcx34",
+      "name": "Limits",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fym3rh",
+      "name": "Light can't resolve below about 200 nm",
+      "x": 133,
+      "y": 360,
+      "parent": "#tmcx34"
+    },
+    {
+      "@id": "#xu44uw",
+      "name": "Electrons reveal details under a nanometre",
+      "x": 0,
+      "y": 408,
+      "parent": "#tmcx34"
+    },
+    {
+      "@id": "#e58r7y",
+      "name": "Samples stained to add contrast",
+      "x": -175,
+      "y": 465,
+      "parent": "#tmcx34"
+    },
+    {
+      "@id": "#gyqy9x",
+      "name": "What it revealed",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jrmtem",
+      "name": "Cells are the basic unit of life",
+      "x": -243,
+      "y": 303,
+      "parent": "#gyqy9x"
+    },
+    {
+      "@id": "#fec5ck",
+      "name": "Germs cause disease",
+      "x": -340,
+      "y": 236,
+      "parent": "#gyqy9x"
+    },
+    {
+      "@id": "#bys6mt",
+      "name": "Doctors diagnose cancer from tissue samples",
+      "x": -409,
+      "y": 150,
+      "parent": "#gyqy9x"
+    },
+    {
+      "@id": "#bm8ptp",
+      "name": "Checking materials and microchips for flaws",
+      "x": -445,
+      "y": 51,
+      "parent": "#gyqy9x"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

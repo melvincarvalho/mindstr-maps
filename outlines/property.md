@@ -1,0 +1,29 @@
+category: Society
+aliases: property rights, private property, ownership law, law of property
+- Property
+  - What it means
+    - Rights over things, not just things
+    - Use, exclude others, sell, pass on
+    - Enforced by law and the state
+  - Kinds of property
+    - [Real property: land and buildings](https://en.wikipedia.org/wiki/Real_property)
+    - Personal property: movable goods
+    - [Intellectual property: patents, copyright, trademarks](https://en.wikipedia.org/wiki/Intellectual_property)
+    - Financial assets such as shares
+  - Who owns it
+    - Private individuals and firms
+    - Public or state ownership
+    - Common property shared by a community
+  - How it is acquired
+    - Buying, gift or inheritance
+    - Creating or making something
+    - Land registries record title
+  - Limits on property
+    - Taxes on property and wealth
+    - Planning and zoning rules
+    - [Eminent domain: compulsory purchase](https://en.wikipedia.org/wiki/Eminent_domain)
+    - Rules vary greatly by country
+  - Ideas about property
+    - [Locke: labour creates ownership](https://en.wikipedia.org/wiki/John_Locke)
+    - Marx: private ownership drives inequality
+    - Secure rights linked to economic growth

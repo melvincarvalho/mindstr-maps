@@ -1,0 +1,29 @@
+category: Society
+aliases: festivals, festivals around the world, cultural festivals
+- Festival
+  - What a festival is
+    - Community celebration on set dates
+    - Usually recurs every year
+    - Marks something shared and meaningful
+  - Religious festivals
+    - [Christmas celebrates Jesus's birth](https://en.wikipedia.org/wiki/Christmas)
+    - [Diwali, the Hindu festival of lights](https://en.wikipedia.org/wiki/Diwali)
+    - Eid al-Fitr ends Ramadan fasting
+    - Passover recalls the Exodus from Egypt
+  - Seasonal and harvest festivals
+    - [Lunar New Year across East Asia](https://en.wikipedia.org/wiki/Lunar_New_Year)
+    - Harvest festivals give thanks for crops
+    - Solstice and spring celebrations
+  - Civic and cultural festivals
+    - National and independence days
+    - [Carnival before Lent, famously in Rio](https://en.wikipedia.org/wiki/Carnival)
+    - Day of the Dead in Mexico
+  - Arts and music festivals
+    - [Edinburgh Fringe, a huge arts festival](https://en.wikipedia.org/wiki/Edinburgh_Festival_Fringe)
+    - Glastonbury and other music festivals
+    - Film festivals like Cannes
+  - Common features
+    - Feasting and special foods
+    - Processions, music and dance
+    - Decorations, costumes and lights
+    - Gift-giving and family gatherings

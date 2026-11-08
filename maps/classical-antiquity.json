@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Classical antiquity",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#rahkzf",
+      "name": "When and where",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4a7ys5",
+      "name": "About 800 BC to AD 500",
+      "x": -445,
+      "y": -54,
+      "parent": "#rahkzf"
+    },
+    {
+      "@id": "#xivg4v",
+      "name": "Centred on the Mediterranean world",
+      "x": -405,
+      "y": -156,
+      "parent": "#rahkzf"
+    },
+    {
+      "@id": "#uesfmz",
+      "name": "Greek and Roman civilisations intertwined",
+      "x": -330,
+      "y": -245,
+      "parent": "#rahkzf"
+    },
+    {
+      "@id": "#vhnzq6",
+      "name": "Ancient Greece",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#743qyw",
+      "name": "City-states like Athens and Sparta",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Polis",
+      "parent": "#vhnzq6"
+    },
+    {
+      "@id": "#uetx6a",
+      "name": "Persian invasions repelled, 490–479 BC",
+      "x": -104,
+      "y": -367,
+      "parent": "#vhnzq6"
+    },
+    {
+      "@id": "#pprjvm",
+      "name": "Athenian democracy in the 5th century BC",
+      "x": 42,
+      "y": -423,
+      "parent": "#vhnzq6"
+    },
+    {
+      "@id": "#e5in2r",
+      "name": "Alexander's conquests began the Hellenistic age",
+      "x": 234,
+      "y": -485,
+      "link": "https://en.wikipedia.org/wiki/Hellenistic_period",
+      "parent": "#vhnzq6"
+    },
+    {
+      "@id": "#b6gu4t",
+      "name": "Rome",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vurshp",
+      "name": "Traditionally founded in 753 BC",
+      "x": 281,
+      "y": -281,
+      "parent": "#b6gu4t"
+    },
+    {
+      "@id": "#fm6sq3",
+      "name": "Roman Republic from 509 BC",
+      "x": 372,
+      "y": -203,
+      "link": "https://en.wikipedia.org/wiki/Roman_Republic",
+      "parent": "#b6gu4t"
+    },
+    {
+      "@id": "#r22e2b",
+      "name": "Augustus became first emperor, 27 BC",
+      "x": 449,
+      "y": -111,
+      "parent": "#b6gu4t"
+    },
+    {
+      "@id": "#4yn4qh",
+      "name": "Empire at its largest around AD 117",
+      "x": 450,
+      "y": 0,
+      "parent": "#b6gu4t"
+    },
+    {
+      "@id": "#hr6ufs",
+      "name": "Ideas and culture",
+      "x": 169,
+      "y": 125,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#929hhe",
+      "name": "Socrates, Plato and Aristotle shaped philosophy",
+      "x": 525,
+      "y": 131,
+      "link": "https://en.wikipedia.org/wiki/Ancient_Greek_philosophy",
+      "parent": "#hr6ufs"
+    },
+    {
+      "@id": "#7whjaw",
+      "name": "Homer's epics and Greek tragedy",
+      "x": 372,
+      "y": 203,
+      "parent": "#hr6ufs"
+    },
+    {
+      "@id": "#xppt9x",
+      "name": "Columned temples and Roman concrete",
+      "x": 281,
+      "y": 281,
+      "parent": "#hr6ufs"
+    },
+    {
+      "@id": "#nmsrtd",
+      "name": "Roman law shaped European legal systems",
+      "x": 164,
+      "y": 335,
+      "parent": "#hr6ufs"
+    },
+    {
+      "@id": "#e8xc9m",
+      "name": "The end",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ik36gn",
+      "name": "Empire divided into east and west",
+      "x": 38,
+      "y": 391,
+      "parent": "#e8xc9m"
+    },
+    {
+      "@id": "#7gucr2",
+      "name": "Western Empire fell in AD 476",
+      "x": -124,
+      "y": 447,
+      "link": "https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire",
+      "parent": "#e8xc9m"
+    },
+    {
+      "@id": "#hysa5y",
+      "name": "Eastern (Byzantine) Empire lasted until 1453",
+      "x": -365,
+      "y": 508,
+      "parent": "#e8xc9m"
+    },
+    {
+      "@id": "#vnhdbb",
+      "name": "Legacy",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2i5dc5",
+      "name": "Renaissance revived classical learning",
+      "x": -330,
+      "y": 245,
+      "parent": "#vnhdbb"
+    },
+    {
+      "@id": "#afr6bh",
+      "name": "Latin and Greek roots in many languages",
+      "x": -405,
+      "y": 156,
+      "parent": "#vnhdbb"
+    },
+    {
+      "@id": "#5nmm6x",
+      "name": "Neoclassical architecture and republican ideals",
+      "x": -505,
+      "y": 60,
+      "parent": "#vnhdbb"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

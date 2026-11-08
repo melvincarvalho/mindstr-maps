@@ -1,0 +1,32 @@
+category: Mathematics
+aliases: maths, math, what is mathematics
+- Mathematics
+  - The study of number, shape and pattern
+    - Starts from definitions and axioms
+    - Results are proved, not just observed
+    - Abstract ideas that apply everywhere
+  - Main branches
+    - [Arithmetic and number theory](https://en.wikipedia.org/wiki/Number_theory)
+    - Algebra: unknowns and structures
+    - Geometry: shape, space and measurement
+    - [Calculus: change and accumulation](https://en.wikipedia.org/wiki/Calculus)
+    - Probability and statistics: chance and data
+  - How mathematicians work
+    - Spot a pattern in examples
+    - Make a precise conjecture
+    - Prove it with logical steps
+    - Generalise to wider cases
+  - A short history
+    - Counting tallies over 20,000 years old
+    - Babylonians and Egyptians: practical calculation
+    - [Euclid's Elements organised proof](https://en.wikipedia.org/wiki/Euclid%27s_Elements)
+    - Zero and decimal digits from India
+    - Newton and Leibniz invent calculus
+  - Where it is used
+    - Physics and engineering models
+    - Computers, codes and encryption
+    - Finance, insurance and economics
+    - Medicine and data science
+  - Big open questions
+    - [Riemann hypothesis about prime numbers](https://en.wikipedia.org/wiki/Riemann_hypothesis)
+    - P versus NP in computing

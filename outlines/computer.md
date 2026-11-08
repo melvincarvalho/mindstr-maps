@@ -1,0 +1,28 @@
+category: Technology
+aliases: computers, history of computers, history of computing, types of computers
+- Computer
+  - What a computer is
+    - Machine that runs programs on data
+    - Hardware does what software instructs
+  - Early ideas
+    - Abacus and mechanical calculators
+    - [Babbage's Analytical Engine design, 1830s](https://en.wikipedia.org/wiki/Analytical_Engine)
+    - Codebreaking machines in World War II
+  - The electronic era
+    - [ENIAC filled a room, 1945](https://en.wikipedia.org/wiki/ENIAC)
+    - Transistors replaced vacuum tubes, 1950s
+    - [Microchips shrank computers from 1960s](https://en.wikipedia.org/wiki/Integrated_circuit)
+    - [Moore's law: chips doubled roughly biennially](https://en.wikipedia.org/wiki/Moore%27s_law)
+  - Personal computers
+    - [Apple II and IBM PC, 1977–81](https://en.wikipedia.org/wiki/Personal_computer)
+    - Mouse and windows went mainstream, 1980s
+    - Laptops took computing on the move
+  - Kinds of computers
+    - Supercomputers for weather and science
+    - Servers run websites and the cloud
+    - Desktops, laptops and tablets
+    - Embedded chips in cars and appliances
+  - Impact
+    - Automated offices, banking and factories
+    - Internet links billions of devices
+    - Digital divide and privacy concerns

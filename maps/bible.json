@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Bible",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#9aug7q",
+      "name": "What it is",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hv24y6",
+      "name": "Sacred scripture of Judaism and Christianity",
+      "x": -505,
+      "y": -60,
+      "parent": "#9aug7q"
+    },
+    {
+      "@id": "#qy3ekx",
+      "name": "A library of books, not one book",
+      "x": -405,
+      "y": -156,
+      "parent": "#9aug7q"
+    },
+    {
+      "@id": "#54rzbn",
+      "name": "Written over roughly a thousand years",
+      "x": -330,
+      "y": -245,
+      "parent": "#9aug7q"
+    },
+    {
+      "@id": "#8dhijm",
+      "name": "Hebrew Bible / Old Testament",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d2sgcf",
+      "name": "Torah: five books from Genesis to Deuteronomy",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Torah",
+      "parent": "#8dhijm"
+    },
+    {
+      "@id": "#y5dj7u",
+      "name": "Prophets such as Isaiah and Jeremiah",
+      "x": -104,
+      "y": -367,
+      "parent": "#8dhijm"
+    },
+    {
+      "@id": "#hvea5u",
+      "name": "Writings: Psalms, Proverbs, Job",
+      "x": 42,
+      "y": -423,
+      "parent": "#8dhijm"
+    },
+    {
+      "@id": "#ebh8e8",
+      "name": "Mostly Hebrew, some Aramaic",
+      "x": 234,
+      "y": -485,
+      "parent": "#8dhijm"
+    },
+    {
+      "@id": "#dze4y5",
+      "name": "New Testament",
+      "x": 220,
+      "y": -54,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#skzwzn",
+      "name": "Four Gospels on Jesus' life",
+      "x": 281,
+      "y": -281,
+      "link": "https://en.wikipedia.org/wiki/Gospel",
+      "parent": "#dze4y5"
+    },
+    {
+      "@id": "#uzn7ci",
+      "name": "Acts of the Apostles: the early church",
+      "x": 372,
+      "y": -203,
+      "parent": "#dze4y5"
+    },
+    {
+      "@id": "#tn6e8m",
+      "name": "Letters of Paul and others",
+      "x": 430,
+      "y": -106,
+      "parent": "#dze4y5"
+    },
+    {
+      "@id": "#5de8f9",
+      "name": "Revelation: apocalyptic vision",
+      "x": 450,
+      "y": 0,
+      "parent": "#dze4y5"
+    },
+    {
+      "@id": "#iekcvd",
+      "name": "Written in Greek, first century CE",
+      "x": 430,
+      "y": 106,
+      "parent": "#dze4y5"
+    },
+    {
+      "@id": "#bsjij4",
+      "name": "Canons differ",
+      "x": 143,
+      "y": 144,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7w247m",
+      "name": "Protestant Bible has 66 books",
+      "x": 372,
+      "y": 203,
+      "parent": "#bsjij4"
+    },
+    {
+      "@id": "#tdwaqj",
+      "name": "Catholic Bible adds the Deuterocanonical books",
+      "x": 281,
+      "y": 281,
+      "parent": "#bsjij4"
+    },
+    {
+      "@id": "#zhyvxi",
+      "name": "Orthodox churches include a few more",
+      "x": 164,
+      "y": 335,
+      "parent": "#bsjij4"
+    },
+    {
+      "@id": "#e4tihq",
+      "name": "Translations",
+      "x": -84,
+      "y": 171,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d4tqqc",
+      "name": "Septuagint: Greek translation of Hebrew scriptures",
+      "x": 38,
+      "y": 391,
+      "link": "https://en.wikipedia.org/wiki/Septuagint",
+      "parent": "#e4tihq"
+    },
+    {
+      "@id": "#2r5a9g",
+      "name": "Jerome's Latin Vulgate around 400 CE",
+      "x": -124,
+      "y": 447,
+      "parent": "#e4tihq"
+    },
+    {
+      "@id": "#7avr5p",
+      "name": "King James Version (1611)",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wikipedia.org/wiki/King_James_Version",
+      "parent": "#e4tihq"
+    },
+    {
+      "@id": "#2zrpwc",
+      "name": "Most translated book in history",
+      "x": -330,
+      "y": 245,
+      "parent": "#e4tihq"
+    },
+    {
+      "@id": "#smkz2j",
+      "name": "How it is read",
+      "x": -220,
+      "y": 54,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#247uh7",
+      "name": "Believers read it as inspired by God",
+      "x": -405,
+      "y": 156,
+      "parent": "#smkz2j"
+    },
+    {
+      "@id": "#eqxvet",
+      "name": "Scholars study authorship and historical context",
+      "x": -565,
+      "y": 66,
+      "parent": "#smkz2j"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 10,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

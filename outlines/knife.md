@@ -1,0 +1,32 @@
+category: Technology
+aliases: knives, types of knives, kitchen knives
+- Knife
+  - Blade with a cutting edge and handle
+    - One of humanity's oldest tools
+    - [Stone flakes cut 2.5 million years ago](https://en.wikipedia.org/wiki/Oldowan)
+  - Kitchen knives
+    - [Chef's knife for most chopping](https://en.wikipedia.org/wiki/Chef%27s_knife)
+    - Paring knife for small, detailed work
+    - Serrated bread knife saws through crusts
+    - Santoku, a Japanese all-purpose knife
+    - Cleaver for bones and heavy cuts
+  - Other everyday knives
+    - Pocket and folding knives
+    - Utility knife for boxes and carpet
+    - Table knives for eating
+    - [Multi-tools like the Swiss Army knife](https://en.wikipedia.org/wiki/Swiss_Army_knife)
+    - Carrying in public restricted in many countries
+  - Blade materials
+    - Stainless steel resists rust
+    - Carbon steel sharpens easily but stains
+    - Ceramic blades stay sharp, chip easily
+  - Kitchen safety
+    - A sharp knife slips less
+    - Curl fingertips in a claw grip
+    - Cut on a stable board
+    - Never catch a falling knife
+    - Don't leave knives in soapy water
+  - Care
+    - Hone regularly to realign the edge
+    - Sharpen on a whetstone occasionally
+    - Hand wash and dry promptly

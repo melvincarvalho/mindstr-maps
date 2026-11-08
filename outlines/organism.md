@@ -1,0 +1,29 @@
+category: Science
+aliases: living organism, what is an organism, living organisms
+- Organism
+  - What counts as alive
+    - Made of one or more cells
+    - Uses energy through metabolism
+    - Grows, responds and reproduces
+    - Passes genes to offspring
+  - Single-celled organisms
+    - Bacteria: no nucleus, everywhere on Earth
+    - [Archaea thrive in extreme places](https://en.wikipedia.org/wiki/Archaea)
+    - Protists like amoebas and algae
+  - Multicellular organisms
+    - Cells specialise into tissues and organs
+    - Animals eat other living things
+    - Plants make food from sunlight
+    - Fungi absorb food from their surroundings
+  - [Three domains of life](https://en.wikipedia.org/wiki/Three-domain_system)
+    - Bacteria: simple cells, hugely numerous
+    - Archaea, closest relatives of eukaryotes
+    - [Eukaryotes: cells with a nucleus](https://en.wikipedia.org/wiki/Eukaryote)
+  - Borderline cases
+    - [Viruses need a host to copy](https://en.wikipedia.org/wiki/Virus)
+    - Lichens: fungus and alga partnership
+    - Colonies like corals and siphonophores
+  - Extremes
+    - [Giant fungus covers nearly 10 square km](https://en.wikipedia.org/wiki/Armillaria_ostoyae)
+    - Blue whale: largest animal ever
+    - Bristlecone pines live nearly 5,000 years

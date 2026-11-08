@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Proton",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#hh3h28",
+      "name": "Basic facts",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cp4hgd",
+      "name": "Positive charge, equal to the electron's",
+      "x": -444,
+      "y": -56,
+      "parent": "#hh3h28"
+    },
+    {
+      "@id": "#wnuqs7",
+      "name": "About 1,836 times an electron's mass",
+      "x": -401,
+      "y": -163,
+      "parent": "#hh3h28"
+    },
+    {
+      "@id": "#tk5gp8",
+      "name": "Made of two up quarks, one down",
+      "x": -318,
+      "y": -255,
+      "parent": "#hh3h28"
+    },
+    {
+      "@id": "#jceph7",
+      "name": "Stable: no decay ever observed",
+      "x": -204,
+      "y": -321,
+      "parent": "#hh3h28"
+    },
+    {
+      "@id": "#kkfmes",
+      "name": "Discovery",
+      "x": 36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8fy58f",
+      "name": "Rutherford identified it, about 1917–1919",
+      "x": -73,
+      "y": -372,
+      "link": "https://en.wikipedia.org/wiki/Ernest_Rutherford",
+      "parent": "#kkfmes"
+    },
+    {
+      "@id": "#msj299",
+      "name": "Knocked out of nitrogen by alpha particles",
+      "x": 82,
+      "y": -420,
+      "parent": "#kkfmes"
+    },
+    {
+      "@id": "#9356js",
+      "name": "Named after Greek \"protos\", first",
+      "x": 204,
+      "y": -321,
+      "parent": "#kkfmes"
+    },
+    {
+      "@id": "#wn9d49",
+      "name": "Defines the element",
+      "x": 205,
+      "y": -84,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c4y8ct",
+      "name": "Proton count is the atomic number",
+      "x": 318,
+      "y": -255,
+      "link": "https://en.wikipedia.org/wiki/Atomic_number",
+      "parent": "#wn9d49"
+    },
+    {
+      "@id": "#mqpci3",
+      "name": "One proton makes hydrogen",
+      "x": 401,
+      "y": -163,
+      "parent": "#wn9d49"
+    },
+    {
+      "@id": "#bvzb6p",
+      "name": "Six make carbon, 92 make uranium",
+      "x": 504,
+      "y": -62,
+      "parent": "#wn9d49"
+    },
+    {
+      "@id": "#xtzrjz",
+      "name": "Holding the nucleus together",
+      "x": 205,
+      "y": 84,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2dk8wi",
+      "name": "Protons repel each other electrically",
+      "x": 564,
+      "y": 68,
+      "parent": "#xtzrjz"
+    },
+    {
+      "@id": "#hyc9yf",
+      "name": "Strong force overpowers the repulsion",
+      "x": 401,
+      "y": 163,
+      "link": "https://en.wikipedia.org/wiki/Nuclear_force",
+      "parent": "#xtzrjz"
+    },
+    {
+      "@id": "#ygybq6",
+      "name": "Neutrons help keep nuclei stable",
+      "x": 318,
+      "y": 255,
+      "parent": "#xtzrjz"
+    },
+    {
+      "@id": "#28iqui",
+      "name": "In stars and space",
+      "x": 36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mn52jk",
+      "name": "Sun fuses protons into helium",
+      "x": 204,
+      "y": 321,
+      "link": "https://en.wikipedia.org/wiki/Proton%E2%80%93proton_chain",
+      "parent": "#28iqui"
+    },
+    {
+      "@id": "#6uy9is",
+      "name": "Most cosmic rays are fast protons",
+      "x": 73,
+      "y": 372,
+      "parent": "#28iqui"
+    },
+    {
+      "@id": "#28igj4",
+      "name": "Hydrogen nuclei fill the universe",
+      "x": -82,
+      "y": 420,
+      "parent": "#28iqui"
+    },
+    {
+      "@id": "#3mnzdr",
+      "name": "In technology and medicine",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3vje3q",
+      "name": "LHC collides protons near light speed",
+      "x": -204,
+      "y": 321,
+      "parent": "#3mnzdr"
+    },
+    {
+      "@id": "#rr247x",
+      "name": "Proton therapy targets tumours precisely",
+      "x": -318,
+      "y": 255,
+      "parent": "#3mnzdr"
+    },
+    {
+      "@id": "#hq8b29",
+      "name": "MRI reads signals from hydrogen protons",
+      "x": -401,
+      "y": 163,
+      "parent": "#3mnzdr"
+    },
+    {
+      "@id": "#thxdvt",
+      "name": "Acids work by releasing protons",
+      "x": -444,
+      "y": 56,
+      "parent": "#3mnzdr"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

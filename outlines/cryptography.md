@@ -1,0 +1,29 @@
+category: Technology
+aliases: what is cryptography, how encryption works, encryption explained, codes and ciphers
+- Cryptography
+  - Keeping messages secret
+    - Plaintext scrambled into ciphertext
+    - A key unlocks the message
+    - Strength depends on key, not secrecy
+  - Classical ciphers
+    - [Caesar cipher shifts each letter](https://en.wikipedia.org/wiki/Caesar_cipher)
+    - Frequency analysis broke simple ciphers
+    - [Enigma machine broken at Bletchley Park](https://en.wikipedia.org/wiki/Enigma_machine)
+  - Symmetric encryption
+    - Same key locks and unlocks
+    - AES is today's standard since 2001
+    - Fast, but sharing the key is hard
+  - Public-key cryptography
+    - [Public key encrypts, private key decrypts](https://en.wikipedia.org/wiki/Public-key_cryptography)
+    - Diffie–Hellman key exchange in 1976
+    - RSA relies on factoring huge numbers
+    - Digital signatures prove who sent it
+  - Hashing and integrity
+    - Hash gives a fixed-size fingerprint
+    - Any change alters the hash completely
+    - Passwords stored as salted hashes
+  - Everyday uses
+    - [HTTPS padlock in your browser](https://en.wikipedia.org/wiki/HTTPS)
+    - End-to-end encrypted messaging apps
+    - Card payments and phone unlocking
+    - Quantum computers spur post-quantum algorithms

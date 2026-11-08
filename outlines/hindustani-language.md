@@ -1,0 +1,32 @@
+category: Society
+aliases: hindi-urdu, hindi and urdu, hindustani
+- Hindustani language
+  - What it is
+    - Shared spoken base of Hindi and Urdu
+    - Everyday speech mutually intelligible
+    - Formal Hindi borrows from Sanskrit
+    - Formal Urdu borrows from Persian, Arabic
+  - Where it's spoken
+    - Hindi official in India
+    - Urdu national language of Pakistan
+    - Over 800 million speakers, including second-language
+    - [Lingua franca of Bollywood films](https://en.wikipedia.org/wiki/Bollywood)
+  - History and family
+    - Indo-Aryan branch of Indo-European
+    - Rooted in Delhi-region Khariboli dialect
+    - Shaped by Persian under Delhi Sultanate, Mughals
+    - Split into two standards by 1900s
+  - Sounds and writing
+    - [Hindi uses Devanagari, left to right](https://en.wikipedia.org/wiki/Devanagari)
+    - [Urdu uses Nastaliq Perso-Arabic script](https://en.wikipedia.org/wiki/Urdu_alphabet)
+    - Retroflex consonants: tongue curled back
+    - Aspirated and unaspirated pairs, like k/kh
+  - Grammar highlights
+    - Subject, object, verb order
+    - Postpositions instead of prepositions
+    - Two genders affect verbs too
+    - Ergative "ne" in perfective past
+  - Tips for learners
+    - Three "you" forms: tū, tum, āp
+    - Use āp with strangers and elders
+    - [Hindustani grammar overview](https://en.wikipedia.org/wiki/Hindustani_grammar)

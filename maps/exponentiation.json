@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Exponentiation",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#uqzejx",
+      "name": "The idea",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fxdubm",
+      "name": "Repeated multiplication",
+      "x": -444,
+      "y": -56,
+      "parent": "#uqzejx"
+    },
+    {
+      "@id": "#d8syq9",
+      "name": "2³ means 2×2×2, which is 8",
+      "x": -401,
+      "y": -163,
+      "parent": "#uqzejx"
+    },
+    {
+      "@id": "#kimz5c",
+      "name": "Base and exponent, or power",
+      "x": -318,
+      "y": -255,
+      "parent": "#uqzejx"
+    },
+    {
+      "@id": "#9nivu3",
+      "name": "Rules of exponents",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zyhbeh",
+      "name": "Multiply powers: add the exponents",
+      "x": -204,
+      "y": -321,
+      "parent": "#9nivu3"
+    },
+    {
+      "@id": "#kcdxav",
+      "name": "Divide powers: subtract the exponents",
+      "x": -73,
+      "y": -372,
+      "parent": "#9nivu3"
+    },
+    {
+      "@id": "#yirxqx",
+      "name": "Power of a power: multiply exponents",
+      "x": 82,
+      "y": -420,
+      "parent": "#9nivu3"
+    },
+    {
+      "@id": "#smfcui",
+      "name": "Any nonzero number to zero is 1",
+      "x": 204,
+      "y": -321,
+      "parent": "#9nivu3"
+    },
+    {
+      "@id": "#9u4y8s",
+      "name": "Stretching the meaning",
+      "x": 205,
+      "y": -84,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yrzsq4",
+      "name": "Negative exponents mean reciprocals",
+      "x": 318,
+      "y": -255,
+      "parent": "#9u4y8s"
+    },
+    {
+      "@id": "#uye4yy",
+      "name": "Fractional exponents mean roots",
+      "x": 401,
+      "y": -163,
+      "parent": "#9u4y8s"
+    },
+    {
+      "@id": "#jfqub7",
+      "name": "Euler's formula: imaginary exponents rotate",
+      "x": 564,
+      "y": -68,
+      "link": "https://en.wikipedia.org/wiki/Euler%27s_formula",
+      "parent": "#9u4y8s"
+    },
+    {
+      "@id": "#rx7d8r",
+      "name": "Exponential growth",
+      "x": 186,
+      "y": 108,
+      "link": "https://en.wikipedia.org/wiki/Exponential_growth",
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mr8qe8",
+      "name": "Doubling again and again",
+      "x": 444,
+      "y": 56,
+      "parent": "#rx7d8r"
+    },
+    {
+      "@id": "#pbn976",
+      "name": "Rice on a chessboard legend",
+      "x": 401,
+      "y": 163,
+      "parent": "#rx7d8r"
+    },
+    {
+      "@id": "#epfw5i",
+      "name": "Compound interest and populations",
+      "x": 318,
+      "y": 255,
+      "parent": "#rx7d8r"
+    },
+    {
+      "@id": "#7nmvpj",
+      "name": "Radioactive decay halves repeatedly",
+      "x": 204,
+      "y": 321,
+      "parent": "#rx7d8r"
+    },
+    {
+      "@id": "#nbfwca",
+      "name": "Writing huge and tiny numbers",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cekp6d",
+      "name": "Scientific notation: light at 3×10⁸ m/s",
+      "x": 73,
+      "y": 372,
+      "link": "https://en.wikipedia.org/wiki/Scientific_notation",
+      "parent": "#nbfwca"
+    },
+    {
+      "@id": "#imdiw5",
+      "name": "Powers of ten behind metric prefixes",
+      "x": -82,
+      "y": 420,
+      "parent": "#nbfwca"
+    },
+    {
+      "@id": "#rfs49i",
+      "name": "Computers count in powers of two",
+      "x": -204,
+      "y": 321,
+      "parent": "#nbfwca"
+    },
+    {
+      "@id": "#a5pvsu",
+      "name": "Related ideas",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#st7x5w",
+      "name": "Logarithms undo exponentiation",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wikipedia.org/wiki/Logarithm",
+      "parent": "#a5pvsu"
+    },
+    {
+      "@id": "#79mstr",
+      "name": "Squares and cubes are powers 2, 3",
+      "x": -401,
+      "y": 163,
+      "parent": "#a5pvsu"
+    },
+    {
+      "@id": "#wvb794",
+      "name": "Tetration: repeated exponentiation",
+      "x": -484,
+      "y": 60,
+      "parent": "#a5pvsu"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

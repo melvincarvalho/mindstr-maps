@@ -1,0 +1,32 @@
+category: People
+aliases: euler, euler mathematician
+- Leonhard Euler
+  - Life
+    - Born in Basel, Switzerland, 1707
+    - Taught by Johann Bernoulli
+    - St Petersburg Academy from 1727
+    - Berlin under Frederick the Great, 1741–66
+    - Died in St Petersburg in 1783
+  - Prolific despite blindness
+    - Lost sight in one eye around 1738
+    - Nearly blind from 1771, kept working
+    - Over 800 papers and books
+    - Collected works run past 70 volumes
+  - Notation we still use
+    - f(x) for functions
+    - e for the natural base
+    - i for the square root of −1
+    - Σ for sums; popularised π
+  - Famous results
+    - [Euler's identity: e^iπ + 1 = 0](https://en.wikipedia.org/wiki/Euler%27s_identity)
+    - [Basel problem: sum of 1/n² is π²/6](https://en.wikipedia.org/wiki/Basel_problem)
+    - [Polyhedron formula: V−E+F = 2](https://en.wikipedia.org/wiki/Euler_characteristic)
+  - Founding new fields
+    - [Königsberg bridges began graph theory](https://en.wikipedia.org/wiki/Seven_Bridges_of_K%C3%B6nigsberg)
+    - Euler's method for differential equations
+    - Equations of fluid flow
+    - Mechanics of beams and rigid bodies
+  - Legacy
+    - Laplace called him master of us all
+    - Many results named after him
+    - Wrote popular Letters to a German Princess

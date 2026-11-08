@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Aesthetics",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#s3w8d6",
+      "name": "Key questions",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ubq7rf",
+      "name": "What makes something beautiful?",
+      "x": -444,
+      "y": -56,
+      "parent": "#s3w8d6"
+    },
+    {
+      "@id": "#uvf894",
+      "name": "Is taste just personal preference?",
+      "x": -401,
+      "y": -163,
+      "parent": "#s3w8d6"
+    },
+    {
+      "@id": "#hbav8j",
+      "name": "What counts as art?",
+      "x": -318,
+      "y": -255,
+      "parent": "#s3w8d6"
+    },
+    {
+      "@id": "#x4mssn",
+      "name": "Why enjoy tragedy and horror?",
+      "x": -204,
+      "y": -321,
+      "parent": "#s3w8d6"
+    },
+    {
+      "@id": "#bs2ikn",
+      "name": "Ancient views",
+      "x": 36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ptwrxu",
+      "name": "Plato: art is a copy of copies",
+      "x": -73,
+      "y": -372,
+      "parent": "#bs2ikn"
+    },
+    {
+      "@id": "#36vy4u",
+      "name": "Aristotle: tragedy brings catharsis",
+      "x": 82,
+      "y": -420,
+      "link": "https://en.wikipedia.org/wiki/Catharsis",
+      "parent": "#bs2ikn"
+    },
+    {
+      "@id": "#hpsedq",
+      "name": "Beauty as harmony and proportion",
+      "x": 204,
+      "y": -321,
+      "parent": "#bs2ikn"
+    },
+    {
+      "@id": "#5ihz5s",
+      "name": "Taste and judgement",
+      "x": 205,
+      "y": -84,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d3ayif",
+      "name": "Hume: trust experienced critics' consensus",
+      "x": 318,
+      "y": -255,
+      "link": "https://en.wikipedia.org/wiki/Of_the_Standard_of_Taste",
+      "parent": "#5ihz5s"
+    },
+    {
+      "@id": "#xfkstf",
+      "name": "Kant: disinterested pleasure claiming universality",
+      "x": 401,
+      "y": -163,
+      "parent": "#5ihz5s"
+    },
+    {
+      "@id": "#7ustpi",
+      "name": "The beautiful versus the sublime",
+      "x": 504,
+      "y": -62,
+      "link": "https://en.wikipedia.org/wiki/Sublime_%28philosophy%29",
+      "parent": "#5ihz5s"
+    },
+    {
+      "@id": "#9qvvpp",
+      "name": "What is art?",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hsewe6",
+      "name": "Imitation theory: art represents reality",
+      "x": 444,
+      "y": 56,
+      "parent": "#9qvvpp"
+    },
+    {
+      "@id": "#ayp5q3",
+      "name": "Expression theory: art conveys feeling (Tolstoy)",
+      "x": 455,
+      "y": 184,
+      "parent": "#9qvvpp"
+    },
+    {
+      "@id": "#rkj43c",
+      "name": "Formalism: \"significant form\" (Clive Bell)",
+      "x": 318,
+      "y": 255,
+      "parent": "#9qvvpp"
+    },
+    {
+      "@id": "#9dx9nm",
+      "name": "Institutional theory: the artworld decides (Dickie)",
+      "x": 204,
+      "y": 321,
+      "parent": "#9qvvpp"
+    },
+    {
+      "@id": "#hv9umz",
+      "name": "Duchamp's urinal \"Fountain\", 1917",
+      "x": 73,
+      "y": 372,
+      "link": "https://en.wikipedia.org/wiki/Fountain_%28Duchamp%29",
+      "parent": "#9qvvpp"
+    },
+    {
+      "@id": "#r6rfg8",
+      "name": "Everyday aesthetics",
+      "x": -104,
+      "y": 164,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t2j94j",
+      "name": "Design of phones, cars and homes",
+      "x": -82,
+      "y": 420,
+      "parent": "#r6rfg8"
+    },
+    {
+      "@id": "#f35f3j",
+      "name": "Food, gardens and landscapes",
+      "x": -204,
+      "y": 321,
+      "parent": "#r6rfg8"
+    },
+    {
+      "@id": "#hg22xr",
+      "name": "Fashion and personal style",
+      "x": -318,
+      "y": 255,
+      "parent": "#r6rfg8"
+    },
+    {
+      "@id": "#xydfm4",
+      "name": "Beyond the West",
+      "x": -219,
+      "y": 57,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#typxjz",
+      "name": "Japanese wabi-sabi: beauty in imperfection",
+      "x": -437,
+      "y": 177,
+      "parent": "#xydfm4"
+    },
+    {
+      "@id": "#5yhgek",
+      "name": "Indian rasa theory of emotional flavour",
+      "x": -524,
+      "y": 64,
+      "parent": "#xydfm4"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 14,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

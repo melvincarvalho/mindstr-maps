@@ -1,0 +1,30 @@
+category: People
+aliases: jalal al-din rumi, mevlana, mawlana rumi, rumi poet
+- Rumi
+  - Persian poet and mystic, 1207–1273
+    - Born near Balkh, Greater Khorasan
+    - Family fled west ahead of the Mongols
+    - Settled in Konya, Seljuk Anatolia
+  - Scholar turned mystic
+    - Followed his father as Islamic teacher
+    - [Met the wandering dervish Shams of Tabriz](https://en.wikipedia.org/wiki/Shams_Tabrizi)
+    - Shams vanished about 1248; grief became poetry
+  - Major works
+    - [Masnavi: six books of spiritual teaching](https://en.wikipedia.org/wiki/Masnavi)
+    - [Divan-e Shams: lyric love poems](https://en.wikipedia.org/wiki/Divan-e_Shams-e_Tabrizi)
+    - Fihi Ma Fihi: recorded talks
+    - Written mostly in Persian
+  - Core ideas
+    - [Sufism: divine love as the path](https://en.wikipedia.org/wiki/Sufism)
+    - The reed flute longing for home
+    - Music and dance as devotion
+    - Stories teaching through everyday life
+  - [The Mevlevi Order](https://en.wikipedia.org/wiki/Mevlevi_Order)
+    - Organised by his son Sultan Walad
+    - Whirling dervishes perform the Sema
+    - Death marked yearly as Şeb-i Arus
+  - Legacy
+    - Tomb in Konya, now Mevlana Museum
+    - Loved across Iran, Turkey, Afghanistan, Tajikistan
+    - Bestselling poet in America via loose versions
+    - Popular quotes often misattributed to him

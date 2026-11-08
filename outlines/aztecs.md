@@ -1,0 +1,30 @@
+category: History
+aliases: aztec empire, aztec civilization, mexica, aztec history
+- Aztecs
+  - Who they were
+    - Nahuatl-speaking Mexica of central Mexico
+    - Migrated from legendary homeland Aztlan
+    - Dominant power in Mesoamerica, 1400s–1521
+  - [Tenochtitlan, the island capital](https://en.wikipedia.org/wiki/Tenochtitlan)
+    - Founded about 1325 on Lake Texcoco
+    - Linked to shore by causeways
+    - Perhaps 200,000 people at its peak
+    - Now buried beneath Mexico City
+  - The empire
+    - [Triple Alliance formed in 1428](https://en.wikipedia.org/wiki/Aztec_Triple_Alliance)
+    - Conquered city-states paid regular tribute
+    - Ruled by an elected emperor, the tlatoani
+  - Daily life and economy
+    - Chinampas: farm plots built on lakes
+    - Maize, beans and squash as staples
+    - Cacao beans used as currency
+    - Great market at Tlatelolco
+  - Religion
+    - Huitzilopochtli, god of sun and war
+    - Human sacrifice to sustain the gods
+    - Templo Mayor at the city's heart
+  - Fall and legacy
+    - [Cortés arrives in 1519](https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Aztec_Empire)
+    - Smallpox epidemic devastates the city
+    - Tenochtitlan falls in August 1521
+    - Nahuatl still spoken by over a million

@@ -1,0 +1,31 @@
+category: Geography
+aliases: what is a country, sovereign state, nation state
+- Country
+  - What makes a country
+    - Defined territory and population
+    - Government controlling that territory
+    - Capacity to deal with other states
+    - [Montevideo Convention sets these criteria](https://en.wikipedia.org/wiki/Montevideo_Convention)
+  - Recognition
+    - 193 UN member states
+    - Plus 2 observer states
+    - [Some states have limited recognition](https://en.wikipedia.org/wiki/List_of_states_with_limited_recognition)
+    - Recognition is a political choice
+  - Country, state and nation
+    - State: the political-legal unit
+    - Nation: people sharing identity
+    - [Nation state joins the two](https://en.wikipedia.org/wiki/Nation_state)
+    - Some nations lack their own state
+  - How countries arose
+    - [Peace of Westphalia shaped sovereignty](https://en.wikipedia.org/wiki/Peace_of_Westphalia)
+    - Empires broke up after world wars
+    - Decolonisation created dozens after 1945
+    - Soviet Union split into 15 in 1991
+  - Range and variety
+    - Russia largest by area
+    - India and China most populous
+    - Vatican City the smallest
+  - What countries do
+    - Make laws and collect taxes
+    - Issue currency and passports
+    - Defend borders and sign treaties

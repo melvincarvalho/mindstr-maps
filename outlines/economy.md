@@ -1,0 +1,29 @@
+category: Society
+aliases: what is an economy, how the economy works, the economy explained, national economy
+- Economy
+  - What an economy is
+    - How a society produces and shares goods
+    - Production, distribution, trade, consumption
+    - Solves scarcity: what, how, for whom
+  - Who takes part
+    - Households supply work, spend income
+    - Firms hire, produce and sell
+    - Governments tax, spend and regulate
+    - Banks move savings to borrowers
+  - Types of economic system
+    - [Market economies: prices coordinate decisions](https://en.wikipedia.org/wiki/Market_economy)
+    - [Planned economies: the state decides](https://en.wikipedia.org/wiki/Planned_economy)
+    - Mixed economies: most countries today
+    - Traditional economies follow custom
+  - Sectors
+    - Primary: farming, mining, fishing
+    - Secondary: manufacturing and construction
+    - Tertiary: services, now the largest
+  - Measuring it
+    - [GDP sums a year's output](https://en.wikipedia.org/wiki/Gross_domestic_product)
+    - GDP per head compares living standards
+    - Unemployment, inflation and trade
+  - The world economy
+    - Global output about $100 trillion yearly
+    - US, China, EU largest economies
+    - [Globalisation links supply chains worldwide](https://en.wikipedia.org/wiki/Globalization)

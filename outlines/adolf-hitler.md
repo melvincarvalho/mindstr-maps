@@ -1,0 +1,31 @@
+category: People
+aliases: hitler, hitler biography, nazi dictator hitler
+- Adolf Hitler
+  - Early life
+    - Born 1889 in Braunau, Austria
+    - Failed art student in Vienna
+    - German army soldier in First World War
+  - Rise of the Nazis
+    - [Led the Nazi Party from 1921](https://en.wikipedia.org/wiki/Nazi_Party)
+    - [Failed Beer Hall Putsch, 1923](https://en.wikipedia.org/wiki/Beer_Hall_Putsch)
+    - Wrote Mein Kampf in prison
+    - Exploited Depression-era anger and antisemitism
+  - Dictatorship
+    - Appointed chancellor in January 1933
+    - Abolished democracy and banned other parties
+    - Nuremberg Laws stripped Jews of rights, 1935
+    - Rearmed Germany in breach of Versailles
+  - Second World War
+    - [Invasion of Poland began the war, 1939](https://en.wikipedia.org/wiki/Invasion_of_Poland)
+    - Conquered much of Europe by 1941
+    - Invaded the Soviet Union in June 1941
+    - War killed an estimated 70–85 million
+  - [The Holocaust](https://en.wikipedia.org/wiki/The_Holocaust)
+    - About six million Jews systematically murdered
+    - Extermination camps such as Auschwitz
+    - Roma, disabled people and others also killed
+  - Defeat and legacy
+    - Killed himself in Berlin, April 1945
+    - Germany surrendered a week later
+    - Nazi leaders tried at Nuremberg
+    - Nazi symbols banned in Germany today

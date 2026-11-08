@@ -1,0 +1,31 @@
+category: Life and home
+aliases: swim, swimming strokes, how to swim
+- Swimming
+  - Why swim
+    - Low-impact, whole-body exercise
+    - Water skills prevent drowning
+    - Major Olympic sport since 1896
+  - The four competitive strokes
+    - [Freestyle (front crawl) is fastest](https://en.wikipedia.org/wiki/Front_crawl)
+    - Backstroke, swum face up
+    - Breaststroke: slowest, frog-like kick
+    - [Butterfly: both arms move together](https://en.wikipedia.org/wiki/Butterfly_stroke)
+  - Learning the basics
+    - Get comfortable with face underwater
+    - Float on front and back
+    - Breathe out underwater, in above
+    - Kick from the hips
+  - Staying safe
+    - Swim where lifeguards are on duty
+    - Never swim alone
+    - [Swim parallel to escape rip currents](https://en.wikipedia.org/wiki/Rip_current)
+    - Cold water shock: enter slowly
+    - Watch children constantly near water
+  - Competition
+    - Olympic pools are 50 metres long
+    - [Individual medley uses all four strokes](https://en.wikipedia.org/wiki/Medley_swimming)
+    - Open water marathon is 10 km
+    - Michael Phelps won 23 Olympic golds
+  - Kit
+    - Goggles, cap and swimsuit
+    - Kickboard and pull buoy for drills

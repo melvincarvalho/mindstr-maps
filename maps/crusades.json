@@ -1,0 +1,340 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Crusades",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#d7utdx",
+      "name": "What they were",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#698wp2",
+      "name": "Religious wars sanctioned by the Pope",
+      "x": -505,
+      "y": -57,
+      "parent": "#d7utdx"
+    },
+    {
+      "@id": "#tbn4be",
+      "name": "Main eastern crusades 1096–1291",
+      "x": -409,
+      "y": -150,
+      "parent": "#d7utdx"
+    },
+    {
+      "@id": "#h8ed8x",
+      "name": "Aim: control Jerusalem and the Holy Land",
+      "x": -340,
+      "y": -236,
+      "parent": "#d7utdx"
+    },
+    {
+      "@id": "#zh9j9j",
+      "name": "Causes",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t4jafh",
+      "name": "Seljuk Turks pressed the Byzantine Empire",
+      "x": -243,
+      "y": -303,
+      "parent": "#zh9j9j"
+    },
+    {
+      "@id": "#h4dedj",
+      "name": "Pope Urban II's call at Clermont, 1095",
+      "x": -133,
+      "y": -360,
+      "link": "https://en.wikipedia.org/wiki/Council_of_Clermont",
+      "parent": "#zh9j9j"
+    },
+    {
+      "@id": "#anxixf",
+      "name": "Promise of forgiveness for sins",
+      "x": 0,
+      "y": -408,
+      "parent": "#zh9j9j"
+    },
+    {
+      "@id": "#nyey3t",
+      "name": "Land, wealth and adventure for knights",
+      "x": 175,
+      "y": -465,
+      "parent": "#zh9j9j"
+    },
+    {
+      "@id": "#z4dqvd",
+      "name": "Major crusades",
+      "x": 209,
+      "y": -76,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wrc6uu",
+      "name": "First Crusade captures Jerusalem, 1099",
+      "x": 243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/First_Crusade",
+      "parent": "#z4dqvd"
+    },
+    {
+      "@id": "#rqsg55",
+      "name": "Second Crusade fails at Damascus, 1148",
+      "x": 340,
+      "y": -236,
+      "parent": "#z4dqvd"
+    },
+    {
+      "@id": "#a5u944",
+      "name": "Saladin retakes Jerusalem in 1187",
+      "x": 409,
+      "y": -150,
+      "link": "https://en.wikipedia.org/wiki/Saladin",
+      "parent": "#z4dqvd"
+    },
+    {
+      "@id": "#x5rsad",
+      "name": "Third Crusade: Richard the Lionheart",
+      "x": 505,
+      "y": -57,
+      "parent": "#z4dqvd"
+    },
+    {
+      "@id": "#s8yuh2",
+      "name": "Fourth Crusade sacks Constantinople, 1204",
+      "x": 445,
+      "y": 51,
+      "parent": "#z4dqvd"
+    },
+    {
+      "@id": "#pyka6a",
+      "name": "The crusader states",
+      "x": 174,
+      "y": 120,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sykg4j",
+      "name": "Kingdom of Jerusalem and three others",
+      "x": 463,
+      "y": 171,
+      "parent": "#pyka6a"
+    },
+    {
+      "@id": "#hd6vbd",
+      "name": "Knights Templar and Hospitallers",
+      "x": 340,
+      "y": 236,
+      "parent": "#pyka6a"
+    },
+    {
+      "@id": "#qx6veb",
+      "name": "Acre, the last stronghold, falls 1291",
+      "x": 243,
+      "y": 303,
+      "parent": "#pyka6a"
+    },
+    {
+      "@id": "#uwr846",
+      "name": "Beyond the Holy Land",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#65b64e",
+      "name": "Reconquista in Spain and Portugal",
+      "x": 133,
+      "y": 360,
+      "parent": "#uwr846"
+    },
+    {
+      "@id": "#tugqw3",
+      "name": "Northern Crusades in the Baltic",
+      "x": 0,
+      "y": 408,
+      "parent": "#uwr846"
+    },
+    {
+      "@id": "#m2qxuj",
+      "name": "Albigensian Crusade against Cathars in France",
+      "x": -175,
+      "y": 465,
+      "parent": "#uwr846"
+    },
+    {
+      "@id": "#w4czgt",
+      "name": "Consequences",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e9qh24",
+      "name": "Massacres of Jews and Muslims",
+      "x": -243,
+      "y": 303,
+      "parent": "#w4czgt"
+    },
+    {
+      "@id": "#6urihy",
+      "name": "Deepened split of Eastern and Western churches",
+      "x": -340,
+      "y": 236,
+      "parent": "#w4czgt"
+    },
+    {
+      "@id": "#a5hwhx",
+      "name": "Boosted Italian trade with the East",
+      "x": -409,
+      "y": 150,
+      "parent": "#w4czgt"
+    },
+    {
+      "@id": "#7zspd7",
+      "name": "Still a contested memory today",
+      "x": -445,
+      "y": 51,
+      "parent": "#w4czgt"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 10,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

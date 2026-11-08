@@ -1,0 +1,28 @@
+category: Technology
+aliases: tv, telly, history of television, television broadcasting
+- Television
+  - How TV works
+    - Camera turns images into signals
+    - Sent by air, cable or satellite
+    - Screen shows many frames per second
+  - Invention
+    - [John Logie Baird's demonstration, 1926](https://en.wikipedia.org/wiki/John_Logie_Baird)
+    - Philo Farnsworth's electronic TV, 1927
+    - BBC regular service from 1936
+  - Spreading into homes
+    - Post-war boom in the 1950s
+    - US colour broadcasts from 1954
+    - [Apollo 11 landing watched live, 1969](https://en.wikipedia.org/wiki/Apollo_11)
+  - Screens
+    - [Bulky cathode-ray tubes for decades](https://en.wikipedia.org/wiki/Cathode-ray_tube)
+    - Flat LCD and OLED panels
+    - HD, then 4K resolution
+  - What's on
+    - News, sport and live events
+    - Soap operas, sitcoms and dramas
+    - Adverts fund commercial channels
+    - Public broadcasters funded by licence or taxes
+  - TV today
+    - Analogue switch-off brought digital TV
+    - [Streaming services on demand](https://en.wikipedia.org/wiki/Streaming_television)
+    - Smart TVs connect to the internet

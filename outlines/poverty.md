@@ -1,0 +1,27 @@
+category: Society
+aliases: global poverty, extreme poverty, causes of poverty, poverty explained
+- Poverty
+  - Definitions
+    - Absolute: can't meet basic needs
+    - Relative: far below typical living standards
+    - [Extreme poverty: World Bank line, about $3/day](https://en.wikipedia.org/wiki/Extreme_poverty)
+    - [Multidimensional: health, education, living standards](https://en.wikipedia.org/wiki/Multidimensional_Poverty_Index)
+  - Scale
+    - About one in ten people extremely poor
+    - Down from over a third in 1990
+    - Concentrated in sub-Saharan Africa
+  - Causes
+    - Low wages and unemployment
+    - Conflict and weak institutions
+    - Lack of education and healthcare
+    - Discrimination and social exclusion
+  - Effects
+    - Malnutrition and shorter life expectancy
+    - Children miss school, work instead
+    - Poverty passes between generations
+  - Responses
+    - Economic growth and jobs
+    - Welfare and social safety nets
+    - [Conditional cash transfers](https://en.wikipedia.org/wiki/Conditional_cash_transfer)
+    - [Microfinance and small loans](https://en.wikipedia.org/wiki/Microfinance)
+    - UN goal: end extreme poverty by 2030

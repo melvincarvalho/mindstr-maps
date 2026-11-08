@@ -1,0 +1,30 @@
+category: Technology
+aliases: space travel, human spaceflight, how spaceflight works
+- Spaceflight
+  - Reaching space
+    - [Kármán line at 100 km up](https://en.wikipedia.org/wiki/K%C3%A1rm%C3%A1n_line)
+    - Suborbital hops go up and fall back
+    - Orbit needs about 7.8 km/s sideways
+  - Phases of a mission
+    - Launch on a multi-stage rocket
+    - Orbit or coast to destination
+    - Docking and rendezvous with stations
+    - [Re-entry heat shields survive 1,500°C+](https://en.wikipedia.org/wiki/Atmospheric_entry)
+  - Moving between worlds
+    - [Hohmann transfer: fuel-efficient orbit change](https://en.wikipedia.org/wiki/Hohmann_transfer_orbit)
+    - Gravity assists borrow planets' speed
+    - Mars trips take about seven months
+  - Keeping people alive
+    - Spacesuits supply air and pressure
+    - Life support recycles water and air
+    - Radiation and microgravity harm the body
+  - Milestones
+    - Gagarin orbits Earth, 1961
+    - Humans walk on the Moon, 1969–1972
+    - [Space Shuttle, a reusable spaceplane](https://en.wikipedia.org/wiki/Space_Shuttle)
+    - SpaceX Crew Dragon flies astronauts, 2020
+  - Risks and costs
+    - Challenger and Columbia disasters
+    - Launches cost tens of millions or more
+    - Reusable rockets cutting launch prices
+    - Space tourism flights began in 2001

@@ -1,0 +1,29 @@
+category: People
+aliases: charles chaplin, charlie chaplin films, the little tramp
+- Charlie Chaplin
+  - Early life
+    - Born 1889 in London
+    - Childhood poverty; mother sent to asylum
+    - Music hall with Fred Karno's troupe
+  - Silent film star
+    - Joined Keystone Studios, 1913
+    - [The Tramp character debuted 1914](https://en.wikipedia.org/wiki/The_Tramp)
+    - Mixed slapstick with pathos
+  - Writer, director and producer
+    - [Co-founded United Artists, 1919](https://en.wikipedia.org/wiki/United_Artists)
+    - The Kid (1921), first directed feature
+    - The Gold Rush (1925)
+    - Composed his own film scores
+  - Late silents and talkies
+    - City Lights (1931) stayed silent
+    - [Modern Times satirised industrial life](https://en.wikipedia.org/wiki/Modern_Times_%28film%29)
+    - [The Great Dictator mocked Hitler, 1940](https://en.wikipedia.org/wiki/The_Great_Dictator)
+  - Controversy and exile
+    - Joan Barry paternity suit, 1943
+    - Accused of communist sympathies
+    - US re-entry permit revoked, 1952
+    - Settled in Switzerland with Oona O'Neill
+  - Legacy
+    - Returned for honorary Oscar, 1972
+    - Knighted in 1975
+    - Died 1977 in Switzerland

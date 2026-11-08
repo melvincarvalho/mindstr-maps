@@ -1,0 +1,30 @@
+category: Science
+aliases: what is science, natural sciences, branches of science
+- Science
+  - What science is
+    - Knowledge tested against evidence
+    - [Claims must be falsifiable](https://en.wikipedia.org/wiki/Falsifiability)
+    - Conclusions stay open to revision
+  - How it works
+    - Observe, hypothesise, test, revise
+    - Controlled experiments isolate causes
+    - [Results must be reproducible](https://en.wikipedia.org/wiki/Reproducibility)
+    - [Peer review checks findings](https://en.wikipedia.org/wiki/Peer_review)
+  - Main branches
+    - Physics: matter, energy and forces
+    - Chemistry: substances and reactions
+    - Biology: living things
+    - Earth and space sciences
+  - Tools of science
+    - Mathematics and statistics
+    - Instruments extend the senses
+    - Computer models and simulations
+  - Landmark ideas
+    - Newton's laws of motion and gravity
+    - [Evolution by natural selection](https://en.wikipedia.org/wiki/Natural_selection)
+    - Atoms and the periodic table
+    - Relativity and quantum mechanics
+  - Science and society
+    - Drives medicine, technology and engineering
+    - Evidence informs public policy
+    - Uncertainty is stated, not hidden

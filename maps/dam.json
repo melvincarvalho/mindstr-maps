@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Dam",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#jcfsi8",
+      "name": "What dams do",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qz6wbc",
+      "name": "Store water for drinking and farming",
+      "x": -445,
+      "y": -54,
+      "parent": "#jcfsi8"
+    },
+    {
+      "@id": "#x8m9ng",
+      "name": "Generate hydroelectric power",
+      "x": -405,
+      "y": -156,
+      "link": "https://en.wikipedia.org/wiki/Hydroelectricity",
+      "parent": "#jcfsi8"
+    },
+    {
+      "@id": "#m86qd8",
+      "name": "Control floods downstream",
+      "x": -330,
+      "y": -245,
+      "parent": "#jcfsi8"
+    },
+    {
+      "@id": "#jp5t3z",
+      "name": "Raise rivers for navigation",
+      "x": -225,
+      "y": -312,
+      "parent": "#jcfsi8"
+    },
+    {
+      "@id": "#4qzsdv",
+      "name": "Main types",
+      "x": 51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a4vmye",
+      "name": "Embankment dams of earth or rock",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Embankment_dam",
+      "parent": "#4qzsdv"
+    },
+    {
+      "@id": "#cq95wb",
+      "name": "Gravity dams resist by sheer weight",
+      "x": 42,
+      "y": -423,
+      "parent": "#4qzsdv"
+    },
+    {
+      "@id": "#wta2w3",
+      "name": "Arch dams push water into canyon walls",
+      "x": 234,
+      "y": -485,
+      "link": "https://en.wikipedia.org/wiki/Arch_dam",
+      "parent": "#4qzsdv"
+    },
+    {
+      "@id": "#d5ire8",
+      "name": "Buttress dams use supporting ribs",
+      "x": 281,
+      "y": -281,
+      "parent": "#4qzsdv"
+    },
+    {
+      "@id": "#grbqj3",
+      "name": "Key parts",
+      "x": 220,
+      "y": -54,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tg385x",
+      "name": "Reservoir held behind the wall",
+      "x": 372,
+      "y": -203,
+      "parent": "#grbqj3"
+    },
+    {
+      "@id": "#ui3wev",
+      "name": "Spillway releases floodwater safely",
+      "x": 430,
+      "y": -106,
+      "parent": "#grbqj3"
+    },
+    {
+      "@id": "#m2uc6b",
+      "name": "Turbines in the powerhouse",
+      "x": 450,
+      "y": 0,
+      "parent": "#grbqj3"
+    },
+    {
+      "@id": "#ii42ia",
+      "name": "Famous dams",
+      "x": 190,
+      "y": 104,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z8ftah",
+      "name": "Hoover Dam, USA, finished 1936",
+      "x": 449,
+      "y": 111,
+      "link": "https://en.wikipedia.org/wiki/Hoover_Dam",
+      "parent": "#ii42ia"
+    },
+    {
+      "@id": "#zv584f",
+      "name": "Three Gorges: world's largest power station",
+      "x": 372,
+      "y": 203,
+      "link": "https://en.wikipedia.org/wiki/Three_Gorges_Dam",
+      "parent": "#ii42ia"
+    },
+    {
+      "@id": "#xu3w56",
+      "name": "Aswan High Dam tamed the Nile",
+      "x": 281,
+      "y": 281,
+      "parent": "#ii42ia"
+    },
+    {
+      "@id": "#7gm93k",
+      "name": "Downsides",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#epzsma",
+      "name": "Displaces communities and floods land",
+      "x": 164,
+      "y": 335,
+      "parent": "#7gm93k"
+    },
+    {
+      "@id": "#uridhb",
+      "name": "Blocks fish migration",
+      "x": 38,
+      "y": 391,
+      "parent": "#7gm93k"
+    },
+    {
+      "@id": "#4yxwzt",
+      "name": "Traps sediment, starving deltas downstream",
+      "x": -124,
+      "y": 447,
+      "parent": "#7gm93k"
+    },
+    {
+      "@id": "#8z4erf",
+      "name": "Failures can be catastrophic",
+      "x": -225,
+      "y": 312,
+      "parent": "#7gm93k"
+    },
+    {
+      "@id": "#bpb335",
+      "name": "Ancient to modern",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pj44ya",
+      "name": "Jawa Dam, Jordan, about 3000 BC",
+      "x": -330,
+      "y": 245,
+      "parent": "#bpb335"
+    },
+    {
+      "@id": "#9vidrm",
+      "name": "Romans built masonry dams",
+      "x": -405,
+      "y": 156,
+      "parent": "#bpb335"
+    },
+    {
+      "@id": "#d7b4b6",
+      "name": "Large-dam boom in the 20th century",
+      "x": -505,
+      "y": 60,
+      "parent": "#bpb335"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

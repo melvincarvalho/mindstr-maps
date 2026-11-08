@@ -1,0 +1,31 @@
+category: Science
+aliases: muscles, muscular system, how muscles work, muscle tissue
+- Muscle
+  - Three types of muscle
+    - [Skeletal muscle moves bones, voluntary](https://en.wikipedia.org/wiki/Skeletal_muscle)
+    - [Cardiac muscle pumps the heart](https://en.wikipedia.org/wiki/Cardiac_muscle)
+    - Smooth muscle lines gut and vessels
+  - How a muscle contracts
+    - Nerve signal triggers calcium release
+    - [Actin and myosin filaments slide together](https://en.wikipedia.org/wiki/Sliding_filament_theory)
+    - Muscles can only pull, never push
+    - Pairs work opposite, like biceps, triceps
+  - Structure
+    - Fibres bundled inside the muscle
+    - Tendons attach muscle to bone
+    - About 600 skeletal muscles in body
+  - Energy and fatigue
+    - ATP powers every contraction
+    - Oxygen-rich aerobic work for endurance
+    - Anaerobic bursts for sprints and lifts
+    - Slow-twitch versus fast-twitch fibres
+  - Common problems
+    - Strains from overstretched fibres
+    - Cramps: sudden involuntary tightening
+    - [Sarcopenia: muscle loss with age](https://en.wikipedia.org/wiki/Sarcopenia)
+    - Muscular dystrophy is genetic weakening
+  - Keeping muscles healthy
+    - Strength exercise at least twice weekly
+    - Enough protein spread across meals
+    - Warm up and build load gradually
+    - Rest lets fibres repair stronger

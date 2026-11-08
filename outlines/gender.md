@@ -1,0 +1,29 @@
+category: Life and home
+aliases: gender roles, sex and gender, gender explained
+- Gender
+  - Sex and gender
+    - Sex refers to biological traits
+    - Gender: social roles, behaviour and identity
+    - Terms used differently across fields
+  - Gender identity
+    - [A person's inner sense of gender](https://en.wikipedia.org/wiki/Gender_identity)
+    - For most it matches sex at birth
+    - [Transgender: identity differs from birth sex](https://en.wikipedia.org/wiki/Transgender)
+    - Non-binary: not solely man or woman
+  - Gender roles
+    - [Expectations of how men and women behave](https://en.wikipedia.org/wiki/Gender_role)
+    - Vary greatly across cultures and eras
+    - Some cultures recognise a third gender
+  - Biology and development
+    - Chromosomes usually XX or XY
+    - [Intersex: variations in sex characteristics](https://en.wikipedia.org/wiki/Intersex)
+    - Children learn gender norms early
+    - Nature and nurture both shape behaviour
+  - Equality
+    - Women won the vote during 1900s
+    - Gender pay gap persists worldwide
+    - UN goal of gender equality by 2030
+  - Debates and law
+    - Legal gender recognition varies by country
+    - Medical care for transgender youth debated
+    - Views differ across politics and religion

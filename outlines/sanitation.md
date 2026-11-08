@@ -1,0 +1,30 @@
+category: Health
+aliases: sewage and sanitation, sanitation systems, safe sanitation
+- Sanitation
+  - What it covers
+    - Safe disposal of human waste
+    - Sewage and wastewater treatment
+    - Solid waste collection
+    - Part of WASH: water, sanitation, hygiene
+  - Why it matters
+    - Stops cholera, typhoid and diarrhoea
+    - Unsafe sanitation kills hundreds of thousands yearly
+    - Protects rivers and drinking water
+    - Dignity and safety, especially for women
+  - Toilets and systems
+    - [Flush toilets connected to sewers](https://en.wikipedia.org/wiki/Sanitary_sewer)
+    - [Septic tanks where there's no sewer](https://en.wikipedia.org/wiki/Septic_tank)
+    - [Pit latrines are common worldwide](https://en.wikipedia.org/wiki/Pit_latrine)
+    - Composting and dry toilets
+  - Treating wastewater
+    - Screens and settling remove solids
+    - Bacteria break down organic matter
+    - Cleaned water returned to rivers
+    - Sludge can become fertiliser or biogas
+  - History
+    - [1854: John Snow traced cholera to pump](https://en.wikipedia.org/wiki/John_Snow)
+    - London built sewers after 1858's Great Stink
+  - Global picture
+    - About 3.5 billion lack safely managed sanitation
+    - About 420 million practise open defecation
+    - [UN Sustainable Development Goal 6](https://en.wikipedia.org/wiki/Sustainable_Development_Goal_6)

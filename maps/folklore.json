@@ -1,0 +1,308 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Folklore",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#9guh58",
+      "name": "What folklore is",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qajjaz",
+      "name": "Traditional knowledge shared informally",
+      "x": -504,
+      "y": -68,
+      "parent": "#9guh58"
+    },
+    {
+      "@id": "#dpadus",
+      "name": "Passed on by word and example",
+      "x": -396,
+      "y": -171,
+      "parent": "#9guh58"
+    },
+    {
+      "@id": "#ja4hk8",
+      "name": "Term coined by William Thoms, 1846",
+      "x": -305,
+      "y": -265,
+      "parent": "#9guh58"
+    },
+    {
+      "@id": "#vnbkrj",
+      "name": "Folk narratives",
+      "x": 19,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4c3yn5",
+      "name": "Myths explain origins and the sacred",
+      "x": -181,
+      "y": -330,
+      "link": "https://en.wikipedia.org/wiki/Myth",
+      "parent": "#vnbkrj"
+    },
+    {
+      "@id": "#edm6z9",
+      "name": "Legends tied to real places, people",
+      "x": -41,
+      "y": -391,
+      "parent": "#vnbkrj"
+    },
+    {
+      "@id": "#bhzi8i",
+      "name": "Folk tales and fairy tales",
+      "x": 140,
+      "y": -445,
+      "link": "https://en.wikipedia.org/wiki/Fairy_tale",
+      "parent": "#vnbkrj"
+    },
+    {
+      "@id": "#ihxbb3",
+      "name": "Urban legends still circulate today",
+      "x": 246,
+      "y": -301,
+      "link": "https://en.wikipedia.org/wiki/Urban_legend",
+      "parent": "#vnbkrj"
+    },
+    {
+      "@id": "#ipq43e",
+      "name": "Customs and beliefs",
+      "x": 218,
+      "y": -60,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gwnwxj",
+      "name": "Superstitions and folk remedies",
+      "x": 355,
+      "y": -221,
+      "parent": "#ipq43e"
+    },
+    {
+      "@id": "#s2gmee",
+      "name": "Seasonal rituals and festivals",
+      "x": 426,
+      "y": -117,
+      "parent": "#ipq43e"
+    },
+    {
+      "@id": "#jyy7pz",
+      "name": "Rites of passage like weddings",
+      "x": 450,
+      "y": 0,
+      "parent": "#ipq43e"
+    },
+    {
+      "@id": "#46x8wa",
+      "name": "Performed and material folklore",
+      "x": 182,
+      "y": 113,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#evux4b",
+      "name": "Folk songs, dances and music",
+      "x": 502,
+      "y": 137,
+      "parent": "#46x8wa"
+    },
+    {
+      "@id": "#r6ienr",
+      "name": "Crafts, costume and vernacular building",
+      "x": 355,
+      "y": 221,
+      "parent": "#46x8wa"
+    },
+    {
+      "@id": "#2psppq",
+      "name": "Proverbs, riddles and jokes",
+      "x": 246,
+      "y": 301,
+      "parent": "#46x8wa"
+    },
+    {
+      "@id": "#i2s6gt",
+      "name": "Collecting and classifying",
+      "x": -19,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#43gmzw",
+      "name": "Brothers Grimm collected German tales",
+      "x": 110,
+      "y": 349,
+      "link": "https://en.wikipedia.org/wiki/Brothers_Grimm",
+      "parent": "#i2s6gt"
+    },
+    {
+      "@id": "#6etsnp",
+      "name": "Tale-type indexes group similar stories",
+      "x": -43,
+      "y": 407,
+      "parent": "#i2s6gt"
+    },
+    {
+      "@id": "#86293j",
+      "name": "Folkloristics is the academic study",
+      "x": -253,
+      "y": 465,
+      "parent": "#i2s6gt"
+    },
+    {
+      "@id": "#6ysdnf",
+      "name": "Folklore today",
+      "x": -202,
+      "y": 88,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cyrk6x",
+      "name": "Internet memes as digital folklore",
+      "x": -305,
+      "y": 265,
+      "parent": "#6ysdnf"
+    },
+    {
+      "@id": "#t7xaxh",
+      "name": "Reworked in films and fantasy fiction",
+      "x": -396,
+      "y": 171,
+      "parent": "#6ysdnf"
+    },
+    {
+      "@id": "#kp5fhz",
+      "name": "Source of community and national identity",
+      "x": -504,
+      "y": 68,
+      "parent": "#6ysdnf"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,30 @@
+category: People
+aliases: hippocrates of kos, father of medicine, hippocratic medicine
+- Hippocrates
+  - Life
+    - Born about 460 BC on Kos
+    - Greek physician of the Classical era
+    - Died about 370 BC in Thessaly
+    - Few reliable details survive
+  - Medicine without the gods
+    - Disease has natural, not divine, causes
+    - Careful observation of patients
+    - Prognosis: predicting the course of illness
+  - [The four humours](https://en.wikipedia.org/wiki/Humorism)
+    - Blood, phlegm, yellow and black bile
+    - Health means humours in balance
+    - Theory dominated medicine until the 1800s
+  - [The Hippocratic Corpus](https://en.wikipedia.org/wiki/Hippocratic_Corpus)
+    - About 60 early Greek medical texts
+    - Written by many authors over time
+    - On the Sacred Disease: epilepsy is natural
+    - Aphorisms: "Life is short, art long"
+  - [The Hippocratic Oath](https://en.wikipedia.org/wiki/Hippocratic_Oath)
+    - Pledges to help patients, avoid harm
+    - "First, do no harm" isn't in it
+    - Keeps patients' secrets confidential
+    - Modern versions sworn at graduation
+  - Legacy
+    - Called the "Father of Medicine"
+    - Influenced Galen and later medicine
+    - Clubbed fingers called "Hippocratic fingers"

@@ -1,0 +1,318 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Mineral",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#mq8i9e",
+      "name": "What counts as a mineral",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#62tgfz",
+      "name": "Naturally formed, inorganic solid",
+      "x": -445,
+      "y": -54,
+      "parent": "#mq8i9e"
+    },
+    {
+      "@id": "#66kqti",
+      "name": "Definite chemical makeup",
+      "x": -405,
+      "y": -156,
+      "parent": "#mq8i9e"
+    },
+    {
+      "@id": "#whv7dd",
+      "name": "Atoms arranged in an ordered crystal",
+      "x": -330,
+      "y": -245,
+      "link": "https://en.wikipedia.org/wiki/Crystal",
+      "parent": "#mq8i9e"
+    },
+    {
+      "@id": "#irrq94",
+      "name": "About 6,000 known species",
+      "x": -225,
+      "y": -312,
+      "parent": "#mq8i9e"
+    },
+    {
+      "@id": "#rv727n",
+      "name": "Common minerals",
+      "x": 51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dsdg8w",
+      "name": "Quartz: silicon and oxygen",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Quartz",
+      "parent": "#rv727n"
+    },
+    {
+      "@id": "#qhijn9",
+      "name": "Feldspars: most abundant in the crust",
+      "x": 42,
+      "y": -423,
+      "parent": "#rv727n"
+    },
+    {
+      "@id": "#9a4quc",
+      "name": "Calcite forms limestone and marble",
+      "x": 234,
+      "y": -485,
+      "parent": "#rv727n"
+    },
+    {
+      "@id": "#6zqrwr",
+      "name": "Mica splits into thin sheets",
+      "x": 281,
+      "y": -281,
+      "parent": "#rv727n"
+    },
+    {
+      "@id": "#zx7r39",
+      "name": "Identifying minerals",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2rhhkh",
+      "name": "Hardness on the Mohs scale",
+      "x": 372,
+      "y": -203,
+      "link": "https://en.wikipedia.org/wiki/Mohs_scale",
+      "parent": "#zx7r39"
+    },
+    {
+      "@id": "#cwzfxa",
+      "name": "Streak: colour of its powder",
+      "x": 430,
+      "y": -106,
+      "parent": "#zx7r39"
+    },
+    {
+      "@id": "#5362cp",
+      "name": "Lustre: metallic, glassy or dull",
+      "x": 530,
+      "y": 0,
+      "parent": "#zx7r39"
+    },
+    {
+      "@id": "#meyy8t",
+      "name": "Cleavage: how it splits",
+      "x": 430,
+      "y": 106,
+      "parent": "#zx7r39"
+    },
+    {
+      "@id": "#ef8x8s",
+      "name": "Colour alone can mislead",
+      "x": 372,
+      "y": 203,
+      "parent": "#zx7r39"
+    },
+    {
+      "@id": "#6r8kgq",
+      "name": "How they form",
+      "x": 84,
+      "y": 171,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#87jgqh",
+      "name": "Crystallising from cooling magma",
+      "x": 281,
+      "y": 281,
+      "parent": "#6r8kgq"
+    },
+    {
+      "@id": "#nty28p",
+      "name": "Precipitating from evaporating water",
+      "x": 164,
+      "y": 335,
+      "parent": "#6r8kgq"
+    },
+    {
+      "@id": "#a7ufdh",
+      "name": "Recrystallising under heat and pressure",
+      "x": 38,
+      "y": 391,
+      "parent": "#6r8kgq"
+    },
+    {
+      "@id": "#y9zids",
+      "name": "Uses",
+      "x": -169,
+      "y": 125,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kr9gwb",
+      "name": "Ores yield iron, copper, aluminium",
+      "x": -124,
+      "y": 447,
+      "link": "https://en.wikipedia.org/wiki/Ore",
+      "parent": "#y9zids"
+    },
+    {
+      "@id": "#zxxs39",
+      "name": "Gemstones like diamond and ruby",
+      "x": -225,
+      "y": 312,
+      "parent": "#y9zids"
+    },
+    {
+      "@id": "#pr7d56",
+      "name": "Gypsum for plaster and drywall",
+      "x": -330,
+      "y": 245,
+      "parent": "#y9zids"
+    },
+    {
+      "@id": "#yrnw79",
+      "name": "Halite is table salt",
+      "x": -405,
+      "y": 156,
+      "parent": "#y9zids"
+    },
+    {
+      "@id": "#ygjpxv",
+      "name": "Lithium and cobalt for batteries",
+      "x": -445,
+      "y": 54,
+      "parent": "#y9zids"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 11,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    },
+    {
+      "start": 21,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

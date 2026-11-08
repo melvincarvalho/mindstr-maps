@@ -1,0 +1,329 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "The Buddha",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#vqvgp6",
+      "name": "What historians can say",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dpmxqk",
+      "name": "Lived in north India, 5th century BCE",
+      "x": -445,
+      "y": -51,
+      "parent": "#vqvgp6"
+    },
+    {
+      "@id": "#26dbea",
+      "name": "From the Shakya clan, near Lumbini",
+      "x": -409,
+      "y": -150,
+      "parent": "#vqvgp6"
+    },
+    {
+      "@id": "#5mcats",
+      "name": "Teachings passed down orally for centuries",
+      "x": -340,
+      "y": -236,
+      "parent": "#vqvgp6"
+    },
+    {
+      "@id": "#sfji48",
+      "name": "Pali Canon written in 1st century BCE",
+      "x": -243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Pali_Canon",
+      "parent": "#vqvgp6"
+    },
+    {
+      "@id": "#q6wiun",
+      "name": "The life as tradition tells it",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c8tmxx",
+      "name": "Prince Siddhartha raised in luxury",
+      "x": -133,
+      "y": -360,
+      "parent": "#q6wiun"
+    },
+    {
+      "@id": "#rdmcyk",
+      "name": "Four sights: age, sickness, death, an ascetic",
+      "x": 0,
+      "y": -408,
+      "parent": "#q6wiun"
+    },
+    {
+      "@id": "#2ydk8r",
+      "name": "Left home at 29 to seek truth",
+      "x": 175,
+      "y": -465,
+      "parent": "#q6wiun"
+    },
+    {
+      "@id": "#py842a",
+      "name": "Rejected extreme fasting for the Middle Way",
+      "x": 243,
+      "y": -303,
+      "parent": "#q6wiun"
+    },
+    {
+      "@id": "#kpwy2h",
+      "name": "Awakening and teaching",
+      "x": 228,
+      "y": -26,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e58ytv",
+      "name": "Awoke beneath the Bodhi tree, Bodh Gaya",
+      "x": 340,
+      "y": -236,
+      "link": "https://en.wikipedia.org/wiki/Bodhi_Tree",
+      "parent": "#kpwy2h"
+    },
+    {
+      "@id": "#dbk2vv",
+      "name": "First sermon in the deer park, Sarnath",
+      "x": 409,
+      "y": -150,
+      "parent": "#kpwy2h"
+    },
+    {
+      "@id": "#5keqca",
+      "name": "Taught for about 45 years",
+      "x": 505,
+      "y": -57,
+      "parent": "#kpwy2h"
+    },
+    {
+      "@id": "#z88bsq",
+      "name": "Founded a community of monks and nuns",
+      "x": 445,
+      "y": 51,
+      "parent": "#kpwy2h"
+    },
+    {
+      "@id": "#7ud5jt",
+      "name": "Died at Kushinagar, about age 80",
+      "x": 409,
+      "y": 150,
+      "parent": "#kpwy2h"
+    },
+    {
+      "@id": "#5cyc6c",
+      "name": "What Buddhists teach",
+      "x": 65,
+      "y": 177,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ejhctv",
+      "name": "Four Noble Truths: suffering and its end",
+      "x": 340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/Four_Noble_Truths",
+      "parent": "#5cyc6c"
+    },
+    {
+      "@id": "#dsqhk7",
+      "name": "Noble Eightfold Path to liberation",
+      "x": 243,
+      "y": 303,
+      "link": "https://en.wikipedia.org/wiki/Noble_Eightfold_Path",
+      "parent": "#5cyc6c"
+    },
+    {
+      "@id": "#xnift6",
+      "name": "Impermanence and non-self",
+      "x": 133,
+      "y": 360,
+      "parent": "#5cyc6c"
+    },
+    {
+      "@id": "#pxd9zb",
+      "name": "Karma and rebirth",
+      "x": 0,
+      "y": 408,
+      "parent": "#5cyc6c"
+    },
+    {
+      "@id": "#samm4k",
+      "name": "Nirvana: freedom from craving and rebirth",
+      "x": -175,
+      "y": 465,
+      "parent": "#5cyc6c"
+    },
+    {
+      "@id": "#c9qkut",
+      "name": "Legacy",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dvhwhr",
+      "name": "Emperor Ashoka spread Buddhism widely",
+      "x": -243,
+      "y": 303,
+      "parent": "#c9qkut"
+    },
+    {
+      "@id": "#ru7wgs",
+      "name": "Theravada, Mahayana and Vajrayana traditions",
+      "x": -340,
+      "y": 236,
+      "parent": "#c9qkut"
+    },
+    {
+      "@id": "#dgmakx",
+      "name": "About 500 million Buddhists today",
+      "x": -409,
+      "y": 150,
+      "parent": "#c9qkut"
+    },
+    {
+      "@id": "#u8mq5x",
+      "name": "Shaped art, ethics and meditation worldwide",
+      "x": -445,
+      "y": 51,
+      "parent": "#c9qkut"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 11,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 17,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

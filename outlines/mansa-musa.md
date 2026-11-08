@@ -1,0 +1,27 @@
+category: People
+aliases: musa i of mali, musa keita, kankan musa
+- Mansa Musa
+  - Who he was
+    - Ruler (mansa) of the Mali Empire
+    - Reigned about 1312 to 1337
+    - Descendant of Sundiata Keita's family
+    - Came to power after Abubakari II
+  - [Mali Empire](https://en.wikipedia.org/wiki/Mali_Empire)
+    - Stretched from Atlantic coast to Niger bend
+    - Wealth from West African gold fields
+    - Controlled trans-Saharan salt and gold trade
+    - Annexed Timbuktu and Gao
+  - Hajj to Mecca, 1324
+    - Travelled with thousands of attendants
+    - Carried many tons of gold
+    - Lavish spending in Cairo depressed gold's value
+    - Put Mali on European maps
+  - Builder and patron
+    - [Djinguereber Mosque built in Timbuktu](https://en.wikipedia.org/wiki/Djinguereber_Mosque)
+    - Brought architect Abu Ishaq al-Sahili home
+    - Timbuktu grew into scholarly centre
+    - Promoted Islam among the elite
+  - Legacy
+    - Shown holding gold on 1375 Catalan Atlas
+    - Often called the richest person ever
+    - Mali's power faded within a century

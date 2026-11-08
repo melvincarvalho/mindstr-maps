@@ -1,0 +1,29 @@
+category: Philosophy and religion
+aliases: what is knowledge, types of knowledge, kinds of knowledge
+- Knowledge
+  - Kinds of knowledge
+    - Knowing that: Paris is in France
+    - Knowing how: riding a bike
+    - Acquaintance: knowing a person or place
+    - [Tacit knowledge: hard to put in words](https://en.wikipedia.org/wiki/Tacit_knowledge)
+  - What knowledge requires
+    - Truth: you cannot know falsehoods
+    - Belief: you must accept it
+    - Justification: good reasons or evidence
+    - Gettier: lucky true beliefs fall short
+  - How we gain it
+    - Senses and observation
+    - Reasoning and proof
+    - Testimony from teachers, books and experts
+    - [Scientific method tests ideas](https://en.wikipedia.org/wiki/Scientific_method)
+  - A priori and a posteriori
+    - A priori: known without experience
+    - A posteriori: needs experience to check
+  - Limits of knowledge
+    - [Socrates: wise to know you don't know](https://en.wikipedia.org/wiki/I_know_that_I_know_nothing)
+    - Skeptics doubt certainty is possible
+    - Fallibilism: knowledge without certainty
+  - Knowledge in society
+    - Libraries, encyclopedias and Wikipedia
+    - Relying on experts we cannot check
+    - [Bacon: "knowledge is power"](https://en.wikipedia.org/wiki/Scientia_potentia_est)

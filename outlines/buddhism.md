@@ -1,0 +1,32 @@
+category: Philosophy and religion
+aliases: buddhist religion, buddhist teachings, buddhadharma
+- Buddhism
+  - Origins
+    - Founded by Siddhartha Gautama, the Buddha
+    - Northern India, about 5th century BCE
+    - Spread across Asia, now worldwide
+    - About 500 million followers
+  - Core teachings
+    - [Four Noble Truths about suffering](https://en.wikipedia.org/wiki/Four_Noble_Truths)
+    - [Noble Eightfold Path to its end](https://en.wikipedia.org/wiki/Noble_Eightfold_Path)
+    - Impermanence and no fixed self
+    - Dependent origination of all things
+  - Karma and rebirth
+    - Intentional actions shape future lives
+    - Cycle of rebirth called samsara
+    - [Nirvana: freedom from the cycle](https://en.wikipedia.org/wiki/Nirvana)
+  - Three Jewels
+    - The Buddha, the awakened teacher
+    - The Dharma, his teaching
+    - The Sangha, the community
+  - Practice
+    - Meditation for calm and insight
+    - Five precepts for lay followers
+    - Monks and nuns follow the Vinaya
+    - Generosity, chanting and offerings
+    - Vesak marks the Buddha's life
+  - Main branches
+    - [Theravada in Sri Lanka, Southeast Asia](https://en.wikipedia.org/wiki/Theravada)
+    - Mahayana in China, Japan, Korea, Vietnam
+    - Vajrayana in Tibet and Mongolia
+    - Zen, Pure Land and Tibetan schools

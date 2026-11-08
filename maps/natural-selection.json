@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Natural selection",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#4xp3fi",
+      "name": "The four conditions",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sfp9dk",
+      "name": "Individuals vary in their traits",
+      "x": -445,
+      "y": -54,
+      "parent": "#4xp3fi"
+    },
+    {
+      "@id": "#uhi5zx",
+      "name": "Some variation is inherited",
+      "x": -405,
+      "y": -156,
+      "parent": "#4xp3fi"
+    },
+    {
+      "@id": "#uxewze",
+      "name": "More offspring born than can survive",
+      "x": -330,
+      "y": -245,
+      "parent": "#4xp3fi"
+    },
+    {
+      "@id": "#2n44j8",
+      "name": "Some traits improve survival or reproduction",
+      "x": -225,
+      "y": -312,
+      "parent": "#4xp3fi"
+    },
+    {
+      "@id": "#xavat7",
+      "name": "The result",
+      "x": 17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bgfzjt",
+      "name": "Helpful traits become more common",
+      "x": -104,
+      "y": -367,
+      "parent": "#xavat7"
+    },
+    {
+      "@id": "#zzdenm",
+      "name": "Populations adapt to their environment",
+      "x": 42,
+      "y": -423,
+      "parent": "#xavat7"
+    },
+    {
+      "@id": "#e6ykkk",
+      "name": "Acts on individuals; populations evolve",
+      "x": 234,
+      "y": -485,
+      "parent": "#xavat7"
+    },
+    {
+      "@id": "#fzxinx",
+      "name": "Kinds of selection",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e58qz5",
+      "name": "Directional: one extreme is favoured",
+      "x": 281,
+      "y": -281,
+      "link": "https://en.wikipedia.org/wiki/Directional_selection",
+      "parent": "#fzxinx"
+    },
+    {
+      "@id": "#dttt7p",
+      "name": "Stabilising: the average is favoured",
+      "x": 372,
+      "y": -203,
+      "parent": "#fzxinx"
+    },
+    {
+      "@id": "#a3bcm6",
+      "name": "Disruptive: both extremes are favoured",
+      "x": 525,
+      "y": -131,
+      "parent": "#fzxinx"
+    },
+    {
+      "@id": "#pkwjvh",
+      "name": "Sexual selection: traits that win mates",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Sexual_selection",
+      "parent": "#fzxinx"
+    },
+    {
+      "@id": "#r2g89r",
+      "name": "Classic examples",
+      "x": 169,
+      "y": 125,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5zhe9p",
+      "name": "Peppered moths darkened in sooty Britain",
+      "x": 487,
+      "y": 121,
+      "link": "https://en.wikipedia.org/wiki/Peppered_moth_evolution",
+      "parent": "#r2g89r"
+    },
+    {
+      "@id": "#48g6yi",
+      "name": "Finch beaks changed with Galapagos droughts",
+      "x": 372,
+      "y": 203,
+      "parent": "#r2g89r"
+    },
+    {
+      "@id": "#q3v5r5",
+      "name": "Bacteria evolving antibiotic resistance",
+      "x": 281,
+      "y": 281,
+      "parent": "#r2g89r"
+    },
+    {
+      "@id": "#b4jvx5",
+      "name": "Insects resisting pesticides",
+      "x": 164,
+      "y": 335,
+      "parent": "#r2g89r"
+    },
+    {
+      "@id": "#6j6372",
+      "name": "Common misunderstandings",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#upqrfy",
+      "name": "Fittest means best at reproducing",
+      "x": 38,
+      "y": 391,
+      "parent": "#6j6372"
+    },
+    {
+      "@id": "#wb4sh9",
+      "name": "It has no goal or foresight",
+      "x": -124,
+      "y": 447,
+      "parent": "#6j6372"
+    },
+    {
+      "@id": "#cr4fxv",
+      "name": "Individuals don't evolve in a lifetime",
+      "x": -225,
+      "y": 312,
+      "parent": "#6j6372"
+    },
+    {
+      "@id": "#e2jssc",
+      "name": "History",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xe6q3z",
+      "name": "Darwin and Wallace presented it, 1858",
+      "x": -330,
+      "y": 245,
+      "parent": "#e2jssc"
+    },
+    {
+      "@id": "#hcyhx5",
+      "name": "Herbert Spencer coined survival of the fittest",
+      "x": -423,
+      "y": 163,
+      "link": "https://en.wikipedia.org/wiki/Survival_of_the_fittest",
+      "parent": "#e2jssc"
+    },
+    {
+      "@id": "#hx9f8h",
+      "name": "Breeders' artificial selection inspired Darwin",
+      "x": -505,
+      "y": 60,
+      "parent": "#e2jssc"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

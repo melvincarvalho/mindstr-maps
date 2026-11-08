@@ -1,0 +1,29 @@
+category: Mathematics
+aliases: topology maths, rubber sheet geometry, topology mathematics
+- Topology
+  - Shape without measurement
+    - Stretch and bend, but never tear
+    - [Coffee cup equals doughnut: one hole](https://en.wikipedia.org/wiki/Homeomorphism)
+    - Lengths and angles don't matter
+    - Letters O and D count as same
+    - Not topography, which maps terrain
+  - Key ideas
+    - Open sets say what counts as "near"
+    - Continuous maps keep neighbours together
+    - Connected means all in one piece
+    - Compact means closed and bounded, roughly
+  - Holes and surfaces
+    - [Euler characteristic: V−E+F = 2](https://en.wikipedia.org/wiki/Euler_characteristic)
+    - Genus counts holes: sphere 0, doughnut 1
+    - [Möbius strip has only one side](https://en.wikipedia.org/wiki/M%C3%B6bius_strip)
+    - Klein bottle has no inside
+    - Loops reveal holes a surface has
+  - History
+    - [Euler's Königsberg bridges puzzle, 1736](https://en.wikipedia.org/wiki/Seven_Bridges_of_K%C3%B6nigsberg)
+    - Poincaré founded algebraic topology, 1890s
+    - [Perelman proved Poincaré conjecture, 2003](https://en.wikipedia.org/wiki/Poincar%C3%A9_conjecture)
+  - Uses
+    - Hairy ball theorem: always a cowlick
+    - Knot theory explains tangled DNA
+    - Network connectivity and tube maps
+    - Topological data analysis finds shape

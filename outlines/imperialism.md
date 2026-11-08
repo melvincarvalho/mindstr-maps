@@ -1,0 +1,29 @@
+category: Society
+aliases: empire building, imperialist expansion, new imperialism, theories of imperialism
+- Imperialism
+  - Meaning
+    - Extending a state's power over others
+    - By conquest, colonies or economic dominance
+    - Broader than colonialism; needs no settlers
+  - Empires through history
+    - Rome, Persia and Han China
+    - Mongol Empire, largest contiguous land empire
+    - Ottoman, Spanish and Mughal empires
+    - [British Empire covered a quarter of land](https://en.wikipedia.org/wiki/British_Empire)
+  - Motives
+    - Raw materials, markets and investment
+    - Strategic bases and great-power rivalry
+    - National prestige and "civilising mission"
+    - [Social Darwinism and racial hierarchy](https://en.wikipedia.org/wiki/Social_Darwinism)
+  - Theories
+    - [Hobson blamed surplus capital (1902)](https://en.wikipedia.org/wiki/Imperialism:_A_Study)
+    - Lenin: highest stage of capitalism
+    - Realists see power competition between states
+  - Tools and methods
+    - Gunboats, treaties and protectorates
+    - Unequal treaties forced on China
+    - Spheres of influence and client states
+  - Criticism and aftermath
+    - Anti-imperialist movements and independence
+    - Cultural imperialism through media and language
+    - [Debates over American and Soviet "empires"](https://en.wikipedia.org/wiki/American_imperialism)

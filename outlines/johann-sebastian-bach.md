@@ -1,0 +1,32 @@
+category: People
+aliases: j s bach, js bach, bach composer
+- Johann Sebastian Bach
+  - German Baroque composer, 1685–1750
+    - Born in Eisenach into a musical family
+    - Orphaned at ten; raised by his brother
+    - A virtuoso organist and keyboard player
+  - Career stages
+    - Organist in Arnstadt and Mühlhausen
+    - Weimar court: many organ works
+    - Köthen: instrumental and chamber music
+    - Leipzig from 1723: cantor of St Thomas
+  - Masterworks
+    - [The Well-Tempered Clavier: all 24 keys](https://en.wikipedia.org/wiki/The_Well-Tempered_Clavier)
+    - [Six Brandenburg Concertos](https://en.wikipedia.org/wiki/Brandenburg_Concertos)
+    - [St Matthew Passion](https://en.wikipedia.org/wiki/St_Matthew_Passion)
+    - Mass in B minor
+    - Goldberg Variations and Cello Suites
+    - About 200 surviving church cantatas
+  - His musical language
+    - [Master of counterpoint and the fugue](https://en.wikipedia.org/wiki/Fugue)
+    - Lutheran faith shaped his music
+    - Signed scores "Soli Deo gloria"
+  - Family
+    - Two marriages and 20 children
+    - Composer sons C.P.E. and J.C. Bach
+  - Legacy
+    - Seen as old-fashioned by his death
+    - Mendelssohn revived the St Matthew Passion, 1829
+    - Studied by Mozart, Beethoven and Chopin
+    - Works numbered in the BWV catalogue
+    - On the Voyager Golden Record

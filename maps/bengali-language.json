@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Bengali language",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#emaau9",
+      "name": "Where it's spoken",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#thaz9k",
+      "name": "About 280 million speakers",
+      "x": -445,
+      "y": -51,
+      "parent": "#emaau9"
+    },
+    {
+      "@id": "#786mnz",
+      "name": "National language of Bangladesh",
+      "x": -409,
+      "y": -150,
+      "parent": "#emaau9"
+    },
+    {
+      "@id": "#wdvs9v",
+      "name": "West Bengal, Tripura and parts of Assam",
+      "x": -340,
+      "y": -236,
+      "parent": "#emaau9"
+    },
+    {
+      "@id": "#dkm2t2",
+      "name": "Large diaspora, including in Britain",
+      "x": -243,
+      "y": -303,
+      "parent": "#emaau9"
+    },
+    {
+      "@id": "#vcvtun",
+      "name": "History and family",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tduzet",
+      "name": "Indo-Aryan branch of Indo-European",
+      "x": -133,
+      "y": -360,
+      "parent": "#vcvtun"
+    },
+    {
+      "@id": "#39gswd",
+      "name": "Grew from Magadhi Prakrit",
+      "x": 0,
+      "y": -408,
+      "parent": "#vcvtun"
+    },
+    {
+      "@id": "#343y9y",
+      "name": "Charyapada songs, around 1000 CE",
+      "x": 175,
+      "y": -465,
+      "parent": "#vcvtun"
+    },
+    {
+      "@id": "#rtxadv",
+      "name": "Tagore won the Nobel Prize, 1913",
+      "x": 243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Rabindranath_Tagore",
+      "parent": "#vcvtun"
+    },
+    {
+      "@id": "#v5uf6c",
+      "name": "Language Movement",
+      "x": 209,
+      "y": -76,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ju4b8f",
+      "name": "1952 protests for Bengali's official status",
+      "x": 340,
+      "y": -236,
+      "link": "https://en.wikipedia.org/wiki/Bengali_language_movement",
+      "parent": "#v5uf6c"
+    },
+    {
+      "@id": "#kurkwt",
+      "name": "21 February: International Mother Language Day",
+      "x": 409,
+      "y": -150,
+      "link": "https://en.wikipedia.org/wiki/International_Mother_Language_Day",
+      "parent": "#v5uf6c"
+    },
+    {
+      "@id": "#qpmgsi",
+      "name": "Language central to Bangladesh's independence",
+      "x": 545,
+      "y": -61,
+      "parent": "#v5uf6c"
+    },
+    {
+      "@id": "#2epwu3",
+      "name": "Sounds and writing",
+      "x": 193,
+      "y": 99,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#arvs34",
+      "name": "Bengali script, an abugida",
+      "x": 445,
+      "y": 51,
+      "link": "https://en.wikipedia.org/wiki/Bengali_alphabet",
+      "parent": "#2epwu3"
+    },
+    {
+      "@id": "#uek58m",
+      "name": "Letters hang from a top line",
+      "x": 409,
+      "y": 150,
+      "parent": "#2epwu3"
+    },
+    {
+      "@id": "#vic6kp",
+      "name": "Vowel signs attach to consonants",
+      "x": 340,
+      "y": 236,
+      "parent": "#2epwu3"
+    },
+    {
+      "@id": "#2vc5mx",
+      "name": "Aspirated sounds like kh, gh",
+      "x": 243,
+      "y": 303,
+      "parent": "#2epwu3"
+    },
+    {
+      "@id": "#5cckbn",
+      "name": "Grammar highlights",
+      "x": -33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#998wh4",
+      "name": "Subject, object, then verb",
+      "x": 133,
+      "y": 360,
+      "parent": "#5cckbn"
+    },
+    {
+      "@id": "#tqctgs",
+      "name": "No grammatical gender",
+      "x": 0,
+      "y": 408,
+      "parent": "#5cckbn"
+    },
+    {
+      "@id": "#aw7prb",
+      "name": "Three levels of \"you\" by politeness",
+      "x": -175,
+      "y": 465,
+      "parent": "#5cckbn"
+    },
+    {
+      "@id": "#yyk3vg",
+      "name": "Classifiers with numbers: ekṭa, duṭo",
+      "x": -243,
+      "y": 303,
+      "parent": "#5cckbn"
+    },
+    {
+      "@id": "#kcq2dt",
+      "name": "Tips for learners",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#iv84b3",
+      "name": "Formal and colloquial styles differ",
+      "x": -340,
+      "y": 236,
+      "parent": "#kcq2dt"
+    },
+    {
+      "@id": "#bzuhak",
+      "name": "Learn the script early",
+      "x": -409,
+      "y": 150,
+      "parent": "#kcq2dt"
+    },
+    {
+      "@id": "#v9ay7t",
+      "name": "Songs and Tagore lyrics aid listening",
+      "x": -505,
+      "y": 57,
+      "parent": "#kcq2dt"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

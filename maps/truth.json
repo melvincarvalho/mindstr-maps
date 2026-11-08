@@ -1,0 +1,318 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Truth",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#be5m59",
+      "name": "Key questions",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6mmnpj",
+      "name": "What makes a statement true?",
+      "x": -444,
+      "y": -56,
+      "parent": "#be5m59"
+    },
+    {
+      "@id": "#d3jdt7",
+      "name": "Is truth absolute or relative?",
+      "x": -401,
+      "y": -163,
+      "parent": "#be5m59"
+    },
+    {
+      "@id": "#d4g3at",
+      "name": "Can we ever be certain of it?",
+      "x": -318,
+      "y": -255,
+      "parent": "#be5m59"
+    },
+    {
+      "@id": "#ma8s3g",
+      "name": "Theories of truth",
+      "x": 36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yjmszi",
+      "name": "Correspondence: matching the facts",
+      "x": -204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Correspondence_theory_of_truth",
+      "parent": "#ma8s3g"
+    },
+    {
+      "@id": "#bcj9wv",
+      "name": "Coherence: fitting with other beliefs",
+      "x": -73,
+      "y": -372,
+      "parent": "#ma8s3g"
+    },
+    {
+      "@id": "#ya75cn",
+      "name": "Pragmatic: what works (Peirce, James)",
+      "x": 82,
+      "y": -420,
+      "parent": "#ma8s3g"
+    },
+    {
+      "@id": "#umpkmj",
+      "name": "Deflationary: \"true\" adds little meaning",
+      "x": 204,
+      "y": -321,
+      "parent": "#ma8s3g"
+    },
+    {
+      "@id": "#c768va",
+      "name": "Tarski's \"snow is white\" definition",
+      "x": 318,
+      "y": -255,
+      "parent": "#ma8s3g"
+    },
+    {
+      "@id": "#g2k3h8",
+      "name": "Truth and logic",
+      "x": 227,
+      "y": -29,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dp784g",
+      "name": "Law of non-contradiction",
+      "x": 401,
+      "y": -163,
+      "parent": "#g2k3h8"
+    },
+    {
+      "@id": "#zucncj",
+      "name": "Liar paradox: \"This sentence is false\"",
+      "x": 544,
+      "y": -66,
+      "link": "https://en.wikipedia.org/wiki/Liar_paradox",
+      "parent": "#g2k3h8"
+    },
+    {
+      "@id": "#6c8r8i",
+      "name": "Bivalence: every statement true or false",
+      "x": 444,
+      "y": 56,
+      "parent": "#g2k3h8"
+    },
+    {
+      "@id": "#6p6var",
+      "name": "Truth and relativism",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#eiimcv",
+      "name": "Protagoras: \"man is the measure\"",
+      "x": 455,
+      "y": 184,
+      "parent": "#6p6var"
+    },
+    {
+      "@id": "#g436hr",
+      "name": "Critics: relativism undermines itself",
+      "x": 318,
+      "y": 255,
+      "parent": "#6p6var"
+    },
+    {
+      "@id": "#d32uqt",
+      "name": "Moral truths versus factual truths",
+      "x": 204,
+      "y": 321,
+      "parent": "#6p6var"
+    },
+    {
+      "@id": "#qz7yqb",
+      "name": "Finding truth",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r6j7fw",
+      "name": "Evidence, experiment and peer review",
+      "x": 73,
+      "y": 372,
+      "parent": "#qz7yqb"
+    },
+    {
+      "@id": "#99awen",
+      "name": "Courts weigh testimony and proof",
+      "x": -82,
+      "y": 420,
+      "parent": "#qz7yqb"
+    },
+    {
+      "@id": "#xkzu7s",
+      "name": "Journalists check facts and sources",
+      "x": -204,
+      "y": 321,
+      "parent": "#qz7yqb"
+    },
+    {
+      "@id": "#s26msb",
+      "name": "Truth in public life",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gniqe7",
+      "name": "Post-truth politics",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wikipedia.org/wiki/Post-truth_politics",
+      "parent": "#s26msb"
+    },
+    {
+      "@id": "#kezvpa",
+      "name": "False news spreads faster online",
+      "x": -401,
+      "y": 163,
+      "parent": "#s26msb"
+    },
+    {
+      "@id": "#vzp3na",
+      "name": "Honesty and lying in ethics",
+      "x": -484,
+      "y": 60,
+      "parent": "#s26msb"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

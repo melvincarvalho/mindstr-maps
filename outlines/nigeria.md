@@ -1,0 +1,34 @@
+category: Geography
+aliases: federal republic of nigeria, naija
+- Nigeria
+  - Geography
+    - [Niger and Benue rivers meet at Lokoja](https://en.wikipedia.org/wiki/Niger_River)
+    - Niger Delta, a vast oil-rich wetland
+    - Rainforest in the south, savanna north
+    - Coast on the Gulf of Guinea
+  - People and languages
+    - Over 220 million, Africa's most populous
+    - Hausa-Fulani, Yoruba and Igbo largest groups
+    - English official; over 500 languages
+    - Mostly Muslim north, mostly Christian south
+    - Lagos largest city; Abuja capital since 1991
+  - History in brief
+    - [Nok culture's ancient terracotta sculptures](https://en.wikipedia.org/wiki/Nok_culture)
+    - Benin Kingdom, Oyo Empire, Sokoto Caliphate
+    - British colony unified in 1914
+    - Independence from Britain in 1960
+    - [Civil war over Biafra, 1967–1970](https://en.wikipedia.org/wiki/Nigerian_Civil_War)
+    - Civilian rule restored in 1999
+  - Government
+    - Federal presidential republic of 36 states
+    - Two-chamber National Assembly
+    - Insurgency in the north-east since 2009
+  - Economy
+    - Oil dominates exports and state revenue
+    - Lagos tech start-ups and fintech
+    - Farming employs a large share
+  - Culture and known for
+    - [Nollywood, a huge film industry](https://en.wikipedia.org/wiki/Nollywood)
+    - Afrobeats stars like Burna Boy, Wizkid
+    - Jollof rice and its friendly rivalries
+    - Writers Chinua Achebe and Wole Soyinka

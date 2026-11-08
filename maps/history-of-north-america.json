@@ -1,0 +1,352 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "History of North America",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#vrhyca",
+      "name": "First peoples",
+      "x": -197,
+      "y": -96,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#q8e7m3",
+      "name": "Arrived from Asia 15,000+ years ago",
+      "x": -466,
+      "y": -51,
+      "parent": "#vrhyca"
+    },
+    {
+      "@id": "#xk64iq",
+      "name": "Mound builders at Cahokia on the Mississippi",
+      "x": -431,
+      "y": -149,
+      "parent": "#vrhyca"
+    },
+    {
+      "@id": "#3aqzcg",
+      "name": "Ancestral Puebloans in the Southwest",
+      "x": -349,
+      "y": -227,
+      "parent": "#vrhyca"
+    },
+    {
+      "@id": "#ms5r3q",
+      "name": "Hundreds of diverse nations and languages",
+      "x": -260,
+      "y": -294,
+      "parent": "#vrhyca"
+    },
+    {
+      "@id": "#d6pyjj",
+      "name": "Mesoamerica",
+      "x": -16,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kciv6w",
+      "name": "Olmec, the earliest major civilization",
+      "x": -158,
+      "y": -354,
+      "parent": "#d6pyjj"
+    },
+    {
+      "@id": "#j753uv",
+      "name": "Maya cities, astronomy and writing",
+      "x": -34,
+      "y": -407,
+      "link": "https://en.wikipedia.org/wiki/Maya_civilization",
+      "parent": "#d6pyjj"
+    },
+    {
+      "@id": "#iaamxv",
+      "name": "Aztec capital Tenochtitlan founded 1325",
+      "x": 120,
+      "y": -464,
+      "parent": "#d6pyjj"
+    },
+    {
+      "@id": "#fwmzs5",
+      "name": "European colonization",
+      "x": 197,
+      "y": -96,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#erx8ee",
+      "name": "Norse reach Newfoundland about 1000",
+      "x": 225,
+      "y": -348,
+      "parent": "#fwmzs5"
+    },
+    {
+      "@id": "#7pqzbb",
+      "name": "Spain conquers the Aztecs, 1521",
+      "x": 307,
+      "y": -263,
+      "link": "https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Aztec_Empire",
+      "parent": "#fwmzs5"
+    },
+    {
+      "@id": "#tab5uk",
+      "name": "French in Canada, British on Atlantic coast",
+      "x": 384,
+      "y": -187,
+      "parent": "#fwmzs5"
+    },
+    {
+      "@id": "#6phzyw",
+      "name": "Epidemics devastate Indigenous populations",
+      "x": 547,
+      "y": -121,
+      "parent": "#fwmzs5"
+    },
+    {
+      "@id": "#th5fkv",
+      "name": "Enslaved Africans forced onto plantations",
+      "x": 450,
+      "y": 0,
+      "parent": "#fwmzs5"
+    },
+    {
+      "@id": "#jjywi6",
+      "name": "Independence",
+      "x": 178,
+      "y": 116,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bwbyfi",
+      "name": "American Revolution, 1775–1783",
+      "x": 433,
+      "y": 97,
+      "link": "https://en.wikipedia.org/wiki/American_Revolution",
+      "parent": "#jjywi6"
+    },
+    {
+      "@id": "#vj67a7",
+      "name": "Haiti's slave revolution wins independence, 1804",
+      "x": 384,
+      "y": 187,
+      "parent": "#jjywi6"
+    },
+    {
+      "@id": "#xekevf",
+      "name": "Mexico independent from Spain, 1821",
+      "x": 307,
+      "y": 263,
+      "parent": "#jjywi6"
+    },
+    {
+      "@id": "#ve5qhw",
+      "name": "Canadian Confederation, 1867",
+      "x": 207,
+      "y": 320,
+      "parent": "#jjywi6"
+    },
+    {
+      "@id": "#ey7jdr",
+      "name": "Expansion and conflict",
+      "x": -47,
+      "y": 180,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zujrqh",
+      "name": "US expands west, displacing Native nations",
+      "x": 96,
+      "y": 368,
+      "parent": "#ey7jdr"
+    },
+    {
+      "@id": "#4yu3pv",
+      "name": "Mexican–American War, 1846–1848",
+      "x": -35,
+      "y": 423,
+      "parent": "#ey7jdr"
+    },
+    {
+      "@id": "#7xff23",
+      "name": "US Civil War ends slavery, 1861–65",
+      "x": -214,
+      "y": 474,
+      "link": "https://en.wikipedia.org/wiki/American_Civil_War",
+      "parent": "#ey7jdr"
+    },
+    {
+      "@id": "#83hnuw",
+      "name": "Mexican Revolution, 1910–1920",
+      "x": -260,
+      "y": 294,
+      "parent": "#ey7jdr"
+    },
+    {
+      "@id": "#w47j8e",
+      "name": "Modern era",
+      "x": -211,
+      "y": 73,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#eujgri",
+      "name": "US becomes a superpower after 1945",
+      "x": -349,
+      "y": 227,
+      "parent": "#w47j8e"
+    },
+    {
+      "@id": "#pkyq23",
+      "name": "US civil rights movement, 1950s–60s",
+      "x": -413,
+      "y": 143,
+      "parent": "#w47j8e"
+    },
+    {
+      "@id": "#z9w4ui",
+      "name": "NAFTA links the three economies, 1994",
+      "x": -486,
+      "y": 53,
+      "parent": "#w47j8e"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 10,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    },
+    {
+      "start": 26,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

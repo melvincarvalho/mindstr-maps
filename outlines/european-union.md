@@ -1,0 +1,32 @@
+category: Society
+aliases: the eu, eu, european union explained, eu membership
+- European Union
+  - What it is
+    - Political and economic union of 27 countries
+    - About 450 million people
+    - Shared laws in many policy areas
+  - How it began
+    - Coal and Steel Community, 1951
+    - [Treaty of Rome, 1957](https://en.wikipedia.org/wiki/Treaty_of_Rome)
+    - [Maastricht Treaty created the EU, 1993](https://en.wikipedia.org/wiki/Maastricht_Treaty)
+    - Big eastward enlargement in 2004
+  - Institutions
+    - [European Commission proposes laws](https://en.wikipedia.org/wiki/European_Commission)
+    - European Parliament elected every five years
+    - Council of the EU represents governments
+    - Court of Justice interprets EU law
+    - European Central Bank runs the euro
+  - Single market
+    - Free movement of goods and services
+    - Free movement of capital and people
+    - Schengen Area removes border checks
+    - [The euro, used by 21 members](https://en.wikipedia.org/wiki/Euro)
+  - Key policies
+    - Common trade policy with the world
+    - Farm subsidies and regional funds
+    - Climate goals and environmental rules
+  - Debates
+    - [Brexit: UK left in 2020](https://en.wikipedia.org/wiki/Brexit)
+    - Critics cite a democratic deficit
+    - Supporters credit peace and prosperity
+    - Candidates include Ukraine and Balkan states

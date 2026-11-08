@@ -1,0 +1,29 @@
+category: Philosophy and religion
+aliases: asian philosophy, oriental philosophy, indian and chinese philosophy
+- Eastern philosophy
+  - Broad traditions
+    - Mainly Indian and Chinese, then Japanese
+    - Thought tied to a way of life
+  - Indian philosophy
+    - [Upanishads: the self (Atman) is Brahman](https://en.wikipedia.org/wiki/Upanishads)
+    - Karma, rebirth and liberation (moksha)
+    - Six orthodox schools, including Vedanta, Yoga
+    - Jainism: non-violence toward all life
+  - Buddhism
+    - Buddha taught around the 5th century BCE
+    - [Four Noble Truths: suffering and its end](https://en.wikipedia.org/wiki/Four_Noble_Truths)
+    - No permanent, unchanging self (anatta)
+    - Zen and Tibetan schools developed later
+  - Chinese philosophy
+    - [Confucius: virtue, ritual and family](https://en.wikipedia.org/wiki/Confucius)
+    - [Laozi's Daoism: follow the natural Way](https://en.wikipedia.org/wiki/Taoism)
+    - Yin and yang: complementary opposites
+    - Mohists and Legalists debated Confucians
+  - Shared themes
+    - Harmony between people and nature
+    - Inner cultivation through meditation
+    - Wisdom lived daily, not just argued
+  - Influence today
+    - Mindfulness meditation spread to the West
+    - Yoga practised worldwide
+    - Gandhi drew on ahimsa (non-violence)

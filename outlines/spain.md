@@ -1,0 +1,34 @@
+category: Geography
+aliases: kingdom of spain, españa
+- Spain
+  - Geography
+    - Most of the Iberian Peninsula
+    - About 506,000 km²
+    - High central plateau, the Meseta
+    - Balearic and Canary Islands
+    - Madrid is the capital
+  - People and languages
+    - About 49 million people
+    - Spanish (Castilian) is the official language
+    - Catalan, Basque, Galician co-official regionally
+    - Catholic heritage, increasingly secular
+  - History in brief
+    - [Muslim al-Andalus from 711](https://en.wikipedia.org/wiki/Al-Andalus)
+    - 1492: Granada falls, Columbus reaches Americas
+    - Global empire across the Americas
+    - [Civil War 1936–39, then Franco dictatorship](https://en.wikipedia.org/wiki/Spanish_Civil_War)
+    - [Democracy restored; constitution 1978](https://en.wikipedia.org/wiki/Spanish_transition_to_democracy)
+  - Government
+    - Parliamentary monarchy under King Felipe VI
+    - Cortes: Congress of Deputies and Senate
+    - 17 autonomous communities
+    - 2017 Catalan referendum ruled unconstitutional
+  - Economy
+    - Uses the euro; joined EU 1986
+    - Tourism among the world's largest
+    - Leading olive oil and wine producer
+    - Cars, solar and wind power
+  - Culture
+    - Cervantes wrote Don Quixote
+    - Velázquez, Goya and Picasso
+    - Flamenco, tapas and paella

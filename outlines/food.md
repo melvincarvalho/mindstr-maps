@@ -1,0 +1,30 @@
+category: Life and home
+aliases: food and nutrition, what is food, human food
+- Food
+  - What food gives the body
+    - [Carbohydrates, fats and proteins for energy](https://en.wikipedia.org/wiki/Nutrient)
+    - Vitamins and minerals in small amounts
+    - Fibre keeps digestion working
+    - Water makes up much of many foods
+  - Where food comes from
+    - [Agriculture began about 10,000 years ago](https://en.wikipedia.org/wiki/Neolithic_Revolution)
+    - Rice, wheat and maize supply most calories
+    - Livestock give meat, milk and eggs
+    - Fishing and aquaculture supply seafood
+  - Preparing food
+    - [Cooking makes food safer and digestible](https://en.wikipedia.org/wiki/Cooking)
+    - Baking, boiling, frying and roasting
+    - Fermentation makes bread, cheese and yogurt
+  - Keeping food safe
+    - [Drying, salting and smoking preserve food](https://en.wikipedia.org/wiki/Food_preservation)
+    - Refrigeration slows bacterial growth
+    - Canning and freezing store food longer
+    - Wash hands and avoid cross-contamination
+  - Food and culture
+    - Cuisines shaped by local crops and climate
+    - Religious rules like halal and kosher
+    - Shared meals mark festivals and family life
+  - Feeding the world
+    - [Hundreds of millions face chronic hunger](https://en.wikipedia.org/wiki/Hunger)
+    - Roughly a third of food is wasted
+    - Farming uses about half of habitable land

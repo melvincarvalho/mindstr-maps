@@ -1,0 +1,27 @@
+category: Technology
+aliases: tools, hand tools, history of tools
+- Tool
+  - Object that extends what hands can do
+    - [Levers, wedges and other simple machines](https://en.wikipedia.org/wiki/Simple_machine)
+    - [Chimps and crows also use tools](https://en.wikipedia.org/wiki/Tool_use_by_non-humans)
+  - Stone Age beginnings
+    - [Stone tools, about 2.6 million years ago](https://en.wikipedia.org/wiki/Stone_tool)
+    - Acheulean hand axes
+    - Control of fire
+    - Bone needles for sewing
+  - Metals transform tools
+    - Copper, then bronze tools
+    - Iron made tools cheaper and stronger
+  - Hand tools
+    - Hammer, saw and screwdriver
+    - Pliers and wrenches
+    - Tape measure and spirit level
+  - Power and machine tools
+    - [Industrial Revolution lathes and milling machines](https://en.wikipedia.org/wiki/Machine_tool)
+    - Electric drills appeared around 1890
+    - Cordless battery tools today
+  - Using tools safely
+    - Right tool for the job
+    - Wear eye and ear protection
+    - Keep blades sharp and clean
+    - Unplug before changing bits or blades

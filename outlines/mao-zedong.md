@@ -1,0 +1,29 @@
+category: People
+aliases: chairman mao, mao tse-tung, mao tse tung
+- Mao Zedong
+  - Early life
+    - Born 1893 in Shaoshan, Hunan
+    - Founding member of the Communist Party, 1921
+  - Revolution and civil war
+    - Built a peasant-based guerrilla strategy
+    - [Long March, 1934–35](https://en.wikipedia.org/wiki/Long_March)
+    - Fought Japan alongside rival Nationalists
+    - Won the civil war against Chiang Kai-shek
+  - Founding the People's Republic
+    - Proclaimed the PRC, 1 October 1949
+    - Land reform killed many landlords
+    - Ruled as Party Chairman until 1976
+  - [Great Leap Forward, 1958–62](https://en.wikipedia.org/wiki/Great_Leap_Forward)
+    - Forced communes and backyard steel furnaces
+    - Resulting famine killed tens of millions
+    - Mao briefly sidelined afterwards
+  - [Cultural Revolution, 1966–76](https://en.wikipedia.org/wiki/Cultural_Revolution)
+    - Mobilised Red Guards against "class enemies"
+    - Teachers, officials and intellectuals persecuted
+    - Deaths: hundreds of thousands to millions
+    - Personality cult around the Little Red Book
+  - Death and legacy
+    - Died in September 1976
+    - Deng Xiaoping's reforms reversed many policies
+    - Party judged him 70% right, 30% wrong
+    - Portrait still hangs over Tiananmen Gate

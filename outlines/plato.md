@@ -1,0 +1,29 @@
+category: People
+aliases: plato philosopher, platonic philosophy, plato's republic
+- Plato
+  - Who he was
+    - Athenian philosopher, about 428–348 BC
+    - From an aristocratic family
+    - Student of Socrates
+    - Teacher of Aristotle
+  - Life
+    - Socrates' execution in 399 BC shaped him
+    - Travelled to Italy, Sicily and Egypt
+    - Advised the rulers of Syracuse, unsuccessfully
+    - [Founded the Academy in Athens](https://en.wikipedia.org/wiki/Platonic_Academy)
+  - The dialogues
+    - About 35 dialogues; all known works survive
+    - Socrates usually the main speaker
+    - Apology, Symposium, Phaedo, Meno
+    - [The Republic: justice and ideal state](https://en.wikipedia.org/wiki/Republic_%28Plato%29)
+  - Key ideas
+    - [Theory of Forms: perfect, unchanging ideas](https://en.wikipedia.org/wiki/Theory_of_forms)
+    - [Allegory of the cave](https://en.wikipedia.org/wiki/Allegory_of_the_cave)
+    - Soul is immortal; learning is recollection
+    - Soul has reason, spirit and appetite
+    - Philosopher-kings should rule
+  - Legacy
+    - Academy lasted centuries in some form
+    - Neoplatonism shaped Christian and Islamic thought
+    - Philosophy is "footnotes to Plato" (Whitehead)
+    - Founded Western political philosophy

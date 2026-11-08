@@ -1,0 +1,31 @@
+category: Life and home
+aliases: raising children, child rearing, how to be a good parent
+- Parenting
+  - What parents provide
+    - Food, shelter, safety and health care
+    - Love, comfort and a secure attachment
+    - Guidance, limits and values
+  - Every family is different
+    - Single, coupled and co-parents
+    - Adoptive, foster and step-parents
+    - Grandparents and relatives raising children
+    - Customs vary widely across cultures
+  - [Parenting styles](https://en.wikipedia.org/wiki/Parenting_styles)
+    - Authoritative: warm with clear rules
+    - Authoritarian: strict, little warmth
+    - Permissive: warm, few limits
+    - Neglectful: low warmth and involvement
+  - Through the ages
+    - Babies: feeding, sleep and bonding
+    - Young children: play, language, routines
+    - School age: learning and friendships
+    - Teenagers: growing independence and trust
+  - Everyday skills
+    - Praise effort and good behaviour
+    - Set consistent, age-appropriate boundaries
+    - Listen and name feelings
+    - Read and play together daily
+  - Looking after yourself
+    - Share the load with others
+    - Sleep, rest and ask for help
+    - Parent groups and health visitors

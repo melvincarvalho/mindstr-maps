@@ -1,0 +1,329 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Homicide",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#in9qn6",
+      "name": "What it means",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gy8ne7",
+      "name": "One person causing another's death",
+      "x": -485,
+      "y": -58,
+      "parent": "#in9qn6"
+    },
+    {
+      "@id": "#unctaf",
+      "name": "Not every homicide is a crime",
+      "x": -405,
+      "y": -156,
+      "parent": "#in9qn6"
+    },
+    {
+      "@id": "#qytkv2",
+      "name": "Categories differ between legal systems",
+      "x": -330,
+      "y": -245,
+      "parent": "#in9qn6"
+    },
+    {
+      "@id": "#qw23pq",
+      "name": "Unlawful homicide",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4fydyg",
+      "name": "Murder: killing with intent",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Murder",
+      "parent": "#qw23pq"
+    },
+    {
+      "@id": "#suupm9",
+      "name": "Manslaughter: less culpable killing",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Manslaughter",
+      "parent": "#qw23pq"
+    },
+    {
+      "@id": "#43u8ir",
+      "name": "Causing death by dangerous driving",
+      "x": 42,
+      "y": -423,
+      "parent": "#qw23pq"
+    },
+    {
+      "@id": "#8pr68j",
+      "name": "Infanticide in some legal systems",
+      "x": 234,
+      "y": -485,
+      "parent": "#qw23pq"
+    },
+    {
+      "@id": "#x357nb",
+      "name": "Lawful homicide",
+      "x": 190,
+      "y": -104,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#s66vrm",
+      "name": "Self-defence with reasonable force",
+      "x": 281,
+      "y": -281,
+      "parent": "#x357nb"
+    },
+    {
+      "@id": "#ci435t",
+      "name": "Killing in lawful war",
+      "x": 372,
+      "y": -203,
+      "parent": "#x357nb"
+    },
+    {
+      "@id": "#x7myrz",
+      "name": "Lawful executions where retained",
+      "x": 468,
+      "y": -116,
+      "parent": "#x357nb"
+    },
+    {
+      "@id": "#s9ixwg",
+      "name": "Global picture",
+      "x": 207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p68paz",
+      "name": "About 400,000 to 450,000 victims yearly",
+      "x": 450,
+      "y": 0,
+      "parent": "#s9ixwg"
+    },
+    {
+      "@id": "#ynv4p3",
+      "name": "Highest rates in Latin America, southern Africa",
+      "x": 525,
+      "y": 131,
+      "link": "https://en.wikipedia.org/wiki/List_of_countries_by_intentional_homicide_rate",
+      "parent": "#s9ixwg"
+    },
+    {
+      "@id": "#mnexbb",
+      "name": "Most victims and offenders are men",
+      "x": 372,
+      "y": 203,
+      "parent": "#s9ixwg"
+    },
+    {
+      "@id": "#dz3irm",
+      "name": "Many victims know their killer",
+      "x": 281,
+      "y": 281,
+      "parent": "#s9ixwg"
+    },
+    {
+      "@id": "#ctfjig",
+      "name": "Risk factors",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2cunjr",
+      "name": "Gang and organised crime conflict",
+      "x": 164,
+      "y": 335,
+      "parent": "#ctfjig"
+    },
+    {
+      "@id": "#5bmihh",
+      "name": "Access to firearms",
+      "x": 38,
+      "y": 391,
+      "parent": "#ctfjig"
+    },
+    {
+      "@id": "#6hx52y",
+      "name": "Domestic and intimate partner violence",
+      "x": -124,
+      "y": 447,
+      "parent": "#ctfjig"
+    },
+    {
+      "@id": "#sc76t6",
+      "name": "Weak rule of law and inequality",
+      "x": -225,
+      "y": 312,
+      "parent": "#ctfjig"
+    },
+    {
+      "@id": "#ckvd3g",
+      "name": "Investigation and justice",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4zu3p2",
+      "name": "Coroners or medical examiners certify deaths",
+      "x": -330,
+      "y": 245,
+      "parent": "#ckvd3g"
+    },
+    {
+      "@id": "#kv3cyh",
+      "name": "Forensic science and detective work",
+      "x": -405,
+      "y": 156,
+      "parent": "#ckvd3g"
+    },
+    {
+      "@id": "#aivic5",
+      "name": "Usually the heaviest sentences in law",
+      "x": -545,
+      "y": 64,
+      "parent": "#ckvd3g"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

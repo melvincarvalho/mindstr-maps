@@ -1,0 +1,28 @@
+category: Technology
+aliases: what is electrical engineering, electrical engineer, electrical and electronic engineering
+- Electrical engineering
+  - What it covers
+    - Electricity, electronics and electromagnetism
+    - From microchips to national grids
+  - Basic principles
+    - [Ohm's law: voltage = current × resistance](https://en.wikipedia.org/wiki/Ohm%27s_law)
+    - Direct and alternating current
+    - [Maxwell's equations unify electromagnetism](https://en.wikipedia.org/wiki/Maxwell%27s_equations)
+  - Main fields
+    - Power: generation, transmission, distribution
+    - Electronics: circuits and semiconductors
+    - Control systems and automation
+    - Telecommunications and signal processing
+  - Key milestones
+    - Faraday discovers electromagnetic induction, 1831
+    - Edison and Tesla's power systems, 1880s
+    - [Transistor invented at Bell Labs, 1947](https://en.wikipedia.org/wiki/Transistor)
+    - Integrated circuit, late 1950s
+  - Tools of the trade
+    - Circuit design and simulation software
+    - Oscilloscopes and multimeters
+    - Electrical safety codes and standards
+  - Today's challenges
+    - [Fitting solar and wind into grids](https://en.wikipedia.org/wiki/Electrical_grid)
+    - Electric vehicles and charging networks
+    - Smaller, more efficient chips

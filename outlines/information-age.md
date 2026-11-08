@@ -1,0 +1,31 @@
+category: History
+aliases: digital age, age of information, computer age, digital era
+- Information Age
+  - What it means
+    - Economy built on information, not industry
+    - Roughly from the 1970s onward
+    - Follows the Industrial Age
+  - Foundations
+    - [Shannon's information theory, 1948](https://en.wikipedia.org/wiki/Information_theory)
+    - [Transistor invented at Bell Labs, 1947](https://en.wikipedia.org/wiki/Transistor)
+    - Integrated circuit, late 1950s
+    - Microprocessor puts computer on chip, 1971
+  - Computers for everyone
+    - Personal computers spread from late 1970s
+    - [Moore's law: chips double regularly](https://en.wikipedia.org/wiki/Moore%27s_law)
+    - Storage moves from paper to digital
+  - Networks connect the world
+    - ARPANET links first computers, 1969
+    - [World Wide Web invented 1989](https://en.wikipedia.org/wiki/World_Wide_Web)
+    - Smartphones put internet in pockets
+    - Social media reshapes communication
+  - Economic change
+    - Tech companies become the largest firms
+    - Knowledge work replaces factory jobs
+    - Automation and globalised supply chains
+    - Data becomes a valuable resource
+  - Challenges
+    - [Digital divide leaves many behind](https://en.wikipedia.org/wiki/Digital_divide)
+    - Privacy and mass surveillance
+    - Misinformation spreads quickly online
+    - Artificial intelligence raises new questions

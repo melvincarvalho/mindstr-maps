@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Political party",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#mdd3y2",
+      "name": "What it is",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ii7ftb",
+      "name": "Organised group seeking government power",
+      "x": -485,
+      "y": -58,
+      "parent": "#mdd3y2"
+    },
+    {
+      "@id": "#25gfqx",
+      "name": "Shares a broad set of policies",
+      "x": -405,
+      "y": -156,
+      "parent": "#mdd3y2"
+    },
+    {
+      "@id": "#ichgkc",
+      "name": "Runs candidates in elections",
+      "x": -330,
+      "y": -245,
+      "parent": "#mdd3y2"
+    },
+    {
+      "@id": "#rr4chn",
+      "name": "What parties do",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#znfv2q",
+      "name": "Select and support candidates",
+      "x": -225,
+      "y": -312,
+      "parent": "#rr4chn"
+    },
+    {
+      "@id": "#3cbpfs",
+      "name": "Write manifestos and policy platforms",
+      "x": -104,
+      "y": -367,
+      "parent": "#rr4chn"
+    },
+    {
+      "@id": "#amkyav",
+      "name": "Mobilise voters at election time",
+      "x": 42,
+      "y": -423,
+      "parent": "#rr4chn"
+    },
+    {
+      "@id": "#fpm3ur",
+      "name": "Form governments or the opposition",
+      "x": 234,
+      "y": -485,
+      "parent": "#rr4chn"
+    },
+    {
+      "@id": "#9d9qn3",
+      "name": "How they are organised",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zi4zxi",
+      "name": "Leader and parliamentary members",
+      "x": 281,
+      "y": -281,
+      "parent": "#9d9qn3"
+    },
+    {
+      "@id": "#itcfcr",
+      "name": "Members and local branches",
+      "x": 372,
+      "y": -203,
+      "parent": "#9d9qn3"
+    },
+    {
+      "@id": "#k3sxnk",
+      "name": "Funding from members and donors",
+      "x": 506,
+      "y": -126,
+      "parent": "#9d9qn3"
+    },
+    {
+      "@id": "#ez65q7",
+      "name": "Choosing leaders by vote or primary",
+      "x": 450,
+      "y": 0,
+      "parent": "#9d9qn3"
+    },
+    {
+      "@id": "#6kd8ct",
+      "name": "Party systems",
+      "x": 190,
+      "y": 104,
+      "link": "https://en.wikipedia.org/wiki/Party_system",
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#amdti2",
+      "name": "One-party state",
+      "x": 430,
+      "y": 106,
+      "link": "https://en.wikipedia.org/wiki/One-party_state",
+      "parent": "#6kd8ct"
+    },
+    {
+      "@id": "#yrz2a6",
+      "name": "Two-party system, e.g. United States",
+      "x": 372,
+      "y": 203,
+      "link": "https://en.wikipedia.org/wiki/Two-party_system",
+      "parent": "#6kd8ct"
+    },
+    {
+      "@id": "#tqafz9",
+      "name": "Multi-party system, often with coalitions",
+      "x": 281,
+      "y": 281,
+      "link": "https://en.wikipedia.org/wiki/Multi-party_system",
+      "parent": "#6kd8ct"
+    },
+    {
+      "@id": "#c9ps4g",
+      "name": "What shapes them",
+      "x": 17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dnb26e",
+      "name": "Electoral system, e.g. proportional representation",
+      "x": 164,
+      "y": 335,
+      "parent": "#c9ps4g"
+    },
+    {
+      "@id": "#6kbsue",
+      "name": "Social divides like class, religion, region",
+      "x": 38,
+      "y": 391,
+      "parent": "#c9ps4g"
+    },
+    {
+      "@id": "#aj5y74",
+      "name": "Ideology from left to right",
+      "x": -124,
+      "y": 447,
+      "parent": "#c9ps4g"
+    },
+    {
+      "@id": "#39ywhg",
+      "name": "History and trends",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tgfs2z",
+      "name": "Modern parties grew with mass voting",
+      "x": -365,
+      "y": 508,
+      "parent": "#39ywhg"
+    },
+    {
+      "@id": "#jycr7f",
+      "name": "Whigs and Tories in 17th-century England",
+      "x": -330,
+      "y": 245,
+      "parent": "#39ywhg"
+    },
+    {
+      "@id": "#dn58vi",
+      "name": "Falling membership in many democracies",
+      "x": -405,
+      "y": 156,
+      "parent": "#39ywhg"
+    },
+    {
+      "@id": "#4mj5ni",
+      "name": "New and populist parties emerging",
+      "x": -445,
+      "y": 54,
+      "parent": "#39ywhg"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

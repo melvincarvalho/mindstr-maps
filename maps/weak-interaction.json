@@ -1,0 +1,320 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Weak interaction",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#i54va9",
+      "name": "What it is",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k2kitf",
+      "name": "One of four fundamental forces",
+      "x": -444,
+      "y": -56,
+      "parent": "#i54va9"
+    },
+    {
+      "@id": "#vdyqp7",
+      "name": "Changes one type of quark into another",
+      "x": -401,
+      "y": -163,
+      "parent": "#i54va9"
+    },
+    {
+      "@id": "#d5mfau",
+      "name": "Acts only over tiny distances",
+      "x": -318,
+      "y": -255,
+      "parent": "#i54va9"
+    },
+    {
+      "@id": "#y4gujh",
+      "name": "Far weaker than electromagnetism at everyday scales",
+      "x": -204,
+      "y": -321,
+      "parent": "#i54va9"
+    },
+    {
+      "@id": "#7j9622",
+      "name": "Force carriers",
+      "x": 36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vvcazg",
+      "name": "W and Z bosons carry it",
+      "x": -73,
+      "y": -372,
+      "link": "https://en.wikipedia.org/wiki/W_and_Z_bosons",
+      "parent": "#7j9622"
+    },
+    {
+      "@id": "#nsbrmt",
+      "name": "Heavy carriers explain its short range",
+      "x": 82,
+      "y": -420,
+      "parent": "#7j9622"
+    },
+    {
+      "@id": "#yjni3v",
+      "name": "Discovered at CERN in 1983",
+      "x": 204,
+      "y": -321,
+      "parent": "#7j9622"
+    },
+    {
+      "@id": "#geadcn",
+      "name": "What it does",
+      "x": 219,
+      "y": -57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ijg59q",
+      "name": "Causes beta decay in radioactive atoms",
+      "x": 318,
+      "y": -255,
+      "link": "https://en.wikipedia.org/wiki/Beta_decay",
+      "parent": "#geadcn"
+    },
+    {
+      "@id": "#wrhbf5",
+      "name": "Turns a neutron into a proton",
+      "x": 401,
+      "y": -163,
+      "parent": "#geadcn"
+    },
+    {
+      "@id": "#7fbwds",
+      "name": "Lets the Sun fuse hydrogen into helium",
+      "x": 504,
+      "y": -62,
+      "parent": "#geadcn"
+    },
+    {
+      "@id": "#xq3kis",
+      "name": "Helps date fossils via carbon-14",
+      "x": 444,
+      "y": 56,
+      "parent": "#geadcn"
+    },
+    {
+      "@id": "#4v8qi5",
+      "name": "Neutrinos",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5rejg4",
+      "name": "Neutrinos feel only weak force and gravity",
+      "x": 455,
+      "y": 184,
+      "link": "https://en.wikipedia.org/wiki/Neutrino",
+      "parent": "#4v8qi5"
+    },
+    {
+      "@id": "#6pvqni",
+      "name": "Trillions pass through you every second",
+      "x": 318,
+      "y": 255,
+      "parent": "#4v8qi5"
+    },
+    {
+      "@id": "#jw6542",
+      "name": "Rarely interact, so hard to detect",
+      "x": 204,
+      "y": 321,
+      "parent": "#4v8qi5"
+    },
+    {
+      "@id": "#bmtfpw",
+      "name": "Odd features",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7qwmzn",
+      "name": "Treats left and right differently",
+      "x": 73,
+      "y": 372,
+      "link": "https://en.wikipedia.org/wiki/Parity_%28physics%29",
+      "parent": "#bmtfpw"
+    },
+    {
+      "@id": "#m3h4s2",
+      "name": "Wu experiment showed parity violation, 1957",
+      "x": -82,
+      "y": 420,
+      "parent": "#bmtfpw"
+    },
+    {
+      "@id": "#nipckj",
+      "name": "Breaks matter–antimatter symmetry slightly",
+      "x": -204,
+      "y": 321,
+      "parent": "#bmtfpw"
+    },
+    {
+      "@id": "#rxc5ps",
+      "name": "Unification",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7hf4cv",
+      "name": "Merges with electromagnetism at high energy",
+      "x": -318,
+      "y": 255,
+      "parent": "#rxc5ps"
+    },
+    {
+      "@id": "#b2rp22",
+      "name": "Electroweak theory won 1979 Nobel Prize",
+      "x": -401,
+      "y": 163,
+      "link": "https://en.wikipedia.org/wiki/Electroweak_interaction",
+      "parent": "#rxc5ps"
+    },
+    {
+      "@id": "#hxuz9w",
+      "name": "Higgs field gives W and Z mass",
+      "x": -444,
+      "y": 56,
+      "parent": "#rxc5ps"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

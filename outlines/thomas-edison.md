@@ -1,0 +1,32 @@
+category: People
+aliases: edison, thomas alva edison, the wizard of menlo park
+- Thomas Edison
+  - Life
+    - Born 1847 in Milan, Ohio
+    - Little formal schooling, largely self-taught
+    - Telegraph operator as a young man
+    - Partly deaf from youth
+    - Died 1931 in West Orange, New Jersey
+  - Major inventions
+    - [Phonograph records sound, 1877](https://en.wikipedia.org/wiki/Phonograph)
+    - [Practical long-lasting light bulb, 1879](https://en.wikipedia.org/wiki/Incandescent_light_bulb)
+    - Improved telephone transmitter
+    - Kinetoscope for motion pictures
+    - Stock ticker and multiplex telegraph
+  - Electric power
+    - First central power station, Pearl Street 1882
+    - Built a whole lighting system
+    - [War of the currents against AC](https://en.wikipedia.org/wiki/War_of_the_currents)
+  - The invention factory
+    - Menlo Park laboratory, 1876
+    - Teams of skilled assistants
+    - Over 1,000 US patents
+    - Genius is 99% perspiration, he said
+  - Business
+    - Founded Edison General Electric
+    - Merged into General Electric, 1892
+    - Ran film and record companies
+  - Legacy
+    - Model for industrial research labs
+    - Brought electric light to homes
+    - Credit often shared with others' work

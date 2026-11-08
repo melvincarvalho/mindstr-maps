@@ -1,0 +1,329 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Fruit",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ednkk4",
+      "name": "What a fruit is",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#63cd45",
+      "name": "Botanically, the seed-bearing ovary of a flower",
+      "x": -545,
+      "y": -64,
+      "link": "https://en.wikipedia.org/wiki/Fruit",
+      "parent": "#ednkk4"
+    },
+    {
+      "@id": "#fe29zw",
+      "name": "Tomatoes and cucumbers are botanical fruits",
+      "x": -405,
+      "y": -156,
+      "parent": "#ednkk4"
+    },
+    {
+      "@id": "#s7njn9",
+      "name": "Cooks call sweet, fleshy produce fruit",
+      "x": -330,
+      "y": -245,
+      "parent": "#ednkk4"
+    },
+    {
+      "@id": "#i43qf8",
+      "name": "Why plants make fruit",
+      "x": -51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mtcywp",
+      "name": "Animals eat fruit and spread seeds",
+      "x": -225,
+      "y": -312,
+      "parent": "#i43qf8"
+    },
+    {
+      "@id": "#k7zvdy",
+      "name": "Ripening turns starch into sugar",
+      "x": -104,
+      "y": -367,
+      "parent": "#i43qf8"
+    },
+    {
+      "@id": "#p63k22",
+      "name": "Colour signals when fruit is ripe",
+      "x": 42,
+      "y": -423,
+      "parent": "#i43qf8"
+    },
+    {
+      "@id": "#cfair6",
+      "name": "Main kinds",
+      "x": 190,
+      "y": -104,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#f5fyw3",
+      "name": "Berries like grapes and blueberries",
+      "x": 234,
+      "y": -485,
+      "parent": "#cfair6"
+    },
+    {
+      "@id": "#2hakc3",
+      "name": "Citrus like oranges and lemons",
+      "x": 281,
+      "y": -281,
+      "parent": "#cfair6"
+    },
+    {
+      "@id": "#6ft7i5",
+      "name": "Stone fruits like peaches and cherries",
+      "x": 372,
+      "y": -203,
+      "link": "https://en.wikipedia.org/wiki/Drupe",
+      "parent": "#cfair6"
+    },
+    {
+      "@id": "#8fwjr4",
+      "name": "Pome fruits like apples and pears",
+      "x": 449,
+      "y": -111,
+      "parent": "#cfair6"
+    },
+    {
+      "@id": "#qxv63x",
+      "name": "Tropical like bananas and mangoes",
+      "x": 450,
+      "y": 0,
+      "parent": "#cfair6"
+    },
+    {
+      "@id": "#eansim",
+      "name": "Nutrition",
+      "x": 169,
+      "y": 125,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aaapn6",
+      "name": "Rich in vitamin C and potassium",
+      "x": 430,
+      "y": 106,
+      "parent": "#eansim"
+    },
+    {
+      "@id": "#esf4se",
+      "name": "Fibre helps digestion",
+      "x": 372,
+      "y": 203,
+      "parent": "#eansim"
+    },
+    {
+      "@id": "#iywsqx",
+      "name": "Juice has sugar but less fibre",
+      "x": 281,
+      "y": 281,
+      "parent": "#eansim"
+    },
+    {
+      "@id": "#gfwiuh",
+      "name": "Guidelines suggest several portions daily",
+      "x": 164,
+      "y": 335,
+      "parent": "#eansim"
+    },
+    {
+      "@id": "#y6ceca",
+      "name": "Growing and trade",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qfjm34",
+      "name": "Bananas are among the most traded",
+      "x": 38,
+      "y": 391,
+      "parent": "#y6ceca"
+    },
+    {
+      "@id": "#sdtfxb",
+      "name": "Orchards take years to bear fruit",
+      "x": -124,
+      "y": 447,
+      "parent": "#y6ceca"
+    },
+    {
+      "@id": "#mp7srn",
+      "name": "Global trade gives year-round supply",
+      "x": -235,
+      "y": 326,
+      "parent": "#y6ceca"
+    },
+    {
+      "@id": "#s2sgp9",
+      "name": "Storing and ripening",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qyibnr",
+      "name": "Ethylene gas speeds ripening",
+      "x": -330,
+      "y": 245,
+      "link": "https://en.wikipedia.org/wiki/Ethylene_as_a_plant_hormone",
+      "parent": "#s2sgp9"
+    },
+    {
+      "@id": "#uqdaxi",
+      "name": "Bananas ripen nearby fruit faster",
+      "x": -405,
+      "y": 156,
+      "parent": "#s2sgp9"
+    },
+    {
+      "@id": "#jx64wr",
+      "name": "Berries spoil fast; refrigerate them",
+      "x": -525,
+      "y": 62,
+      "parent": "#s2sgp9"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 9,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

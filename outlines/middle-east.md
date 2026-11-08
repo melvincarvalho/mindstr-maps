@@ -1,0 +1,32 @@
+category: Geography
+aliases: the middle east, middle eastern countries, mideast
+- Middle East
+  - Geography
+    - Western Asia plus Egypt
+    - [Fertile Crescent along Tigris and Euphrates](https://en.wikipedia.org/wiki/Fertile_Crescent)
+    - Arabian Peninsula largely desert
+    - Nile, Red Sea and Persian Gulf
+    - Usually about 17 countries counted
+  - People and languages
+    - About 400 to 500 million people
+    - Arabic, Persian, Turkish, Hebrew, Kurdish
+    - Large youthful population
+  - Religion
+    - Birthplace of Judaism, Christianity and Islam
+    - Islam is the majority faith
+    - Sunni and Shia branches of Islam
+    - Jerusalem sacred to three faiths
+  - History in brief
+    - Cradle of Mesopotamian and Egyptian civilisation
+    - Islamic caliphates from the 7th century
+    - [Ottoman Empire ruled until 1918](https://en.wikipedia.org/wiki/Ottoman_Empire)
+    - Modern states drawn after World War I
+  - Economy
+    - [About half of proven oil reserves](https://en.wikipedia.org/wiki/OPEC)
+    - Gulf states diversifying into finance, tourism
+    - Water scarcity across the region
+  - Conflicts and politics
+    - [Israeli–Palestinian conflict over land](https://en.wikipedia.org/wiki/Israeli%E2%80%93Palestinian_conflict)
+    - Wars in Iraq, Syria and Yemen
+    - Rivalry between Saudi Arabia and Iran
+    - [Arab Spring protests from 2010](https://en.wikipedia.org/wiki/Arab_Spring)

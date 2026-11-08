@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Reptile",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#hg7yae",
+      "name": "What makes a reptile",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yrwdcz",
+      "name": "Dry skin covered in scales",
+      "x": -445,
+      "y": -54,
+      "parent": "#hg7yae"
+    },
+    {
+      "@id": "#uhgjnn",
+      "name": "Amniotic eggs laid on land",
+      "x": -405,
+      "y": -156,
+      "link": "https://en.wikipedia.org/wiki/Amniote",
+      "parent": "#hg7yae"
+    },
+    {
+      "@id": "#5fvgpx",
+      "name": "Ectothermic: body heat from surroundings",
+      "x": -330,
+      "y": -245,
+      "parent": "#hg7yae"
+    },
+    {
+      "@id": "#pkmiz5",
+      "name": "Breathe with lungs throughout life",
+      "x": -225,
+      "y": -312,
+      "parent": "#hg7yae"
+    },
+    {
+      "@id": "#2v64mx",
+      "name": "Main groups",
+      "x": 51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6s95hh",
+      "name": "Squamates: lizards and snakes, most species",
+      "x": -104,
+      "y": -367,
+      "parent": "#2v64mx"
+    },
+    {
+      "@id": "#5rswad",
+      "name": "Turtles and tortoises with protective shells",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Turtle",
+      "parent": "#2v64mx"
+    },
+    {
+      "@id": "#9n5nty",
+      "name": "Crocodilians: crocodiles, alligators and caimans",
+      "x": 234,
+      "y": -485,
+      "parent": "#2v64mx"
+    },
+    {
+      "@id": "#vm7quq",
+      "name": "Tuatara: New Zealand's living fossil",
+      "x": 281,
+      "y": -281,
+      "link": "https://en.wikipedia.org/wiki/Tuatara",
+      "parent": "#2v64mx"
+    },
+    {
+      "@id": "#xtxzqm",
+      "name": "Evolution",
+      "x": 220,
+      "y": -54,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#45ah5n",
+      "name": "Earliest reptiles over 300 million years ago",
+      "x": 372,
+      "y": -203,
+      "parent": "#xtxzqm"
+    },
+    {
+      "@id": "#xxbt9y",
+      "name": "Dinosaurs and pterosaurs were reptiles",
+      "x": 430,
+      "y": -106,
+      "parent": "#xtxzqm"
+    },
+    {
+      "@id": "#eyidbx",
+      "name": "Birds evolved from dinosaurs",
+      "x": 450,
+      "y": 0,
+      "parent": "#xtxzqm"
+    },
+    {
+      "@id": "#4gfyzh",
+      "name": "Living with temperature",
+      "x": 169,
+      "y": 125,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yg7f6f",
+      "name": "Bask in the sun to warm up",
+      "x": 449,
+      "y": 111,
+      "parent": "#4gfyzh"
+    },
+    {
+      "@id": "#egb9ha",
+      "name": "Need far less food than mammals",
+      "x": 372,
+      "y": 203,
+      "parent": "#4gfyzh"
+    },
+    {
+      "@id": "#j9n447",
+      "name": "Nest temperature sets sex in many",
+      "x": 281,
+      "y": 281,
+      "parent": "#4gfyzh"
+    },
+    {
+      "@id": "#56bh2x",
+      "name": "Slow down through cold winters",
+      "x": 164,
+      "y": 335,
+      "parent": "#4gfyzh"
+    },
+    {
+      "@id": "#p2v98z",
+      "name": "Senses and defences",
+      "x": -84,
+      "y": 171,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ydt57i",
+      "name": "Snakes taste air with forked tongues",
+      "x": 38,
+      "y": 391,
+      "parent": "#p2v98z"
+    },
+    {
+      "@id": "#c62ucu",
+      "name": "Pit vipers sense infrared heat",
+      "x": -124,
+      "y": 447,
+      "link": "https://en.wikipedia.org/wiki/Pit_viper",
+      "parent": "#p2v98z"
+    },
+    {
+      "@id": "#u53vpq",
+      "name": "Chameleons change colour to signal",
+      "x": -225,
+      "y": 312,
+      "parent": "#p2v98z"
+    },
+    {
+      "@id": "#kczmue",
+      "name": "Some lizards shed their tails",
+      "x": -330,
+      "y": 245,
+      "parent": "#p2v98z"
+    },
+    {
+      "@id": "#3i9k42",
+      "name": "Threats and conservation",
+      "x": -220,
+      "y": 54,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4c8ieb",
+      "name": "Habitat loss and illegal pet trade",
+      "x": -405,
+      "y": 156,
+      "parent": "#3i9k42"
+    },
+    {
+      "@id": "#pnsdw2",
+      "name": "About one in five species threatened",
+      "x": -545,
+      "y": 64,
+      "parent": "#3i9k42"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,31 @@
+category: People
+aliases: darwin, charles darwin biography, charles robert darwin
+- Charles Darwin
+  - Early life
+    - Born 1809 in Shrewsbury, England
+    - Dropped medicine at Edinburgh
+    - Studied at Cambridge, loved beetle collecting
+  - Voyage of the Beagle
+    - [Five-year voyage, 1831 to 1836](https://en.wikipedia.org/wiki/Second_voyage_of_HMS_Beagle)
+    - Fossils and geology of South America
+    - Galápagos finches and tortoises
+    - Read Lyell on slow geological change
+  - The theory
+    - [Natural selection of favourable variations](https://en.wikipedia.org/wiki/Natural_selection)
+    - Inspired partly by Malthus on population
+    - Worked privately for about 20 years
+    - Joint paper with Wallace, 1858
+  - Major books
+    - [On the Origin of Species, 1859](https://en.wikipedia.org/wiki/On_the_Origin_of_Species)
+    - The Descent of Man, 1871
+    - Expression of the Emotions, 1872
+    - Studies of orchids, barnacles, earthworms
+  - Life at Down House
+    - Married cousin Emma Wedgwood
+    - Ten children, three died young
+    - Chronic illness limited his travel
+    - Died 1882, buried in Westminster Abbey
+  - Legacy
+    - [Foundation of evolutionary biology](https://en.wikipedia.org/wiki/Evolution)
+    - Common descent of all life
+    - Debates over religion and humanity's place

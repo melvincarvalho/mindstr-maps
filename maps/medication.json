@@ -1,0 +1,342 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Medication",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#wpm3tb",
+      "name": "Types of medicine",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9ws8au",
+      "name": "Prescription-only medicines",
+      "x": -445,
+      "y": -51,
+      "parent": "#wpm3tb"
+    },
+    {
+      "@id": "#9mivnn",
+      "name": "Over-the-counter medicines",
+      "x": -409,
+      "y": -150,
+      "parent": "#wpm3tb"
+    },
+    {
+      "@id": "#t9r8mj",
+      "name": "Generics work as well as brands",
+      "x": -340,
+      "y": -236,
+      "link": "https://en.wikipedia.org/wiki/Generic_drug",
+      "parent": "#wpm3tb"
+    },
+    {
+      "@id": "#p9rtyb",
+      "name": "Vaccines and biologics",
+      "x": -243,
+      "y": -303,
+      "parent": "#wpm3tb"
+    },
+    {
+      "@id": "#fdwitg",
+      "name": "Forms and routes",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#igwghj",
+      "name": "Tablets, capsules and liquids",
+      "x": -133,
+      "y": -360,
+      "parent": "#fdwitg"
+    },
+    {
+      "@id": "#nbcuzx",
+      "name": "Injections, inhalers, creams, patches",
+      "x": 0,
+      "y": -408,
+      "parent": "#fdwitg"
+    },
+    {
+      "@id": "#4vmnne",
+      "name": "Route affects speed and strength",
+      "x": 175,
+      "y": -465,
+      "parent": "#fdwitg"
+    },
+    {
+      "@id": "#pyb99x",
+      "name": "From lab to pharmacy",
+      "x": 193,
+      "y": -99,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#apqdqi",
+      "name": "Discovery and lab testing",
+      "x": 243,
+      "y": -303,
+      "parent": "#pyb99x"
+    },
+    {
+      "@id": "#9tjr39",
+      "name": "Clinical trials in phases before approval",
+      "x": 340,
+      "y": -236,
+      "link": "https://en.wikipedia.org/wiki/Phases_of_clinical_research",
+      "parent": "#pyb99x"
+    },
+    {
+      "@id": "#4f29pd",
+      "name": "Regulators such as FDA, EMA approve",
+      "x": 409,
+      "y": -150,
+      "parent": "#pyb99x"
+    },
+    {
+      "@id": "#j6kn2y",
+      "name": "Safety monitored after approval",
+      "x": 445,
+      "y": -51,
+      "parent": "#pyb99x"
+    },
+    {
+      "@id": "#etd7nd",
+      "name": "Taking medicines safely",
+      "x": 174,
+      "y": 120,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xgj56d",
+      "name": "Follow dose, timing and instructions",
+      "x": 445,
+      "y": 51,
+      "parent": "#etd7nd"
+    },
+    {
+      "@id": "#am3cay",
+      "name": "Check interactions, including herbal remedies",
+      "x": 463,
+      "y": 171,
+      "link": "https://en.wikipedia.org/wiki/Drug_interaction",
+      "parent": "#etd7nd"
+    },
+    {
+      "@id": "#jr228x",
+      "name": "Don't share prescription medicines",
+      "x": 340,
+      "y": 236,
+      "parent": "#etd7nd"
+    },
+    {
+      "@id": "#fsfhfp",
+      "name": "Store safely, away from children",
+      "x": 243,
+      "y": 303,
+      "parent": "#etd7nd"
+    },
+    {
+      "@id": "#n9p4ed",
+      "name": "Ask a pharmacist if unsure",
+      "x": 133,
+      "y": 360,
+      "parent": "#etd7nd"
+    },
+    {
+      "@id": "#wfxbry",
+      "name": "Side effects",
+      "x": -65,
+      "y": 177,
+      "link": "https://en.wikipedia.org/wiki/Adverse_effect",
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xi23ku",
+      "name": "Most are mild and temporary",
+      "x": 0,
+      "y": 408,
+      "parent": "#wfxbry"
+    },
+    {
+      "@id": "#w3wpiu",
+      "name": "Allergic reactions need urgent help",
+      "x": -175,
+      "y": 465,
+      "parent": "#wfxbry"
+    },
+    {
+      "@id": "#cvqmj4",
+      "name": "Report suspected side effects",
+      "x": -243,
+      "y": 303,
+      "parent": "#wfxbry"
+    },
+    {
+      "@id": "#syiq6v",
+      "name": "Wider issues",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pf5vhw",
+      "name": "WHO Essential Medicines List",
+      "x": -340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/WHO_Model_List_of_Essential_Medicines",
+      "parent": "#syiq6v"
+    },
+    {
+      "@id": "#z6d2jv",
+      "name": "Cost and access vary widely",
+      "x": -409,
+      "y": 150,
+      "parent": "#syiq6v"
+    },
+    {
+      "@id": "#ebwvq7",
+      "name": "Many medicines at once raise risks",
+      "x": -485,
+      "y": 55,
+      "parent": "#syiq6v"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 15,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

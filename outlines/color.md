@@ -1,0 +1,30 @@
+category: Science
+aliases: colour, colors, how we see color, color theory
+- Color
+  - Light and wavelength
+    - [Visible light spans about 380–750 nm](https://en.wikipedia.org/wiki/Visible_spectrum)
+    - Red has the longest visible wavelengths
+    - Violet has the shortest visible wavelengths
+    - White light mixes all wavelengths
+  - Why objects look colored
+    - Surfaces absorb some wavelengths, reflect others
+    - Pigments absorb light chemically
+    - Structural color comes from microscopic patterns
+    - Prisms and rainbows split light by refraction
+  - How we see it
+    - [Three cone types in the retina](https://en.wikipedia.org/wiki/Cone_cell)
+    - Brain compares cone signals to perceive hue
+    - [Color blindness affects about 8% of men](https://en.wikipedia.org/wiki/Color_blindness)
+    - Some animals see ultraviolet light
+  - Mixing colors
+    - [Additive: red, green, blue light](https://en.wikipedia.org/wiki/RGB_color_model)
+    - Subtractive: cyan, magenta, yellow inks
+    - Screens use additive, printers subtractive
+  - Describing color
+    - Hue, saturation and brightness
+    - [Color wheel shows complementary pairs](https://en.wikipedia.org/wiki/Color_wheel)
+    - Hex codes like #FF0000 on the web
+  - Color in culture
+    - Color words vary between languages
+    - Meanings differ, e.g. white for mourning
+    - Warm and cool colors set mood

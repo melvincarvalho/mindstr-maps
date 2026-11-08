@@ -1,0 +1,342 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Joseph Stalin",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#kugihp",
+      "name": "Early life",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kxpgdi",
+      "name": "Born Ioseb Jughashvili in Georgia, 1878",
+      "x": -485,
+      "y": -55,
+      "parent": "#kugihp"
+    },
+    {
+      "@id": "#cv4kzq",
+      "name": "Trained as a priest, became a revolutionary",
+      "x": -409,
+      "y": -150,
+      "parent": "#kugihp"
+    },
+    {
+      "@id": "#eeypp5",
+      "name": "Bolshevik organiser under Lenin",
+      "x": -340,
+      "y": -236,
+      "parent": "#kugihp"
+    },
+    {
+      "@id": "#g32mke",
+      "name": "Rise to power",
+      "x": -65,
+      "y": -177,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kfrhqz",
+      "name": "Communist Party General Secretary from 1922",
+      "x": -243,
+      "y": -303,
+      "parent": "#g32mke"
+    },
+    {
+      "@id": "#5t3wjx",
+      "name": "Outmanoeuvred rivals after Lenin died in 1924",
+      "x": -133,
+      "y": -360,
+      "parent": "#g32mke"
+    },
+    {
+      "@id": "#5idheq",
+      "name": "Sole ruler of the USSR by 1929",
+      "x": 0,
+      "y": -408,
+      "parent": "#g32mke"
+    },
+    {
+      "@id": "#vpn8p6",
+      "name": "Forced transformation",
+      "x": 146,
+      "y": -181,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2mi4da",
+      "name": "Five-Year Plans drove rapid industrialisation",
+      "x": 175,
+      "y": -465,
+      "parent": "#vpn8p6"
+    },
+    {
+      "@id": "#gw7ps2",
+      "name": "Peasants forced onto collective farms",
+      "x": 243,
+      "y": -303,
+      "parent": "#vpn8p6"
+    },
+    {
+      "@id": "#ujnv83",
+      "name": "1932–33 famine killed millions, including Holodomor",
+      "x": 340,
+      "y": -236,
+      "link": "https://en.wikipedia.org/wiki/Holodomor",
+      "parent": "#vpn8p6"
+    },
+    {
+      "@id": "#c9pn3t",
+      "name": "Terror and repression",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#htxbqr",
+      "name": "Great Purge executed about 700,000, 1936–38",
+      "x": 499,
+      "y": -185,
+      "link": "https://en.wikipedia.org/wiki/Great_Purge",
+      "parent": "#c9pn3t"
+    },
+    {
+      "@id": "#prdpct",
+      "name": "Gulag labour camps held millions",
+      "x": 445,
+      "y": -51,
+      "link": "https://en.wikipedia.org/wiki/Gulag",
+      "parent": "#c9pn3t"
+    },
+    {
+      "@id": "#f756fi",
+      "name": "Whole ethnic groups deported",
+      "x": 445,
+      "y": 51,
+      "parent": "#c9pn3t"
+    },
+    {
+      "@id": "#vczgaf",
+      "name": "Show trials and a cult of personality",
+      "x": 409,
+      "y": 150,
+      "parent": "#c9pn3t"
+    },
+    {
+      "@id": "#qdbb2r",
+      "name": "Second World War",
+      "x": 96,
+      "y": 167,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vsi529",
+      "name": "Pact with Hitler, 1939",
+      "x": 340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/Molotov%E2%80%93Ribbentrop_Pact",
+      "parent": "#qdbb2r"
+    },
+    {
+      "@id": "#dws3x2",
+      "name": "Invaded by Germany in June 1941",
+      "x": 243,
+      "y": 303,
+      "parent": "#qdbb2r"
+    },
+    {
+      "@id": "#er4tj3",
+      "name": "Victory at Stalingrad turned the war",
+      "x": 133,
+      "y": 360,
+      "link": "https://en.wikipedia.org/wiki/Battle_of_Stalingrad",
+      "parent": "#qdbb2r"
+    },
+    {
+      "@id": "#anrwpy",
+      "name": "Soviet war dead about 27 million",
+      "x": 0,
+      "y": 408,
+      "parent": "#qdbb2r"
+    },
+    {
+      "@id": "#ueg49d",
+      "name": "Cold War and legacy",
+      "x": -174,
+      "y": 120,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mf77ne",
+      "name": "Imposed communist rule on Eastern Europe",
+      "x": -175,
+      "y": 465,
+      "parent": "#ueg49d"
+    },
+    {
+      "@id": "#exauwc",
+      "name": "Died in March 1953",
+      "x": -243,
+      "y": 303,
+      "parent": "#ueg49d"
+    },
+    {
+      "@id": "#cy7est",
+      "name": "Khrushchev denounced his crimes in 1956",
+      "x": -340,
+      "y": 236,
+      "parent": "#ueg49d"
+    },
+    {
+      "@id": "#bvx2p5",
+      "name": "Historians count his regime's victims in millions",
+      "x": -463,
+      "y": 171,
+      "parent": "#ueg49d"
+    },
+    {
+      "@id": "#ntei4i",
+      "name": "Views of him in Russia remain divided",
+      "x": -445,
+      "y": 51,
+      "parent": "#ueg49d"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    },
+    {
+      "start": 23,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

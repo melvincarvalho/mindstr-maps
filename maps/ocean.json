@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Ocean",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#qajrix",
+      "name": "The world ocean",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4wckgv",
+      "name": "Covers about 71% of Earth",
+      "x": -445,
+      "y": -54,
+      "parent": "#qajrix"
+    },
+    {
+      "@id": "#uuebb8",
+      "name": "Holds about 97% of Earth's water",
+      "x": -405,
+      "y": -156,
+      "parent": "#qajrix"
+    },
+    {
+      "@id": "#yn7xnh",
+      "name": "Average depth about 3,700 metres",
+      "x": -330,
+      "y": -245,
+      "parent": "#qajrix"
+    },
+    {
+      "@id": "#dw4vcq",
+      "name": "Five named oceans",
+      "x": 17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sknwwx",
+      "name": "Pacific, the largest and deepest",
+      "x": -225,
+      "y": -312,
+      "parent": "#dw4vcq"
+    },
+    {
+      "@id": "#492z6z",
+      "name": "Atlantic, widening between the Americas and Europe",
+      "x": -104,
+      "y": -367,
+      "parent": "#dw4vcq"
+    },
+    {
+      "@id": "#eiuzss",
+      "name": "Indian, the warmest",
+      "x": 42,
+      "y": -423,
+      "parent": "#dw4vcq"
+    },
+    {
+      "@id": "#5c6f3v",
+      "name": "Southern, circling Antarctica",
+      "x": 234,
+      "y": -485,
+      "parent": "#dw4vcq"
+    },
+    {
+      "@id": "#4cbt38",
+      "name": "Arctic, the smallest and shallowest",
+      "x": 281,
+      "y": -281,
+      "parent": "#dw4vcq"
+    },
+    {
+      "@id": "#43ydvu",
+      "name": "The ocean floor",
+      "x": 227,
+      "y": -27,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9mr5rv",
+      "name": "Continental shelves fringe the land",
+      "x": 372,
+      "y": -203,
+      "parent": "#43ydvu"
+    },
+    {
+      "@id": "#4m9h5x",
+      "name": "Mid-ocean ridges make new crust",
+      "x": 430,
+      "y": -106,
+      "link": "https://en.wikipedia.org/wiki/Mid-ocean_ridge",
+      "parent": "#43ydvu"
+    },
+    {
+      "@id": "#ttvniy",
+      "name": "Vast flat abyssal plains",
+      "x": 470,
+      "y": 0,
+      "parent": "#43ydvu"
+    },
+    {
+      "@id": "#ekvdtp",
+      "name": "Challenger Deep, about 10,900 m",
+      "x": 430,
+      "y": 106,
+      "link": "https://en.wikipedia.org/wiki/Challenger_Deep",
+      "parent": "#43ydvu"
+    },
+    {
+      "@id": "#8g9ee4",
+      "name": "Circulation",
+      "x": 143,
+      "y": 144,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4br3bu",
+      "name": "Surface currents driven by wind",
+      "x": 372,
+      "y": 203,
+      "parent": "#8g9ee4"
+    },
+    {
+      "@id": "#rrpqjc",
+      "name": "Deep conveyor driven by temperature and salt",
+      "x": 281,
+      "y": 281,
+      "link": "https://en.wikipedia.org/wiki/Thermohaline_circulation",
+      "parent": "#8g9ee4"
+    },
+    {
+      "@id": "#f57g5c",
+      "name": "Moves heat from tropics to poles",
+      "x": 164,
+      "y": 335,
+      "parent": "#8g9ee4"
+    },
+    {
+      "@id": "#jsvvx2",
+      "name": "Role in climate",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rb63vs",
+      "name": "Phytoplankton make about half our oxygen",
+      "x": 38,
+      "y": 391,
+      "parent": "#jsvvx2"
+    },
+    {
+      "@id": "#jfirab",
+      "name": "Absorbs about a quarter of CO₂ emissions",
+      "x": -124,
+      "y": 447,
+      "parent": "#jsvvx2"
+    },
+    {
+      "@id": "#t7zzgk",
+      "name": "Stores over 90% of extra heat",
+      "x": -225,
+      "y": 312,
+      "parent": "#jsvvx2"
+    },
+    {
+      "@id": "#7j59ti",
+      "name": "Exploring and protecting",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cyy9pp",
+      "name": "Most of the deep sea is unexplored",
+      "x": -330,
+      "y": 245,
+      "parent": "#7j59ti"
+    },
+    {
+      "@id": "#bvzc5w",
+      "name": "Law of the Sea sets national zones",
+      "x": -405,
+      "y": 156,
+      "link": "https://en.wikipedia.org/wiki/United_Nations_Convention_on_the_Law_of_the_Sea",
+      "parent": "#7j59ti"
+    },
+    {
+      "@id": "#vry3g6",
+      "name": "Marine protected areas limit fishing",
+      "x": -545,
+      "y": 64,
+      "parent": "#7j59ti"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

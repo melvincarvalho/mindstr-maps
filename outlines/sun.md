@@ -1,0 +1,30 @@
+category: Science
+aliases: the sun, our star, how the sun works
+- Sun
+  - Basic facts
+    - [A G-type main-sequence star](https://en.wikipedia.org/wiki/G-type_main-sequence_star)
+    - About 4.6 billion years old
+    - 109 times Earth's diameter
+    - About 150 million km away
+  - How it shines
+    - [Nuclear fusion turns hydrogen into helium](https://en.wikipedia.org/wiki/Nuclear_fusion)
+    - Core about 15 million °C
+    - Sunlight reaches Earth in about 8 minutes
+  - Layers
+    - Core, radiative and convective zones
+    - [Photosphere: visible surface, about 5,500 °C](https://en.wikipedia.org/wiki/Photosphere)
+    - [Corona: outer atmosphere, millions of degrees](https://en.wikipedia.org/wiki/Stellar_corona)
+  - Solar activity
+    - Sunspots are cooler magnetic regions
+    - [Activity peaks every 11 years](https://en.wikipedia.org/wiki/Solar_cycle)
+    - Flares and coronal mass ejections
+    - Solar wind causes auroras on Earth
+  - The Sun and Earth
+    - Powers weather, climate and photosynthesis
+    - Sets our day and year
+    - Never look at it directly
+  - Life story
+    - Formed from a collapsing cloud
+    - About halfway through its life
+    - Red giant in about 5 billion years
+    - Ends as a white dwarf

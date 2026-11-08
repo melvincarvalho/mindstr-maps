@@ -1,0 +1,30 @@
+category: Society
+aliases: what is a corporation, corporations explained, limited company, incorporated company
+- Corporation
+  - A business that is a legal person
+    - [Separate legal personality from its owners](https://en.wikipedia.org/wiki/Legal_person)
+    - Can own property, sign contracts, sue
+    - Continues when owners change or die
+  - Owned by shareholders
+    - [Limited liability caps owners' losses](https://en.wikipedia.org/wiki/Limited_liability)
+    - Shares can be sold to others
+    - Profits paid out as dividends
+    - Public companies list on stock exchanges
+  - Run by directors and managers
+    - Shareholders elect the board of directors
+    - Board appoints the chief executive
+    - [Corporate governance balances these interests](https://en.wikipedia.org/wiki/Corporate_governance)
+  - Common forms
+    - Private limited company (Ltd, LLC)
+    - Public limited company (plc, Inc.)
+    - Nonprofit corporations serve a mission
+    - Multinationals operate across many countries
+  - History
+    - Roman law recognised collective bodies
+    - [Dutch East India Company, 1602](https://en.wikipedia.org/wiki/Dutch_East_India_Company)
+    - 1800s laws made incorporation routine
+  - Rules and debates
+    - Pays corporation tax on profits
+    - Must publish audited accounts
+    - Shareholder value versus stakeholder interests
+    - Concerns over power and lobbying

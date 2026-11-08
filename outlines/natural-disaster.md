@@ -1,0 +1,32 @@
+category: Science
+aliases: natural disasters, natural hazards, disaster preparedness, types of natural disasters
+- Natural disaster
+  - Weather disasters
+    - Floods: the most common
+    - Hurricanes, typhoons and cyclones
+    - Tornadoes and severe storms
+    - Heatwaves and droughts
+    - Wildfires
+  - Geological disasters
+    - [Earthquakes from shifting tectonic plates](https://en.wikipedia.org/wiki/Earthquake)
+    - [Tsunamis from undersea earthquakes](https://en.wikipedia.org/wiki/Tsunami)
+    - Volcanic eruptions
+    - Landslides and avalanches
+  - Why impacts vary
+    - Hazard becomes disaster when people exposed
+    - Poorer areas often suffer most
+    - Building standards save lives
+    - Climate change worsening some extremes
+  - Prepare
+    - Know local hazards and warnings
+    - [Make an emergency kit](https://en.wikipedia.org/wiki/Survival_kit)
+    - Plan evacuation routes and meeting points
+    - Keep documents and insurance safe
+  - Respond
+    - Follow official warnings and orders
+    - Evacuate early when told
+    - Check on vulnerable neighbours
+  - Recover
+    - Aid agencies provide shelter, food, water
+    - Rebuild stronger and safer
+    - [Early warning systems save lives](https://en.wikipedia.org/wiki/Early_warning_system)

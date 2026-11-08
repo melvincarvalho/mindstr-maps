@@ -1,0 +1,31 @@
+category: History
+aliases: protestant reformation, the reformation, european reformation
+- Reformation
+  - Causes
+    - Anger at church corruption and wealth
+    - Sale of indulgences to fund St Peter's
+    - Printing press spread new ideas fast
+    - Humanists like Erasmus urged reform
+  - Martin Luther
+    - [Ninety-five Theses posted in 1517](https://en.wikipedia.org/wiki/Ninety-five_Theses)
+    - Salvation by faith alone, not works
+    - Scripture as the sole authority
+    - Excommunicated; defiant at Diet of Worms, 1521
+    - Translated the Bible into German
+  - Other reformers
+    - Zwingli led reform in Zürich
+    - [John Calvin shaped Geneva and Calvinism](https://en.wikipedia.org/wiki/John_Calvin)
+    - Anabaptists rejected infant baptism
+  - English Reformation
+    - [Henry VIII broke with Rome, 1534](https://en.wikipedia.org/wiki/English_Reformation)
+    - Monasteries dissolved and lands sold
+    - Elizabethan settlement shaped the Church of England
+  - Catholic response
+    - [Council of Trent, 1545–1563](https://en.wikipedia.org/wiki/Council_of_Trent)
+    - Jesuits founded to teach and evangelise
+    - Counter-Reformation art and renewed piety
+  - Consequences
+    - Western Christianity permanently divided
+    - Wars of religion, including Thirty Years' War
+    - Peace of Augsburg: ruler picks religion
+    - Literacy rose; vernacular Bibles spread

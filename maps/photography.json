@@ -1,0 +1,352 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Photography",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#isdxxp",
+      "name": "How it works",
+      "x": -211,
+      "y": -73,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b8t7ks",
+      "name": "Lens focuses light onto a surface",
+      "x": -486,
+      "y": -53,
+      "parent": "#isdxxp"
+    },
+    {
+      "@id": "#kfcanw",
+      "name": "Film or sensor records the image",
+      "x": -413,
+      "y": -143,
+      "parent": "#isdxxp"
+    },
+    {
+      "@id": "#bjfpi7",
+      "name": "Aperture, shutter speed and ISO set exposure",
+      "x": -349,
+      "y": -227,
+      "parent": "#isdxxp"
+    },
+    {
+      "@id": "#sir7z5",
+      "name": "Invention",
+      "x": -77,
+      "y": -173,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vcfshe",
+      "name": "Niépce's first surviving photograph, 1820s",
+      "x": -260,
+      "y": -294,
+      "link": "https://en.wikipedia.org/wiki/View_from_the_Window_at_Le_Gras",
+      "parent": "#sir7z5"
+    },
+    {
+      "@id": "#q6fnz8",
+      "name": "Daguerreotype announced in 1839",
+      "x": -158,
+      "y": -354,
+      "link": "https://en.wikipedia.org/wiki/Daguerreotype",
+      "parent": "#sir7z5"
+    },
+    {
+      "@id": "#nj7ass",
+      "name": "Talbot's negatives allow many prints",
+      "x": -34,
+      "y": -407,
+      "parent": "#sir7z5"
+    },
+    {
+      "@id": "#kvedjv",
+      "name": "Becoming everyday",
+      "x": 133,
+      "y": -150,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dryz6y",
+      "name": "Kodak box camera for everyone, 1888",
+      "x": 120,
+      "y": -464,
+      "parent": "#kvedjv"
+    },
+    {
+      "@id": "#uytbc5",
+      "name": "Leica makes 35 mm cameras portable",
+      "x": 207,
+      "y": -320,
+      "parent": "#kvedjv"
+    },
+    {
+      "@id": "#jjnyjr",
+      "name": "Kodachrome colour film, 1935",
+      "x": 307,
+      "y": -263,
+      "parent": "#kvedjv"
+    },
+    {
+      "@id": "#sgyn47",
+      "name": "Polaroid instant pictures, 1948",
+      "x": 401,
+      "y": -195,
+      "parent": "#kvedjv"
+    },
+    {
+      "@id": "#9echg2",
+      "name": "Kinds of photography",
+      "x": 221,
+      "y": 50,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z2utj8",
+      "name": "Portraits and weddings",
+      "x": 433,
+      "y": -97,
+      "parent": "#9echg2"
+    },
+    {
+      "@id": "#qbvgps",
+      "name": "Photojournalism and documentary",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Photojournalism",
+      "parent": "#9echg2"
+    },
+    {
+      "@id": "#uibeia",
+      "name": "Landscape and nature",
+      "x": 452,
+      "y": 101,
+      "parent": "#9echg2"
+    },
+    {
+      "@id": "#y5yiy5",
+      "name": "Fashion and advertising",
+      "x": 384,
+      "y": 187,
+      "parent": "#9echg2"
+    },
+    {
+      "@id": "#r46v9y",
+      "name": "Scientific and astronomical imaging",
+      "x": 307,
+      "y": 263,
+      "parent": "#9echg2"
+    },
+    {
+      "@id": "#2iaut9",
+      "name": "Famous photographers",
+      "x": 16,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fhbq38",
+      "name": "Ansel Adams's Yosemite landscapes",
+      "x": 207,
+      "y": 320,
+      "parent": "#2iaut9"
+    },
+    {
+      "@id": "#2c8j5m",
+      "name": "Dorothea Lange's Migrant Mother, 1936",
+      "x": 96,
+      "y": 368,
+      "link": "https://en.wikipedia.org/wiki/Migrant_Mother",
+      "parent": "#2iaut9"
+    },
+    {
+      "@id": "#vgsbxf",
+      "name": "Henri Cartier-Bresson's \"decisive moment\"",
+      "x": -35,
+      "y": 423,
+      "parent": "#2iaut9"
+    },
+    {
+      "@id": "#gi22y3",
+      "name": "Robert Capa's war photographs",
+      "x": -214,
+      "y": 474,
+      "parent": "#2iaut9"
+    },
+    {
+      "@id": "#t8iyic",
+      "name": "The digital age",
+      "x": -197,
+      "y": 96,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kqq35h",
+      "name": "Digital cameras overtake film by 2000s",
+      "x": -260,
+      "y": 294,
+      "parent": "#t8iyic"
+    },
+    {
+      "@id": "#kjhfyq",
+      "name": "Smartphones make everyone a photographer",
+      "x": -349,
+      "y": 227,
+      "parent": "#t8iyic"
+    },
+    {
+      "@id": "#rskxcu",
+      "name": "Billions shared on social media daily",
+      "x": -431,
+      "y": 149,
+      "parent": "#t8iyic"
+    },
+    {
+      "@id": "#bd8jtn",
+      "name": "Editing and AI blur photographic truth",
+      "x": -506,
+      "y": 55,
+      "parent": "#t8iyic"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 14,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    },
+    {
+      "start": 25,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

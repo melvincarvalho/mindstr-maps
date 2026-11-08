@@ -1,0 +1,28 @@
+category: Society
+aliases: what is consciousness, human consciousness, conscious awareness, conscious experience
+- Consciousness
+  - What consciousness is
+    - Being aware of yourself and surroundings
+    - There is "something it is like"
+    - Ranges from deep sleep to alertness
+  - States of consciousness
+    - Wakefulness and focused attention
+    - [Sleep and dreaming](https://en.wikipedia.org/wiki/Sleep)
+    - Anaesthesia and coma switch it off
+    - Altered by meditation, drugs, hypnosis
+  - The hard problem
+    - [Why does experience exist at all?](https://en.wikipedia.org/wiki/Hard_problem_of_consciousness)
+    - Qualia: the redness of red
+    - Philosophers still debate it
+  - Scientific theories
+    - [Global workspace: information broadcast brain-wide](https://en.wikipedia.org/wiki/Global_workspace_theory)
+    - [Integrated information theory measures integration](https://en.wikipedia.org/wiki/Integrated_information_theory)
+    - Searching for neural correlates
+  - Philosophical views
+    - Dualism: mind separate from matter
+    - Physicalism: it arises from the brain
+    - Panpsychism: consciousness is everywhere
+  - Who is conscious?
+    - Mirror test checks self-recognition
+    - Many animals likely have experiences
+    - Could AI ever be conscious?

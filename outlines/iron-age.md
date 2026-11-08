@@ -1,0 +1,29 @@
+category: History
+aliases: iron age history, early iron age, iron age europe
+- Iron Age
+  - What it was
+    - [Last of the three-age system](https://en.wikipedia.org/wiki/Three-age_system)
+    - Followed the Stone and Bronze Ages
+    - Iron replaced bronze for tools and weapons
+  - Timing varied by region
+    - Near East from about 1200 BC
+    - Europe mostly from about 800 BC
+    - West Africa's Nok culture smelted iron
+    - China made cast iron by 500 BC
+  - Technology
+    - [Iron ore smelted in bloomery furnaces](https://en.wikipedia.org/wiki/Bloomery)
+    - Iron ore far commoner than tin
+    - Carburising and quenching produced steel
+  - Why it spread
+    - [Late Bronze Age collapse disrupted tin trade](https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse)
+    - Cheap iron tools expanded farming
+    - Iron weapons equipped larger armies
+  - Societies
+    - [Hallstatt and La Tène Celtic cultures](https://en.wikipedia.org/wiki/Hallstatt_culture)
+    - Hillforts built across Europe
+    - Assyrian and Neo-Babylonian empires rose
+    - Phoenician and Greek colonies spread
+  - How it ended
+    - Ends where written history takes over
+    - In Europe, often the Roman conquest
+    - Scandinavia's lasted to about AD 800

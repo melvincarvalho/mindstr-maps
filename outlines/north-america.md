@@ -1,0 +1,32 @@
+category: Geography
+aliases: north american continent, geography of north america
+- North America
+  - Land and physical geography
+    - Third-largest continent, about 24 million km²
+    - [Rocky Mountains run down the west](https://en.wikipedia.org/wiki/Rocky_Mountains)
+    - Great Plains and Canadian Shield inland
+    - [Great Lakes hold vast fresh water](https://en.wikipedia.org/wiki/Great_Lakes)
+    - Mississippi–Missouri is the longest river system
+  - Countries and regions
+    - 23 sovereign states
+    - Canada, United States and Mexico dominate
+    - Central America links to South America
+    - Caribbean islands lie to the east
+    - Greenland belongs to the Kingdom of Denmark
+  - Climate and nature
+    - Arctic tundra to tropical rainforest
+    - Deserts of the southwest and Mexico
+    - Hurricanes strike the Gulf and Caribbean
+  - People and languages
+    - About 600 million people
+    - English, Spanish and French widely spoken
+    - Hundreds of Indigenous languages survive
+  - History in brief
+    - Peoples arrived from Asia 15,000+ years ago
+    - [Maya and Aztec civilisations in Mesoamerica](https://en.wikipedia.org/wiki/Mesoamerica)
+    - European colonisation from 1492
+    - Independence movements from 1776 onward
+  - Economy and ties
+    - United States is the largest economy
+    - [USMCA trade pact links three countries](https://en.wikipedia.org/wiki/United_States%E2%80%93Mexico%E2%80%93Canada_Agreement)
+    - Oil, farming, tech and tourism

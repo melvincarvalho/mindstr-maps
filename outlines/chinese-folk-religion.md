@@ -1,0 +1,31 @@
+category: Philosophy and religion
+aliases: chinese traditional religion, shenism, chinese popular religion
+- Chinese folk religion
+  - What it is
+    - Everyday religion of many Chinese communities
+    - No founder, creed or single scripture
+    - Blends with Taoism, Buddhism, Confucianism
+  - Beliefs
+    - Heaven (Tian) as highest order
+    - Many gods and spirits (shen)
+    - Ghosts need care and appeasement
+    - Balance of yin and yang
+  - [Ancestor veneration](https://en.wikipedia.org/wiki/Ancestor_veneration_in_China)
+    - Household altars with ancestral tablets
+    - Offerings of food, incense, joss paper
+    - Clan halls honour shared lineage
+  - Popular deities
+    - [Mazu, goddess of the sea](https://en.wikipedia.org/wiki/Mazu)
+    - [Guan Yu, god of loyalty](https://en.wikipedia.org/wiki/Guan_Yu)
+    - Tudigong, local earth god
+    - Kitchen God reports to heaven
+    - Jade Emperor rules the heavenly court
+  - Practices
+    - Temple visits, incense and prayers
+    - Divination with blocks and fortune sticks
+    - [Feng shui for homes and graves](https://en.wikipedia.org/wiki/Feng_shui)
+    - Temple festivals and processions
+  - Calendar
+    - Lunar New Year honours gods and ancestors
+    - [Qingming: sweeping ancestors' tombs](https://en.wikipedia.org/wiki/Qingming_Festival)
+    - Ghost Festival in the seventh month

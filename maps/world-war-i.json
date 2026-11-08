@@ -1,0 +1,375 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "World War I",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#fy2mcu",
+      "name": "Causes",
+      "x": -202,
+      "y": -89,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tzxqi2",
+      "name": "Rival alliances divided Europe",
+      "x": -446,
+      "y": -45,
+      "parent": "#fy2mcu"
+    },
+    {
+      "@id": "#e5k8tt",
+      "name": "Arms race and militarism",
+      "x": -418,
+      "y": -133,
+      "parent": "#fy2mcu"
+    },
+    {
+      "@id": "#sahbfm",
+      "name": "Imperial and nationalist rivalries",
+      "x": -364,
+      "y": -212,
+      "parent": "#fy2mcu"
+    },
+    {
+      "@id": "#czmcaz",
+      "name": "Archduke Franz Ferdinand shot, June 1914",
+      "x": -287,
+      "y": -277,
+      "link": "https://en.wikipedia.org/wiki/Assassination_of_Archduke_Franz_Ferdinand",
+      "parent": "#fy2mcu"
+    },
+    {
+      "@id": "#sx7trw",
+      "name": "The two sides",
+      "x": -14,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8dqdg3",
+      "name": "Allies: France, Britain, Russia, later Italy",
+      "x": -192,
+      "y": -326,
+      "parent": "#sx7trw"
+    },
+    {
+      "@id": "#2sfbfg",
+      "name": "Central Powers: Germany, Austria-Hungary",
+      "x": -92,
+      "y": -386,
+      "parent": "#sx7trw"
+    },
+    {
+      "@id": "#c4jr7a",
+      "name": "Ottoman Empire and Bulgaria joined Central Powers",
+      "x": 33,
+      "y": -439,
+      "parent": "#sx7trw"
+    },
+    {
+      "@id": "#giyrzs",
+      "name": "Colonial troops fought for the empires",
+      "x": 199,
+      "y": -492,
+      "parent": "#sx7trw"
+    },
+    {
+      "@id": "#mhhkdz",
+      "name": "How it was fought",
+      "x": 202,
+      "y": -89,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8y2qnm",
+      "name": "Trench stalemate on the Western Front",
+      "x": 241,
+      "y": -304,
+      "link": "https://en.wikipedia.org/wiki/Trench_warfare",
+      "parent": "#mhhkdz"
+    },
+    {
+      "@id": "#azdmas",
+      "name": "Battle of the Somme, 1916",
+      "x": 328,
+      "y": -246,
+      "link": "https://en.wikipedia.org/wiki/Battle_of_the_Somme",
+      "parent": "#mhhkdz"
+    },
+    {
+      "@id": "#mtjhj3",
+      "name": "Verdun, Gallipoli and the Eastern Front",
+      "x": 394,
+      "y": -173,
+      "parent": "#mhhkdz"
+    },
+    {
+      "@id": "#iknany",
+      "name": "Machine guns, poison gas, tanks, aircraft",
+      "x": 531,
+      "y": -110,
+      "parent": "#mhhkdz"
+    },
+    {
+      "@id": "#vizvzk",
+      "name": "U-boats attack shipping at sea",
+      "x": 450,
+      "y": 0,
+      "parent": "#mhhkdz"
+    },
+    {
+      "@id": "#k4tcdn",
+      "name": "Human cost",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ujnxjv",
+      "name": "About 9 million soldiers killed",
+      "x": 436,
+      "y": 90,
+      "parent": "#k4tcdn"
+    },
+    {
+      "@id": "#4xw8ev",
+      "name": "Millions of civilians also died",
+      "x": 394,
+      "y": 173,
+      "parent": "#k4tcdn"
+    },
+    {
+      "@id": "#x69ehw",
+      "name": "Armenian genocide by Ottoman authorities",
+      "x": 328,
+      "y": 246,
+      "link": "https://en.wikipedia.org/wiki/Armenian_genocide",
+      "parent": "#k4tcdn"
+    },
+    {
+      "@id": "#3i8mwn",
+      "name": "Millions left wounded or traumatised",
+      "x": 241,
+      "y": 304,
+      "parent": "#k4tcdn"
+    },
+    {
+      "@id": "#bdyvuu",
+      "name": "How it ended",
+      "x": -14,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3mnxvk",
+      "name": "United States joined in 1917",
+      "x": 145,
+      "y": 357,
+      "parent": "#bdyvuu"
+    },
+    {
+      "@id": "#rpmj3x",
+      "name": "Russia left after its 1917 revolution",
+      "x": 31,
+      "y": 407,
+      "parent": "#bdyvuu"
+    },
+    {
+      "@id": "#f3s8it",
+      "name": "Armistice on 11 November 1918",
+      "x": -112,
+      "y": 466,
+      "parent": "#bdyvuu"
+    },
+    {
+      "@id": "#cbus4d",
+      "name": "Treaty of Versailles punished Germany",
+      "x": -210,
+      "y": 354,
+      "link": "https://en.wikipedia.org/wiki/Treaty_of_Versailles",
+      "parent": "#bdyvuu"
+    },
+    {
+      "@id": "#qwe86j",
+      "name": "Consequences",
+      "x": -202,
+      "y": 89,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nwrz7y",
+      "name": "German, Austrian, Ottoman, Russian empires collapsed",
+      "x": -287,
+      "y": 277,
+      "parent": "#qwe86j"
+    },
+    {
+      "@id": "#b9sgim",
+      "name": "New states in Eastern Europe",
+      "x": -364,
+      "y": 212,
+      "parent": "#qwe86j"
+    },
+    {
+      "@id": "#yg2tk8",
+      "name": "League of Nations founded 1920",
+      "x": -437,
+      "y": 139,
+      "parent": "#qwe86j"
+    },
+    {
+      "@id": "#rqgq8q",
+      "name": "Resentments helped lead to World War II",
+      "x": -486,
+      "y": 49,
+      "parent": "#qwe86j"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 11,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    },
+    {
+      "start": 0,
+      "end": 27
+    },
+    {
+      "start": 27,
+      "end": 28
+    },
+    {
+      "start": 27,
+      "end": 29
+    },
+    {
+      "start": 27,
+      "end": 30
+    },
+    {
+      "start": 27,
+      "end": 31
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Potato",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#vp4cda",
+      "name": "What a potato is",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d58iqq",
+      "name": "A starchy underground stem tuber",
+      "x": -485,
+      "y": -58,
+      "parent": "#vp4cda"
+    },
+    {
+      "@id": "#m352m3",
+      "name": "Nightshade family, related to tomatoes",
+      "x": -405,
+      "y": -156,
+      "link": "https://en.wikipedia.org/wiki/Solanaceae",
+      "parent": "#vp4cda"
+    },
+    {
+      "@id": "#gs5xjy",
+      "name": "Thousands of varieties exist",
+      "x": -330,
+      "y": -245,
+      "parent": "#vp4cda"
+    },
+    {
+      "@id": "#4g2ef6",
+      "name": "History",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ptv2g3",
+      "name": "Domesticated in the Andes 8,000+ years ago",
+      "x": -225,
+      "y": -312,
+      "parent": "#4g2ef6"
+    },
+    {
+      "@id": "#ugzc8s",
+      "name": "Brought to Europe by Spaniards, 1500s",
+      "x": -104,
+      "y": -367,
+      "parent": "#4g2ef6"
+    },
+    {
+      "@id": "#9tayqv",
+      "name": "Fed fast population growth in Europe",
+      "x": 42,
+      "y": -423,
+      "parent": "#4g2ef6"
+    },
+    {
+      "@id": "#vayw85",
+      "name": "Blight caused the Great Irish Famine",
+      "x": 234,
+      "y": -485,
+      "link": "https://en.wikipedia.org/wiki/Great_Famine_%28Ireland%29",
+      "parent": "#4g2ef6"
+    },
+    {
+      "@id": "#xkmi8g",
+      "name": "Growing potatoes",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k39zhc",
+      "name": "Planted from seed potatoes, not seeds",
+      "x": 281,
+      "y": -281,
+      "parent": "#xkmi8g"
+    },
+    {
+      "@id": "#msg5gw",
+      "name": "Earth up soil to cover tubers",
+      "x": 372,
+      "y": -203,
+      "parent": "#xkmi8g"
+    },
+    {
+      "@id": "#v42yds",
+      "name": "Late blight is the major disease",
+      "x": 487,
+      "y": -121,
+      "link": "https://en.wikipedia.org/wiki/Phytophthora_infestans",
+      "parent": "#xkmi8g"
+    },
+    {
+      "@id": "#hqb7wd",
+      "name": "China and India grow the most",
+      "x": 450,
+      "y": 0,
+      "parent": "#xkmi8g"
+    },
+    {
+      "@id": "#4ffk2w",
+      "name": "Floury or waxy",
+      "x": 190,
+      "y": 104,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4j7hex",
+      "name": "Floury for mash, baking, chips",
+      "x": 449,
+      "y": 111,
+      "parent": "#4ffk2w"
+    },
+    {
+      "@id": "#cczhf5",
+      "name": "Waxy hold shape in salads, stews",
+      "x": 372,
+      "y": 203,
+      "parent": "#4ffk2w"
+    },
+    {
+      "@id": "#xuy25m",
+      "name": "Store cool and dark, not fridge",
+      "x": 281,
+      "y": 281,
+      "parent": "#4ffk2w"
+    },
+    {
+      "@id": "#m56hv4",
+      "name": "Nutrition and safety",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b7mptz",
+      "name": "Good source of vitamin C, potassium",
+      "x": 164,
+      "y": 335,
+      "parent": "#m56hv4"
+    },
+    {
+      "@id": "#nrpg4c",
+      "name": "Most fibre is in the skin",
+      "x": 38,
+      "y": 391,
+      "parent": "#m56hv4"
+    },
+    {
+      "@id": "#jzrf8w",
+      "name": "Green patches contain toxic solanine",
+      "x": -124,
+      "y": 447,
+      "parent": "#m56hv4"
+    },
+    {
+      "@id": "#66666b",
+      "name": "Fried chips and crisps add fat",
+      "x": -225,
+      "y": 312,
+      "parent": "#m56hv4"
+    },
+    {
+      "@id": "#bd5pzn",
+      "name": "Popular dishes",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mbmsna",
+      "name": "French fries, the global favourite",
+      "x": -330,
+      "y": 245,
+      "link": "https://en.wikipedia.org/wiki/French_fries",
+      "parent": "#bd5pzn"
+    },
+    {
+      "@id": "#t544bx",
+      "name": "Mashed, roast and baked potatoes",
+      "x": -405,
+      "y": 156,
+      "parent": "#bd5pzn"
+    },
+    {
+      "@id": "#t8p2er",
+      "name": "Rösti, latkes, gnocchi, tortilla española",
+      "x": -505,
+      "y": 60,
+      "parent": "#bd5pzn"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

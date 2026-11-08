@@ -1,0 +1,29 @@
+category: History
+aliases: the scientific revolution, 17th century scientific revolution
+- Scientific Revolution
+  - What it was
+    - Roughly 1543 to the late 1600s
+    - Observation and experiment over ancient authority
+    - Nature described with mathematical laws
+  - Astronomy
+    - [Copernicus put Sun at centre, 1543](https://en.wikipedia.org/wiki/Nicolaus_Copernicus)
+    - Tycho Brahe made precise naked-eye observations
+    - Kepler found elliptical planetary orbits
+    - [Galileo's telescope found Jupiter's moons](https://en.wikipedia.org/wiki/Galileo_Galilei)
+  - Physics and mathematics
+    - [Newton's Principia, 1687: gravity and motion](https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica)
+    - Calculus by Newton and Leibniz
+    - Descartes linked algebra and geometry
+  - Life and the body
+    - Vesalius corrected anatomy by dissection, 1543
+    - Harvey showed blood circulates, 1628
+    - Microscopes revealed cells and microbes
+  - New methods
+    - Bacon promoted induction from experiment
+    - Boyle's air pump experiments on gases
+    - [Royal Society founded in London, 1660](https://en.wikipedia.org/wiki/Royal_Society)
+    - Journals let scientists share results
+  - Conflict and legacy
+    - Galileo tried by the Inquisition, 1633
+    - Laid foundations of modern science
+    - Inspired the Enlightenment

@@ -1,0 +1,31 @@
+category: Health
+aliases: nurses, nursing profession, what nurses do, become a nurse
+- Nursing
+  - What nurses do
+    - Assess and monitor patients
+    - Give medicines and treatments
+    - Help with eating, washing and moving
+    - Comfort patients and families
+    - Teach people to manage their health
+  - Where nurses work
+    - Hospital wards and intensive care
+    - Clinics, schools and care homes
+    - Patients' own homes
+  - Main fields
+    - Adult and children's nursing
+    - Mental health nursing
+    - [Midwifery for pregnancy and birth](https://en.wikipedia.org/wiki/Midwifery)
+    - [Nurse practitioners can diagnose and prescribe](https://en.wikipedia.org/wiki/Nurse_practitioner)
+  - Becoming a nurse
+    - Usually a three or four year degree
+    - Supervised placements on real wards
+    - Licence from a national regulator
+    - Ongoing training throughout the career
+  - History
+    - [Florence Nightingale in the Crimean War](https://en.wikipedia.org/wiki/Florence_Nightingale)
+    - Mary Seacole nursed soldiers too
+    - Nursing became a trained profession
+  - Today's challenges
+    - Worldwide shortage of nurses
+    - Shift work and burnout
+    - Ageing populations need more care

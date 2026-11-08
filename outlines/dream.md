@@ -1,0 +1,27 @@
+category: Society
+aliases: dreams, dreaming, why do we dream, meaning of dreams
+- Dream
+  - What dreams are
+    - Stories, images and feelings during sleep
+    - Most vivid dreams happen in REM sleep
+    - [REM sleep: eyes move, body paralysed](https://en.wikipedia.org/wiki/Rapid_eye_movement_sleep)
+    - Several dream periods each night
+  - What happens in the brain
+    - Emotion and visual areas very active
+    - Prefrontal cortex quieter, so logic slips
+    - Most dreams forgotten within minutes of waking
+  - Common dream experiences
+    - Familiar people and places, oddly mixed
+    - Being chased, falling, or unprepared
+    - [Lucid dreams: knowing you are dreaming](https://en.wikipedia.org/wiki/Lucid_dream)
+    - [Nightmares wake you with fear](https://en.wikipedia.org/wiki/Nightmare)
+  - Why we dream: competing theories
+    - Freud: disguised wishes, now little support
+    - [Activation-synthesis: brain making sense of noise](https://en.wikipedia.org/wiki/Activation-synthesis_hypothesis)
+    - Sorting memories and processing emotions
+    - Threat simulation: rehearsing dangers safely
+    - No single theory is proven
+  - Dreams in culture
+    - Ancient omens, prophecy and messages
+    - Dream interpretation in many traditions
+    - Inspiration for art, stories and inventions

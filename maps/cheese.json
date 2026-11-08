@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Cheese",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#x5rkvb",
+      "name": "What cheese is",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#frf37c",
+      "name": "Concentrated milk protein and fat",
+      "x": -485,
+      "y": -55,
+      "parent": "#x5rkvb"
+    },
+    {
+      "@id": "#ha3gct",
+      "name": "From cow, goat, sheep or buffalo milk",
+      "x": -409,
+      "y": -150,
+      "parent": "#x5rkvb"
+    },
+    {
+      "@id": "#ep86uc",
+      "name": "Keeps far longer than fresh milk",
+      "x": -340,
+      "y": -236,
+      "parent": "#x5rkvb"
+    },
+    {
+      "@id": "#euv4w7",
+      "name": "How it is made",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nf8rrn",
+      "name": "Bacteria sour the milk",
+      "x": -243,
+      "y": -303,
+      "parent": "#euv4w7"
+    },
+    {
+      "@id": "#2s52id",
+      "name": "Rennet curdles milk into curds",
+      "x": -133,
+      "y": -360,
+      "link": "https://en.wikipedia.org/wiki/Rennet",
+      "parent": "#euv4w7"
+    },
+    {
+      "@id": "#ythr2y",
+      "name": "Curds separated from liquid whey",
+      "x": 0,
+      "y": -408,
+      "parent": "#euv4w7"
+    },
+    {
+      "@id": "#pcdzn9",
+      "name": "Curds salted and pressed into moulds",
+      "x": 175,
+      "y": -465,
+      "parent": "#euv4w7"
+    },
+    {
+      "@id": "#cnfrb8",
+      "name": "Aged for weeks to years",
+      "x": 243,
+      "y": -303,
+      "parent": "#euv4w7"
+    },
+    {
+      "@id": "#gueaxx",
+      "name": "Main kinds",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bmkbud",
+      "name": "Fresh like mozzarella and ricotta",
+      "x": 340,
+      "y": -236,
+      "parent": "#gueaxx"
+    },
+    {
+      "@id": "#8wvaqg",
+      "name": "Soft-ripened like brie and camembert",
+      "x": 409,
+      "y": -150,
+      "parent": "#gueaxx"
+    },
+    {
+      "@id": "#raepb5",
+      "name": "Hard like cheddar and parmesan",
+      "x": 465,
+      "y": -53,
+      "parent": "#gueaxx"
+    },
+    {
+      "@id": "#9s37vw",
+      "name": "Blue cheeses with Penicillium moulds",
+      "x": 445,
+      "y": 51,
+      "link": "https://en.wikipedia.org/wiki/Blue_cheese",
+      "parent": "#gueaxx"
+    },
+    {
+      "@id": "#jk8vq3",
+      "name": "Famous cheeses",
+      "x": 151,
+      "y": 139,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#efugws",
+      "name": "Parmigiano Reggiano, aged at least 12 months",
+      "x": 481,
+      "y": 178,
+      "link": "https://en.wikipedia.org/wiki/Parmigiano_Reggiano",
+      "parent": "#jk8vq3"
+    },
+    {
+      "@id": "#7qed7i",
+      "name": "Cheddar, from Somerset, England",
+      "x": 340,
+      "y": 236,
+      "parent": "#jk8vq3"
+    },
+    {
+      "@id": "#2zhnpe",
+      "name": "Roquefort, aged in French caves",
+      "x": 243,
+      "y": 303,
+      "parent": "#jk8vq3"
+    },
+    {
+      "@id": "#ch62tt",
+      "name": "Gouda from the Netherlands",
+      "x": 133,
+      "y": 360,
+      "parent": "#jk8vq3"
+    },
+    {
+      "@id": "#5gp4qy",
+      "name": "History",
+      "x": -65,
+      "y": 177,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a5krvt",
+      "name": "Made for over 7,000 years",
+      "x": 0,
+      "y": 408,
+      "parent": "#5gp4qy"
+    },
+    {
+      "@id": "#3m4ydw",
+      "name": "Monasteries refined many recipes",
+      "x": -175,
+      "y": 465,
+      "parent": "#5gp4qy"
+    },
+    {
+      "@id": "#k95ew2",
+      "name": "Protected names like Feta and Roquefort",
+      "x": -243,
+      "y": 303,
+      "link": "https://en.wikipedia.org/wiki/Protected_designation_of_origin",
+      "parent": "#5gp4qy"
+    },
+    {
+      "@id": "#wbx3m8",
+      "name": "Eating and storing",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b4948j",
+      "name": "Good source of protein and calcium",
+      "x": -340,
+      "y": 236,
+      "parent": "#wbx3m8"
+    },
+    {
+      "@id": "#xvekv6",
+      "name": "High in saturated fat and salt",
+      "x": -409,
+      "y": 150,
+      "parent": "#wbx3m8"
+    },
+    {
+      "@id": "#ef9h3g",
+      "name": "Wrap and keep in the fridge",
+      "x": -465,
+      "y": 53,
+      "parent": "#wbx3m8"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

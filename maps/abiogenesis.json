@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Abiogenesis",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#azwv3g",
+      "name": "The question",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rn9dz7",
+      "name": "How life arose from non-living chemistry",
+      "x": -505,
+      "y": -60,
+      "parent": "#azwv3g"
+    },
+    {
+      "@id": "#tdxr4q",
+      "name": "Happened at least 3.5 billion years ago",
+      "x": -405,
+      "y": -156,
+      "parent": "#azwv3g"
+    },
+    {
+      "@id": "#at328h",
+      "name": "Still an open scientific problem",
+      "x": -330,
+      "y": -245,
+      "parent": "#azwv3g"
+    },
+    {
+      "@id": "#wq3csz",
+      "name": "Early Earth conditions",
+      "x": -51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#drqstm",
+      "name": "No free oxygen in the air",
+      "x": -225,
+      "y": -312,
+      "parent": "#wq3csz"
+    },
+    {
+      "@id": "#zgmjcq",
+      "name": "Oceans, volcanoes and lightning",
+      "x": -104,
+      "y": -367,
+      "parent": "#wq3csz"
+    },
+    {
+      "@id": "#kf6nr7",
+      "name": "Meteorites delivered organic molecules",
+      "x": 42,
+      "y": -423,
+      "parent": "#wq3csz"
+    },
+    {
+      "@id": "#hk22q8",
+      "name": "Key experiments",
+      "x": 179,
+      "y": -183,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#khn5fh",
+      "name": "Miller–Urey made amino acids, 1952",
+      "x": 234,
+      "y": -485,
+      "link": "https://en.wikipedia.org/wiki/Miller%E2%80%93Urey_experiment",
+      "parent": "#hk22q8"
+    },
+    {
+      "@id": "#q9zdew",
+      "name": "Simple chemistry can make nucleotides",
+      "x": 281,
+      "y": -281,
+      "parent": "#hk22q8"
+    },
+    {
+      "@id": "#x5fwip",
+      "name": "Fatty molecules self-assemble into bubbles",
+      "x": 610,
+      "y": -329,
+      "parent": "#hk22q8"
+    },
+    {
+      "@id": "#y267nd",
+      "name": "Leading hypotheses",
+      "x": 220,
+      "y": 54,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y9wwgd",
+      "name": "RNA world: RNA came first",
+      "x": 430,
+      "y": -106,
+      "link": "https://en.wikipedia.org/wiki/RNA_world",
+      "parent": "#y267nd"
+    },
+    {
+      "@id": "#vegsj4",
+      "name": "Hydrothermal vents supplied energy",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Hydrothermal_vent",
+      "parent": "#y267nd"
+    },
+    {
+      "@id": "#hnz438",
+      "name": "Metabolism-first chemical cycles",
+      "x": 430,
+      "y": 106,
+      "parent": "#y267nd"
+    },
+    {
+      "@id": "#hhk6dx",
+      "name": "Warm little ponds with wet-dry cycles",
+      "x": 372,
+      "y": 203,
+      "parent": "#y267nd"
+    },
+    {
+      "@id": "#du4a79",
+      "name": "Panspermia moves the question elsewhere",
+      "x": 281,
+      "y": 281,
+      "parent": "#y267nd"
+    },
+    {
+      "@id": "#st6fzq",
+      "name": "Steps toward a cell",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3zx3v5",
+      "name": "Building blocks form",
+      "x": 164,
+      "y": 335,
+      "parent": "#st6fzq"
+    },
+    {
+      "@id": "#b67khv",
+      "name": "Molecules start copying themselves",
+      "x": 38,
+      "y": 391,
+      "parent": "#st6fzq"
+    },
+    {
+      "@id": "#ifgfyu",
+      "name": "Membranes enclose the chemistry",
+      "x": -124,
+      "y": 447,
+      "parent": "#st6fzq"
+    },
+    {
+      "@id": "#7sxruz",
+      "name": "Last universal common ancestor emerges",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wikipedia.org/wiki/Last_universal_common_ancestor",
+      "parent": "#st6fzq"
+    },
+    {
+      "@id": "#yxzut5",
+      "name": "History of the idea",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u3pqsq",
+      "name": "Spontaneous generation was long believed",
+      "x": -330,
+      "y": 245,
+      "parent": "#yxzut5"
+    },
+    {
+      "@id": "#7f8tar",
+      "name": "Pasteur disproved it in the 1860s",
+      "x": -405,
+      "y": 156,
+      "link": "https://en.wikipedia.org/wiki/Spontaneous_generation",
+      "parent": "#yxzut5"
+    },
+    {
+      "@id": "#jrimg2",
+      "name": "Oparin and Haldane's primordial soup",
+      "x": -505,
+      "y": 60,
+      "parent": "#yxzut5"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 13,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,317 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Malay language",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ahipj4",
+      "name": "Where it is spoken",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#f9r8t5",
+      "name": "Malaysia, Brunei, Singapore and Indonesia",
+      "x": -445,
+      "y": -54,
+      "parent": "#ahipj4"
+    },
+    {
+      "@id": "#gm6rhx",
+      "name": "National language of Malaysia and Brunei",
+      "x": -405,
+      "y": -156,
+      "parent": "#ahipj4"
+    },
+    {
+      "@id": "#43f64w",
+      "name": "Indonesian is a standardised form",
+      "x": -330,
+      "y": -245,
+      "link": "https://en.wikipedia.org/wiki/Indonesian_language",
+      "parent": "#ahipj4"
+    },
+    {
+      "@id": "#qv32xw",
+      "name": "About 290 million speakers, counting Indonesian",
+      "x": -225,
+      "y": -312,
+      "parent": "#ahipj4"
+    },
+    {
+      "@id": "#bkcwyq",
+      "name": "Family and history",
+      "x": 51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ikxchk",
+      "name": "Part of the Austronesian family",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Austronesian_languages",
+      "parent": "#bkcwyq"
+    },
+    {
+      "@id": "#td9yyr",
+      "name": "Old Malay inscriptions from the 600s",
+      "x": 42,
+      "y": -423,
+      "parent": "#bkcwyq"
+    },
+    {
+      "@id": "#4r28n4",
+      "name": "Srivijaya and Malacca spread it by trade",
+      "x": 234,
+      "y": -485,
+      "parent": "#bkcwyq"
+    },
+    {
+      "@id": "#ksvrtk",
+      "name": "Lingua franca of maritime Southeast Asia",
+      "x": 281,
+      "y": -281,
+      "parent": "#bkcwyq"
+    },
+    {
+      "@id": "#tawhpa",
+      "name": "Borrowed words",
+      "x": 227,
+      "y": -27,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#x7554k",
+      "name": "Sanskrit gave bahasa and raja",
+      "x": 372,
+      "y": -203,
+      "parent": "#tawhpa"
+    },
+    {
+      "@id": "#zh7if6",
+      "name": "Arabic gave kitab and waktu",
+      "x": 430,
+      "y": -106,
+      "parent": "#tawhpa"
+    },
+    {
+      "@id": "#auzqp4",
+      "name": "Portuguese gave meja and sekolah",
+      "x": 490,
+      "y": 0,
+      "parent": "#tawhpa"
+    },
+    {
+      "@id": "#fhc95a",
+      "name": "English gives modern teksi and polis",
+      "x": 430,
+      "y": 106,
+      "parent": "#tawhpa"
+    },
+    {
+      "@id": "#si8w35",
+      "name": "Sounds and writing",
+      "x": 115,
+      "y": 159,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gaixix",
+      "name": "Six vowels and no tones",
+      "x": 372,
+      "y": 203,
+      "parent": "#si8w35"
+    },
+    {
+      "@id": "#sea93k",
+      "name": "Jawi: Arabic-based script, still used",
+      "x": 281,
+      "y": 281,
+      "link": "https://en.wikipedia.org/wiki/Jawi_script",
+      "parent": "#si8w35"
+    },
+    {
+      "@id": "#y4f9fd",
+      "name": "Latin-based Rumi script is standard",
+      "x": 164,
+      "y": 335,
+      "parent": "#si8w35"
+    },
+    {
+      "@id": "#4a9dw8",
+      "name": "Spelling reformed jointly with Indonesia, 1972",
+      "x": 38,
+      "y": 391,
+      "parent": "#si8w35"
+    },
+    {
+      "@id": "#kf62ms",
+      "name": "Grammar highlights",
+      "x": -169,
+      "y": 125,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#n2nmjc",
+      "name": "No verb tenses; sudah, akan mark time",
+      "x": -124,
+      "y": 447,
+      "parent": "#kf62ms"
+    },
+    {
+      "@id": "#rtftjb",
+      "name": "No gender, articles or conjugation",
+      "x": -225,
+      "y": 312,
+      "parent": "#kf62ms"
+    },
+    {
+      "@id": "#eugkdc",
+      "name": "Plurals by doubling: orang-orang",
+      "x": -330,
+      "y": 245,
+      "parent": "#kf62ms"
+    },
+    {
+      "@id": "#wgccqc",
+      "name": "Affixes build words: ajar, belajar, pelajar",
+      "x": -459,
+      "y": 177,
+      "parent": "#kf62ms"
+    },
+    {
+      "@id": "#y3yax3",
+      "name": "Subject–verb–object word order",
+      "x": -445,
+      "y": 54,
+      "parent": "#kf62ms"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    },
+    {
+      "start": 21,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

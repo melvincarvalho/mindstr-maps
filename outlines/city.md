@@ -1,0 +1,29 @@
+category: Geography
+aliases: what is a city, definition of a city, largest cities in the world
+- City
+  - What makes a city
+    - Large, dense, permanent settlement
+    - Most people work outside farming
+    - Definitions and thresholds vary by country
+    - Some titles granted by charter
+  - First cities
+    - [Uruk in Mesopotamia, about 4000 BCE](https://en.wikipedia.org/wiki/Uruk)
+    - Grew from farming surpluses
+    - Mohenjo-daro and the Indus cities
+    - Rome reached about a million people
+  - Types
+    - Capital and administrative cities
+    - Port and trading cities
+    - Industrial cities of the 1800s
+    - [Global cities like London and New York](https://en.wikipedia.org/wiki/Global_city)
+  - Measuring size
+    - City proper within legal limits
+    - Urban area of continuous buildup
+    - Metropolitan area includes commuter belt
+  - Largest cities
+    - [Tokyo, Delhi, Shanghai top rankings](https://en.wikipedia.org/wiki/List_of_largest_cities)
+    - [Megacities have over 10 million](https://en.wikipedia.org/wiki/Megacity)
+    - Most fast growth in Asia and Africa
+  - Upsides and downsides
+    - Jobs, ideas and culture concentrate
+    - Congestion, pollution and high rents

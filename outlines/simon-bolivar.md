@@ -1,0 +1,31 @@
+category: People
+aliases: el libertador, the liberator bolivar
+- Simón Bolívar
+  - Early life
+    - Born 1783 in Caracas, Venezuela
+    - Wealthy Creole family, orphaned young
+    - Educated in Europe, inspired by Enlightenment
+    - Vowed in Rome to free South America
+  - War of independence
+    - First Venezuelan republics collapsed, 1812–1814
+    - Jamaica Letter set out his vision, 1815
+    - Crossed the Andes in 1819
+    - [Won Battle of Boyacá, 1819](https://en.wikipedia.org/wiki/Battle_of_Boyac%C3%A1)
+    - Won Battle of Carabobo, 1821
+  - Nations he freed
+    - Venezuela, Colombia and Ecuador
+    - Peru, with Antonio José de Sucre
+    - Bolivia named after him
+  - Statesman
+    - [President of Gran Colombia](https://en.wikipedia.org/wiki/Gran_Colombia)
+    - Dreamed of united Spanish America
+    - Called Congress of Panama, 1826
+    - Ruled as dictator from 1828
+  - Decline
+    - Survived assassination attempt in 1828
+    - Gran Colombia broke apart
+    - Died 1830 of tuberculosis
+  - Legacy
+    - Hailed as El Libertador
+    - Venezuela's currency named after him
+    - Admired across Latin American politics

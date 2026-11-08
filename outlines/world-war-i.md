@@ -1,0 +1,34 @@
+category: History
+aliases: first world war, ww1, wwi, the great war, world war one
+- World War I
+  - Causes
+    - Rival alliances divided Europe
+    - Arms race and militarism
+    - Imperial and nationalist rivalries
+    - [Archduke Franz Ferdinand shot, June 1914](https://en.wikipedia.org/wiki/Assassination_of_Archduke_Franz_Ferdinand)
+  - The two sides
+    - Allies: France, Britain, Russia, later Italy
+    - Central Powers: Germany, Austria-Hungary
+    - Ottoman Empire and Bulgaria joined Central Powers
+    - Colonial troops fought for the empires
+  - How it was fought
+    - [Trench stalemate on the Western Front](https://en.wikipedia.org/wiki/Trench_warfare)
+    - [Battle of the Somme, 1916](https://en.wikipedia.org/wiki/Battle_of_the_Somme)
+    - Verdun, Gallipoli and the Eastern Front
+    - Machine guns, poison gas, tanks, aircraft
+    - U-boats attack shipping at sea
+  - Human cost
+    - About 9 million soldiers killed
+    - Millions of civilians also died
+    - [Armenian genocide by Ottoman authorities](https://en.wikipedia.org/wiki/Armenian_genocide)
+    - Millions left wounded or traumatised
+  - How it ended
+    - United States joined in 1917
+    - Russia left after its 1917 revolution
+    - Armistice on 11 November 1918
+    - [Treaty of Versailles punished Germany](https://en.wikipedia.org/wiki/Treaty_of_Versailles)
+  - Consequences
+    - German, Austrian, Ottoman, Russian empires collapsed
+    - New states in Eastern Europe
+    - League of Nations founded 1920
+    - Resentments helped lead to World War II

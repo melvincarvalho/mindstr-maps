@@ -1,0 +1,30 @@
+category: Philosophy and religion
+aliases: jain religion, jain dharma, jain faith
+- Jainism
+  - Origins
+    - Ancient Indian religion, Jain Dharma
+    - [Mahavira taught about 2,500 years ago](https://en.wikipedia.org/wiki/Mahavira)
+    - [24 Tirthankaras, the "ford-makers"](https://en.wikipedia.org/wiki/Tirthankara)
+    - About 4–5 million followers, mostly India
+  - Core beliefs
+    - Every living being has a soul
+    - Karma is subtle matter binding souls
+    - Liberation (moksha) frees the soul
+    - No creator god
+  - Five great vows
+    - [Ahimsa, non-violence](https://en.wikipedia.org/wiki/Ahimsa_in_Jainism)
+    - Satya, truthfulness
+    - Asteya, not stealing
+    - Brahmacharya, chastity
+    - Aparigraha, non-attachment
+  - Key ideas
+    - [Anekantavada, many-sidedness of truth](https://en.wikipedia.org/wiki/Anekantavada)
+    - Three Jewels: right faith, knowledge, conduct
+  - Two main branches
+    - [Digambara, "sky-clad" monks](https://en.wikipedia.org/wiki/Digambara)
+    - Svetambara, "white-clad" monks and nuns
+  - Practices
+    - Strict vegetarian diet, often avoiding roots
+    - Fasting, especially during Paryushana
+    - Monks sweep paths to spare insects
+    - Pilgrimage to Palitana and Shravanabelagola

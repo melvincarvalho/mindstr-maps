@@ -1,0 +1,31 @@
+category: Science
+aliases: magnets, how magnets work, magnetic field
+- Magnetism
+  - Magnets and poles
+    - Every magnet has north and south poles
+    - Opposite poles attract, like poles repel
+    - Cut a magnet, get two magnets
+    - Field lines run north to south
+  - Where it comes from
+    - Moving electric charges create magnetic fields
+    - Electrons spin like tiny magnets
+    - [Aligned regions called domains add up](https://en.wikipedia.org/wiki/Magnetic_domain)
+  - Kinds of magnetic materials
+    - [Ferromagnets: iron, nickel, cobalt](https://en.wikipedia.org/wiki/Ferromagnetism)
+    - Paramagnets weakly attracted, like aluminium
+    - Diamagnets weakly repelled, like water
+    - Heat destroys magnetism above Curie temperature
+  - Earth's magnetic field
+    - [Made by molten iron in the core](https://en.wikipedia.org/wiki/Earth%27s_magnetic_field)
+    - Compass needles point to magnetic north
+    - Shields Earth from solar wind
+    - Causes the northern and southern lights
+    - Poles flip every few hundred thousand years
+  - Magnetism at work
+    - Electric motors and generators
+    - Hard drives and credit card stripes
+    - MRI scanners image the body
+    - Fridge magnets and speaker cones
+  - Electricity and magnetism linked
+    - [Electromagnets switch on with current](https://en.wikipedia.org/wiki/Electromagnet)
+    - Moving magnets induce electric current

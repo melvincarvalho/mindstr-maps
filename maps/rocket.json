@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Rocket",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#meru7w",
+      "name": "How a rocket pushes itself",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ncn487",
+      "name": "Newton's third law: action and reaction",
+      "x": -444,
+      "y": -56,
+      "link": "https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion",
+      "parent": "#meru7w"
+    },
+    {
+      "@id": "#3nxsnt",
+      "name": "Hot gas blasted out the nozzle",
+      "x": -401,
+      "y": -163,
+      "parent": "#meru7w"
+    },
+    {
+      "@id": "#d2e438",
+      "name": "Works in space, needs no air",
+      "x": -318,
+      "y": -255,
+      "parent": "#meru7w"
+    },
+    {
+      "@id": "#r2e4fr",
+      "name": "Carries its own fuel and oxidiser",
+      "x": -204,
+      "y": -321,
+      "parent": "#meru7w"
+    },
+    {
+      "@id": "#7pdjen",
+      "name": "Types of propellant",
+      "x": 36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#isy7ap",
+      "name": "Solid fuel: simple, can't be throttled",
+      "x": -73,
+      "y": -372,
+      "parent": "#7pdjen"
+    },
+    {
+      "@id": "#bw7pzf",
+      "name": "Liquid fuel: controllable and restartable",
+      "x": 82,
+      "y": -420,
+      "parent": "#7pdjen"
+    },
+    {
+      "@id": "#skmb3w",
+      "name": "Hybrid rockets mix solid and liquid",
+      "x": 204,
+      "y": -321,
+      "parent": "#7pdjen"
+    },
+    {
+      "@id": "#ffqshv",
+      "name": "Getting to orbit",
+      "x": 205,
+      "y": -84,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ahii8n",
+      "name": "Rocket equation limits fuel versus mass",
+      "x": 318,
+      "y": -255,
+      "link": "https://en.wikipedia.org/wiki/Tsiolkovsky_rocket_equation",
+      "parent": "#ffqshv"
+    },
+    {
+      "@id": "#a4785j",
+      "name": "Stages dropped as fuel runs out",
+      "x": 401,
+      "y": -163,
+      "parent": "#ffqshv"
+    },
+    {
+      "@id": "#psbbgp",
+      "name": "About 28,000 km/h needed for orbit",
+      "x": 484,
+      "y": -60,
+      "parent": "#ffqshv"
+    },
+    {
+      "@id": "#7j6x7s",
+      "name": "Early history",
+      "x": 205,
+      "y": 84,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#x2ykjc",
+      "name": "Chinese gunpowder rockets, around 1200s",
+      "x": 504,
+      "y": 62,
+      "parent": "#7j6x7s"
+    },
+    {
+      "@id": "#3r87gy",
+      "name": "Goddard flies liquid-fuel rocket, 1926",
+      "x": 401,
+      "y": 163,
+      "parent": "#7j6x7s"
+    },
+    {
+      "@id": "#duti3n",
+      "name": "German V-2, first to reach space",
+      "x": 318,
+      "y": 255,
+      "link": "https://en.wikipedia.org/wiki/V-2_rocket",
+      "parent": "#7j6x7s"
+    },
+    {
+      "@id": "#seghtj",
+      "name": "Space Age rockets",
+      "x": 36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xpundz",
+      "name": "R-7 launched Sputnik in 1957",
+      "x": 204,
+      "y": 321,
+      "parent": "#seghtj"
+    },
+    {
+      "@id": "#37i4dj",
+      "name": "Saturn V carried Apollo to the Moon",
+      "x": 73,
+      "y": 372,
+      "link": "https://en.wikipedia.org/wiki/Saturn_V",
+      "parent": "#seghtj"
+    },
+    {
+      "@id": "#zjw3ur",
+      "name": "Space Shuttle flew 1981 to 2011",
+      "x": -82,
+      "y": 420,
+      "parent": "#seghtj"
+    },
+    {
+      "@id": "#iydxbs",
+      "name": "Rockets today",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fm9mb9",
+      "name": "Reusable boosters land themselves upright",
+      "x": -204,
+      "y": 321,
+      "parent": "#iydxbs"
+    },
+    {
+      "@id": "#umm28x",
+      "name": "SpaceX Falcon 9 dominates launches",
+      "x": -318,
+      "y": 255,
+      "parent": "#iydxbs"
+    },
+    {
+      "@id": "#dd5gu5",
+      "name": "Launching satellites, crews and probes",
+      "x": -401,
+      "y": 163,
+      "parent": "#iydxbs"
+    },
+    {
+      "@id": "#7x2uac",
+      "name": "Also used in fireworks and missiles",
+      "x": -444,
+      "y": 56,
+      "parent": "#iydxbs"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

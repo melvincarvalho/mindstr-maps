@@ -1,0 +1,30 @@
+category: Technology
+aliases: internal combustion engines, combustion engine, four-stroke engine, how a car engine works
+- Internal combustion engine
+  - The idea
+    - Fuel burns inside the engine itself
+    - Hot gas pushes a piston
+    - [Crankshaft turns up-and-down into rotation](https://en.wikipedia.org/wiki/Crankshaft)
+  - [The four-stroke cycle](https://en.wikipedia.org/wiki/Four-stroke_engine)
+    - Intake: piston draws in air and fuel
+    - Compression: piston squeezes the mixture
+    - Power: burning gas drives piston down
+    - Exhaust: piston pushes out burnt gas
+  - Petrol vs diesel
+    - Petrol engines use spark plugs
+    - [Diesels ignite fuel by compression heat](https://en.wikipedia.org/wiki/Diesel_engine)
+    - Diesels are more efficient, with more torque
+  - Other designs
+    - Two-strokes in mopeds and chainsaws
+    - [Wankel rotary engine](https://en.wikipedia.org/wiki/Wankel_engine)
+    - Gas turbines in jets and power stations
+  - History
+    - Lenoir's gas engine, 1860
+    - Otto's four-stroke, 1876
+    - Benz's first motor car, 1886
+    - Diesel's compression-ignition engine, 1890s
+  - Problems and future
+    - Most fuel energy lost as heat
+    - CO₂, nitrogen oxides and soot
+    - Catalytic converters clean exhaust
+    - Several countries plan new-car phase-outs

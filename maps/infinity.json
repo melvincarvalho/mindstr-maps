@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Infinity",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#yiktiy",
+      "name": "What it means",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nwtawe",
+      "name": "Endless, bigger than any number",
+      "x": -464,
+      "y": -58,
+      "parent": "#yiktiy"
+    },
+    {
+      "@id": "#mcqw7d",
+      "name": "Not a number you can reach",
+      "x": -401,
+      "y": -163,
+      "parent": "#yiktiy"
+    },
+    {
+      "@id": "#72dq6h",
+      "name": "Symbol ∞ introduced by Wallis, 1655",
+      "x": -318,
+      "y": -255,
+      "link": "https://en.wikipedia.org/wiki/Infinity_symbol",
+      "parent": "#yiktiy"
+    },
+    {
+      "@id": "#2sfbj9",
+      "name": "Potential versus actual infinity",
+      "x": -36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bbqypa",
+      "name": "Aristotle: counting can always continue",
+      "x": -204,
+      "y": -321,
+      "parent": "#2sfbj9"
+    },
+    {
+      "@id": "#wa7btp",
+      "name": "Actual: a completed infinite collection",
+      "x": -73,
+      "y": -372,
+      "parent": "#2sfbj9"
+    },
+    {
+      "@id": "#2ft3ed",
+      "name": "Long distrusted as paradoxical",
+      "x": 82,
+      "y": -420,
+      "parent": "#2sfbj9"
+    },
+    {
+      "@id": "#ww2yfh",
+      "name": "Paradoxes",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5a6rc3",
+      "name": "Zeno: Achilles never catches the tortoise",
+      "x": 303,
+      "y": -475,
+      "link": "https://en.wikipedia.org/wiki/Zeno%27s_paradoxes",
+      "parent": "#ww2yfh"
+    },
+    {
+      "@id": "#93a3vm",
+      "name": "Galileo: squares match all whole numbers",
+      "x": 318,
+      "y": -255,
+      "parent": "#ww2yfh"
+    },
+    {
+      "@id": "#xxt3ix",
+      "name": "Hilbert's Hotel: full, yet room",
+      "x": 419,
+      "y": -170,
+      "link": "https://en.wikipedia.org/wiki/Hilbert%27s_paradox_of_the_Grand_Hotel",
+      "parent": "#ww2yfh"
+    },
+    {
+      "@id": "#xt5num",
+      "name": "Sizes of infinity",
+      "x": 205,
+      "y": 84,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zpcfe5",
+      "name": "Cantor: some infinities are bigger",
+      "x": 444,
+      "y": -56,
+      "link": "https://en.wikipedia.org/wiki/Georg_Cantor",
+      "parent": "#xt5num"
+    },
+    {
+      "@id": "#8nh344",
+      "name": "Whole numbers are countably infinite",
+      "x": 504,
+      "y": 62,
+      "parent": "#xt5num"
+    },
+    {
+      "@id": "#n6x4ur",
+      "name": "Real numbers are uncountable",
+      "x": 401,
+      "y": 163,
+      "parent": "#xt5num"
+    },
+    {
+      "@id": "#bm79qb",
+      "name": "Diagonal argument proves it, 1891",
+      "x": 318,
+      "y": 255,
+      "parent": "#xt5num"
+    },
+    {
+      "@id": "#ix5263",
+      "name": "Continuum hypothesis: unprovable either way",
+      "x": 204,
+      "y": 321,
+      "parent": "#xt5num"
+    },
+    {
+      "@id": "#578mb5",
+      "name": "Infinity in calculus",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3xyzfn",
+      "name": "Limits tame the infinitely small",
+      "x": 73,
+      "y": 372,
+      "parent": "#578mb5"
+    },
+    {
+      "@id": "#82kkx3",
+      "name": "Infinite series can have finite sums",
+      "x": -82,
+      "y": 420,
+      "parent": "#578mb5"
+    },
+    {
+      "@id": "#cn8due",
+      "name": "Leibniz's infinitesimals, later made rigorous",
+      "x": -303,
+      "y": 475,
+      "parent": "#578mb5"
+    },
+    {
+      "@id": "#writam",
+      "name": "Beyond mathematics",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5s3cpd",
+      "name": "Is the universe infinite? Unknown",
+      "x": -318,
+      "y": 255,
+      "parent": "#writam"
+    },
+    {
+      "@id": "#ea4rhc",
+      "name": "God's infinity in theology",
+      "x": -401,
+      "y": 163,
+      "parent": "#writam"
+    },
+    {
+      "@id": "#8969ea",
+      "name": "Endless loops in computer programs",
+      "x": -504,
+      "y": 62,
+      "parent": "#writam"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 13,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

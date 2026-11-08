@@ -1,0 +1,30 @@
+category: Arts and culture
+aliases: performance art forms, live performance arts, the performing arts
+- Performing arts
+  - What they are
+    - Art made live by performers
+    - Performer, audience and a space
+    - Unlike paintings, each show is unique
+  - Main forms
+    - [Theatre and drama](https://en.wikipedia.org/wiki/Theatre)
+    - Music: concerts, opera, bands
+    - [Dance: ballet to hip hop](https://en.wikipedia.org/wiki/Dance)
+    - Musical theatre combines all three
+    - Comedy, magic, circus and puppetry
+  - Who makes a show
+    - Writers, composers and choreographers
+    - Directors shape the production
+    - Actors, musicians and dancers perform
+    - Designers create sets, costume, lighting
+  - Where it happens
+    - Theatres, concert halls and opera houses
+    - Street performance and festivals
+    - Edinburgh Fringe, world's largest arts festival
+  - Through history
+    - Ritual and storytelling in early societies
+    - [Greek tragedy and comedy](https://en.wikipedia.org/wiki/Theatre_of_ancient_Greece)
+    - Noh and kabuki in Japan
+    - Film and broadcast widened audiences
+  - Training and careers
+    - Drama schools and conservatories
+    - Auditions, rehearsals and touring

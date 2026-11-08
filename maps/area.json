@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Area",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#r4mh8z",
+      "name": "What area means",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hqcwxk",
+      "name": "Amount of flat surface a shape covers",
+      "x": -504,
+      "y": -62,
+      "parent": "#r4mh8z"
+    },
+    {
+      "@id": "#y5bzpy",
+      "name": "Counted in unit squares",
+      "x": -401,
+      "y": -163,
+      "parent": "#r4mh8z"
+    },
+    {
+      "@id": "#3g9equ",
+      "name": "Measured in square metres, acres, hectares",
+      "x": -318,
+      "y": -255,
+      "parent": "#r4mh8z"
+    },
+    {
+      "@id": "#khced5",
+      "name": "Basic formulas",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ydc44m",
+      "name": "Rectangle: length times width",
+      "x": -204,
+      "y": -321,
+      "parent": "#khced5"
+    },
+    {
+      "@id": "#4yyxue",
+      "name": "Triangle: half base times height",
+      "x": -73,
+      "y": -372,
+      "parent": "#khced5"
+    },
+    {
+      "@id": "#ar57zr",
+      "name": "Parallelogram: base times perpendicular height",
+      "x": 82,
+      "y": -420,
+      "parent": "#khced5"
+    },
+    {
+      "@id": "#vzntqg",
+      "name": "Trapezium: average of parallel sides times height",
+      "x": 204,
+      "y": -321,
+      "parent": "#khced5"
+    },
+    {
+      "@id": "#jd3de7",
+      "name": "Curved shapes",
+      "x": 205,
+      "y": -84,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#799pey",
+      "name": "Circle: pi times radius squared",
+      "x": 318,
+      "y": -255,
+      "parent": "#jd3de7"
+    },
+    {
+      "@id": "#a4kbgi",
+      "name": "Ellipse: pi times both semi-axes",
+      "x": 401,
+      "y": -163,
+      "parent": "#jd3de7"
+    },
+    {
+      "@id": "#7intfx",
+      "name": "Archimedes trapped circles between polygons",
+      "x": 524,
+      "y": -64,
+      "link": "https://en.wikipedia.org/wiki/Archimedes",
+      "parent": "#jd3de7"
+    },
+    {
+      "@id": "#azwti4",
+      "name": "Tricks for awkward shapes",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gv9ceh",
+      "name": "Split into rectangles and triangles",
+      "x": 444,
+      "y": 56,
+      "parent": "#azwti4"
+    },
+    {
+      "@id": "#qgg2rr",
+      "name": "Heron's formula uses three side lengths",
+      "x": 401,
+      "y": 163,
+      "link": "https://en.wikipedia.org/wiki/Heron%27s_formula",
+      "parent": "#azwti4"
+    },
+    {
+      "@id": "#r2a9ay",
+      "name": "Shoelace formula from corner coordinates",
+      "x": 318,
+      "y": 255,
+      "link": "https://en.wikipedia.org/wiki/Shoelace_formula",
+      "parent": "#azwti4"
+    },
+    {
+      "@id": "#jjbhqb",
+      "name": "Count grid squares to estimate",
+      "x": 204,
+      "y": 321,
+      "parent": "#azwti4"
+    },
+    {
+      "@id": "#mceitb",
+      "name": "Scaling and surfaces",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rr725p",
+      "name": "Double the lengths, quadruple the area",
+      "x": 73,
+      "y": 372,
+      "parent": "#mceitb"
+    },
+    {
+      "@id": "#uf26d7",
+      "name": "Surface area wraps 3D objects",
+      "x": -82,
+      "y": 420,
+      "parent": "#mceitb"
+    },
+    {
+      "@id": "#gxmt72",
+      "name": "Calculus finds area under curves",
+      "x": -204,
+      "y": 321,
+      "link": "https://en.wikipedia.org/wiki/Integral",
+      "parent": "#mceitb"
+    },
+    {
+      "@id": "#xxyb6c",
+      "name": "Everyday uses",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#egjs8k",
+      "name": "Flooring, paint and carpet quantities",
+      "x": -318,
+      "y": 255,
+      "parent": "#xxyb6c"
+    },
+    {
+      "@id": "#5biu7x",
+      "name": "Land and property sizes",
+      "x": -401,
+      "y": 163,
+      "parent": "#xxyb6c"
+    },
+    {
+      "@id": "#piyup2",
+      "name": "Ancient Egyptians remeasured fields after floods",
+      "x": -544,
+      "y": 66,
+      "parent": "#xxyb6c"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

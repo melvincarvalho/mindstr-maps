@@ -1,0 +1,320 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Printing",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#d79xey",
+      "name": "What printing is",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#s5735x",
+      "name": "Transferring ink from a master copy",
+      "x": -504,
+      "y": -62,
+      "parent": "#d79xey"
+    },
+    {
+      "@id": "#y2vjqf",
+      "name": "Text or images onto paper, cloth",
+      "x": -401,
+      "y": -163,
+      "parent": "#d79xey"
+    },
+    {
+      "@id": "#7628xe",
+      "name": "Makes many identical copies fast",
+      "x": -318,
+      "y": -255,
+      "parent": "#d79xey"
+    },
+    {
+      "@id": "#c9gq8i",
+      "name": "Early printing",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#iy6kpt",
+      "name": "Seals stamped clay in Mesopotamia",
+      "x": -204,
+      "y": -321,
+      "parent": "#c9gq8i"
+    },
+    {
+      "@id": "#izeb8n",
+      "name": "Chinese woodblock printing, 7th century",
+      "x": -73,
+      "y": -372,
+      "link": "https://en.wikipedia.org/wiki/Woodblock_printing",
+      "parent": "#c9gq8i"
+    },
+    {
+      "@id": "#9qrx7d",
+      "name": "Diamond Sutra, dated 868 AD",
+      "x": 82,
+      "y": -420,
+      "link": "https://en.wikipedia.org/wiki/Diamond_Sutra",
+      "parent": "#c9gq8i"
+    },
+    {
+      "@id": "#g4tci6",
+      "name": "Bi Sheng's clay movable type, 1040s",
+      "x": 204,
+      "y": -321,
+      "parent": "#c9gq8i"
+    },
+    {
+      "@id": "#v72gfd",
+      "name": "Gutenberg's press",
+      "x": 205,
+      "y": -84,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4hpj65",
+      "name": "Metal movable type, about 1440",
+      "x": 318,
+      "y": -255,
+      "parent": "#v72gfd"
+    },
+    {
+      "@id": "#5a8v8f",
+      "name": "Gutenberg Bible, about 1455",
+      "x": 401,
+      "y": -163,
+      "link": "https://en.wikipedia.org/wiki/Gutenberg_Bible",
+      "parent": "#v72gfd"
+    },
+    {
+      "@id": "#sq25yq",
+      "name": "Books spread ideas across Europe",
+      "x": 484,
+      "y": -60,
+      "parent": "#v72gfd"
+    },
+    {
+      "@id": "#ag7dv5",
+      "name": "Industrial printing",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c677fe",
+      "name": "Steam presses printed The Times, 1814",
+      "x": 444,
+      "y": 56,
+      "parent": "#ag7dv5"
+    },
+    {
+      "@id": "#vy256n",
+      "name": "Lithography: printing from flat stone",
+      "x": 401,
+      "y": 163,
+      "link": "https://en.wikipedia.org/wiki/Lithography",
+      "parent": "#ag7dv5"
+    },
+    {
+      "@id": "#q7hkx5",
+      "name": "Offset printing for books and magazines",
+      "x": 318,
+      "y": 255,
+      "parent": "#ag7dv5"
+    },
+    {
+      "@id": "#x6xicr",
+      "name": "Screen printing for T-shirts",
+      "x": 204,
+      "y": 321,
+      "parent": "#ag7dv5"
+    },
+    {
+      "@id": "#ysir57",
+      "name": "Colour printing",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xewjsa",
+      "name": "CMYK: cyan, magenta, yellow, black",
+      "x": 73,
+      "y": 372,
+      "parent": "#ysir57"
+    },
+    {
+      "@id": "#v23w9w",
+      "name": "Tiny halftone dots blend into colours",
+      "x": -82,
+      "y": 420,
+      "parent": "#ysir57"
+    },
+    {
+      "@id": "#6bk422",
+      "name": "Printing today",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tb6pqc",
+      "name": "Inkjets spray tiny ink droplets",
+      "x": -204,
+      "y": 321,
+      "parent": "#6bk422"
+    },
+    {
+      "@id": "#6skvxi",
+      "name": "Laser printers fuse toner with heat",
+      "x": -318,
+      "y": 255,
+      "parent": "#6bk422"
+    },
+    {
+      "@id": "#q72wiw",
+      "name": "Print-on-demand books",
+      "x": -401,
+      "y": 163,
+      "parent": "#6bk422"
+    },
+    {
+      "@id": "#4xpr9f",
+      "name": "3D printing builds objects layer by layer",
+      "x": -444,
+      "y": 56,
+      "link": "https://en.wikipedia.org/wiki/3D_printing",
+      "parent": "#6bk422"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,28 @@
+category: Philosophy and religion
+aliases: philosophy of being, what is ontology, ontology philosophy, study of being
+- Ontology
+  - What ontology asks
+    - What kinds of things exist?
+    - Greek for "the study of being"
+    - [Quine's "On What There Is" (1948)](https://en.wikipedia.org/wiki/On_What_There_Is)
+  - Categories of being
+    - [Aristotle listed ten categories](https://en.wikipedia.org/wiki/Categories_%28Aristotle%29)
+    - Objects, properties, relations, events
+    - Concrete things versus abstract ones
+  - Contested entities
+    - Do numbers exist outside our minds?
+    - Is a hole something or nothing?
+    - Does a nation exist beyond its people?
+    - In what sense does Sherlock Holmes exist?
+  - Parts and wholes
+    - Is a table more than its atoms?
+    - Mereology studies parts and wholes
+  - Main approaches
+    - Realism: things exist independently of us
+    - Nominalism: no abstract objects exist
+    - [Occam's razor: don't multiply entities](https://en.wikipedia.org/wiki/Occam%27s_razor)
+    - Heidegger: we forgot the question of Being
+  - Ontology in computing
+    - [Formal vocabularies of concepts and relations](https://en.wikipedia.org/wiki/Ontology_%28information_science%29)
+    - Gene Ontology classifies biological functions
+    - Lets computers share consistent meanings

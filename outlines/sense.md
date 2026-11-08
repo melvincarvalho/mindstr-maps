@@ -1,0 +1,32 @@
+category: Science
+aliases: human senses, five senses, sensory system, how senses work
+- Sense
+  - How senses work
+    - Receptors detect light, sound, chemicals, pressure
+    - Signals become nerve impulses
+    - Brain interprets them as perception
+  - The classic five
+    - [Sight: eyes detect light](https://en.wikipedia.org/wiki/Visual_perception)
+    - [Hearing: ears detect sound waves](https://en.wikipedia.org/wiki/Hearing)
+    - Taste: sweet, sour, salty, bitter, umami
+    - Smell: hundreds of odour receptor types
+    - Touch: pressure, vibration and texture
+  - Senses beyond five
+    - [Balance: inner ear's vestibular system](https://en.wikipedia.org/wiki/Vestibular_system)
+    - [Proprioception: knowing where limbs are](https://en.wikipedia.org/wiki/Proprioception)
+    - Temperature and pain have own receptors
+    - Interoception: hunger, thirst, heartbeat
+  - Senses work together
+    - Flavour combines taste and smell
+    - Brain fills gaps and makes illusions
+    - Losing one sense, others may adapt
+  - Common problems
+    - Short- and long-sightedness
+    - Cataracts and glaucoma affect vision
+    - Hearing loss from age or noise
+    - Loss of smell after infections
+  - Protecting your senses
+    - Regular eye and hearing tests
+    - Turn volume down, use ear protection
+    - Sunglasses that block UV light
+    - Wear safety glasses for risky work

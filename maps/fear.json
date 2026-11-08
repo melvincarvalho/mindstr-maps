@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Fear",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#dp3rhm",
+      "name": "What fear is",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vjqr3m",
+      "name": "Reaction to danger, real or imagined",
+      "x": -484,
+      "y": -60,
+      "parent": "#dp3rhm"
+    },
+    {
+      "@id": "#uv6gup",
+      "name": "Anxiety is fear of future threats",
+      "x": -401,
+      "y": -163,
+      "parent": "#dp3rhm"
+    },
+    {
+      "@id": "#xpwm4c",
+      "name": "Ranges from unease to terror",
+      "x": -318,
+      "y": -255,
+      "parent": "#dp3rhm"
+    },
+    {
+      "@id": "#jc9e2c",
+      "name": "Why we have it",
+      "x": -36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#97mxsx",
+      "name": "Keeps us away from danger",
+      "x": -204,
+      "y": -321,
+      "parent": "#jc9e2c"
+    },
+    {
+      "@id": "#j7xymk",
+      "name": "Some fears are inborn, like heights",
+      "x": -73,
+      "y": -372,
+      "parent": "#jc9e2c"
+    },
+    {
+      "@id": "#c75ein",
+      "name": "Others are learned from experience",
+      "x": 82,
+      "y": -420,
+      "parent": "#jc9e2c"
+    },
+    {
+      "@id": "#3mxbq9",
+      "name": "What happens in the body",
+      "x": 186,
+      "y": -108,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tiaxxc",
+      "name": "The amygdala sounds the alarm",
+      "x": 204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Amygdala",
+      "parent": "#3mxbq9"
+    },
+    {
+      "@id": "#kkrgiy",
+      "name": "Fight, flight or freeze responses",
+      "x": 318,
+      "y": -255,
+      "link": "https://en.wikipedia.org/wiki/Fight-or-flight_response",
+      "parent": "#3mxbq9"
+    },
+    {
+      "@id": "#r6spme",
+      "name": "Pounding heart, sweating, fast breathing",
+      "x": 401,
+      "y": -163,
+      "parent": "#3mxbq9"
+    },
+    {
+      "@id": "#k2stce",
+      "name": "Senses sharpen as adrenaline flows",
+      "x": 444,
+      "y": -56,
+      "parent": "#3mxbq9"
+    },
+    {
+      "@id": "#yyfwhd",
+      "name": "When fear goes wrong",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hjkwyw",
+      "name": "Phobias: intense fear of specific things",
+      "x": 444,
+      "y": 56,
+      "link": "https://en.wikipedia.org/wiki/Phobia",
+      "parent": "#yyfwhd"
+    },
+    {
+      "@id": "#4x88c5",
+      "name": "Panic attacks strike without real danger",
+      "x": 401,
+      "y": 163,
+      "parent": "#yyfwhd"
+    },
+    {
+      "@id": "#znic85",
+      "name": "Anxiety disorders affect daily life",
+      "x": 318,
+      "y": 255,
+      "parent": "#yyfwhd"
+    },
+    {
+      "@id": "#h2t2vp",
+      "name": "Trauma can leave lasting fear responses",
+      "x": 204,
+      "y": 321,
+      "parent": "#yyfwhd"
+    },
+    {
+      "@id": "#zwr2tn",
+      "name": "Facing fear healthily",
+      "x": -71,
+      "y": 175,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bsb4p6",
+      "name": "Gradual exposure shrinks fears over time",
+      "x": 73,
+      "y": 372,
+      "parent": "#zwr2tn"
+    },
+    {
+      "@id": "#i8iyig",
+      "name": "Slow breathing calms the alarm",
+      "x": -82,
+      "y": 420,
+      "parent": "#zwr2tn"
+    },
+    {
+      "@id": "#mwsfi5",
+      "name": "Question catastrophic thoughts",
+      "x": -204,
+      "y": 321,
+      "parent": "#zwr2tn"
+    },
+    {
+      "@id": "#33gmpa",
+      "name": "Avoidance makes fears grow stronger",
+      "x": -318,
+      "y": 255,
+      "parent": "#zwr2tn"
+    },
+    {
+      "@id": "#g6fjsw",
+      "name": "Getting help",
+      "x": -219,
+      "y": 57,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#beje7w",
+      "name": "Seek help if fear limits daily life",
+      "x": -401,
+      "y": 163,
+      "parent": "#g6fjsw"
+    },
+    {
+      "@id": "#n35uh9",
+      "name": "Cognitive behavioral therapy works well",
+      "x": -524,
+      "y": 64,
+      "link": "https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy",
+      "parent": "#g6fjsw"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

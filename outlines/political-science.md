@@ -1,0 +1,32 @@
+category: Society
+aliases: politics as a discipline, government studies, study of politics
+- Political science
+  - What it studies
+    - Power, government and policy
+    - How political systems work
+    - Why people act politically
+  - Main subfields
+    - [Comparative politics across countries](https://en.wikipedia.org/wiki/Comparative_politics)
+    - [International relations between states](https://en.wikipedia.org/wiki/International_relations)
+    - Political theory and philosophy
+    - Public policy and administration
+    - Domestic politics, e.g. elections, parliaments
+  - Classic thinkers
+    - Aristotle compared constitutions
+    - [Machiavelli's The Prince, 1532](https://en.wikipedia.org/wiki/The_Prince)
+    - Hobbes, Locke and Rousseau on social contracts
+    - Montesquieu on separation of powers
+  - Methods
+    - Surveys of voters and opinion
+    - Statistical analysis of election data
+    - Case studies and historical comparison
+    - [Game theory models strategic choices](https://en.wikipedia.org/wiki/Game_theory)
+  - Big questions
+    - Why democracies emerge or fail
+    - What causes war and peace
+    - How institutions shape outcomes
+    - Why people vote as they do
+  - Careers
+    - Government and civil service
+    - Journalism and polling
+    - Law, diplomacy and NGOs

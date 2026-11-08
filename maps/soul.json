@@ -1,0 +1,309 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Soul",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#xd9g9j",
+      "name": "The basic idea",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#int5w7",
+      "name": "The non-physical essence of a person",
+      "x": -484,
+      "y": -65,
+      "parent": "#xd9g9j"
+    },
+    {
+      "@id": "#8k2b3m",
+      "name": "Often thought to outlast the body",
+      "x": -396,
+      "y": -171,
+      "parent": "#xd9g9j"
+    },
+    {
+      "@id": "#a9ysm4",
+      "name": "Linked to mind, life and identity",
+      "x": -305,
+      "y": -265,
+      "parent": "#xd9g9j"
+    },
+    {
+      "@id": "#gd9yje",
+      "name": "Ancient ideas",
+      "x": -19,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wjrawh",
+      "name": "Plato: an immortal soul in three parts",
+      "x": -181,
+      "y": -330,
+      "link": "https://en.wikipedia.org/wiki/Plato",
+      "parent": "#gd9yje"
+    },
+    {
+      "@id": "#teexmf",
+      "name": "Aristotle: the soul is the body's form",
+      "x": -41,
+      "y": -391,
+      "parent": "#gd9yje"
+    },
+    {
+      "@id": "#husmbi",
+      "name": "Egyptians spoke of ka and ba",
+      "x": 140,
+      "y": -445,
+      "parent": "#gd9yje"
+    },
+    {
+      "@id": "#c5hn49",
+      "name": "In religions",
+      "x": 218,
+      "y": -60,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c4a5yk",
+      "name": "Christians believe the soul lives on",
+      "x": 246,
+      "y": -301,
+      "parent": "#c5hn49"
+    },
+    {
+      "@id": "#nc8ewj",
+      "name": "Muslims speak of the ruh, from God",
+      "x": 355,
+      "y": -221,
+      "parent": "#c5hn49"
+    },
+    {
+      "@id": "#4bdqu9",
+      "name": "Jewish thought names nefesh and neshamah",
+      "x": 426,
+      "y": -117,
+      "parent": "#c5hn49"
+    },
+    {
+      "@id": "#w46bki",
+      "name": "Hindus believe the atman is eternal",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/%C4%80tman_%28Hinduism%29",
+      "parent": "#c5hn49"
+    },
+    {
+      "@id": "#wgwf8t",
+      "name": "Buddhists teach anatta: no fixed self",
+      "x": 426,
+      "y": 117,
+      "link": "https://en.wikipedia.org/wiki/Anatta",
+      "parent": "#c5hn49"
+    },
+    {
+      "@id": "#2955dk",
+      "name": "Philosophy of mind",
+      "x": 137,
+      "y": 167,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jiebg5",
+      "name": "Descartes: mind and body are distinct",
+      "x": 355,
+      "y": 221,
+      "link": "https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism",
+      "parent": "#2955dk"
+    },
+    {
+      "@id": "#me2xer",
+      "name": "Physicalism: mind arises from the brain",
+      "x": 246,
+      "y": 301,
+      "parent": "#2955dk"
+    },
+    {
+      "@id": "#ca7tqh",
+      "name": "The mind–body problem remains debated",
+      "x": 110,
+      "y": 349,
+      "link": "https://en.wikipedia.org/wiki/Mind%E2%80%93body_problem",
+      "parent": "#2955dk"
+    },
+    {
+      "@id": "#xgae26",
+      "name": "Science's view",
+      "x": -92,
+      "y": 169,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2gcqqs",
+      "name": "Neuroscience links thoughts to brain activity",
+      "x": -43,
+      "y": 407,
+      "parent": "#xgae26"
+    },
+    {
+      "@id": "#4igbcw",
+      "name": "No agreed scientific test for a soul",
+      "x": -253,
+      "y": 465,
+      "parent": "#xgae26"
+    },
+    {
+      "@id": "#tw3636",
+      "name": "Consciousness is not yet fully explained",
+      "x": -305,
+      "y": 265,
+      "parent": "#xgae26"
+    },
+    {
+      "@id": "#uyfgqk",
+      "name": "In everyday language",
+      "x": -218,
+      "y": 60,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5wq6mw",
+      "name": "\"Soul\" also means deep feeling",
+      "x": -396,
+      "y": 171,
+      "parent": "#uyfgqk"
+    },
+    {
+      "@id": "#vtee6r",
+      "name": "Soul music, soul food, soulmates",
+      "x": -504,
+      "y": 68,
+      "parent": "#uyfgqk"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 9,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

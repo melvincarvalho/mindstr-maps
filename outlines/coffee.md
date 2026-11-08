@@ -1,0 +1,31 @@
+category: Life and home
+aliases: coffee beans, cup of coffee, how coffee is made
+- Coffee
+  - Where coffee comes from
+    - Roasted seeds of coffee cherries
+    - [Arabica: smoother, most of production](https://en.wikipedia.org/wiki/Coffea_arabica)
+    - Robusta: stronger, more caffeine
+    - Grows in the tropical "bean belt"
+    - Brazil is the largest producer
+  - History
+    - Originated in Ethiopia's highlands
+    - Drunk in Yemen by the 1400s
+    - Coffee houses spread across Europe 1600s
+  - From cherry to cup
+    - Picked, processed, dried
+    - Roasting creates flavour and colour
+    - Grind just before brewing
+  - Ways to brew
+    - Filter and pour-over
+    - French press steeps coarse grounds
+    - [Espresso forces hot water under pressure](https://en.wikipedia.org/wiki/Espresso)
+    - Latte, cappuccino: espresso plus milk
+    - Instant coffee is dried brew
+  - Caffeine and health
+    - [Caffeine blocks sleepiness signals](https://en.wikipedia.org/wiki/Caffeine)
+    - Most adults: up to 400 mg daily
+    - Avoid late in the day
+    - Less advised in pregnancy
+  - Fair trade and sustainability
+    - Many growers are small farmers
+    - [Fairtrade aims for fairer prices](https://en.wikipedia.org/wiki/Fair_trade)

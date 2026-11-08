@@ -1,0 +1,29 @@
+category: Society
+aliases: oral literature, oral storytelling, spoken tradition
+- Oral tradition
+  - What it is
+    - Knowledge passed on by speech
+    - Stories, songs, laws and genealogies
+    - Main way culture survived before writing
+  - Forms
+    - Epic poems and sung verse
+    - Myths, legends and folk tales
+    - Proverbs and sayings
+    - Genealogies and praise poetry
+  - Keepers of tradition
+    - [Griots of West Africa](https://en.wikipedia.org/wiki/Griot)
+    - Bards and skalds in Europe
+    - Elders and storytellers in communities
+  - How memory works
+    - [Stock formulas and phrases aid recall](https://en.wikipedia.org/wiki/Oral-formulaic_composition)
+    - Rhythm, rhyme and repetition
+    - Each performance varies slightly
+  - Famous examples
+    - [Homer's epics began as oral poetry](https://en.wikipedia.org/wiki/Homer)
+    - [Vedas memorized for about 3,000 years](https://en.wikipedia.org/wiki/Vedas)
+    - Aboriginal Australian Dreaming stories
+    - Epic of Sundiata from Mali
+  - Study and preservation
+    - Parry and Lord studied Yugoslav singers
+    - Recorded and archived by researchers
+    - Used as evidence in land claims

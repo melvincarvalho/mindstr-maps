@@ -1,0 +1,32 @@
+category: People
+aliases: chinggis khan, temujin, genghis khan biography
+- Genghis Khan
+  - Early life on the steppe
+    - Born Temüjin around 1162
+    - Father poisoned when he was a boy
+    - Family abandoned and lived in poverty
+    - Rose through alliances and rival wars
+  - Uniting the Mongols
+    - Defeated rivals Jamukha and the Keraites
+    - Proclaimed Genghis Khan in 1206
+    - Army organised in decimal units
+    - [Yassa law code bound the tribes](https://en.wikipedia.org/wiki/Yassa)
+  - Conquests
+    - Western Xia submitted from 1209
+    - Took Zhongdu (Beijing) from Jin, 1215
+    - Destroyed the Khwarazmian Empire, 1219–1221
+    - Cities resisting were often massacred
+  - How he ruled
+    - Promoted by merit and loyalty
+    - Religious tolerance across the empire
+    - Yam relay system carried messages
+    - Adopted Uyghur script for Mongolian
+  - Death and succession
+    - Died in 1227 during Xi Xia campaign
+    - Burial place still unknown
+    - Son Ögedei became Great Khan
+  - Legacy
+    - [Mongol Empire became largest contiguous empire](https://en.wikipedia.org/wiki/Mongol_Empire)
+    - Pax Mongolica revived Silk Road trade
+    - Millions died in the conquests
+    - National hero in modern Mongolia

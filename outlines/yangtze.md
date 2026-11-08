@@ -1,0 +1,30 @@
+category: Geography
+aliases: yangtze river, chang jiang, yangtse river, changjiang
+- Yangtze
+  - Course
+    - Rises on the Tibetan Plateau
+    - About 6,300 km long
+    - Longest river in Asia
+    - Reaches the East China Sea at Shanghai
+  - Landscapes
+    - Jinsha River through deep mountain gorges
+    - Three Gorges between Chongqing and Yichang
+    - Wide lakes and plains downstream
+  - Three Gorges Dam
+    - [World's largest power station by capacity](https://en.wikipedia.org/wiki/Three_Gorges_Dam)
+    - Fully operational in 2012
+    - Over a million people relocated
+    - Controls floods and aids shipping
+  - Economy
+    - Basin holds about a third of Chinese
+    - Rice bowl of China
+    - Busiest inland waterway in the world
+    - Cities include Chongqing, Wuhan, Nanjing
+  - History and culture
+    - Divides north and south China
+    - [Early rice farming along the river](https://en.wikipedia.org/wiki/Hemudu_culture)
+    - Floods of 1931 killed vast numbers
+  - Wildlife
+    - [Baiji dolphin declared functionally extinct](https://en.wikipedia.org/wiki/Baiji)
+    - Yangtze finless porpoise endangered
+    - Ten-year fishing ban from 2021

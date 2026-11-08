@@ -1,0 +1,30 @@
+category: People
+aliases: gaius julius caesar, julius caesar biography, caesar the dictator
+- Julius Caesar
+  - Who he was
+    - Roman general and statesman
+    - Born 100 BC to a patrician family
+    - Brilliant speaker and writer
+  - Rise to power
+    - [First Triumvirate with Pompey and Crassus](https://en.wikipedia.org/wiki/First_Triumvirate)
+    - Consul of Rome in 59 BC
+  - [Conquest of Gaul](https://en.wikipedia.org/wiki/Gallic_Wars)
+    - Gallic Wars, 58 to 50 BC
+    - Beat Vercingetorix at Alesia, 52 BC
+    - First Roman crossings to Britain
+    - Wrote his own account, Commentaries
+  - Civil war
+    - [Crossed the Rubicon in 49 BC](https://en.wikipedia.org/wiki/Crossing_the_Rubicon)
+    - Defeated Pompey at Pharsalus, 48 BC
+    - Allied with Cleopatra in Egypt
+    - "Veni, vidi, vici" after Zela
+  - Dictator
+    - Named dictator for life in 44 BC
+    - [Introduced the Julian calendar](https://en.wikipedia.org/wiki/Julian_calendar)
+    - Land, debt and citizenship reforms
+  - Death and legacy
+    - [Assassinated on the Ides of March](https://en.wikipedia.org/wiki/Assassination_of_Julius_Caesar)
+    - Brutus and Cassius led the plotters
+    - Heir Octavian became Emperor Augustus
+    - Month of July named after him
+    - Caesar became a title: Kaiser, Tsar

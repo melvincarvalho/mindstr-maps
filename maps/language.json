@@ -1,0 +1,353 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Language",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#p8eev9",
+      "name": "What makes language special",
+      "x": -197,
+      "y": -96,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8hjj8g",
+      "name": "Finite words, endless possible sentences",
+      "x": -546,
+      "y": -59,
+      "parent": "#p8eev9"
+    },
+    {
+      "@id": "#63wehv",
+      "name": "Arbitrary sounds paired with meanings",
+      "x": -431,
+      "y": -149,
+      "parent": "#p8eev9"
+    },
+    {
+      "@id": "#95yb96",
+      "name": "Talks about past, future and imaginary",
+      "x": -349,
+      "y": -227,
+      "parent": "#p8eev9"
+    },
+    {
+      "@id": "#7sxvip",
+      "name": "Sign languages are full languages",
+      "x": -260,
+      "y": -294,
+      "link": "https://en.wikipedia.org/wiki/Sign_language",
+      "parent": "#p8eev9"
+    },
+    {
+      "@id": "#m9k879",
+      "name": "How language is structured",
+      "x": 16,
+      "y": -184,
+      "link": "https://en.wikipedia.org/wiki/Linguistics",
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nw5qga",
+      "name": "Phonology: the sound system",
+      "x": -158,
+      "y": -354,
+      "parent": "#m9k879"
+    },
+    {
+      "@id": "#se578h",
+      "name": "Morphology: how words are built",
+      "x": -34,
+      "y": -407,
+      "parent": "#m9k879"
+    },
+    {
+      "@id": "#qiresh",
+      "name": "Syntax: how sentences are ordered",
+      "x": 120,
+      "y": -464,
+      "parent": "#m9k879"
+    },
+    {
+      "@id": "#8pcqv8",
+      "name": "Semantics and pragmatics: meaning in context",
+      "x": 216,
+      "y": -334,
+      "parent": "#m9k879"
+    },
+    {
+      "@id": "#b4akig",
+      "name": "The world's languages",
+      "x": 211,
+      "y": -73,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2qsnku",
+      "name": "About 7,000 spoken today",
+      "x": 307,
+      "y": -263,
+      "parent": "#b4akig"
+    },
+    {
+      "@id": "#2iemdi",
+      "name": "Language families share common ancestors",
+      "x": 384,
+      "y": -187,
+      "link": "https://en.wikipedia.org/wiki/Language_family",
+      "parent": "#b4akig"
+    },
+    {
+      "@id": "#u2j43x",
+      "name": "Indo-European has the most speakers",
+      "x": 528,
+      "y": -117,
+      "parent": "#b4akig"
+    },
+    {
+      "@id": "#x5jpy7",
+      "name": "Around 40% are endangered",
+      "x": 450,
+      "y": 0,
+      "parent": "#b4akig"
+    },
+    {
+      "@id": "#c756c5",
+      "name": "Origins and change",
+      "x": 197,
+      "y": 96,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qqbjt8",
+      "name": "Spoken origins unknown and debated",
+      "x": 509,
+      "y": 113,
+      "link": "https://en.wikipedia.org/wiki/Origin_of_language",
+      "parent": "#c756c5"
+    },
+    {
+      "@id": "#k77rvz",
+      "name": "Writing invented about 5,000 years ago",
+      "x": 384,
+      "y": 187,
+      "parent": "#c756c5"
+    },
+    {
+      "@id": "#jtucit",
+      "name": "Languages change constantly, then split",
+      "x": 307,
+      "y": 263,
+      "parent": "#c756c5"
+    },
+    {
+      "@id": "#txb739",
+      "name": "How children learn it",
+      "x": -16,
+      "y": 184,
+      "link": "https://en.wikipedia.org/wiki/Language_acquisition",
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4wfy6a",
+      "name": "Babbling at about six months",
+      "x": 207,
+      "y": 320,
+      "parent": "#txb739"
+    },
+    {
+      "@id": "#8rxnyj",
+      "name": "First words around one year",
+      "x": 96,
+      "y": 368,
+      "parent": "#txb739"
+    },
+    {
+      "@id": "#bvuxqc",
+      "name": "Two-word phrases around two",
+      "x": -35,
+      "y": 423,
+      "parent": "#txb739"
+    },
+    {
+      "@id": "#ze2ief",
+      "name": "Easiest to master when young",
+      "x": -214,
+      "y": 474,
+      "parent": "#txb739"
+    },
+    {
+      "@id": "#9j79ut",
+      "name": "Innate grammar or general learning? Debated",
+      "x": -260,
+      "y": 294,
+      "parent": "#txb739"
+    },
+    {
+      "@id": "#he9zrd",
+      "name": "Language and the brain",
+      "x": -211,
+      "y": 73,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#232v29",
+      "name": "Broca's area helps produce speech",
+      "x": -349,
+      "y": 227,
+      "parent": "#he9zrd"
+    },
+    {
+      "@id": "#7w5t2y",
+      "name": "Wernicke's area helps understand it",
+      "x": -413,
+      "y": 143,
+      "parent": "#he9zrd"
+    },
+    {
+      "@id": "#ihftrb",
+      "name": "Brain damage can cause aphasia",
+      "x": -506,
+      "y": 55,
+      "parent": "#he9zrd"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 20,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    },
+    {
+      "start": 26,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

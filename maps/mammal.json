@@ -1,0 +1,329 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Mammal",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#k25ybn",
+      "name": "What makes a mammal",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9zyeg8",
+      "name": "Mothers feed young with milk",
+      "x": -445,
+      "y": -54,
+      "link": "https://en.wikipedia.org/wiki/Mammary_gland",
+      "parent": "#k25ybn"
+    },
+    {
+      "@id": "#zaj2uc",
+      "name": "Hair or fur at some life stage",
+      "x": -405,
+      "y": -156,
+      "parent": "#k25ybn"
+    },
+    {
+      "@id": "#z9e8vr",
+      "name": "Warm-blooded with a large brain",
+      "x": -330,
+      "y": -245,
+      "parent": "#k25ybn"
+    },
+    {
+      "@id": "#4swyyb",
+      "name": "Three tiny middle-ear bones",
+      "x": -225,
+      "y": -312,
+      "parent": "#k25ybn"
+    },
+    {
+      "@id": "#yzwav3",
+      "name": "Three groups",
+      "x": 17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9qwq8y",
+      "name": "Monotremes lay eggs: platypus, echidnas",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Monotreme",
+      "parent": "#yzwav3"
+    },
+    {
+      "@id": "#7sdkrp",
+      "name": "Marsupials raise young in pouches",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Marsupial",
+      "parent": "#yzwav3"
+    },
+    {
+      "@id": "#d72sz2",
+      "name": "Placentals: nearly all other mammals",
+      "x": 234,
+      "y": -485,
+      "parent": "#yzwav3"
+    },
+    {
+      "@id": "#qrgsmi",
+      "name": "Diversity",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cspnf8",
+      "name": "About 6,500 living species",
+      "x": 281,
+      "y": -281,
+      "parent": "#qrgsmi"
+    },
+    {
+      "@id": "#bq5nge",
+      "name": "Rodents and bats are most of them",
+      "x": 372,
+      "y": -203,
+      "parent": "#qrgsmi"
+    },
+    {
+      "@id": "#9f5p2h",
+      "name": "Blue whale is largest animal ever",
+      "x": 468,
+      "y": -116,
+      "parent": "#qrgsmi"
+    },
+    {
+      "@id": "#ummx79",
+      "name": "Bats are the only flying mammals",
+      "x": 450,
+      "y": 0,
+      "parent": "#qrgsmi"
+    },
+    {
+      "@id": "#5y7mhn",
+      "name": "History",
+      "x": 169,
+      "y": 125,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dhkw3s",
+      "name": "First mammals, about 200 million years ago",
+      "x": 449,
+      "y": 111,
+      "parent": "#5y7mhn"
+    },
+    {
+      "@id": "#g4d7gb",
+      "name": "Small and nocturnal alongside dinosaurs",
+      "x": 372,
+      "y": 203,
+      "parent": "#5y7mhn"
+    },
+    {
+      "@id": "#brinvu",
+      "name": "Spread out after dinosaurs died out",
+      "x": 281,
+      "y": 281,
+      "parent": "#5y7mhn"
+    },
+    {
+      "@id": "#7myu6f",
+      "name": "Humans are primates, a mammal order",
+      "x": 164,
+      "y": 335,
+      "parent": "#5y7mhn"
+    },
+    {
+      "@id": "#h4q32g",
+      "name": "Behaviour",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6ma8tb",
+      "name": "Long parental care of young",
+      "x": 38,
+      "y": 391,
+      "parent": "#h4q32g"
+    },
+    {
+      "@id": "#bgi5y3",
+      "name": "Many live in social groups",
+      "x": -124,
+      "y": 447,
+      "parent": "#h4q32g"
+    },
+    {
+      "@id": "#cqkmn3",
+      "name": "Some hibernate through winter",
+      "x": -225,
+      "y": 312,
+      "parent": "#h4q32g"
+    },
+    {
+      "@id": "#jz7w3k",
+      "name": "Mammals and humans",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tt2fkd",
+      "name": "Dogs, cattle, horses and others domesticated",
+      "x": -330,
+      "y": 245,
+      "parent": "#jz7w3k"
+    },
+    {
+      "@id": "#8mviw9",
+      "name": "Livestock provide meat, milk and labour",
+      "x": -405,
+      "y": 156,
+      "parent": "#jz7w3k"
+    },
+    {
+      "@id": "#dnx3jt",
+      "name": "Many large mammals hunted to extinction",
+      "x": -525,
+      "y": 62,
+      "parent": "#jz7w3k"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

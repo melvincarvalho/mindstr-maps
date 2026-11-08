@@ -1,0 +1,34 @@
+category: Geography
+aliases: canada country, about canada
+- Canada
+  - Geography
+    - Second-largest country by area
+    - Longest coastline of any country
+    - Longest land border, with the United States
+    - [Rocky Mountains, prairies and Canadian Shield](https://en.wikipedia.org/wiki/Canadian_Shield)
+    - Arctic north with tundra and islands
+  - People and languages
+    - About 41 million people
+    - Most live near the US border
+    - English and French are both official
+    - Toronto, Montreal and Vancouver largest cities
+  - History
+    - [First Nations, Inuit and Métis peoples](https://en.wikipedia.org/wiki/Indigenous_peoples_in_Canada)
+    - New France settled from the 1600s
+    - Britain took control in 1763
+    - [Confederation of provinces in 1867](https://en.wikipedia.org/wiki/Canadian_Confederation)
+    - [Residential schools harmed Indigenous children](https://en.wikipedia.org/wiki/Canadian_Indian_residential_school_system)
+    - Constitution fully patriated in 1982
+  - Government
+    - Constitutional monarchy under King Charles III
+    - Federal Parliament meets in Ottawa
+    - Prime Minister leads the government
+    - Ten provinces and three territories
+  - Economy
+    - Oil, gas, minerals and timber
+    - United States is the main trading partner
+    - Currency is the Canadian dollar
+  - Culture
+    - Ice hockey is the winter national sport
+    - Quebec's distinct French-speaking culture
+    - Multiculturalism official policy since 1971

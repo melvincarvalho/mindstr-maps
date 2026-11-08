@@ -1,0 +1,30 @@
+category: History
+aliases: study of history, what is history, historical method
+- History
+  - What history studies
+    - The human past, told through evidence
+    - [Written records begin about 3200 BC](https://en.wikipedia.org/wiki/History_of_writing)
+    - Prehistory covers the time before writing
+  - Sources historians use
+    - Primary sources from the time
+    - Secondary sources interpret them
+    - Archaeology, oral history and DNA
+  - How historians work
+    - [Check sources for bias and reliability](https://en.wikipedia.org/wiki/Historical_method)
+    - Weigh causes and consequences
+    - Interpretations change with new evidence
+    - [Herodotus, the "Father of History"](https://en.wikipedia.org/wiki/Herodotus)
+    - [Historiography: the history of history-writing](https://en.wikipedia.org/wiki/Historiography)
+  - Ways to divide time
+    - Ancient, medieval and modern
+    - BC/AD or BCE/CE dating
+    - Eras named for dynasties or rulers
+  - Branches of history
+    - Political and military history
+    - Social and economic history
+    - Cultural and intellectual history
+    - Environmental and global history
+  - Why it matters
+    - Explains how the present came about
+    - Shapes national and group identities
+    - Trains judging evidence and arguments

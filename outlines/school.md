@@ -1,0 +1,30 @@
+category: Society
+aliases: schools, schooling, school system
+- School
+  - What schools do
+    - Teach core subjects and skills
+    - Help children socialise and make friends
+    - Childcare that lets parents work
+  - Levels
+    - Preschool or kindergarten
+    - [Primary school, roughly ages 5–11](https://en.wikipedia.org/wiki/Primary_school)
+    - [Secondary school, roughly ages 11–18](https://en.wikipedia.org/wiki/Secondary_school)
+  - Types of school
+    - State schools funded by taxes
+    - Private and independent schools
+    - Religious and faith schools
+    - Boarding schools
+    - [Homeschooling as an alternative](https://en.wikipedia.org/wiki/Homeschooling)
+  - Inside a school
+    - Teachers, head teacher and support staff
+    - [A curriculum sets what's taught](https://en.wikipedia.org/wiki/Curriculum)
+    - Timetable of lessons and breaks
+    - Exams and qualifications
+  - History
+    - Ancient schools trained scribes and elites
+    - Compulsory schooling spread in the 1800s
+    - UN goal: every child in school
+  - Common challenges
+    - Class sizes and teacher shortages
+    - Bullying and student wellbeing
+    - Unequal funding between areas

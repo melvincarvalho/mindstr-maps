@@ -1,0 +1,29 @@
+category: Society
+aliases: what is marketing, marketing basics, marketing explained, principles of marketing
+- Marketing
+  - Understanding customers
+    - [Market research finds needs and wants](https://en.wikipedia.org/wiki/Market_research)
+    - Segmenting customers into groups
+    - Choosing target markets to serve
+  - Positioning and brand
+    - Positioning: why choose us over rivals
+    - [A brand is a name and reputation](https://en.wikipedia.org/wiki/Brand)
+    - Value proposition promises a clear benefit
+  - [The four Ps marketing mix](https://en.wikipedia.org/wiki/Marketing_mix)
+    - Product: what is offered
+    - Price: what customers pay
+    - Place: where and how it's sold
+    - Promotion: how people hear about it
+  - Reaching people
+    - [Advertising in paid media](https://en.wikipedia.org/wiki/Advertising)
+    - Public relations and press coverage
+    - Search, social media and email
+    - Word of mouth and recommendations
+  - Measuring results
+    - Customer acquisition cost
+    - Conversion rates and sales growth
+    - Customer lifetime value and loyalty
+  - Rules and ethics
+    - Ads must not mislead
+    - Consent needed for personal data
+    - Extra limits on marketing to children

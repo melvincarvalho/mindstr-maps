@@ -1,0 +1,340 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Islamic Golden Age",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#g9j4m8",
+      "name": "When and where",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yyrqvh",
+      "name": "Roughly 8th to 13th centuries",
+      "x": -445,
+      "y": -51,
+      "parent": "#g9j4m8"
+    },
+    {
+      "@id": "#duteuc",
+      "name": "Centred on Abbasid Baghdad",
+      "x": -409,
+      "y": -150,
+      "link": "https://en.wikipedia.org/wiki/Abbasid_Caliphate",
+      "parent": "#g9j4m8"
+    },
+    {
+      "@id": "#fp2x7e",
+      "name": "Also Córdoba, Cairo and Bukhara",
+      "x": -340,
+      "y": -236,
+      "parent": "#g9j4m8"
+    },
+    {
+      "@id": "#6bzu8t",
+      "name": "Ends with Mongol sack of Baghdad, 1258",
+      "x": -243,
+      "y": -303,
+      "parent": "#g9j4m8"
+    },
+    {
+      "@id": "#gr4s7h",
+      "name": "What made it possible",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jcvira",
+      "name": "House of Wisdom in Baghdad",
+      "x": -133,
+      "y": -360,
+      "link": "https://en.wikipedia.org/wiki/House_of_Wisdom",
+      "parent": "#gr4s7h"
+    },
+    {
+      "@id": "#zz29ny",
+      "name": "Translating Greek, Persian and Indian works",
+      "x": 0,
+      "y": -408,
+      "parent": "#gr4s7h"
+    },
+    {
+      "@id": "#wpnc9j",
+      "name": "Paper-making learned from China",
+      "x": 175,
+      "y": -465,
+      "parent": "#gr4s7h"
+    },
+    {
+      "@id": "#a8hyyw",
+      "name": "Trade routes linking three continents",
+      "x": 243,
+      "y": -303,
+      "parent": "#gr4s7h"
+    },
+    {
+      "@id": "#rj26as",
+      "name": "Mathematics and astronomy",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#59gi6q",
+      "name": "Al-Khwarizmi founds algebra",
+      "x": 340,
+      "y": -236,
+      "link": "https://en.wikipedia.org/wiki/Muhammad_ibn_Musa_al-Khwarizmi",
+      "parent": "#rj26as"
+    },
+    {
+      "@id": "#tfm7pk",
+      "name": "Hindu–Arabic numerals spread westward",
+      "x": 409,
+      "y": -150,
+      "parent": "#rj26as"
+    },
+    {
+      "@id": "#t6538i",
+      "name": "Observatories improved star tables",
+      "x": 545,
+      "y": -61,
+      "parent": "#rj26as"
+    },
+    {
+      "@id": "#h3zqhx",
+      "name": "Astrolabes refined for navigation and prayer",
+      "x": 445,
+      "y": 51,
+      "parent": "#rj26as"
+    },
+    {
+      "@id": "#v4nrat",
+      "name": "Medicine and science",
+      "x": 151,
+      "y": 139,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t9sphc",
+      "name": "Ibn Sina's Canon of Medicine",
+      "x": 427,
+      "y": 157,
+      "parent": "#v4nrat"
+    },
+    {
+      "@id": "#5q87y3",
+      "name": "Public hospitals with trained physicians",
+      "x": 340,
+      "y": 236,
+      "parent": "#v4nrat"
+    },
+    {
+      "@id": "#3q65re",
+      "name": "Ibn al-Haytham's experiments on optics",
+      "x": 243,
+      "y": 303,
+      "parent": "#v4nrat"
+    },
+    {
+      "@id": "#6m8uyy",
+      "name": "Al-Razi distinguishes smallpox from measles",
+      "x": 133,
+      "y": 360,
+      "parent": "#v4nrat"
+    },
+    {
+      "@id": "#qwq44x",
+      "name": "Philosophy and culture",
+      "x": -71,
+      "y": 192,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ik9y5e",
+      "name": "Al-Farabi and Ibn Rushd on Aristotle",
+      "x": 0,
+      "y": 408,
+      "parent": "#qwq44x"
+    },
+    {
+      "@id": "#65eeuj",
+      "name": "One Thousand and One Nights collected",
+      "x": -175,
+      "y": 465,
+      "parent": "#qwq44x"
+    },
+    {
+      "@id": "#sskedu",
+      "name": "Geometric art and grand mosques",
+      "x": -243,
+      "y": 303,
+      "parent": "#qwq44x"
+    },
+    {
+      "@id": "#fz2ba3",
+      "name": "Legacy",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rza3mb",
+      "name": "Arabic texts translated into Latin",
+      "x": -355,
+      "y": 246,
+      "parent": "#fz2ba3"
+    },
+    {
+      "@id": "#di4jbr",
+      "name": "Words like algebra, algorithm, alchemy",
+      "x": -409,
+      "y": 150,
+      "parent": "#fz2ba3"
+    },
+    {
+      "@id": "#5x6yud",
+      "name": "Helped spark Europe's later Renaissance",
+      "x": -465,
+      "y": 53,
+      "parent": "#fz2ba3"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

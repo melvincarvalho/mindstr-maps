@@ -1,0 +1,342 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Drug",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#pv3iw6",
+      "name": "What a drug is",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b9xm6g",
+      "name": "Substance that changes how the body works",
+      "x": -525,
+      "y": -59,
+      "parent": "#pv3iw6"
+    },
+    {
+      "@id": "#k4egsf",
+      "name": "Medicines treat or prevent disease",
+      "x": -409,
+      "y": -150,
+      "parent": "#pv3iw6"
+    },
+    {
+      "@id": "#yzp5hi",
+      "name": "Recreational drugs taken for their effects",
+      "x": -340,
+      "y": -236,
+      "parent": "#pv3iw6"
+    },
+    {
+      "@id": "#8bbap8",
+      "name": "How drugs work",
+      "x": -65,
+      "y": -177,
+      "link": "https://en.wikipedia.org/wiki/Pharmacology",
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kc62ju",
+      "name": "Bind to receptors or enzymes",
+      "x": -243,
+      "y": -303,
+      "parent": "#8bbap8"
+    },
+    {
+      "@id": "#ch72a8",
+      "name": "Dose determines effect and harm",
+      "x": -133,
+      "y": -360,
+      "parent": "#8bbap8"
+    },
+    {
+      "@id": "#hsb2gq",
+      "name": "Liver breaks down, kidneys excrete",
+      "x": 0,
+      "y": -408,
+      "parent": "#8bbap8"
+    },
+    {
+      "@id": "#ekjjxw",
+      "name": "Psychoactive drug classes",
+      "x": 190,
+      "y": -175,
+      "link": "https://en.wikipedia.org/wiki/Psychoactive_drug",
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t8si9n",
+      "name": "Depressants: alcohol, opioids, benzodiazepines",
+      "x": 175,
+      "y": -465,
+      "parent": "#ekjjxw"
+    },
+    {
+      "@id": "#rwubwq",
+      "name": "Stimulants: caffeine, nicotine, cocaine",
+      "x": 243,
+      "y": -303,
+      "parent": "#ekjjxw"
+    },
+    {
+      "@id": "#txqryx",
+      "name": "Hallucinogens: LSD, psilocybin",
+      "x": 340,
+      "y": -236,
+      "parent": "#ekjjxw"
+    },
+    {
+      "@id": "#eqq4d7",
+      "name": "Cannabis has mixed effects",
+      "x": 481,
+      "y": -178,
+      "parent": "#ekjjxw"
+    },
+    {
+      "@id": "#rrm58a",
+      "name": "Risks and harms",
+      "x": 221,
+      "y": 52,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2i6rix",
+      "name": "Tolerance and dependence",
+      "x": 445,
+      "y": -51,
+      "link": "https://en.wikipedia.org/wiki/Substance_dependence",
+      "parent": "#rrm58a"
+    },
+    {
+      "@id": "#6iibk3",
+      "name": "Overdose risk, especially mixing depressants",
+      "x": 545,
+      "y": 61,
+      "parent": "#rrm58a"
+    },
+    {
+      "@id": "#ysedfj",
+      "name": "Street drugs vary in strength, purity",
+      "x": 409,
+      "y": 150,
+      "parent": "#rrm58a"
+    },
+    {
+      "@id": "#mzzqb4",
+      "name": "Tobacco and alcohol cause most drug deaths",
+      "x": 340,
+      "y": 236,
+      "parent": "#rrm58a"
+    },
+    {
+      "@id": "#vi9s24",
+      "name": "Law and regulation",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#upa5yu",
+      "name": "Medicines tested and licensed before sale",
+      "x": 243,
+      "y": 303,
+      "parent": "#vi9s24"
+    },
+    {
+      "@id": "#mgweun",
+      "name": "UN treaties control many drugs",
+      "x": 133,
+      "y": 360,
+      "link": "https://en.wikipedia.org/wiki/Single_Convention_on_Narcotic_Drugs",
+      "parent": "#vi9s24"
+    },
+    {
+      "@id": "#u2busu",
+      "name": "Laws vary widely by country",
+      "x": 0,
+      "y": 408,
+      "parent": "#vi9s24"
+    },
+    {
+      "@id": "#qd5tx2",
+      "name": "Portugal decriminalised personal possession, 2001",
+      "x": -175,
+      "y": 465,
+      "parent": "#vi9s24"
+    },
+    {
+      "@id": "#giagw6",
+      "name": "Help and harm reduction",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gw73ae",
+      "name": "Naloxone reverses opioid overdose",
+      "x": -243,
+      "y": 303,
+      "parent": "#giagw6"
+    },
+    {
+      "@id": "#8d9r5i",
+      "name": "Treatment helps; many people recover",
+      "x": -340,
+      "y": 236,
+      "parent": "#giagw6"
+    },
+    {
+      "@id": "#aqmn9a",
+      "name": "Harm reduction: needle exchange, drug checking",
+      "x": -409,
+      "y": 150,
+      "link": "https://en.wikipedia.org/wiki/Harm_reduction",
+      "parent": "#giagw6"
+    },
+    {
+      "@id": "#udn5rg",
+      "name": "Doctors, helplines and support services",
+      "x": -445,
+      "y": 51,
+      "parent": "#giagw6"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

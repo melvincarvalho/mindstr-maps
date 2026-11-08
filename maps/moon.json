@@ -1,0 +1,307 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Moon",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#kcwbav",
+      "name": "Size and orbit",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3m7t6x",
+      "name": "About a quarter of Earth's width",
+      "x": -444,
+      "y": -56,
+      "parent": "#kcwbav"
+    },
+    {
+      "@id": "#qbtuus",
+      "name": "About 384,000 km from Earth",
+      "x": -401,
+      "y": -163,
+      "parent": "#kcwbav"
+    },
+    {
+      "@id": "#42h3ut",
+      "name": "Orbits Earth every 27.3 days",
+      "x": -318,
+      "y": -255,
+      "parent": "#kcwbav"
+    },
+    {
+      "@id": "#breg8y",
+      "name": "Same side always faces Earth",
+      "x": -204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Tidal_locking",
+      "parent": "#kcwbav"
+    },
+    {
+      "@id": "#3s3fus",
+      "name": "Origin",
+      "x": 36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u9623g",
+      "name": "Formed about 4.5 billion years ago",
+      "x": -73,
+      "y": -372,
+      "parent": "#3s3fus"
+    },
+    {
+      "@id": "#achgkq",
+      "name": "Likely from a giant impact",
+      "x": 82,
+      "y": -420,
+      "link": "https://en.wikipedia.org/wiki/Giant-impact_hypothesis",
+      "parent": "#3s3fus"
+    },
+    {
+      "@id": "#3yg5pq",
+      "name": "Slowly moving away, about 3.8 cm/year",
+      "x": 204,
+      "y": -321,
+      "parent": "#3s3fus"
+    },
+    {
+      "@id": "#wqkicw",
+      "name": "Surface",
+      "x": 227,
+      "y": -29,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wmktux",
+      "name": "Dark maria are old lava plains",
+      "x": 318,
+      "y": -255,
+      "parent": "#wqkicw"
+    },
+    {
+      "@id": "#3wvfrr",
+      "name": "Bright highlands are older crust",
+      "x": 401,
+      "y": -163,
+      "parent": "#wqkicw"
+    },
+    {
+      "@id": "#4bqshq",
+      "name": "Craters from billions of years of impacts",
+      "x": 504,
+      "y": -62,
+      "parent": "#wqkicw"
+    },
+    {
+      "@id": "#cdmp5z",
+      "name": "Almost no atmosphere or liquid water",
+      "x": 444,
+      "y": 56,
+      "parent": "#wqkicw"
+    },
+    {
+      "@id": "#2tf8sm",
+      "name": "Water ice in shadowed polar craters",
+      "x": 401,
+      "y": 163,
+      "parent": "#wqkicw"
+    },
+    {
+      "@id": "#e88typ",
+      "name": "Effects on Earth",
+      "x": 71,
+      "y": 175,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m8nv43",
+      "name": "Main cause of ocean tides",
+      "x": 318,
+      "y": 255,
+      "parent": "#e88typ"
+    },
+    {
+      "@id": "#pxtt9z",
+      "name": "Steadies Earth's axial tilt",
+      "x": 204,
+      "y": 321,
+      "parent": "#e88typ"
+    },
+    {
+      "@id": "#5dvb8p",
+      "name": "Phases repeat every 29.5 days",
+      "x": 73,
+      "y": 372,
+      "parent": "#e88typ"
+    },
+    {
+      "@id": "#qu7ih5",
+      "name": "Solar and lunar eclipses",
+      "x": -82,
+      "y": 420,
+      "link": "https://en.wikipedia.org/wiki/Eclipse",
+      "parent": "#e88typ"
+    },
+    {
+      "@id": "#savipw",
+      "name": "Exploration",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3ksn4x",
+      "name": "Luna 2 first to reach it, 1959",
+      "x": -204,
+      "y": 321,
+      "parent": "#savipw"
+    },
+    {
+      "@id": "#xftk78",
+      "name": "Twelve Apollo astronauts walked there, 1969-72",
+      "x": -318,
+      "y": 255,
+      "parent": "#savipw"
+    },
+    {
+      "@id": "#bpm4fb",
+      "name": "Chinese Chang'e missions returned samples",
+      "x": -401,
+      "y": 163,
+      "parent": "#savipw"
+    },
+    {
+      "@id": "#wei8wk",
+      "name": "Artemis program plans crewed return",
+      "x": -444,
+      "y": 56,
+      "link": "https://en.wikipedia.org/wiki/Artemis_program",
+      "parent": "#savipw"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 10,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

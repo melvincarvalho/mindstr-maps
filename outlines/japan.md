@@ -1,0 +1,34 @@
+category: Geography
+aliases: nippon, nihon, land of the rising sun
+- Japan
+  - Geography
+    - Four main islands, about 14,000 in all
+    - [Mount Fuji, highest peak at 3,776 m](https://en.wikipedia.org/wiki/Mount_Fuji)
+    - Mostly mountainous, with active volcanoes
+    - Frequent earthquakes on the Ring of Fire
+  - People and languages
+    - About 124 million, ageing and shrinking
+    - Japanese, written in kanji and kana
+    - Tokyo, the world's largest metropolitan area
+    - Shinto and Buddhism often practised together
+  - History in brief
+    - Heian court culture, 794 to 1185
+    - [Samurai and shoguns ruled from 1185](https://en.wikipedia.org/wiki/Shogun)
+    - Edo period isolation, 1603 to 1868
+    - [Meiji Restoration modernised Japan, 1868](https://en.wikipedia.org/wiki/Meiji_Restoration)
+    - Defeat in World War II, 1945
+  - Government
+    - Constitutional monarchy with a symbolic emperor
+    - Parliament called the National Diet
+    - Postwar constitution renounces war
+    - 47 prefectures
+  - Economy
+    - One of the world's largest economies
+    - Cars and electronics: Toyota, Sony
+    - [Shinkansen bullet trains since 1964](https://en.wikipedia.org/wiki/Shinkansen)
+    - Robotics and precision manufacturing
+  - Culture and known for
+    - Anime, manga and video games
+    - Sushi, ramen and washoku cuisine
+    - [Kyoto's temples and shrines](https://en.wikipedia.org/wiki/Kyoto)
+    - Cherry blossom viewing (hanami)

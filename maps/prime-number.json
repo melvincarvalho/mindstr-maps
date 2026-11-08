@@ -1,0 +1,309 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Prime number",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#wiymsg",
+      "name": "What a prime is",
+      "x": -182,
+      "y": -113,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4inyhd",
+      "name": "Whole number above 1",
+      "x": -444,
+      "y": -59,
+      "parent": "#wiymsg"
+    },
+    {
+      "@id": "#23jgf2",
+      "name": "Divisible only by 1 and itself",
+      "x": -396,
+      "y": -171,
+      "parent": "#wiymsg"
+    },
+    {
+      "@id": "#tdnwh8",
+      "name": "2, 3, 5, 7, 11 are prime",
+      "x": -305,
+      "y": -265,
+      "parent": "#wiymsg"
+    },
+    {
+      "@id": "#49mf8r",
+      "name": "2 is the only even prime",
+      "x": -181,
+      "y": -330,
+      "parent": "#wiymsg"
+    },
+    {
+      "@id": "#b877g5",
+      "name": "Building blocks of numbers",
+      "x": 56,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xq5txp",
+      "name": "Composite numbers split into primes",
+      "x": -41,
+      "y": -391,
+      "link": "https://en.wikipedia.org/wiki/Composite_number",
+      "parent": "#b877g5"
+    },
+    {
+      "@id": "#2a6n4p",
+      "name": "12 is 2 × 2 × 3",
+      "x": 140,
+      "y": -445,
+      "parent": "#b877g5"
+    },
+    {
+      "@id": "#7ccqyf",
+      "name": "Every number factors in one way",
+      "x": 246,
+      "y": -301,
+      "link": "https://en.wikipedia.org/wiki/Fundamental_theorem_of_arithmetic",
+      "parent": "#b877g5"
+    },
+    {
+      "@id": "#k9jsym",
+      "name": "Finding primes",
+      "x": 218,
+      "y": -60,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#s34cfj",
+      "name": "Sieve of Eratosthenes crosses out multiples",
+      "x": 371,
+      "y": -231,
+      "link": "https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes",
+      "parent": "#k9jsym"
+    },
+    {
+      "@id": "#a4rqtj",
+      "name": "Test dividing up to the square root",
+      "x": 426,
+      "y": -117,
+      "parent": "#k9jsym"
+    },
+    {
+      "@id": "#dirm73",
+      "name": "Largest known primes have millions of digits",
+      "x": 450,
+      "y": 0,
+      "parent": "#k9jsym"
+    },
+    {
+      "@id": "#xzd7jn",
+      "name": "How they are spread",
+      "x": 182,
+      "y": 113,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wnxtyd",
+      "name": "Euclid proved there are infinitely many",
+      "x": 502,
+      "y": 137,
+      "parent": "#xzd7jn"
+    },
+    {
+      "@id": "#prgq9j",
+      "name": "Gaps grow larger on average",
+      "x": 355,
+      "y": 221,
+      "parent": "#xzd7jn"
+    },
+    {
+      "@id": "#uc2jdr",
+      "name": "Prime number theorem estimates density",
+      "x": 246,
+      "y": 301,
+      "link": "https://en.wikipedia.org/wiki/Prime_number_theorem",
+      "parent": "#xzd7jn"
+    },
+    {
+      "@id": "#5f5ia2",
+      "name": "Unsolved puzzles",
+      "x": -19,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mpuedu",
+      "name": "Twin primes like 11 and 13",
+      "x": 110,
+      "y": 349,
+      "parent": "#5f5ia2"
+    },
+    {
+      "@id": "#acbdie",
+      "name": "Goldbach: evens as two primes",
+      "x": -43,
+      "y": 407,
+      "parent": "#5f5ia2"
+    },
+    {
+      "@id": "#4mb7ht",
+      "name": "Riemann hypothesis on prime spacing",
+      "x": -253,
+      "y": 465,
+      "link": "https://en.wikipedia.org/wiki/Riemann_hypothesis",
+      "parent": "#5f5ia2"
+    },
+    {
+      "@id": "#r9nv75",
+      "name": "Uses",
+      "x": -202,
+      "y": 88,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6sbi2u",
+      "name": "RSA encryption secures online payments",
+      "x": -305,
+      "y": 265,
+      "parent": "#r9nv75"
+    },
+    {
+      "@id": "#cu4dyb",
+      "name": "Hard to factor huge numbers",
+      "x": -396,
+      "y": 171,
+      "parent": "#r9nv75"
+    },
+    {
+      "@id": "#ytpcb7",
+      "name": "Cicadas emerge in 13 or 17 years",
+      "x": -444,
+      "y": 59,
+      "parent": "#r9nv75"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

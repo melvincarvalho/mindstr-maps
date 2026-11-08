@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Quran",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#3vdnut",
+      "name": "What it is",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gvbvzd",
+      "name": "Central religious text of Islam",
+      "x": -465,
+      "y": -53,
+      "parent": "#3vdnut"
+    },
+    {
+      "@id": "#mdpzx2",
+      "name": "Muslims believe it is God's word",
+      "x": -409,
+      "y": -150,
+      "parent": "#3vdnut"
+    },
+    {
+      "@id": "#939q5c",
+      "name": "Revealed to Muhammad through angel Gabriel",
+      "x": -340,
+      "y": -236,
+      "parent": "#3vdnut"
+    },
+    {
+      "@id": "#ixjabp",
+      "name": "Revelation",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#se4eaf",
+      "name": "About 23 years, 610 to 632 CE",
+      "x": -243,
+      "y": -303,
+      "parent": "#ixjabp"
+    },
+    {
+      "@id": "#54ykkv",
+      "name": "Meccan and Medinan surahs",
+      "x": -133,
+      "y": -360,
+      "link": "https://en.wikipedia.org/wiki/Meccan_surah",
+      "parent": "#ixjabp"
+    },
+    {
+      "@id": "#9td2gg",
+      "name": "Memorised and written down by companions",
+      "x": 0,
+      "y": -408,
+      "parent": "#ixjabp"
+    },
+    {
+      "@id": "#qnsxdu",
+      "name": "Compiled into one text under Uthman",
+      "x": 175,
+      "y": -465,
+      "link": "https://en.wikipedia.org/wiki/History_of_the_Quran",
+      "parent": "#ixjabp"
+    },
+    {
+      "@id": "#whwxyr",
+      "name": "Structure",
+      "x": 193,
+      "y": -99,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mzf9fh",
+      "name": "114 chapters called surahs",
+      "x": 243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Surah",
+      "parent": "#whwxyr"
+    },
+    {
+      "@id": "#xqwr9c",
+      "name": "Over 6,000 verses called ayat",
+      "x": 340,
+      "y": -236,
+      "parent": "#whwxyr"
+    },
+    {
+      "@id": "#amu759",
+      "name": "Opens with Al-Fatiha",
+      "x": 409,
+      "y": -150,
+      "parent": "#whwxyr"
+    },
+    {
+      "@id": "#7verxs",
+      "name": "Arranged roughly longest to shortest",
+      "x": 445,
+      "y": -51,
+      "parent": "#whwxyr"
+    },
+    {
+      "@id": "#c7vd4a",
+      "name": "Main themes",
+      "x": 193,
+      "y": 99,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b64nwd",
+      "name": "Oneness of God (tawhid)",
+      "x": 445,
+      "y": 51,
+      "parent": "#c7vd4a"
+    },
+    {
+      "@id": "#n6z3ai",
+      "name": "Stories of earlier prophets",
+      "x": 409,
+      "y": 150,
+      "parent": "#c7vd4a"
+    },
+    {
+      "@id": "#bpvwzk",
+      "name": "Moral guidance and law",
+      "x": 340,
+      "y": 236,
+      "parent": "#c7vd4a"
+    },
+    {
+      "@id": "#fnrjb5",
+      "name": "Judgement Day, heaven and hell",
+      "x": 243,
+      "y": 303,
+      "parent": "#c7vd4a"
+    },
+    {
+      "@id": "#djnwg2",
+      "name": "Language and reading",
+      "x": -33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gh9i4j",
+      "name": "Written in Classical Arabic",
+      "x": 133,
+      "y": 360,
+      "parent": "#djnwg2"
+    },
+    {
+      "@id": "#ujrrse",
+      "name": "Recited aloud with tajwid rules",
+      "x": 0,
+      "y": 408,
+      "parent": "#djnwg2"
+    },
+    {
+      "@id": "#c5tfn5",
+      "name": "Huffaz memorise the whole text",
+      "x": -175,
+      "y": 465,
+      "parent": "#djnwg2"
+    },
+    {
+      "@id": "#xdd7qg",
+      "name": "Translations seen as interpretations",
+      "x": -243,
+      "y": 303,
+      "parent": "#djnwg2"
+    },
+    {
+      "@id": "#qxgqwn",
+      "name": "Understanding it",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t6m5xz",
+      "name": "Tafsir: scholarly commentary",
+      "x": -340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/Tafsir",
+      "parent": "#qxgqwn"
+    },
+    {
+      "@id": "#n3kywb",
+      "name": "Hadith help explain context",
+      "x": -409,
+      "y": 150,
+      "parent": "#qxgqwn"
+    },
+    {
+      "@id": "#ts5eun",
+      "name": "Basis of Islamic law with Sunnah",
+      "x": -485,
+      "y": 55,
+      "parent": "#qxgqwn"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

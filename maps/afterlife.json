@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Afterlife",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#3vn974",
+      "name": "The core question",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ukqza3",
+      "name": "What, if anything, follows death?",
+      "x": -505,
+      "y": -57,
+      "parent": "#3vn974"
+    },
+    {
+      "@id": "#jvce4f",
+      "name": "Does a soul or self continue?",
+      "x": -409,
+      "y": -150,
+      "parent": "#3vn974"
+    },
+    {
+      "@id": "#rfhy8m",
+      "name": "Shapes funerals, ethics and hope",
+      "x": -340,
+      "y": -236,
+      "parent": "#3vn974"
+    },
+    {
+      "@id": "#hi8quq",
+      "name": "Abrahamic traditions",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ktuxmd",
+      "name": "A final judgment, then heaven or hell",
+      "x": -243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Last_Judgment",
+      "parent": "#hi8quq"
+    },
+    {
+      "@id": "#h9a6j3",
+      "name": "Christians believe in bodily resurrection",
+      "x": -133,
+      "y": -360,
+      "parent": "#hi8quq"
+    },
+    {
+      "@id": "#kxdfax",
+      "name": "Muslims believe in Jannah and Jahannam",
+      "x": 0,
+      "y": -408,
+      "parent": "#hi8quq"
+    },
+    {
+      "@id": "#i24whn",
+      "name": "Catholic teaching includes purgatory",
+      "x": 175,
+      "y": -465,
+      "parent": "#hi8quq"
+    },
+    {
+      "@id": "#s4bpfb",
+      "name": "Jewish views vary, including Olam Ha-Ba",
+      "x": 243,
+      "y": -303,
+      "parent": "#hi8quq"
+    },
+    {
+      "@id": "#j9ejyt",
+      "name": "Rebirth traditions",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gzu2r2",
+      "name": "Hindus believe the soul is reborn",
+      "x": 340,
+      "y": -236,
+      "link": "https://en.wikipedia.org/wiki/Reincarnation",
+      "parent": "#j9ejyt"
+    },
+    {
+      "@id": "#cw9wcf",
+      "name": "Karma shapes the next life",
+      "x": 409,
+      "y": -150,
+      "parent": "#j9ejyt"
+    },
+    {
+      "@id": "#yef5g9",
+      "name": "Moksha, liberation, ends the cycle",
+      "x": 525,
+      "y": -59,
+      "parent": "#j9ejyt"
+    },
+    {
+      "@id": "#25wwas",
+      "name": "Buddhists seek nirvana, ending rebirth",
+      "x": 445,
+      "y": 51,
+      "link": "https://en.wikipedia.org/wiki/Nirvana",
+      "parent": "#j9ejyt"
+    },
+    {
+      "@id": "#g7yit6",
+      "name": "Ancient beliefs",
+      "x": 151,
+      "y": 139,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4nbgjs",
+      "name": "Egyptians: heart weighed against a feather",
+      "x": 463,
+      "y": 171,
+      "parent": "#g7yit6"
+    },
+    {
+      "@id": "#vye7ib",
+      "name": "Greeks pictured Hades, the underworld",
+      "x": 340,
+      "y": 236,
+      "parent": "#g7yit6"
+    },
+    {
+      "@id": "#cci6qs",
+      "name": "Norse warriors hoped for Valhalla",
+      "x": 243,
+      "y": 303,
+      "parent": "#g7yit6"
+    },
+    {
+      "@id": "#ex5u6m",
+      "name": "Many cultures honour ancestors as present",
+      "x": 133,
+      "y": 360,
+      "parent": "#g7yit6"
+    },
+    {
+      "@id": "#fp96d7",
+      "name": "Non-religious views",
+      "x": -65,
+      "y": 177,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dhm4ms",
+      "name": "Many atheists see death as the end",
+      "x": 0,
+      "y": 408,
+      "parent": "#fp96d7"
+    },
+    {
+      "@id": "#8np8j8",
+      "name": "Agnostics say we cannot know",
+      "x": -175,
+      "y": 465,
+      "parent": "#fp96d7"
+    },
+    {
+      "@id": "#a8b26f",
+      "name": "Near-death experiences are studied scientifically",
+      "x": -243,
+      "y": 303,
+      "link": "https://en.wikipedia.org/wiki/Near-death_experience",
+      "parent": "#fp96d7"
+    },
+    {
+      "@id": "#wpqvge",
+      "name": "Living with the idea",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ims3ss",
+      "name": "Funeral rites reflect afterlife beliefs",
+      "x": -340,
+      "y": 236,
+      "parent": "#wpqvge"
+    },
+    {
+      "@id": "#e7axvh",
+      "name": "Comfort for the grieving",
+      "x": -409,
+      "y": 150,
+      "parent": "#wpqvge"
+    },
+    {
+      "@id": "#byybec",
+      "name": "A motive for moral living",
+      "x": -465,
+      "y": 53,
+      "parent": "#wpqvge"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,342 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Amphibian",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#acjcyj",
+      "name": "What makes an amphibian",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rqivnr",
+      "name": "Cold-blooded vertebrates living on land and water",
+      "x": -445,
+      "y": -51,
+      "parent": "#acjcyj"
+    },
+    {
+      "@id": "#2myp3a",
+      "name": "Thin, moist skin that absorbs oxygen",
+      "x": -409,
+      "y": -150,
+      "parent": "#acjcyj"
+    },
+    {
+      "@id": "#hgzf75",
+      "name": "Eggs without shells, usually laid in water",
+      "x": -340,
+      "y": -236,
+      "parent": "#acjcyj"
+    },
+    {
+      "@id": "#wtaie4",
+      "name": "Over 8,000 known species",
+      "x": -243,
+      "y": -303,
+      "parent": "#acjcyj"
+    },
+    {
+      "@id": "#n27mx5",
+      "name": "Three main groups",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#witszr",
+      "name": "Frogs and toads, about 90% of species",
+      "x": -133,
+      "y": -360,
+      "link": "https://en.wikipedia.org/wiki/Frog",
+      "parent": "#n27mx5"
+    },
+    {
+      "@id": "#xkimwa",
+      "name": "Salamanders and newts keep their tails",
+      "x": 0,
+      "y": -408,
+      "link": "https://en.wikipedia.org/wiki/Salamander",
+      "parent": "#n27mx5"
+    },
+    {
+      "@id": "#fiw376",
+      "name": "Caecilians are legless and burrowing",
+      "x": 175,
+      "y": -465,
+      "parent": "#n27mx5"
+    },
+    {
+      "@id": "#rysc6i",
+      "name": "Life cycle",
+      "x": 193,
+      "y": -99,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#i2z88j",
+      "name": "Jelly-coated eggs laid in water",
+      "x": 243,
+      "y": -303,
+      "parent": "#rysc6i"
+    },
+    {
+      "@id": "#8ffmdk",
+      "name": "Tadpoles breathe with gills",
+      "x": 340,
+      "y": -236,
+      "link": "https://en.wikipedia.org/wiki/Tadpole",
+      "parent": "#rysc6i"
+    },
+    {
+      "@id": "#d2a6av",
+      "name": "Metamorphosis grows legs and lungs",
+      "x": 409,
+      "y": -150,
+      "link": "https://en.wikipedia.org/wiki/Metamorphosis",
+      "parent": "#rysc6i"
+    },
+    {
+      "@id": "#63mke5",
+      "name": "Some species skip the larval stage",
+      "x": 445,
+      "y": -51,
+      "parent": "#rysc6i"
+    },
+    {
+      "@id": "#8v4ix6",
+      "name": "Body and behaviour",
+      "x": 193,
+      "y": 99,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#snb2dp",
+      "name": "Breathe through lungs, skin and mouth",
+      "x": 445,
+      "y": 51,
+      "parent": "#8v4ix6"
+    },
+    {
+      "@id": "#wcyk4b",
+      "name": "Many skin glands make toxins",
+      "x": 409,
+      "y": 150,
+      "parent": "#8v4ix6"
+    },
+    {
+      "@id": "#a86ti9",
+      "name": "Frogs call loudly to attract mates",
+      "x": 340,
+      "y": 236,
+      "parent": "#8v4ix6"
+    },
+    {
+      "@id": "#97892k",
+      "name": "Hibernate or aestivate through harsh seasons",
+      "x": 243,
+      "y": 303,
+      "parent": "#8v4ix6"
+    },
+    {
+      "@id": "#8yrc5a",
+      "name": "Evolution and history",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bv3e26",
+      "name": "First vertebrates to walk on land",
+      "x": 133,
+      "y": 360,
+      "parent": "#8yrc5a"
+    },
+    {
+      "@id": "#rp86sv",
+      "name": "From lobe-finned fish, 370 million years ago",
+      "x": 0,
+      "y": 408,
+      "parent": "#8yrc5a"
+    },
+    {
+      "@id": "#zuxayv",
+      "name": "Ancestors of reptiles, birds and mammals",
+      "x": -175,
+      "y": 465,
+      "parent": "#8yrc5a"
+    },
+    {
+      "@id": "#xrqqwq",
+      "name": "Threats and conservation",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rs7b7c",
+      "name": "Most threatened vertebrate class today",
+      "x": -243,
+      "y": 303,
+      "parent": "#xrqqwq"
+    },
+    {
+      "@id": "#x9aecn",
+      "name": "Chytrid fungus has wiped out species",
+      "x": -340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/Chytridiomycosis",
+      "parent": "#xrqqwq"
+    },
+    {
+      "@id": "#d27jxw",
+      "name": "Habitat loss, pollution and climate change",
+      "x": -409,
+      "y": 150,
+      "parent": "#xrqqwq"
+    },
+    {
+      "@id": "#xwp9jy",
+      "name": "Sensitive skin makes them pollution indicators",
+      "x": -445,
+      "y": 51,
+      "parent": "#xrqqwq"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

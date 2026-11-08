@@ -1,0 +1,29 @@
+category: Geography
+aliases: the mediterranean, mediterranean basin, mare nostrum
+- Mediterranean Sea
+  - Geography
+    - Between Europe, North Africa and Western Asia
+    - About 2.5 million km²
+    - Over 20 countries on its shores
+    - Deepest point about 5,200 m, off Greece
+  - Gateways
+    - [Strait of Gibraltar opens to the Atlantic](https://en.wikipedia.org/wiki/Strait_of_Gibraltar)
+    - Suez Canal to the Red Sea, 1869
+    - Bosporus and Dardanelles to the Black Sea
+  - Islands
+    - Sicily, the largest
+    - Sardinia, Cyprus, Corsica and Crete
+    - Volcanic Etna, Stromboli and Santorini
+  - Deep past
+    - Remnant of the ancient Tethys Ocean
+    - [Nearly dried up 6 million years ago](https://en.wikipedia.org/wiki/Messinian_salinity_crisis)
+    - Refilled by a flood through Gibraltar
+  - Cradle of civilisations
+    - Phoenicians, Greeks and Carthaginians traded across it
+    - Romans called it Mare Nostrum, "our sea"
+    - Venice and Genoa ruled medieval trade
+  - Today
+    - [Mediterranean climate: hot dry summers](https://en.wikipedia.org/wiki/Mediterranean_climate)
+    - Among the world's busiest tourist regions
+    - Dangerous migrant crossings to Europe
+    - Warm, salty and almost tideless

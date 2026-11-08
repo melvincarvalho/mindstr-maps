@@ -1,0 +1,29 @@
+category: Arts and culture
+aliases: world literature, great books, literary works
+- Literature
+  - What literature is
+    - Writing valued for its art
+    - Began as spoken stories and songs
+    - Uses language, form and imagination
+  - Main forms
+    - Poetry: rhythm, sound and image
+    - [The novel, prose fiction at length](https://en.wikipedia.org/wiki/Novel)
+    - Drama written for the stage
+    - Short stories and essays
+  - Ancient classics
+    - [Epic of Gilgamesh, about 2000 BC](https://en.wikipedia.org/wiki/Epic_of_Gilgamesh)
+    - Homer's Iliad and Odyssey
+    - India's Mahabharata and Ramayana
+  - Landmarks over time
+    - Murasaki's Tale of Genji, about 1010
+    - Dante's Divine Comedy
+    - Shakespeare's plays and sonnets
+    - Cervantes' Don Quixote, 1605
+  - Modern literature
+    - Nineteenth-century realist novels
+    - Modernist experiments like Ulysses
+    - [Magic realism of García Márquez](https://en.wikipedia.org/wiki/Magic_realism)
+  - Reading it well
+    - Notice voice, character and theme
+    - Know the time and place written
+    - [Literary criticism offers many lenses](https://en.wikipedia.org/wiki/Literary_criticism)

@@ -1,0 +1,29 @@
+category: Mathematics
+aliases: triangles, types of triangles, triangle properties
+- Triangle
+  - Basic facts
+    - Three sides, three corners
+    - Angles always add to 180°
+    - [Two sides together beat the third](https://en.wikipedia.org/wiki/Triangle_inequality)
+  - Sorted by sides
+    - Equilateral: all sides equal
+    - Isosceles: two sides equal
+    - Scalene: no sides equal
+  - Sorted by angles
+    - Acute: every angle under 90°
+    - Right: one angle exactly 90°
+    - Obtuse: one angle over 90°
+  - Famous results
+    - [Pythagoras: a² + b² = c²](https://en.wikipedia.org/wiki/Pythagorean_theorem)
+    - Area is half base times height
+    - Congruent triangles: SSS, SAS, ASA tests
+    - Similar triangles have proportional sides
+  - Special points
+    - [Centroid is the balance point](https://en.wikipedia.org/wiki/Centroid)
+    - Circumcentre: centre of the surrounding circle
+    - Incentre: centre of the inner circle
+  - Why triangles matter
+    - Rigid shape strengthens bridges and roofs
+    - [Triangulation locates distant points](https://en.wikipedia.org/wiki/Triangulation)
+    - 3D graphics built from triangle meshes
+    - [Trigonometry grew from triangle measurement](https://en.wikipedia.org/wiki/Trigonometry)

@@ -1,0 +1,30 @@
+category: Technology
+aliases: how buildings work, parts of a building
+- Building
+  - What a building does
+    - Shelters people from the weather
+    - Carries loads safely to the ground
+    - Space for living, work and worship
+  - Main parts
+    - [Foundations spread weight into ground](https://en.wikipedia.org/wiki/Foundation_%28engineering%29)
+    - Frame or load-bearing walls
+    - Roof sheds rain and snow
+    - Floors, stairs, doors and windows
+  - Services inside
+    - Plumbing, drainage and heating
+    - Electrical wiring and lighting
+    - Insulation and ventilation
+  - Materials through history
+    - Mud brick, timber and thatch
+    - Stone and fired brick
+    - [Steel frame skyscraper, Chicago, 1885](https://en.wikipedia.org/wiki/Home_Insurance_Building)
+    - Reinforced concrete and glass facades
+  - From plan to completion
+    - Architect designs, engineer checks structure
+    - Planning permission from local authority
+    - [Building codes set safety rules](https://en.wikipedia.org/wiki/Building_code)
+    - Builders work in stages, inspectors check
+  - Tall buildings and energy
+    - [Burj Khalifa, Dubai, 828 m tall](https://en.wikipedia.org/wiki/Burj_Khalifa)
+    - Safe elevators made towers practical
+    - Buildings use about 30% of energy

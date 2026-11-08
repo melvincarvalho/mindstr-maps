@@ -1,0 +1,353 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Martin Luther",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#y8iqgp",
+      "name": "Early life",
+      "x": -197,
+      "y": -96,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jdybfz",
+      "name": "Born 1483 in Eisleben, Saxony",
+      "x": -446,
+      "y": -49,
+      "parent": "#y8iqgp"
+    },
+    {
+      "@id": "#wwubcv",
+      "name": "Studied law at Erfurt",
+      "x": -413,
+      "y": -143,
+      "parent": "#y8iqgp"
+    },
+    {
+      "@id": "#8rjbse",
+      "name": "Vowed to become a monk, 1505",
+      "x": -349,
+      "y": -227,
+      "parent": "#y8iqgp"
+    },
+    {
+      "@id": "#ieqx23",
+      "name": "Augustinian friar, then Wittenberg professor",
+      "x": -260,
+      "y": -294,
+      "parent": "#y8iqgp"
+    },
+    {
+      "@id": "#ifxbs3",
+      "name": "The break with Rome",
+      "x": 16,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p9ps9b",
+      "name": "Ninety-five Theses, 31 October 1517",
+      "x": -158,
+      "y": -354,
+      "link": "https://en.wikipedia.org/wiki/Ninety-five_Theses",
+      "parent": "#ifxbs3"
+    },
+    {
+      "@id": "#i8mxxu",
+      "name": "Attacked the sale of indulgences",
+      "x": -34,
+      "y": -407,
+      "parent": "#ifxbs3"
+    },
+    {
+      "@id": "#qep92s",
+      "name": "Salvation by faith alone",
+      "x": 120,
+      "y": -464,
+      "parent": "#ifxbs3"
+    },
+    {
+      "@id": "#n7p9i9",
+      "name": "Scripture above church tradition",
+      "x": 207,
+      "y": -320,
+      "parent": "#ifxbs3"
+    },
+    {
+      "@id": "#x8i7qd",
+      "name": "Condemnation",
+      "x": 197,
+      "y": -96,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gdj38r",
+      "name": "Excommunicated by Pope Leo X, 1521",
+      "x": 307,
+      "y": -263,
+      "parent": "#x8i7qd"
+    },
+    {
+      "@id": "#q99vvg",
+      "name": "Refused to recant at Diet of Worms",
+      "x": 384,
+      "y": -187,
+      "link": "https://en.wikipedia.org/wiki/Diet_of_Worms",
+      "parent": "#x8i7qd"
+    },
+    {
+      "@id": "#d7m5eq",
+      "name": "Hidden at Wartburg Castle",
+      "x": 433,
+      "y": -97,
+      "parent": "#x8i7qd"
+    },
+    {
+      "@id": "#59jcaj",
+      "name": "Work and family",
+      "x": 211,
+      "y": 73,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e984sd",
+      "name": "Translated the Bible into German",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Luther_Bible",
+      "parent": "#59jcaj"
+    },
+    {
+      "@id": "#t5chu7",
+      "name": "Wrote hymns like \"A Mighty Fortress\"",
+      "x": 509,
+      "y": 113,
+      "parent": "#59jcaj"
+    },
+    {
+      "@id": "#fcp5k8",
+      "name": "Married former nun Katharina von Bora",
+      "x": 384,
+      "y": 187,
+      "parent": "#59jcaj"
+    },
+    {
+      "@id": "#fwsna5",
+      "name": "Small Catechism for ordinary believers",
+      "x": 307,
+      "y": 263,
+      "parent": "#59jcaj"
+    },
+    {
+      "@id": "#pxgtfv",
+      "name": "Controversies",
+      "x": 47,
+      "y": 180,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#guzfb4",
+      "name": "Urged crushing of 1525 peasant revolt",
+      "x": 207,
+      "y": 320,
+      "parent": "#pxgtfv"
+    },
+    {
+      "@id": "#rty945",
+      "name": "Wrote \"On the Jews and Their Lies\"",
+      "x": 96,
+      "y": 368,
+      "link": "https://en.wikipedia.org/wiki/On_the_Jews_and_Their_Lies",
+      "parent": "#pxgtfv"
+    },
+    {
+      "@id": "#wpyk3d",
+      "name": "Antisemitic writings later used by Nazis",
+      "x": -35,
+      "y": 423,
+      "parent": "#pxgtfv"
+    },
+    {
+      "@id": "#rumt4y",
+      "name": "Legacy",
+      "x": -178,
+      "y": 116,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#edzd33",
+      "name": "Died 1546 in Eisleben",
+      "x": -214,
+      "y": 474,
+      "parent": "#rumt4y"
+    },
+    {
+      "@id": "#y422bf",
+      "name": "Sparked the Protestant Reformation",
+      "x": -260,
+      "y": 294,
+      "link": "https://en.wikipedia.org/wiki/Reformation",
+      "parent": "#rumt4y"
+    },
+    {
+      "@id": "#pub2bp",
+      "name": "Lutheran churches bear his name",
+      "x": -349,
+      "y": 227,
+      "parent": "#rumt4y"
+    },
+    {
+      "@id": "#nfkaep",
+      "name": "Printing spread his ideas fast",
+      "x": -413,
+      "y": 143,
+      "parent": "#rumt4y"
+    },
+    {
+      "@id": "#eayg9m",
+      "name": "Shaped the modern German language",
+      "x": -446,
+      "y": 49,
+      "parent": "#rumt4y"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    },
+    {
+      "start": 24,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Marketing",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#7fuzaa",
+      "name": "Understanding customers",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kxtmds",
+      "name": "Market research finds needs and wants",
+      "x": -544,
+      "y": -66,
+      "link": "https://en.wikipedia.org/wiki/Market_research",
+      "parent": "#7fuzaa"
+    },
+    {
+      "@id": "#nmxnuh",
+      "name": "Segmenting customers into groups",
+      "x": -401,
+      "y": -163,
+      "parent": "#7fuzaa"
+    },
+    {
+      "@id": "#c7tefs",
+      "name": "Choosing target markets to serve",
+      "x": -318,
+      "y": -255,
+      "parent": "#7fuzaa"
+    },
+    {
+      "@id": "#8ah9mc",
+      "name": "Positioning and brand",
+      "x": -36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h4eep4",
+      "name": "Positioning: why choose us over rivals",
+      "x": -204,
+      "y": -321,
+      "parent": "#8ah9mc"
+    },
+    {
+      "@id": "#buq6f6",
+      "name": "A brand is a name and reputation",
+      "x": -73,
+      "y": -372,
+      "link": "https://en.wikipedia.org/wiki/Brand",
+      "parent": "#8ah9mc"
+    },
+    {
+      "@id": "#557evs",
+      "name": "Value proposition promises a clear benefit",
+      "x": 82,
+      "y": -420,
+      "parent": "#8ah9mc"
+    },
+    {
+      "@id": "#enn87m",
+      "name": "The four Ps marketing mix",
+      "x": 186,
+      "y": -108,
+      "link": "https://en.wikipedia.org/wiki/Marketing_mix",
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#x6fcuq",
+      "name": "Product: what is offered",
+      "x": 204,
+      "y": -321,
+      "parent": "#enn87m"
+    },
+    {
+      "@id": "#ktber5",
+      "name": "Price: what customers pay",
+      "x": 318,
+      "y": -255,
+      "parent": "#enn87m"
+    },
+    {
+      "@id": "#euzu39",
+      "name": "Place: where and how it's sold",
+      "x": 401,
+      "y": -163,
+      "parent": "#enn87m"
+    },
+    {
+      "@id": "#gkqwzd",
+      "name": "Promotion: how people hear about it",
+      "x": 444,
+      "y": -56,
+      "parent": "#enn87m"
+    },
+    {
+      "@id": "#dr4gza",
+      "name": "Reaching people",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c8kyn2",
+      "name": "Advertising in paid media",
+      "x": 444,
+      "y": 56,
+      "link": "https://en.wikipedia.org/wiki/Advertising",
+      "parent": "#dr4gza"
+    },
+    {
+      "@id": "#wxkztw",
+      "name": "Public relations and press coverage",
+      "x": 401,
+      "y": 163,
+      "parent": "#dr4gza"
+    },
+    {
+      "@id": "#ik2ivb",
+      "name": "Search, social media and email",
+      "x": 318,
+      "y": 255,
+      "parent": "#dr4gza"
+    },
+    {
+      "@id": "#c83wjh",
+      "name": "Word of mouth and recommendations",
+      "x": 204,
+      "y": 321,
+      "parent": "#dr4gza"
+    },
+    {
+      "@id": "#ai473x",
+      "name": "Measuring results",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kxdx8v",
+      "name": "Customer acquisition cost",
+      "x": 73,
+      "y": 372,
+      "parent": "#ai473x"
+    },
+    {
+      "@id": "#xvyxc9",
+      "name": "Conversion rates and sales growth",
+      "x": -82,
+      "y": 420,
+      "parent": "#ai473x"
+    },
+    {
+      "@id": "#b8qk8w",
+      "name": "Customer lifetime value and loyalty",
+      "x": -204,
+      "y": 321,
+      "parent": "#ai473x"
+    },
+    {
+      "@id": "#9yff3u",
+      "name": "Rules and ethics",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gh7j58",
+      "name": "Ads must not mislead",
+      "x": -318,
+      "y": 255,
+      "parent": "#9yff3u"
+    },
+    {
+      "@id": "#ejre7a",
+      "name": "Consent needed for personal data",
+      "x": -401,
+      "y": 163,
+      "parent": "#9yff3u"
+    },
+    {
+      "@id": "#qufj2h",
+      "name": "Extra limits on marketing to children",
+      "x": -504,
+      "y": 62,
+      "parent": "#9yff3u"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

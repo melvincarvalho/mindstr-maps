@@ -1,0 +1,34 @@
+category: Geography
+aliases: commonwealth of australia, australia country
+- Australia
+  - Geography
+    - Only country covering a whole continent
+    - Mostly arid outback interior
+    - [Great Barrier Reef off Queensland](https://en.wikipedia.org/wiki/Great_Barrier_Reef)
+    - Kangaroos, koalas and platypus found here
+    - [Uluru, sacred sandstone monolith](https://en.wikipedia.org/wiki/Uluru)
+  - People and languages
+    - About 27 million people
+    - Most live on east and southeast coasts
+    - Sydney and Melbourne largest cities
+    - English main language; many migrant languages
+    - About 30% born overseas
+  - History
+    - [Aboriginal and Torres Strait Islander peoples](https://en.wikipedia.org/wiki/Aboriginal_Australians)
+    - Present for at least 50,000 years
+    - British penal colony founded in 1788
+    - [Colonies federated in 1901](https://en.wikipedia.org/wiki/Federation_of_Australia)
+    - [Stolen Generations: children removed from families](https://en.wikipedia.org/wiki/Stolen_Generations)
+  - Government
+    - Constitutional monarchy, parliamentary democracy
+    - Six states and two mainland territories
+    - Capital is Canberra
+    - Voting is compulsory
+  - Economy
+    - Exports iron ore, coal and gas
+    - China is the largest trading partner
+    - Education and tourism earn abroad
+    - Currency is the Australian dollar
+  - Culture
+    - Cricket, rugby and Australian rules football
+    - Sydney Opera House opened 1973

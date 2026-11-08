@@ -1,0 +1,31 @@
+category: History
+aliases: european history, europe history, history of the european continent
+- History of Europe
+  - Prehistory and ancient Greece
+    - Farming arrives from Anatolia about 7000 BC
+    - [Athens develops democracy, 5th century BC](https://en.wikipedia.org/wiki/Athenian_democracy)
+    - Philosophy, drama and science flourish
+  - Roman Empire
+    - Rome rules the Mediterranean by AD 100
+    - Latin, law and roads spread
+    - Christianity becomes state religion, 380
+    - Western empire falls in 476
+  - Middle Ages
+    - Feudalism, monasteries and the Catholic Church
+    - Charlemagne crowned emperor in 800
+    - Byzantine Empire lasts until 1453
+    - [Black Death kills a third or more](https://en.wikipedia.org/wiki/Black_Death)
+  - Renaissance to Enlightenment
+    - Renaissance begins in 14th-century Italy
+    - [Protestant Reformation from 1517](https://en.wikipedia.org/wiki/Reformation)
+    - Overseas empires from the 1490s
+    - Enlightenment and French Revolution, 1789
+  - Industry and nations
+    - Industrial Revolution starts in Britain
+    - Italy and Germany unified by 1871
+    - [World War I, 1914–1918](https://en.wikipedia.org/wiki/World_War_I)
+    - World War II and the Holocaust
+  - Division and union
+    - Iron Curtain splits East and West
+    - Berlin Wall falls in 1989
+    - European Union founded in 1993

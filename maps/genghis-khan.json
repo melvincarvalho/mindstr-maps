@@ -1,0 +1,350 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Genghis Khan",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#y33q43",
+      "name": "Early life on the steppe",
+      "x": -197,
+      "y": -96,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hnn9np",
+      "name": "Born Temüjin around 1162",
+      "x": -466,
+      "y": -51,
+      "parent": "#y33q43"
+    },
+    {
+      "@id": "#fhkp57",
+      "name": "Father poisoned when he was a boy",
+      "x": -431,
+      "y": -149,
+      "parent": "#y33q43"
+    },
+    {
+      "@id": "#ska3if",
+      "name": "Family abandoned and lived in poverty",
+      "x": -349,
+      "y": -227,
+      "parent": "#y33q43"
+    },
+    {
+      "@id": "#vx7rqe",
+      "name": "Rose through alliances and rival wars",
+      "x": -260,
+      "y": -294,
+      "parent": "#y33q43"
+    },
+    {
+      "@id": "#536rht",
+      "name": "Uniting the Mongols",
+      "x": 16,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#etfnsi",
+      "name": "Defeated rivals Jamukha and the Keraites",
+      "x": -158,
+      "y": -354,
+      "parent": "#536rht"
+    },
+    {
+      "@id": "#3zpdc7",
+      "name": "Proclaimed Genghis Khan in 1206",
+      "x": -34,
+      "y": -407,
+      "parent": "#536rht"
+    },
+    {
+      "@id": "#8gik98",
+      "name": "Army organised in decimal units",
+      "x": 120,
+      "y": -464,
+      "parent": "#536rht"
+    },
+    {
+      "@id": "#puzr6s",
+      "name": "Yassa law code bound the tribes",
+      "x": 225,
+      "y": -348,
+      "link": "https://en.wikipedia.org/wiki/Yassa",
+      "parent": "#536rht"
+    },
+    {
+      "@id": "#e9h3ep",
+      "name": "Conquests",
+      "x": 211,
+      "y": -73,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3w4vus",
+      "name": "Western Xia submitted from 1209",
+      "x": 307,
+      "y": -263,
+      "parent": "#e9h3ep"
+    },
+    {
+      "@id": "#f6372q",
+      "name": "Took Zhongdu (Beijing) from Jin, 1215",
+      "x": 384,
+      "y": -187,
+      "parent": "#e9h3ep"
+    },
+    {
+      "@id": "#fszm2e",
+      "name": "Destroyed the Khwarazmian Empire, 1219–1221",
+      "x": 509,
+      "y": -113,
+      "parent": "#e9h3ep"
+    },
+    {
+      "@id": "#detv5b",
+      "name": "Cities resisting were often massacred",
+      "x": 450,
+      "y": 0,
+      "parent": "#e9h3ep"
+    },
+    {
+      "@id": "#zpeyy8",
+      "name": "How he ruled",
+      "x": 178,
+      "y": 116,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cafnfq",
+      "name": "Promoted by merit and loyalty",
+      "x": 433,
+      "y": 97,
+      "parent": "#zpeyy8"
+    },
+    {
+      "@id": "#vyvf63",
+      "name": "Religious tolerance across the empire",
+      "x": 384,
+      "y": 187,
+      "parent": "#zpeyy8"
+    },
+    {
+      "@id": "#uk7ne5",
+      "name": "Yam relay system carried messages",
+      "x": 307,
+      "y": 263,
+      "parent": "#zpeyy8"
+    },
+    {
+      "@id": "#3meydt",
+      "name": "Adopted Uyghur script for Mongolian",
+      "x": 207,
+      "y": 320,
+      "parent": "#zpeyy8"
+    },
+    {
+      "@id": "#7mdmr9",
+      "name": "Death and succession",
+      "x": -16,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#85e7m9",
+      "name": "Died in 1227 during Xi Xia campaign",
+      "x": 96,
+      "y": 368,
+      "parent": "#7mdmr9"
+    },
+    {
+      "@id": "#w3n5i6",
+      "name": "Burial place still unknown",
+      "x": -35,
+      "y": 423,
+      "parent": "#7mdmr9"
+    },
+    {
+      "@id": "#vsy94x",
+      "name": "Son Ögedei became Great Khan",
+      "x": -214,
+      "y": 474,
+      "parent": "#7mdmr9"
+    },
+    {
+      "@id": "#rc44v6",
+      "name": "Legacy",
+      "x": -197,
+      "y": 96,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jwabzf",
+      "name": "Mongol Empire became largest contiguous empire",
+      "x": -260,
+      "y": 294,
+      "link": "https://en.wikipedia.org/wiki/Mongol_Empire",
+      "parent": "#rc44v6"
+    },
+    {
+      "@id": "#de9kv8",
+      "name": "Pax Mongolica revived Silk Road trade",
+      "x": -349,
+      "y": 227,
+      "parent": "#rc44v6"
+    },
+    {
+      "@id": "#bcf9pt",
+      "name": "Millions died in the conquests",
+      "x": -431,
+      "y": 149,
+      "parent": "#rc44v6"
+    },
+    {
+      "@id": "#59art7",
+      "name": "National hero in modern Mongolia",
+      "x": -446,
+      "y": 49,
+      "parent": "#rc44v6"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    },
+    {
+      "start": 25,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

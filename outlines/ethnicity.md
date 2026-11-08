@@ -1,0 +1,30 @@
+category: Society
+aliases: ethnic group, ethnic groups, ethnic identity
+- Ethnicity
+  - What it means
+    - Group sharing ancestry and culture
+    - [Ethnic group defined by shared identity](https://en.wikipedia.org/wiki/Ethnic_group)
+    - Self-identification matters most
+  - Shared markers
+    - Language or dialect
+    - Religion and customs
+    - Common history and homeland
+    - Food, music and dress
+  - Related but different
+    - [Race: socially defined by appearance](https://en.wikipedia.org/wiki/Race_%28human_categorization%29)
+    - Nationality: legal citizenship of a state
+    - Culture can be shared across groups
+  - How identities form and change
+    - Ethnogenesis: new groups emerge
+    - Migration creates diasporas
+    - Assimilation and intermarriage blend groups
+    - People can hold multiple identities
+  - In society and politics
+    - Censuses record ethnic categories
+    - [Discrimination and minority rights](https://en.wikipedia.org/wiki/Minority_rights)
+    - Ethnic conflict and nationalism
+    - Multiculturalism and integration policies
+  - Scale today
+    - Thousands of ethnic groups worldwide
+    - Han Chinese the largest, over 1.2 billion
+    - Most countries are multi-ethnic

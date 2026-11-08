@@ -1,0 +1,32 @@
+category: Society
+aliases: social sciences, what are the social sciences, social science disciplines
+- Social science
+  - What it studies
+    - Human societies and relationships
+    - How people behave in groups
+    - Differs from natural sciences and humanities
+  - Main disciplines
+    - [Economics: production, trade and choices](https://en.wikipedia.org/wiki/Economics)
+    - Sociology: groups, institutions, inequality
+    - Anthropology: cultures and human origins
+    - Political science: power and government
+    - Psychology: mind and behaviour
+    - Human geography: people and place
+  - Research methods
+    - [Surveys and questionnaires](https://en.wikipedia.org/wiki/Survey_methodology)
+    - Interviews and participant observation
+    - Experiments and natural experiments
+    - Statistics on large datasets
+  - Quantitative and qualitative
+    - Quantitative measures with numbers
+    - Qualitative explores meanings and experiences
+    - Mixed methods combine both
+  - History
+    - Enlightenment thinkers studied society scientifically
+    - [Comte coined "sociology" in 1838](https://en.wikipedia.org/wiki/Auguste_Comte)
+    - Disciplines formed universities by 1900
+  - Challenges and uses
+    - People change when observed
+    - [The replication crisis](https://en.wikipedia.org/wiki/Replication_crisis)
+    - Informs public policy and law
+    - Ethics review protects participants

@@ -1,0 +1,307 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "James Clerk Maxwell",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#wmcj6h",
+      "name": "Life",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nbzarj",
+      "name": "Born 1831 in Edinburgh, Scotland",
+      "x": -444,
+      "y": -56,
+      "parent": "#wmcj6h"
+    },
+    {
+      "@id": "#ps4gu5",
+      "name": "Studied at Edinburgh and Cambridge",
+      "x": -401,
+      "y": -163,
+      "parent": "#wmcj6h"
+    },
+    {
+      "@id": "#sxy66q",
+      "name": "Professor at Aberdeen and King's College London",
+      "x": -318,
+      "y": -255,
+      "parent": "#wmcj6h"
+    },
+    {
+      "@id": "#ugihdg",
+      "name": "First Cavendish Professor at Cambridge",
+      "x": -204,
+      "y": -321,
+      "parent": "#wmcj6h"
+    },
+    {
+      "@id": "#4x9tg9",
+      "name": "Died 1879, aged 48",
+      "x": -73,
+      "y": -372,
+      "parent": "#wmcj6h"
+    },
+    {
+      "@id": "#zrbsh4",
+      "name": "Electromagnetism",
+      "x": 135,
+      "y": -149,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#w9mhuj",
+      "name": "Maxwell's equations unify electricity and magnetism",
+      "x": 82,
+      "y": -420,
+      "link": "https://en.wikipedia.org/wiki/Maxwell%27s_equations",
+      "parent": "#zrbsh4"
+    },
+    {
+      "@id": "#i44dnq",
+      "name": "Built on Faraday's field lines",
+      "x": 204,
+      "y": -321,
+      "parent": "#zrbsh4"
+    },
+    {
+      "@id": "#i3r9bc",
+      "name": "Predicted electromagnetic waves",
+      "x": 318,
+      "y": -255,
+      "parent": "#zrbsh4"
+    },
+    {
+      "@id": "#eft4qu",
+      "name": "Light is an electromagnetic wave",
+      "x": 419,
+      "y": -170,
+      "link": "https://en.wikipedia.org/wiki/Electromagnetic_radiation",
+      "parent": "#zrbsh4"
+    },
+    {
+      "@id": "#xsb8d5",
+      "name": "Gases and heat",
+      "x": 227,
+      "y": 29,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4dbdyn",
+      "name": "Kinetic theory of gases",
+      "x": 444,
+      "y": -56,
+      "parent": "#xsb8d5"
+    },
+    {
+      "@id": "#qt7awz",
+      "name": "Maxwell–Boltzmann distribution of molecular speeds",
+      "x": 584,
+      "y": 70,
+      "link": "https://en.wikipedia.org/wiki/Maxwell%E2%80%93Boltzmann_distribution",
+      "parent": "#xsb8d5"
+    },
+    {
+      "@id": "#gt4mb4",
+      "name": "Maxwell's demon thought experiment",
+      "x": 401,
+      "y": 163,
+      "link": "https://en.wikipedia.org/wiki/Maxwell%27s_demon",
+      "parent": "#xsb8d5"
+    },
+    {
+      "@id": "#4ajvza",
+      "name": "Colour and other work",
+      "x": 71,
+      "y": 175,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5m8d6m",
+      "name": "First colour photograph, 1861",
+      "x": 318,
+      "y": 255,
+      "parent": "#4ajvza"
+    },
+    {
+      "@id": "#cad4r8",
+      "name": "Red, green and blue colour theory",
+      "x": 204,
+      "y": 321,
+      "parent": "#4ajvza"
+    },
+    {
+      "@id": "#q688z6",
+      "name": "Saturn's rings must be particles",
+      "x": 73,
+      "y": 372,
+      "parent": "#4ajvza"
+    },
+    {
+      "@id": "#d6hrnf",
+      "name": "Early control theory of governors",
+      "x": -82,
+      "y": 420,
+      "parent": "#4ajvza"
+    },
+    {
+      "@id": "#y8jzdq",
+      "name": "Legacy",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ipxgn2",
+      "name": "Hertz detected radio waves, 1887",
+      "x": -204,
+      "y": 321,
+      "parent": "#y8jzdq"
+    },
+    {
+      "@id": "#ctt5nv",
+      "name": "Foundation for radio, radar, television",
+      "x": -318,
+      "y": 255,
+      "parent": "#y8jzdq"
+    },
+    {
+      "@id": "#ci945x",
+      "name": "Paved the way to relativity",
+      "x": -401,
+      "y": 163,
+      "parent": "#y8jzdq"
+    },
+    {
+      "@id": "#d6b6em",
+      "name": "Einstein kept his picture on the wall",
+      "x": -444,
+      "y": 56,
+      "parent": "#y8jzdq"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 7,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

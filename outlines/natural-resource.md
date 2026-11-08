@@ -1,0 +1,29 @@
+category: Science
+aliases: natural resources, renewable and non-renewable resources, earth's natural resources
+- Natural resource
+  - What they are
+    - Materials and energy nature provides
+    - Used for food, fuel, building, industry
+  - [Renewable resources](https://en.wikipedia.org/wiki/Renewable_resource)
+    - Sunlight, wind and flowing water
+    - Forests and fish, if not overharvested
+    - Fresh water, replenished by rain
+  - [Non-renewable resources](https://en.wikipedia.org/wiki/Non-renewable_resource)
+    - Coal, oil and natural gas
+    - Metal ores like iron and copper
+    - Took millions of years to form
+  - Who has them
+    - Spread unevenly around the world
+    - Middle East: about half of oil reserves
+    - [Resource curse can hold economies back](https://en.wikipedia.org/wiki/Resource_curse)
+    - Trade and conflict over supplies
+  - Pressures
+    - Overfishing and deforestation
+    - Groundwater pumped faster than refilled
+    - Mining damages land and water
+    - Burning fossil fuels warms the climate
+  - Using them wisely
+    - Reduce, reuse and recycle materials
+    - [Circular economy keeps materials in use](https://en.wikipedia.org/wiki/Circular_economy)
+    - Switching to renewable energy
+    - Protecting land and sea habitats

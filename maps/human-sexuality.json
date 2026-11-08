@@ -1,0 +1,320 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Human sexuality",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#mngnvj",
+      "name": "What sexuality includes",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#29ez2s",
+      "name": "Biology, feelings, identity and relationships",
+      "x": -564,
+      "y": -68,
+      "parent": "#mngnvj"
+    },
+    {
+      "@id": "#cxk2im",
+      "name": "Attraction, desire and behaviour",
+      "x": -401,
+      "y": -163,
+      "parent": "#mngnvj"
+    },
+    {
+      "@id": "#nuct9j",
+      "name": "Changes across the whole lifespan",
+      "x": -318,
+      "y": -255,
+      "parent": "#mngnvj"
+    },
+    {
+      "@id": "#fd322p",
+      "name": "Biology",
+      "x": -36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sewbqw",
+      "name": "Sex hormones shape development and desire",
+      "x": -204,
+      "y": -321,
+      "parent": "#fd322p"
+    },
+    {
+      "@id": "#72jvjy",
+      "name": "Reproductive systems differ between sexes",
+      "x": -73,
+      "y": -372,
+      "parent": "#fd322p"
+    },
+    {
+      "@id": "#wkwgdn",
+      "name": "Puberty brings sexual maturity",
+      "x": 82,
+      "y": -420,
+      "parent": "#fd322p"
+    },
+    {
+      "@id": "#285pa5",
+      "name": "Orientation and identity",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sd6wan",
+      "name": "Sexual orientation: who attracts you",
+      "x": 204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Sexual_orientation",
+      "parent": "#285pa5"
+    },
+    {
+      "@id": "#v3t9q8",
+      "name": "Gender identity is a separate idea",
+      "x": 318,
+      "y": -255,
+      "parent": "#285pa5"
+    },
+    {
+      "@id": "#tsauv6",
+      "name": "Most people experience orientation as unchosen",
+      "x": 455,
+      "y": -184,
+      "parent": "#285pa5"
+    },
+    {
+      "@id": "#hpgq6j",
+      "name": "Healthy relationships",
+      "x": 227,
+      "y": 29,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2gakrh",
+      "name": "Consent must be freely given",
+      "x": 444,
+      "y": -56,
+      "link": "https://en.wikipedia.org/wiki/Sexual_consent",
+      "parent": "#hpgq6j"
+    },
+    {
+      "@id": "#gvxb3g",
+      "name": "Respect, trust and good communication",
+      "x": 544,
+      "y": 66,
+      "parent": "#hpgq6j"
+    },
+    {
+      "@id": "#4mwvzy",
+      "name": "Age of consent laws protect young people",
+      "x": 401,
+      "y": 163,
+      "parent": "#hpgq6j"
+    },
+    {
+      "@id": "#rd8pde",
+      "name": "Sexual health",
+      "x": 71,
+      "y": 175,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xekcvu",
+      "name": "Contraception prevents unplanned pregnancy",
+      "x": 318,
+      "y": 255,
+      "link": "https://en.wikipedia.org/wiki/Birth_control",
+      "parent": "#rd8pde"
+    },
+    {
+      "@id": "#br2yfa",
+      "name": "Condoms also reduce infection risk",
+      "x": 204,
+      "y": 321,
+      "link": "https://en.wikipedia.org/wiki/Sexually_transmitted_infection",
+      "parent": "#rd8pde"
+    },
+    {
+      "@id": "#648r2i",
+      "name": "Regular testing and HPV vaccination",
+      "x": 73,
+      "y": 372,
+      "parent": "#rd8pde"
+    },
+    {
+      "@id": "#fkazb7",
+      "name": "Clinics give confidential advice",
+      "x": -82,
+      "y": 420,
+      "parent": "#rd8pde"
+    },
+    {
+      "@id": "#h49wbh",
+      "name": "Culture and society",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6b68pq",
+      "name": "Norms differ widely across cultures",
+      "x": -204,
+      "y": 321,
+      "parent": "#h49wbh"
+    },
+    {
+      "@id": "#pi9jbq",
+      "name": "Religions teach different sexual ethics",
+      "x": -318,
+      "y": 255,
+      "parent": "#h49wbh"
+    },
+    {
+      "@id": "#j7bprg",
+      "name": "Kinsey's 1940s surveys began modern research",
+      "x": -401,
+      "y": 163,
+      "link": "https://en.wikipedia.org/wiki/Kinsey_Reports",
+      "parent": "#h49wbh"
+    },
+    {
+      "@id": "#3y9gjs",
+      "name": "Laws vary greatly by country",
+      "x": -444,
+      "y": 56,
+      "parent": "#h49wbh"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

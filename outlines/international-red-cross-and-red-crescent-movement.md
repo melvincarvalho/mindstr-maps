@@ -1,0 +1,31 @@
+category: Society
+aliases: red cross, red crescent, red cross movement, red cross and red crescent
+- International Red Cross and Red Crescent Movement
+  - Three parts of one Movement
+    - [ICRC protects victims of armed conflict](https://en.wikipedia.org/wiki/International_Committee_of_the_Red_Cross)
+    - About 190 national societies worldwide
+    - [IFRC coordinates disaster relief](https://en.wikipedia.org/wiki/International_Federation_of_Red_Cross_and_Red_Crescent_Societies)
+  - Origins
+    - [Henry Dunant saw Solferino's wounded, 1859](https://en.wikipedia.org/wiki/Henry_Dunant)
+    - ICRC founded in Geneva, 1863
+    - First Geneva Convention signed 1864
+    - Dunant shared the first Nobel Peace Prize
+    - ICRC won Nobel Peace Prize three times
+  - Seven Fundamental Principles
+    - Humanity and impartiality
+    - Neutrality and independence
+    - Voluntary service, unity and universality
+  - The emblems and the law
+    - [Geneva Conventions protect the emblem](https://en.wikipedia.org/wiki/Geneva_Conventions)
+    - Red cross, red crescent, red crystal
+    - Emblem marks protected medical workers
+    - Misusing the emblem is prohibited
+  - Work in armed conflict
+    - Visits prisoners of war and detainees
+    - Reconnects families separated by war
+    - Promotes international humanitarian law
+  - Work in peacetime
+    - Disaster response and recovery
+    - Blood donation services in many countries
+    - First aid training
+    - Community health programmes

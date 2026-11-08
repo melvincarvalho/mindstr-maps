@@ -1,0 +1,27 @@
+category: History
+aliases: pre-columbian americas, pre-columbian civilizations, americas before columbus
+- Pre-Columbian era
+  - Meaning
+    - The Americas before European contact
+    - Named after Columbus's 1492 voyage
+    - Spans many thousands of years
+  - First peoples
+    - [Arrived from Asia via Beringia](https://en.wikipedia.org/wiki/Settlement_of_the_Americas)
+    - By at least about 15,000 years ago
+    - [Clovis culture, about 13,000 years ago](https://en.wikipedia.org/wiki/Clovis_culture)
+  - Farming
+    - Maize domesticated in Mexico, 9,000 years ago
+    - Potatoes and quinoa in the Andes
+    - Beans, squash, cacao and tomatoes
+  - Great civilisations
+    - Mesoamerica: Olmecs, Maya, Teotihuacan, Aztecs
+    - Andes: Caral, Chavín, Moche, Inca
+    - [Tenochtitlan, among the world's largest cities](https://en.wikipedia.org/wiki/Tenochtitlan)
+  - North America
+    - [Cahokia, a Mississippian mound city](https://en.wikipedia.org/wiki/Cahokia)
+    - Ancestral Puebloan cliff dwellings
+    - Diverse peoples across the continent
+  - Contact and after
+    - Smallpox and other diseases devastated populations
+    - Spain conquered Aztecs 1521, Inca 1530s
+    - [Columbian exchange swapped crops and animals](https://en.wikipedia.org/wiki/Columbian_exchange)

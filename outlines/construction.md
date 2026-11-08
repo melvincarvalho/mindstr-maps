@@ -1,0 +1,33 @@
+category: Society
+aliases: building construction, construction industry, how buildings are built
+- Construction
+  - Planning and design
+    - Client sets the brief and budget
+    - Architects and engineers draw plans
+    - [Building permits and planning approval](https://en.wikipedia.org/wiki/Building_code)
+    - Site surveys check soil and access
+  - Main materials
+    - [Concrete is the most-used material](https://en.wikipedia.org/wiki/Concrete)
+    - Steel frames and reinforcing bars
+    - Timber, brick and stone
+    - Glass and modern composites
+  - Stages of a build
+    - Site clearing and excavation
+    - [Foundations spread the building's load](https://en.wikipedia.org/wiki/Foundation_%28engineering%29)
+    - Structural frame and roof
+    - Services: plumbing, wiring, ventilation
+    - Interior fit-out and finishes
+  - Types of construction
+    - Residential homes and flats
+    - Commercial offices and shops
+    - Infrastructure: roads, bridges, tunnels
+    - Industrial plants and warehouses
+  - People on site
+    - Project manager runs schedule and costs
+    - Skilled trades: carpenters, electricians, plumbers
+    - Heavy plant operators and labourers
+  - Safety and sustainability
+    - Falls are a leading cause of deaths
+    - Hard hats, harnesses and scaffolding
+    - Cement production emits much CO₂
+    - Insulation and recycled materials cut impact

@@ -1,0 +1,308 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Television",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ezqprx",
+      "name": "How TV works",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ucf3z8",
+      "name": "Camera turns images into signals",
+      "x": -464,
+      "y": -62,
+      "parent": "#ezqprx"
+    },
+    {
+      "@id": "#78rvgz",
+      "name": "Sent by air, cable or satellite",
+      "x": -396,
+      "y": -171,
+      "parent": "#ezqprx"
+    },
+    {
+      "@id": "#qmafh9",
+      "name": "Screen shows many frames per second",
+      "x": -305,
+      "y": -265,
+      "parent": "#ezqprx"
+    },
+    {
+      "@id": "#xzaxnh",
+      "name": "Invention",
+      "x": -19,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#waz4tb",
+      "name": "John Logie Baird's demonstration, 1926",
+      "x": -181,
+      "y": -330,
+      "link": "https://en.wikipedia.org/wiki/John_Logie_Baird",
+      "parent": "#xzaxnh"
+    },
+    {
+      "@id": "#kad7kz",
+      "name": "Philo Farnsworth's electronic TV, 1927",
+      "x": -41,
+      "y": -391,
+      "parent": "#xzaxnh"
+    },
+    {
+      "@id": "#e4s83x",
+      "name": "BBC regular service from 1936",
+      "x": 140,
+      "y": -445,
+      "parent": "#xzaxnh"
+    },
+    {
+      "@id": "#ih8gua",
+      "name": "Spreading into homes",
+      "x": 182,
+      "y": -113,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4drq7n",
+      "name": "Post-war boom in the 1950s",
+      "x": 246,
+      "y": -301,
+      "parent": "#ih8gua"
+    },
+    {
+      "@id": "#9kiy3x",
+      "name": "US colour broadcasts from 1954",
+      "x": 355,
+      "y": -221,
+      "parent": "#ih8gua"
+    },
+    {
+      "@id": "#rzt6tw",
+      "name": "Apollo 11 landing watched live, 1969",
+      "x": 502,
+      "y": -137,
+      "link": "https://en.wikipedia.org/wiki/Apollo_11",
+      "parent": "#ih8gua"
+    },
+    {
+      "@id": "#49pkmv",
+      "name": "Screens",
+      "x": 218,
+      "y": 60,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#i4e6ve",
+      "name": "Bulky cathode-ray tubes for decades",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Cathode-ray_tube",
+      "parent": "#49pkmv"
+    },
+    {
+      "@id": "#58qfyb",
+      "name": "Flat LCD and OLED panels",
+      "x": 426,
+      "y": 117,
+      "parent": "#49pkmv"
+    },
+    {
+      "@id": "#z7nvvy",
+      "name": "HD, then 4K resolution",
+      "x": 355,
+      "y": 221,
+      "parent": "#49pkmv"
+    },
+    {
+      "@id": "#79hmma",
+      "name": "What's on",
+      "x": 19,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nfy2xb",
+      "name": "News, sport and live events",
+      "x": 246,
+      "y": 301,
+      "parent": "#79hmma"
+    },
+    {
+      "@id": "#3qjfxg",
+      "name": "Soap operas, sitcoms and dramas",
+      "x": 110,
+      "y": 349,
+      "parent": "#79hmma"
+    },
+    {
+      "@id": "#ddk3jq",
+      "name": "Adverts fund commercial channels",
+      "x": -43,
+      "y": 407,
+      "parent": "#79hmma"
+    },
+    {
+      "@id": "#m2jpt9",
+      "name": "Public broadcasters funded by licence or taxes",
+      "x": -253,
+      "y": 465,
+      "parent": "#79hmma"
+    },
+    {
+      "@id": "#up4usx",
+      "name": "TV today",
+      "x": -202,
+      "y": 88,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#efaxmt",
+      "name": "Analogue switch-off brought digital TV",
+      "x": -305,
+      "y": 265,
+      "parent": "#up4usx"
+    },
+    {
+      "@id": "#f5dsz4",
+      "name": "Streaming services on demand",
+      "x": -396,
+      "y": 171,
+      "link": "https://en.wikipedia.org/wiki/Streaming_television",
+      "parent": "#up4usx"
+    },
+    {
+      "@id": "#q7utup",
+      "name": "Smart TVs connect to the internet",
+      "x": -444,
+      "y": 59,
+      "parent": "#up4usx"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

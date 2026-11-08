@@ -1,0 +1,30 @@
+category: Mathematics
+aliases: algebra basics, elementary algebra, school algebra
+- Algebra
+  - The core idea
+    - Letters stand for unknown numbers
+    - Rules that work for any number
+    - Generalises arithmetic patterns
+  - Expressions and equations
+    - Expressions like 3x + 2
+    - Equations state two things are equal
+    - Simplify by collecting like terms
+    - Expand and factorise brackets
+  - Solving equations
+    - Do the same to both sides
+    - 2x+3 = 11 gives x = 4
+    - [Quadratic formula solves x² equations](https://en.wikipedia.org/wiki/Quadratic_formula)
+    - Simultaneous equations with two unknowns
+  - Graphs and functions
+    - y = 2x+1 is a straight line
+    - Quadratics draw parabolas
+    - Functions turn inputs into outputs
+  - History
+    - Babylonians solved quadratics around 1800 BCE
+    - [Al-Khwarizmi's book named it, c. 820](https://en.wikipedia.org/wiki/Al-Khwarizmi)
+    - Viète introduced letters for numbers
+    - [Abel–Ruffini: no general quintic formula](https://en.wikipedia.org/wiki/Abel%E2%80%93Ruffini_theorem)
+  - Beyond school algebra
+    - [Linear algebra: vectors and matrices](https://en.wikipedia.org/wiki/Linear_algebra)
+    - [Abstract algebra: groups, rings, fields](https://en.wikipedia.org/wiki/Abstract_algebra)
+    - Used in physics, computing and economics

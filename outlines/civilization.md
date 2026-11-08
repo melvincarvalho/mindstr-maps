@@ -1,0 +1,30 @@
+category: History
+aliases: civilisation, what is civilization, rise of civilization, ancient civilizations
+- Civilization
+  - What makes a civilization
+    - Cities with dense populations
+    - Farming surpluses feed non-farmers
+    - Specialised jobs and social classes
+    - Writing and record keeping
+    - Organised government and religion
+  - [Cradles of civilization](https://en.wikipedia.org/wiki/Cradle_of_civilization)
+    - Mesopotamia, from about 3500 BC
+    - Ancient Egypt along the Nile
+    - Indus Valley in South Asia
+    - Yellow River valley in China
+    - Mesoamerica and the Andes, independently
+  - How civilizations grew
+    - Irrigation and the plough
+    - Trade networks spread goods and ideas
+    - Empires unite many peoples
+  - Why civilizations decline
+    - Climate shifts and drought
+    - War, invasion and overextension
+    - Disease, famine and economic collapse
+    - [Bronze Age collapse, about 1200 BC](https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse)
+    - [Western Roman Empire falls, 476](https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire)
+  - Debates about the idea
+    - Once used to rank peoples
+    - "Civilizing" used to justify colonialism
+    - Historians now avoid ranking cultures
+    - [The "clash of civilizations" thesis](https://en.wikipedia.org/wiki/Clash_of_Civilizations)

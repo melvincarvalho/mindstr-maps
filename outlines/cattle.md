@@ -1,0 +1,30 @@
+category: Science
+aliases: cows, cow, cattle farming, bos taurus
+- Cattle
+  - The animal
+    - Large grazing hoofed mammals
+    - Cows are female, bulls male
+    - Calves; castrated males are steers
+    - [Four-chambered stomach for digesting grass](https://en.wikipedia.org/wiki/Ruminant)
+  - Domestication
+    - [Descend from the extinct aurochs](https://en.wikipedia.org/wiki/Aurochs)
+    - Tamed about 10,500 years ago
+    - Taurine cattle from the Near East
+    - Humped zebu cattle from India
+  - What cattle give
+    - [Milk and dairy products](https://en.wikipedia.org/wiki/Dairy_cattle)
+    - Beef and leather
+    - Pulled ploughs and carts for millennia
+    - Dung used as fuel and fertiliser
+  - Numbers and breeds
+    - About 1 billion cattle worldwide
+    - Holstein is the top dairy breed
+    - Angus and Hereford raised for beef
+  - Behaviour
+    - Herd animals with social hierarchies
+    - Chew cud for hours each day
+    - Wide field of view, nearly 330 degrees
+  - Cattle and the world
+    - Belching releases methane, a greenhouse gas
+    - Grazing drives some deforestation
+    - Sacred to many Hindus

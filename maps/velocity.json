@@ -1,0 +1,309 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Velocity",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#3bcurs",
+      "name": "Speed with a direction",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3bcrmz",
+      "name": "50 km/h north is a velocity",
+      "x": -484,
+      "y": -65,
+      "parent": "#3bcurs"
+    },
+    {
+      "@id": "#qua3py",
+      "name": "Speed alone is a scalar",
+      "x": -396,
+      "y": -171,
+      "link": "https://en.wikipedia.org/wiki/Speed",
+      "parent": "#3bcurs"
+    },
+    {
+      "@id": "#iszwmb",
+      "name": "Velocity is a vector",
+      "x": -305,
+      "y": -265,
+      "link": "https://en.wikipedia.org/wiki/Euclidean_vector",
+      "parent": "#3bcurs"
+    },
+    {
+      "@id": "#9ys5gf",
+      "name": "Calculating it",
+      "x": 19,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#re4hqj",
+      "name": "Displacement divided by time",
+      "x": -181,
+      "y": -330,
+      "parent": "#9ys5gf"
+    },
+    {
+      "@id": "#87es8a",
+      "name": "Measured in metres per second",
+      "x": -41,
+      "y": -391,
+      "parent": "#9ys5gf"
+    },
+    {
+      "@id": "#yfzkh8",
+      "name": "Average versus instantaneous velocity",
+      "x": 140,
+      "y": -445,
+      "parent": "#9ys5gf"
+    },
+    {
+      "@id": "#v6eaut",
+      "name": "Slope of a position–time graph",
+      "x": 246,
+      "y": -301,
+      "parent": "#9ys5gf"
+    },
+    {
+      "@id": "#d3rvyz",
+      "name": "Changing velocity",
+      "x": 218,
+      "y": -60,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mh7myw",
+      "name": "Acceleration is change in velocity",
+      "x": 355,
+      "y": -221,
+      "link": "https://en.wikipedia.org/wiki/Acceleration",
+      "parent": "#d3rvyz"
+    },
+    {
+      "@id": "#sksax3",
+      "name": "Turning at steady speed still accelerates",
+      "x": 426,
+      "y": -117,
+      "parent": "#d3rvyz"
+    },
+    {
+      "@id": "#qzsa7b",
+      "name": "Braking means acceleration against motion",
+      "x": 450,
+      "y": 0,
+      "parent": "#d3rvyz"
+    },
+    {
+      "@id": "#ssevxe",
+      "name": "Velocity is relative",
+      "x": 182,
+      "y": 113,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xg8gd3",
+      "name": "Depends on the observer's frame",
+      "x": 464,
+      "y": 127,
+      "parent": "#ssevxe"
+    },
+    {
+      "@id": "#2xtbmy",
+      "name": "Walking on a train adds the speeds",
+      "x": 355,
+      "y": 221,
+      "parent": "#ssevxe"
+    },
+    {
+      "@id": "#ng98ia",
+      "name": "Light's speed is the same for everyone",
+      "x": 246,
+      "y": 301,
+      "parent": "#ssevxe"
+    },
+    {
+      "@id": "#vfqczc",
+      "name": "Famous velocities",
+      "x": -56,
+      "y": 178,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kkjkrw",
+      "name": "Light: about 300,000 km per second",
+      "x": 110,
+      "y": 349,
+      "parent": "#vfqczc"
+    },
+    {
+      "@id": "#67vgmt",
+      "name": "Escape velocity from Earth: 11.2 km/s",
+      "x": -43,
+      "y": 407,
+      "link": "https://en.wikipedia.org/wiki/Escape_velocity",
+      "parent": "#vfqczc"
+    },
+    {
+      "@id": "#fpu6ty",
+      "name": "Sound in air: about 343 m/s",
+      "x": -253,
+      "y": 465,
+      "parent": "#vfqczc"
+    },
+    {
+      "@id": "#whj332",
+      "name": "Earth orbits the Sun at 30 km/s",
+      "x": -305,
+      "y": 265,
+      "parent": "#vfqczc"
+    },
+    {
+      "@id": "#kzn9az",
+      "name": "Momentum: mass times velocity",
+      "x": -218,
+      "y": 60,
+      "link": "https://en.wikipedia.org/wiki/Momentum",
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2m94zz",
+      "name": "Conserved in collisions",
+      "x": -396,
+      "y": 171,
+      "parent": "#kzn9az"
+    },
+    {
+      "@id": "#w8x86g",
+      "name": "Heavy, fast objects are hardest to stop",
+      "x": -584,
+      "y": 80,
+      "parent": "#kzn9az"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

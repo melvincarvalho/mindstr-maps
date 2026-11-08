@@ -1,0 +1,352 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Logarithm",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#yq3sbb",
+      "name": "The idea",
+      "x": -197,
+      "y": -96,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9ergdr",
+      "name": "Asks: what power gives this number?",
+      "x": -446,
+      "y": -49,
+      "parent": "#yq3sbb"
+    },
+    {
+      "@id": "#s5pr88",
+      "name": "Log base 10 of 1000 is 3",
+      "x": -413,
+      "y": -143,
+      "parent": "#yq3sbb"
+    },
+    {
+      "@id": "#xamd6d",
+      "name": "The inverse of exponentiation",
+      "x": -349,
+      "y": -227,
+      "parent": "#yq3sbb"
+    },
+    {
+      "@id": "#rzervd",
+      "name": "Base-10 log roughly counts digits",
+      "x": -260,
+      "y": -294,
+      "parent": "#yq3sbb"
+    },
+    {
+      "@id": "#se9vid",
+      "name": "Common bases",
+      "x": -16,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#55myx8",
+      "name": "Base 10 for everyday calculation",
+      "x": -158,
+      "y": -354,
+      "parent": "#se9vid"
+    },
+    {
+      "@id": "#72zx98",
+      "name": "Natural log uses e, about 2.718",
+      "x": -34,
+      "y": -407,
+      "link": "https://en.wikipedia.org/wiki/Natural_logarithm",
+      "parent": "#se9vid"
+    },
+    {
+      "@id": "#m4wwum",
+      "name": "Base 2 in computing",
+      "x": 120,
+      "y": -464,
+      "parent": "#se9vid"
+    },
+    {
+      "@id": "#zh94dz",
+      "name": "Key rules",
+      "x": 178,
+      "y": -116,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#83k6ty",
+      "name": "Log of a product: add logs",
+      "x": 207,
+      "y": -320,
+      "parent": "#zh94dz"
+    },
+    {
+      "@id": "#f3edd8",
+      "name": "Log of a quotient: subtract logs",
+      "x": 307,
+      "y": -263,
+      "parent": "#zh94dz"
+    },
+    {
+      "@id": "#g94c58",
+      "name": "Log of a power: multiply",
+      "x": 384,
+      "y": -187,
+      "parent": "#zh94dz"
+    },
+    {
+      "@id": "#rdybwn",
+      "name": "Turns multiplication into addition",
+      "x": 433,
+      "y": -97,
+      "parent": "#zh94dz"
+    },
+    {
+      "@id": "#e9b573",
+      "name": "History",
+      "x": 211,
+      "y": 73,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cwzmt8",
+      "name": "John Napier published logarithms, 1614",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/John_Napier",
+      "parent": "#e9b573"
+    },
+    {
+      "@id": "#piznw3",
+      "name": "Briggs made base-10 tables",
+      "x": 433,
+      "y": 97,
+      "parent": "#e9b573"
+    },
+    {
+      "@id": "#yn9ujj",
+      "name": "Kepler used them for planetary orbits",
+      "x": 384,
+      "y": 187,
+      "parent": "#e9b573"
+    },
+    {
+      "@id": "#8acivu",
+      "name": "Slide rules used logs until 1970s",
+      "x": 307,
+      "y": 263,
+      "link": "https://en.wikipedia.org/wiki/Slide_rule",
+      "parent": "#e9b573"
+    },
+    {
+      "@id": "#cvnrj4",
+      "name": "Logarithmic scales",
+      "x": 16,
+      "y": 184,
+      "link": "https://en.wikipedia.org/wiki/Logarithmic_scale",
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3ts3cf",
+      "name": "Earthquake magnitude: each step ~32× energy",
+      "x": 207,
+      "y": 320,
+      "parent": "#cvnrj4"
+    },
+    {
+      "@id": "#9imnjf",
+      "name": "Decibels measure loudness",
+      "x": 96,
+      "y": 368,
+      "parent": "#cvnrj4"
+    },
+    {
+      "@id": "#sxjk9v",
+      "name": "pH measures acidity",
+      "x": -35,
+      "y": 423,
+      "parent": "#cvnrj4"
+    },
+    {
+      "@id": "#wgnvji",
+      "name": "Musical pitch: octaves double frequency",
+      "x": -214,
+      "y": 474,
+      "parent": "#cvnrj4"
+    },
+    {
+      "@id": "#gbe5u8",
+      "name": "Uses",
+      "x": -197,
+      "y": 96,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xwrm2x",
+      "name": "Solving for unknown exponents",
+      "x": -260,
+      "y": 294,
+      "parent": "#gbe5u8"
+    },
+    {
+      "@id": "#udxx9i",
+      "name": "Measuring growth rates and half-lives",
+      "x": -349,
+      "y": 227,
+      "parent": "#gbe5u8"
+    },
+    {
+      "@id": "#jser8r",
+      "name": "Algorithm speed, like binary search",
+      "x": -431,
+      "y": 149,
+      "parent": "#gbe5u8"
+    },
+    {
+      "@id": "#3nvxdb",
+      "name": "Log graphs show huge ranges",
+      "x": -446,
+      "y": 49,
+      "parent": "#gbe5u8"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    },
+    {
+      "start": 25,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,30 @@
+category: Society
+aliases: personality traits, personality psychology, big five personality traits
+- Personality
+  - What personality is
+    - Typical patterns of thinking, feeling, acting
+    - Fairly stable across time and situations
+    - Traits are spectrums, not boxes
+  - [The Big Five traits](https://en.wikipedia.org/wiki/Big_Five_personality_traits)
+    - Openness to experience
+    - Conscientiousness
+    - Extraversion
+    - Agreeableness
+    - Neuroticism
+  - Where it comes from
+    - About 40 to 50% heritable
+    - Shared family environment matters surprisingly little
+    - [Temperament visible from infancy](https://en.wikipedia.org/wiki/Temperament)
+  - How it changes
+    - More agreeable and conscientious with age
+    - Neuroticism tends to fall in adulthood
+    - Deliberate change is possible, but slow
+  - Measuring it
+    - Self-report questionnaires, checked by others
+    - [Myers-Briggs popular but poorly supported](https://en.wikipedia.org/wiki/Myers%E2%80%93Briggs_Type_Indicator)
+    - Astrology shows no link to personality
+    - Older ideas: four humours, Freud's id
+  - Why it matters
+    - Conscientiousness predicts work and health
+    - Shapes relationships and wellbeing
+    - [Personality disorders: rigid, harmful patterns](https://en.wikipedia.org/wiki/Personality_disorder)

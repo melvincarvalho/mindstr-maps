@@ -1,0 +1,32 @@
+category: History
+aliases: colonization of the americas, colonisation of the americas, european colonisation of the americas
+- European colonization of the Americas
+  - Before contact
+    - Tens of millions of Indigenous people
+    - Aztec, Inca and Maya civilisations
+    - Norse briefly reached Newfoundland around 1000
+  - Spain and Portugal first
+    - Columbus arrived in the Caribbean, 1492
+    - [Cortés toppled the Aztec Empire, 1521](https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Aztec_Empire)
+    - Pizarro conquered the Inca from 1532
+    - Portugal colonised Brazil from 1500
+  - Other European powers
+    - English settled Jamestown in 1607
+    - French built New France along St Lawrence
+    - Dutch founded New Amsterdam, later New York
+    - Caribbean islands divided among many powers
+  - Impact on Indigenous peoples
+    - Smallpox and other epidemics killed most
+    - Forced labour like encomienda and mita
+    - Land seized; peoples displaced or killed
+    - Missions pressed conversion and suppressed cultures
+  - Slavery and the plantation economy
+    - [About 12 million Africans shipped across Atlantic](https://en.wikipedia.org/wiki/Atlantic_slave_trade)
+    - Sugar, tobacco and cotton plantations
+    - Enslaved people resisted, revolted and escaped
+    - [Potosí silver flowed to Europe and Asia](https://en.wikipedia.org/wiki/Potos%C3%AD)
+  - Independence and legacy
+    - US independence declared 1776
+    - [Haitian Revolution ended slavery there, 1804](https://en.wikipedia.org/wiki/Haitian_Revolution)
+    - Most of Latin America independent by 1820s
+    - Mixed societies, languages and lasting inequalities

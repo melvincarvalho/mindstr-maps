@@ -1,0 +1,34 @@
+category: Geography
+aliases: russian federation, rossiya
+- Russia
+  - Geography
+    - Largest country, about 17 million km²
+    - Spans 11 time zones
+    - Ural Mountains divide Europe and Asia
+    - [Lake Baikal, the world's deepest lake](https://en.wikipedia.org/wiki/Lake_Baikal)
+    - Moscow is the capital
+  - People and languages
+    - About 145 million people
+    - Russian official; nearly 200 ethnic groups
+    - Mostly Orthodox Christian; sizeable Muslim minority
+  - History in brief
+    - Kievan Rus' founded 9th century
+    - Tsars expanded empire across Siberia
+    - [1917 revolution led to Soviet Union](https://en.wikipedia.org/wiki/Russian_Revolution)
+    - Soviet Union dissolved in 1991
+    - Crimea annexed 2014; most states reject this
+    - [Full-scale invasion of Ukraine, 2022](https://en.wikipedia.org/wiki/Russian_invasion_of_Ukraine)
+  - Government
+    - Federal republic with strong presidency
+    - Vladimir Putin dominant since 2000
+    - Federal Assembly: State Duma, Federation Council
+    - UN Security Council permanent member
+  - Economy
+    - Major oil and gas exporter
+    - Leading wheat exporter
+    - Currency is the rouble
+    - Western sanctions since 2014, widened 2022
+  - Culture
+    - Writers Tolstoy, Dostoevsky and Chekhov
+    - Tchaikovsky and the Bolshoi Ballet
+    - [Gagarin first human in space, 1961](https://en.wikipedia.org/wiki/Yuri_Gagarin)

@@ -1,0 +1,31 @@
+category: Science
+aliases: human eye, how the eye works, how eyes see
+- Eye
+  - Front of the eye
+    - Cornea bends incoming light
+    - Iris controls pupil size
+    - [Lens focuses light onto retina](https://en.wikipedia.org/wiki/Lens_%28vertebrate_anatomy%29)
+  - Back of the eye
+    - [Retina converts light to signals](https://en.wikipedia.org/wiki/Retina)
+    - Rods work in dim light
+    - Cones see colour and detail
+    - Optic nerve carries signals to brain
+  - How we see
+    - Image lands upside down
+    - Brain flips and merges both images
+    - Two eyes give depth perception
+    - Blind spot where optic nerve leaves
+  - Focusing problems
+    - [Short-sightedness: distant things blurry](https://en.wikipedia.org/wiki/Myopia)
+    - Long-sightedness: close things blurry
+    - Presbyopia: near focus fades after 40s
+    - Corrected by glasses, contacts or surgery
+  - Eye diseases
+    - [Cataracts cloud the lens](https://en.wikipedia.org/wiki/Cataract)
+    - Glaucoma damages the optic nerve
+    - Macular degeneration blurs central vision
+    - Diabetes can damage the retina
+  - Keeping eyes healthy
+    - Regular eye tests, even without symptoms
+    - Sunglasses that block UV
+    - Not smoking lowers eye disease risk

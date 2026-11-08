@@ -1,0 +1,31 @@
+category: History
+aliases: asian history, asia history, history of the asian continent
+- History of Asia
+  - Early civilizations
+    - Mesopotamia, between Tigris and Euphrates
+    - Indus Valley cities like Harappa
+    - Shang dynasty China, about 1600 BC
+  - Classical empires and ideas
+    - Persian Achaemenid Empire, from 550 BC
+    - Maurya Empire and Ashoka in India
+    - [Qin unifies China in 221 BC](https://en.wikipedia.org/wiki/Qin_dynasty)
+    - Buddhism, Confucianism and Hinduism take shape
+  - Trade and faith across Asia
+    - [Silk Road links China to Mediterranean](https://en.wikipedia.org/wiki/Silk_Road)
+    - Islam spreads from Arabia, 7th century
+    - Indian Ocean trade reaches Southeast Asia
+  - Great empires, 1200–1800
+    - [Mongols conquer much of Asia](https://en.wikipedia.org/wiki/Mongol_Empire)
+    - Ottoman, Safavid and Mughal empires
+    - Ming and Qing dynasties in China
+    - Tokugawa Japan limits foreign contact
+  - Colonialism and response
+    - British rule India from 1858
+    - [Opium Wars weaken Qing China](https://en.wikipedia.org/wiki/Opium_Wars)
+    - Meiji Japan modernises rapidly from 1868
+  - Twentieth century to today
+    - Japan's empire defeated in 1945
+    - India and Pakistan independent, 1947
+    - People's Republic of China founded, 1949
+    - Korean and Vietnam wars
+    - China and India become economic giants

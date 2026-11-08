@@ -1,0 +1,29 @@
+category: Science
+aliases: sex determination, sex biology, male and female biology
+- Biological sex
+  - What defines it
+    - [Gamete size: small sperm, large eggs](https://en.wikipedia.org/wiki/Anisogamy)
+    - Males make sperm, females make eggs
+    - Many plants and snails are hermaphrodites
+  - How sex is determined
+    - [Humans: XX or XY chromosomes](https://en.wikipedia.org/wiki/XY_sex-determination_system)
+    - SRY gene on Y triggers testes
+    - Birds use ZW chromosomes
+    - [Some reptiles: nest temperature decides](https://en.wikipedia.org/wiki/Temperature-dependent_sex_determination)
+  - Human development
+    - Early embryos have undifferentiated gonads
+    - Gonads become testes or ovaries
+    - Hormones shape internal and external anatomy
+    - Puberty brings secondary sex characteristics
+  - Intersex variations
+    - [Differences in sex development](https://en.wikipedia.org/wiki/Intersex)
+    - Examples: Klinefelter, Turner, androgen insensitivity
+    - Prevalence estimates vary with definition
+  - Sex differences
+    - Average differences in height and strength
+    - Diseases and drug effects can differ
+    - Large overlap between individuals
+  - Sex and gender
+    - Sex: biological traits
+    - Gender: social roles and identity
+    - Often used interchangeably in everyday speech

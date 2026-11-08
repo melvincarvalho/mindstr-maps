@@ -1,0 +1,351 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Injury",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ijn92z",
+      "name": "What counts as an injury",
+      "x": -197,
+      "y": -96,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sf35rc",
+      "name": "Damage to the body from outside force",
+      "x": -526,
+      "y": -57,
+      "parent": "#ijn92z"
+    },
+    {
+      "@id": "#2dbbg8",
+      "name": "Unintentional injuries are the most common",
+      "x": -431,
+      "y": -149,
+      "parent": "#ijn92z"
+    },
+    {
+      "@id": "#dhd5tf",
+      "name": "Intentional: assault and self-harm",
+      "x": -349,
+      "y": -227,
+      "parent": "#ijn92z"
+    },
+    {
+      "@id": "#3scgiw",
+      "name": "A leading cause of death under 45",
+      "x": -260,
+      "y": -294,
+      "parent": "#ijn92z"
+    },
+    {
+      "@id": "#5sx63r",
+      "name": "Common types",
+      "x": 47,
+      "y": -180,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jpyutt",
+      "name": "Cuts, grazes and bruises",
+      "x": -158,
+      "y": -354,
+      "parent": "#5sx63r"
+    },
+    {
+      "@id": "#wvrvh9",
+      "name": "Sprains stretch or tear ligaments",
+      "x": -34,
+      "y": -407,
+      "link": "https://en.wikipedia.org/wiki/Sprain",
+      "parent": "#5sx63r"
+    },
+    {
+      "@id": "#2itam3",
+      "name": "Broken bones, or fractures",
+      "x": 120,
+      "y": -464,
+      "parent": "#5sx63r"
+    },
+    {
+      "@id": "#nas2uy",
+      "name": "Burns from heat, chemicals or electricity",
+      "x": 207,
+      "y": -320,
+      "parent": "#5sx63r"
+    },
+    {
+      "@id": "#e3qice",
+      "name": "Head injuries and concussion",
+      "x": 307,
+      "y": -263,
+      "link": "https://en.wikipedia.org/wiki/Concussion",
+      "parent": "#5sx63r"
+    },
+    {
+      "@id": "#ddac9w",
+      "name": "Main causes",
+      "x": 228,
+      "y": -25,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xm2pkd",
+      "name": "Falls, especially in older people",
+      "x": 384,
+      "y": -187,
+      "parent": "#ddac9w"
+    },
+    {
+      "@id": "#it4zix",
+      "name": "Road traffic collisions",
+      "x": 433,
+      "y": -97,
+      "parent": "#ddac9w"
+    },
+    {
+      "@id": "#phy6da",
+      "name": "Sport and workplace accidents",
+      "x": 470,
+      "y": 0,
+      "parent": "#ddac9w"
+    },
+    {
+      "@id": "#tyb3ir",
+      "name": "Drowning and poisoning",
+      "x": 433,
+      "y": 97,
+      "parent": "#ddac9w"
+    },
+    {
+      "@id": "#njyxyg",
+      "name": "Immediate first aid",
+      "x": 133,
+      "y": 150,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pfcjd5",
+      "name": "Check the scene is safe first",
+      "x": 401,
+      "y": 195,
+      "parent": "#njyxyg"
+    },
+    {
+      "@id": "#gjf64x",
+      "name": "Press firmly on heavy bleeding",
+      "x": 307,
+      "y": 263,
+      "parent": "#njyxyg"
+    },
+    {
+      "@id": "#mfeauj",
+      "name": "Cool burns under running water",
+      "x": 207,
+      "y": 320,
+      "parent": "#njyxyg"
+    },
+    {
+      "@id": "#hfhh6n",
+      "name": "Call emergency services for serious injuries",
+      "x": 96,
+      "y": 368,
+      "parent": "#njyxyg"
+    },
+    {
+      "@id": "#883ti4",
+      "name": "Recovery and treatment",
+      "x": -91,
+      "y": 203,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8v2tgc",
+      "name": "Rest, ice, compression, elevation for sprains",
+      "x": -35,
+      "y": 423,
+      "parent": "#883ti4"
+    },
+    {
+      "@id": "#nvamgw",
+      "name": "Casts or surgery to set fractures",
+      "x": -214,
+      "y": 474,
+      "parent": "#883ti4"
+    },
+    {
+      "@id": "#8ckx3b",
+      "name": "Physiotherapy restores strength and movement",
+      "x": -260,
+      "y": 294,
+      "link": "https://en.wikipedia.org/wiki/Physical_therapy",
+      "parent": "#883ti4"
+    },
+    {
+      "@id": "#yd479u",
+      "name": "Prevention",
+      "x": -211,
+      "y": 73,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jrkyvs",
+      "name": "Seat belts, helmets and child seats",
+      "x": -541,
+      "y": 347,
+      "parent": "#yd479u"
+    },
+    {
+      "@id": "#at3dei",
+      "name": "Grab rails and good lighting against falls",
+      "x": -413,
+      "y": 143,
+      "parent": "#yd479u"
+    },
+    {
+      "@id": "#jr86nn",
+      "name": "Warm up and use proper technique",
+      "x": -466,
+      "y": 51,
+      "parent": "#yd479u"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 6,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 12,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    },
+    {
+      "start": 26,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

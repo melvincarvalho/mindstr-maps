@@ -1,0 +1,27 @@
+category: Geography
+aliases: rockies, the rockies, rocky mountain range
+- Rocky Mountains
+  - Where they are
+    - About 4,800 km long
+    - From British Columbia to New Mexico
+    - [Continental Divide runs along the crest](https://en.wikipedia.org/wiki/Continental_Divide_of_the_Americas)
+  - How they formed
+    - [Laramide orogeny, 80–55 million years ago](https://en.wikipedia.org/wiki/Laramide_orogeny)
+    - Ice age glaciers carved valleys
+    - Yellowstone hotspot sits nearby
+  - Peaks and features
+    - Mount Elbert, Colorado, highest at 4,401 m
+    - Colorado and Columbia rivers rise here
+    - Many peaks over 14,000 ft
+  - Wildlife
+    - Grizzly bears, elk and bighorn sheep
+    - Mountain goats and wolves
+    - Aspen and lodgepole pine forests
+  - People and history
+    - Home to Shoshone, Ute, Blackfeet peoples
+    - [Lewis and Clark crossed in 1805](https://en.wikipedia.org/wiki/Lewis_and_Clark_Expedition)
+    - Gold and silver rushes drew settlers
+  - Parks and recreation
+    - [Banff, Canada's first national park](https://en.wikipedia.org/wiki/Banff_National_Park)
+    - Rocky Mountain and Glacier national parks
+    - Skiing, hiking and climbing

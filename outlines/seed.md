@@ -1,0 +1,30 @@
+category: Science
+aliases: seeds, how seeds grow, seed germination
+- Seed
+  - What a seed is
+    - Embryo plant in a protective coat
+    - Food store: endosperm or cotyledons
+    - [Made by seed plants after fertilisation](https://en.wikipedia.org/wiki/Spermatophyte)
+  - Two main groups
+    - [Gymnosperms: naked seeds, like conifers](https://en.wikipedia.org/wiki/Gymnosperm)
+    - Flowering plants: seeds enclosed in fruit
+    - Monocots have one seed leaf
+    - Dicots have two seed leaves
+  - Getting dispersed
+    - Wind: dandelion parachutes, sycamore wings
+    - Animals eat fruit or carry burrs
+    - Water carries floating coconuts
+    - Some pods burst and fling seeds
+  - Dormancy
+    - [Waits for the right conditions](https://en.wikipedia.org/wiki/Seed_dormancy)
+    - Some need cold, fire or scratching
+    - A 2,000-year-old date seed sprouted
+  - Germination
+    - Needs water, oxygen and warmth
+    - Seed soaks up water and swells
+    - Root emerges first, then the shoot
+    - [Stored food lasts until photosynthesis begins](https://en.wikipedia.org/wiki/Germination)
+  - Seeds and people
+    - Grains like wheat, rice and maize
+    - Beans, nuts and cooking oils
+    - [Seed banks like Svalbard preserve diversity](https://en.wikipedia.org/wiki/Svalbard_Global_Seed_Vault)

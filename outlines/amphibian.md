@@ -1,0 +1,31 @@
+category: Science
+aliases: amphibians, frogs toads and salamanders, what is an amphibian
+- Amphibian
+  - What makes an amphibian
+    - Cold-blooded vertebrates living on land and water
+    - Thin, moist skin that absorbs oxygen
+    - Eggs without shells, usually laid in water
+    - Over 8,000 known species
+  - Three main groups
+    - [Frogs and toads, about 90% of species](https://en.wikipedia.org/wiki/Frog)
+    - [Salamanders and newts keep their tails](https://en.wikipedia.org/wiki/Salamander)
+    - Caecilians are legless and burrowing
+  - Life cycle
+    - Jelly-coated eggs laid in water
+    - [Tadpoles breathe with gills](https://en.wikipedia.org/wiki/Tadpole)
+    - [Metamorphosis grows legs and lungs](https://en.wikipedia.org/wiki/Metamorphosis)
+    - Some species skip the larval stage
+  - Body and behaviour
+    - Breathe through lungs, skin and mouth
+    - Many skin glands make toxins
+    - Frogs call loudly to attract mates
+    - Hibernate or aestivate through harsh seasons
+  - Evolution and history
+    - First vertebrates to walk on land
+    - From lobe-finned fish, 370 million years ago
+    - Ancestors of reptiles, birds and mammals
+  - Threats and conservation
+    - Most threatened vertebrate class today
+    - [Chytrid fungus has wiped out species](https://en.wikipedia.org/wiki/Chytridiomycosis)
+    - Habitat loss, pollution and climate change
+    - Sensitive skin makes them pollution indicators

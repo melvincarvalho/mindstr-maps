@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Gene",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#hgxmpq",
+      "name": "What a gene is",
+      "x": -169,
+      "y": -125,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e93en4",
+      "name": "A stretch of DNA with instructions",
+      "x": -445,
+      "y": -54,
+      "parent": "#hgxmpq"
+    },
+    {
+      "@id": "#t4ntqr",
+      "name": "Basic unit of heredity",
+      "x": -405,
+      "y": -156,
+      "parent": "#hgxmpq"
+    },
+    {
+      "@id": "#2tn66z",
+      "name": "Word coined by Wilhelm Johannsen, 1909",
+      "x": -330,
+      "y": -245,
+      "link": "https://en.wikipedia.org/wiki/Wilhelm_Johannsen",
+      "parent": "#hgxmpq"
+    },
+    {
+      "@id": "#awcb6p",
+      "name": "Sits at a fixed chromosome locus",
+      "x": -225,
+      "y": -312,
+      "parent": "#hgxmpq"
+    },
+    {
+      "@id": "#s9tyz6",
+      "name": "A few genes sit in mitochondria",
+      "x": -104,
+      "y": -367,
+      "parent": "#hgxmpq"
+    },
+    {
+      "@id": "#zysip9",
+      "name": "How a gene works",
+      "x": 115,
+      "y": -159,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dz9wzj",
+      "name": "Gene expression: DNA to RNA to protein",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Gene_expression",
+      "parent": "#zysip9"
+    },
+    {
+      "@id": "#jbu6j6",
+      "name": "Promoters switch genes on and off",
+      "x": 234,
+      "y": -485,
+      "parent": "#zysip9"
+    },
+    {
+      "@id": "#k89xvn",
+      "name": "Exons code; introns are cut out",
+      "x": 281,
+      "y": -281,
+      "parent": "#zysip9"
+    },
+    {
+      "@id": "#j4ndp6",
+      "name": "Some genes make only functional RNA",
+      "x": 389,
+      "y": -212,
+      "parent": "#zysip9"
+    },
+    {
+      "@id": "#itw32j",
+      "name": "Versions of genes",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uy7nf8",
+      "name": "Alleles are alternative forms",
+      "x": 430,
+      "y": -106,
+      "link": "https://en.wikipedia.org/wiki/Allele",
+      "parent": "#itw32j"
+    },
+    {
+      "@id": "#nyj4am",
+      "name": "Dominant and recessive alleles",
+      "x": 510,
+      "y": 0,
+      "parent": "#itw32j"
+    },
+    {
+      "@id": "#hr9t4n",
+      "name": "Mutations create new alleles",
+      "x": 430,
+      "y": 106,
+      "parent": "#itw32j"
+    },
+    {
+      "@id": "#6xphkn",
+      "name": "Genes and traits",
+      "x": 143,
+      "y": 144,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9gmn8i",
+      "name": "Most traits involve many genes",
+      "x": 372,
+      "y": 203,
+      "parent": "#6xphkn"
+    },
+    {
+      "@id": "#4yvkr4",
+      "name": "Environment also shapes traits",
+      "x": 281,
+      "y": 281,
+      "parent": "#6xphkn"
+    },
+    {
+      "@id": "#kjnbdu",
+      "name": "Single-gene disorders like cystic fibrosis",
+      "x": 164,
+      "y": 335,
+      "parent": "#6xphkn"
+    },
+    {
+      "@id": "#hn6bzj",
+      "name": "Gene counts",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b7qsbj",
+      "name": "Humans: about 20,000 protein-coding genes",
+      "x": 38,
+      "y": 391,
+      "parent": "#hn6bzj"
+    },
+    {
+      "@id": "#2jd99g",
+      "name": "E. coli bacterium: about 4,300 genes",
+      "x": -124,
+      "y": 447,
+      "parent": "#hn6bzj"
+    },
+    {
+      "@id": "#c7e44d",
+      "name": "Gene count doesn't track complexity",
+      "x": -235,
+      "y": 326,
+      "parent": "#hn6bzj"
+    },
+    {
+      "@id": "#9z9myk",
+      "name": "Working with genes",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8u53qh",
+      "name": "CRISPR edits genes precisely",
+      "x": -330,
+      "y": 245,
+      "link": "https://en.wikipedia.org/wiki/CRISPR_gene_editing",
+      "parent": "#9z9myk"
+    },
+    {
+      "@id": "#uyemnt",
+      "name": "Gene therapy treats some inherited diseases",
+      "x": -405,
+      "y": 156,
+      "parent": "#9z9myk"
+    },
+    {
+      "@id": "#ieymcx",
+      "name": "Genetically modified crops",
+      "x": -465,
+      "y": 56,
+      "parent": "#9z9myk"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 7,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

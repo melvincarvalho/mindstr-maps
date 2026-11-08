@@ -1,0 +1,30 @@
+category: Philosophy and religion
+aliases: holy bible, the bible, christian bible
+- Bible
+  - What it is
+    - Sacred scripture of Judaism and Christianity
+    - A library of books, not one book
+    - Written over roughly a thousand years
+  - Hebrew Bible / Old Testament
+    - [Torah: five books from Genesis to Deuteronomy](https://en.wikipedia.org/wiki/Torah)
+    - Prophets such as Isaiah and Jeremiah
+    - Writings: Psalms, Proverbs, Job
+    - Mostly Hebrew, some Aramaic
+  - New Testament
+    - [Four Gospels on Jesus' life](https://en.wikipedia.org/wiki/Gospel)
+    - Acts of the Apostles: the early church
+    - Letters of Paul and others
+    - Revelation: apocalyptic vision
+    - Written in Greek, first century CE
+  - Canons differ
+    - Protestant Bible has 66 books
+    - Catholic Bible adds the Deuterocanonical books
+    - Orthodox churches include a few more
+  - Translations
+    - [Septuagint: Greek translation of Hebrew scriptures](https://en.wikipedia.org/wiki/Septuagint)
+    - Jerome's Latin Vulgate around 400 CE
+    - [King James Version (1611)](https://en.wikipedia.org/wiki/King_James_Version)
+    - Most translated book in history
+  - How it is read
+    - Believers read it as inspired by God
+    - Scholars study authorship and historical context

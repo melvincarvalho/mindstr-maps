@@ -1,0 +1,307 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Secularism",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#westdv",
+      "name": "Core idea",
+      "x": -182,
+      "y": -113,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6khghj",
+      "name": "Government separate from religious institutions",
+      "x": -444,
+      "y": -59,
+      "parent": "#westdv"
+    },
+    {
+      "@id": "#b2iynx",
+      "name": "Equal treatment of all beliefs",
+      "x": -396,
+      "y": -171,
+      "parent": "#westdv"
+    },
+    {
+      "@id": "#r46eh2",
+      "name": "Laws based on public, not religious, reasons",
+      "x": -305,
+      "y": -265,
+      "parent": "#westdv"
+    },
+    {
+      "@id": "#hcjztd",
+      "name": "Not the same as atheism",
+      "x": -181,
+      "y": -330,
+      "parent": "#westdv"
+    },
+    {
+      "@id": "#c4epve",
+      "name": "Origins",
+      "x": 56,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#atqfex",
+      "name": "Wars of Religion pushed toleration in Europe",
+      "x": -41,
+      "y": -391,
+      "parent": "#c4epve"
+    },
+    {
+      "@id": "#rjsexg",
+      "name": "Locke's Letter Concerning Toleration (1689)",
+      "x": 140,
+      "y": -445,
+      "link": "https://en.wikipedia.org/wiki/A_Letter_Concerning_Toleration",
+      "parent": "#c4epve"
+    },
+    {
+      "@id": "#smcnny",
+      "name": "George Holyoake coined \"secularism\" in 1851",
+      "x": 246,
+      "y": -301,
+      "parent": "#c4epve"
+    },
+    {
+      "@id": "#cht7rs",
+      "name": "National models",
+      "x": 227,
+      "y": -30,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ra279j",
+      "name": "US First Amendment bans established religion",
+      "x": 355,
+      "y": -221,
+      "link": "https://en.wikipedia.org/wiki/Establishment_Clause",
+      "parent": "#cht7rs"
+    },
+    {
+      "@id": "#tgh3wn",
+      "name": "French laïcité keeps religion out of state",
+      "x": 426,
+      "y": -117,
+      "link": "https://en.wikipedia.org/wiki/Laïcité",
+      "parent": "#cht7rs"
+    },
+    {
+      "@id": "#674s2p",
+      "name": "Turkey's state-managed secularism under Atatürk",
+      "x": 570,
+      "y": 0,
+      "parent": "#cht7rs"
+    },
+    {
+      "@id": "#8gb8xa",
+      "name": "India's equal respect for all religions",
+      "x": 426,
+      "y": 117,
+      "parent": "#cht7rs"
+    },
+    {
+      "@id": "#c9744c",
+      "name": "In practice",
+      "x": 126,
+      "y": 154,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ppv2wk",
+      "name": "Religion-neutral public schools",
+      "x": 355,
+      "y": 221,
+      "parent": "#c9744c"
+    },
+    {
+      "@id": "#39svdq",
+      "name": "Civil marriage alongside religious weddings",
+      "x": 246,
+      "y": 301,
+      "parent": "#c9744c"
+    },
+    {
+      "@id": "#pug96y",
+      "name": "Freedom to practise or change religion",
+      "x": 110,
+      "y": 349,
+      "parent": "#c9744c"
+    },
+    {
+      "@id": "#82accm",
+      "name": "Debates",
+      "x": -92,
+      "y": 169,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#iavmi9",
+      "name": "Religious symbols in public places",
+      "x": -43,
+      "y": 407,
+      "parent": "#82accm"
+    },
+    {
+      "@id": "#67c85u",
+      "name": "Faith schools and public funding",
+      "x": -253,
+      "y": 465,
+      "parent": "#82accm"
+    },
+    {
+      "@id": "#kuqbqx",
+      "name": "Some countries keep official state churches",
+      "x": -305,
+      "y": 265,
+      "parent": "#82accm"
+    },
+    {
+      "@id": "#3i8zei",
+      "name": "Secularization",
+      "x": -218,
+      "y": 60,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r9duku",
+      "name": "Decline of religious practice in society",
+      "x": -396,
+      "y": 171,
+      "parent": "#3i8zei"
+    },
+    {
+      "@id": "#s38d3h",
+      "name": "Strong in Western Europe and East Asia",
+      "x": -504,
+      "y": 68,
+      "parent": "#3i8zei"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

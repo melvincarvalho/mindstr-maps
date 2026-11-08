@@ -1,0 +1,31 @@
+category: Health
+aliases: joint pain arthritis, arthritis symptoms, types of arthritis
+- Arthritis
+  - What it is
+    - Inflammation or damage in joints
+    - Over 100 different types
+    - A leading cause of disability
+  - Main types
+    - [Osteoarthritis: cartilage wears down](https://en.wikipedia.org/wiki/Osteoarthritis)
+    - [Rheumatoid arthritis attacks joint linings](https://en.wikipedia.org/wiki/Rheumatoid_arthritis)
+    - [Gout: uric acid crystals](https://en.wikipedia.org/wiki/Gout)
+    - Psoriatic arthritis and ankylosing spondylitis
+  - Risk factors
+    - Older age
+    - Excess weight strains knees and hips
+    - Past joint injuries
+    - Family history and being female
+  - Symptoms
+    - Joint pain and stiffness
+    - Morning stiffness in inflammatory types
+    - Swelling, warmth and reduced movement
+  - Diagnosis
+    - Examination of affected joints
+    - X-rays show joint damage
+    - Blood tests for inflammation markers
+  - Treatment and living well
+    - Regular exercise and physiotherapy
+    - Weight loss eases joint load
+    - Painkillers and anti-inflammatory drugs
+    - DMARDs slow rheumatoid arthritis
+    - [Joint replacement for severe damage](https://en.wikipedia.org/wiki/Joint_replacement)

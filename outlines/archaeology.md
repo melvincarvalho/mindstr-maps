@@ -1,0 +1,28 @@
+category: History
+aliases: archeology, archaeologist, what archaeologists do, archaeological excavation
+- Archaeology
+  - What it studies
+    - The human past through material remains
+    - Artefacts, buildings and landscapes
+    - Covers prehistory to recent times
+  - Finding sites
+    - Field survey and surface finds
+    - Aerial photos, satellites and lidar
+    - Geophysics sees beneath the ground
+  - Excavation
+    - [Stratigraphy: deeper layers are usually older](https://en.wikipedia.org/wiki/Stratigraphy_%28archaeology%29)
+    - Record every find's exact position
+    - Sieving recovers seeds, bones and beads
+  - Dating the finds
+    - [Radiocarbon dating reaches about 50,000 years](https://en.wikipedia.org/wiki/Radiocarbon_dating)
+    - Tree rings give exact years
+    - Pottery styles date layers
+  - Lab science
+    - Ancient DNA traces migrations
+    - Isotopes reveal diet and origins
+    - Pollen and bones rebuild environments
+  - Famous discoveries
+    - [Tutankhamun's tomb, 1922](https://en.wikipedia.org/wiki/KV62)
+    - Pompeii, buried by Vesuvius in AD 79
+    - [Terracotta Army found in China, 1974](https://en.wikipedia.org/wiki/Terracotta_Army)
+    - Göbekli Tepe, about 11,500 years old

@@ -1,0 +1,329 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Cleopatra",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#t7v9ky",
+      "name": "Who she was",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3zxrvw",
+      "name": "Last active ruler of Ptolemaic Egypt",
+      "x": -445,
+      "y": -54,
+      "parent": "#t7v9ky"
+    },
+    {
+      "@id": "#fegxzb",
+      "name": "Lived 69 to 30 BC",
+      "x": -405,
+      "y": -156,
+      "parent": "#t7v9ky"
+    },
+    {
+      "@id": "#fysnvm",
+      "name": "Macedonian Greek dynasty after Alexander",
+      "x": -330,
+      "y": -245,
+      "link": "https://en.wikipedia.org/wiki/Ptolemaic_dynasty",
+      "parent": "#t7v9ky"
+    },
+    {
+      "@id": "#bxps2h",
+      "name": "First of her line to speak Egyptian",
+      "x": -225,
+      "y": -312,
+      "parent": "#t7v9ky"
+    },
+    {
+      "@id": "#tek394",
+      "name": "Rise to the throne",
+      "x": 17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ixjy8f",
+      "name": "Co-ruled with brother Ptolemy XIII",
+      "x": -104,
+      "y": -367,
+      "parent": "#tek394"
+    },
+    {
+      "@id": "#4tifnw",
+      "name": "Driven out, then backed by Caesar",
+      "x": 42,
+      "y": -423,
+      "parent": "#tek394"
+    },
+    {
+      "@id": "#s32wgy",
+      "name": "Restored to power in 47 BC",
+      "x": 234,
+      "y": -485,
+      "parent": "#tek394"
+    },
+    {
+      "@id": "#pb8n7x",
+      "name": "Julius Caesar",
+      "x": 190,
+      "y": -104,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#74xiew",
+      "name": "Became his ally and lover",
+      "x": 281,
+      "y": -281,
+      "parent": "#pb8n7x"
+    },
+    {
+      "@id": "#an84f6",
+      "name": "Son Caesarion born about 47 BC",
+      "x": 372,
+      "y": -203,
+      "parent": "#pb8n7x"
+    },
+    {
+      "@id": "#mjcmqy",
+      "name": "Lived in Rome until his murder",
+      "x": 449,
+      "y": -111,
+      "parent": "#pb8n7x"
+    },
+    {
+      "@id": "#987qcy",
+      "name": "Mark Antony",
+      "x": 220,
+      "y": 54,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rn54vp",
+      "name": "Allied with Antony from 41 BC",
+      "x": 450,
+      "y": 0,
+      "parent": "#987qcy"
+    },
+    {
+      "@id": "#tg4vvk",
+      "name": "Three children together",
+      "x": 430,
+      "y": 106,
+      "parent": "#987qcy"
+    },
+    {
+      "@id": "#56b4b8",
+      "name": "Gave Roman lands to her children",
+      "x": 372,
+      "y": 203,
+      "parent": "#987qcy"
+    },
+    {
+      "@id": "#ddznqc",
+      "name": "Downfall",
+      "x": 51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2tiiwc",
+      "name": "Defeated by Octavian at Actium, 31 BC",
+      "x": 281,
+      "y": 281,
+      "link": "https://en.wikipedia.org/wiki/Battle_of_Actium",
+      "parent": "#ddznqc"
+    },
+    {
+      "@id": "#ifusr7",
+      "name": "Antony took his own life",
+      "x": 164,
+      "y": 335,
+      "parent": "#ddznqc"
+    },
+    {
+      "@id": "#mckvt3",
+      "name": "Died by suicide in Alexandria, 30 BC",
+      "x": 38,
+      "y": 391,
+      "parent": "#ddznqc"
+    },
+    {
+      "@id": "#v3bvnj",
+      "name": "Egypt became a Roman province",
+      "x": -124,
+      "y": 447,
+      "parent": "#ddznqc"
+    },
+    {
+      "@id": "#dcwuf9",
+      "name": "Legacy",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uxb2gy",
+      "name": "Shrewd, multilingual political ruler",
+      "x": -225,
+      "y": 312,
+      "parent": "#dcwuf9"
+    },
+    {
+      "@id": "#vnfh25",
+      "name": "Image shaped by hostile Roman sources",
+      "x": -330,
+      "y": 245,
+      "parent": "#dcwuf9"
+    },
+    {
+      "@id": "#6x7d79",
+      "name": "Shakespeare's Antony and Cleopatra",
+      "x": -405,
+      "y": 156,
+      "link": "https://en.wikipedia.org/wiki/Antony_and_Cleopatra",
+      "parent": "#dcwuf9"
+    },
+    {
+      "@id": "#e2ngwa",
+      "name": "Many films, including 1963 epic",
+      "x": -445,
+      "y": 54,
+      "parent": "#dcwuf9"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

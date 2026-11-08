@@ -1,0 +1,30 @@
+category: Science
+aliases: carbon element, element 6
+- Carbon
+  - Basics
+    - Atomic number 6, symbol C
+    - Forms four bonds per atom
+    - Builds chains, rings and huge molecules
+  - [Forms of pure carbon](https://en.wikipedia.org/wiki/Allotropes_of_carbon)
+    - Diamond: hardest natural material
+    - Graphite: soft, conducts electricity
+    - Graphene: one-atom-thick sheet
+    - Fullerenes and nanotubes
+  - Where it's found
+    - Fourth most abundant element in universe
+    - Rocks like limestone and chalk
+    - Coal, oil and natural gas
+    - CO₂ in air and oceans
+  - Basis of life
+    - [Organic chemistry is carbon chemistry](https://en.wikipedia.org/wiki/Organic_chemistry)
+    - Backbone of sugars, fats, proteins, DNA
+    - About 18% of human body mass
+  - [The carbon cycle](https://en.wikipedia.org/wiki/Carbon_cycle)
+    - Plants capture CO₂ by photosynthesis
+    - Respiration and decay release it
+    - Burning fossil fuels adds CO₂, warming climate
+  - Uses
+    - Steel is iron plus a little carbon
+    - Plastics and fuels from hydrocarbons
+    - [Carbon-14 dates ancient remains](https://en.wikipedia.org/wiki/Radiocarbon_dating)
+    - Carbon fibre for light, strong parts

@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Cell (biology)",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#pu2zx7",
+      "name": "Basic facts",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5m9yzv",
+      "name": "Smallest unit of life",
+      "x": -445,
+      "y": -54,
+      "parent": "#pu2zx7"
+    },
+    {
+      "@id": "#vjnu6u",
+      "name": "Cell theory: all life is cells",
+      "x": -405,
+      "y": -156,
+      "link": "https://en.wikipedia.org/wiki/Cell_theory",
+      "parent": "#pu2zx7"
+    },
+    {
+      "@id": "#9iiu5x",
+      "name": "New cells come from existing cells",
+      "x": -330,
+      "y": -245,
+      "parent": "#pu2zx7"
+    },
+    {
+      "@id": "#bdanzh",
+      "name": "Human body has about 30 trillion cells",
+      "x": -225,
+      "y": -312,
+      "parent": "#pu2zx7"
+    },
+    {
+      "@id": "#d7ipg3",
+      "name": "Two main kinds",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gtr9wy",
+      "name": "Prokaryotes lack a nucleus",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Prokaryote",
+      "parent": "#d7ipg3"
+    },
+    {
+      "@id": "#27d4ve",
+      "name": "Eukaryotes keep DNA in a nucleus",
+      "x": 42,
+      "y": -423,
+      "parent": "#d7ipg3"
+    },
+    {
+      "@id": "#u3h9u6",
+      "name": "Parts of a cell",
+      "x": 190,
+      "y": -104,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dtidjg",
+      "name": "Cell membrane controls what enters",
+      "x": 234,
+      "y": -485,
+      "link": "https://en.wikipedia.org/wiki/Cell_membrane",
+      "parent": "#u3h9u6"
+    },
+    {
+      "@id": "#34r55m",
+      "name": "Nucleus holds the DNA",
+      "x": 281,
+      "y": -281,
+      "parent": "#u3h9u6"
+    },
+    {
+      "@id": "#e4fbqa",
+      "name": "Mitochondria release energy as ATP",
+      "x": 372,
+      "y": -203,
+      "link": "https://en.wikipedia.org/wiki/Mitochondrion",
+      "parent": "#u3h9u6"
+    },
+    {
+      "@id": "#ye3ccm",
+      "name": "Ribosomes build proteins",
+      "x": 430,
+      "y": -106,
+      "parent": "#u3h9u6"
+    },
+    {
+      "@id": "#w9dcev",
+      "name": "Endoplasmic reticulum and Golgi process proteins",
+      "x": 450,
+      "y": 0,
+      "parent": "#u3h9u6"
+    },
+    {
+      "@id": "#epiarh",
+      "name": "Plant cells add",
+      "x": 190,
+      "y": 104,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ay3n97",
+      "name": "Cell wall made of cellulose",
+      "x": 449,
+      "y": 111,
+      "parent": "#epiarh"
+    },
+    {
+      "@id": "#bjwrwd",
+      "name": "Chloroplasts carry out photosynthesis",
+      "x": 372,
+      "y": 203,
+      "parent": "#epiarh"
+    },
+    {
+      "@id": "#4uz83b",
+      "name": "Large central vacuole",
+      "x": 281,
+      "y": 281,
+      "parent": "#epiarh"
+    },
+    {
+      "@id": "#2senu8",
+      "name": "What cells do",
+      "x": 17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u3q94r",
+      "name": "Copy DNA and make proteins",
+      "x": 164,
+      "y": 335,
+      "parent": "#2senu8"
+    },
+    {
+      "@id": "#sqef8y",
+      "name": "Signal to neighbouring cells",
+      "x": 38,
+      "y": 391,
+      "parent": "#2senu8"
+    },
+    {
+      "@id": "#iikw2b",
+      "name": "Specialise into nerve, muscle, blood",
+      "x": -124,
+      "y": 447,
+      "parent": "#2senu8"
+    },
+    {
+      "@id": "#k3su53",
+      "name": "Life cycle",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#w27m8x",
+      "name": "Mitosis makes two identical cells",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wikipedia.org/wiki/Mitosis",
+      "parent": "#k3su53"
+    },
+    {
+      "@id": "#rzg2bt",
+      "name": "Meiosis makes sex cells",
+      "x": -330,
+      "y": 245,
+      "parent": "#k3su53"
+    },
+    {
+      "@id": "#5h8k2i",
+      "name": "Programmed cell death removes old cells",
+      "x": -405,
+      "y": 156,
+      "parent": "#k3su53"
+    },
+    {
+      "@id": "#8cea38",
+      "name": "Uncontrolled division leads to cancer",
+      "x": -445,
+      "y": 54,
+      "parent": "#k3su53"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 9,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

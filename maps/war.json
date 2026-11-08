@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "War",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#jfc7wk",
+      "name": "What war is",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2r37f3",
+      "name": "Organised, sustained armed conflict between groups",
+      "x": -445,
+      "y": -54,
+      "parent": "#jfc7wk"
+    },
+    {
+      "@id": "#v49zja",
+      "name": "Interstate wars between countries",
+      "x": -405,
+      "y": -156,
+      "parent": "#jfc7wk"
+    },
+    {
+      "@id": "#dqfcfh",
+      "name": "Civil wars within one country",
+      "x": -330,
+      "y": -245,
+      "link": "https://en.wikipedia.org/wiki/Civil_war",
+      "parent": "#jfc7wk"
+    },
+    {
+      "@id": "#jafutn",
+      "name": "Most conflicts since 1945 are civil wars",
+      "x": -225,
+      "y": -312,
+      "parent": "#jfc7wk"
+    },
+    {
+      "@id": "#b678yv",
+      "name": "Common causes",
+      "x": 51,
+      "y": -179,
+      "link": "https://en.wikipedia.org/wiki/Causes_of_war",
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#acjv97",
+      "name": "Disputes over territory and resources",
+      "x": -104,
+      "y": -367,
+      "parent": "#b678yv"
+    },
+    {
+      "@id": "#9f7wt8",
+      "name": "Ethnic, religious or ideological divisions",
+      "x": 42,
+      "y": -423,
+      "parent": "#b678yv"
+    },
+    {
+      "@id": "#ebxbtk",
+      "name": "Weak states and political collapse",
+      "x": 234,
+      "y": -485,
+      "parent": "#b678yv"
+    },
+    {
+      "@id": "#nnn8ad",
+      "name": "Security fears and arms races",
+      "x": 281,
+      "y": -281,
+      "parent": "#b678yv"
+    },
+    {
+      "@id": "#sz7bui",
+      "name": "Major wars in history",
+      "x": 220,
+      "y": -54,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nzmqfz",
+      "name": "World War I, 1914–1918",
+      "x": 372,
+      "y": -203,
+      "link": "https://en.wikipedia.org/wiki/World_War_I",
+      "parent": "#sz7bui"
+    },
+    {
+      "@id": "#bjnfcf",
+      "name": "World War II, 1939–1945: deadliest war",
+      "x": 430,
+      "y": -106,
+      "parent": "#sz7bui"
+    },
+    {
+      "@id": "#6bjsdd",
+      "name": "Cold War proxy conflicts, 1947–1991",
+      "x": 450,
+      "y": 0,
+      "parent": "#sz7bui"
+    },
+    {
+      "@id": "#hgrwgs",
+      "name": "Laws of war",
+      "x": 190,
+      "y": 104,
+      "link": "https://en.wikipedia.org/wiki/International_humanitarian_law",
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bpvsre",
+      "name": "Geneva Conventions protect civilians and prisoners",
+      "x": 525,
+      "y": 131,
+      "parent": "#hgrwgs"
+    },
+    {
+      "@id": "#ys43cy",
+      "name": "UN Charter outlaws aggression, allows self-defence",
+      "x": 372,
+      "y": 203,
+      "parent": "#hgrwgs"
+    },
+    {
+      "@id": "#5ik2wx",
+      "name": "War crimes tried by international courts",
+      "x": 281,
+      "y": 281,
+      "parent": "#hgrwgs"
+    },
+    {
+      "@id": "#n9niq8",
+      "name": "Human costs",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#w6dax8",
+      "name": "Civilian deaths and injuries",
+      "x": 164,
+      "y": 335,
+      "parent": "#n9niq8"
+    },
+    {
+      "@id": "#j9he96",
+      "name": "Refugees and displaced people",
+      "x": 38,
+      "y": 391,
+      "parent": "#n9niq8"
+    },
+    {
+      "@id": "#3t63jg",
+      "name": "Destroyed homes, economies and health systems",
+      "x": -124,
+      "y": 447,
+      "parent": "#n9niq8"
+    },
+    {
+      "@id": "#m2fg9y",
+      "name": "Long-term trauma for survivors",
+      "x": -225,
+      "y": 312,
+      "parent": "#n9niq8"
+    },
+    {
+      "@id": "#rdqgex",
+      "name": "Ending and preventing war",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uysf6k",
+      "name": "Ceasefires and peace treaties",
+      "x": -330,
+      "y": 245,
+      "parent": "#rdqgex"
+    },
+    {
+      "@id": "#45zqzj",
+      "name": "Diplomacy and mediation",
+      "x": -405,
+      "y": 156,
+      "parent": "#rdqgex"
+    },
+    {
+      "@id": "#zetj9n",
+      "name": "UN peacekeeping missions",
+      "x": -485,
+      "y": 58,
+      "parent": "#rdqgex"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

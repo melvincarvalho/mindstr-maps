@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Linear algebra",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#79zm4t",
+      "name": "Vectors",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#naxgrp",
+      "name": "Arrows with length and direction",
+      "x": -445,
+      "y": -54,
+      "parent": "#79zm4t"
+    },
+    {
+      "@id": "#w2dtya",
+      "name": "Lists of numbers, like coordinates",
+      "x": -405,
+      "y": -156,
+      "parent": "#79zm4t"
+    },
+    {
+      "@id": "#gssjmk",
+      "name": "Add them tip to tail",
+      "x": -330,
+      "y": -245,
+      "parent": "#79zm4t"
+    },
+    {
+      "@id": "#ev6r82",
+      "name": "Matrices",
+      "x": -17,
+      "y": -183,
+      "link": "https://en.wikipedia.org/wiki/Matrix_%28mathematics%29",
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xz56xy",
+      "name": "Rectangular grids of numbers",
+      "x": -225,
+      "y": -312,
+      "parent": "#ev6r82"
+    },
+    {
+      "@id": "#6t2evq",
+      "name": "Each matrix transforms space",
+      "x": -104,
+      "y": -367,
+      "parent": "#ev6r82"
+    },
+    {
+      "@id": "#u3zdzy",
+      "name": "Rotate, stretch, shear or project",
+      "x": 42,
+      "y": -423,
+      "parent": "#ev6r82"
+    },
+    {
+      "@id": "#bwfq3u",
+      "name": "Multiplying matrices chains transformations",
+      "x": 234,
+      "y": -485,
+      "parent": "#ev6r82"
+    },
+    {
+      "@id": "#hvavg2",
+      "name": "Solving systems of equations",
+      "x": 190,
+      "y": -104,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kuyf33",
+      "name": "Many unknowns, many linear equations",
+      "x": 281,
+      "y": -281,
+      "parent": "#hvavg2"
+    },
+    {
+      "@id": "#zh3deu",
+      "name": "Gaussian elimination solves them step by step",
+      "x": 372,
+      "y": -203,
+      "link": "https://en.wikipedia.org/wiki/Gaussian_elimination",
+      "parent": "#hvavg2"
+    },
+    {
+      "@id": "#cp7bbe",
+      "name": "Determinant zero: no unique solution",
+      "x": 544,
+      "y": -136,
+      "parent": "#hvavg2"
+    },
+    {
+      "@id": "#8umy84",
+      "name": "Key ideas",
+      "x": 207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8hrndr",
+      "name": "Vector spaces and their dimension",
+      "x": 450,
+      "y": 0,
+      "parent": "#8umy84"
+    },
+    {
+      "@id": "#t6ah85",
+      "name": "A basis: the building-block vectors",
+      "x": 468,
+      "y": 116,
+      "parent": "#8umy84"
+    },
+    {
+      "@id": "#h8yemf",
+      "name": "Eigenvectors keep direction when transformed",
+      "x": 372,
+      "y": 203,
+      "link": "https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors",
+      "parent": "#8umy84"
+    },
+    {
+      "@id": "#u8hvas",
+      "name": "Rank counts independent directions",
+      "x": 281,
+      "y": 281,
+      "parent": "#8umy84"
+    },
+    {
+      "@id": "#k44xdr",
+      "name": "History",
+      "x": 17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cke2zm",
+      "name": "China's Nine Chapters solved linear systems",
+      "x": 164,
+      "y": 335,
+      "parent": "#k44xdr"
+    },
+    {
+      "@id": "#f4x52w",
+      "name": "Grassmann's vector spaces, 1844",
+      "x": 38,
+      "y": 391,
+      "parent": "#k44xdr"
+    },
+    {
+      "@id": "#gjbgqf",
+      "name": "Cayley and Sylvester developed matrices, 1850s",
+      "x": -124,
+      "y": 447,
+      "parent": "#k44xdr"
+    },
+    {
+      "@id": "#8xezvv",
+      "name": "Uses",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3sixir",
+      "name": "3D graphics rotate and project scenes",
+      "x": -245,
+      "y": 340,
+      "parent": "#8xezvv"
+    },
+    {
+      "@id": "#j7yrp2",
+      "name": "Google's PageRank used eigenvectors",
+      "x": -330,
+      "y": 245,
+      "link": "https://en.wikipedia.org/wiki/PageRank",
+      "parent": "#8xezvv"
+    },
+    {
+      "@id": "#zz3w9s",
+      "name": "Neural networks multiply huge matrices",
+      "x": -405,
+      "y": 156,
+      "parent": "#8xezvv"
+    },
+    {
+      "@id": "#d8bjyv",
+      "name": "Quantum mechanics works in vector spaces",
+      "x": -445,
+      "y": 54,
+      "parent": "#8xezvv"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

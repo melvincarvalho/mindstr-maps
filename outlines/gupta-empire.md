@@ -1,0 +1,28 @@
+category: History
+aliases: gupta dynasty, gupta period, gupta era, gupta golden age
+- Gupta Empire
+  - Rise
+    - Rose in northern India, about AD 320
+    - Chandragupta I built its power
+    - Capital at Pataliputra on the Ganges
+  - Great rulers
+    - [Samudragupta expanded it by conquest](https://en.wikipedia.org/wiki/Samudragupta)
+    - [Chandragupta II brought its peak](https://en.wikipedia.org/wiki/Chandragupta_II)
+    - Kumaragupta I founded Nalanda monastery-university
+  - Science and maths
+    - [Aryabhata proposed Earth rotates daily](https://en.wikipedia.org/wiki/Aryabhata)
+    - Decimal place-value numerals developed
+    - Varahamihira wrote on astronomy
+  - Arts and literature
+    - [Kalidasa wrote the play Shakuntala](https://en.wikipedia.org/wiki/K%C4%81lid%C4%81sa)
+    - Ajanta cave paintings from the era
+    - Early stone Hindu temples built
+    - Sanskrit flourished as court language
+  - Society and religion
+    - Hindu revival centred on Vishnu, Shiva
+    - Buddhism and Jainism also patronised
+    - Chinese pilgrim Faxian visited, about 400
+  - Decline
+    - Hun invasions from the northwest
+    - Fragmented by the mid-6th century
+    - Remembered as India's classical golden age

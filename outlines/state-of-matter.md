@@ -1,0 +1,29 @@
+category: Science
+aliases: states of matter, phases of matter, phase of matter
+- State of matter
+  - Four everyday states
+    - [Solid keeps its shape and volume](https://en.wikipedia.org/wiki/Solid)
+    - [Liquid flows but keeps its volume](https://en.wikipedia.org/wiki/Liquid)
+    - [Gas fills any container](https://en.wikipedia.org/wiki/Gas)
+    - [Plasma: hot gas of charged particles](https://en.wikipedia.org/wiki/Plasma_%28physics%29)
+  - What decides the state
+    - How fast the particles move
+    - How strongly particles attract each other
+    - Temperature and pressure together
+  - Changing state
+    - Melting and freezing: solid and liquid
+    - Boiling, evaporation and condensation
+    - Sublimation: dry ice to gas directly
+    - Deposition: frost forms straight from vapour
+  - Energy and temperature
+    - Temperature stalls while state changes
+    - Hidden heat called latent heat
+    - [Phase diagram maps states by conditions](https://en.wikipedia.org/wiki/Phase_diagram)
+  - Water in all three
+    - Ice melts at 0°C
+    - Boils at 100°C at sea level
+    - Ice floats because it is less dense
+  - Exotic states
+    - Bose–Einstein condensate near absolute zero
+    - Superfluids flow with zero friction
+    - Liquid crystals in phone screens

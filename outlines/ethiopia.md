@@ -1,0 +1,33 @@
+category: Geography
+aliases: federal democratic republic of ethiopia, abyssinia
+- Ethiopia
+  - Geography
+    - Landlocked since Eritrea's independence in 1993
+    - [Highlands called the "Roof of Africa"](https://en.wikipedia.org/wiki/Ethiopian_Highlands)
+    - Blue Nile rises at Lake Tana
+    - Danakil Depression, among Earth's hottest places
+  - People and languages
+    - About 125 million, Africa's second most populous
+    - Capital Addis Ababa, African Union seat
+    - Amharic, Oromo and over 80 languages
+    - Orthodox Christian and Muslim communities
+  - History in brief
+    - [Kingdom of Aksum from about 100 CE](https://en.wikipedia.org/wiki/Kingdom_of_Aksum)
+    - [Defeated Italy at Adwa in 1896](https://en.wikipedia.org/wiki/Battle_of_Adwa)
+    - Italian occupation, 1936 to 1941
+    - [Haile Selassie, last emperor, deposed 1974](https://en.wikipedia.org/wiki/Haile_Selassie)
+    - Derg military rule until 1991
+  - Government
+    - Federal parliamentary republic
+    - Regional states drawn largely along ethnicity
+    - Tigray War, 2020 to 2022
+  - Economy
+    - Birthplace of coffee, a top export
+    - Grand Ethiopian Renaissance Dam for power
+    - Ethiopian Airlines, Africa's largest airline
+    - Most people work in farming
+  - Culture and known for
+    - Own calendar, about 7–8 years behind
+    - [Rock-hewn churches of Lalibela](https://en.wikipedia.org/wiki/Lalibela)
+    - Injera flatbread and the coffee ceremony
+    - Lucy, a 3.2-million-year-old fossil

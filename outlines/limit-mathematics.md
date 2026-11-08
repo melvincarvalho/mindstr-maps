@@ -1,0 +1,32 @@
+category: Mathematics
+aliases: limit of a function, limits in calculus, limit of a sequence
+- Limit (mathematics)
+  - The idea
+    - The value something approaches
+    - Get as close as you like
+    - Need never actually arrive
+  - Simple examples
+    - 1/2, 1/4, 1/8… approaches 0
+    - 0.9, 0.99, 0.999… approaches 1
+    - Polygons with more sides approach circles
+    - Compound interest more often approaches e
+  - Kinds of limits
+    - [Limits of sequences](https://en.wikipedia.org/wiki/Limit_of_a_sequence)
+    - [Limits of functions](https://en.wikipedia.org/wiki/Limit_of_a_function)
+    - One-sided: from left or right
+    - Limits at infinity: long-run behaviour
+  - Precise definition
+    - Epsilon-delta, from Cauchy and Weierstrass
+    - Any tolerance, however small, is met
+    - Some limits do not exist
+  - What limits build
+    - [Derivatives: limits of slopes](https://en.wikipedia.org/wiki/Derivative)
+    - Integrals: limits of sums
+    - Continuity: no jumps or gaps
+    - Sums of infinite series
+  - History
+    - Zeno's paradoxes raised the problem
+    - Archimedes' method of exhaustion
+    - Newton's "ultimate ratios"
+    - [Berkeley mocked "ghosts of departed quantities"](https://en.wikipedia.org/wiki/The_Analyst)
+    - Rigour finally arrived in the 1800s

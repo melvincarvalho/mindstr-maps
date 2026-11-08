@@ -1,0 +1,30 @@
+category: Science
+aliases: cosmology, study of the universe, cosmology physics
+- Physical cosmology
+  - What it studies
+    - Origin, evolution and fate of the universe
+    - Built on general relativity
+    - Tests ideas with telescope observations
+  - [The Big Bang](https://en.wikipedia.org/wiki/Big_Bang)
+    - Universe about 13.8 billion years old
+    - Began hot and dense, then expanded
+    - [Inflation: rapid early growth spurt](https://en.wikipedia.org/wiki/Inflation_%28cosmology%29)
+    - First nuclei formed in minutes
+  - Key evidence
+    - Hubble: galaxies recede, 1929
+    - [Cosmic microwave background, found 1965](https://en.wikipedia.org/wiki/Cosmic_microwave_background)
+    - Hydrogen and helium abundances match predictions
+  - What the universe contains
+    - Ordinary matter is only about 5%
+    - [Dark matter about 27%](https://en.wikipedia.org/wiki/Dark_matter)
+    - [Dark energy about 68%](https://en.wikipedia.org/wiki/Dark_energy)
+  - Cosmic history
+    - Atoms form, light escapes, ~380,000 years
+    - Dark ages before the first stars
+    - Galaxies and clusters assemble
+    - Expansion accelerating for 5 billion years
+  - Open questions
+    - What dark matter and energy are
+    - Hubble tension: expansion rates disagree
+    - Why more matter than antimatter
+    - Ultimate fate, likely endless cooling

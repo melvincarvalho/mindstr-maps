@@ -1,0 +1,329 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Violence",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#3nxsk9",
+      "name": "What counts as violence",
+      "x": -220,
+      "y": -54,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g2hhti",
+      "name": "Deliberate force causing harm or death",
+      "x": -545,
+      "y": -64,
+      "parent": "#3nxsk9"
+    },
+    {
+      "@id": "#8ma68n",
+      "name": "WHO definition includes threats and power",
+      "x": -405,
+      "y": -156,
+      "parent": "#3nxsk9"
+    },
+    {
+      "@id": "#ts72kx",
+      "name": "Types",
+      "x": -51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8nkvvn",
+      "name": "Self-directed: suicide and self-harm",
+      "x": -330,
+      "y": -245,
+      "parent": "#ts72kx"
+    },
+    {
+      "@id": "#7gjerk",
+      "name": "Interpersonal: assault, homicide, abuse",
+      "x": -225,
+      "y": -312,
+      "parent": "#ts72kx"
+    },
+    {
+      "@id": "#5pqijm",
+      "name": "Domestic violence within families",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Domestic_violence",
+      "parent": "#ts72kx"
+    },
+    {
+      "@id": "#yk8ubu",
+      "name": "Collective: war, terrorism, genocide",
+      "x": 42,
+      "y": -423,
+      "parent": "#ts72kx"
+    },
+    {
+      "@id": "#sn8jyi",
+      "name": "Structural: harm built into social systems",
+      "x": 234,
+      "y": -485,
+      "parent": "#ts72kx"
+    },
+    {
+      "@id": "#2t66ae",
+      "name": "Causes and risk factors",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wsqkmg",
+      "name": "Poverty and inequality",
+      "x": 281,
+      "y": -281,
+      "parent": "#2t66ae"
+    },
+    {
+      "@id": "#8yyj6p",
+      "name": "Alcohol and drug use",
+      "x": 372,
+      "y": -203,
+      "parent": "#2t66ae"
+    },
+    {
+      "@id": "#ge68cx",
+      "name": "Childhood exposure to abuse",
+      "x": 487,
+      "y": -121,
+      "parent": "#2t66ae"
+    },
+    {
+      "@id": "#a9qhvv",
+      "name": "Easy access to weapons",
+      "x": 450,
+      "y": 0,
+      "parent": "#2t66ae"
+    },
+    {
+      "@id": "#j3hq44",
+      "name": "Scale",
+      "x": 190,
+      "y": 104,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#keeb3e",
+      "name": "About 400,000+ homicides a year worldwide",
+      "x": 468,
+      "y": 116,
+      "parent": "#j3hq44"
+    },
+    {
+      "@id": "#bdh3a2",
+      "name": "Highest rates in Latin America",
+      "x": 372,
+      "y": 203,
+      "parent": "#j3hq44"
+    },
+    {
+      "@id": "#ahjjhk",
+      "name": "Most victims and perpetrators are young men",
+      "x": 281,
+      "y": 281,
+      "parent": "#j3hq44"
+    },
+    {
+      "@id": "#rnxdwe",
+      "name": "Long-term trends",
+      "x": 17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3i6iiw",
+      "name": "Steven Pinker: violence has declined",
+      "x": 164,
+      "y": 335,
+      "link": "https://en.wikipedia.org/wiki/The_Better_Angels_of_Our_Nature",
+      "parent": "#rnxdwe"
+    },
+    {
+      "@id": "#6qn4aq",
+      "name": "Critics dispute the decline thesis",
+      "x": 38,
+      "y": 391,
+      "parent": "#rnxdwe"
+    },
+    {
+      "@id": "#v49g6r",
+      "name": "World wars, 20th-century peaks",
+      "x": -124,
+      "y": 447,
+      "parent": "#rnxdwe"
+    },
+    {
+      "@id": "#wutzsq",
+      "name": "Prevention",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zjdvhw",
+      "name": "Public health approach treats it like disease",
+      "x": -365,
+      "y": 508,
+      "parent": "#wutzsq"
+    },
+    {
+      "@id": "#g4vbyn",
+      "name": "Policing and criminal justice",
+      "x": -330,
+      "y": 245,
+      "parent": "#wutzsq"
+    },
+    {
+      "@id": "#viagj5",
+      "name": "Parenting support and early education",
+      "x": -405,
+      "y": 156,
+      "parent": "#wutzsq"
+    },
+    {
+      "@id": "#4prp6b",
+      "name": "Gun control debates",
+      "x": -445,
+      "y": 54,
+      "link": "https://en.wikipedia.org/wiki/Gun_control",
+      "parent": "#wutzsq"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 4,
+      "end": 8
+    },
+    {
+      "start": 4,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

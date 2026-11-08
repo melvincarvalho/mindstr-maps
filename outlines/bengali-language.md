@@ -1,0 +1,31 @@
+category: Society
+aliases: bengali, bangla, bangla language, learn bengali
+- Bengali language
+  - Where it's spoken
+    - About 280 million speakers
+    - National language of Bangladesh
+    - West Bengal, Tripura and parts of Assam
+    - Large diaspora, including in Britain
+  - History and family
+    - Indo-Aryan branch of Indo-European
+    - Grew from Magadhi Prakrit
+    - Charyapada songs, around 1000 CE
+    - [Tagore won the Nobel Prize, 1913](https://en.wikipedia.org/wiki/Rabindranath_Tagore)
+  - Language Movement
+    - [1952 protests for Bengali's official status](https://en.wikipedia.org/wiki/Bengali_language_movement)
+    - [21 February: International Mother Language Day](https://en.wikipedia.org/wiki/International_Mother_Language_Day)
+    - Language central to Bangladesh's independence
+  - Sounds and writing
+    - [Bengali script, an abugida](https://en.wikipedia.org/wiki/Bengali_alphabet)
+    - Letters hang from a top line
+    - Vowel signs attach to consonants
+    - Aspirated sounds like kh, gh
+  - Grammar highlights
+    - Subject, object, then verb
+    - No grammatical gender
+    - Three levels of "you" by politeness
+    - Classifiers with numbers: ekṭa, duṭo
+  - Tips for learners
+    - Formal and colloquial styles differ
+    - Learn the script early
+    - Songs and Tagore lyrics aid listening

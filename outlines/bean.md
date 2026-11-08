@@ -1,0 +1,31 @@
+category: Life and home
+aliases: beans, legumes, pulses, dried beans
+- Bean
+  - What beans are
+    - [Seeds of plants in the legume family](https://en.wikipedia.org/wiki/Legume)
+    - Grow inside pods
+    - Dried seeds are called pulses
+    - Roots fix nitrogen, enriching soil
+  - Common kinds
+    - [Common bean: kidney, pinto, black, navy](https://en.wikipedia.org/wiki/Phaseolus_vulgaris)
+    - Chickpeas for hummus and curries
+    - Lentils cook fast without soaking
+    - [Soybeans make tofu, soy sauce](https://en.wikipedia.org/wiki/Soybean)
+    - Broad beans, one of the oldest crops
+  - Nutrition
+    - Plant protein, cheap and filling
+    - High in fibre and iron
+    - Low in fat
+    - Gas comes from hard-to-digest sugars
+  - Cooking dried beans
+    - Soak overnight, discard the water
+    - Boil hard; raw kidney beans are toxic
+    - Simmer until tender, salt near end
+    - Canned beans are ready to use
+  - Beans around the world
+    - Domesticated in the Americas and Middle East
+    - Rice and beans across Latin America
+    - Dal in India, baked beans in Britain
+  - Not really beans
+    - Coffee and cocoa beans are seeds
+    - Vanilla beans are orchid pods

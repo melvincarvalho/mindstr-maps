@@ -1,0 +1,30 @@
+category: Technology
+aliases: what is engineering, engineering disciplines, types of engineering
+- Engineering
+  - What engineers do
+    - Apply science and maths to design
+    - Meet needs within cost and safety limits
+    - Build, test and improve solutions
+  - Main branches
+    - [Civil: roads, bridges, water systems](https://en.wikipedia.org/wiki/Civil_engineering)
+    - [Mechanical: machines, engines, motion](https://en.wikipedia.org/wiki/Mechanical_engineering)
+    - [Electrical: power, circuits, electronics](https://en.wikipedia.org/wiki/Electrical_engineering)
+    - Chemical: turning raw materials into products
+    - Software, aerospace, biomedical and more
+  - The design process
+    - Define the problem and requirements
+    - Generate and compare concepts
+    - Model, prototype and test
+    - Refine, build and maintain
+  - Core tools
+    - Maths, physics and materials science
+    - Computer-aided design and simulation
+    - [Safety factors guard against failure](https://en.wikipedia.org/wiki/Factor_of_safety)
+  - Landmark achievements
+    - Roman aqueducts and roads
+    - Electrifying homes and industry
+    - Spaceflight and the Moon landings
+  - Becoming an engineer
+    - Usually an accredited engineering degree
+    - Chartered or licensed professional status
+    - Ethics codes put public safety first

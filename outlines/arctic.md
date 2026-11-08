@@ -1,0 +1,32 @@
+category: Geography
+aliases: the arctic, arctic region, arctic circle region
+- Arctic
+  - Where it is
+    - Region around the North Pole
+    - [Arctic Circle at about 66.5° N](https://en.wikipedia.org/wiki/Arctic_Circle)
+    - Arctic Ocean, the smallest ocean
+    - Parts of eight countries
+  - Climate and environment
+    - Long dark winters, midnight sun in summer
+    - [Sea ice shrinks each summer](https://en.wikipedia.org/wiki/Arctic_sea_ice_decline)
+    - Permafrost locks frozen ground
+    - Warming nearly four times faster than average
+  - Wildlife
+    - Polar bears hunt on sea ice
+    - Walrus, seals and whales
+    - Caribou and Arctic foxes on tundra
+    - Migratory birds breed in summer
+  - People
+    - About 4 million people live there
+    - [Inuit across Alaska, Canada, Greenland](https://en.wikipedia.org/wiki/Inuit)
+    - Sámi herd reindeer in Scandinavia
+    - Many other Indigenous peoples in Russia
+  - Exploration and history
+    - Searches for the Northwest Passage
+    - North Pole reached in early 1900s
+    - Strategic zone during the Cold War
+  - Politics and resources
+    - [Arctic Council coordinates eight states](https://en.wikipedia.org/wiki/Arctic_Council)
+    - Oil, gas and minerals beneath
+    - Melting ice opens new shipping routes
+    - Overlapping seabed claims under UNCLOS

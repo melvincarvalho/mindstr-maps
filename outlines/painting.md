@@ -1,0 +1,31 @@
+category: Arts and culture
+aliases: history of painting, art of painting, painting styles, famous paintings
+- Painting
+  - Materials
+    - Pigments mixed with a binder
+    - [Oil paint perfected in 15th-century Flanders](https://en.wikipedia.org/wiki/Oil_painting)
+    - Watercolour, gouache and acrylic
+    - Fresco painted on wet plaster
+    - Tempera made with egg yolk
+  - Kinds of painting
+    - Portrait, landscape and still life
+    - History and religious scenes
+    - Abstract art without recognisable subjects
+  - Early and Renaissance
+    - Lascaux cave paintings, about 17,000 years
+    - Giotto's frescoes bring realism, around 1300
+    - [Leonardo's Mona Lisa, begun about 1503](https://en.wikipedia.org/wiki/Mona_Lisa)
+    - Michelangelo's Sistine Chapel ceiling
+  - Baroque to Romanticism
+    - Caravaggio's dramatic light and shadow
+    - Rembrandt and Vermeer: Dutch Golden Age
+    - Turner and Constable paint nature
+  - Modern movements
+    - [Impressionism captures fleeting light, 1870s](https://en.wikipedia.org/wiki/Impressionism)
+    - Van Gogh's The Starry Night, 1889
+    - Picasso and Braque invent Cubism
+    - Abstract Expressionism: Pollock's drip paintings
+    - Warhol's Pop Art soup cans
+  - Looking at paintings
+    - Great collections: Louvre, Prado, Uffizi
+    - [Composition, colour and brushwork](https://en.wikipedia.org/wiki/Composition_%28visual_arts%29)

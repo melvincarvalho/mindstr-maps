@@ -1,0 +1,34 @@
+category: Geography
+aliases: republic of korea, south korea country
+- South Korea
+  - Land and cities
+    - Southern half of the Korean Peninsula
+    - Mountains cover about 70% of land
+    - [Seoul is the capital, about 9 million](https://en.wikipedia.org/wiki/Seoul)
+    - Busan is the largest port
+    - Jeju Island off the south coast
+  - People and language
+    - About 52 million people
+    - [Korean, written in the Hangul alphabet](https://en.wikipedia.org/wiki/Hangul)
+    - Very low birth rate, ageing fast
+    - Mostly no religion, Christian or Buddhist
+  - History in brief
+    - Joseon dynasty ruled 1392 to 1897
+    - Japanese colonial rule, 1910 to 1945
+    - Divided at the 38th parallel, 1945
+    - [Korean War, 1950 to 1953](https://en.wikipedia.org/wiki/Korean_War)
+    - Military rule, then democracy from 1987
+  - Government
+    - Presidential republic, single five-year term
+    - Armistice with North Korea, no peace treaty
+    - Alliance with US, American troops based
+  - Economy
+    - [Rapid growth: Miracle on the Han River](https://en.wikipedia.org/wiki/Miracle_on_the_Han_River)
+    - Samsung, Hyundai and LG conglomerates
+    - Leading maker of chips, ships, cars
+    - Among the world's top 15 economies
+  - Culture
+    - [K-pop and dramas: the Korean Wave](https://en.wikipedia.org/wiki/Korean_wave)
+    - Kimchi served with most meals
+    - Taekwondo originated here
+    - Hosted 1988 and 2018 Olympics

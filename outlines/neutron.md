@@ -1,0 +1,28 @@
+category: Science
+aliases: neutrons, what is a neutron
+- Neutron
+  - Basic facts
+    - No electric charge
+    - Slightly heavier than a proton
+    - Made of one up, two down quarks
+  - Discovery
+    - [James Chadwick found it in 1932](https://en.wikipedia.org/wiki/James_Chadwick)
+    - Explained why nuclei outweigh their protons
+    - Chadwick won the 1935 Nobel Prize
+  - In the nucleus
+    - Strong force binds it to protons
+    - Neutron count sets the isotope
+    - Too many or few makes nuclei unstable
+  - On its own
+    - [Free neutrons decay in about 15 minutes](https://en.wikipedia.org/wiki/Free_neutron_decay)
+    - Becomes a proton, electron and antineutrino
+  - Nuclear energy
+    - [Neutrons split uranium-235 nuclei](https://en.wikipedia.org/wiki/Nuclear_fission)
+    - Each split releases more neutrons
+    - Chain reactions power reactors and bombs
+    - Control rods absorb neutrons to slow reactions
+  - Other uses and wonders
+    - Neutron scattering reveals material structures
+    - Carbon-14 is made by cosmic-ray neutrons
+    - [Neutron stars: a city-sized dense core](https://en.wikipedia.org/wiki/Neutron_star)
+    - A neutron-star teaspoon weighs billions of tonnes

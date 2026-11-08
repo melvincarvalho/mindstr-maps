@@ -1,0 +1,28 @@
+category: Science
+aliases: earth's moon, the moon, luna, lunar facts
+- Moon
+  - Size and orbit
+    - About a quarter of Earth's width
+    - About 384,000 km from Earth
+    - Orbits Earth every 27.3 days
+    - [Same side always faces Earth](https://en.wikipedia.org/wiki/Tidal_locking)
+  - Origin
+    - Formed about 4.5 billion years ago
+    - [Likely from a giant impact](https://en.wikipedia.org/wiki/Giant-impact_hypothesis)
+    - Slowly moving away, about 3.8 cm/year
+  - Surface
+    - Dark maria are old lava plains
+    - Bright highlands are older crust
+    - Craters from billions of years of impacts
+    - Almost no atmosphere or liquid water
+    - Water ice in shadowed polar craters
+  - Effects on Earth
+    - Main cause of ocean tides
+    - Steadies Earth's axial tilt
+    - Phases repeat every 29.5 days
+    - [Solar and lunar eclipses](https://en.wikipedia.org/wiki/Eclipse)
+  - Exploration
+    - Luna 2 first to reach it, 1959
+    - Twelve Apollo astronauts walked there, 1969-72
+    - Chinese Chang'e missions returned samples
+    - [Artemis program plans crewed return](https://en.wikipedia.org/wiki/Artemis_program)

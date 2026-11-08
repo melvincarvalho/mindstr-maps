@@ -1,0 +1,31 @@
+category: History
+aliases: decolonisation, end of colonialism, end of empire, independence movements
+- Decolonization
+  - What it was
+    - Colonies winning independence from empires
+    - Main wave about 1945–1975
+    - Earlier: the Americas, 1776–1820s
+  - Why empires ended
+    - World War II weakened European powers
+    - Nationalist movements demanded self-rule
+    - UN Charter backed self-determination
+    - US and USSR opposed old empires
+  - Negotiated independence
+    - [India and Pakistan, 1947](https://en.wikipedia.org/wiki/Indian_independence_movement)
+    - Ghana led sub-Saharan Africa, 1957
+    - [Year of Africa: 17 nations, 1960](https://en.wikipedia.org/wiki/Year_of_Africa)
+  - Wars of independence
+    - Indonesia against the Dutch, 1945–49
+    - Vietnam against France, 1946–54
+    - [Algerian War against France, 1954–62](https://en.wikipedia.org/wiki/Algerian_War)
+    - Kenya's Mau Mau uprising
+    - Portugal's African wars ended 1974–75
+  - Costs and difficulties
+    - Partition of India displaced millions
+    - Colonial borders kept, sparking conflicts
+    - Economies still dependent on raw exports
+    - Cold War rivals backed proxy wars
+  - Legacy
+    - UN grew from 51 to 193 members
+    - [Non-Aligned Movement founded 1961](https://en.wikipedia.org/wiki/Non-Aligned_Movement)
+    - Debates over neocolonialism and reparations

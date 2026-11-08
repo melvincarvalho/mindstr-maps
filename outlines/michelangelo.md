@@ -1,0 +1,28 @@
+category: People
+aliases: michelangelo buonarroti, michelangelo di lodovico buonarroti simoni
+- Michelangelo
+  - Life
+    - Born 1475 in Caprese, Tuscany
+    - Trained in Florence under Medici patronage
+    - Worked for successive popes in Rome
+    - Died 1564 in Rome, aged 88
+  - Sculpture
+    - [Pietà, St Peter's Basilica, 1499](https://en.wikipedia.org/wiki/Piet%C3%A0_%28Michelangelo%29)
+    - [David, carved 1501–1504](https://en.wikipedia.org/wiki/David_%28Michelangelo%29)
+    - Moses for Pope Julius II's tomb
+    - Saw figures as freed from stone
+  - [Sistine Chapel ceiling](https://en.wikipedia.org/wiki/Sistine_Chapel_ceiling)
+    - Painted 1508–1512 for Julius II
+    - Genesis scenes, including Creation of Adam
+    - [The Last Judgment, altar wall, 1536–41](https://en.wikipedia.org/wiki/The_Last_Judgment_%28Michelangelo%29)
+  - Architecture
+    - Designed the dome of St Peter's
+    - Laurentian Library in Florence
+    - Redesigned Rome's Piazza del Campidoglio
+  - Other work
+    - Wrote around 300 poems and sonnets
+    - Designed Florence's fortifications, 1529
+  - Legacy
+    - Biographies published while he was alive
+    - Called "Il Divino", the divine one
+    - Defined the High Renaissance

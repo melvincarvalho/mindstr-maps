@@ -1,0 +1,33 @@
+category: Geography
+aliases: republic of the philippines, philippine islands
+- Philippines
+  - Land
+    - Over 7,000 islands
+    - Luzon, Visayas and Mindanao groups
+    - Manila capital, Quezon City most populous
+    - Typhoons and volcanoes such as Mayon
+    - [Banaue Rice Terraces](https://en.wikipedia.org/wiki/Banaue_Rice_Terraces)
+  - People and languages
+    - Over 110 million people
+    - Filipino and English are official
+    - Over 170 languages, Cebuano widely spoken
+    - About 80% Roman Catholic
+  - History in brief
+    - Magellan arrived in 1521
+    - Spanish colony for over 300 years
+    - [José Rizal inspired the revolution](https://en.wikipedia.org/wiki/Jos%C3%A9_Rizal)
+    - US rule after 1898
+    - Independence in 1946
+    - [People Power ousted Marcos, 1986](https://en.wikipedia.org/wiki/People_Power_Revolution)
+  - Government
+    - Presidential republic, modelled on the US
+    - President serves one six-year term
+    - South China Sea claims overlap China's
+  - Economy
+    - Call centres and business outsourcing
+    - Remittances from overseas Filipino workers
+    - Electronics are the top export
+  - Culture
+    - Jeepneys, colourful public transport
+    - Adobo and lechon
+    - Basketball is the top sport

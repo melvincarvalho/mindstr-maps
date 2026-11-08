@@ -1,0 +1,351 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Conservatism",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#izyhrp",
+      "name": "Core beliefs",
+      "x": -197,
+      "y": -96,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fzt99y",
+      "name": "Change gradually, not by revolution",
+      "x": -466,
+      "y": -51,
+      "parent": "#izyhrp"
+    },
+    {
+      "@id": "#pjyit8",
+      "name": "Tradition carries tested wisdom",
+      "x": -431,
+      "y": -149,
+      "parent": "#izyhrp"
+    },
+    {
+      "@id": "#a3aazp",
+      "name": "Order, family and community matter",
+      "x": -349,
+      "y": -227,
+      "parent": "#izyhrp"
+    },
+    {
+      "@id": "#6k696i",
+      "name": "Human nature is imperfect, limiting utopias",
+      "x": -260,
+      "y": -294,
+      "parent": "#izyhrp"
+    },
+    {
+      "@id": "#gx4jaj",
+      "name": "Key thinkers",
+      "x": 16,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#w49jwa",
+      "name": "Edmund Burke criticised the French Revolution",
+      "x": -158,
+      "y": -354,
+      "link": "https://en.wikipedia.org/wiki/Edmund_Burke",
+      "parent": "#gx4jaj"
+    },
+    {
+      "@id": "#jzqc8a",
+      "name": "Michael Oakeshott on practical experience",
+      "x": -34,
+      "y": -407,
+      "parent": "#gx4jaj"
+    },
+    {
+      "@id": "#bi6qvy",
+      "name": "Russell Kirk revived it in America",
+      "x": 120,
+      "y": -464,
+      "parent": "#gx4jaj"
+    },
+    {
+      "@id": "#b2icv6",
+      "name": "Roger Scruton defended national culture",
+      "x": 333,
+      "y": -516,
+      "parent": "#gx4jaj"
+    },
+    {
+      "@id": "#f454ph",
+      "name": "History",
+      "x": 211,
+      "y": -73,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k2ipy7",
+      "name": "Reaction to the French Revolution, 1790s",
+      "x": 307,
+      "y": -263,
+      "parent": "#f454ph"
+    },
+    {
+      "@id": "#95zwc2",
+      "name": "Disraeli's one-nation Toryism in Britain",
+      "x": 384,
+      "y": -187,
+      "parent": "#f454ph"
+    },
+    {
+      "@id": "#na3fgn",
+      "name": "Bismarck's state welfare in Germany",
+      "x": 471,
+      "y": -105,
+      "parent": "#f454ph"
+    },
+    {
+      "@id": "#saxep6",
+      "name": "Post-war Christian democracy in Europe",
+      "x": 450,
+      "y": 0,
+      "parent": "#f454ph"
+    },
+    {
+      "@id": "#4vc2vn",
+      "name": "Main strands",
+      "x": 178,
+      "y": 116,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dn6iae",
+      "name": "Traditionalist: religion, custom, authority",
+      "x": 490,
+      "y": 109,
+      "link": "https://en.wikipedia.org/wiki/Traditionalist_conservatism",
+      "parent": "#4vc2vn"
+    },
+    {
+      "@id": "#atq99c",
+      "name": "Fiscal: low taxes, limited spending",
+      "x": 384,
+      "y": 187,
+      "parent": "#4vc2vn"
+    },
+    {
+      "@id": "#fw2rf2",
+      "name": "Liberal conservatism embraces free markets",
+      "x": 307,
+      "y": 263,
+      "link": "https://en.wikipedia.org/wiki/Liberal_conservatism",
+      "parent": "#4vc2vn"
+    },
+    {
+      "@id": "#5i4pdw",
+      "name": "Social conservatism on family and morality",
+      "x": 207,
+      "y": 320,
+      "parent": "#4vc2vn"
+    },
+    {
+      "@id": "#x8w3x8",
+      "name": "Real-world examples",
+      "x": -47,
+      "y": 180,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mn3z3z",
+      "name": "UK Conservative Party since 1834",
+      "x": 96,
+      "y": 368,
+      "parent": "#x8w3x8"
+    },
+    {
+      "@id": "#swvpyn",
+      "name": "US Republican Party's modern right",
+      "x": -35,
+      "y": 423,
+      "parent": "#x8w3x8"
+    },
+    {
+      "@id": "#zt5rud",
+      "name": "Thatcher and Reagan in the 1980s",
+      "x": -214,
+      "y": 474,
+      "parent": "#x8w3x8"
+    },
+    {
+      "@id": "#pjuex7",
+      "name": "Germany's Christian Democratic Union",
+      "x": -260,
+      "y": 294,
+      "parent": "#x8w3x8"
+    },
+    {
+      "@id": "#6vwuvi",
+      "name": "Main criticisms",
+      "x": -211,
+      "y": 73,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rnw34f",
+      "name": "Can defend unfair hierarchies",
+      "x": -349,
+      "y": 227,
+      "parent": "#6vwuvi"
+    },
+    {
+      "@id": "#jjanwz",
+      "name": "Slow to extend rights to minorities",
+      "x": -413,
+      "y": 143,
+      "parent": "#6vwuvi"
+    },
+    {
+      "@id": "#apc2jr",
+      "name": "Tension between markets and tradition",
+      "x": -506,
+      "y": 55,
+      "parent": "#6vwuvi"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    },
+    {
+      "start": 26,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

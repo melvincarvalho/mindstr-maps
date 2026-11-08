@@ -1,0 +1,352 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Oven",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#7m7g8h",
+      "name": "Enclosed chamber that heats food",
+      "x": -221,
+      "y": -50,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6ym8jg",
+      "name": "Bakes, roasts and grills",
+      "x": -526,
+      "y": -57,
+      "parent": "#7m7g8h"
+    },
+    {
+      "@id": "#hvt9tu",
+      "name": "Hot air surrounds food evenly",
+      "x": -413,
+      "y": -143,
+      "parent": "#7m7g8h"
+    },
+    {
+      "@id": "#vsy3xz",
+      "name": "History",
+      "x": -77,
+      "y": -173,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2ifig3",
+      "name": "Earth pit ovens in prehistory",
+      "x": -349,
+      "y": -227,
+      "parent": "#vsy3xz"
+    },
+    {
+      "@id": "#x9m3nw",
+      "name": "Clay and brick bread ovens",
+      "x": -260,
+      "y": -294,
+      "parent": "#vsy3xz"
+    },
+    {
+      "@id": "#hhwgja",
+      "name": "Tandoor and wood-fired pizza ovens",
+      "x": -158,
+      "y": -354,
+      "link": "https://en.wikipedia.org/wiki/Tandoor",
+      "parent": "#vsy3xz"
+    },
+    {
+      "@id": "#8s2eac",
+      "name": "Cast-iron stoves in the 1800s",
+      "x": -34,
+      "y": -407,
+      "parent": "#vsy3xz"
+    },
+    {
+      "@id": "#37a6vj",
+      "name": "Gas and electric ovens spread, 1900s",
+      "x": 120,
+      "y": -464,
+      "parent": "#vsy3xz"
+    },
+    {
+      "@id": "#th3h9s",
+      "name": "Types today",
+      "x": 211,
+      "y": -73,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wsd7yi",
+      "name": "Gas oven",
+      "x": 207,
+      "y": -320,
+      "parent": "#th3h9s"
+    },
+    {
+      "@id": "#7hrwmk",
+      "name": "Electric oven",
+      "x": 307,
+      "y": -263,
+      "parent": "#th3h9s"
+    },
+    {
+      "@id": "#stcvss",
+      "name": "Fan oven circulates hot air",
+      "x": 384,
+      "y": -187,
+      "link": "https://en.wikipedia.org/wiki/Convection_oven",
+      "parent": "#th3h9s"
+    },
+    {
+      "@id": "#htjjhn",
+      "name": "Microwave heats the water in food",
+      "x": 471,
+      "y": -105,
+      "link": "https://en.wikipedia.org/wiki/Microwave_oven",
+      "parent": "#th3h9s"
+    },
+    {
+      "@id": "#9xu4sx",
+      "name": "Steam and combination ovens",
+      "x": 450,
+      "y": 0,
+      "parent": "#th3h9s"
+    },
+    {
+      "@id": "#qamu9q",
+      "name": "Toaster ovens and air fryers",
+      "x": 433,
+      "y": 97,
+      "parent": "#th3h9s"
+    },
+    {
+      "@id": "#qwawz4",
+      "name": "Cooking basics",
+      "x": 133,
+      "y": 150,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qw3veq",
+      "name": "Preheat before baking",
+      "x": 384,
+      "y": 187,
+      "parent": "#qwawz4"
+    },
+    {
+      "@id": "#qteu9r",
+      "name": "Fan ovens need about 20°C less",
+      "x": 307,
+      "y": 263,
+      "parent": "#qwawz4"
+    },
+    {
+      "@id": "#gnvtgd",
+      "name": "Oven thermometer checks true temperature",
+      "x": 207,
+      "y": 320,
+      "parent": "#qwawz4"
+    },
+    {
+      "@id": "#r9shxw",
+      "name": "Middle shelf heats most evenly",
+      "x": 96,
+      "y": 368,
+      "parent": "#qwawz4"
+    },
+    {
+      "@id": "#hwvy9e",
+      "name": "Safety and care",
+      "x": -106,
+      "y": 163,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rxbk6q",
+      "name": "Use oven gloves",
+      "x": -35,
+      "y": 423,
+      "parent": "#hwvy9e"
+    },
+    {
+      "@id": "#fw84z7",
+      "name": "Keep children away from hot doors",
+      "x": -214,
+      "y": 474,
+      "parent": "#hwvy9e"
+    },
+    {
+      "@id": "#c3bten",
+      "name": "Gas ovens need good ventilation",
+      "x": -260,
+      "y": 294,
+      "parent": "#hwvy9e"
+    },
+    {
+      "@id": "#9d4cda",
+      "name": "Self-cleaning burns residue to ash",
+      "x": -349,
+      "y": 227,
+      "parent": "#hwvy9e"
+    },
+    {
+      "@id": "#sy6vm8",
+      "name": "Industrial ovens",
+      "x": -221,
+      "y": 50,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bgwjp6",
+      "name": "Kilns fire pottery and bricks",
+      "x": -413,
+      "y": 143,
+      "link": "https://en.wikipedia.org/wiki/Kiln",
+      "parent": "#sy6vm8"
+    },
+    {
+      "@id": "#8ktfvk",
+      "name": "Tunnel ovens in commercial bakeries",
+      "x": -506,
+      "y": 55,
+      "parent": "#sy6vm8"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 4,
+      "end": 8
+    },
+    {
+      "start": 4,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 10,
+      "end": 15
+    },
+    {
+      "start": 10,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    },
+    {
+      "start": 0,
+      "end": 27
+    },
+    {
+      "start": 27,
+      "end": 28
+    },
+    {
+      "start": 27,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

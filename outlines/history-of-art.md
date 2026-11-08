@@ -1,0 +1,32 @@
+category: History
+aliases: art history, history of western art, art through the ages
+- History of art
+  - Prehistoric and ancient art
+    - [Lascaux cave paintings, about 17,000 years old](https://en.wikipedia.org/wiki/Lascaux)
+    - Egyptian art followed strict conventions
+    - Greek sculpture idealised the human body
+    - Romans spread portraits, mosaics and frescoes
+  - Medieval art
+    - Byzantine icons and gold mosaics
+    - Illuminated manuscripts in monasteries
+    - Gothic cathedrals filled with stained glass
+  - Renaissance and Baroque
+    - [Linear perspective rediscovered in 1400s Florence](https://en.wikipedia.org/wiki/Perspective_%28graphical%29)
+    - Leonardo, Michelangelo and Raphael
+    - Oil painting perfected in the Netherlands
+    - Caravaggio and Rembrandt's dramatic light
+  - Art beyond Europe
+    - Chinese ink landscape painting
+    - Islamic geometric patterns and calligraphy
+    - Japanese woodblock prints like Hokusai's
+    - African masks influenced Picasso
+  - Modern art
+    - [Impressionists painted light outdoors, 1870s](https://en.wikipedia.org/wiki/Impressionism)
+    - Cubism broke objects into facets
+    - Abstraction abandoned recognisable subjects
+    - Duchamp's readymades questioned what art is
+  - Contemporary art
+    - Pop Art borrowed from advertising
+    - Conceptual art puts ideas first
+    - [Installation, video and performance art](https://en.wikipedia.org/wiki/Installation_art)
+    - Global art fairs and biennales

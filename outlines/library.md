@@ -1,0 +1,30 @@
+category: Society
+aliases: libraries, public library, public libraries
+- Library
+  - What a library offers
+    - Books, journals and media to borrow
+    - Free internet and computers
+    - Quiet space to study and work
+    - Librarians help you find information
+  - Kinds of library
+    - Public libraries open to everyone
+    - Academic libraries at universities
+    - School libraries
+    - National libraries keep a country's record
+  - History
+    - [Ashurbanipal's clay tablet library, Nineveh](https://en.wikipedia.org/wiki/Library_of_Ashurbanipal)
+    - [Library of Alexandria, ancient learning centre](https://en.wikipedia.org/wiki/Library_of_Alexandria)
+    - Medieval monasteries copied manuscripts
+    - Carnegie funded over 2,500 libraries
+  - How it's organised
+    - [Dewey Decimal Classification by subject](https://en.wikipedia.org/wiki/Dewey_Decimal_Classification)
+    - Catalogue searchable online
+    - Call numbers locate each item
+  - Library values
+    - Free and equal access to information
+    - Protecting readers' privacy
+    - [Resisting censorship of books](https://en.wikipedia.org/wiki/Intellectual_freedom)
+  - Libraries today
+    - E-books and digital lending
+    - Community events and children's story times
+    - Library of Congress, among the largest

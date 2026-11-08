@@ -1,0 +1,28 @@
+category: Science
+aliases: atoms, what is an atom, structure of the atom, atomic structure
+- Atom
+  - The smallest unit of an element
+    - Every element has its own atom type
+    - About 50 million span a fingernail
+    - Mostly empty space around a tiny nucleus
+  - The nucleus
+    - [Protons give the atomic number](https://en.wikipedia.org/wiki/Atomic_number)
+    - Neutrons add mass and stability
+    - Holds over 99.9% of the mass
+    - [Isotopes differ in neutron count](https://en.wikipedia.org/wiki/Isotope)
+  - The electrons
+    - Negative charge balances the protons
+    - Arranged in shells and orbitals
+    - Outer electrons decide chemical behaviour
+    - Atoms bond by sharing or swapping electrons
+  - How the idea developed
+    - Democritus imagined indivisible atoms, 400s BC
+    - Dalton's atomic theory, 1808
+    - Thomson discovers the electron, 1897
+    - [Rutherford finds the nucleus, 1911](https://en.wikipedia.org/wiki/Rutherford_model)
+    - [Bohr's model: fixed electron orbits](https://en.wikipedia.org/wiki/Bohr_model)
+  - Atoms in everyday life
+    - Neon signs glow as electrons drop levels
+    - Atomic clocks keep GPS accurate
+    - Nuclear power splits uranium atoms
+    - Your body holds about 7 octillion atoms

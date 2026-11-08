@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Natural gas",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ypx4ed",
+      "name": "What it is",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ir4e6z",
+      "name": "Mostly methane, a simple hydrocarbon",
+      "x": -445,
+      "y": -51,
+      "parent": "#ypx4ed"
+    },
+    {
+      "@id": "#k758hd",
+      "name": "Formed from buried marine organisms",
+      "x": -409,
+      "y": -150,
+      "parent": "#ypx4ed"
+    },
+    {
+      "@id": "#d54xzw",
+      "name": "Trapped in porous rock under impermeable caps",
+      "x": -340,
+      "y": -236,
+      "parent": "#ypx4ed"
+    },
+    {
+      "@id": "#iqn9ep",
+      "name": "Odourant added so leaks can be smelled",
+      "x": -243,
+      "y": -303,
+      "parent": "#ypx4ed"
+    },
+    {
+      "@id": "#v3q7an",
+      "name": "Getting it out",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t82aw9",
+      "name": "Drilled wells, often alongside oil",
+      "x": -133,
+      "y": -360,
+      "parent": "#v3q7an"
+    },
+    {
+      "@id": "#7fddt7",
+      "name": "Fracking unlocks gas trapped in shale",
+      "x": 0,
+      "y": -408,
+      "link": "https://en.wikipedia.org/wiki/Hydraulic_fracturing",
+      "parent": "#v3q7an"
+    },
+    {
+      "@id": "#2ppqcg",
+      "name": "Piped across continents in pipelines",
+      "x": 175,
+      "y": -465,
+      "parent": "#v3q7an"
+    },
+    {
+      "@id": "#32swdc",
+      "name": "Shipped as chilled liquid, LNG",
+      "x": 243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Liquefied_natural_gas",
+      "parent": "#v3q7an"
+    },
+    {
+      "@id": "#ft8iew",
+      "name": "How it is used",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7ijsvg",
+      "name": "Gas turbines and combined-cycle power plants",
+      "x": 340,
+      "y": -236,
+      "link": "https://en.wikipedia.org/wiki/Combined_cycle_power_plant",
+      "parent": "#ft8iew"
+    },
+    {
+      "@id": "#qqrgvs",
+      "name": "Home heating and cooking",
+      "x": 409,
+      "y": -150,
+      "parent": "#ft8iew"
+    },
+    {
+      "@id": "#f6vfcs",
+      "name": "Feedstock for fertiliser via ammonia",
+      "x": 505,
+      "y": -57,
+      "parent": "#ft8iew"
+    },
+    {
+      "@id": "#dprmsr",
+      "name": "Industrial heat and chemicals",
+      "x": 445,
+      "y": 51,
+      "parent": "#ft8iew"
+    },
+    {
+      "@id": "#g3ebhr",
+      "name": "Share of world energy",
+      "x": 174,
+      "y": 120,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9xrki5",
+      "name": "About a quarter of primary energy",
+      "x": 463,
+      "y": 171,
+      "parent": "#g3ebhr"
+    },
+    {
+      "@id": "#8e8pna",
+      "name": "About a fifth of world electricity",
+      "x": 340,
+      "y": 236,
+      "parent": "#g3ebhr"
+    },
+    {
+      "@id": "#6ktp5p",
+      "name": "Top producers: US, Russia, Iran",
+      "x": 243,
+      "y": 303,
+      "parent": "#g3ebhr"
+    },
+    {
+      "@id": "#hh9ict",
+      "name": "Pros",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#999xm8",
+      "name": "Roughly half coal's CO₂ per kWh",
+      "x": 133,
+      "y": 360,
+      "parent": "#hh9ict"
+    },
+    {
+      "@id": "#m8m5mc",
+      "name": "Little soot, sulphur or ash",
+      "x": 0,
+      "y": 408,
+      "parent": "#hh9ict"
+    },
+    {
+      "@id": "#np6jnh",
+      "name": "Plants ramp quickly to balance renewables",
+      "x": -175,
+      "y": 465,
+      "parent": "#hh9ict"
+    },
+    {
+      "@id": "#7fpc4y",
+      "name": "Cons",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pm54qa",
+      "name": "Still a fossil fuel emitting CO₂",
+      "x": -243,
+      "y": 303,
+      "parent": "#7fpc4y"
+    },
+    {
+      "@id": "#vqkwp9",
+      "name": "Leaked methane is a potent greenhouse gas",
+      "x": -340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/Methane_emissions",
+      "parent": "#7fpc4y"
+    },
+    {
+      "@id": "#xm9naa",
+      "name": "Price spikes and supply politics",
+      "x": -409,
+      "y": 150,
+      "parent": "#7fpc4y"
+    },
+    {
+      "@id": "#ry86sh",
+      "name": "Fracking raises water and quake concerns",
+      "x": -445,
+      "y": 51,
+      "parent": "#7fpc4y"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

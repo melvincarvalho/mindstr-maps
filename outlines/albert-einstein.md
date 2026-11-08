@@ -1,0 +1,31 @@
+category: People
+aliases: einstein, albert einstein biography
+- Albert Einstein
+  - Early life
+    - Born in Ulm, Germany, 1879
+    - Grew up in Munich, then Switzerland
+    - Graduated from Zurich Polytechnic in 1900
+    - Clerk at the Bern patent office
+  - The miracle year, 1905
+    - [Light comes in quanta: photoelectric effect](https://en.wikipedia.org/wiki/Photoelectric_effect)
+    - Brownian motion showed atoms are real
+    - [Special relativity: space and time stretch](https://en.wikipedia.org/wiki/Special_relativity)
+    - [E = mc² links mass and energy](https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence)
+  - General relativity
+    - Completed in 1915
+    - [Gravity is curved spacetime](https://en.wikipedia.org/wiki/General_relativity)
+    - 1919 eclipse confirmed light bending
+    - Predicted gravitational waves, detected 2015
+  - Fame and politics
+    - 1921 Nobel Prize for the photoelectric effect
+    - Left Nazi Germany for Princeton, 1933
+    - [1939 letter urged US atomic research](https://en.wikipedia.org/wiki/Einstein%E2%80%93Szilard_letter)
+    - Pacifist and civil rights supporter
+  - Later years
+    - Argued with Bohr over quantum mechanics
+    - Sought a unified field theory
+    - Died in Princeton in 1955
+  - Legacy
+    - GPS satellites correct for relativity
+    - Basis of cosmology and black holes
+    - His name became shorthand for genius

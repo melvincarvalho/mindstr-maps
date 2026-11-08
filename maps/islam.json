@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Islam",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#afpsfk",
+      "name": "Core beliefs",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gykcfz",
+      "name": "One God, Allah, without partners",
+      "x": -444,
+      "y": -56,
+      "parent": "#afpsfk"
+    },
+    {
+      "@id": "#hj8bta",
+      "name": "Muhammad is the final prophet",
+      "x": -401,
+      "y": -163,
+      "parent": "#afpsfk"
+    },
+    {
+      "@id": "#qv59sr",
+      "name": "Earlier prophets include Abraham, Moses, Jesus",
+      "x": -318,
+      "y": -255,
+      "parent": "#afpsfk"
+    },
+    {
+      "@id": "#bxicrc",
+      "name": "Day of Judgement and afterlife",
+      "x": -204,
+      "y": -321,
+      "parent": "#afpsfk"
+    },
+    {
+      "@id": "#dtffpm",
+      "name": "Sacred texts",
+      "x": 36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ghqvk8",
+      "name": "Quran: God's word revealed to Muhammad",
+      "x": -73,
+      "y": -372,
+      "link": "https://en.wikipedia.org/wiki/Quran",
+      "parent": "#dtffpm"
+    },
+    {
+      "@id": "#2igg3i",
+      "name": "Hadith record Muhammad's sayings and deeds",
+      "x": 82,
+      "y": -420,
+      "parent": "#dtffpm"
+    },
+    {
+      "@id": "#igcq9s",
+      "name": "Sharia: religious law from these sources",
+      "x": 204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Sharia",
+      "parent": "#dtffpm"
+    },
+    {
+      "@id": "#wu5gjp",
+      "name": "Five Pillars",
+      "x": 227,
+      "y": -29,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#huck33",
+      "name": "Shahada: declaration of faith",
+      "x": 318,
+      "y": -255,
+      "parent": "#wu5gjp"
+    },
+    {
+      "@id": "#8ufwyz",
+      "name": "Salat: prayer five times daily",
+      "x": 401,
+      "y": -163,
+      "parent": "#wu5gjp"
+    },
+    {
+      "@id": "#iepnv4",
+      "name": "Zakat: giving to those in need",
+      "x": 484,
+      "y": -60,
+      "parent": "#wu5gjp"
+    },
+    {
+      "@id": "#pq2piu",
+      "name": "Sawm: fasting during Ramadan",
+      "x": 444,
+      "y": 56,
+      "parent": "#wu5gjp"
+    },
+    {
+      "@id": "#byvvtj",
+      "name": "Hajj: pilgrimage to Mecca",
+      "x": 401,
+      "y": 163,
+      "link": "https://en.wikipedia.org/wiki/Hajj",
+      "parent": "#wu5gjp"
+    },
+    {
+      "@id": "#7x7kaa",
+      "name": "Early history",
+      "x": 104,
+      "y": 164,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b3aw5v",
+      "name": "Muhammad born in Mecca about 570 CE",
+      "x": 318,
+      "y": 255,
+      "parent": "#7x7kaa"
+    },
+    {
+      "@id": "#65mrx9",
+      "name": "Hijra to Medina in 622 starts calendar",
+      "x": 204,
+      "y": 321,
+      "parent": "#7x7kaa"
+    },
+    {
+      "@id": "#hhricr",
+      "name": "Caliphates spread Islam across three continents",
+      "x": 73,
+      "y": 372,
+      "parent": "#7x7kaa"
+    },
+    {
+      "@id": "#wg929q",
+      "name": "Main branches",
+      "x": -104,
+      "y": 164,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rt3nsv",
+      "name": "Sunni Islam, about 85–90%",
+      "x": -82,
+      "y": 420,
+      "parent": "#wg929q"
+    },
+    {
+      "@id": "#padawb",
+      "name": "Shia Islam, about 10–15%",
+      "x": -204,
+      "y": 321,
+      "link": "https://en.wikipedia.org/wiki/Shia_Islam",
+      "parent": "#wg929q"
+    },
+    {
+      "@id": "#c6rdjz",
+      "name": "Sufism: mystical path within both",
+      "x": -318,
+      "y": 255,
+      "parent": "#wg929q"
+    },
+    {
+      "@id": "#6sa4y2",
+      "name": "Islam today",
+      "x": -219,
+      "y": 57,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hrtm5j",
+      "name": "About 1.9 billion followers",
+      "x": -401,
+      "y": 163,
+      "parent": "#6sa4y2"
+    },
+    {
+      "@id": "#kg3xek",
+      "name": "Indonesia has the largest Muslim population",
+      "x": -524,
+      "y": 64,
+      "parent": "#6sa4y2"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 10,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,363 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Caribbean",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#i8b8t9",
+      "name": "Geography",
+      "x": -182,
+      "y": -112,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#txzca3",
+      "name": "Islands between North and South America",
+      "x": -446,
+      "y": -47,
+      "parent": "#i8b8t9"
+    },
+    {
+      "@id": "#4mm3qg",
+      "name": "Caribbean Sea borders Central America",
+      "x": -452,
+      "y": -150,
+      "link": "https://en.wikipedia.org/wiki/Caribbean_Sea",
+      "parent": "#i8b8t9"
+    },
+    {
+      "@id": "#wb47ch",
+      "name": "Greater Antilles: Cuba, Hispaniola, Jamaica, Puerto Rico",
+      "x": -357,
+      "y": -219,
+      "parent": "#i8b8t9"
+    },
+    {
+      "@id": "#dddb89",
+      "name": "Lesser Antilles arc to the southeast",
+      "x": -274,
+      "y": -286,
+      "parent": "#i8b8t9"
+    },
+    {
+      "@id": "#xshjwc",
+      "name": "Bahamas lie in the Atlantic",
+      "x": -180,
+      "y": -348,
+      "parent": "#i8b8t9"
+    },
+    {
+      "@id": "#5dkrhz",
+      "name": "Climate and environment",
+      "x": 45,
+      "y": -262,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z297yh",
+      "name": "Tropical, warm all year",
+      "x": -68,
+      "y": -405,
+      "parent": "#5dkrhz"
+    },
+    {
+      "@id": "#bcehfa",
+      "name": "Hurricane season runs June to November",
+      "x": 77,
+      "y": -453,
+      "link": "https://en.wikipedia.org/wiki/Atlantic_hurricane_season",
+      "parent": "#5dkrhz"
+    },
+    {
+      "@id": "#r3smz7",
+      "name": "Coral reefs and volcanic islands",
+      "x": 172,
+      "y": -333,
+      "parent": "#5dkrhz"
+    },
+    {
+      "@id": "#ewhbg2",
+      "name": "People and languages",
+      "x": 199,
+      "y": -92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tdjkpt",
+      "name": "About 44 million people",
+      "x": 370,
+      "y": -390,
+      "parent": "#ewhbg2"
+    },
+    {
+      "@id": "#6su25b",
+      "name": "Spanish, English, French and Dutch spoken",
+      "x": 389,
+      "y": -239,
+      "parent": "#ewhbg2"
+    },
+    {
+      "@id": "#3b3eib",
+      "name": "Creole languages like Haitian Creole",
+      "x": 434,
+      "y": -144,
+      "parent": "#ewhbg2"
+    },
+    {
+      "@id": "#2agcs6",
+      "name": "African, European, Indigenous and Asian roots",
+      "x": 546,
+      "y": -57,
+      "parent": "#ewhbg2"
+    },
+    {
+      "@id": "#krdzpv",
+      "name": "History in brief",
+      "x": 182,
+      "y": 112,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ydt7pv",
+      "name": "Taíno and Kalinago peoples first inhabitants",
+      "x": 446,
+      "y": 47,
+      "parent": "#krdzpv"
+    },
+    {
+      "@id": "#n52sqd",
+      "name": "Columbus arrived in 1492",
+      "x": 416,
+      "y": 138,
+      "parent": "#krdzpv"
+    },
+    {
+      "@id": "#jzyr4z",
+      "name": "Sugar plantations used enslaved Africans",
+      "x": 357,
+      "y": 219,
+      "link": "https://en.wikipedia.org/wiki/Atlantic_slave_trade",
+      "parent": "#krdzpv"
+    },
+    {
+      "@id": "#8m3vcv",
+      "name": "Haiti won independence in 1804",
+      "x": 274,
+      "y": 286,
+      "parent": "#krdzpv"
+    },
+    {
+      "@id": "#zimgfk",
+      "name": "Many states independent since the 1960s",
+      "x": 180,
+      "y": 348,
+      "parent": "#krdzpv"
+    },
+    {
+      "@id": "#5eab4r",
+      "name": "Politics today",
+      "x": -30,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6muey4",
+      "name": "13 independent countries",
+      "x": 68,
+      "y": 405,
+      "parent": "#5eab4r"
+    },
+    {
+      "@id": "#vd2k6z",
+      "name": "Territories of US, UK, France, Netherlands",
+      "x": -77,
+      "y": 453,
+      "parent": "#5eab4r"
+    },
+    {
+      "@id": "#jk6dnz",
+      "name": "CARICOM promotes regional cooperation",
+      "x": -268,
+      "y": 513,
+      "link": "https://en.wikipedia.org/wiki/Caribbean_Community",
+      "parent": "#5eab4r"
+    },
+    {
+      "@id": "#bsf8uu",
+      "name": "Economy and culture",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cvuy8r",
+      "name": "Tourism is the main earner",
+      "x": -274,
+      "y": 286,
+      "parent": "#bsf8uu"
+    },
+    {
+      "@id": "#yb7n4r",
+      "name": "Sugar, bananas, rum and bauxite",
+      "x": -357,
+      "y": 219,
+      "parent": "#bsf8uu"
+    },
+    {
+      "@id": "#44i9cr",
+      "name": "Reggae, calypso, salsa and carnival",
+      "x": -434,
+      "y": 144,
+      "parent": "#bsf8uu"
+    },
+    {
+      "@id": "#h8hq8d",
+      "name": "Cricket and baseball are passions",
+      "x": -486,
+      "y": 51,
+      "parent": "#bsf8uu"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 16,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    },
+    {
+      "start": 26,
+      "end": 29
+    },
+    {
+      "start": 26,
+      "end": 30
+    }
+  ],
+  "selectedNode": 0
+}

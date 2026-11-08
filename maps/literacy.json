@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Literacy",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#iga3mz",
+      "name": "Reading and writing with understanding",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#swt8f8",
+      "name": "Functional literacy: coping with everyday texts",
+      "x": -645,
+      "y": -74,
+      "parent": "#iga3mz"
+    },
+    {
+      "@id": "#a4nykq",
+      "name": "Often paired with numeracy",
+      "x": -405,
+      "y": -156,
+      "parent": "#iga3mz"
+    },
+    {
+      "@id": "#6uki36",
+      "name": "Digital and media literacy extend it",
+      "x": -330,
+      "y": -245,
+      "parent": "#iga3mz"
+    },
+    {
+      "@id": "#6tt72d",
+      "name": "History",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k367xs",
+      "name": "Writing invented about 3200 BC",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/History_of_writing",
+      "parent": "#6tt72d"
+    },
+    {
+      "@id": "#eeym3c",
+      "name": "For millennia only scribes and elites read",
+      "x": -104,
+      "y": -367,
+      "parent": "#6tt72d"
+    },
+    {
+      "@id": "#bj2ehv",
+      "name": "Printing press around 1440 spread books",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Printing_press",
+      "parent": "#6tt72d"
+    },
+    {
+      "@id": "#d9uh8a",
+      "name": "Mass schooling made reading common after 1800",
+      "x": 234,
+      "y": -485,
+      "parent": "#6tt72d"
+    },
+    {
+      "@id": "#wvxbrq",
+      "name": "The world today",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#apyggk",
+      "name": "About 87% of adults can read",
+      "x": 281,
+      "y": -281,
+      "parent": "#wvxbrq"
+    },
+    {
+      "@id": "#dr6adg",
+      "name": "About 750 million adults cannot",
+      "x": 372,
+      "y": -203,
+      "link": "https://en.wikipedia.org/wiki/Literacy",
+      "parent": "#wvxbrq"
+    },
+    {
+      "@id": "#m4mufq",
+      "name": "Nearly two-thirds of them are women",
+      "x": 487,
+      "y": -121,
+      "parent": "#wvxbrq"
+    },
+    {
+      "@id": "#xphum8",
+      "name": "Lowest rates in sub-Saharan Africa, South Asia",
+      "x": 450,
+      "y": 0,
+      "parent": "#wvxbrq"
+    },
+    {
+      "@id": "#swh2vv",
+      "name": "How children learn to read",
+      "x": 169,
+      "y": 125,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j8zbp5",
+      "name": "Hearing sounds in words comes first",
+      "x": 506,
+      "y": 126,
+      "parent": "#swh2vv"
+    },
+    {
+      "@id": "#4pnzrx",
+      "name": "Phonics links letters to sounds",
+      "x": 372,
+      "y": 203,
+      "link": "https://en.wikipedia.org/wiki/Phonics",
+      "parent": "#swh2vv"
+    },
+    {
+      "@id": "#uq338g",
+      "name": "Vocabulary and fluency build comprehension",
+      "x": 281,
+      "y": 281,
+      "parent": "#swh2vv"
+    },
+    {
+      "@id": "#88jrug",
+      "name": "Reading aloud at home helps",
+      "x": 164,
+      "y": 335,
+      "parent": "#swh2vv"
+    },
+    {
+      "@id": "#uzu488",
+      "name": "Barriers",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#259kfb",
+      "name": "Dyslexia affects roughly 5–10% of people",
+      "x": 38,
+      "y": 391,
+      "link": "https://en.wikipedia.org/wiki/Dyslexia",
+      "parent": "#uzu488"
+    },
+    {
+      "@id": "#p5ce4w",
+      "name": "Poverty and lack of schooling",
+      "x": -124,
+      "y": 447,
+      "parent": "#uzu488"
+    },
+    {
+      "@id": "#d227s7",
+      "name": "Little reading material in home language",
+      "x": -225,
+      "y": 312,
+      "parent": "#uzu488"
+    },
+    {
+      "@id": "#hngaii",
+      "name": "Why it matters",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#33uhym",
+      "name": "Higher earnings and employment",
+      "x": -330,
+      "y": 245,
+      "parent": "#hngaii"
+    },
+    {
+      "@id": "#b8am22",
+      "name": "Better health for families",
+      "x": -405,
+      "y": 156,
+      "parent": "#hngaii"
+    },
+    {
+      "@id": "#bpiw5k",
+      "name": "Access to news, rights and voting",
+      "x": -485,
+      "y": 58,
+      "parent": "#hngaii"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

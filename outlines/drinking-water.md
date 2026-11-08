@@ -1,0 +1,29 @@
+category: Life and home
+aliases: potable water, tap water, safe drinking water, clean water
+- Drinking water
+  - Why it matters
+    - Every body process needs water
+    - Survive only days without it
+    - Unsafe water spreads deadly disease
+  - Where it comes from
+    - Rivers, lakes and reservoirs
+    - [Groundwater from wells and aquifers](https://en.wikipedia.org/wiki/Groundwater)
+    - Desalinated seawater in dry regions
+    - Rainwater collection
+  - How it is made safe
+    - [Treatment plants filter and disinfect](https://en.wikipedia.org/wiki/Water_treatment)
+    - Chlorine kills germs in pipes
+    - Fluoride added in some places
+    - Regularly tested against legal standards
+  - Global access
+    - About 2 billion lack safely managed water
+    - [UN goal: safe water for all, 2030](https://en.wikipedia.org/wiki/Sustainable_Development_Goal_6)
+    - Women and girls often fetch water
+  - Risks to watch for
+    - [Cholera spreads through contaminated water](https://en.wikipedia.org/wiki/Cholera)
+    - Lead from old pipes
+    - Nitrates and chemical pollution
+  - Safe water when travelling
+    - Boil for one minute
+    - Use filters or purification tablets
+    - Bottled water if tap is unsafe

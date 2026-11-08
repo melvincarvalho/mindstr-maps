@@ -1,0 +1,29 @@
+category: Society
+aliases: political ideology, political ideologies, ideologies explained, belief systems in politics
+- Ideology
+  - Meaning
+    - Shared ideas about how society should work
+    - Explains problems and proposes goals
+    - [Term coined by Destutt de Tracy, 1790s](https://en.wikipedia.org/wiki/Antoine_Destutt_de_Tracy)
+  - Main political ideologies
+    - Liberalism: individual rights and limited government
+    - Conservatism: tradition and gradual change
+    - Socialism: collective ownership and equality
+    - Fascism: ultranationalism and authoritarian rule
+    - Anarchism: abolish the state
+  - Newer currents
+    - Environmentalism and green politics
+    - Feminism and equal rights
+    - Nationalism and populism
+  - Mapping them
+    - [Left–right spectrum from French Revolution](https://en.wikipedia.org/wiki/Left%E2%80%93right_political_spectrum)
+    - Authoritarian versus libertarian axis
+    - Political compass combines both
+  - Theories of ideology
+    - Marx: ruling class ideas dominate
+    - [Gramsci's cultural hegemony](https://en.wikipedia.org/wiki/Cultural_hegemony)
+    - "End of ideology" debate, 1950s–60s
+  - In everyday life
+    - Shapes parties, voting and policy
+    - Taught through family, school and media
+    - Rigid ideology can justify repression

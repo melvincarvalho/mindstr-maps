@@ -1,0 +1,28 @@
+category: Science
+aliases: milky way galaxy, our galaxy, the milky way
+- Milky Way
+  - Our home galaxy
+    - Barred spiral galaxy
+    - About 100,000 light-years across
+    - Roughly 100–400 billion stars
+    - About 13 billion years old
+  - Structure
+    - Central bulge and bar
+    - Flat disc with spiral arms
+    - Halo of old stars and globular clusters
+    - Dark matter halo surrounds it all
+  - [Sagittarius A* at the centre](https://en.wikipedia.org/wiki/Sagittarius_A*)
+    - Black hole of 4 million Suns
+    - Imaged by Event Horizon Telescope, 2022
+  - Where we are
+    - Sun is about 26,000 light-years out
+    - Sits in the Orion Arm
+    - Orbits the centre every 230 million years
+  - Seeing it from Earth
+    - Pale band across a dark sky
+    - Disc seen edge-on from inside
+    - Galileo saw it was countless stars
+    - Light pollution hides it from most people
+  - Neighbours and future
+    - [Large and Small Magellanic Clouds](https://en.wikipedia.org/wiki/Magellanic_Clouds)
+    - [Andromeda collision in about 4.5 billion years](https://en.wikipedia.org/wiki/Andromeda%E2%80%93Milky_Way_collision)

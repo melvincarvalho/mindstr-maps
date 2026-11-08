@@ -1,0 +1,29 @@
+category: Philosophy and religion
+aliases: muslim religion, islamic faith, muslims, religion of islam
+- Islam
+  - Core beliefs
+    - One God, Allah, without partners
+    - Muhammad is the final prophet
+    - Earlier prophets include Abraham, Moses, Jesus
+    - Day of Judgement and afterlife
+  - Sacred texts
+    - [Quran: God's word revealed to Muhammad](https://en.wikipedia.org/wiki/Quran)
+    - Hadith record Muhammad's sayings and deeds
+    - [Sharia: religious law from these sources](https://en.wikipedia.org/wiki/Sharia)
+  - Five Pillars
+    - Shahada: declaration of faith
+    - Salat: prayer five times daily
+    - Zakat: giving to those in need
+    - Sawm: fasting during Ramadan
+    - [Hajj: pilgrimage to Mecca](https://en.wikipedia.org/wiki/Hajj)
+  - Early history
+    - Muhammad born in Mecca about 570 CE
+    - Hijra to Medina in 622 starts calendar
+    - Caliphates spread Islam across three continents
+  - Main branches
+    - Sunni Islam, about 85–90%
+    - [Shia Islam, about 10–15%](https://en.wikipedia.org/wiki/Shia_Islam)
+    - Sufism: mystical path within both
+  - Islam today
+    - About 1.9 billion followers
+    - Indonesia has the largest Muslim population

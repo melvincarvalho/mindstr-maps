@@ -1,0 +1,318 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Plato",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#kkfzbe",
+      "name": "Who he was",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#thtrzi",
+      "name": "Athenian philosopher, about 428–348 BC",
+      "x": -445,
+      "y": -54,
+      "parent": "#kkfzbe"
+    },
+    {
+      "@id": "#9vnufn",
+      "name": "From an aristocratic family",
+      "x": -405,
+      "y": -156,
+      "parent": "#kkfzbe"
+    },
+    {
+      "@id": "#z8s5aa",
+      "name": "Student of Socrates",
+      "x": -330,
+      "y": -245,
+      "parent": "#kkfzbe"
+    },
+    {
+      "@id": "#9js7ce",
+      "name": "Teacher of Aristotle",
+      "x": -225,
+      "y": -312,
+      "parent": "#kkfzbe"
+    },
+    {
+      "@id": "#f6k6y3",
+      "name": "Life",
+      "x": 51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cbhe2v",
+      "name": "Socrates' execution in 399 BC shaped him",
+      "x": -104,
+      "y": -367,
+      "parent": "#f6k6y3"
+    },
+    {
+      "@id": "#8gqsrr",
+      "name": "Travelled to Italy, Sicily and Egypt",
+      "x": 42,
+      "y": -423,
+      "parent": "#f6k6y3"
+    },
+    {
+      "@id": "#fmswwp",
+      "name": "Advised the rulers of Syracuse, unsuccessfully",
+      "x": 234,
+      "y": -485,
+      "parent": "#f6k6y3"
+    },
+    {
+      "@id": "#wja8w4",
+      "name": "Founded the Academy in Athens",
+      "x": 281,
+      "y": -281,
+      "link": "https://en.wikipedia.org/wiki/Platonic_Academy",
+      "parent": "#f6k6y3"
+    },
+    {
+      "@id": "#naf2yj",
+      "name": "The dialogues",
+      "x": 227,
+      "y": -27,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b7gz5z",
+      "name": "About 35 dialogues; all known works survive",
+      "x": 372,
+      "y": -203,
+      "parent": "#naf2yj"
+    },
+    {
+      "@id": "#sdibc4",
+      "name": "Socrates usually the main speaker",
+      "x": 430,
+      "y": -106,
+      "parent": "#naf2yj"
+    },
+    {
+      "@id": "#ptsnbm",
+      "name": "Apology, Symposium, Phaedo, Meno",
+      "x": 490,
+      "y": 0,
+      "parent": "#naf2yj"
+    },
+    {
+      "@id": "#qk8ais",
+      "name": "The Republic: justice and ideal state",
+      "x": 430,
+      "y": 106,
+      "link": "https://en.wikipedia.org/wiki/Republic_%28Plato%29",
+      "parent": "#naf2yj"
+    },
+    {
+      "@id": "#mzjxy8",
+      "name": "Key ideas",
+      "x": 84,
+      "y": 171,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ih74bk",
+      "name": "Theory of Forms: perfect, unchanging ideas",
+      "x": 389,
+      "y": 212,
+      "link": "https://en.wikipedia.org/wiki/Theory_of_forms",
+      "parent": "#mzjxy8"
+    },
+    {
+      "@id": "#ke86z4",
+      "name": "Allegory of the cave",
+      "x": 281,
+      "y": 281,
+      "link": "https://en.wikipedia.org/wiki/Allegory_of_the_cave",
+      "parent": "#mzjxy8"
+    },
+    {
+      "@id": "#vzpyaa",
+      "name": "Soul is immortal; learning is recollection",
+      "x": 164,
+      "y": 335,
+      "parent": "#mzjxy8"
+    },
+    {
+      "@id": "#582kuv",
+      "name": "Soul has reason, spirit and appetite",
+      "x": 38,
+      "y": 391,
+      "parent": "#mzjxy8"
+    },
+    {
+      "@id": "#qmrzqh",
+      "name": "Philosopher-kings should rule",
+      "x": -124,
+      "y": 447,
+      "parent": "#mzjxy8"
+    },
+    {
+      "@id": "#5rifx8",
+      "name": "Legacy",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cpff5w",
+      "name": "Academy lasted centuries in some form",
+      "x": -245,
+      "y": 340,
+      "parent": "#5rifx8"
+    },
+    {
+      "@id": "#apsgfm",
+      "name": "Neoplatonism shaped Christian and Islamic thought",
+      "x": -330,
+      "y": 245,
+      "parent": "#5rifx8"
+    },
+    {
+      "@id": "#bec399",
+      "name": "Philosophy is \"footnotes to Plato\" (Whitehead)",
+      "x": -405,
+      "y": 156,
+      "parent": "#5rifx8"
+    },
+    {
+      "@id": "#ftmrhh",
+      "name": "Founded Western political philosophy",
+      "x": -445,
+      "y": 54,
+      "parent": "#5rifx8"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 16,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

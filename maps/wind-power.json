@@ -1,0 +1,329 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Wind power",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#4dy46t",
+      "name": "How it works",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5ihj7x",
+      "name": "Wind turns long rotor blades",
+      "x": -445,
+      "y": -54,
+      "parent": "#4dy46t"
+    },
+    {
+      "@id": "#qufjem",
+      "name": "Gearbox or direct drive spins a generator",
+      "x": -405,
+      "y": -156,
+      "parent": "#4dy46t"
+    },
+    {
+      "@id": "#e4xyc2",
+      "name": "Power rises with wind speed cubed",
+      "x": -330,
+      "y": -245,
+      "parent": "#4dy46t"
+    },
+    {
+      "@id": "#bjfdf3",
+      "name": "Turbines turn to face the wind",
+      "x": -225,
+      "y": -312,
+      "parent": "#4dy46t"
+    },
+    {
+      "@id": "#tyxbmj",
+      "name": "Where turbines go",
+      "x": 17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gesgru",
+      "name": "Onshore farms on windy plains and hills",
+      "x": -104,
+      "y": -367,
+      "parent": "#tyxbmj"
+    },
+    {
+      "@id": "#upk3ih",
+      "name": "Offshore farms catch stronger, steadier winds",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Offshore_wind_power",
+      "parent": "#tyxbmj"
+    },
+    {
+      "@id": "#rr2ssb",
+      "name": "Floating turbines for deep water",
+      "x": 234,
+      "y": -485,
+      "parent": "#tyxbmj"
+    },
+    {
+      "@id": "#j9kztk",
+      "name": "Share of world energy",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cmguar",
+      "name": "About 3% of primary energy",
+      "x": 281,
+      "y": -281,
+      "parent": "#j9kztk"
+    },
+    {
+      "@id": "#vnsw9i",
+      "name": "About 8% of world electricity",
+      "x": 372,
+      "y": -203,
+      "parent": "#j9kztk"
+    },
+    {
+      "@id": "#8aaw5w",
+      "name": "Denmark: over half its electricity from wind",
+      "x": 525,
+      "y": -131,
+      "parent": "#j9kztk"
+    },
+    {
+      "@id": "#kyurnd",
+      "name": "Largest capacity in China, then US",
+      "x": 450,
+      "y": 0,
+      "parent": "#j9kztk"
+    },
+    {
+      "@id": "#4xs25t",
+      "name": "Pros",
+      "x": 190,
+      "y": 104,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nbiaya",
+      "name": "No emissions while generating",
+      "x": 430,
+      "y": 106,
+      "parent": "#4xs25t"
+    },
+    {
+      "@id": "#ap7n64",
+      "name": "Among the cheapest new power sources",
+      "x": 372,
+      "y": 203,
+      "parent": "#4xs25t"
+    },
+    {
+      "@id": "#w48xf6",
+      "name": "Land beneath can still be farmed",
+      "x": 281,
+      "y": 281,
+      "parent": "#4xs25t"
+    },
+    {
+      "@id": "#pwaykb",
+      "name": "Cons",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jyae6a",
+      "name": "Output varies with the weather",
+      "x": 164,
+      "y": 335,
+      "parent": "#pwaykb"
+    },
+    {
+      "@id": "#6xwqex",
+      "name": "Needs storage, backup or wider grids",
+      "x": 38,
+      "y": 391,
+      "parent": "#pwaykb"
+    },
+    {
+      "@id": "#iu9kv8",
+      "name": "Visual and noise objections nearby",
+      "x": -124,
+      "y": 447,
+      "parent": "#pwaykb"
+    },
+    {
+      "@id": "#fzu6cj",
+      "name": "Birds and bats can be killed",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wikipedia.org/wiki/Environmental_impact_of_wind_power",
+      "parent": "#pwaykb"
+    },
+    {
+      "@id": "#6n6fqz",
+      "name": "History",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pwkdpi",
+      "name": "Windmills ground grain for centuries",
+      "x": -330,
+      "y": 245,
+      "parent": "#6n6fqz"
+    },
+    {
+      "@id": "#w7ekuw",
+      "name": "Modern turbines grew from 1980s Denmark",
+      "x": -405,
+      "y": 156,
+      "parent": "#6n6fqz"
+    },
+    {
+      "@id": "#3nabiq",
+      "name": "Today's turbines exceed 200 m tall",
+      "x": -465,
+      "y": 56,
+      "link": "https://en.wikipedia.org/wiki/Wind_turbine",
+      "parent": "#6n6fqz"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

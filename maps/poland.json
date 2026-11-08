@@ -1,0 +1,373 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Poland",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#en9x5i",
+      "name": "Geography",
+      "x": -202,
+      "y": -89,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qq32nd",
+      "name": "Central Europe, about 313,000 km²",
+      "x": -446,
+      "y": -45,
+      "parent": "#en9x5i"
+    },
+    {
+      "@id": "#eb4g36",
+      "name": "Mostly lowland plains; Tatra Mountains south",
+      "x": -437,
+      "y": -139,
+      "parent": "#en9x5i"
+    },
+    {
+      "@id": "#ex9yzv",
+      "name": "Vistula is the longest river",
+      "x": -364,
+      "y": -212,
+      "parent": "#en9x5i"
+    },
+    {
+      "@id": "#d36i3b",
+      "name": "Warsaw is the capital",
+      "x": -287,
+      "y": -277,
+      "parent": "#en9x5i"
+    },
+    {
+      "@id": "#gu2cn5",
+      "name": "People and languages",
+      "x": -14,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tcauu3",
+      "name": "About 37 million people",
+      "x": -192,
+      "y": -326,
+      "parent": "#gu2cn5"
+    },
+    {
+      "@id": "#b855wu",
+      "name": "Polish is the official language",
+      "x": -92,
+      "y": -386,
+      "parent": "#gu2cn5"
+    },
+    {
+      "@id": "#bugbat",
+      "name": "Mostly Roman Catholic",
+      "x": 33,
+      "y": -439,
+      "parent": "#gu2cn5"
+    },
+    {
+      "@id": "#hca5k4",
+      "name": "Many Ukrainians arrived since 2022",
+      "x": 199,
+      "y": -492,
+      "parent": "#gu2cn5"
+    },
+    {
+      "@id": "#3w8snc",
+      "name": "History in brief",
+      "x": 202,
+      "y": -89,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dyafis",
+      "name": "Mieszko I baptised in 966",
+      "x": 241,
+      "y": -304,
+      "parent": "#3w8snc"
+    },
+    {
+      "@id": "#pptu4v",
+      "name": "Polish–Lithuanian Commonwealth formed 1569",
+      "x": 328,
+      "y": -246,
+      "parent": "#3w8snc"
+    },
+    {
+      "@id": "#n99upn",
+      "name": "Partitioned 1795; independence regained 1918",
+      "x": 394,
+      "y": -173,
+      "link": "https://en.wikipedia.org/wiki/Partitions_of_Poland",
+      "parent": "#3w8snc"
+    },
+    {
+      "@id": "#ujimt6",
+      "name": "Invaded 1939; about 6 million citizens killed",
+      "x": 531,
+      "y": -110,
+      "parent": "#3w8snc"
+    },
+    {
+      "@id": "#hmkbsy",
+      "name": "Solidarity movement led to 1989 transition",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Solidarity_%28Polish_trade_union%29",
+      "parent": "#3w8snc"
+    },
+    {
+      "@id": "#bk99mk",
+      "name": "Government",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g77ruk",
+      "name": "Parliamentary republic",
+      "x": 436,
+      "y": 90,
+      "parent": "#bk99mk"
+    },
+    {
+      "@id": "#473myr",
+      "name": "Directly elected president",
+      "x": 394,
+      "y": 173,
+      "parent": "#bk99mk"
+    },
+    {
+      "@id": "#v6dkxq",
+      "name": "Sejm and Senate form parliament",
+      "x": 328,
+      "y": 246,
+      "parent": "#bk99mk"
+    },
+    {
+      "@id": "#ywyrmm",
+      "name": "Joined NATO 1999, EU 2004",
+      "x": 241,
+      "y": 304,
+      "parent": "#bk99mk"
+    },
+    {
+      "@id": "#bsf36s",
+      "name": "Economy",
+      "x": -14,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pa5r2i",
+      "name": "Currency is the złoty",
+      "x": 145,
+      "y": 357,
+      "parent": "#bsf36s"
+    },
+    {
+      "@id": "#rb9ptu",
+      "name": "Fast growth since the 1990s",
+      "x": 31,
+      "y": 407,
+      "parent": "#bsf36s"
+    },
+    {
+      "@id": "#4kj3g5",
+      "name": "Manufacturing, car parts and IT services",
+      "x": -112,
+      "y": 466,
+      "parent": "#bsf36s"
+    },
+    {
+      "@id": "#v4mqiv",
+      "name": "Shifting from coal toward other energy",
+      "x": -192,
+      "y": 326,
+      "parent": "#bsf36s"
+    },
+    {
+      "@id": "#mtufgc",
+      "name": "Culture",
+      "x": -202,
+      "y": 89,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#x4kfjp",
+      "name": "Composer Frédéric Chopin",
+      "x": -287,
+      "y": 277,
+      "link": "https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin",
+      "parent": "#mtufgc"
+    },
+    {
+      "@id": "#g6j9af",
+      "name": "Copernicus and Marie Skłodowska-Curie",
+      "x": -364,
+      "y": 212,
+      "parent": "#mtufgc"
+    },
+    {
+      "@id": "#b24svk",
+      "name": "Pope John Paul II",
+      "x": -418,
+      "y": 133,
+      "parent": "#mtufgc"
+    },
+    {
+      "@id": "#pg9bvt",
+      "name": "Pierogi and Kraków's medieval old town",
+      "x": -466,
+      "y": 47,
+      "parent": "#mtufgc"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 11,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    },
+    {
+      "start": 0,
+      "end": 27
+    },
+    {
+      "start": 27,
+      "end": 28
+    },
+    {
+      "start": 27,
+      "end": 29
+    },
+    {
+      "start": 27,
+      "end": 30
+    },
+    {
+      "start": 27,
+      "end": 31
+    }
+  ],
+  "selectedNode": 0
+}

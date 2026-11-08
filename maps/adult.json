@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Adult",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#wqs9sa",
+      "name": "What makes an adult",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p6mhrr",
+      "name": "Biologically: puberty is complete",
+      "x": -505,
+      "y": -60,
+      "parent": "#wqs9sa"
+    },
+    {
+      "@id": "#5zn44j",
+      "name": "Legally: age of majority, usually 18",
+      "x": -405,
+      "y": -156,
+      "link": "https://en.wikipedia.org/wiki/Age_of_majority",
+      "parent": "#wqs9sa"
+    },
+    {
+      "@id": "#bmv9ke",
+      "name": "Socially: independence and responsibility",
+      "x": -330,
+      "y": -245,
+      "parent": "#wqs9sa"
+    },
+    {
+      "@id": "#j9pyfe",
+      "name": "Stages of adult life",
+      "x": -51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wcwfhm",
+      "name": "Early adulthood, about 18 to 40",
+      "x": -225,
+      "y": -312,
+      "parent": "#j9pyfe"
+    },
+    {
+      "@id": "#aytpii",
+      "name": "Middle age, roughly 40 to 65",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Middle_age",
+      "parent": "#j9pyfe"
+    },
+    {
+      "@id": "#f8yhtr",
+      "name": "Older adulthood from about 65",
+      "x": 42,
+      "y": -423,
+      "parent": "#j9pyfe"
+    },
+    {
+      "@id": "#aiyyd7",
+      "name": "Rights that come with age",
+      "x": 169,
+      "y": -125,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#w37m7b",
+      "name": "Voting at 18 in most countries",
+      "x": 234,
+      "y": -485,
+      "link": "https://en.wikipedia.org/wiki/Voting_age",
+      "parent": "#aiyyd7"
+    },
+    {
+      "@id": "#s5p83x",
+      "name": "Signing contracts and renting a home",
+      "x": 281,
+      "y": -281,
+      "parent": "#aiyyd7"
+    },
+    {
+      "@id": "#rny3hi",
+      "name": "Full responsibility under the law",
+      "x": 372,
+      "y": -203,
+      "parent": "#aiyyd7"
+    },
+    {
+      "@id": "#6zd5sd",
+      "name": "Drinking ages vary, 16 to 21",
+      "x": 468,
+      "y": -116,
+      "parent": "#aiyyd7"
+    },
+    {
+      "@id": "#i5zt6g",
+      "name": "Everyday responsibilities",
+      "x": 207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5c7q4e",
+      "name": "Earning a living and paying tax",
+      "x": 450,
+      "y": 0,
+      "parent": "#i5zt6g"
+    },
+    {
+      "@id": "#n9ygbf",
+      "name": "Managing money and housing",
+      "x": 506,
+      "y": 126,
+      "parent": "#i5zt6g"
+    },
+    {
+      "@id": "#isfvrd",
+      "name": "Looking after your own health",
+      "x": 372,
+      "y": 203,
+      "parent": "#i5zt6g"
+    },
+    {
+      "@id": "#hin5xj",
+      "name": "Caring for children or parents",
+      "x": 281,
+      "y": 281,
+      "parent": "#i5zt6g"
+    },
+    {
+      "@id": "#hja4bc",
+      "name": "The adult body and mind",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8sjgg7",
+      "name": "Physical strength peaks in the twenties",
+      "x": 164,
+      "y": 335,
+      "parent": "#hja4bc"
+    },
+    {
+      "@id": "#94sjwc",
+      "name": "The brain keeps changing throughout life",
+      "x": 38,
+      "y": 391,
+      "link": "https://en.wikipedia.org/wiki/Neuroplasticity",
+      "parent": "#hja4bc"
+    },
+    {
+      "@id": "#zp87nr",
+      "name": "Knowledge and vocabulary keep growing",
+      "x": -124,
+      "y": 447,
+      "parent": "#hja4bc"
+    },
+    {
+      "@id": "#zkfdng",
+      "name": "Muscle and metabolism slowly decline",
+      "x": -225,
+      "y": 312,
+      "parent": "#hja4bc"
+    },
+    {
+      "@id": "#8ct992",
+      "name": "Relationships and purpose",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gsa8br",
+      "name": "Partners, marriage or living single",
+      "x": -330,
+      "y": 245,
+      "parent": "#8ct992"
+    },
+    {
+      "@id": "#9v636f",
+      "name": "Friendships take more deliberate effort",
+      "x": -405,
+      "y": 156,
+      "parent": "#8ct992"
+    },
+    {
+      "@id": "#ifgee9",
+      "name": "Work, hobbies and community give meaning",
+      "x": -565,
+      "y": 66,
+      "parent": "#8ct992"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

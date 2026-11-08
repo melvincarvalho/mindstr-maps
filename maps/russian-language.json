@@ -1,0 +1,352 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Russian language",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#zgeayk",
+      "name": "Where it's spoken",
+      "x": -178,
+      "y": -116,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mjr3q2",
+      "name": "About 255 million speakers",
+      "x": -446,
+      "y": -49,
+      "parent": "#zgeayk"
+    },
+    {
+      "@id": "#39uv6e",
+      "name": "Around 150 million native speakers",
+      "x": -467,
+      "y": -161,
+      "parent": "#zgeayk"
+    },
+    {
+      "@id": "#hcvraa",
+      "name": "Official in Russia, Belarus, Kazakhstan, Kyrgyzstan",
+      "x": -349,
+      "y": -227,
+      "parent": "#zgeayk"
+    },
+    {
+      "@id": "#dxm35v",
+      "name": "Widely known across former Soviet states",
+      "x": -260,
+      "y": -294,
+      "parent": "#zgeayk"
+    },
+    {
+      "@id": "#6u7v86",
+      "name": "One of six UN official languages",
+      "x": -158,
+      "y": -354,
+      "parent": "#zgeayk"
+    },
+    {
+      "@id": "#3rbrrg",
+      "name": "History and family",
+      "x": 106,
+      "y": -163,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pymr53",
+      "name": "East Slavic branch of Indo-European",
+      "x": -34,
+      "y": -407,
+      "parent": "#3rbrrg"
+    },
+    {
+      "@id": "#xfxgr8",
+      "name": "Close to Ukrainian and Belarusian",
+      "x": 120,
+      "y": -464,
+      "parent": "#3rbrrg"
+    },
+    {
+      "@id": "#rznq4e",
+      "name": "Grew from the language of Kievan Rus'",
+      "x": 207,
+      "y": -320,
+      "parent": "#3rbrrg"
+    },
+    {
+      "@id": "#9v9fty",
+      "name": "Church Slavonic shaped its vocabulary",
+      "x": 307,
+      "y": -263,
+      "parent": "#3rbrrg"
+    },
+    {
+      "@id": "#itvt2v",
+      "name": "Pushkin shaped the modern literary language",
+      "x": 435,
+      "y": -211,
+      "link": "https://en.wikipedia.org/wiki/Alexander_Pushkin",
+      "parent": "#3rbrrg"
+    },
+    {
+      "@id": "#jwj9nb",
+      "name": "Sounds",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#heb2sn",
+      "name": "Hard and soft consonant pairs",
+      "x": 433,
+      "y": -97,
+      "parent": "#jwj9nb"
+    },
+    {
+      "@id": "#7grvgp",
+      "name": "Unstressed o sounds like a",
+      "x": 450,
+      "y": 0,
+      "parent": "#jwj9nb"
+    },
+    {
+      "@id": "#m9neb3",
+      "name": "Stress is free and unmarked",
+      "x": 433,
+      "y": 97,
+      "parent": "#jwj9nb"
+    },
+    {
+      "@id": "#vi2ch3",
+      "name": "Writing",
+      "x": 157,
+      "y": 134,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xrypny",
+      "name": "33-letter Cyrillic alphabet",
+      "x": 384,
+      "y": 187,
+      "link": "https://en.wikipedia.org/wiki/Russian_alphabet",
+      "parent": "#vi2ch3"
+    },
+    {
+      "@id": "#x2egy6",
+      "name": "Some letters look Latin but differ",
+      "x": 307,
+      "y": 263,
+      "parent": "#vi2ch3"
+    },
+    {
+      "@id": "#ifqgyw",
+      "name": "1918 reform simplified spelling",
+      "x": 207,
+      "y": 320,
+      "parent": "#vi2ch3"
+    },
+    {
+      "@id": "#4y8b47",
+      "name": "Grammar highlights",
+      "x": -47,
+      "y": 180,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j55bkj",
+      "name": "Six cases change word endings",
+      "x": 96,
+      "y": 368,
+      "link": "https://en.wikipedia.org/wiki/Russian_grammar",
+      "parent": "#4y8b47"
+    },
+    {
+      "@id": "#ik5dbw",
+      "name": "Three genders",
+      "x": -35,
+      "y": 423,
+      "parent": "#4y8b47"
+    },
+    {
+      "@id": "#wiucz5",
+      "name": "Verbs in aspect pairs",
+      "x": -214,
+      "y": 474,
+      "link": "https://en.wikipedia.org/wiki/Grammatical_aspect",
+      "parent": "#4y8b47"
+    },
+    {
+      "@id": "#p77wrk",
+      "name": "No articles; no present-tense \"is\"",
+      "x": -260,
+      "y": 294,
+      "parent": "#4y8b47"
+    },
+    {
+      "@id": "#bkghvp",
+      "name": "Tips for learners",
+      "x": -211,
+      "y": 73,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t9y9uc",
+      "name": "Learn Cyrillic in the first week",
+      "x": -349,
+      "y": 227,
+      "parent": "#bkghvp"
+    },
+    {
+      "@id": "#jnr43n",
+      "name": "Learn each noun with its gender",
+      "x": -413,
+      "y": 143,
+      "parent": "#bkghvp"
+    },
+    {
+      "@id": "#8epn68",
+      "name": "Learn verbs as aspect pairs",
+      "x": -466,
+      "y": 51,
+      "parent": "#bkghvp"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 7,
+      "end": 11
+    },
+    {
+      "start": 7,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    },
+    {
+      "start": 26,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Camera",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#pn5mfe",
+      "name": "How it works",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ek5z8p",
+      "name": "Light-tight box with a lens",
+      "x": -445,
+      "y": -51,
+      "parent": "#pn5mfe"
+    },
+    {
+      "@id": "#2wgf3a",
+      "name": "Lens focuses light into an image",
+      "x": -409,
+      "y": -150,
+      "parent": "#pn5mfe"
+    },
+    {
+      "@id": "#kkby9c",
+      "name": "Aperture controls how much light enters",
+      "x": -340,
+      "y": -236,
+      "parent": "#pn5mfe"
+    },
+    {
+      "@id": "#i998av",
+      "name": "Shutter controls how long it enters",
+      "x": -243,
+      "y": -303,
+      "parent": "#pn5mfe"
+    },
+    {
+      "@id": "#j9ytjc",
+      "name": "Recording the image",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#msw5g2",
+      "name": "Film: light-sensitive silver chemistry",
+      "x": -133,
+      "y": -360,
+      "parent": "#j9ytjc"
+    },
+    {
+      "@id": "#fmrwkd",
+      "name": "Digital: image sensor of millions of pixels",
+      "x": 0,
+      "y": -408,
+      "link": "https://en.wikipedia.org/wiki/Image_sensor",
+      "parent": "#j9ytjc"
+    },
+    {
+      "@id": "#p62pf4",
+      "name": "Processor turns signals into a file",
+      "x": 175,
+      "y": -465,
+      "parent": "#j9ytjc"
+    },
+    {
+      "@id": "#vydkn2",
+      "name": "History",
+      "x": 209,
+      "y": -76,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#afrq9g",
+      "name": "Camera obscura projected images for centuries",
+      "x": 243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Camera_obscura",
+      "parent": "#vydkn2"
+    },
+    {
+      "@id": "#mi7epc",
+      "name": "Niépce's first lasting photo, about 1826",
+      "x": 340,
+      "y": -236,
+      "parent": "#vydkn2"
+    },
+    {
+      "@id": "#46i6c4",
+      "name": "Daguerreotype announced in 1839",
+      "x": 409,
+      "y": -150,
+      "parent": "#vydkn2"
+    },
+    {
+      "@id": "#48bmxv",
+      "name": "Kodak box camera for everyone, 1888",
+      "x": 465,
+      "y": -53,
+      "parent": "#vydkn2"
+    },
+    {
+      "@id": "#caaaez",
+      "name": "First digital camera prototype, 1975",
+      "x": 445,
+      "y": 51,
+      "parent": "#vydkn2"
+    },
+    {
+      "@id": "#jvbue2",
+      "name": "Kinds of camera",
+      "x": 151,
+      "y": 139,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z4qfq3",
+      "name": "Phone cameras, now the most used",
+      "x": 427,
+      "y": 157,
+      "parent": "#jvbue2"
+    },
+    {
+      "@id": "#5h89rv",
+      "name": "Single-lens reflex uses a mirror",
+      "x": 340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/Single-lens_reflex_camera",
+      "parent": "#jvbue2"
+    },
+    {
+      "@id": "#cep54j",
+      "name": "Mirrorless cameras with electronic viewfinders",
+      "x": 243,
+      "y": 303,
+      "parent": "#jvbue2"
+    },
+    {
+      "@id": "#bs2jzk",
+      "name": "Video, security and action cameras",
+      "x": 133,
+      "y": 360,
+      "parent": "#jvbue2"
+    },
+    {
+      "@id": "#iqxu9t",
+      "name": "Phone camera tricks",
+      "x": -65,
+      "y": 177,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7skjhu",
+      "name": "Several small lenses for zoom",
+      "x": 0,
+      "y": 408,
+      "parent": "#iqxu9t"
+    },
+    {
+      "@id": "#jkq5fa",
+      "name": "Computational photography merges many frames",
+      "x": -175,
+      "y": 465,
+      "link": "https://en.wikipedia.org/wiki/Computational_photography",
+      "parent": "#iqxu9t"
+    },
+    {
+      "@id": "#hspchy",
+      "name": "Night mode stacks long exposures",
+      "x": -243,
+      "y": 303,
+      "parent": "#iqxu9t"
+    },
+    {
+      "@id": "#7yzf97",
+      "name": "Beyond snapshots",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qhvki6",
+      "name": "Cameras on telescopes and microscopes",
+      "x": -340,
+      "y": 236,
+      "parent": "#7yzf97"
+    },
+    {
+      "@id": "#ri7m5r",
+      "name": "Webcams and video calls",
+      "x": -409,
+      "y": 150,
+      "parent": "#7yzf97"
+    },
+    {
+      "@id": "#kc35i8",
+      "name": "Cameras guide self-driving cars and robots",
+      "x": -525,
+      "y": 59,
+      "parent": "#7yzf97"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 10,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

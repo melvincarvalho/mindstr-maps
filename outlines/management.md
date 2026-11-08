@@ -1,0 +1,30 @@
+category: Society
+aliases: business management, what is management, management basics, functions of management
+- Management
+  - Getting things done through people
+    - Coordinates people, money and time
+    - Aims to meet an organisation's goals
+  - [Classic functions of management](https://en.wikipedia.org/wiki/Henri_Fayol)
+    - Planning sets goals and how
+    - Organising divides and assigns work
+    - Leading motivates and directs people
+    - Controlling checks results against plans
+  - Levels of managers
+    - Top: executives set strategy
+    - Middle: turn strategy into plans
+    - Front-line: supervise day-to-day work
+  - Key skills
+    - Making decisions with incomplete information
+    - Clear communication and listening
+    - Delegating tasks and trusting others
+    - Giving feedback and developing staff
+  - Big ideas over time
+    - [Taylor's scientific management, about 1910](https://en.wikipedia.org/wiki/Scientific_management)
+    - Human relations: people need recognition
+    - [Drucker's management by objectives](https://en.wikipedia.org/wiki/Management_by_objectives)
+    - Lean and agile ways of working
+  - Specialist areas
+    - Operations and supply chains
+    - [Human resource management](https://en.wikipedia.org/wiki/Human_resource_management)
+    - Project management delivers one-off goals
+    - Financial management of budgets

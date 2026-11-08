@@ -1,0 +1,307 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Number",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#nmesar",
+      "name": "What numbers do",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z2q73n",
+      "name": "Count: how many sheep",
+      "x": -444,
+      "y": -56,
+      "parent": "#nmesar"
+    },
+    {
+      "@id": "#8fknay",
+      "name": "Measure: how long or heavy",
+      "x": -401,
+      "y": -163,
+      "parent": "#nmesar"
+    },
+    {
+      "@id": "#zzta88",
+      "name": "Order: first, second, third",
+      "x": -318,
+      "y": -255,
+      "parent": "#nmesar"
+    },
+    {
+      "@id": "#yvzpmb",
+      "name": "Label: phone and bus numbers",
+      "x": -204,
+      "y": -321,
+      "parent": "#nmesar"
+    },
+    {
+      "@id": "#x4ujhb",
+      "name": "The growing family",
+      "x": 135,
+      "y": -149,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5vc8yu",
+      "name": "Natural numbers: 1, 2, 3",
+      "x": -73,
+      "y": -372,
+      "link": "https://en.wikipedia.org/wiki/Natural_number",
+      "parent": "#x4ujhb"
+    },
+    {
+      "@id": "#dcra8g",
+      "name": "Integers add zero and negatives",
+      "x": 82,
+      "y": -420,
+      "parent": "#x4ujhb"
+    },
+    {
+      "@id": "#4feeny",
+      "name": "Rational numbers are fractions",
+      "x": 204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Rational_number",
+      "parent": "#x4ujhb"
+    },
+    {
+      "@id": "#s2wrwe",
+      "name": "Irrational numbers like pi",
+      "x": 318,
+      "y": -255,
+      "parent": "#x4ujhb"
+    },
+    {
+      "@id": "#7wqams",
+      "name": "Real numbers fill the number line",
+      "x": 419,
+      "y": -170,
+      "parent": "#x4ujhb"
+    },
+    {
+      "@id": "#jxmcgu",
+      "name": "Complex numbers use square root of −1",
+      "x": 444,
+      "y": -56,
+      "link": "https://en.wikipedia.org/wiki/Complex_number",
+      "parent": "#x4ujhb"
+    },
+    {
+      "@id": "#jkmfbr",
+      "name": "Writing numbers down",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d43r6z",
+      "name": "Tally marks and Roman numerals",
+      "x": 444,
+      "y": 56,
+      "parent": "#jkmfbr"
+    },
+    {
+      "@id": "#5keu56",
+      "name": "Place value: 3 in 30 means thirty",
+      "x": 401,
+      "y": 163,
+      "parent": "#jkmfbr"
+    },
+    {
+      "@id": "#bdt4gb",
+      "name": "Hindu–Arabic digits 0 to 9",
+      "x": 318,
+      "y": 255,
+      "link": "https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system",
+      "parent": "#jkmfbr"
+    },
+    {
+      "@id": "#e4dvyq",
+      "name": "Computers use binary: 0 and 1",
+      "x": 204,
+      "y": 321,
+      "parent": "#jkmfbr"
+    },
+    {
+      "@id": "#nb88pt",
+      "name": "Key milestones",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xi2j55",
+      "name": "Babylonians counted in sixties",
+      "x": 73,
+      "y": 372,
+      "parent": "#nb88pt"
+    },
+    {
+      "@id": "#vh9txn",
+      "name": "Zero as a number, India, 7th century",
+      "x": -82,
+      "y": 420,
+      "parent": "#nb88pt"
+    },
+    {
+      "@id": "#qt72ys",
+      "name": "Negative numbers accepted slowly",
+      "x": -204,
+      "y": 321,
+      "parent": "#nb88pt"
+    },
+    {
+      "@id": "#fw3bs4",
+      "name": "Special numbers",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mxb2zt",
+      "name": "Pi: circle's circumference over diameter",
+      "x": -318,
+      "y": 255,
+      "parent": "#fw3bs4"
+    },
+    {
+      "@id": "#j5cz8d",
+      "name": "e: natural growth, about 2.718",
+      "x": -401,
+      "y": 163,
+      "parent": "#fw3bs4"
+    },
+    {
+      "@id": "#pw4g4b",
+      "name": "Primes: building blocks of whole numbers",
+      "x": -504,
+      "y": 62,
+      "parent": "#fw3bs4"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 6,
+      "end": 11
+    },
+    {
+      "start": 6,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

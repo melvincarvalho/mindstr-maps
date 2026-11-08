@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Power (political science)",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#4qbqgh",
+      "name": "Definitions",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#33frxm",
+      "name": "Ability to influence others' behavior",
+      "x": -444,
+      "y": -56,
+      "parent": "#4qbqgh"
+    },
+    {
+      "@id": "#i5nt76",
+      "name": "Dahl: A gets B to act",
+      "x": -401,
+      "y": -163,
+      "parent": "#4qbqgh"
+    },
+    {
+      "@id": "#if6kjc",
+      "name": "Power over versus power to",
+      "x": -318,
+      "y": -255,
+      "parent": "#4qbqgh"
+    },
+    {
+      "@id": "#79pp76",
+      "name": "Foucault: power runs through everyday practices",
+      "x": -204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Michel_Foucault",
+      "parent": "#4qbqgh"
+    },
+    {
+      "@id": "#iirsmq",
+      "name": "Sources of power",
+      "x": 71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8hu2ns",
+      "name": "Force and coercion",
+      "x": -73,
+      "y": -372,
+      "parent": "#iirsmq"
+    },
+    {
+      "@id": "#vxnie5",
+      "name": "Wealth and economic resources",
+      "x": 82,
+      "y": -420,
+      "parent": "#iirsmq"
+    },
+    {
+      "@id": "#k9v46g",
+      "name": "Knowledge and information",
+      "x": 204,
+      "y": -321,
+      "parent": "#iirsmq"
+    },
+    {
+      "@id": "#pcg9pc",
+      "name": "Office, law and institutions",
+      "x": 318,
+      "y": -255,
+      "parent": "#iirsmq"
+    },
+    {
+      "@id": "#xizv2x",
+      "name": "Weber's three types of authority",
+      "x": 327,
+      "y": -44,
+      "link": "https://en.wikipedia.org/wiki/Tripartite_classification_of_authority",
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ywns4q",
+      "name": "Traditional: custom and inheritance",
+      "x": 401,
+      "y": -163,
+      "parent": "#xizv2x"
+    },
+    {
+      "@id": "#ars7kc",
+      "name": "Charismatic: devotion to a leader",
+      "x": 684,
+      "y": -80,
+      "parent": "#xizv2x"
+    },
+    {
+      "@id": "#dm5d7m",
+      "name": "Legal-rational: rules and offices",
+      "x": 444,
+      "y": 56,
+      "parent": "#xizv2x"
+    },
+    {
+      "@id": "#z2effc",
+      "name": "Lukes's three faces of power",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z7v47d",
+      "name": "Winning open decisions",
+      "x": 455,
+      "y": 184,
+      "parent": "#z2effc"
+    },
+    {
+      "@id": "#5dkkub",
+      "name": "Setting the agenda",
+      "x": 318,
+      "y": 255,
+      "parent": "#z2effc"
+    },
+    {
+      "@id": "#chdbru",
+      "name": "Shaping what people want",
+      "x": 204,
+      "y": 321,
+      "parent": "#z2effc"
+    },
+    {
+      "@id": "#ucyfap",
+      "name": "Hard and soft power",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#swiycs",
+      "name": "Hard power uses military and money",
+      "x": 73,
+      "y": 372,
+      "parent": "#ucyfap"
+    },
+    {
+      "@id": "#vu222f",
+      "name": "Soft power attracts rather than coerces",
+      "x": -82,
+      "y": 420,
+      "link": "https://en.wikipedia.org/wiki/Soft_power",
+      "parent": "#ucyfap"
+    },
+    {
+      "@id": "#btxbet",
+      "name": "Smart power combines both",
+      "x": -204,
+      "y": 321,
+      "parent": "#ucyfap"
+    },
+    {
+      "@id": "#iuxc4g",
+      "name": "Limits on power",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wbsqtg",
+      "name": "Separation of powers",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wikipedia.org/wiki/Separation_of_powers",
+      "parent": "#iuxc4g"
+    },
+    {
+      "@id": "#6i23f4",
+      "name": "Elections and accountability",
+      "x": -401,
+      "y": 163,
+      "parent": "#iuxc4g"
+    },
+    {
+      "@id": "#na3f93",
+      "name": "Rule of law and courts",
+      "x": -444,
+      "y": 56,
+      "parent": "#iuxc4g"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

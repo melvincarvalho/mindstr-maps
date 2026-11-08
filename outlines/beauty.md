@@ -1,0 +1,27 @@
+category: Philosophy and religion
+aliases: what is beauty, philosophy of beauty, nature of beauty
+- Beauty
+  - Key questions
+    - Is beauty only in the beholder's eye?
+    - Can beauty be measured?
+    - Is beauty linked to goodness?
+  - Beauty as objective
+    - Plato: Beauty itself is a Form
+    - Proportion, symmetry and harmony
+    - [Golden ratio, often overclaimed in art](https://en.wikipedia.org/wiki/Golden_ratio)
+  - Beauty as subjective
+    - Hume: beauty exists in the mind
+    - Kant: judged as if everyone should agree
+    - Tastes vary across cultures and eras
+  - Science of attraction
+    - [Symmetric, average faces tend to appeal](https://en.wikipedia.org/wiki/Physical_attractiveness)
+    - Babies look longer at attractive faces
+    - Evolutionary view: cues of health
+  - Beauty in nature and maths
+    - Sunsets, flowers and mountain views
+    - Mathematicians praise elegant proofs
+    - Physicists favour simple, symmetric theories
+  - Beauty in society
+    - [Beauty standards shift over time](https://en.wikipedia.org/wiki/Feminine_beauty_ideal)
+    - Attractive people tend to earn more
+    - Cosmetics industry and body image worries

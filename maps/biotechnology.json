@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Biotechnology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#aq5q6j",
+      "name": "What it is",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ztweuq",
+      "name": "Using living things to make products",
+      "x": -485,
+      "y": -58,
+      "parent": "#aq5q6j"
+    },
+    {
+      "@id": "#shfw3r",
+      "name": "Ancient roots in brewing, bread, cheese",
+      "x": -405,
+      "y": -156,
+      "parent": "#aq5q6j"
+    },
+    {
+      "@id": "#hf2gqp",
+      "name": "Modern biotech edits DNA directly",
+      "x": -330,
+      "y": -245,
+      "parent": "#aq5q6j"
+    },
+    {
+      "@id": "#ywim28",
+      "name": "Key tools",
+      "x": 17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#77mvtm",
+      "name": "Recombinant DNA splices genes, 1970s",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Recombinant_DNA",
+      "parent": "#ywim28"
+    },
+    {
+      "@id": "#bjmhmg",
+      "name": "PCR copies DNA millions of times",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Polymerase_chain_reaction",
+      "parent": "#ywim28"
+    },
+    {
+      "@id": "#mz3bfk",
+      "name": "CRISPR edits genes precisely",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/CRISPR_gene_editing",
+      "parent": "#ywim28"
+    },
+    {
+      "@id": "#cuvgnq",
+      "name": "DNA sequencing reads genomes cheaply",
+      "x": 234,
+      "y": -485,
+      "parent": "#ywim28"
+    },
+    {
+      "@id": "#bc2hx5",
+      "name": "Fermentation in large bioreactors",
+      "x": 281,
+      "y": -281,
+      "parent": "#ywim28"
+    },
+    {
+      "@id": "#4txnir",
+      "name": "Medicine",
+      "x": 227,
+      "y": -27,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vghhqk",
+      "name": "Insulin made by bacteria since 1982",
+      "x": 372,
+      "y": -203,
+      "parent": "#4txnir"
+    },
+    {
+      "@id": "#5r6pcf",
+      "name": "Monoclonal antibodies treat cancer",
+      "x": 430,
+      "y": -106,
+      "parent": "#4txnir"
+    },
+    {
+      "@id": "#qmxhq6",
+      "name": "mRNA vaccines used against COVID-19",
+      "x": 490,
+      "y": 0,
+      "parent": "#4txnir"
+    },
+    {
+      "@id": "#rvwxef",
+      "name": "Gene therapies for inherited diseases",
+      "x": 430,
+      "y": 106,
+      "parent": "#4txnir"
+    },
+    {
+      "@id": "#8rzv57",
+      "name": "Farming and food",
+      "x": 155,
+      "y": 157,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5qgeuc",
+      "name": "Genetically modified crops resist pests",
+      "x": 389,
+      "y": 212,
+      "link": "https://en.wikipedia.org/wiki/Genetically_modified_crops",
+      "parent": "#8rzv57"
+    },
+    {
+      "@id": "#znbxik",
+      "name": "Herbicide-tolerant soy and maize",
+      "x": 281,
+      "y": 281,
+      "parent": "#8rzv57"
+    },
+    {
+      "@id": "#p6iwnc",
+      "name": "Enzymes used in food processing",
+      "x": 164,
+      "y": 335,
+      "parent": "#8rzv57"
+    },
+    {
+      "@id": "#xuyfj9",
+      "name": "Industry and environment",
+      "x": -59,
+      "y": 211,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p5d5it",
+      "name": "Biofuels from crops and waste",
+      "x": 38,
+      "y": 391,
+      "parent": "#xuyfj9"
+    },
+    {
+      "@id": "#8d8k7m",
+      "name": "Enzymes in laundry detergents",
+      "x": -124,
+      "y": 447,
+      "parent": "#xuyfj9"
+    },
+    {
+      "@id": "#uw734m",
+      "name": "Microbes clean up pollution",
+      "x": -225,
+      "y": 312,
+      "parent": "#xuyfj9"
+    },
+    {
+      "@id": "#mk5sua",
+      "name": "Debates",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6ir9ta",
+      "name": "Safety and labelling of GM food",
+      "x": -495,
+      "y": 366,
+      "parent": "#mk5sua"
+    },
+    {
+      "@id": "#z75ij3",
+      "name": "Ethics of editing human embryos",
+      "x": -405,
+      "y": 156,
+      "parent": "#mk5sua"
+    },
+    {
+      "@id": "#7kk3sj",
+      "name": "Patents on genes and organisms",
+      "x": -445,
+      "y": 54,
+      "parent": "#mk5sua"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

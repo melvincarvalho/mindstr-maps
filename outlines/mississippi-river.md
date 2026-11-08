@@ -1,0 +1,30 @@
+category: Geography
+aliases: the mississippi, mississippi river facts, old man river
+- Mississippi River
+  - Course
+    - [Rises at Lake Itasca, Minnesota](https://en.wikipedia.org/wiki/Lake_Itasca)
+    - About 3,700 km long
+    - Ends in the Gulf of Mexico
+    - Borders or crosses ten US states
+  - Basin and tributaries
+    - [Missouri is its longest tributary](https://en.wikipedia.org/wiki/Missouri_River)
+    - Ohio adds the most water
+    - Drains about 40% of mainland US
+    - Fourth-largest river system in the world
+  - History
+    - Native peoples built Cahokia mounds nearby
+    - De Soto reached it in 1541
+    - [Louisiana Purchase of 1803](https://en.wikipedia.org/wiki/Louisiana_Purchase)
+    - Union capture of Vicksburg, 1863
+  - Commerce
+    - Barges carry grain, coal and oil
+    - Locks and dams on the upper river
+    - New Orleans and Baton Rouge ports
+  - Floods and control
+    - [Great Mississippi Flood of 1927](https://en.wikipedia.org/wiki/Great_Mississippi_Flood_of_1927)
+    - Levees line much of the lower river
+    - Delta wetlands are shrinking
+    - Gulf "dead zone" from fertiliser runoff
+  - Culture
+    - Mark Twain's Huckleberry Finn and steamboats
+    - Delta blues born along its banks

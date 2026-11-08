@@ -1,0 +1,29 @@
+category: Society
+aliases: writing systems, types of writing systems, scripts of the world
+- Writing system
+  - The parts
+    - Script: the set of symbols
+    - Orthography: a language's spelling rules
+    - Graphemes: the smallest written units
+  - Types, by what a sign stands for
+    - Logographic: words, as in Chinese
+    - Syllabary: syllables, as in Japanese kana
+    - [Abjad: consonants, as in Arabic, Hebrew](https://en.wikipedia.org/wiki/Abjad)
+    - [Abugida: consonant plus vowel mark](https://en.wikipedia.org/wiki/Abugida)
+    - Alphabet: consonants and vowels, as in Latin
+    - Featural: shapes show sounds, Korean Hangul
+  - Writing direction
+    - Left to right is most common
+    - Right to left: Arabic and Hebrew
+    - Top to bottom: traditional Chinese, Mongolian
+  - Most widely used scripts
+    - Latin, used by most of the world
+    - Chinese characters, over a billion readers
+    - Arabic, Devanagari and Cyrillic
+  - Family trees
+    - Few independent inventions; most scripts borrowed
+    - Phoenician gave Greek, Latin, Arabic, Hebrew
+    - Brahmi gave most South Asian scripts
+  - In the digital age
+    - [Unicode encodes over 150 scripts](https://en.wikipedia.org/wiki/Unicode)
+    - Many minority scripts remain endangered

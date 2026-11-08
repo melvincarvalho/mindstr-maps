@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Game",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#skeyrj",
+      "name": "What makes a game",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#eyv5dj",
+      "name": "A goal players try to reach",
+      "x": -445,
+      "y": -54,
+      "parent": "#skeyrj"
+    },
+    {
+      "@id": "#8vpa98",
+      "name": "Rules that limit how",
+      "x": -405,
+      "y": -156,
+      "parent": "#skeyrj"
+    },
+    {
+      "@id": "#snc3dq",
+      "name": "An uncertain outcome",
+      "x": -330,
+      "y": -245,
+      "parent": "#skeyrj"
+    },
+    {
+      "@id": "#8ap7ap",
+      "name": "Played voluntarily, for fun",
+      "x": -225,
+      "y": -312,
+      "parent": "#skeyrj"
+    },
+    {
+      "@id": "#f6w7xj",
+      "name": "Main kinds",
+      "x": 84,
+      "y": -171,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3kh7s7",
+      "name": "Board games like chess",
+      "x": -104,
+      "y": -367,
+      "parent": "#f6w7xj"
+    },
+    {
+      "@id": "#5b2vye",
+      "name": "Card games like poker",
+      "x": 42,
+      "y": -423,
+      "parent": "#f6w7xj"
+    },
+    {
+      "@id": "#6y757t",
+      "name": "Video games on screens",
+      "x": 164,
+      "y": -335,
+      "parent": "#f6w7xj"
+    },
+    {
+      "@id": "#k35q4h",
+      "name": "Sports and physical games",
+      "x": 281,
+      "y": -281,
+      "parent": "#f6w7xj"
+    },
+    {
+      "@id": "#wirx5a",
+      "name": "Party and word games",
+      "x": 372,
+      "y": -203,
+      "parent": "#f6w7xj"
+    },
+    {
+      "@id": "#cfv7jy",
+      "name": "Skill, luck or both",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yvup99",
+      "name": "Chess: pure skill, no chance",
+      "x": 430,
+      "y": -106,
+      "parent": "#cfv7jy"
+    },
+    {
+      "@id": "#sj8g9u",
+      "name": "Snakes and ladders: pure chance",
+      "x": 510,
+      "y": 0,
+      "parent": "#cfv7jy"
+    },
+    {
+      "@id": "#89vjp4",
+      "name": "Poker and backgammon mix both",
+      "x": 430,
+      "y": 106,
+      "parent": "#cfv7jy"
+    },
+    {
+      "@id": "#g6n6fv",
+      "name": "Games are ancient",
+      "x": 143,
+      "y": 144,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9jtkyz",
+      "name": "Royal Game of Ur, about 4,500 years",
+      "x": 372,
+      "y": 203,
+      "link": "https://en.wikipedia.org/wiki/Royal_Game_of_Ur",
+      "parent": "#g6n6fv"
+    },
+    {
+      "@id": "#pzzfib",
+      "name": "Senet played in ancient Egypt",
+      "x": 281,
+      "y": 281,
+      "parent": "#g6n6fv"
+    },
+    {
+      "@id": "#i5ebqh",
+      "name": "Go from China, over 2,500 years",
+      "x": 164,
+      "y": 335,
+      "parent": "#g6n6fv"
+    },
+    {
+      "@id": "#mwzy2n",
+      "name": "Why people play",
+      "x": -55,
+      "y": 195,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nsaxuw",
+      "name": "Challenge and getting better",
+      "x": 38,
+      "y": 391,
+      "parent": "#mwzy2n"
+    },
+    {
+      "@id": "#zevb8a",
+      "name": "Company and friendly competition",
+      "x": -124,
+      "y": 447,
+      "parent": "#mwzy2n"
+    },
+    {
+      "@id": "#zz5259",
+      "name": "Stories and escape",
+      "x": -225,
+      "y": 312,
+      "parent": "#mwzy2n"
+    },
+    {
+      "@id": "#z3i3b3",
+      "name": "Games as an idea",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9evddv",
+      "name": "Game theory studies strategic choices",
+      "x": -330,
+      "y": 245,
+      "link": "https://en.wikipedia.org/wiki/Game_theory",
+      "parent": "#z3i3b3"
+    },
+    {
+      "@id": "#3veqeg",
+      "name": "Gamification adds game elements elsewhere",
+      "x": -405,
+      "y": 156,
+      "link": "https://en.wikipedia.org/wiki/Gamification",
+      "parent": "#z3i3b3"
+    },
+    {
+      "@id": "#6gm8qb",
+      "name": "Wittgenstein: games share a family resemblance",
+      "x": -545,
+      "y": 64,
+      "link": "https://en.wikipedia.org/wiki/Family_resemblance",
+      "parent": "#z3i3b3"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 6,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

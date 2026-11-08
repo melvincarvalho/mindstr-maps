@@ -1,0 +1,309 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Goods",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#2875nk",
+      "name": "What counts as a good",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a3y2ci",
+      "name": "Tangible items that satisfy wants",
+      "x": -504,
+      "y": -68,
+      "parent": "#2875nk"
+    },
+    {
+      "@id": "#8j2yes",
+      "name": "Can be stored, owned and traded",
+      "x": -396,
+      "y": -171,
+      "parent": "#2875nk"
+    },
+    {
+      "@id": "#bx3pcr",
+      "name": "Contrast: services are used up immediately",
+      "x": -305,
+      "y": -265,
+      "parent": "#2875nk"
+    },
+    {
+      "@id": "#k6y657",
+      "name": "By who uses them",
+      "x": -19,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cqbkft",
+      "name": "Consumer goods bought by households",
+      "x": -181,
+      "y": -330,
+      "link": "https://en.wikipedia.org/wiki/Final_good",
+      "parent": "#k6y657"
+    },
+    {
+      "@id": "#d4sdt7",
+      "name": "Capital goods make other goods",
+      "x": -41,
+      "y": -391,
+      "parent": "#k6y657"
+    },
+    {
+      "@id": "#hc67wq",
+      "name": "Intermediate goods become parts or inputs",
+      "x": 140,
+      "y": -445,
+      "parent": "#k6y657"
+    },
+    {
+      "@id": "#4riiyv",
+      "name": "By how long they last",
+      "x": 156,
+      "y": -135,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xi23au",
+      "name": "Durable goods: cars, fridges, furniture",
+      "x": 246,
+      "y": -301,
+      "parent": "#4riiyv"
+    },
+    {
+      "@id": "#2ddvgz",
+      "name": "Non-durables: food, fuel, toiletries",
+      "x": 355,
+      "y": -221,
+      "parent": "#4riiyv"
+    },
+    {
+      "@id": "#md6tsz",
+      "name": "By how demand responds",
+      "x": 227,
+      "y": 30,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gjv4rm",
+      "name": "Normal goods: buy more as income rises",
+      "x": 483,
+      "y": -132,
+      "parent": "#md6tsz"
+    },
+    {
+      "@id": "#c48uj2",
+      "name": "Inferior goods: buy less as income rises",
+      "x": 570,
+      "y": 0,
+      "parent": "#md6tsz"
+    },
+    {
+      "@id": "#w75ved",
+      "name": "Luxury goods: demand rises faster than income",
+      "x": 426,
+      "y": 117,
+      "parent": "#md6tsz"
+    },
+    {
+      "@id": "#w5jwim",
+      "name": "Substitutes and complements move together",
+      "x": 355,
+      "y": 221,
+      "link": "https://en.wikipedia.org/wiki/Substitute_good",
+      "parent": "#md6tsz"
+    },
+    {
+      "@id": "#4s5da6",
+      "name": "By who can be excluded",
+      "x": 31,
+      "y": 279,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#drx3kp",
+      "name": "Private goods: rival and excludable",
+      "x": 268,
+      "y": 327,
+      "parent": "#4s5da6"
+    },
+    {
+      "@id": "#veq6u5",
+      "name": "Public goods: street lighting, defence",
+      "x": 120,
+      "y": 381,
+      "link": "https://en.wikipedia.org/wiki/Public_good_%28economics%29",
+      "parent": "#4s5da6"
+    },
+    {
+      "@id": "#vywe5h",
+      "name": "Common resources: fish stocks, pastures",
+      "x": -47,
+      "y": 439,
+      "parent": "#4s5da6"
+    },
+    {
+      "@id": "#cyhaxs",
+      "name": "Club goods: cable TV, toll roads",
+      "x": -181,
+      "y": 330,
+      "parent": "#4s5da6"
+    },
+    {
+      "@id": "#iijtas",
+      "name": "Why the categories matter",
+      "x": -202,
+      "y": 88,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r36x9k",
+      "name": "Free riders undersupply public goods",
+      "x": -305,
+      "y": 265,
+      "link": "https://en.wikipedia.org/wiki/Free-rider_problem",
+      "parent": "#iijtas"
+    },
+    {
+      "@id": "#dwnaki",
+      "name": "Tragedy of the commons overuses resources",
+      "x": -396,
+      "y": 171,
+      "link": "https://en.wikipedia.org/wiki/Tragedy_of_the_commons",
+      "parent": "#iijtas"
+    },
+    {
+      "@id": "#j6z36x",
+      "name": "Governments tax, ban or provide goods",
+      "x": -544,
+      "y": 74,
+      "parent": "#iijtas"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 12,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

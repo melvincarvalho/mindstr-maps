@@ -1,0 +1,27 @@
+category: Philosophy and religion
+aliases: orthodox church, eastern orthodoxy, greek orthodox church, orthodox christianity
+- Eastern Orthodox Church
+  - Beliefs
+    - Keeps faith of the seven ecumenical councils
+    - Holy Spirit proceeds from the Father
+    - [Theosis: humans can share God's life](https://en.wikipedia.org/wiki/Theosis_%28Eastern_Christian_theology%29)
+    - Scripture read within Holy Tradition
+  - Worship
+    - [Divine Liturgy of Saint John Chrysostom](https://en.wikipedia.org/wiki/Liturgy_of_Saint_John_Chrysostom)
+    - [Icons venerated as windows to heaven](https://en.wikipedia.org/wiki/Icon)
+    - Easter (Pascha) is the greatest feast
+    - Many churches use the Julian calendar
+  - History
+    - Grew from the Byzantine Empire
+    - Split with Rome in 1054
+    - Spread to Slavs from the 9th century
+    - Moscow rose after Constantinople fell, 1453
+  - Organisation
+    - Self-governing churches in communion
+    - Ecumenical Patriarch is first among equals
+    - Russian Church is the largest
+    - Priests may marry before ordination
+  - Today
+    - About 220 million members
+    - Mainly Eastern Europe, Greece, Russia
+    - Monastic centre at Mount Athos

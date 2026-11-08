@@ -1,0 +1,352 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Political science",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#jyrhgr",
+      "name": "What it studies",
+      "x": -211,
+      "y": -73,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b99q2t",
+      "name": "Power, government and policy",
+      "x": -466,
+      "y": -51,
+      "parent": "#jyrhgr"
+    },
+    {
+      "@id": "#e6pmf5",
+      "name": "How political systems work",
+      "x": -413,
+      "y": -143,
+      "parent": "#jyrhgr"
+    },
+    {
+      "@id": "#xiigv5",
+      "name": "Why people act politically",
+      "x": -349,
+      "y": -227,
+      "parent": "#jyrhgr"
+    },
+    {
+      "@id": "#wi5eef",
+      "name": "Main subfields",
+      "x": -16,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#n5ce6z",
+      "name": "Comparative politics across countries",
+      "x": -260,
+      "y": -294,
+      "link": "https://en.wikipedia.org/wiki/Comparative_politics",
+      "parent": "#wi5eef"
+    },
+    {
+      "@id": "#t3szfp",
+      "name": "International relations between states",
+      "x": -158,
+      "y": -354,
+      "link": "https://en.wikipedia.org/wiki/International_relations",
+      "parent": "#wi5eef"
+    },
+    {
+      "@id": "#n3m88a",
+      "name": "Political theory and philosophy",
+      "x": -34,
+      "y": -407,
+      "parent": "#wi5eef"
+    },
+    {
+      "@id": "#ew6jfy",
+      "name": "Public policy and administration",
+      "x": 120,
+      "y": -464,
+      "parent": "#wi5eef"
+    },
+    {
+      "@id": "#sykcry",
+      "name": "Domestic politics, e.g. elections, parliaments",
+      "x": 333,
+      "y": -516,
+      "parent": "#wi5eef"
+    },
+    {
+      "@id": "#t9su3i",
+      "name": "Classic thinkers",
+      "x": 211,
+      "y": -73,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zzsw2f",
+      "name": "Aristotle compared constitutions",
+      "x": 307,
+      "y": -263,
+      "parent": "#t9su3i"
+    },
+    {
+      "@id": "#ydhrb8",
+      "name": "Machiavelli's The Prince, 1532",
+      "x": 384,
+      "y": -187,
+      "link": "https://en.wikipedia.org/wiki/The_Prince",
+      "parent": "#t9su3i"
+    },
+    {
+      "@id": "#2vw9qb",
+      "name": "Hobbes, Locke and Rousseau on social contracts",
+      "x": 547,
+      "y": -121,
+      "parent": "#t9su3i"
+    },
+    {
+      "@id": "#7gkihc",
+      "name": "Montesquieu on separation of powers",
+      "x": 450,
+      "y": 0,
+      "parent": "#t9su3i"
+    },
+    {
+      "@id": "#4mc9fa",
+      "name": "Methods",
+      "x": 178,
+      "y": 116,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pvstbe",
+      "name": "Surveys of voters and opinion",
+      "x": 433,
+      "y": 97,
+      "parent": "#4mc9fa"
+    },
+    {
+      "@id": "#5b8pyn",
+      "name": "Statistical analysis of election data",
+      "x": 384,
+      "y": 187,
+      "parent": "#4mc9fa"
+    },
+    {
+      "@id": "#wgf33u",
+      "name": "Case studies and historical comparison",
+      "x": 307,
+      "y": 263,
+      "parent": "#4mc9fa"
+    },
+    {
+      "@id": "#x9atxu",
+      "name": "Game theory models strategic choices",
+      "x": 207,
+      "y": 320,
+      "link": "https://en.wikipedia.org/wiki/Game_theory",
+      "parent": "#4mc9fa"
+    },
+    {
+      "@id": "#rvpbec",
+      "name": "Big questions",
+      "x": -47,
+      "y": 180,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c6hrzm",
+      "name": "Why democracies emerge or fail",
+      "x": 96,
+      "y": 368,
+      "parent": "#rvpbec"
+    },
+    {
+      "@id": "#nawudu",
+      "name": "What causes war and peace",
+      "x": -35,
+      "y": 423,
+      "parent": "#rvpbec"
+    },
+    {
+      "@id": "#dsrdzg",
+      "name": "How institutions shape outcomes",
+      "x": -214,
+      "y": 474,
+      "parent": "#rvpbec"
+    },
+    {
+      "@id": "#8jdpk3",
+      "name": "Why people vote as they do",
+      "x": -260,
+      "y": 294,
+      "parent": "#rvpbec"
+    },
+    {
+      "@id": "#nh4icc",
+      "name": "Careers",
+      "x": -211,
+      "y": 73,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#twqarw",
+      "name": "Government and civil service",
+      "x": -349,
+      "y": 227,
+      "parent": "#nh4icc"
+    },
+    {
+      "@id": "#rxpzqu",
+      "name": "Journalism and polling",
+      "x": -413,
+      "y": 143,
+      "parent": "#nh4icc"
+    },
+    {
+      "@id": "#9h5yek",
+      "name": "Law, diplomacy and NGOs",
+      "x": -446,
+      "y": 49,
+      "parent": "#nh4icc"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    },
+    {
+      "start": 26,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

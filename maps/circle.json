@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Circle",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#bnykd5",
+      "name": "What a circle is",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6hxfuu",
+      "name": "All points same distance from centre",
+      "x": -504,
+      "y": -62,
+      "parent": "#bnykd5"
+    },
+    {
+      "@id": "#2t2q5i",
+      "name": "That distance is the radius",
+      "x": -401,
+      "y": -163,
+      "parent": "#bnykd5"
+    },
+    {
+      "@id": "#rvsif6",
+      "name": "Diameter is twice the radius",
+      "x": -318,
+      "y": -255,
+      "parent": "#bnykd5"
+    },
+    {
+      "@id": "#cgwhzq",
+      "name": "Pi, the circle's constant",
+      "x": -36,
+      "y": -182,
+      "link": "https://en.wikipedia.org/wiki/Pi",
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tass5k",
+      "name": "Circumference divided by diameter",
+      "x": -204,
+      "y": -321,
+      "parent": "#cgwhzq"
+    },
+    {
+      "@id": "#bgruhq",
+      "name": "About 3.14159, digits never repeat",
+      "x": -73,
+      "y": -372,
+      "parent": "#cgwhzq"
+    },
+    {
+      "@id": "#8hmdif",
+      "name": "Archimedes showed it's near 22/7",
+      "x": 82,
+      "y": -420,
+      "parent": "#cgwhzq"
+    },
+    {
+      "@id": "#tamqwa",
+      "name": "Key formulas",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#arkayf",
+      "name": "Circumference: pi times diameter",
+      "x": 204,
+      "y": -321,
+      "parent": "#tamqwa"
+    },
+    {
+      "@id": "#qe3ai8",
+      "name": "Area: pi times radius squared",
+      "x": 318,
+      "y": -255,
+      "parent": "#tamqwa"
+    },
+    {
+      "@id": "#8h7yu2",
+      "name": "Arc length grows with the angle",
+      "x": 419,
+      "y": -170,
+      "parent": "#tamqwa"
+    },
+    {
+      "@id": "#wmfftm",
+      "name": "Parts of a circle",
+      "x": 219,
+      "y": 57,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mr9tc2",
+      "name": "Chord joins two points on it",
+      "x": 444,
+      "y": -56,
+      "parent": "#wmfftm"
+    },
+    {
+      "@id": "#ebrsjw",
+      "name": "Tangent touches at exactly one point",
+      "x": 524,
+      "y": 64,
+      "link": "https://en.wikipedia.org/wiki/Tangent",
+      "parent": "#wmfftm"
+    },
+    {
+      "@id": "#h42su2",
+      "name": "Sector is a pizza-slice region",
+      "x": 401,
+      "y": 163,
+      "parent": "#wmfftm"
+    },
+    {
+      "@id": "#ssvxdr",
+      "name": "Segment is cut off by a chord",
+      "x": 318,
+      "y": 255,
+      "parent": "#wmfftm"
+    },
+    {
+      "@id": "#6w6w9h",
+      "name": "Circle theorems",
+      "x": 36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cwuvzs",
+      "name": "Angle in a semicircle is 90°",
+      "x": 204,
+      "y": 321,
+      "link": "https://en.wikipedia.org/wiki/Thales%27s_theorem",
+      "parent": "#6w6w9h"
+    },
+    {
+      "@id": "#cvxmqn",
+      "name": "Tangent meets radius at right angles",
+      "x": 73,
+      "y": 372,
+      "parent": "#6w6w9h"
+    },
+    {
+      "@id": "#v9dvz4",
+      "name": "Angle at centre doubles angle at edge",
+      "x": -82,
+      "y": 420,
+      "parent": "#6w6w9h"
+    },
+    {
+      "@id": "#5wsn7f",
+      "name": "Circles in the world",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xq3m78",
+      "name": "Wheels, gears and pulleys",
+      "x": -204,
+      "y": 321,
+      "parent": "#5wsn7f"
+    },
+    {
+      "@id": "#iw2gmx",
+      "name": "Most enclosed area for its perimeter",
+      "x": -318,
+      "y": 255,
+      "parent": "#5wsn7f"
+    },
+    {
+      "@id": "#da89dq",
+      "name": "Orbits are nearly circular ellipses",
+      "x": -401,
+      "y": 163,
+      "parent": "#5wsn7f"
+    },
+    {
+      "@id": "#ci8a9b",
+      "name": "Squaring the circle proved impossible, 1882",
+      "x": -444,
+      "y": 56,
+      "link": "https://en.wikipedia.org/wiki/Squaring_the_circle",
+      "parent": "#5wsn7f"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

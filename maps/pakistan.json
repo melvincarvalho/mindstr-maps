@@ -1,0 +1,374 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Pakistan",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#c7sak6",
+      "name": "Land",
+      "x": -202,
+      "y": -89,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zig3c3",
+      "name": "Indus River runs the whole length",
+      "x": -446,
+      "y": -45,
+      "parent": "#c7sak6"
+    },
+    {
+      "@id": "#k5anp8",
+      "name": "K2, world's second-highest peak",
+      "x": -437,
+      "y": -139,
+      "link": "https://en.wikipedia.org/wiki/K2",
+      "parent": "#c7sak6"
+    },
+    {
+      "@id": "#s7p8zm",
+      "name": "Islamabad is the capital",
+      "x": -364,
+      "y": -212,
+      "parent": "#c7sak6"
+    },
+    {
+      "@id": "#ah7hjz",
+      "name": "Karachi is the largest city and port",
+      "x": -287,
+      "y": -277,
+      "parent": "#c7sak6"
+    },
+    {
+      "@id": "#fnywh9",
+      "name": "People and languages",
+      "x": -14,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z9ng7m",
+      "name": "About 240 million people",
+      "x": -192,
+      "y": -326,
+      "parent": "#fnywh9"
+    },
+    {
+      "@id": "#c3dc9a",
+      "name": "Urdu national, English official",
+      "x": -92,
+      "y": -386,
+      "parent": "#fnywh9"
+    },
+    {
+      "@id": "#ppn4ni",
+      "name": "Punjabi, Pashto, Sindhi, Balochi widely spoken",
+      "x": 33,
+      "y": -439,
+      "parent": "#fnywh9"
+    },
+    {
+      "@id": "#3xchp7",
+      "name": "About 96% Muslim",
+      "x": 199,
+      "y": -492,
+      "parent": "#fnywh9"
+    },
+    {
+      "@id": "#zpvgh5",
+      "name": "History in brief",
+      "x": 202,
+      "y": -89,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3ajpce",
+      "name": "Indus Valley cities like Mohenjo-daro",
+      "x": 241,
+      "y": -304,
+      "parent": "#zpvgh5"
+    },
+    {
+      "@id": "#qh42bt",
+      "name": "Muhammad Ali Jinnah, founding leader",
+      "x": 328,
+      "y": -246,
+      "link": "https://en.wikipedia.org/wiki/Muhammad_Ali_Jinnah",
+      "parent": "#zpvgh5"
+    },
+    {
+      "@id": "#fqu94x",
+      "name": "Created at Partition, 14 August 1947",
+      "x": 394,
+      "y": -173,
+      "parent": "#zpvgh5"
+    },
+    {
+      "@id": "#cnkfy8",
+      "name": "East Pakistan became Bangladesh, 1971",
+      "x": 493,
+      "y": -102,
+      "parent": "#zpvgh5"
+    },
+    {
+      "@id": "#x2da75",
+      "name": "Alternating civilian and military rule",
+      "x": 450,
+      "y": 0,
+      "parent": "#zpvgh5"
+    },
+    {
+      "@id": "#4x53s2",
+      "name": "Government",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#n3pdav",
+      "name": "Federal parliamentary republic",
+      "x": 436,
+      "y": 90,
+      "parent": "#4x53s2"
+    },
+    {
+      "@id": "#ew6tf6",
+      "name": "Four provinces, including Punjab and Sindh",
+      "x": 394,
+      "y": 173,
+      "parent": "#4x53s2"
+    },
+    {
+      "@id": "#g2egqe",
+      "name": "Kashmir claimed by Pakistan and India",
+      "x": 328,
+      "y": 246,
+      "parent": "#4x53s2"
+    },
+    {
+      "@id": "#t2b5sw",
+      "name": "Nuclear-armed since 1998 tests",
+      "x": 241,
+      "y": 304,
+      "parent": "#4x53s2"
+    },
+    {
+      "@id": "#wgaj4w",
+      "name": "Economy",
+      "x": -14,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gdyxkz",
+      "name": "Farming: cotton, wheat, rice",
+      "x": 145,
+      "y": 357,
+      "parent": "#wgaj4w"
+    },
+    {
+      "@id": "#rtdy2n",
+      "name": "Textiles are the main export",
+      "x": 31,
+      "y": 407,
+      "parent": "#wgaj4w"
+    },
+    {
+      "@id": "#57anit",
+      "name": "Remittances from workers abroad",
+      "x": -112,
+      "y": 466,
+      "parent": "#wgaj4w"
+    },
+    {
+      "@id": "#vh3rwf",
+      "name": "Repeated IMF support programmes",
+      "x": -192,
+      "y": 326,
+      "parent": "#wgaj4w"
+    },
+    {
+      "@id": "#aju2fv",
+      "name": "Culture",
+      "x": -202,
+      "y": 89,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#79w58f",
+      "name": "Cricket World Cup winners, 1992",
+      "x": -287,
+      "y": 277,
+      "parent": "#aju2fv"
+    },
+    {
+      "@id": "#e9vsd2",
+      "name": "Qawwali, Sufi devotional music",
+      "x": -364,
+      "y": 212,
+      "link": "https://en.wikipedia.org/wiki/Qawwali",
+      "parent": "#aju2fv"
+    },
+    {
+      "@id": "#hguazv",
+      "name": "Badshahi Mosque in Lahore",
+      "x": -418,
+      "y": 133,
+      "link": "https://en.wikipedia.org/wiki/Badshahi_Mosque",
+      "parent": "#aju2fv"
+    },
+    {
+      "@id": "#q2c5kz",
+      "name": "Biryani, kebabs and chai",
+      "x": -446,
+      "y": 45,
+      "parent": "#aju2fv"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 11,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    },
+    {
+      "start": 0,
+      "end": 27
+    },
+    {
+      "start": 27,
+      "end": 28
+    },
+    {
+      "start": 27,
+      "end": 29
+    },
+    {
+      "start": 27,
+      "end": 30
+    },
+    {
+      "start": 27,
+      "end": 31
+    }
+  ],
+  "selectedNode": 0
+}

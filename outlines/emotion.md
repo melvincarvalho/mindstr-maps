@@ -1,0 +1,28 @@
+category: Society
+aliases: emotions, human emotions, what are emotions, feelings and emotions
+- Emotion
+  - What an emotion is
+    - A brief reaction to what matters
+    - Combines feeling, body and urge to act
+    - Moods last longer and feel vaguer
+  - Why we have emotions
+    - Fear and anger helped ancestors survive
+    - Signal needs to ourselves and others
+    - Guide quick decisions without long thought
+  - How emotions arise
+    - [The amygdala flags threats fast](https://en.wikipedia.org/wiki/Amygdala)
+    - Hormones raise heart rate and breathing
+    - How we interpret events shapes feelings
+  - Basic and complex emotions
+    - Joy, sadness, fear, anger, disgust, surprise
+    - [Ekman found these across cultures](https://en.wikipedia.org/wiki/Paul_Ekman)
+    - Guilt, pride and shame are social
+  - How emotions show
+    - [Facial expressions read across cultures](https://en.wikipedia.org/wiki/Facial_expression)
+    - Voice, posture and gestures
+    - Cultures set rules for displaying feelings
+  - Handling emotions well
+    - Name the feeling to calm it
+    - [Reappraise: see the situation differently](https://en.wikipedia.org/wiki/Emotional_self-regulation)
+    - Sleep, exercise and talking help
+    - [Emotional intelligence can be learned](https://en.wikipedia.org/wiki/Emotional_intelligence)

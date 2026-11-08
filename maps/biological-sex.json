@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Biological sex",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#wuxfq9",
+      "name": "What defines it",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vs7bfe",
+      "name": "Gamete size: small sperm, large eggs",
+      "x": -504,
+      "y": -62,
+      "link": "https://en.wikipedia.org/wiki/Anisogamy",
+      "parent": "#wuxfq9"
+    },
+    {
+      "@id": "#47m2yk",
+      "name": "Males make sperm, females make eggs",
+      "x": -401,
+      "y": -163,
+      "parent": "#wuxfq9"
+    },
+    {
+      "@id": "#fyrhhr",
+      "name": "Many plants and snails are hermaphrodites",
+      "x": -318,
+      "y": -255,
+      "parent": "#wuxfq9"
+    },
+    {
+      "@id": "#cgnqtk",
+      "name": "How sex is determined",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#f99bhp",
+      "name": "Humans: XX or XY chromosomes",
+      "x": -204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/XY_sex-determination_system",
+      "parent": "#cgnqtk"
+    },
+    {
+      "@id": "#5wggcy",
+      "name": "SRY gene on Y triggers testes",
+      "x": -73,
+      "y": -372,
+      "parent": "#cgnqtk"
+    },
+    {
+      "@id": "#rpxn7j",
+      "name": "Birds use ZW chromosomes",
+      "x": 82,
+      "y": -420,
+      "parent": "#cgnqtk"
+    },
+    {
+      "@id": "#pnr3sj",
+      "name": "Some reptiles: nest temperature decides",
+      "x": 204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Temperature-dependent_sex_determination",
+      "parent": "#cgnqtk"
+    },
+    {
+      "@id": "#k3aypm",
+      "name": "Human development",
+      "x": 219,
+      "y": -57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cqnymb",
+      "name": "Early embryos have undifferentiated gonads",
+      "x": 318,
+      "y": -255,
+      "parent": "#k3aypm"
+    },
+    {
+      "@id": "#8qjcqm",
+      "name": "Gonads become testes or ovaries",
+      "x": 401,
+      "y": -163,
+      "parent": "#k3aypm"
+    },
+    {
+      "@id": "#ssg5ej",
+      "name": "Hormones shape internal and external anatomy",
+      "x": 544,
+      "y": -66,
+      "parent": "#k3aypm"
+    },
+    {
+      "@id": "#mcsuxs",
+      "name": "Puberty brings secondary sex characteristics",
+      "x": 444,
+      "y": 56,
+      "parent": "#k3aypm"
+    },
+    {
+      "@id": "#wnhynm",
+      "name": "Intersex variations",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jxm3s5",
+      "name": "Differences in sex development",
+      "x": 455,
+      "y": 184,
+      "link": "https://en.wikipedia.org/wiki/Intersex",
+      "parent": "#wnhynm"
+    },
+    {
+      "@id": "#zh2sqb",
+      "name": "Examples: Klinefelter, Turner, androgen insensitivity",
+      "x": 318,
+      "y": 255,
+      "parent": "#wnhynm"
+    },
+    {
+      "@id": "#wf3mc7",
+      "name": "Prevalence estimates vary with definition",
+      "x": 204,
+      "y": 321,
+      "parent": "#wnhynm"
+    },
+    {
+      "@id": "#whs7m6",
+      "name": "Sex differences",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hni9kx",
+      "name": "Average differences in height and strength",
+      "x": 73,
+      "y": 372,
+      "parent": "#whs7m6"
+    },
+    {
+      "@id": "#wpuvuf",
+      "name": "Diseases and drug effects can differ",
+      "x": -82,
+      "y": 420,
+      "parent": "#whs7m6"
+    },
+    {
+      "@id": "#r87gza",
+      "name": "Large overlap between individuals",
+      "x": -204,
+      "y": 321,
+      "parent": "#whs7m6"
+    },
+    {
+      "@id": "#95jfee",
+      "name": "Sex and gender",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#iuie9i",
+      "name": "Sex: biological traits",
+      "x": -318,
+      "y": 255,
+      "parent": "#95jfee"
+    },
+    {
+      "@id": "#pf8rri",
+      "name": "Gender: social roles and identity",
+      "x": -401,
+      "y": 163,
+      "parent": "#95jfee"
+    },
+    {
+      "@id": "#rq7zwk",
+      "name": "Often used interchangeably in everyday speech",
+      "x": -524,
+      "y": 64,
+      "parent": "#95jfee"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,29 @@
+category: Life and home
+aliases: sexual identity, sexual preference, gay straight and bisexual
+- Sexual orientation
+  - What it means
+    - Pattern of romantic and sexual attraction
+    - Different from gender identity
+    - Separate from behaviour and labels
+  - Common orientations
+    - [Heterosexual: attracted to the other sex](https://en.wikipedia.org/wiki/Heterosexuality)
+    - [Homosexual: gay or lesbian](https://en.wikipedia.org/wiki/Homosexuality)
+    - [Bisexual: attracted to more than one gender](https://en.wikipedia.org/wiki/Bisexuality)
+    - Asexual: little or no sexual attraction
+  - What research says
+    - Likely shaped by genes, hormones, environment
+    - No single "gay gene" found
+    - Usually emerges by early adolescence
+    - [Conversion therapy is widely discredited](https://en.wikipedia.org/wiki/Conversion_therapy)
+  - Measuring and history
+    - [Kinsey scale rates attraction 0 to 6](https://en.wikipedia.org/wiki/Kinsey_scale)
+    - US psychiatrists declassified homosexuality as illness, 1973
+    - World Health Organization followed in 1990
+  - Coming out and wellbeing
+    - Coming out is a personal choice
+    - Acceptance supports mental health
+    - Discrimination raises stress and health risks
+  - Law and society
+    - Same-sex marriage legal in 30+ countries
+    - Same-sex relations illegal in about 60
+    - Views differ widely by country and religion

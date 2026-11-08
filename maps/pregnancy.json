@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Pregnancy",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#hvyxr6",
+      "name": "Getting started",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h5g72j",
+      "name": "Fertilised egg implants in the uterus",
+      "x": -445,
+      "y": -54,
+      "link": "https://en.wikipedia.org/wiki/Implantation_%28embryology%29",
+      "parent": "#hvyxr6"
+    },
+    {
+      "@id": "#r89d56",
+      "name": "Early signs: missed period, nausea, tiredness",
+      "x": -405,
+      "y": -156,
+      "parent": "#hvyxr6"
+    },
+    {
+      "@id": "#bm5tid",
+      "name": "Home tests detect the hormone hCG",
+      "x": -330,
+      "y": -245,
+      "parent": "#hvyxr6"
+    },
+    {
+      "@id": "#ca2tku",
+      "name": "Lasts about 40 weeks from last period",
+      "x": -225,
+      "y": -312,
+      "parent": "#hvyxr6"
+    },
+    {
+      "@id": "#3pt7kv",
+      "name": "First trimester",
+      "x": 17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#46i4t4",
+      "name": "Organs and heartbeat begin forming",
+      "x": -104,
+      "y": -367,
+      "parent": "#3pt7kv"
+    },
+    {
+      "@id": "#5zpspi",
+      "name": "Morning sickness is common",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Morning_sickness",
+      "parent": "#3pt7kv"
+    },
+    {
+      "@id": "#g2mz88",
+      "name": "Most miscarriages happen in these weeks",
+      "x": 234,
+      "y": -485,
+      "parent": "#3pt7kv"
+    },
+    {
+      "@id": "#sfa7rg",
+      "name": "Second trimester",
+      "x": 190,
+      "y": -104,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aubgdw",
+      "name": "Baby's movements first felt",
+      "x": 281,
+      "y": -281,
+      "parent": "#sfa7rg"
+    },
+    {
+      "@id": "#p5h3un",
+      "name": "Anatomy scan around 20 weeks",
+      "x": 372,
+      "y": -203,
+      "parent": "#sfa7rg"
+    },
+    {
+      "@id": "#s4zsia",
+      "name": "Energy often returns",
+      "x": 430,
+      "y": -106,
+      "parent": "#sfa7rg"
+    },
+    {
+      "@id": "#mesdn3",
+      "name": "Third trimester",
+      "x": 220,
+      "y": 54,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u3wvmw",
+      "name": "Rapid growth and weight gain",
+      "x": 450,
+      "y": 0,
+      "parent": "#mesdn3"
+    },
+    {
+      "@id": "#fhz3n2",
+      "name": "Baby usually turns head-down",
+      "x": 430,
+      "y": 106,
+      "parent": "#mesdn3"
+    },
+    {
+      "@id": "#x2fi4n",
+      "name": "Full term from 37 weeks",
+      "x": 372,
+      "y": 203,
+      "parent": "#mesdn3"
+    },
+    {
+      "@id": "#beha89",
+      "name": "Care and healthy habits",
+      "x": 51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nui2dp",
+      "name": "Regular antenatal check-ups",
+      "x": 281,
+      "y": 281,
+      "link": "https://en.wikipedia.org/wiki/Prenatal_care",
+      "parent": "#beha89"
+    },
+    {
+      "@id": "#u6uusr",
+      "name": "Folic acid before and in early pregnancy",
+      "x": 164,
+      "y": 335,
+      "parent": "#beha89"
+    },
+    {
+      "@id": "#cbpnnx",
+      "name": "No alcohol or smoking",
+      "x": 38,
+      "y": 391,
+      "parent": "#beha89"
+    },
+    {
+      "@id": "#wfukxe",
+      "name": "Check before taking any medicines",
+      "x": -124,
+      "y": 447,
+      "parent": "#beha89"
+    },
+    {
+      "@id": "#xqpc3s",
+      "name": "Birth and when to get help",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xuexj3",
+      "name": "Labour: contractions, birth, then placenta",
+      "x": -365,
+      "y": 508,
+      "link": "https://en.wikipedia.org/wiki/Childbirth",
+      "parent": "#xqpc3s"
+    },
+    {
+      "@id": "#dvypkf",
+      "name": "Urgent: bleeding, severe pain, leaking fluid",
+      "x": -330,
+      "y": 245,
+      "parent": "#xqpc3s"
+    },
+    {
+      "@id": "#cpcw2n",
+      "name": "Urgent: fewer baby movements, bad headache",
+      "x": -405,
+      "y": 156,
+      "parent": "#xqpc3s"
+    },
+    {
+      "@id": "#jt3kyw",
+      "name": "Pre-eclampsia needs prompt treatment",
+      "x": -445,
+      "y": 54,
+      "link": "https://en.wikipedia.org/wiki/Pre-eclampsia",
+      "parent": "#xqpc3s"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

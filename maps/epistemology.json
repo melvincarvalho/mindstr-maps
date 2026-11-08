@@ -1,0 +1,308 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Epistemology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#vwstec",
+      "name": "Key questions",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#swtddy",
+      "name": "What is knowledge?",
+      "x": -444,
+      "y": -59,
+      "parent": "#vwstec"
+    },
+    {
+      "@id": "#u9phmt",
+      "name": "How does knowing differ from believing?",
+      "x": -396,
+      "y": -171,
+      "parent": "#vwstec"
+    },
+    {
+      "@id": "#2k4472",
+      "name": "Can we know anything for certain?",
+      "x": -305,
+      "y": -265,
+      "parent": "#vwstec"
+    },
+    {
+      "@id": "#yntjz8",
+      "name": "Defining knowledge",
+      "x": -19,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8i84cw",
+      "name": "Justified true belief, from Plato",
+      "x": -181,
+      "y": -330,
+      "parent": "#yntjz8"
+    },
+    {
+      "@id": "#wk5upa",
+      "name": "Gettier cases break that definition, 1963",
+      "x": -41,
+      "y": -391,
+      "link": "https://en.wikipedia.org/wiki/Gettier_problem",
+      "parent": "#yntjz8"
+    },
+    {
+      "@id": "#s7chuz",
+      "name": "Reliabilism: formed by reliable processes",
+      "x": 140,
+      "y": -445,
+      "parent": "#yntjz8"
+    },
+    {
+      "@id": "#d6cd3p",
+      "name": "Sources of knowledge",
+      "x": 202,
+      "y": -88,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jeufah",
+      "name": "Perception: seeing the cup there",
+      "x": 246,
+      "y": -301,
+      "parent": "#d6cd3p"
+    },
+    {
+      "@id": "#d7ruah",
+      "name": "Reason: 2+2=4, known a priori",
+      "x": 355,
+      "y": -221,
+      "parent": "#d6cd3p"
+    },
+    {
+      "@id": "#5fvy6e",
+      "name": "Memory and testimony from others",
+      "x": 502,
+      "y": -137,
+      "parent": "#d6cd3p"
+    },
+    {
+      "@id": "#5nb3xd",
+      "name": "Introspection of your own mind",
+      "x": 450,
+      "y": 0,
+      "parent": "#d6cd3p"
+    },
+    {
+      "@id": "#6x4y8n",
+      "name": "Rationalism versus empiricism",
+      "x": 182,
+      "y": 113,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9uru8f",
+      "name": "Rationalists: Descartes, Spinoza, Leibniz",
+      "x": 559,
+      "y": 152,
+      "link": "https://en.wikipedia.org/wiki/Rationalism",
+      "parent": "#6x4y8n"
+    },
+    {
+      "@id": "#sqp2er",
+      "name": "Empiricists: Locke, Berkeley, Hume",
+      "x": 355,
+      "y": 221,
+      "link": "https://en.wikipedia.org/wiki/Empiricism",
+      "parent": "#6x4y8n"
+    },
+    {
+      "@id": "#qiic35",
+      "name": "Kant combined both approaches",
+      "x": 246,
+      "y": 301,
+      "parent": "#6x4y8n"
+    },
+    {
+      "@id": "#xpii7u",
+      "name": "Skepticism",
+      "x": -19,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2hkupa",
+      "name": "Descartes' evil demon doubt",
+      "x": 110,
+      "y": 349,
+      "parent": "#xpii7u"
+    },
+    {
+      "@id": "#hejk8u",
+      "name": "Brain in a vat",
+      "x": -43,
+      "y": 407,
+      "link": "https://en.wikipedia.org/wiki/Brain_in_a_vat",
+      "parent": "#xpii7u"
+    },
+    {
+      "@id": "#in9xnc",
+      "name": "G. E. Moore: \"Here is one hand\"",
+      "x": -253,
+      "y": 465,
+      "parent": "#xpii7u"
+    },
+    {
+      "@id": "#75wqvz",
+      "name": "Structure of justification",
+      "x": -202,
+      "y": 88,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8jy6ji",
+      "name": "Foundationalism: basic beliefs support others",
+      "x": -305,
+      "y": 265,
+      "parent": "#75wqvz"
+    },
+    {
+      "@id": "#srypcx",
+      "name": "Coherentism: beliefs support each other",
+      "x": -396,
+      "y": 171,
+      "parent": "#75wqvz"
+    },
+    {
+      "@id": "#wqwdmj",
+      "name": "The infinite regress of reasons",
+      "x": -524,
+      "y": 71,
+      "parent": "#75wqvz"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,320 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Mind",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ihfzbn",
+      "name": "What the mind is",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nrkpse",
+      "name": "Thinking, feeling, perceiving and remembering",
+      "x": -544,
+      "y": -66,
+      "parent": "#ihfzbn"
+    },
+    {
+      "@id": "#gitjq6",
+      "name": "The inner life of a person",
+      "x": -401,
+      "y": -163,
+      "parent": "#ihfzbn"
+    },
+    {
+      "@id": "#r4bkm9",
+      "name": "Closely tied to the brain",
+      "x": -318,
+      "y": -255,
+      "parent": "#ihfzbn"
+    },
+    {
+      "@id": "#f83bxf",
+      "name": "What the mind does",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#82gybe",
+      "name": "Perception turns senses into experience",
+      "x": -204,
+      "y": -321,
+      "parent": "#f83bxf"
+    },
+    {
+      "@id": "#2bdgtr",
+      "name": "Memory stores and recalls the past",
+      "x": -73,
+      "y": -372,
+      "parent": "#f83bxf"
+    },
+    {
+      "@id": "#u5ufef",
+      "name": "Reasoning, planning and deciding",
+      "x": 82,
+      "y": -420,
+      "parent": "#f83bxf"
+    },
+    {
+      "@id": "#ujki35",
+      "name": "Emotions colour every judgement",
+      "x": 204,
+      "y": -321,
+      "parent": "#f83bxf"
+    },
+    {
+      "@id": "#f2gmwz",
+      "name": "Mind and brain",
+      "x": 205,
+      "y": -84,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dwxmda",
+      "name": "About 86 billion neurons connect",
+      "x": 318,
+      "y": -255,
+      "parent": "#f2gmwz"
+    },
+    {
+      "@id": "#sqftbc",
+      "name": "Brain damage can change personality",
+      "x": 401,
+      "y": -163,
+      "parent": "#f2gmwz"
+    },
+    {
+      "@id": "#8rfyb4",
+      "name": "The mind–body problem remains open",
+      "x": 484,
+      "y": -60,
+      "link": "https://en.wikipedia.org/wiki/Mind%E2%80%93body_problem",
+      "parent": "#f2gmwz"
+    },
+    {
+      "@id": "#j7fen6",
+      "name": "Conscious and unconscious",
+      "x": 205,
+      "y": 84,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y5vjmm",
+      "name": "Awareness is only a small part",
+      "x": 504,
+      "y": 62,
+      "parent": "#j7fen6"
+    },
+    {
+      "@id": "#ijtedj",
+      "name": "Much processing happens automatically",
+      "x": 401,
+      "y": 163,
+      "parent": "#j7fen6"
+    },
+    {
+      "@id": "#iyz9ig",
+      "name": "Freud popularised the unconscious mind",
+      "x": 318,
+      "y": 255,
+      "link": "https://en.wikipedia.org/wiki/Unconscious_mind",
+      "parent": "#j7fen6"
+    },
+    {
+      "@id": "#e8fuzd",
+      "name": "How we study it",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rbyn8x",
+      "name": "Psychology studies behaviour and experience",
+      "x": 204,
+      "y": 321,
+      "link": "https://en.wikipedia.org/wiki/Psychology",
+      "parent": "#e8fuzd"
+    },
+    {
+      "@id": "#wks4jc",
+      "name": "Neuroscience scans the working brain",
+      "x": 73,
+      "y": 372,
+      "parent": "#e8fuzd"
+    },
+    {
+      "@id": "#mserhr",
+      "name": "Philosophy of mind asks deeper questions",
+      "x": -82,
+      "y": 420,
+      "link": "https://en.wikipedia.org/wiki/Philosophy_of_mind",
+      "parent": "#e8fuzd"
+    },
+    {
+      "@id": "#nx5r6m",
+      "name": "Cognitive science links many fields",
+      "x": -204,
+      "y": 321,
+      "parent": "#e8fuzd"
+    },
+    {
+      "@id": "#qsvrnh",
+      "name": "Other minds",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ughkjm",
+      "name": "Theory of mind: reading others' thoughts",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wikipedia.org/wiki/Theory_of_mind",
+      "parent": "#qsvrnh"
+    },
+    {
+      "@id": "#9ivabr",
+      "name": "Animals show varying mental abilities",
+      "x": -401,
+      "y": 163,
+      "parent": "#qsvrnh"
+    },
+    {
+      "@id": "#wpzdtc",
+      "name": "Could machines ever have minds?",
+      "x": -464,
+      "y": 58,
+      "parent": "#qsvrnh"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

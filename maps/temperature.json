@@ -1,0 +1,297 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Temperature",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ki9prk",
+      "name": "What temperature measures",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tsrmcv",
+      "name": "Average energy of moving particles",
+      "x": -523,
+      "y": -75,
+      "parent": "#ki9prk"
+    },
+    {
+      "@id": "#g5jruj",
+      "name": "Decides which way heat flows",
+      "x": -390,
+      "y": -180,
+      "parent": "#ki9prk"
+    },
+    {
+      "@id": "#hwmizg",
+      "name": "Hot and cold are relative feelings",
+      "x": -289,
+      "y": -276,
+      "parent": "#ki9prk"
+    },
+    {
+      "@id": "#28pdut",
+      "name": "Temperature scales",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vb5iiy",
+      "name": "Celsius: water freezes 0, boils 100",
+      "x": -154,
+      "y": -338,
+      "link": "https://en.wikipedia.org/wiki/Celsius",
+      "parent": "#28pdut"
+    },
+    {
+      "@id": "#jvqrjb",
+      "name": "Fahrenheit: freezes 32, boils 212",
+      "x": 0,
+      "y": -392,
+      "parent": "#28pdut"
+    },
+    {
+      "@id": "#yqciq3",
+      "name": "Kelvin starts at absolute zero",
+      "x": 203,
+      "y": -443,
+      "link": "https://en.wikipedia.org/wiki/Kelvin",
+      "parent": "#28pdut"
+    },
+    {
+      "@id": "#fbtz55",
+      "name": "Thermometers",
+      "x": 199,
+      "y": -92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#acd3bv",
+      "name": "Galileo's early thermoscope, about 1600",
+      "x": 289,
+      "y": -276,
+      "parent": "#fbtz55"
+    },
+    {
+      "@id": "#57bps3",
+      "name": "Mercury and alcohol expand when heated",
+      "x": 390,
+      "y": -180,
+      "parent": "#fbtz55"
+    },
+    {
+      "@id": "#yzzzyp",
+      "name": "Digital sensors and infrared guns",
+      "x": 463,
+      "y": -66,
+      "parent": "#fbtz55"
+    },
+    {
+      "@id": "#afhy5d",
+      "name": "Extremes",
+      "x": 176,
+      "y": 118,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#34jqed",
+      "name": "Absolute zero: −273.15 °C",
+      "x": 443,
+      "y": 63,
+      "link": "https://en.wikipedia.org/wiki/Absolute_zero",
+      "parent": "#afhy5d"
+    },
+    {
+      "@id": "#vqf6m4",
+      "name": "Space background is about 2.7 K",
+      "x": 390,
+      "y": 180,
+      "parent": "#afhy5d"
+    },
+    {
+      "@id": "#yzhgnx",
+      "name": "Sun's surface about 5,500 °C",
+      "x": 289,
+      "y": 276,
+      "parent": "#afhy5d"
+    },
+    {
+      "@id": "#2p9cgt",
+      "name": "Lightning heats air to about 30,000 °C",
+      "x": 154,
+      "y": 338,
+      "parent": "#afhy5d"
+    },
+    {
+      "@id": "#w78dje",
+      "name": "Temperature and living things",
+      "x": -79,
+      "y": 173,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rwj3yr",
+      "name": "Healthy human body about 37 °C",
+      "x": 0,
+      "y": 392,
+      "parent": "#w78dje"
+    },
+    {
+      "@id": "#vjc22n",
+      "name": "Fever helps fight infection",
+      "x": -203,
+      "y": 443,
+      "parent": "#w78dje"
+    },
+    {
+      "@id": "#f8xfnd",
+      "name": "Hypothermia and heatstroke are dangerous",
+      "x": -289,
+      "y": 276,
+      "parent": "#w78dje"
+    },
+    {
+      "@id": "#vwu2wq",
+      "name": "Temperature in everyday life",
+      "x": -216,
+      "y": 63,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gjfxh9",
+      "name": "Weather forecasts and wind chill",
+      "x": -424,
+      "y": 196,
+      "link": "https://en.wikipedia.org/wiki/Wind_chill",
+      "parent": "#vwu2wq"
+    },
+    {
+      "@id": "#ud6bku",
+      "name": "Cooking needs food safely heated",
+      "x": -543,
+      "y": 78,
+      "parent": "#vwu2wq"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    }
+  ],
+  "selectedNode": 0
+}

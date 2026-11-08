@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "History of medicine",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ankhky",
+      "name": "Ancient medicine",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bz84x2",
+      "name": "Egyptian papyri describe surgery and remedies",
+      "x": -445,
+      "y": -51,
+      "parent": "#ankhky"
+    },
+    {
+      "@id": "#pc6v5s",
+      "name": "Ayurveda in India, acupuncture in China",
+      "x": -409,
+      "y": -150,
+      "parent": "#ankhky"
+    },
+    {
+      "@id": "#n7jnmj",
+      "name": "Hippocrates sought natural causes of disease",
+      "x": -340,
+      "y": -236,
+      "link": "https://en.wikipedia.org/wiki/Hippocrates",
+      "parent": "#ankhky"
+    },
+    {
+      "@id": "#64pzjn",
+      "name": "Galen's anatomy dominated for 1,400 years",
+      "x": -243,
+      "y": -303,
+      "parent": "#ankhky"
+    },
+    {
+      "@id": "#tcfnbf",
+      "name": "Medieval medicine",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dxgk5y",
+      "name": "Avicenna's Canon of Medicine",
+      "x": -133,
+      "y": -360,
+      "parent": "#tcfnbf"
+    },
+    {
+      "@id": "#s7vskw",
+      "name": "Hospitals in the Islamic world",
+      "x": 0,
+      "y": -408,
+      "parent": "#tcfnbf"
+    },
+    {
+      "@id": "#ehkzrg",
+      "name": "Black Death killed a third of Europeans",
+      "x": 175,
+      "y": -465,
+      "parent": "#tcfnbf"
+    },
+    {
+      "@id": "#v2bvt9",
+      "name": "Renaissance and early science",
+      "x": 174,
+      "y": -120,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#txj4zk",
+      "name": "Vesalius corrected anatomy by dissection, 1543",
+      "x": 243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Andreas_Vesalius",
+      "parent": "#v2bvt9"
+    },
+    {
+      "@id": "#uhxahh",
+      "name": "Harvey showed blood circulates, 1628",
+      "x": 340,
+      "y": -236,
+      "parent": "#v2bvt9"
+    },
+    {
+      "@id": "#aqwxhd",
+      "name": "Microscopes revealed cells and microbes",
+      "x": 463,
+      "y": -171,
+      "parent": "#v2bvt9"
+    },
+    {
+      "@id": "#zy9ae3",
+      "name": "19th-century breakthroughs",
+      "x": 209,
+      "y": 76,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#47p6iq",
+      "name": "Jenner's smallpox vaccine, 1796",
+      "x": 445,
+      "y": -51,
+      "parent": "#zy9ae3"
+    },
+    {
+      "@id": "#3riyut",
+      "name": "Anaesthesia made surgery bearable, 1840s",
+      "x": 565,
+      "y": 63,
+      "parent": "#zy9ae3"
+    },
+    {
+      "@id": "#pneffb",
+      "name": "Germ theory from Pasteur and Koch",
+      "x": 409,
+      "y": 150,
+      "link": "https://en.wikipedia.org/wiki/Germ_theory_of_disease",
+      "parent": "#zy9ae3"
+    },
+    {
+      "@id": "#b4vfkt",
+      "name": "Lister's antiseptic surgery",
+      "x": 340,
+      "y": 236,
+      "parent": "#zy9ae3"
+    },
+    {
+      "@id": "#bk5wer",
+      "name": "Clean water cut cholera deaths",
+      "x": 243,
+      "y": 303,
+      "parent": "#zy9ae3"
+    },
+    {
+      "@id": "#98u9k7",
+      "name": "20th-century medicine",
+      "x": -33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2c54kp",
+      "name": "Fleming discovered penicillin, 1928",
+      "x": 133,
+      "y": 360,
+      "link": "https://en.wikipedia.org/wiki/Penicillin",
+      "parent": "#98u9k7"
+    },
+    {
+      "@id": "#z5hfmk",
+      "name": "X-rays and later CT and MRI scans",
+      "x": 0,
+      "y": 408,
+      "parent": "#98u9k7"
+    },
+    {
+      "@id": "#j45xy7",
+      "name": "DNA's structure described, 1953",
+      "x": -175,
+      "y": 465,
+      "parent": "#98u9k7"
+    },
+    {
+      "@id": "#r4r9ga",
+      "name": "Smallpox eradicated, 1980",
+      "x": -243,
+      "y": 303,
+      "parent": "#98u9k7"
+    },
+    {
+      "@id": "#r2zns8",
+      "name": "Medicine today",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uqz7n6",
+      "name": "Organ transplants and keyhole surgery",
+      "x": -340,
+      "y": 236,
+      "parent": "#r2zns8"
+    },
+    {
+      "@id": "#b9mr2z",
+      "name": "Antibiotic resistance is a growing threat",
+      "x": -409,
+      "y": 150,
+      "parent": "#r2zns8"
+    },
+    {
+      "@id": "#5jiij7",
+      "name": "mRNA vaccines developed for COVID-19",
+      "x": -505,
+      "y": 57,
+      "parent": "#r2zns8"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 14,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

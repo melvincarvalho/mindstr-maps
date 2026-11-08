@@ -1,0 +1,34 @@
+category: Geography
+aliases: republic of colombia, colombia country
+- Colombia
+  - Geography
+    - Coasts on Pacific and Caribbean
+    - Andes split into three ranges
+    - Amazon rainforest in the southeast
+    - Magdalena is the main river
+    - Most bird species of any country
+  - People and languages
+    - About 53 million people
+    - Spanish plus about 65 Indigenous languages
+    - Bogotá capital, about 8 million
+    - Medellín, Cali and Barranquilla next largest
+  - History
+    - [Muisca, Tairona and other Indigenous peoples](https://en.wikipedia.org/wiki/Muisca)
+    - Spanish colony of New Granada
+    - [Independence won 1819 under Bolívar](https://en.wikipedia.org/wiki/Sim%C3%B3n_Bol%C3%ADvar)
+    - Panama broke away in 1903
+    - [La Violencia, 1948–1958](https://en.wikipedia.org/wiki/La_Violencia)
+    - [Decades of armed conflict, FARC peace 2016](https://en.wikipedia.org/wiki/Colombian_conflict)
+  - Government
+    - Presidential republic, 1991 Constitution
+    - President serves one four-year term
+    - 32 departments plus Bogotá capital district
+  - Economy
+    - Oil and coal are top exports
+    - Coffee, cut flowers and bananas
+    - Growing tourism and services
+    - Currency is the Colombian peso
+  - Culture
+    - [Gabriel García Márquez and magical realism](https://en.wikipedia.org/wiki/Gabriel_Garc%C3%ADa_M%C3%A1rquez)
+    - Cumbia and vallenato music
+    - Artist Fernando Botero, singer Shakira

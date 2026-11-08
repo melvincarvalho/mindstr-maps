@@ -1,0 +1,31 @@
+category: Science
+aliases: dogs, domestic dog, pet dog, canis familiaris
+- Dog
+  - The animal
+    - [Domesticated descendant of the wolf](https://en.wikipedia.org/wiki/Origin_of_the_domestic_dog)
+    - Lives about 10 to 13 years
+    - Hundreds of breeds, Chihuahua to Great Dane
+    - Hundreds of millions worldwide
+  - History with humans
+    - First domesticated animal
+    - With humans at least 15,000 years
+    - Bred for hunting, herding and guarding
+    - [Most modern breeds are Victorian-era](https://en.wikipedia.org/wiki/Dog_breed)
+  - Senses and body
+    - Smell far stronger than ours
+    - Hears higher pitches than humans
+    - Sees blue and yellow, not red
+  - Behaviour
+    - Pack animals that bond with people
+    - Tail, ears and posture signal mood
+    - Reads human gestures and faces
+  - Working dogs
+    - [Guide dogs help blind people](https://en.wikipedia.org/wiki/Guide_dog)
+    - Sniffer dogs find drugs and explosives
+    - Search and rescue
+  - Caring for a dog
+    - Daily walks and exercise
+    - Balanced dog food; no chocolate or grapes
+    - Reward-based training and early socialising
+    - Vaccinate, neuter and microchip
+    - Regular vet visits and parasite control

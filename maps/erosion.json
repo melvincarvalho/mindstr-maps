@@ -1,0 +1,297 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Erosion",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#uedadx",
+      "name": "What it is",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4n8jsh",
+      "name": "Rock and soil carried away",
+      "x": -444,
+      "y": -59,
+      "parent": "#uedadx"
+    },
+    {
+      "@id": "#wa4nuz",
+      "name": "Weathering breaks rock down first",
+      "x": -396,
+      "y": -171,
+      "link": "https://en.wikipedia.org/wiki/Weathering",
+      "parent": "#uedadx"
+    },
+    {
+      "@id": "#y75fcs",
+      "name": "Deposition drops material elsewhere",
+      "x": -305,
+      "y": -265,
+      "parent": "#uedadx"
+    },
+    {
+      "@id": "#7xspax",
+      "name": "What moves it",
+      "x": 56,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dt5qfq",
+      "name": "Rivers cut valleys and carry silt",
+      "x": -181,
+      "y": -330,
+      "parent": "#7xspax"
+    },
+    {
+      "@id": "#tnuc3h",
+      "name": "Glaciers carve U-shaped valleys",
+      "x": -41,
+      "y": -391,
+      "link": "https://en.wikipedia.org/wiki/U-shaped_valley",
+      "parent": "#7xspax"
+    },
+    {
+      "@id": "#gvcnin",
+      "name": "Waves wear back coastlines",
+      "x": 140,
+      "y": -445,
+      "parent": "#7xspax"
+    },
+    {
+      "@id": "#m8zjaa",
+      "name": "Wind sandblasts rock, shifts dunes",
+      "x": 246,
+      "y": -301,
+      "parent": "#7xspax"
+    },
+    {
+      "@id": "#a89si4",
+      "name": "Gravity: landslides and rockfalls",
+      "x": 355,
+      "y": -221,
+      "parent": "#7xspax"
+    },
+    {
+      "@id": "#u9uvek",
+      "name": "Landforms it creates",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mfyjzm",
+      "name": "Grand Canyon, cut by Colorado River",
+      "x": 426,
+      "y": -117,
+      "link": "https://en.wikipedia.org/wiki/Grand_Canyon",
+      "parent": "#u9uvek"
+    },
+    {
+      "@id": "#ugesx8",
+      "name": "Sea cliffs, arches and stacks",
+      "x": 510,
+      "y": 0,
+      "parent": "#u9uvek"
+    },
+    {
+      "@id": "#2ppnyj",
+      "name": "Deltas built from deposited sediment",
+      "x": 426,
+      "y": 117,
+      "parent": "#u9uvek"
+    },
+    {
+      "@id": "#a3c6mj",
+      "name": "Human impact",
+      "x": 92,
+      "y": 169,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zegrqs",
+      "name": "Clearing forests exposes bare soil",
+      "x": 355,
+      "y": 221,
+      "parent": "#a3c6mj"
+    },
+    {
+      "@id": "#by4sif",
+      "name": "Overgrazing and ploughing speed losses",
+      "x": 246,
+      "y": 301,
+      "parent": "#a3c6mj"
+    },
+    {
+      "@id": "#ig9ra2",
+      "name": "1930s Dust Bowl on US plains",
+      "x": 110,
+      "y": 349,
+      "link": "https://en.wikipedia.org/wiki/Dust_Bowl",
+      "parent": "#a3c6mj"
+    },
+    {
+      "@id": "#8srtqy",
+      "name": "Sediment clogs rivers and reservoirs",
+      "x": -43,
+      "y": 407,
+      "parent": "#a3c6mj"
+    },
+    {
+      "@id": "#tnv82t",
+      "name": "Slowing it down",
+      "x": -182,
+      "y": 113,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hfd8d6",
+      "name": "Plant roots hold soil in place",
+      "x": -253,
+      "y": 465,
+      "parent": "#tnv82t"
+    },
+    {
+      "@id": "#4utgdq",
+      "name": "Contour ploughing and terraces",
+      "x": -305,
+      "y": 265,
+      "link": "https://en.wikipedia.org/wiki/Contour_plowing",
+      "parent": "#tnv82t"
+    },
+    {
+      "@id": "#u82q83",
+      "name": "Cover crops between harvests",
+      "x": -396,
+      "y": 171,
+      "parent": "#tnv82t"
+    },
+    {
+      "@id": "#zasuar",
+      "name": "Sea walls and groynes on coasts",
+      "x": -444,
+      "y": 59,
+      "parent": "#tnv82t"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    }
+  ],
+  "selectedNode": 0
+}

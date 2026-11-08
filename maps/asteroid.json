@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Asteroid",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#nu4sqn",
+      "name": "What they are",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#59gh7m",
+      "name": "Rocky or metallic leftovers of planet formation",
+      "x": -445,
+      "y": -54,
+      "parent": "#nu4sqn"
+    },
+    {
+      "@id": "#d6hpr5",
+      "name": "From metres to hundreds of km across",
+      "x": -405,
+      "y": -156,
+      "parent": "#nu4sqn"
+    },
+    {
+      "@id": "#yxahnp",
+      "name": "Over a million known",
+      "x": -330,
+      "y": -245,
+      "parent": "#nu4sqn"
+    },
+    {
+      "@id": "#d7rvbw",
+      "name": "Comets are icier; meteoroids are smaller",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Meteoroid",
+      "parent": "#nu4sqn"
+    },
+    {
+      "@id": "#skf77f",
+      "name": "Where they are",
+      "x": 17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zs4vds",
+      "name": "Main belt between Mars and Jupiter",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Asteroid_belt",
+      "parent": "#skf77f"
+    },
+    {
+      "@id": "#hv7aqs",
+      "name": "Trojans share Jupiter's orbit",
+      "x": 42,
+      "y": -423,
+      "parent": "#skf77f"
+    },
+    {
+      "@id": "#d63wx5",
+      "name": "Near-Earth asteroids cross our path",
+      "x": 234,
+      "y": -485,
+      "parent": "#skf77f"
+    },
+    {
+      "@id": "#nj6xyt",
+      "name": "Famous examples",
+      "x": 190,
+      "y": -104,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pjhvch",
+      "name": "Ceres, largest, now a dwarf planet",
+      "x": 281,
+      "y": -281,
+      "parent": "#nj6xyt"
+    },
+    {
+      "@id": "#wuscic",
+      "name": "Vesta, brightest seen from Earth",
+      "x": 372,
+      "y": -203,
+      "parent": "#nj6xyt"
+    },
+    {
+      "@id": "#vvpbf9",
+      "name": "Bennu and Ryugu, sampled by spacecraft",
+      "x": 487,
+      "y": -121,
+      "parent": "#nj6xyt"
+    },
+    {
+      "@id": "#2er9j9",
+      "name": "Types",
+      "x": 220,
+      "y": 54,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#itpt24",
+      "name": "Carbon-rich C-types are most common",
+      "x": 450,
+      "y": 0,
+      "parent": "#2er9j9"
+    },
+    {
+      "@id": "#qcgj4b",
+      "name": "Stony S-types",
+      "x": 430,
+      "y": 106,
+      "parent": "#2er9j9"
+    },
+    {
+      "@id": "#dhbkwn",
+      "name": "Metallic M-types, like Psyche",
+      "x": 372,
+      "y": 203,
+      "parent": "#2er9j9"
+    },
+    {
+      "@id": "#t7udxn",
+      "name": "Impacts on Earth",
+      "x": 51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rf735a",
+      "name": "Dinosaur-ending impact, 66 million years ago",
+      "x": 281,
+      "y": 281,
+      "link": "https://en.wikipedia.org/wiki/Chicxulub_crater",
+      "parent": "#t7udxn"
+    },
+    {
+      "@id": "#bt6txj",
+      "name": "Tunguska blast flattened forest, 1908",
+      "x": 164,
+      "y": 335,
+      "parent": "#t7udxn"
+    },
+    {
+      "@id": "#art3ux",
+      "name": "Chelyabinsk meteor injured many, 2013",
+      "x": 38,
+      "y": 391,
+      "parent": "#t7udxn"
+    },
+    {
+      "@id": "#xvdhw9",
+      "name": "Small meteorites land every day",
+      "x": -124,
+      "y": 447,
+      "parent": "#t7udxn"
+    },
+    {
+      "@id": "#pic4en",
+      "name": "Exploration and defence",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sajxqa",
+      "name": "Dawn orbited Vesta and Ceres",
+      "x": -225,
+      "y": 312,
+      "parent": "#pic4en"
+    },
+    {
+      "@id": "#wxia7r",
+      "name": "Hayabusa2 and OSIRIS-REx returned samples",
+      "x": -330,
+      "y": 245,
+      "parent": "#pic4en"
+    },
+    {
+      "@id": "#4jctcy",
+      "name": "DART shifted an asteroid's orbit, 2022",
+      "x": -405,
+      "y": 156,
+      "link": "https://en.wikipedia.org/wiki/Double_Asteroid_Redirection_Test",
+      "parent": "#pic4en"
+    },
+    {
+      "@id": "#7eqi2f",
+      "name": "Surveys track potentially hazardous objects",
+      "x": -445,
+      "y": 54,
+      "parent": "#pic4en"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

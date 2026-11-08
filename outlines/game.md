@@ -1,0 +1,30 @@
+category: Life and home
+aliases: what is a game, types of games
+- Game
+  - What makes a game
+    - A goal players try to reach
+    - Rules that limit how
+    - An uncertain outcome
+    - Played voluntarily, for fun
+  - Main kinds
+    - Board games like chess
+    - Card games like poker
+    - Video games on screens
+    - Sports and physical games
+    - Party and word games
+  - Skill, luck or both
+    - Chess: pure skill, no chance
+    - Snakes and ladders: pure chance
+    - Poker and backgammon mix both
+  - Games are ancient
+    - [Royal Game of Ur, about 4,500 years](https://en.wikipedia.org/wiki/Royal_Game_of_Ur)
+    - Senet played in ancient Egypt
+    - Go from China, over 2,500 years
+  - Why people play
+    - Challenge and getting better
+    - Company and friendly competition
+    - Stories and escape
+  - Games as an idea
+    - [Game theory studies strategic choices](https://en.wikipedia.org/wiki/Game_theory)
+    - [Gamification adds game elements elsewhere](https://en.wikipedia.org/wiki/Gamification)
+    - [Wittgenstein: games share a family resemblance](https://en.wikipedia.org/wiki/Family_resemblance)

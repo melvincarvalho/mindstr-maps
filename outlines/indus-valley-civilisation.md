@@ -1,0 +1,30 @@
+category: History
+aliases: indus valley civilization, harappan civilisation, harappan civilization, indus civilisation
+- Indus Valley Civilisation
+  - Where and when
+    - Indus river basin, Pakistan and northwest India
+    - Mature phase about 2600–1900 BC
+    - Largest Bronze Age civilisation by area
+  - Great cities
+    - [Mohenjo-daro in Sindh](https://en.wikipedia.org/wiki/Mohenjo-daro)
+    - [Harappa, first site identified](https://en.wikipedia.org/wiki/Harappa)
+    - Dholavira and Lothal in Gujarat
+    - Rakhigarhi in Haryana
+  - Urban planning
+    - Grid streets and baked-brick houses
+    - Covered drains and household bathrooms
+    - Great Bath at Mohenjo-daro
+    - Standardised bricks and weights
+  - Economy and trade
+    - Wheat, barley and early cotton
+    - Lothal's dockyard for sea trade
+    - Traded with Mesopotamia, called Meluhha
+    - Beads, seals and fine craft
+  - Mysteries
+    - [Indus script still undeciphered](https://en.wikipedia.org/wiki/Indus_script)
+    - No obvious palaces or royal tombs
+    - Who ruled remains unclear
+  - Decline
+    - Cities shrank after about 1900 BC
+    - Weaker monsoon, shifting rivers likely
+    - Rediscovered by excavations in the 1920s

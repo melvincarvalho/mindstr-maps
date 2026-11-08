@@ -1,0 +1,32 @@
+category: Science
+aliases: bones, bone tissue, how bones grow, bone health
+- Bone
+  - What bone is made of
+    - Collagen fibres give flexibility
+    - Calcium phosphate minerals give hardness
+    - [Compact bone forms the hard outside](https://en.wikipedia.org/wiki/Cortical_bone)
+    - Spongy bone is light, inside ends
+    - [Marrow makes blood cells](https://en.wikipedia.org/wiki/Bone_marrow)
+  - Bone cells
+    - Osteoblasts build new bone
+    - Osteoclasts break old bone down
+    - Osteocytes sense strain and signal
+  - Growth and renewal
+    - Long bones lengthen at growth plates
+    - Peak bone mass around age 30
+    - [Constantly remodelled throughout life](https://en.wikipedia.org/wiki/Bone_remodeling)
+    - Load and exercise make bones denser
+  - Types of bone
+    - Long bones: femur, humerus
+    - Short bones: wrist and ankle
+    - Flat bones: skull, ribs, shoulder blade
+    - Irregular bones: vertebrae
+  - Fractures and healing
+    - Clot, then soft callus forms
+    - Hard callus bridges the break
+    - Usually heals in 6–12 weeks
+  - Keeping bones strong
+    - Calcium from dairy, greens, fortified foods
+    - [Vitamin D from sunlight and food](https://en.wikipedia.org/wiki/Vitamin_D)
+    - Weight-bearing and strength exercise
+    - Avoid smoking and heavy drinking

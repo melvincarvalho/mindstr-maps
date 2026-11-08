@@ -1,0 +1,308 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Vehicle",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#bk3dve",
+      "name": "A machine that carries people or cargo",
+      "x": -218,
+      "y": -60,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9pnd6u",
+      "name": "Land, water, air and space vehicles",
+      "x": -604,
+      "y": -83,
+      "parent": "#bk3dve"
+    },
+    {
+      "@id": "#kzipag",
+      "name": "Powered by muscle, wind or engines",
+      "x": -396,
+      "y": -171,
+      "parent": "#bk3dve"
+    },
+    {
+      "@id": "#fk2p53",
+      "name": "Human and animal power",
+      "x": -92,
+      "y": -169,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8xukiz",
+      "name": "Wheel invented about 3500 BC",
+      "x": -305,
+      "y": -265,
+      "link": "https://en.wikipedia.org/wiki/Wheel",
+      "parent": "#fk2p53"
+    },
+    {
+      "@id": "#sqycmx",
+      "name": "Carts and chariots pulled by animals",
+      "x": -181,
+      "y": -330,
+      "parent": "#fk2p53"
+    },
+    {
+      "@id": "#3au6ig",
+      "name": "Bicycle, most efficient human transport",
+      "x": -41,
+      "y": -391,
+      "link": "https://en.wikipedia.org/wiki/Bicycle",
+      "parent": "#fk2p53"
+    },
+    {
+      "@id": "#5ysh5p",
+      "name": "Engines and motors",
+      "x": 156,
+      "y": -135,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wvp8z9",
+      "name": "Steam engines powered early locomotives",
+      "x": 140,
+      "y": -445,
+      "parent": "#5ysh5p"
+    },
+    {
+      "@id": "#ftmhra",
+      "name": "Internal combustion engine burns fuel inside",
+      "x": 246,
+      "y": -301,
+      "link": "https://en.wikipedia.org/wiki/Internal_combustion_engine",
+      "parent": "#5ysh5p"
+    },
+    {
+      "@id": "#abzshm",
+      "name": "Electric motors run on batteries",
+      "x": 355,
+      "y": -221,
+      "parent": "#5ysh5p"
+    },
+    {
+      "@id": "#s9aj8v",
+      "name": "Hybrids combine engine and battery",
+      "x": 445,
+      "y": -122,
+      "parent": "#5ysh5p"
+    },
+    {
+      "@id": "#3disr8",
+      "name": "Main parts of a car",
+      "x": 202,
+      "y": 88,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9au4qv",
+      "name": "Engine or motor makes the power",
+      "x": 450,
+      "y": 0,
+      "parent": "#3disr8"
+    },
+    {
+      "@id": "#7hnrim",
+      "name": "Transmission sends power to wheels",
+      "x": 502,
+      "y": 137,
+      "parent": "#3disr8"
+    },
+    {
+      "@id": "#jyspuq",
+      "name": "Brakes, steering and suspension control it",
+      "x": 355,
+      "y": 221,
+      "parent": "#3disr8"
+    },
+    {
+      "@id": "#h6uzbi",
+      "name": "Chassis and body hold everything",
+      "x": 246,
+      "y": 301,
+      "parent": "#3disr8"
+    },
+    {
+      "@id": "#tfsvph",
+      "name": "Milestones",
+      "x": -19,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ud99n5",
+      "name": "Benz patents motor car, 1886",
+      "x": 110,
+      "y": 349,
+      "parent": "#tfsvph"
+    },
+    {
+      "@id": "#a3pdut",
+      "name": "Ford Model T mass-produced from 1908",
+      "x": -43,
+      "y": 407,
+      "parent": "#tfsvph"
+    },
+    {
+      "@id": "#x7eaaf",
+      "name": "Over a billion cars on roads today",
+      "x": -253,
+      "y": 465,
+      "parent": "#tfsvph"
+    },
+    {
+      "@id": "#qfpn3q",
+      "name": "Safety and the future",
+      "x": -202,
+      "y": 88,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r3yi3y",
+      "name": "Seat belts and airbags save lives",
+      "x": -305,
+      "y": 265,
+      "parent": "#qfpn3q"
+    },
+    {
+      "@id": "#uqvq49",
+      "name": "Self-driving cars use sensors and software",
+      "x": -396,
+      "y": 171,
+      "link": "https://en.wikipedia.org/wiki/Self-driving_car",
+      "parent": "#qfpn3q"
+    },
+    {
+      "@id": "#8hbpjq",
+      "name": "Electric vehicles replacing petrol and diesel",
+      "x": -564,
+      "y": 77,
+      "parent": "#qfpn3q"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 8,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

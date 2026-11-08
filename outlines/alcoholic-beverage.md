@@ -1,0 +1,32 @@
+category: Life and home
+aliases: alcoholic drinks, alcoholic drink, booze, liquor
+- Alcoholic beverage
+  - What it is
+    - [Contains ethanol from fermentation](https://en.wikipedia.org/wiki/Ethanol)
+    - Yeast turns sugars into alcohol
+    - Strength measured as ABV
+  - Main types
+    - [Beer: fermented malted grain](https://en.wikipedia.org/wiki/Beer)
+    - Wine: fermented grape juice
+    - Spirits: distilled, around 40% ABV
+    - Cider, sake, mead and more
+  - Effects on the body
+    - A depressant slowing the brain
+    - Impairs judgement, balance, reaction time
+    - Liver clears roughly one drink hourly
+    - Hangovers, dehydration and poor sleep
+  - Health risks
+    - [Causes several cancers, says WHO](https://en.wikipedia.org/wiki/Alcohol_and_cancer)
+    - Liver disease and high blood pressure
+    - Risk rises with amount drunk
+    - No level is entirely risk-free
+    - [Alcohol use disorder and dependence](https://en.wikipedia.org/wiki/Alcoholism)
+  - Mainstream guidance
+    - UK advises max 14 units weekly
+    - Spread drinking, have alcohol-free days
+    - Never drink and drive
+    - Avoid alcohol in pregnancy
+  - Law and society
+    - Minimum legal drinking ages vary
+    - US banned alcohol 1920 to 1933
+    - Prohibited in some Muslim-majority countries

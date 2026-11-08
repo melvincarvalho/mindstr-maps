@@ -1,0 +1,342 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Marie Curie",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#886ubf",
+      "name": "Early life in Poland",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k4rs5y",
+      "name": "Born Maria Skłodowska, Warsaw, 1867",
+      "x": -525,
+      "y": -59,
+      "parent": "#886ubf"
+    },
+    {
+      "@id": "#4g9irm",
+      "name": "Russian rule barred women from university",
+      "x": -409,
+      "y": -150,
+      "parent": "#886ubf"
+    },
+    {
+      "@id": "#tbtbg4",
+      "name": "Studied at the secret Flying University",
+      "x": -340,
+      "y": -236,
+      "link": "https://en.wikipedia.org/wiki/Flying_University",
+      "parent": "#886ubf"
+    },
+    {
+      "@id": "#jrs899",
+      "name": "Paris and Pierre",
+      "x": -65,
+      "y": -177,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h62rgg",
+      "name": "Moved to Paris in 1891",
+      "x": -243,
+      "y": -303,
+      "parent": "#jrs899"
+    },
+    {
+      "@id": "#2aewmp",
+      "name": "Physics and maths degrees at the Sorbonne",
+      "x": -133,
+      "y": -360,
+      "parent": "#jrs899"
+    },
+    {
+      "@id": "#hbu2tf",
+      "name": "Married physicist Pierre Curie in 1895",
+      "x": 0,
+      "y": -408,
+      "link": "https://en.wikipedia.org/wiki/Pierre_Curie",
+      "parent": "#jrs899"
+    },
+    {
+      "@id": "#dbvhq2",
+      "name": "Radioactivity",
+      "x": 151,
+      "y": -139,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9p4hk4",
+      "name": "Followed up Becquerel's uranium rays",
+      "x": 175,
+      "y": -465,
+      "parent": "#dbvhq2"
+    },
+    {
+      "@id": "#y5ntnm",
+      "name": "Coined the word \"radioactivity\"",
+      "x": 243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Radioactive_decay",
+      "parent": "#dbvhq2"
+    },
+    {
+      "@id": "#s8f2eh",
+      "name": "Showed radiation comes from atoms themselves",
+      "x": 340,
+      "y": -236,
+      "parent": "#dbvhq2"
+    },
+    {
+      "@id": "#kv4i2j",
+      "name": "Discovered polonium and radium in 1898",
+      "x": 445,
+      "y": -164,
+      "link": "https://en.wikipedia.org/wiki/Radium",
+      "parent": "#dbvhq2"
+    },
+    {
+      "@id": "#wy5b2k",
+      "name": "Two Nobel Prizes",
+      "x": 221,
+      "y": 52,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kpun4j",
+      "name": "1903 Physics, shared with Pierre and Becquerel",
+      "x": 445,
+      "y": -51,
+      "parent": "#wy5b2k"
+    },
+    {
+      "@id": "#f866jv",
+      "name": "1911 Chemistry, for polonium and radium",
+      "x": 525,
+      "y": 59,
+      "parent": "#wy5b2k"
+    },
+    {
+      "@id": "#4g4wnr",
+      "name": "First woman to win a Nobel",
+      "x": 409,
+      "y": 150,
+      "parent": "#wy5b2k"
+    },
+    {
+      "@id": "#cudt42",
+      "name": "Only person with Nobels in two sciences",
+      "x": 340,
+      "y": 236,
+      "parent": "#wy5b2k"
+    },
+    {
+      "@id": "#dfvy6u",
+      "name": "Later work",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4yjhiu",
+      "name": "Pierre killed by a horse cart, 1906",
+      "x": 243,
+      "y": 303,
+      "parent": "#dfvy6u"
+    },
+    {
+      "@id": "#hzzd5m",
+      "name": "Sorbonne's first woman professor, 1906",
+      "x": 133,
+      "y": 360,
+      "parent": "#dfvy6u"
+    },
+    {
+      "@id": "#zhx6hg",
+      "name": "Mobile X-ray units in World War I",
+      "x": 0,
+      "y": 408,
+      "parent": "#dfvy6u"
+    },
+    {
+      "@id": "#2jpimn",
+      "name": "Founded the Radium Institute in Paris",
+      "x": -175,
+      "y": 465,
+      "parent": "#dfvy6u"
+    },
+    {
+      "@id": "#4ru238",
+      "name": "Legacy",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#eye9jf",
+      "name": "Died 1934 of radiation-linked aplastic anaemia",
+      "x": -243,
+      "y": 303,
+      "parent": "#4ru238"
+    },
+    {
+      "@id": "#tqt4xf",
+      "name": "Her notebooks are still radioactive",
+      "x": -340,
+      "y": 236,
+      "parent": "#4ru238"
+    },
+    {
+      "@id": "#x6indw",
+      "name": "Daughter Irène won the 1935 Nobel",
+      "x": -409,
+      "y": 150,
+      "link": "https://en.wikipedia.org/wiki/Ir%C3%A8ne_Joliot-Curie",
+      "parent": "#4ru238"
+    },
+    {
+      "@id": "#zthf5e",
+      "name": "Reburied in the Panthéon in 1995",
+      "x": -445,
+      "y": 51,
+      "parent": "#4ru238"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,33 @@
+category: People
+aliases: jesus christ, jesus of nazareth
+- Jesus
+  - What historians can say
+    - Jewish preacher from Nazareth, Galilee
+    - Born about 6–4 BCE
+    - [Baptised by John the Baptist](https://en.wikipedia.org/wiki/John_the_Baptist)
+    - Crucified under Pontius Pilate, about 30 CE
+  - Sources
+    - [Four Gospels, written about 65–100 CE](https://en.wikipedia.org/wiki/Gospel)
+    - Paul's letters are the earliest writings
+    - Brief mentions by Josephus and Tacitus
+  - Teaching and ministry
+    - Preached the coming Kingdom of God
+    - Love God and your neighbour
+    - Taught in parables, like the Good Samaritan
+    - [Sermon on the Mount](https://en.wikipedia.org/wiki/Sermon_on_the_Mount)
+    - Gathered twelve close disciples
+  - What Christians believe
+    - Son of God and the Messiah
+    - Born to the Virgin Mary
+    - Performed miracles and healings
+    - Died for humanity's sins
+    - [Resurrected on the third day](https://en.wikipedia.org/wiki/Resurrection_of_Jesus)
+  - Other faiths' views
+    - [Islam: Isa, a revered prophet and Messiah](https://en.wikipedia.org/wiki/Jesus_in_Islam)
+    - Judaism does not see him as Messiah
+    - Many others honour him as a teacher
+  - Legacy
+    - Christianity: about 2.4 billion followers
+    - Calendar years counted from his birth
+    - Christmas and Easter mark key events
+    - Inspired vast art, music and literature

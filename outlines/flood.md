@@ -1,0 +1,32 @@
+category: Science
+aliases: flooding, flash flood, flood safety, river flooding
+- Flood
+  - Types of flood
+    - River floods after long heavy rain
+    - [Flash floods rise within hours](https://en.wikipedia.org/wiki/Flash_flood)
+    - [Coastal floods from storm surge](https://en.wikipedia.org/wiki/Storm_surge)
+    - Surface water overwhelms city drains
+  - What makes floods worse
+    - Saturated or frozen ground
+    - Paving stops water soaking in
+    - Snowmelt adds to swollen rivers
+    - Dam or levee failures
+  - Impacts
+    - Most common natural disaster worldwide
+    - Drowning, often in vehicles
+    - Homes damaged, water supplies polluted
+    - Crops and livestock lost
+  - Reducing the risk
+    - Levees, barriers and flood walls
+    - Wetlands and floodplains store water
+    - Avoid building on floodplains
+    - Early warning systems
+  - Staying safe
+    - Follow official flood warnings
+    - Move to higher ground early
+    - Never walk or drive through floodwater
+    - Avoid floodwater: may be contaminated
+  - Afterwards
+    - Return only when officials say
+    - Photograph damage for insurance
+    - Dry out quickly to prevent mould

@@ -1,0 +1,342 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Wood",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#wpmp37",
+      "name": "What wood is",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#py8dij",
+      "name": "Xylem tissue inside tree trunks",
+      "x": -445,
+      "y": -51,
+      "link": "https://en.wikipedia.org/wiki/Xylem",
+      "parent": "#wpmp37"
+    },
+    {
+      "@id": "#eg9ave",
+      "name": "Cellulose fibres bound by lignin",
+      "x": -409,
+      "y": -150,
+      "parent": "#wpmp37"
+    },
+    {
+      "@id": "#ybas83",
+      "name": "Growth rings show a tree's age",
+      "x": -340,
+      "y": -236,
+      "parent": "#wpmp37"
+    },
+    {
+      "@id": "#p86hy7",
+      "name": "Heartwood inside, sapwood near bark",
+      "x": -243,
+      "y": -303,
+      "parent": "#wpmp37"
+    },
+    {
+      "@id": "#ygr5kx",
+      "name": "Hardwood and softwood",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tk47dz",
+      "name": "Hardwoods from broadleaf trees: oak, maple",
+      "x": -133,
+      "y": -360,
+      "link": "https://en.wikipedia.org/wiki/Hardwood",
+      "parent": "#ygr5kx"
+    },
+    {
+      "@id": "#kp9e9t",
+      "name": "Softwoods from conifers: pine, spruce",
+      "x": 0,
+      "y": -408,
+      "parent": "#ygr5kx"
+    },
+    {
+      "@id": "#83uky2",
+      "name": "Balsa is a hardwood yet very light",
+      "x": 175,
+      "y": -465,
+      "parent": "#ygr5kx"
+    },
+    {
+      "@id": "#3wih35",
+      "name": "From tree to timber",
+      "x": 174,
+      "y": -120,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#59vecg",
+      "name": "Felled and sawn into planks",
+      "x": 243,
+      "y": -303,
+      "parent": "#3wih35"
+    },
+    {
+      "@id": "#znggx2",
+      "name": "Seasoning dries wood to stop warping",
+      "x": 340,
+      "y": -236,
+      "link": "https://en.wikipedia.org/wiki/Wood_drying",
+      "parent": "#3wih35"
+    },
+    {
+      "@id": "#vku8gh",
+      "name": "Plywood and MDF from layers and fibres",
+      "x": 463,
+      "y": -171,
+      "parent": "#3wih35"
+    },
+    {
+      "@id": "#n7fe7k",
+      "name": "Properties",
+      "x": 221,
+      "y": 52,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ubjdn2",
+      "name": "Strong for its weight",
+      "x": 445,
+      "y": -51,
+      "parent": "#n7fe7k"
+    },
+    {
+      "@id": "#t2wneh",
+      "name": "Swells and shrinks with moisture",
+      "x": 465,
+      "y": 53,
+      "parent": "#n7fe7k"
+    },
+    {
+      "@id": "#ipznw9",
+      "name": "Insulates against heat",
+      "x": 409,
+      "y": 150,
+      "parent": "#n7fe7k"
+    },
+    {
+      "@id": "#p3t2ce",
+      "name": "Rot, fungi and insects attack it",
+      "x": 340,
+      "y": 236,
+      "parent": "#n7fe7k"
+    },
+    {
+      "@id": "#m9vchd",
+      "name": "Uses",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kwfag4",
+      "name": "Building frames and floors",
+      "x": 243,
+      "y": 303,
+      "parent": "#m9vchd"
+    },
+    {
+      "@id": "#ey8r3z",
+      "name": "Furniture and musical instruments",
+      "x": 133,
+      "y": 360,
+      "parent": "#m9vchd"
+    },
+    {
+      "@id": "#tzf84k",
+      "name": "Pulp for paper and cardboard",
+      "x": 0,
+      "y": 408,
+      "parent": "#m9vchd"
+    },
+    {
+      "@id": "#qmvqab",
+      "name": "Cooking fuel in much of the world",
+      "x": -175,
+      "y": 465,
+      "parent": "#m9vchd"
+    },
+    {
+      "@id": "#8erny9",
+      "name": "Wood and the environment",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g93sy8",
+      "name": "Stores carbon absorbed by the tree",
+      "x": -243,
+      "y": 303,
+      "parent": "#8erny9"
+    },
+    {
+      "@id": "#y99wxu",
+      "name": "Mass timber for tall buildings",
+      "x": -340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/Cross-laminated_timber",
+      "parent": "#8erny9"
+    },
+    {
+      "@id": "#4zv6be",
+      "name": "FSC labels sustainably managed forests",
+      "x": -409,
+      "y": 150,
+      "link": "https://en.wikipedia.org/wiki/Forest_Stewardship_Council",
+      "parent": "#8erny9"
+    },
+    {
+      "@id": "#asurmv",
+      "name": "Illegal logging drives deforestation",
+      "x": -445,
+      "y": 51,
+      "parent": "#8erny9"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

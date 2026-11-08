@@ -1,0 +1,32 @@
+category: Health
+aliases: infectious disease, infections, what is an infection, germs and disease
+- Infection
+  - What it is
+    - Germs invade and multiply in the body
+    - Many microbes are harmless or helpful
+    - Can stay local or spread body-wide
+  - [Types of germ](https://en.wikipedia.org/wiki/Pathogen)
+    - Bacteria: strep throat, UTIs
+    - Viruses: colds, flu, COVID-19
+    - Fungi: thrush, athlete's foot
+    - Parasites: malaria, worms
+  - How infections spread
+    - Coughs, sneezes and airborne droplets
+    - Contaminated hands, surfaces, food, water
+    - Sexual contact and blood
+    - Bites from mosquitoes and ticks
+  - Signs and symptoms
+    - Fever, chills and tiredness
+    - Redness, swelling, pain or pus
+    - [Sepsis is a medical emergency](https://en.wikipedia.org/wiki/Sepsis)
+  - Diagnosis and treatment
+    - Swabs, blood tests and cultures
+    - [Antibiotics treat bacteria, not viruses](https://en.wikipedia.org/wiki/Antibiotic)
+    - Antivirals and antifungals for some
+    - Rest and fluids for mild illness
+    - [Overuse breeds antibiotic resistance](https://en.wikipedia.org/wiki/Antimicrobial_resistance)
+  - Prevention
+    - Handwashing with soap and water
+    - [Vaccines train the immune system](https://en.wikipedia.org/wiki/Vaccine)
+    - Safe food, clean water, sanitation
+    - Staying home when contagious

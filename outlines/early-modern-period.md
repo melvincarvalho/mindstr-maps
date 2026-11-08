@@ -1,0 +1,32 @@
+category: History
+aliases: early modern era, early modern history, early modern europe
+- Early modern period
+  - When it was
+    - Roughly 1500 to 1800
+    - After the Middle Ages, before industrialisation
+    - Starts near printing, 1492 and Reformation
+    - Ends near the French and Industrial Revolutions
+  - A connected world
+    - [Age of Discovery opened ocean routes](https://en.wikipedia.org/wiki/Age_of_Discovery)
+    - [Columbian exchange of crops and diseases](https://en.wikipedia.org/wiki/Columbian_exchange)
+    - Global trade in silver, spices, sugar
+    - Atlantic slave trade forced millions into bondage
+  - Big empires
+    - Ottoman, Safavid and Mughal gunpowder empires
+    - Ming and Qing China
+    - European seaborne and colonial empires
+    - Tokugawa shogunate unified Japan
+  - Religion and ideas
+    - Printing press spread books and pamphlets
+    - [Protestant Reformation split Western Christianity](https://en.wikipedia.org/wiki/Reformation)
+    - Scientific Revolution changed how nature was studied
+    - Enlightenment championed reason and rights
+  - States and wars
+    - Monarchs centralised power; absolutism
+    - Thirty Years' War, 1618–1648
+    - Peace of Westphalia shaped sovereign states
+    - Gunpowder armies and military revolution
+  - Economy and society
+    - Merchant capitalism and joint-stock companies
+    - Most people still farmed the land
+    - Witch hunts peaked around 1560–1650

@@ -1,0 +1,32 @@
+category: People
+aliases: prophet muhammad, muhammad ibn abdullah, the prophet muhammad
+- Muhammad
+  - Early life in Mecca
+    - Born in Mecca about 570 CE
+    - Orphaned young, raised by Abu Talib
+    - Trader who married Khadija about 595
+  - Prophethood
+    - Muslims believe revelation began in 610
+    - Muslims believe Gabriel brought God's message
+    - Preached one God against Meccan polytheism
+    - Early followers persecuted in Mecca
+  - Years in Medina
+    - [Hijra to Medina in 622](https://en.wikipedia.org/wiki/Hijrah)
+    - Islamic calendar counts from the Hijra
+    - [Constitution of Medina united communities](https://en.wikipedia.org/wiki/Constitution_of_Medina)
+    - Battles of Badr, Uhud and Trench
+  - Unifying Arabia
+    - Treaty of Hudaybiyyah in 628
+    - [Took Mecca largely peacefully, 630](https://en.wikipedia.org/wiki/Conquest_of_Mecca)
+    - Kaaba cleared of idols
+    - Died in Medina in 632
+  - Sources and teachings
+    - [Quran: Muslims believe God's literal word](https://en.wikipedia.org/wiki/Quran)
+    - [Hadith record his sayings and deeds](https://en.wikipedia.org/wiki/Hadith)
+    - Sunnah: his example as a model
+    - Earliest biography by Ibn Ishaq
+  - Legacy
+    - Islam has about 2 billion followers
+    - Muslims revere him as the final prophet
+    - Succession dispute shaped Sunni and Shia
+    - Arab caliphates expanded within a century

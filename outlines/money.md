@@ -1,0 +1,29 @@
+category: Society
+aliases: what is money, history of money, money explained, functions of money
+- Money
+  - What money does
+    - Medium of exchange
+    - Unit of account for prices
+    - Store of value over time
+  - From barter to coins
+    - Barter needs matching wants
+    - Shells, grain and cattle as money
+    - [Lydian coins, about 600 BC](https://en.wikipedia.org/wiki/Lydia)
+    - Chinese paper money by 1000s
+  - Backed by gold, then trust
+    - [Gold standard tied money to gold](https://en.wikipedia.org/wiki/Gold_standard)
+    - US left gold convertibility in 1971
+    - [Fiat money: valuable by law, trust](https://en.wikipedia.org/wiki/Fiat_money)
+  - Forms of money today
+    - Cash: notes and coins
+    - Bank deposits are most money
+    - Cards and mobile payments
+    - [Cryptocurrencies like Bitcoin](https://en.wikipedia.org/wiki/Cryptocurrency)
+  - Who controls money
+    - Central banks issue currency
+    - Commercial banks create deposits by lending
+    - Interest rates steer the money supply
+  - Why its value changes
+    - Rising prices erode purchasing power
+    - Exchange rates between currencies
+    - Hyperinflation when trust collapses

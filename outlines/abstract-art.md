@@ -1,0 +1,29 @@
+category: Arts and culture
+aliases: abstract painting, abstraction in art, non-representational art
+- Abstract art
+  - The core idea
+    - Does not depict recognisable things
+    - Colour, shape and line are the subject
+    - Ranges from stylised to wholly non-objective
+  - Pioneers, about 1910 to 1920
+    - [Wassily Kandinsky linked colour to music](https://en.wikipedia.org/wiki/Wassily_Kandinsky)
+    - Hilma af Klint's abstract paintings from 1906
+    - Kazimir Malevich's Black Square, 1915
+    - Piet Mondrian's grids of primary colours
+  - Roots
+    - Cubism broke objects into facets
+    - Fauvism freed colour from nature
+    - Photography took over realistic depiction
+  - Major movements
+    - [Suprematism and Constructivism in Russia](https://en.wikipedia.org/wiki/Suprematism)
+    - De Stijl in the Netherlands
+    - Abstract Expressionism in 1940s New York
+    - Minimalism in the 1960s
+  - Key postwar artists
+    - [Jackson Pollock's drip paintings](https://en.wikipedia.org/wiki/Jackson_Pollock)
+    - Mark Rothko's glowing colour fields
+    - Helen Frankenthaler's soak-stain technique
+  - How to approach it
+    - Respond to mood before meaning
+    - Notice scale, texture and brushwork
+    - Read the title for clues

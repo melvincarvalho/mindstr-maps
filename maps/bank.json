@@ -1,0 +1,308 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Bank",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#52nf4v",
+      "name": "Taking deposits",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#93ng3n",
+      "name": "Current accounts for everyday payments",
+      "x": -504,
+      "y": -68,
+      "parent": "#52nf4v"
+    },
+    {
+      "@id": "#tiqy8a",
+      "name": "Savings accounts pay interest",
+      "x": -396,
+      "y": -171,
+      "parent": "#52nf4v"
+    },
+    {
+      "@id": "#pivn7i",
+      "name": "Deposit insurance protects savers",
+      "x": -305,
+      "y": -265,
+      "link": "https://en.wikipedia.org/wiki/Deposit_insurance",
+      "parent": "#52nf4v"
+    },
+    {
+      "@id": "#j2pwms",
+      "name": "Lending",
+      "x": -19,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hexhkw",
+      "name": "Mortgages, loans and credit cards",
+      "x": -181,
+      "y": -330,
+      "parent": "#j2pwms"
+    },
+    {
+      "@id": "#9x27wu",
+      "name": "Business loans fund growth",
+      "x": -41,
+      "y": -391,
+      "parent": "#j2pwms"
+    },
+    {
+      "@id": "#45d8ag",
+      "name": "Credit checks judge ability to repay",
+      "x": 140,
+      "y": -445,
+      "parent": "#j2pwms"
+    },
+    {
+      "@id": "#3d2hbr",
+      "name": "How banks make money",
+      "x": 182,
+      "y": -113,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3r2kgm",
+      "name": "Charge more interest than they pay",
+      "x": 246,
+      "y": -301,
+      "parent": "#3d2hbr"
+    },
+    {
+      "@id": "#piimc4",
+      "name": "Fees for services and accounts",
+      "x": 355,
+      "y": -221,
+      "parent": "#3d2hbr"
+    },
+    {
+      "@id": "#6ztke7",
+      "name": "Lending creates new deposits",
+      "x": 464,
+      "y": -127,
+      "link": "https://en.wikipedia.org/wiki/Money_creation",
+      "parent": "#3d2hbr"
+    },
+    {
+      "@id": "#bi8e85",
+      "name": "Types of bank",
+      "x": 202,
+      "y": 88,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4tz43a",
+      "name": "Retail banks serve the public",
+      "x": 450,
+      "y": 0,
+      "parent": "#bi8e85"
+    },
+    {
+      "@id": "#ymayrv",
+      "name": "Investment banks advise and trade",
+      "x": 464,
+      "y": 127,
+      "parent": "#bi8e85"
+    },
+    {
+      "@id": "#5kd92d",
+      "name": "Building societies and credit unions",
+      "x": 355,
+      "y": 221,
+      "parent": "#bi8e85"
+    },
+    {
+      "@id": "#yqjfew",
+      "name": "Central bank: the banks' bank",
+      "x": 246,
+      "y": 301,
+      "link": "https://en.wikipedia.org/wiki/Central_bank",
+      "parent": "#bi8e85"
+    },
+    {
+      "@id": "#bcnszp",
+      "name": "Risks and rules",
+      "x": -19,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a7xqbd",
+      "name": "Bank runs when depositors panic",
+      "x": 110,
+      "y": 349,
+      "link": "https://en.wikipedia.org/wiki/Bank_run",
+      "parent": "#bcnszp"
+    },
+    {
+      "@id": "#i2vtrj",
+      "name": "Capital and liquidity requirements",
+      "x": -43,
+      "y": 407,
+      "parent": "#bcnszp"
+    },
+    {
+      "@id": "#r8yxdm",
+      "name": "Checks against money laundering",
+      "x": -253,
+      "y": 465,
+      "parent": "#bcnszp"
+    },
+    {
+      "@id": "#qkjcmz",
+      "name": "History",
+      "x": -202,
+      "y": 88,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xun73j",
+      "name": "Medieval Italian bankers in Florence",
+      "x": -305,
+      "y": 265,
+      "parent": "#qkjcmz"
+    },
+    {
+      "@id": "#vk6y6y",
+      "name": "Goldsmiths' receipts became banknotes",
+      "x": -396,
+      "y": 171,
+      "parent": "#qkjcmz"
+    },
+    {
+      "@id": "#jqkam9",
+      "name": "Online and mobile banking today",
+      "x": -444,
+      "y": 59,
+      "parent": "#qkjcmz"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

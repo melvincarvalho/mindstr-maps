@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Radioactive decay",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#idcfzg",
+      "name": "What happens",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tshs4z",
+      "name": "Unstable nuclei release energy spontaneously",
+      "x": -525,
+      "y": -59,
+      "parent": "#idcfzg"
+    },
+    {
+      "@id": "#2jts3e",
+      "name": "Often turns one element into another",
+      "x": -409,
+      "y": -150,
+      "parent": "#idcfzg"
+    },
+    {
+      "@id": "#4uhve6",
+      "name": "Timing of each atom is random",
+      "x": -340,
+      "y": -236,
+      "parent": "#idcfzg"
+    },
+    {
+      "@id": "#awqen4",
+      "name": "Main types",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tprs52",
+      "name": "Alpha: emits a helium nucleus",
+      "x": -243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Alpha_decay",
+      "parent": "#awqen4"
+    },
+    {
+      "@id": "#hhstsg",
+      "name": "Beta: neutron becomes proton, emits electron",
+      "x": -133,
+      "y": -360,
+      "link": "https://en.wikipedia.org/wiki/Beta_decay",
+      "parent": "#awqen4"
+    },
+    {
+      "@id": "#mbqkjt",
+      "name": "Gamma: nucleus sheds high-energy light",
+      "x": 0,
+      "y": -408,
+      "parent": "#awqen4"
+    },
+    {
+      "@id": "#j25gqp",
+      "name": "Paper stops alpha, lead slows gamma",
+      "x": 175,
+      "y": -465,
+      "parent": "#awqen4"
+    },
+    {
+      "@id": "#d69dhp",
+      "name": "Half-life",
+      "x": 193,
+      "y": -99,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e3zgjs",
+      "name": "Time for half the atoms to decay",
+      "x": 243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Half-life",
+      "parent": "#d69dhp"
+    },
+    {
+      "@id": "#sp8wh8",
+      "name": "Iodine-131: about 8 days",
+      "x": 340,
+      "y": -236,
+      "parent": "#d69dhp"
+    },
+    {
+      "@id": "#bc93fe",
+      "name": "Carbon-14: about 5,730 years",
+      "x": 409,
+      "y": -150,
+      "parent": "#d69dhp"
+    },
+    {
+      "@id": "#wrhbkg",
+      "name": "Uranium-238: about 4.5 billion years",
+      "x": 445,
+      "y": -51,
+      "parent": "#d69dhp"
+    },
+    {
+      "@id": "#4rvfkb",
+      "name": "Discovery",
+      "x": 209,
+      "y": 76,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a5j3da",
+      "name": "Becquerel finds uranium rays, 1896",
+      "x": 465,
+      "y": 53,
+      "parent": "#4rvfkb"
+    },
+    {
+      "@id": "#g7ymmj",
+      "name": "Marie and Pierre Curie find polonium, radium",
+      "x": 409,
+      "y": 150,
+      "parent": "#4rvfkb"
+    },
+    {
+      "@id": "#nw7mbu",
+      "name": "Rutherford names alpha and beta rays",
+      "x": 340,
+      "y": 236,
+      "parent": "#4rvfkb"
+    },
+    {
+      "@id": "#gs7ty7",
+      "name": "Uses",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#59hehi",
+      "name": "Radiocarbon dating ages ancient remains",
+      "x": 243,
+      "y": 303,
+      "link": "https://en.wikipedia.org/wiki/Radiocarbon_dating",
+      "parent": "#gs7ty7"
+    },
+    {
+      "@id": "#i5u623",
+      "name": "Smoke detectors use americium-241",
+      "x": 133,
+      "y": 360,
+      "parent": "#gs7ty7"
+    },
+    {
+      "@id": "#f3yh5t",
+      "name": "Radiotherapy and medical tracers",
+      "x": 0,
+      "y": 408,
+      "parent": "#gs7ty7"
+    },
+    {
+      "@id": "#aw37yn",
+      "name": "Decay heat warms Earth's interior",
+      "x": -175,
+      "y": 465,
+      "parent": "#gs7ty7"
+    },
+    {
+      "@id": "#2cjcv5",
+      "name": "Health and safety",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9228jz",
+      "name": "Radiation can damage DNA",
+      "x": -243,
+      "y": 303,
+      "parent": "#2cjcv5"
+    },
+    {
+      "@id": "#53jd3q",
+      "name": "Dose depends on time, distance, shielding",
+      "x": -340,
+      "y": 236,
+      "parent": "#2cjcv5"
+    },
+    {
+      "@id": "#hfjysk",
+      "name": "Background radiation is all around us",
+      "x": -409,
+      "y": 150,
+      "parent": "#2cjcv5"
+    },
+    {
+      "@id": "#xftygv",
+      "name": "Radon gas is a common home risk",
+      "x": -445,
+      "y": 51,
+      "parent": "#2cjcv5"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

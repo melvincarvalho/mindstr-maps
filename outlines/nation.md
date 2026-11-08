@@ -1,0 +1,32 @@
+category: Society
+aliases: what is a nation, nationhood, nation vs state
+- Nation
+  - What a nation is
+    - A people sharing a sense of identity
+    - Common language, culture or history
+    - Not the same as a state
+    - [Nation state: nation and state coincide](https://en.wikipedia.org/wiki/Nation_state)
+  - What binds a nation
+    - Shared memories, myths and heroes
+    - Flags, anthems and national holidays
+    - Often a homeland territory
+    - Sometimes religion or ethnicity
+  - How nations formed
+    - Printing spread shared languages
+    - Mass schooling taught national history
+    - French Revolution made the people sovereign
+    - Empires broke up into new nations
+  - Theories
+    - Primordialists: nations are ancient
+    - Modernists: nations are modern creations
+    - [Anderson: an "imagined community"](https://en.wikipedia.org/wiki/Imagined_Communities)
+    - Ernest Renan: "a daily plebiscite"
+  - Complex cases
+    - [Kurds: a nation without a state](https://en.wikipedia.org/wiki/Kurds)
+    - UK contains England, Scotland, Wales
+    - Multinational states like India and Switzerland
+    - Diasporas keep identity abroad
+  - Why it matters
+    - [Right to self-determination in the UN Charter](https://en.wikipedia.org/wiki/Self-determination)
+    - Underpins citizenship and loyalty
+    - Can unite or divide populations

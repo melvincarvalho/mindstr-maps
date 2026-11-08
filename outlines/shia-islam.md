@@ -1,0 +1,29 @@
+category: Philosophy and religion
+aliases: shiism, shia, shiite islam, shia muslims
+- Shia Islam
+  - Origins
+    - Dispute over succession after Muhammad, 632
+    - Shia means "party of Ali"
+    - [Ali, Muhammad's cousin and son-in-law](https://en.wikipedia.org/wiki/Ali)
+    - [Husayn killed at Karbala, 680](https://en.wikipedia.org/wiki/Battle_of_Karbala)
+  - Beliefs
+    - Shares Quran and Five Pillars with Sunnis
+    - [Imams: divinely guided leaders from Ali's line](https://en.wikipedia.org/wiki/Imamate_in_Shia_doctrine)
+    - Imams seen as protected from error
+    - Own hadith collections and legal schools
+  - Main branches
+    - [Twelvers: largest, await the hidden Twelfth Imam](https://en.wikipedia.org/wiki/Twelver_Shi%27ism)
+    - Ismailis, led today by the Aga Khan
+    - Zaydis, mainly in Yemen
+  - Practices
+    - Ashura mourns Husayn's martyrdom
+    - Pilgrimage to Karbala, Najaf and Mashhad
+    - Prayers may be combined, three times daily
+    - Senior clerics give guidance on law
+  - Where Shia Muslims live
+    - About 10–15% of all Muslims
+    - Majority in Iran, Iraq, Azerbaijan, Bahrain
+    - Large communities in Lebanon, Pakistan, India
+  - Key history
+    - Safavids made Iran Shia from 1501
+    - Iranian Revolution of 1979

@@ -1,0 +1,30 @@
+category: Arts and culture
+aliases: artwork, visual art, works of art
+- Art
+  - What art is
+    - Made by people to be looked at
+    - Definitions keep changing over time
+    - [Aesthetics studies beauty and taste](https://en.wikipedia.org/wiki/Aesthetics)
+  - Earliest art
+    - Cave paintings over 30,000 years old
+    - Carved figures like the Venus of Willendorf
+    - [Lascaux cave paintings in France](https://en.wikipedia.org/wiki/Lascaux)
+  - Main forms
+    - Painting in oil, tempera and watercolour
+    - Sculpture in stone, bronze and wood
+    - Drawing and printmaking
+    - Photography, video and digital art
+  - Major periods in the West
+    - Classical Greece and Rome idealised bodies
+    - [Renaissance revived perspective and realism](https://en.wikipedia.org/wiki/Renaissance_art)
+    - Baroque drama and Romantic emotion
+    - Modern art broke with tradition
+  - Traditions beyond Europe
+    - Chinese ink painting and calligraphy
+    - Islamic geometric pattern and tilework
+    - Japanese woodblock prints
+    - West African masks and bronzes
+  - How to look at art
+    - Notice subject, colour and composition
+    - Ask who made it and why
+    - [Iconography decodes symbols](https://en.wikipedia.org/wiki/Iconography)

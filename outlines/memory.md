@@ -1,0 +1,30 @@
+category: Society
+aliases: human memory, how memory works, types of memory
+- Memory
+  - How a memory is made
+    - Encoding: attention turns experience into memory
+    - Consolidation: strengthened over time, often asleep
+    - Retrieval: rebuilt each time it's recalled
+  - Short-term and working memory
+    - [Holds only about four to seven items](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two)
+    - Fades within seconds without rehearsal
+    - [Working memory juggles information in use](https://en.wikipedia.org/wiki/Working_memory)
+  - Long-term memory
+    - [Episodic: personal events and experiences](https://en.wikipedia.org/wiki/Episodic_memory)
+    - Semantic: facts and general knowledge
+    - Procedural: skills like riding a bike
+    - Can last a lifetime
+  - In the brain
+    - [Hippocampus forms new lasting memories](https://en.wikipedia.org/wiki/Hippocampus)
+    - Patient H.M. revealed the hippocampus's role
+    - Connections between neurons strengthen with use
+  - Forgetting and errors
+    - Forgetting curve: fastest loss early on
+    - Similar memories interfere with each other
+    - False memories can feel completely real
+    - Amnesia and dementia damage memory
+  - Remembering better
+    - Spaced repetition beats cramming
+    - Testing yourself strengthens recall
+    - Good sleep helps memories stick
+    - Memory palaces link facts to places

@@ -1,0 +1,29 @@
+category: Science
+aliases: what is geology, earth science geology, study of rocks, geologist
+- Geology
+  - What geologists study
+    - Rocks, minerals and fossils
+    - Processes that shape the land
+    - Earth's 4.5-billion-year history
+  - [The rock cycle](https://en.wikipedia.org/wiki/Rock_cycle)
+    - Igneous rock cools from magma
+    - Sedimentary rock builds up in layers
+    - Metamorphic rock changed by heat, pressure
+  - Reading deep time
+    - [Geologic time scale divides history](https://en.wikipedia.org/wiki/Geologic_time_scale)
+    - Younger layers usually lie on top
+    - Fossils match layers across regions
+    - [Radiometric dating gives absolute ages](https://en.wikipedia.org/wiki/Radiometric_dating)
+  - Forces shaping Earth
+    - Moving plates build mountains
+    - Erosion wears landscapes down
+    - Volcanoes and earthquakes reshape surface
+  - Key ideas and people
+    - [James Hutton: Earth is ancient](https://en.wikipedia.org/wiki/James_Hutton)
+    - Lyell: present explains the past
+    - Wegener proposed continental drift, 1912
+  - Why it matters
+    - Finding water, oil and metals
+    - Mapping earthquake and landslide hazards
+    - Safe ground for buildings, tunnels
+    - Rocks record past climate change

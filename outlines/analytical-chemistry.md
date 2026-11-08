@@ -1,0 +1,33 @@
+category: Science
+aliases: chemical analysis, analytical chemist
+- Analytical chemistry
+  - The questions it answers
+    - Qualitative: what is in it?
+    - Quantitative: how much is there?
+    - Where, and in what form?
+  - Classical wet methods
+    - [Titration measures concentration with a reagent](https://en.wikipedia.org/wiki/Titration)
+    - Gravimetric analysis weighs a precipitate
+    - Flame tests reveal metals by colour
+  - Separation techniques
+    - [Chromatography separates mixtures into components](https://en.wikipedia.org/wiki/Chromatography)
+    - Gas chromatography for volatile compounds
+    - HPLC for liquids and drugs
+    - Electrophoresis separates by charge and size
+  - Spectroscopy and instruments
+    - [Mass spectrometry sorts ions by mass](https://en.wikipedia.org/wiki/Mass_spectrometry)
+    - Infrared spectroscopy identifies functional groups
+    - NMR reveals molecular structure
+    - UV-visible absorption measures concentration
+    - Atomic absorption detects trace metals
+  - Getting reliable results
+    - Sample must represent the whole
+    - Calibrate against known standards
+    - Accuracy versus precision
+    - Detection limit: smallest measurable amount
+  - Where it is used
+    - Drug testing in sport and medicine
+    - Food safety and nutrition labels
+    - [Forensic science and crime labs](https://en.wikipedia.org/wiki/Forensic_science)
+    - Water and air pollution monitoring
+    - Hospital blood tests

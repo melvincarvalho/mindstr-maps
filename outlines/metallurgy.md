@@ -1,0 +1,32 @@
+category: Technology
+aliases: metallurgical engineering, science of metals, extractive metallurgy
+- Metallurgy
+  - Getting metal from ore
+    - [Ores are rocks rich in metal compounds](https://en.wikipedia.org/wiki/Ore)
+    - Mining and crushing concentrate the ore
+    - [Smelting uses heat and carbon](https://en.wikipedia.org/wiki/Smelting)
+    - Electrolysis extracts aluminium from bauxite
+  - Inside a metal
+    - Atoms packed in crystal grains
+    - Free electrons carry heat and electricity
+    - Smaller grains usually mean stronger metal
+  - Alloys mix metals
+    - Bronze: copper plus tin
+    - [Steel: iron plus a little carbon](https://en.wikipedia.org/wiki/Steel)
+    - Stainless steel adds chromium against rust
+    - Brass: copper plus zinc
+  - Shaping and treating
+    - Casting pours molten metal into moulds
+    - Forging and rolling shape hot metal
+    - [Quenching and tempering harden steel](https://en.wikipedia.org/wiki/Heat_treating)
+    - Welding joins parts with heat
+  - A long history
+    - Copper first worked over 9,000 years ago
+    - Bronze Age from about 3300 BC
+    - Iron Age from about 1200 BC
+    - [Bessemer process made cheap steel, 1856](https://en.wikipedia.org/wiki/Bessemer_process)
+  - Metals around you
+    - Steel in cars, bridges and buildings
+    - Aluminium in cans and aircraft
+    - Copper in electrical wiring
+    - Recycling metal saves most of the energy

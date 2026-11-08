@@ -1,0 +1,32 @@
+category: Society
+aliases: spanish, espanol, castilian, learn spanish
+- Spanish language
+  - Where it's spoken
+    - About 500 million native speakers
+    - Second most native speakers after Mandarin
+    - Mexico has the most speakers
+    - Official in about 20 countries
+    - [Over 40 million speakers in the US](https://en.wikipedia.org/wiki/Spanish_language_in_the_United_States)
+  - Family
+    - Indo-European, Romance branch
+    - Grew from Latin in medieval Castile
+    - Close kin: Portuguese, Italian, Catalan
+    - Thousands of Arabic loanwords
+  - History
+    - Nebrija's grammar published 1492
+    - Spread to the Americas from 1492
+    - [Real Academia Española founded 1713](https://en.wikipedia.org/wiki/Royal_Spanish_Academy)
+  - Sounds and writing
+    - Just five pure vowel sounds
+    - Spelling matches pronunciation closely
+    - Letter ñ, rolled "rr"
+    - Questions open with ¿ and ¡
+    - Spain says "th" for c, z
+  - Grammar highlights
+    - Two genders: el and la
+    - [Two verbs "to be": ser, estar](https://en.wikipedia.org/wiki/Spanish_verbs)
+    - Subject pronouns usually dropped
+    - Subjunctive used often
+  - Tips for learners
+    - Formal "usted" versus friendly "tú"
+    - Easy to read aloud early

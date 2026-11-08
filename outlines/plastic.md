@@ -1,0 +1,31 @@
+category: Technology
+aliases: plastics, types of plastic, how plastic is made, synthetic polymers
+- Plastic
+  - What plastic is
+    - [Long chain molecules called polymers](https://en.wikipedia.org/wiki/Polymer)
+    - Mostly made from oil and gas
+    - Moulded when soft, solid when cool
+  - Two main families
+    - Thermoplastics melt and can be reshaped
+    - Thermosets set hard for good
+  - Common types
+    - [Polyethylene: bags and bottles](https://en.wikipedia.org/wiki/Polyethylene)
+    - PET: drinks bottles and polyester fibre
+    - PVC: pipes and window frames
+    - Polypropylene: food tubs and car parts
+    - Polystyrene: foam cups and packaging
+  - How it's made
+    - Cracking oil into small monomers
+    - Polymerisation links monomers into chains
+    - Additives give colour and flexibility
+    - Injection moulding and extrusion shape it
+  - History
+    - [Bakelite, first fully synthetic plastic, 1907](https://en.wikipedia.org/wiki/Bakelite)
+    - Nylon invented in 1935
+    - Mass production boomed after 1950
+  - Benefits and drawbacks
+    - Light, cheap, waterproof and durable
+    - Keeps food fresh and medicine sterile
+    - Only about 9% has been recycled
+    - [Breaks into microplastics, not down](https://en.wikipedia.org/wiki/Microplastics)
+    - Bioplastics made from plants

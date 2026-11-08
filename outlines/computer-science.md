@@ -1,0 +1,30 @@
+category: Technology
+aliases: computing science, comp sci, informatics, study of computer science
+- Computer science
+  - What it studies
+    - Computation, information and algorithms
+    - Theory and practice, not just machines
+  - Foundations
+    - [Turing machine defined computability, 1936](https://en.wikipedia.org/wiki/Turing_machine)
+    - Boolean logic underlies digital circuits
+    - [Algorithms: precise step-by-step recipes](https://en.wikipedia.org/wiki/Algorithm)
+    - Big O notation measures efficiency
+  - Core areas
+    - Data structures organise information
+    - Programming languages and compilers
+    - Operating systems manage hardware
+    - Networks and distributed systems
+    - Databases store and query data
+  - Hard questions
+    - [P versus NP is unsolved](https://en.wikipedia.org/wiki/P_versus_NP_problem)
+    - Halting problem: some things are uncomputable
+    - Cryptography relies on hard problems
+  - Applied fields
+    - [Artificial intelligence and machine learning](https://en.wikipedia.org/wiki/Artificial_intelligence)
+    - Computer graphics and games
+    - Human–computer interaction and design
+    - Cybersecurity defends systems and data
+  - People and study
+    - Ada Lovelace's published algorithm, 1843
+    - Turing Award: the field's top prize
+    - University departments since the 1960s

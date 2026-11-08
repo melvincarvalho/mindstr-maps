@@ -1,0 +1,30 @@
+category: Mathematics
+aliases: complex numbers, imaginary numbers, imaginary unit i
+- Complex number
+  - The imaginary unit i
+    - [i is a square root of −1](https://en.wikipedia.org/wiki/Imaginary_unit)
+    - No real number squares to negative
+    - Powers of i cycle every four
+  - Shape of a complex number
+    - Real part plus imaginary part
+    - Example: 3 + 4i
+    - Reals have zero imaginary part
+  - The complex plane
+    - [Points on a 2D plane](https://en.wikipedia.org/wiki/Complex_plane)
+    - Size is distance from zero
+    - 3 + 4i has size 5
+    - Multiplying by i rotates 90°
+  - Key results
+    - [Every polynomial has a complex root](https://en.wikipedia.org/wiki/Fundamental_theorem_of_algebra)
+    - [Euler's formula links exponentials and angles](https://en.wikipedia.org/wiki/Euler%27s_formula)
+    - Conjugate 3 − 4i mirrors it
+  - From suspicion to acceptance
+    - Cardano met them in 1545
+    - Bombelli set out the rules
+    - Descartes called them "imaginary"
+    - Gauss and Argand drew them geometrically
+  - Real-world uses
+    - AC circuits in electrical engineering
+    - Signal processing and Fourier analysis
+    - [Quantum mechanics is written with them](https://en.wikipedia.org/wiki/Wave_function)
+    - Fractals like the Mandelbrot set

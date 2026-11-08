@@ -1,0 +1,31 @@
+category: Arts and culture
+aliases: nonfiction, non-fiction books, factual writing
+- Non-fiction
+  - What it is
+    - Prose presenting real facts and events
+    - Claims can be checked against evidence
+    - Author vouches the account is true
+  - Main types
+    - [Biography and autobiography](https://en.wikipedia.org/wiki/Biography)
+    - Memoir focuses on personal experience
+    - History and popular science
+    - Journalism and reportage
+    - Self-help, guides and textbooks
+    - Essays argue a point of view
+  - Creative non-fiction
+    - [Novelistic techniques applied to facts](https://en.wikipedia.org/wiki/Creative_nonfiction)
+    - [Capote's In Cold Blood, 1966](https://en.wikipedia.org/wiki/In_Cold_Blood)
+    - New Journalism of the 1960s
+  - Judging reliability
+    - Sources, footnotes and references
+    - Author's expertise and possible bias
+    - Fact-checking by publishers varies
+    - Separate opinion from reported fact
+  - Classic works
+    - Herodotus's Histories, about 430 BC
+    - Montaigne's Essays, 1580
+    - [On the Origin of Species, 1859](https://en.wikipedia.org/wiki/On_the_Origin_of_Species)
+    - Anne Frank's diary, published 1947
+  - Finding it
+    - Libraries shelve it by subject
+    - Pulitzer and Baillie Gifford prizes

@@ -1,0 +1,30 @@
+category: History
+aliases: maya civilisation, mayan civilization, ancient maya, the mayans
+- Maya civilization
+  - Where and when
+    - Yucatán, Guatemala, Belize and western Honduras
+    - Preclassic villages from about 2000 BC
+    - Classic peak, about AD 250–900
+  - Cities and states
+    - [Tikal and Calakmul were rival powers](https://en.wikipedia.org/wiki/Tikal)
+    - Divine kings ruled independent city-states
+    - Palenque and Copán famed for art
+    - [Chichén Itzá dominated northern Yucatán](https://en.wikipedia.org/wiki/Chichen_Itza)
+  - Knowledge
+    - [Maya script mixed logograms and syllables](https://en.wikipedia.org/wiki/Maya_script)
+    - [Long Count calendar and astronomy](https://en.wikipedia.org/wiki/Maya_calendar)
+    - Base-20 numbers with a zero
+  - Daily life and belief
+    - Maize central to farming and myth
+    - [Popol Vuh tells the creation story](https://en.wikipedia.org/wiki/Popol_Vuh)
+    - Bloodletting and sacrifice honoured the gods
+    - Ballgame played in stone courts
+  - Classic collapse
+    - Southern lowland cities abandoned, 9th century
+    - Drought, warfare and overpopulation likely causes
+    - Northern cities like Mayapán continued
+  - Conquest and today
+    - Spanish conquest from the 1520s
+    - Nojpetén, last Maya kingdom, fell 1697
+    - Millions of Maya people live today
+    - 2012 doomsday was a modern myth

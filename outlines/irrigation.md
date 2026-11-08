@@ -1,0 +1,30 @@
+category: Technology
+aliases: crop irrigation, irrigation systems, agricultural irrigation
+- Irrigation
+  - Supplying water to crops artificially
+    - Lets farming happen in dry regions
+    - Uses about 70% of freshwater withdrawals
+    - About 20% of farmland, 40% of food
+  - Ancient origins
+    - Mesopotamian canals from Tigris and Euphrates
+    - Egypt used the Nile's annual floods
+    - [Qanat tunnels carry groundwater in Persia](https://en.wikipedia.org/wiki/Qanat)
+    - Shaduf lifts water by lever
+  - Main methods
+    - Surface flooding and furrows
+    - Sprinklers and centre pivots
+    - [Drip irrigation feeds roots directly](https://en.wikipedia.org/wiki/Drip_irrigation)
+    - Rice paddies flooded deliberately
+  - Water sources
+    - Rivers, dams and reservoirs
+    - Groundwater pumped from aquifers
+    - Treated wastewater reuse
+  - Problems
+    - [Soil salinity from evaporating water](https://en.wikipedia.org/wiki/Soil_salinity)
+    - [Aral Sea shrank from cotton irrigation](https://en.wikipedia.org/wiki/Aral_Sea)
+    - Overpumping drains aquifers like Ogallala
+    - Waterlogging of poorly drained fields
+  - Using water efficiently
+    - Lining canals to stop leaks
+    - Soil moisture sensors guide scheduling
+    - Watering when cool cuts evaporation

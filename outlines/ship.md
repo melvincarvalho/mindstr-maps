@@ -1,0 +1,30 @@
+category: Technology
+aliases: ships, how ships float, history of ships
+- Ship
+  - Why ships float
+    - [Hull displaces its weight in water](https://en.wikipedia.org/wiki/Archimedes%27_principle)
+    - Steel ships float because they're mostly air
+    - Ballast keeps them upright and stable
+  - How they move
+    - Oars and sails for thousands of years
+    - Steam engines from the early 1800s
+    - Diesel engines turn a propeller
+    - Rudder at the stern steers
+  - History
+    - Egyptian and Phoenician ships traded early
+    - Viking longships crossed the North Atlantic
+    - Sailing ships linked the world from 1500s
+    - [Titanic sank on maiden voyage, 1912](https://en.wikipedia.org/wiki/Titanic)
+  - Kinds of ship
+    - [Container ships carry boxed cargo](https://en.wikipedia.org/wiki/Container_ship)
+    - Tankers carry oil and gas
+    - Cruise ships and ferries carry people
+    - Warships, aircraft carriers and submarines
+  - Shipping today
+    - About 80% of world trade by sea
+    - Suez and Panama canals cut journeys
+    - Ports load ships with giant cranes
+  - At sea
+    - Bow is front, stern is back
+    - Port is left, starboard is right
+    - [Lifeboats and SOLAS rules for safety](https://en.wikipedia.org/wiki/SOLAS_Convention)

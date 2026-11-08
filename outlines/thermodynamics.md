@@ -1,0 +1,28 @@
+category: Science
+aliases: laws of thermodynamics, thermodynamics explained, thermal physics
+- Thermodynamics
+  - What it studies
+    - Heat, work, energy and temperature
+    - How energy moves and changes form
+    - Applies to engines, stars and cells
+  - Origins in the steam age
+    - Steam engines drove the questions
+    - [Carnot found the limit on efficiency, 1824](https://en.wikipedia.org/wiki/Nicolas_L%C3%A9onard_Sadi_Carnot)
+    - Joule showed work turns into heat
+  - The four laws
+    - Zeroth: equal temperatures mean no heat flow
+    - [First: energy is never created or destroyed](https://en.wikipedia.org/wiki/First_law_of_thermodynamics)
+    - [Second: entropy of isolated systems increases](https://en.wikipedia.org/wiki/Second_law_of_thermodynamics)
+    - Third: absolute zero cannot be reached
+  - Entropy, the key idea
+    - [Roughly, a measure of disorder](https://en.wikipedia.org/wiki/Entropy)
+    - Heat flows from hot to cold
+    - Explains why time has a direction
+  - Engines and machines
+    - Heat engines turn heat into work
+    - No engine is 100% efficient
+    - Fridges and heat pumps move heat uphill
+  - Where it matters today
+    - Power stations and car engines
+    - Chemical reactions and their energy
+    - Weather, climate and stars

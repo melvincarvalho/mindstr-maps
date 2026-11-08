@@ -1,0 +1,320 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Bread",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#wv6js5",
+      "name": "What bread is",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d84mtv",
+      "name": "Baked dough of flour and water",
+      "x": -464,
+      "y": -58,
+      "parent": "#wv6js5"
+    },
+    {
+      "@id": "#8rtb6n",
+      "name": "Wheat gluten traps gas so dough rises",
+      "x": -401,
+      "y": -163,
+      "parent": "#wv6js5"
+    },
+    {
+      "@id": "#ggxmdy",
+      "name": "A staple food for thousands of years",
+      "x": -318,
+      "y": -255,
+      "parent": "#wv6js5"
+    },
+    {
+      "@id": "#2jdzpd",
+      "name": "Ingredients",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#59r4xx",
+      "name": "Flour, usually from wheat",
+      "x": -204,
+      "y": -321,
+      "parent": "#2jdzpd"
+    },
+    {
+      "@id": "#ts4v9m",
+      "name": "Water to form the dough",
+      "x": -73,
+      "y": -372,
+      "parent": "#2jdzpd"
+    },
+    {
+      "@id": "#fvb44h",
+      "name": "Yeast ferments sugars into gas",
+      "x": 82,
+      "y": -420,
+      "link": "https://en.wikipedia.org/wiki/Baker%27s_yeast",
+      "parent": "#2jdzpd"
+    },
+    {
+      "@id": "#8ibwb7",
+      "name": "Salt for flavour and dough strength",
+      "x": 204,
+      "y": -321,
+      "parent": "#2jdzpd"
+    },
+    {
+      "@id": "#jiw8a6",
+      "name": "How it is made",
+      "x": 219,
+      "y": -57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9ty37n",
+      "name": "Mix and knead to develop gluten",
+      "x": 318,
+      "y": -255,
+      "parent": "#jiw8a6"
+    },
+    {
+      "@id": "#y4ergd",
+      "name": "Leave to rise until roughly doubled",
+      "x": 401,
+      "y": -163,
+      "parent": "#jiw8a6"
+    },
+    {
+      "@id": "#7f2kq3",
+      "name": "Shape the loaf and prove again",
+      "x": 484,
+      "y": -60,
+      "parent": "#jiw8a6"
+    },
+    {
+      "@id": "#r6p7nj",
+      "name": "Bake in a hot oven",
+      "x": 444,
+      "y": 56,
+      "parent": "#jiw8a6"
+    },
+    {
+      "@id": "#x28t9p",
+      "name": "Leavened or flat",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uyzf3u",
+      "name": "Sourdough uses wild yeast and bacteria",
+      "x": 455,
+      "y": 184,
+      "link": "https://en.wikipedia.org/wiki/Sourdough",
+      "parent": "#x28t9p"
+    },
+    {
+      "@id": "#8xvpct",
+      "name": "Flatbreads like naan, pita and tortilla",
+      "x": 318,
+      "y": 255,
+      "link": "https://en.wikipedia.org/wiki/Flatbread",
+      "parent": "#x28t9p"
+    },
+    {
+      "@id": "#qmmj8h",
+      "name": "Soda bread rises with baking soda",
+      "x": 204,
+      "y": 321,
+      "link": "https://en.wikipedia.org/wiki/Soda_bread",
+      "parent": "#x28t9p"
+    },
+    {
+      "@id": "#pjn4cz",
+      "name": "Bread around the world",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#37ts2f",
+      "name": "French baguette with a crisp crust",
+      "x": 73,
+      "y": 372,
+      "parent": "#pjn4cz"
+    },
+    {
+      "@id": "#xu9kvk",
+      "name": "Dense German rye breads",
+      "x": -82,
+      "y": 420,
+      "parent": "#pjn4cz"
+    },
+    {
+      "@id": "#fz6a7y",
+      "name": "Sliced white loaves since the 1920s",
+      "x": -204,
+      "y": 321,
+      "parent": "#pjn4cz"
+    },
+    {
+      "@id": "#9a5i8b",
+      "name": "Bread in history",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dqcjq4",
+      "name": "Ancient Egyptians baked leavened bread",
+      "x": -318,
+      "y": 255,
+      "parent": "#9a5i8b"
+    },
+    {
+      "@id": "#rgmgcu",
+      "name": "Roman bakeries sold bread to cities",
+      "x": -401,
+      "y": 163,
+      "link": "https://en.wikipedia.org/wiki/History_of_bread",
+      "parent": "#9a5i8b"
+    },
+    {
+      "@id": "#3zrp49",
+      "name": "Industrial milling made white bread cheap",
+      "x": -524,
+      "y": 64,
+      "parent": "#9a5i8b"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

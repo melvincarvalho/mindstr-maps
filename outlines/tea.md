@@ -1,0 +1,32 @@
+category: Life and home
+aliases: types of tea, cup of tea, tea drinking
+- Tea
+  - One plant, many teas
+    - [Leaves of Camellia sinensis](https://en.wikipedia.org/wiki/Camellia_sinensis)
+    - Most drunk drink after water
+    - Big growers: China, India, Kenya, Sri Lanka
+  - Processing makes the types
+    - Green: heated to stop oxidation
+    - Black: fully oxidised, stronger flavour
+    - Oolong: partly oxidised
+    - White: young buds, minimally processed
+    - Pu-erh: aged and fermented
+  - From China to the world
+    - [Drunk in China for millennia](https://en.wikipedia.org/wiki/History_of_tea)
+    - Monks brought it to Japan
+    - Britain's national drink by the 1700s
+    - [Tea trade imbalance fuelled the Opium Wars](https://en.wikipedia.org/wiki/Opium_Wars)
+  - Brewing a good cup
+    - Green: below boiling, 2–3 minutes
+    - Black: just-boiled water, 3–5 minutes
+    - Loose leaf or tea bag
+    - Milk, lemon or sugar to taste
+  - Tea cultures
+    - [Japanese tea ceremony](https://en.wikipedia.org/wiki/Japanese_tea_ceremony)
+    - British afternoon tea
+    - Chinese gongfu brewing in small pots
+    - Spiced masala chai in India
+  - Caffeine and health
+    - Less caffeine per cup than coffee
+    - Rich in polyphenols
+    - Herbal "teas" aren't true tea

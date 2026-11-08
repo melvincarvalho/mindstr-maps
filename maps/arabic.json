@@ -1,0 +1,364 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Arabic",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#t66x8m",
+      "name": "Where it's spoken",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4znk28",
+      "name": "About 400 million speakers",
+      "x": -446,
+      "y": -47,
+      "parent": "#t66x8m"
+    },
+    {
+      "@id": "#m5mhnm",
+      "name": "Official in over 20 countries",
+      "x": -434,
+      "y": -144,
+      "parent": "#t66x8m"
+    },
+    {
+      "@id": "#ucuse4",
+      "name": "One of six UN official languages",
+      "x": -357,
+      "y": -219,
+      "parent": "#t66x8m"
+    },
+    {
+      "@id": "#r4cmxf",
+      "name": "Language of the Quran for Muslims",
+      "x": -274,
+      "y": -286,
+      "parent": "#t66x8m"
+    },
+    {
+      "@id": "#u73qkd",
+      "name": "History and family",
+      "x": 30,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h2xtbz",
+      "name": "Semitic branch of Afroasiatic",
+      "x": -180,
+      "y": -348,
+      "parent": "#u73qkd"
+    },
+    {
+      "@id": "#5d8cpn",
+      "name": "Related to Hebrew and Aramaic",
+      "x": -68,
+      "y": -405,
+      "parent": "#u73qkd"
+    },
+    {
+      "@id": "#ue5m3m",
+      "name": "Spread with Islam from the 600s",
+      "x": 77,
+      "y": -453,
+      "parent": "#u73qkd"
+    },
+    {
+      "@id": "#vcfmbj",
+      "name": "Golden Age language of science",
+      "x": 172,
+      "y": -333,
+      "parent": "#u73qkd"
+    },
+    {
+      "@id": "#wa677t",
+      "name": "English words: algebra, coffee, sugar",
+      "x": 370,
+      "y": -390,
+      "parent": "#u73qkd"
+    },
+    {
+      "@id": "#w68tps",
+      "name": "Standard and dialects",
+      "x": 222,
+      "y": -48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#w7i8nx",
+      "name": "Classical Arabic of the Quran",
+      "x": 357,
+      "y": -219,
+      "link": "https://en.wikipedia.org/wiki/Classical_Arabic",
+      "parent": "#w68tps"
+    },
+    {
+      "@id": "#wit3h8",
+      "name": "Modern Standard Arabic for media, writing",
+      "x": 416,
+      "y": -138,
+      "link": "https://en.wikipedia.org/wiki/Modern_Standard_Arabic",
+      "parent": "#w68tps"
+    },
+    {
+      "@id": "#k3ap2g",
+      "name": "Spoken dialects vary widely by region",
+      "x": 546,
+      "y": -57,
+      "link": "https://en.wikipedia.org/wiki/Varieties_of_Arabic",
+      "parent": "#w68tps"
+    },
+    {
+      "@id": "#as6s8b",
+      "name": "Egyptian, Levantine, Gulf, Maghrebi",
+      "x": 446,
+      "y": 47,
+      "parent": "#w68tps"
+    },
+    {
+      "@id": "#feq3bf",
+      "name": "Sounds and writing",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5vtf6k",
+      "name": "28 letters, written right to left",
+      "x": 470,
+      "y": 156,
+      "link": "https://en.wikipedia.org/wiki/Arabic_alphabet",
+      "parent": "#feq3bf"
+    },
+    {
+      "@id": "#erus8h",
+      "name": "Letters join and change shape",
+      "x": 357,
+      "y": 219,
+      "parent": "#feq3bf"
+    },
+    {
+      "@id": "#keds8x",
+      "name": "Short vowels usually left unwritten",
+      "x": 274,
+      "y": 286,
+      "parent": "#feq3bf"
+    },
+    {
+      "@id": "#5qmgxt",
+      "name": "Throat sounds like ʿayn and ḥā'",
+      "x": 180,
+      "y": 348,
+      "parent": "#feq3bf"
+    },
+    {
+      "@id": "#4yyhcj",
+      "name": "Grammar highlights",
+      "x": -60,
+      "y": 178,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qsnhr7",
+      "name": "Words built on three-consonant roots",
+      "x": 68,
+      "y": 405,
+      "link": "https://en.wikipedia.org/wiki/Semitic_root",
+      "parent": "#4yyhcj"
+    },
+    {
+      "@id": "#ps7zvg",
+      "name": "k-t-b: write, book, office",
+      "x": -77,
+      "y": 453,
+      "parent": "#4yyhcj"
+    },
+    {
+      "@id": "#c3fxay",
+      "name": "Singular, dual and plural",
+      "x": -172,
+      "y": 333,
+      "parent": "#4yyhcj"
+    },
+    {
+      "@id": "#x7kpa6",
+      "name": "Irregular \"broken\" plurals",
+      "x": -370,
+      "y": 390,
+      "parent": "#4yyhcj"
+    },
+    {
+      "@id": "#a8igim",
+      "name": "Tips for learners",
+      "x": -212,
+      "y": 70,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xbq968",
+      "name": "Decide: Standard, dialect or both",
+      "x": -357,
+      "y": 219,
+      "parent": "#a8igim"
+    },
+    {
+      "@id": "#ks33ca",
+      "name": "Learn roots to unlock vocabulary",
+      "x": -416,
+      "y": 138,
+      "parent": "#a8igim"
+    },
+    {
+      "@id": "#zbkjt9",
+      "name": "The script takes weeks, not months",
+      "x": -506,
+      "y": 53,
+      "parent": "#a8igim"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 6,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 12,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    },
+    {
+      "start": 0,
+      "end": 27
+    },
+    {
+      "start": 27,
+      "end": 28
+    },
+    {
+      "start": 27,
+      "end": 29
+    },
+    {
+      "start": 27,
+      "end": 30
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,352 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Globalization",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#zq7r7s",
+      "name": "What it is",
+      "x": -221,
+      "y": -50,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4ipqmu",
+      "name": "Economies and cultures growing interconnected",
+      "x": -526,
+      "y": -57,
+      "parent": "#zq7r7s"
+    },
+    {
+      "@id": "#wdx5ya",
+      "name": "Trade, money, people and ideas",
+      "x": -413,
+      "y": -143,
+      "parent": "#zq7r7s"
+    },
+    {
+      "@id": "#qu7jf9",
+      "name": "Waves of globalization",
+      "x": -77,
+      "y": -173,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#724a3c",
+      "name": "Ancient trade routes like the Silk Road",
+      "x": -349,
+      "y": -227,
+      "parent": "#qu7jf9"
+    },
+    {
+      "@id": "#xx3hwp",
+      "name": "Steamships and telegraph, 1870–1914",
+      "x": -260,
+      "y": -294,
+      "parent": "#qu7jf9"
+    },
+    {
+      "@id": "#hcujj5",
+      "name": "Wars and Depression reversed it",
+      "x": -158,
+      "y": -354,
+      "parent": "#qu7jf9"
+    },
+    {
+      "@id": "#fjcjv6",
+      "name": "Rebuilt after 1945 by Bretton Woods",
+      "x": -34,
+      "y": -407,
+      "link": "https://en.wikipedia.org/wiki/Bretton_Woods_system",
+      "parent": "#qu7jf9"
+    },
+    {
+      "@id": "#85ed7n",
+      "name": "Accelerated after the Cold War ended",
+      "x": 120,
+      "y": -464,
+      "parent": "#qu7jf9"
+    },
+    {
+      "@id": "#qz8nbx",
+      "name": "What drives it",
+      "x": 197,
+      "y": -96,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j323js",
+      "name": "Shipping containers cut transport costs",
+      "x": 216,
+      "y": -334,
+      "link": "https://en.wikipedia.org/wiki/Containerization",
+      "parent": "#qz8nbx"
+    },
+    {
+      "@id": "#22tvqn",
+      "name": "Lower tariffs under GATT and WTO",
+      "x": 307,
+      "y": -263,
+      "link": "https://en.wikipedia.org/wiki/World_Trade_Organization",
+      "parent": "#qz8nbx"
+    },
+    {
+      "@id": "#g8tmxc",
+      "name": "Internet makes communication almost free",
+      "x": 384,
+      "y": -187,
+      "parent": "#qz8nbx"
+    },
+    {
+      "@id": "#marymv",
+      "name": "Multinationals spread supply chains worldwide",
+      "x": 528,
+      "y": -117,
+      "parent": "#qz8nbx"
+    },
+    {
+      "@id": "#xr6zys",
+      "name": "China joined the WTO in 2001",
+      "x": 450,
+      "y": 0,
+      "parent": "#qz8nbx"
+    },
+    {
+      "@id": "#ih4ev3",
+      "name": "Benefits",
+      "x": 197,
+      "y": 96,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2znmwe",
+      "name": "Hundreds of millions lifted from poverty",
+      "x": 471,
+      "y": 105,
+      "parent": "#ih4ev3"
+    },
+    {
+      "@id": "#q9k4j4",
+      "name": "Cheaper goods for consumers",
+      "x": 384,
+      "y": 187,
+      "parent": "#ih4ev3"
+    },
+    {
+      "@id": "#hm5fps",
+      "name": "Faster spread of ideas and technology",
+      "x": 307,
+      "y": 263,
+      "parent": "#ih4ev3"
+    },
+    {
+      "@id": "#epuvui",
+      "name": "Costs and risks",
+      "x": -16,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sqy249",
+      "name": "Factory jobs lost in rich countries",
+      "x": 207,
+      "y": 320,
+      "parent": "#epuvui"
+    },
+    {
+      "@id": "#kqc8wx",
+      "name": "Inequality rising within many countries",
+      "x": 96,
+      "y": 368,
+      "parent": "#epuvui"
+    },
+    {
+      "@id": "#uem7pw",
+      "name": "2008 financial crisis spread worldwide",
+      "x": -35,
+      "y": 423,
+      "link": "https://en.wikipedia.org/wiki/2008_financial_crisis",
+      "parent": "#epuvui"
+    },
+    {
+      "@id": "#gezp5i",
+      "name": "Long supply chains fragile, as COVID showed",
+      "x": -214,
+      "y": 474,
+      "parent": "#epuvui"
+    },
+    {
+      "@id": "#hej5bu",
+      "name": "Local cultures and environments under pressure",
+      "x": -260,
+      "y": 294,
+      "parent": "#epuvui"
+    },
+    {
+      "@id": "#w88ndj",
+      "name": "Backlash",
+      "x": -211,
+      "y": 73,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ux7mfg",
+      "name": "Protests against free trade deals",
+      "x": -349,
+      "y": 227,
+      "parent": "#w88ndj"
+    },
+    {
+      "@id": "#6yvsf3",
+      "name": "Brexit and rising protectionism",
+      "x": -413,
+      "y": 143,
+      "parent": "#w88ndj"
+    },
+    {
+      "@id": "#3hm45g",
+      "name": "US–China trade war from 2018",
+      "x": -446,
+      "y": 49,
+      "parent": "#w88ndj"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 4,
+      "end": 8
+    },
+    {
+      "start": 4,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 10,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 20,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    },
+    {
+      "start": 26,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

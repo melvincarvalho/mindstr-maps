@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Shia Islam",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#yxsea8",
+      "name": "Origins",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ug3av9",
+      "name": "Dispute over succession after Muhammad, 632",
+      "x": -444,
+      "y": -56,
+      "parent": "#yxsea8"
+    },
+    {
+      "@id": "#kyhbq4",
+      "name": "Shia means \"party of Ali\"",
+      "x": -401,
+      "y": -163,
+      "parent": "#yxsea8"
+    },
+    {
+      "@id": "#cyhmk5",
+      "name": "Ali, Muhammad's cousin and son-in-law",
+      "x": -318,
+      "y": -255,
+      "link": "https://en.wikipedia.org/wiki/Ali",
+      "parent": "#yxsea8"
+    },
+    {
+      "@id": "#nstpfw",
+      "name": "Husayn killed at Karbala, 680",
+      "x": -204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Battle_of_Karbala",
+      "parent": "#yxsea8"
+    },
+    {
+      "@id": "#d6scj3",
+      "name": "Beliefs",
+      "x": 71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mwn2f9",
+      "name": "Shares Quran and Five Pillars with Sunnis",
+      "x": -73,
+      "y": -372,
+      "parent": "#d6scj3"
+    },
+    {
+      "@id": "#ey82bf",
+      "name": "Imams: divinely guided leaders from Ali's line",
+      "x": 82,
+      "y": -420,
+      "link": "https://en.wikipedia.org/wiki/Imamate_in_Shia_doctrine",
+      "parent": "#d6scj3"
+    },
+    {
+      "@id": "#iphemh",
+      "name": "Imams seen as protected from error",
+      "x": 204,
+      "y": -321,
+      "parent": "#d6scj3"
+    },
+    {
+      "@id": "#aayxp3",
+      "name": "Own hadith collections and legal schools",
+      "x": 318,
+      "y": -255,
+      "parent": "#d6scj3"
+    },
+    {
+      "@id": "#kxq8ec",
+      "name": "Main branches",
+      "x": 227,
+      "y": -29,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#x73ybq",
+      "name": "Twelvers: largest, await the hidden Twelfth Imam",
+      "x": 401,
+      "y": -163,
+      "link": "https://en.wikipedia.org/wiki/Twelver_Shi%27ism",
+      "parent": "#kxq8ec"
+    },
+    {
+      "@id": "#w27fd5",
+      "name": "Ismailis, led today by the Aga Khan",
+      "x": 504,
+      "y": -62,
+      "parent": "#kxq8ec"
+    },
+    {
+      "@id": "#swpcbh",
+      "name": "Zaydis, mainly in Yemen",
+      "x": 444,
+      "y": 56,
+      "parent": "#kxq8ec"
+    },
+    {
+      "@id": "#c9jc3r",
+      "name": "Practices",
+      "x": 135,
+      "y": 149,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pd8qkt",
+      "name": "Ashura mourns Husayn's martyrdom",
+      "x": 401,
+      "y": 163,
+      "parent": "#c9jc3r"
+    },
+    {
+      "@id": "#whsuch",
+      "name": "Pilgrimage to Karbala, Najaf and Mashhad",
+      "x": 318,
+      "y": 255,
+      "parent": "#c9jc3r"
+    },
+    {
+      "@id": "#67j7yp",
+      "name": "Prayers may be combined, three times daily",
+      "x": 204,
+      "y": 321,
+      "parent": "#c9jc3r"
+    },
+    {
+      "@id": "#uad64e",
+      "name": "Senior clerics give guidance on law",
+      "x": 73,
+      "y": 372,
+      "parent": "#c9jc3r"
+    },
+    {
+      "@id": "#8yam9c",
+      "name": "Where Shia Muslims live",
+      "x": -104,
+      "y": 164,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#us78rr",
+      "name": "About 10–15% of all Muslims",
+      "x": -82,
+      "y": 420,
+      "parent": "#8yam9c"
+    },
+    {
+      "@id": "#vnvqhe",
+      "name": "Majority in Iran, Iraq, Azerbaijan, Bahrain",
+      "x": -303,
+      "y": 475,
+      "parent": "#8yam9c"
+    },
+    {
+      "@id": "#44dkxx",
+      "name": "Large communities in Lebanon, Pakistan, India",
+      "x": -318,
+      "y": 255,
+      "parent": "#8yam9c"
+    },
+    {
+      "@id": "#fzubnj",
+      "name": "Key history",
+      "x": -219,
+      "y": 57,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kx8dmy",
+      "name": "Safavids made Iran Shia from 1501",
+      "x": -419,
+      "y": 170,
+      "parent": "#fzubnj"
+    },
+    {
+      "@id": "#znnsub",
+      "name": "Iranian Revolution of 1979",
+      "x": -444,
+      "y": 56,
+      "parent": "#fzubnj"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

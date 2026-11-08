@@ -1,0 +1,31 @@
+category: History
+aliases: religious history, history of world religions, origins of religion
+- History of religion
+  - Earliest beliefs
+    - Burials with grave goods
+    - Animism: spirits in nature
+    - [Göbekli Tepe temple, about 9500 BC](https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe)
+  - Ancient religions
+    - Mesopotamian and Egyptian gods and temples
+    - Greek and Roman pantheons
+    - Vedic religion, root of Hinduism
+    - Zoroastrianism in ancient Persia
+  - Axial Age, about 800–200 BC
+    - [Buddhism founded by Siddhartha Gautama](https://en.wikipedia.org/wiki/Buddhism)
+    - Jainism's teaching of non-violence
+    - Confucianism and Taoism in China
+    - Hebrew prophets and Jewish monotheism
+  - Abrahamic faiths spread
+    - Christianity grew from Jesus's followers
+    - Rome adopted Christianity in 4th century
+    - [Islam began with Muhammad, 610 AD](https://en.wikipedia.org/wiki/Islam)
+    - Sikhism founded by Guru Nanak, about 1500
+  - Splits and reforms
+    - Great Schism of East and West, 1054
+    - [Protestant Reformation began 1517](https://en.wikipedia.org/wiki/Reformation)
+    - Sunni and Shia split over succession
+  - Modern era
+    - Secularism and separation of church and state
+    - Missionaries spread faiths worldwide
+    - New religious movements emerged
+    - Christianity and Islam largest today

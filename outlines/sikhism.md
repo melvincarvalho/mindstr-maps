@@ -1,0 +1,31 @@
+category: Philosophy and religion
+aliases: sikhi, sikh religion, sikh faith
+- Sikhism
+  - Origins
+    - [Guru Nanak, born 1469 in Punjab](https://en.wikipedia.org/wiki/Guru_Nanak)
+    - Ten human Gurus until 1708
+    - About 25–30 million Sikhs worldwide
+  - Core beliefs
+    - One God, expressed as Ik Onkar
+    - Equality of all people
+    - Liberation through remembering God
+    - Rejection of caste distinctions
+  - [Guru Granth Sahib](https://en.wikipedia.org/wiki/Guru_Granth_Sahib)
+    - Scripture honoured as the living Guru
+    - Written in Gurmukhi script
+    - Includes hymns of Hindu and Muslim saints
+  - Three pillars
+    - Naam Japo, meditating on God's name
+    - Kirat Karni, earning an honest living
+    - Vand Chakko, sharing with others
+  - Khalsa and the Five Ks
+    - [Khalsa founded by Guru Gobind Singh, 1699](https://en.wikipedia.org/wiki/Khalsa)
+    - Kesh, uncut hair, often under turban
+    - Kara, steel bracelet
+    - Kirpan, ceremonial sword
+    - Kangha comb and Kachera undergarment
+  - Worship and community
+    - [Golden Temple in Amritsar](https://en.wikipedia.org/wiki/Golden_Temple)
+    - Gurdwara, the place of worship
+    - Langar, free communal kitchen
+    - Vaisakhi marks the Khalsa's founding

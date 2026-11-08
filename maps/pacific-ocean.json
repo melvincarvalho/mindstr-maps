@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Pacific Ocean",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#6rs6pw",
+      "name": "Size",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t6rgqp",
+      "name": "Largest ocean, about 165 million km²",
+      "x": -444,
+      "y": -56,
+      "parent": "#6rs6pw"
+    },
+    {
+      "@id": "#m7mq6h",
+      "name": "Bigger than all land combined",
+      "x": -401,
+      "y": -163,
+      "parent": "#6rs6pw"
+    },
+    {
+      "@id": "#dhcdu3",
+      "name": "About a third of Earth's surface",
+      "x": -318,
+      "y": -255,
+      "parent": "#6rs6pw"
+    },
+    {
+      "@id": "#6rb5by",
+      "name": "Slowly shrinking as the Atlantic widens",
+      "x": -204,
+      "y": -321,
+      "parent": "#6rs6pw"
+    },
+    {
+      "@id": "#r9vb59",
+      "name": "Depths",
+      "x": 36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7k7h4i",
+      "name": "Mariana Trench holds the deepest point",
+      "x": -73,
+      "y": -372,
+      "link": "https://en.wikipedia.org/wiki/Mariana_Trench",
+      "parent": "#r9vb59"
+    },
+    {
+      "@id": "#yh8vg2",
+      "name": "Challenger Deep, about 10,900 m down",
+      "x": 82,
+      "y": -420,
+      "parent": "#r9vb59"
+    },
+    {
+      "@id": "#mmxdj8",
+      "name": "Average depth about 4,000 m",
+      "x": 204,
+      "y": -321,
+      "parent": "#r9vb59"
+    },
+    {
+      "@id": "#83qj4d",
+      "name": "Restless edges",
+      "x": 205,
+      "y": -84,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g6xrrn",
+      "name": "Ring of Fire volcanoes and earthquakes",
+      "x": 318,
+      "y": -255,
+      "link": "https://en.wikipedia.org/wiki/Ring_of_Fire",
+      "parent": "#83qj4d"
+    },
+    {
+      "@id": "#fqvyfv",
+      "name": "Tsunamis cross it in hours",
+      "x": 401,
+      "y": -163,
+      "parent": "#83qj4d"
+    },
+    {
+      "@id": "#dqehck",
+      "name": "Hawaii built over a volcanic hotspot",
+      "x": 484,
+      "y": -60,
+      "parent": "#83qj4d"
+    },
+    {
+      "@id": "#vu9ien",
+      "name": "Climate engine",
+      "x": 205,
+      "y": 84,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t4sh6h",
+      "name": "El Niño and La Niña swing weather",
+      "x": 484,
+      "y": 60,
+      "link": "https://en.wikipedia.org/wiki/El_Ni%C3%B1o%E2%80%93Southern_Oscillation",
+      "parent": "#vu9ien"
+    },
+    {
+      "@id": "#zuntny",
+      "name": "Typhoons batter East Asia",
+      "x": 401,
+      "y": 163,
+      "parent": "#vu9ien"
+    },
+    {
+      "@id": "#uymr48",
+      "name": "International Date Line runs through it",
+      "x": 318,
+      "y": 255,
+      "parent": "#vu9ien"
+    },
+    {
+      "@id": "#5nafhm",
+      "name": "Peoples and history",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8w39qd",
+      "name": "Polynesian navigators settled remote islands",
+      "x": 204,
+      "y": 321,
+      "parent": "#5nafhm"
+    },
+    {
+      "@id": "#nhf7w2",
+      "name": "Melanesia, Micronesia and Polynesia",
+      "x": 73,
+      "y": 372,
+      "parent": "#5nafhm"
+    },
+    {
+      "@id": "#vs3dvf",
+      "name": "Magellan named it \"peaceful\" in 1520",
+      "x": -82,
+      "y": 420,
+      "parent": "#5nafhm"
+    },
+    {
+      "@id": "#9x97ku",
+      "name": "Pacific War battles of World War II",
+      "x": -204,
+      "y": 321,
+      "parent": "#5nafhm"
+    },
+    {
+      "@id": "#yxz8w4",
+      "name": "Life and threats",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#494ref",
+      "name": "Great Barrier Reef off Australia",
+      "x": -318,
+      "y": 255,
+      "parent": "#yxz8w4"
+    },
+    {
+      "@id": "#ru4psv",
+      "name": "Rich tuna fisheries",
+      "x": -401,
+      "y": 163,
+      "parent": "#yxz8w4"
+    },
+    {
+      "@id": "#jkdiw6",
+      "name": "Great Pacific Garbage Patch gathers plastic",
+      "x": -544,
+      "y": 66,
+      "link": "https://en.wikipedia.org/wiki/Great_Pacific_garbage_patch",
+      "parent": "#yxz8w4"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

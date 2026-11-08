@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Telescope",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#hh5rvd",
+      "name": "What it does",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rgu4pt",
+      "name": "Gathers far more light than an eye",
+      "x": -484,
+      "y": -60,
+      "parent": "#hh5rvd"
+    },
+    {
+      "@id": "#a6br5s",
+      "name": "Bigger aperture shows fainter, sharper detail",
+      "x": -401,
+      "y": -163,
+      "parent": "#hh5rvd"
+    },
+    {
+      "@id": "#6wbpy8",
+      "name": "Eyepiece choice sets the magnification",
+      "x": -318,
+      "y": -255,
+      "parent": "#hh5rvd"
+    },
+    {
+      "@id": "#dtdhx9",
+      "name": "Two main designs",
+      "x": -36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3mzprr",
+      "name": "Refractors focus light with lenses",
+      "x": -204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Refracting_telescope",
+      "parent": "#dtdhx9"
+    },
+    {
+      "@id": "#8e9rte",
+      "name": "Reflectors focus light with curved mirrors",
+      "x": -73,
+      "y": -372,
+      "link": "https://en.wikipedia.org/wiki/Reflecting_telescope",
+      "parent": "#dtdhx9"
+    },
+    {
+      "@id": "#ppkshg",
+      "name": "The biggest telescopes all use mirrors",
+      "x": 82,
+      "y": -420,
+      "parent": "#dtdhx9"
+    },
+    {
+      "@id": "#8czbrf",
+      "name": "History",
+      "x": 186,
+      "y": -108,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pr6rh3",
+      "name": "Lippershey sought a patent, 1608",
+      "x": 204,
+      "y": -321,
+      "parent": "#8czbrf"
+    },
+    {
+      "@id": "#te8kg9",
+      "name": "Galileo saw Jupiter's moons, 1610",
+      "x": 318,
+      "y": -255,
+      "parent": "#8czbrf"
+    },
+    {
+      "@id": "#e2wncz",
+      "name": "Newton built a reflector, 1668",
+      "x": 401,
+      "y": -163,
+      "parent": "#8czbrf"
+    },
+    {
+      "@id": "#fejtqp",
+      "name": "Palomar's 5-metre mirror, 1948",
+      "x": 444,
+      "y": -56,
+      "parent": "#8czbrf"
+    },
+    {
+      "@id": "#ziqazq",
+      "name": "Beyond visible light",
+      "x": 205,
+      "y": 84,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zu8i4n",
+      "name": "Radio dishes detect radio waves",
+      "x": 504,
+      "y": 62,
+      "parent": "#ziqazq"
+    },
+    {
+      "@id": "#mzhbb7",
+      "name": "X-ray telescopes must work in space",
+      "x": 401,
+      "y": 163,
+      "parent": "#ziqazq"
+    },
+    {
+      "@id": "#4t92mi",
+      "name": "Linked dishes imaged a black hole, 2019",
+      "x": 318,
+      "y": 255,
+      "parent": "#ziqazq"
+    },
+    {
+      "@id": "#5pdvah",
+      "name": "Telescopes in space",
+      "x": 36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fqdf6q",
+      "name": "Hubble launched 1990, above the atmosphere",
+      "x": 204,
+      "y": 321,
+      "link": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope",
+      "parent": "#5pdvah"
+    },
+    {
+      "@id": "#6qcrsd",
+      "name": "James Webb sees infrared, launched 2021",
+      "x": 73,
+      "y": 372,
+      "link": "https://en.wikipedia.org/wiki/James_Webb_Space_Telescope",
+      "parent": "#5pdvah"
+    },
+    {
+      "@id": "#xi4pet",
+      "name": "No air blur or absorbed wavelengths",
+      "x": -82,
+      "y": 420,
+      "parent": "#5pdvah"
+    },
+    {
+      "@id": "#a2iah2",
+      "name": "Using one yourself",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7cagzy",
+      "name": "Binoculars are a good start",
+      "x": -204,
+      "y": 321,
+      "parent": "#a2iah2"
+    },
+    {
+      "@id": "#psrg48",
+      "name": "Moon, planets and star clusters",
+      "x": -318,
+      "y": 255,
+      "parent": "#a2iah2"
+    },
+    {
+      "@id": "#7pvqfe",
+      "name": "Dark skies away from city lights",
+      "x": -401,
+      "y": 163,
+      "parent": "#a2iah2"
+    },
+    {
+      "@id": "#hhugs5",
+      "name": "Never point at the Sun unfiltered",
+      "x": -444,
+      "y": 56,
+      "parent": "#a2iah2"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

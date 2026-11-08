@@ -1,0 +1,308 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Rock (geology)",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#bb4u7b",
+      "name": "What rock is",
+      "x": -218,
+      "y": -60,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gisdtt",
+      "name": "Solid mix of one or more minerals",
+      "x": -484,
+      "y": -65,
+      "parent": "#bb4u7b"
+    },
+    {
+      "@id": "#4wg88d",
+      "name": "Makes up Earth's crust and mantle",
+      "x": -396,
+      "y": -171,
+      "parent": "#bb4u7b"
+    },
+    {
+      "@id": "#gva4zn",
+      "name": "Igneous rock",
+      "x": -56,
+      "y": -178,
+      "link": "https://en.wikipedia.org/wiki/Igneous_rock",
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9iirbj",
+      "name": "Cools from molten magma or lava",
+      "x": -305,
+      "y": -265,
+      "parent": "#gva4zn"
+    },
+    {
+      "@id": "#zx3vx2",
+      "name": "Granite: slow-cooled, large crystals",
+      "x": -181,
+      "y": -330,
+      "parent": "#gva4zn"
+    },
+    {
+      "@id": "#bvam2w",
+      "name": "Basalt: fast-cooled, fine-grained",
+      "x": -41,
+      "y": -391,
+      "parent": "#gva4zn"
+    },
+    {
+      "@id": "#a4vq7g",
+      "name": "Obsidian: natural volcanic glass",
+      "x": 140,
+      "y": -445,
+      "parent": "#gva4zn"
+    },
+    {
+      "@id": "#afpkdn",
+      "name": "Sedimentary rock",
+      "x": 182,
+      "y": -113,
+      "link": "https://en.wikipedia.org/wiki/Sedimentary_rock",
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#i2q977",
+      "name": "Layers of sediment pressed together",
+      "x": 246,
+      "y": -301,
+      "parent": "#afpkdn"
+    },
+    {
+      "@id": "#c4es6k",
+      "name": "Sandstone, shale and limestone",
+      "x": 355,
+      "y": -221,
+      "parent": "#afpkdn"
+    },
+    {
+      "@id": "#vm8c3p",
+      "name": "Where most fossils are found",
+      "x": 445,
+      "y": -122,
+      "parent": "#afpkdn"
+    },
+    {
+      "@id": "#j6ebxx",
+      "name": "Metamorphic rock",
+      "x": 218,
+      "y": 60,
+      "link": "https://en.wikipedia.org/wiki/Metamorphic_rock",
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j26fxn",
+      "name": "Changed by heat and pressure",
+      "x": 450,
+      "y": 0,
+      "parent": "#j6ebxx"
+    },
+    {
+      "@id": "#xcnt9b",
+      "name": "Limestone becomes marble",
+      "x": 426,
+      "y": 117,
+      "parent": "#j6ebxx"
+    },
+    {
+      "@id": "#5s7g7r",
+      "name": "Shale becomes slate",
+      "x": 355,
+      "y": 221,
+      "parent": "#j6ebxx"
+    },
+    {
+      "@id": "#4n5crn",
+      "name": "The rock cycle",
+      "x": 56,
+      "y": 178,
+      "link": "https://en.wikipedia.org/wiki/Rock_cycle",
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r8fraf",
+      "name": "Weathering breaks rock into sediment",
+      "x": 246,
+      "y": 301,
+      "parent": "#4n5crn"
+    },
+    {
+      "@id": "#8w44t4",
+      "name": "Melting returns rock to magma",
+      "x": 110,
+      "y": 349,
+      "parent": "#4n5crn"
+    },
+    {
+      "@id": "#cz46h8",
+      "name": "Takes millions of years",
+      "x": -43,
+      "y": 407,
+      "parent": "#4n5crn"
+    },
+    {
+      "@id": "#nhq68g",
+      "name": "Rocks we use",
+      "x": -182,
+      "y": 113,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#w26jtf",
+      "name": "Granite and marble for buildings",
+      "x": -253,
+      "y": 465,
+      "parent": "#nhq68g"
+    },
+    {
+      "@id": "#ipvgfe",
+      "name": "Limestone makes cement",
+      "x": -305,
+      "y": 265,
+      "parent": "#nhq68g"
+    },
+    {
+      "@id": "#imvr6n",
+      "name": "Clay and shale for bricks",
+      "x": -396,
+      "y": 171,
+      "parent": "#nhq68g"
+    },
+    {
+      "@id": "#ctnbqx",
+      "name": "Flint for early stone tools",
+      "x": -444,
+      "y": 59,
+      "parent": "#nhq68g"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 4,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,375 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Japan",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#i2h3ps",
+      "name": "Geography",
+      "x": -202,
+      "y": -89,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#whpc7x",
+      "name": "Four main islands, about 14,000 in all",
+      "x": -466,
+      "y": -47,
+      "parent": "#i2h3ps"
+    },
+    {
+      "@id": "#p3auep",
+      "name": "Mount Fuji, highest peak at 3,776 m",
+      "x": -437,
+      "y": -139,
+      "link": "https://en.wikipedia.org/wiki/Mount_Fuji",
+      "parent": "#i2h3ps"
+    },
+    {
+      "@id": "#w42jrt",
+      "name": "Mostly mountainous, with active volcanoes",
+      "x": -364,
+      "y": -212,
+      "parent": "#i2h3ps"
+    },
+    {
+      "@id": "#36e94r",
+      "name": "Frequent earthquakes on the Ring of Fire",
+      "x": -287,
+      "y": -277,
+      "parent": "#i2h3ps"
+    },
+    {
+      "@id": "#dmzwts",
+      "name": "People and languages",
+      "x": -14,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4gz7jk",
+      "name": "About 124 million, ageing and shrinking",
+      "x": -192,
+      "y": -326,
+      "parent": "#dmzwts"
+    },
+    {
+      "@id": "#tu6m7z",
+      "name": "Japanese, written in kanji and kana",
+      "x": -92,
+      "y": -386,
+      "parent": "#dmzwts"
+    },
+    {
+      "@id": "#pu5yub",
+      "name": "Tokyo, the world's largest metropolitan area",
+      "x": 33,
+      "y": -439,
+      "parent": "#dmzwts"
+    },
+    {
+      "@id": "#5h9zu3",
+      "name": "Shinto and Buddhism often practised together",
+      "x": 199,
+      "y": -492,
+      "parent": "#dmzwts"
+    },
+    {
+      "@id": "#ci5pf8",
+      "name": "History in brief",
+      "x": 202,
+      "y": -89,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z5jed7",
+      "name": "Heian court culture, 794 to 1185",
+      "x": 241,
+      "y": -304,
+      "parent": "#ci5pf8"
+    },
+    {
+      "@id": "#mbyr7f",
+      "name": "Samurai and shoguns ruled from 1185",
+      "x": 328,
+      "y": -246,
+      "link": "https://en.wikipedia.org/wiki/Shogun",
+      "parent": "#ci5pf8"
+    },
+    {
+      "@id": "#qjd6yz",
+      "name": "Edo period isolation, 1603 to 1868",
+      "x": 394,
+      "y": -173,
+      "parent": "#ci5pf8"
+    },
+    {
+      "@id": "#r338c9",
+      "name": "Meiji Restoration modernised Japan, 1868",
+      "x": 531,
+      "y": -110,
+      "link": "https://en.wikipedia.org/wiki/Meiji_Restoration",
+      "parent": "#ci5pf8"
+    },
+    {
+      "@id": "#xin778",
+      "name": "Defeat in World War II, 1945",
+      "x": 450,
+      "y": 0,
+      "parent": "#ci5pf8"
+    },
+    {
+      "@id": "#iar47u",
+      "name": "Government",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hdrzix",
+      "name": "Constitutional monarchy with a symbolic emperor",
+      "x": 493,
+      "y": 102,
+      "parent": "#iar47u"
+    },
+    {
+      "@id": "#hm96qn",
+      "name": "Parliament called the National Diet",
+      "x": 394,
+      "y": 173,
+      "parent": "#iar47u"
+    },
+    {
+      "@id": "#z2ndcj",
+      "name": "Postwar constitution renounces war",
+      "x": 328,
+      "y": 246,
+      "parent": "#iar47u"
+    },
+    {
+      "@id": "#zefvsk",
+      "name": "47 prefectures",
+      "x": 241,
+      "y": 304,
+      "parent": "#iar47u"
+    },
+    {
+      "@id": "#bs2n5a",
+      "name": "Economy",
+      "x": -14,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v65ag6",
+      "name": "One of the world's largest economies",
+      "x": 145,
+      "y": 357,
+      "parent": "#bs2n5a"
+    },
+    {
+      "@id": "#hwxigd",
+      "name": "Cars and electronics: Toyota, Sony",
+      "x": 31,
+      "y": 407,
+      "parent": "#bs2n5a"
+    },
+    {
+      "@id": "#b22fwj",
+      "name": "Shinkansen bullet trains since 1964",
+      "x": -112,
+      "y": 466,
+      "link": "https://en.wikipedia.org/wiki/Shinkansen",
+      "parent": "#bs2n5a"
+    },
+    {
+      "@id": "#jc2q2b",
+      "name": "Robotics and precision manufacturing",
+      "x": -318,
+      "y": 522,
+      "parent": "#bs2n5a"
+    },
+    {
+      "@id": "#rcrh3z",
+      "name": "Culture and known for",
+      "x": -202,
+      "y": 89,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8q9wbv",
+      "name": "Anime, manga and video games",
+      "x": -287,
+      "y": 277,
+      "parent": "#rcrh3z"
+    },
+    {
+      "@id": "#3cens4",
+      "name": "Sushi, ramen and washoku cuisine",
+      "x": -364,
+      "y": 212,
+      "parent": "#rcrh3z"
+    },
+    {
+      "@id": "#t39kan",
+      "name": "Kyoto's temples and shrines",
+      "x": -437,
+      "y": 139,
+      "link": "https://en.wikipedia.org/wiki/Kyoto",
+      "parent": "#rcrh3z"
+    },
+    {
+      "@id": "#udrgs9",
+      "name": "Cherry blossom viewing (hanami)",
+      "x": -506,
+      "y": 51,
+      "parent": "#rcrh3z"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 11,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    },
+    {
+      "start": 0,
+      "end": 27
+    },
+    {
+      "start": 27,
+      "end": 28
+    },
+    {
+      "start": 27,
+      "end": 29
+    },
+    {
+      "start": 27,
+      "end": 30
+    },
+    {
+      "start": 27,
+      "end": 31
+    }
+  ],
+  "selectedNode": 0
+}

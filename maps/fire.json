@@ -1,0 +1,352 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Fire",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#rcv2bn",
+      "name": "What fire is",
+      "x": -211,
+      "y": -73,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fhca7s",
+      "name": "Fast combustion releasing heat and light",
+      "x": -506,
+      "y": -55,
+      "parent": "#rcv2bn"
+    },
+    {
+      "@id": "#wtdrsu",
+      "name": "Flames are glowing hot gases",
+      "x": -413,
+      "y": -143,
+      "parent": "#rcv2bn"
+    },
+    {
+      "@id": "#8vdhhn",
+      "name": "Smoke is unburnt particles and gases",
+      "x": -349,
+      "y": -227,
+      "parent": "#rcv2bn"
+    },
+    {
+      "@id": "#8vfwtv",
+      "name": "The fire triangle",
+      "x": -47,
+      "y": -180,
+      "link": "https://en.wikipedia.org/wiki/Fire_triangle",
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p8hica",
+      "name": "Fuel: wood, paper, gas, oil",
+      "x": -260,
+      "y": -294,
+      "parent": "#8vfwtv"
+    },
+    {
+      "@id": "#abtsx8",
+      "name": "Heat to reach ignition temperature",
+      "x": -158,
+      "y": -354,
+      "parent": "#8vfwtv"
+    },
+    {
+      "@id": "#qgpc5y",
+      "name": "Oxygen from the air",
+      "x": -34,
+      "y": -407,
+      "parent": "#8vfwtv"
+    },
+    {
+      "@id": "#ta99k2",
+      "name": "Remove one side and it goes out",
+      "x": 120,
+      "y": -464,
+      "parent": "#8vfwtv"
+    },
+    {
+      "@id": "#v8fqae",
+      "name": "How fire spreads",
+      "x": 178,
+      "y": -116,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u2xni4",
+      "name": "Conduction through solid materials",
+      "x": 207,
+      "y": -320,
+      "parent": "#v8fqae"
+    },
+    {
+      "@id": "#8hztrc",
+      "name": "Convection carries hot gases upward",
+      "x": 307,
+      "y": -263,
+      "parent": "#v8fqae"
+    },
+    {
+      "@id": "#w7jwvm",
+      "name": "Radiation heats nearby objects",
+      "x": 384,
+      "y": -187,
+      "parent": "#v8fqae"
+    },
+    {
+      "@id": "#bhkms5",
+      "name": "Flashover can ignite a whole room",
+      "x": 452,
+      "y": -101,
+      "parent": "#v8fqae"
+    },
+    {
+      "@id": "#nztt83",
+      "name": "Fire and people",
+      "x": 211,
+      "y": 73,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#irs257",
+      "name": "Early humans learned to control it",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans",
+      "parent": "#nztt83"
+    },
+    {
+      "@id": "#mk73sk",
+      "name": "Cooking, warmth and protection",
+      "x": 471,
+      "y": 105,
+      "parent": "#nztt83"
+    },
+    {
+      "@id": "#f5rhig",
+      "name": "Smelting metal and firing pottery",
+      "x": 384,
+      "y": 187,
+      "parent": "#nztt83"
+    },
+    {
+      "@id": "#ghb8aj",
+      "name": "Wildfires shape many ecosystems",
+      "x": 307,
+      "y": 263,
+      "link": "https://en.wikipedia.org/wiki/Wildfire",
+      "parent": "#nztt83"
+    },
+    {
+      "@id": "#fsnark",
+      "name": "Putting fires out",
+      "x": 16,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tk4gg4",
+      "name": "Water cools burning solids",
+      "x": 207,
+      "y": 320,
+      "parent": "#fsnark"
+    },
+    {
+      "@id": "#6yz3bz",
+      "name": "Never water on oil or electrical fires",
+      "x": 96,
+      "y": 368,
+      "parent": "#fsnark"
+    },
+    {
+      "@id": "#iv9ng6",
+      "name": "Fire blankets smother small pan fires",
+      "x": -35,
+      "y": 423,
+      "parent": "#fsnark"
+    },
+    {
+      "@id": "#w3x6bn",
+      "name": "Extinguishers are rated by fire class",
+      "x": -214,
+      "y": 474,
+      "link": "https://en.wikipedia.org/wiki/Fire_extinguisher",
+      "parent": "#fsnark"
+    },
+    {
+      "@id": "#hcjhzv",
+      "name": "Staying safe",
+      "x": -197,
+      "y": 96,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5jmar4",
+      "name": "Fit smoke alarms and test monthly",
+      "x": -260,
+      "y": 294,
+      "parent": "#hcjhzv"
+    },
+    {
+      "@id": "#58ajv5",
+      "name": "Get out, stay out, call for help",
+      "x": -349,
+      "y": 227,
+      "parent": "#hcjhzv"
+    },
+    {
+      "@id": "#xce69g",
+      "name": "Smoke, not flames, causes most deaths",
+      "x": -431,
+      "y": 149,
+      "parent": "#hcjhzv"
+    },
+    {
+      "@id": "#4cfe5w",
+      "name": "Stop, drop and roll if clothes catch",
+      "x": -466,
+      "y": 51,
+      "parent": "#hcjhzv"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    },
+    {
+      "start": 25,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,31 @@
+category: Technology
+aliases: microscopes, how a microscope works, optical microscope, light microscope
+- Microscope
+  - How a light microscope works
+    - Light shines up through the sample
+    - Objective lens makes a magnified image
+    - Eyepiece magnifies it again
+    - Up to about 1,000× magnification
+  - Parts
+    - Stage and clips hold the slide
+    - Coarse and fine focus knobs
+    - Objectives on a rotating nosepiece
+  - History
+    - Compound microscopes appear in Netherlands, ~1600
+    - [Hooke's Micrographia named cells, 1665](https://en.wikipedia.org/wiki/Micrographia)
+    - [Leeuwenhoek first saw bacteria, 1670s](https://en.wikipedia.org/wiki/Antonie_van_Leeuwenhoek)
+    - First electron microscope built in 1931
+  - Types
+    - [Electron microscopes use beams of electrons](https://en.wikipedia.org/wiki/Electron_microscope)
+    - Scanning electron microscopes show surfaces
+    - Fluorescence microscopes light up tagged molecules
+    - Scanning probe microscopes can image atoms
+  - Limits
+    - Light can't resolve below about 200 nm
+    - Electrons reveal details under a nanometre
+    - Samples stained to add contrast
+  - What it revealed
+    - Cells are the basic unit of life
+    - Germs cause disease
+    - Doctors diagnose cancer from tissue samples
+    - Checking materials and microchips for flaws

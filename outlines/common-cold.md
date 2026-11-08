@@ -1,0 +1,30 @@
+category: Health
+aliases: head cold, cold symptoms, cold remedies, catching a cold
+- Common cold
+  - What it is
+    - Viral infection of nose and throat
+    - [Rhinoviruses cause most colds](https://en.wikipedia.org/wiki/Rhinovirus)
+    - Over 200 viruses can cause it
+    - Adults catch two to three yearly
+  - How it spreads
+    - Droplets from coughs and sneezes
+    - Touching contaminated hands or surfaces
+    - Most contagious in the first days
+  - Symptoms
+    - Runny or blocked nose
+    - Sore throat and sneezing
+    - Cough, tiredness, sometimes mild fever
+    - Usually clears in 7 to 10 days
+  - Easing symptoms
+    - No cure; antibiotics don't help
+    - Rest, fluids and warm drinks
+    - Paracetamol or ibuprofen for aches
+    - Honey eases coughs, not for babies
+  - When to seek help
+    - Symptoms lasting over three weeks
+    - High fever or breathing difficulty
+    - Babies and people with long-term conditions
+  - Prevention
+    - [Wash hands often](https://en.wikipedia.org/wiki/Hand_washing)
+    - Catch sneezes in a tissue
+    - No vaccine: too many viruses

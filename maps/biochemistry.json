@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Biochemistry",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#kdybgd",
+      "name": "Chemistry inside living things",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kzfjqw",
+      "name": "Studies molecules and reactions in cells",
+      "x": -584,
+      "y": -70,
+      "parent": "#kdybgd"
+    },
+    {
+      "@id": "#wv5yyw",
+      "name": "Bridges chemistry, biology and medicine",
+      "x": -401,
+      "y": -163,
+      "parent": "#kdybgd"
+    },
+    {
+      "@id": "#s4dknb",
+      "name": "Four big families of molecules",
+      "x": -89,
+      "y": -220,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7557qp",
+      "name": "Proteins do most of the cell's work",
+      "x": -346,
+      "y": -277,
+      "parent": "#s4dknb"
+    },
+    {
+      "@id": "#5kbfi8",
+      "name": "Carbohydrates store and supply energy",
+      "x": -213,
+      "y": -335,
+      "parent": "#s4dknb"
+    },
+    {
+      "@id": "#jbyejf",
+      "name": "Lipids form membranes and store fat",
+      "x": -76,
+      "y": -388,
+      "parent": "#s4dknb"
+    },
+    {
+      "@id": "#kzta27",
+      "name": "Nucleic acids carry genetic information",
+      "x": 85,
+      "y": -436,
+      "parent": "#s4dknb"
+    },
+    {
+      "@id": "#2fc42e",
+      "name": "Enzymes speed up reactions",
+      "x": 163,
+      "y": -130,
+      "link": "https://en.wikipedia.org/wiki/Enzyme",
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j4xrrq",
+      "name": "Proteins that act as catalysts",
+      "x": 204,
+      "y": -321,
+      "parent": "#2fc42e"
+    },
+    {
+      "@id": "#4t5jpm",
+      "name": "Substrates fit the active site",
+      "x": 318,
+      "y": -255,
+      "parent": "#2fc42e"
+    },
+    {
+      "@id": "#8n9cyf",
+      "name": "Heat and pH change their activity",
+      "x": 455,
+      "y": -184,
+      "parent": "#2fc42e"
+    },
+    {
+      "@id": "#w8fdev",
+      "name": "Metabolism turns food into energy",
+      "x": 219,
+      "y": 57,
+      "link": "https://en.wikipedia.org/wiki/Metabolism",
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cubtt2",
+      "name": "Breaking molecules down releases energy",
+      "x": 444,
+      "y": -56,
+      "parent": "#w8fdev"
+    },
+    {
+      "@id": "#pcvaz4",
+      "name": "ATP is the cell's energy currency",
+      "x": 584,
+      "y": 70,
+      "link": "https://en.wikipedia.org/wiki/Adenosine_triphosphate",
+      "parent": "#w8fdev"
+    },
+    {
+      "@id": "#9fzr6m",
+      "name": "Cellular respiration uses glucose and oxygen",
+      "x": 401,
+      "y": 163,
+      "parent": "#w8fdev"
+    },
+    {
+      "@id": "#eabfcg",
+      "name": "Photosynthesis builds sugar using light",
+      "x": 318,
+      "y": 255,
+      "parent": "#w8fdev"
+    },
+    {
+      "@id": "#x9j3i6",
+      "name": "Information and signals",
+      "x": 36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ckcsdr",
+      "name": "DNA is copied into RNA",
+      "x": 204,
+      "y": 321,
+      "parent": "#x9j3i6"
+    },
+    {
+      "@id": "#egmzvb",
+      "name": "RNA is translated into protein",
+      "x": 73,
+      "y": 372,
+      "parent": "#x9j3i6"
+    },
+    {
+      "@id": "#htgs7f",
+      "name": "Hormones carry signals between cells",
+      "x": -82,
+      "y": 420,
+      "parent": "#x9j3i6"
+    },
+    {
+      "@id": "#h3ujgf",
+      "name": "Uses and history",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hrd6b6",
+      "name": "Blood tests diagnose disease",
+      "x": -204,
+      "y": 321,
+      "parent": "#h3ujgf"
+    },
+    {
+      "@id": "#9dkhg2",
+      "name": "Drugs designed to target enzymes, receptors",
+      "x": -318,
+      "y": 255,
+      "parent": "#h3ujgf"
+    },
+    {
+      "@id": "#6ti2gr",
+      "name": "Engineered bacteria make human insulin",
+      "x": -401,
+      "y": 163,
+      "parent": "#h3ujgf"
+    },
+    {
+      "@id": "#d8suve",
+      "name": "Buchner: cell-free fermentation, 1897",
+      "x": -444,
+      "y": 56,
+      "link": "https://en.wikipedia.org/wiki/Eduard_Buchner",
+      "parent": "#h3ujgf"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 4,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

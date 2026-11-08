@@ -1,0 +1,308 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Caspian Sea",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#m3fhjb",
+      "name": "Lake or sea",
+      "x": -182,
+      "y": -113,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3z9srr",
+      "name": "Largest inland body of water on Earth",
+      "x": -444,
+      "y": -59,
+      "parent": "#m3fhjb"
+    },
+    {
+      "@id": "#uf6fa7",
+      "name": "About 371,000 km²",
+      "x": -396,
+      "y": -171,
+      "parent": "#m3fhjb"
+    },
+    {
+      "@id": "#jbefr9",
+      "name": "Landlocked, with no outlet to the ocean",
+      "x": -305,
+      "y": -265,
+      "parent": "#m3fhjb"
+    },
+    {
+      "@id": "#wx7ypx",
+      "name": "About a third as salty as seawater",
+      "x": -181,
+      "y": -330,
+      "parent": "#m3fhjb"
+    },
+    {
+      "@id": "#amapat",
+      "name": "Five shores",
+      "x": 56,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kyshe5",
+      "name": "Russia and Azerbaijan to the west",
+      "x": -41,
+      "y": -391,
+      "parent": "#amapat"
+    },
+    {
+      "@id": "#vwk2wh",
+      "name": "Kazakhstan and Turkmenistan to the east",
+      "x": 140,
+      "y": -445,
+      "parent": "#amapat"
+    },
+    {
+      "@id": "#rvx4mu",
+      "name": "Iran to the south",
+      "x": 246,
+      "y": -301,
+      "parent": "#amapat"
+    },
+    {
+      "@id": "#kwi8uj",
+      "name": "Shape and water",
+      "x": 227,
+      "y": -30,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fpd3v5",
+      "name": "Surface about 28 m below sea level",
+      "x": 355,
+      "y": -221,
+      "parent": "#kwi8uj"
+    },
+    {
+      "@id": "#ptfndb",
+      "name": "Shallow north, deep south over 1,000 m",
+      "x": 426,
+      "y": -117,
+      "parent": "#kwi8uj"
+    },
+    {
+      "@id": "#re824f",
+      "name": "Volga River supplies most inflow",
+      "x": 510,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Volga",
+      "parent": "#kwi8uj"
+    },
+    {
+      "@id": "#dqumsv",
+      "name": "Kara-Bogaz-Gol lagoon evaporates salt",
+      "x": 426,
+      "y": 117,
+      "link": "https://en.wikipedia.org/wiki/Garabogazk%C3%B6l",
+      "parent": "#kwi8uj"
+    },
+    {
+      "@id": "#kuay3w",
+      "name": "Oil and gas",
+      "x": 92,
+      "y": 169,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#688stq",
+      "name": "Baku oil boom began in the 1870s",
+      "x": 355,
+      "y": 221,
+      "link": "https://en.wikipedia.org/wiki/Baku_oil_fields",
+      "parent": "#kuay3w"
+    },
+    {
+      "@id": "#qqu33m",
+      "name": "Kashagan, a giant offshore field",
+      "x": 246,
+      "y": 301,
+      "parent": "#kuay3w"
+    },
+    {
+      "@id": "#c5evpm",
+      "name": "Pipelines carry oil to Turkey and Russia",
+      "x": 110,
+      "y": 349,
+      "parent": "#kuay3w"
+    },
+    {
+      "@id": "#7hjzia",
+      "name": "2018 convention settled its legal status",
+      "x": -43,
+      "y": 407,
+      "parent": "#kuay3w"
+    },
+    {
+      "@id": "#d44tjv",
+      "name": "Wildlife",
+      "x": -126,
+      "y": 154,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6unrm3",
+      "name": "Sturgeon prized for caviar, now endangered",
+      "x": -253,
+      "y": 465,
+      "link": "https://en.wikipedia.org/wiki/Beluga_%28sturgeon%29",
+      "parent": "#d44tjv"
+    },
+    {
+      "@id": "#gycjhx",
+      "name": "Caspian seal found nowhere else",
+      "x": -305,
+      "y": 265,
+      "parent": "#d44tjv"
+    },
+    {
+      "@id": "#uh3s7m",
+      "name": "Pressures",
+      "x": -218,
+      "y": 60,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g9zwp4",
+      "name": "Water level falling in recent years",
+      "x": -396,
+      "y": 171,
+      "parent": "#uh3s7m"
+    },
+    {
+      "@id": "#974umy",
+      "name": "Oil pollution and overfishing",
+      "x": -444,
+      "y": 59,
+      "parent": "#uh3s7m"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

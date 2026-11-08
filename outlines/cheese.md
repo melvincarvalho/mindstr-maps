@@ -1,0 +1,31 @@
+category: Life and home
+aliases: types of cheese, cheesemaking, how cheese is made
+- Cheese
+  - What cheese is
+    - Concentrated milk protein and fat
+    - From cow, goat, sheep or buffalo milk
+    - Keeps far longer than fresh milk
+  - How it is made
+    - Bacteria sour the milk
+    - [Rennet curdles milk into curds](https://en.wikipedia.org/wiki/Rennet)
+    - Curds separated from liquid whey
+    - Curds salted and pressed into moulds
+    - Aged for weeks to years
+  - Main kinds
+    - Fresh like mozzarella and ricotta
+    - Soft-ripened like brie and camembert
+    - Hard like cheddar and parmesan
+    - [Blue cheeses with Penicillium moulds](https://en.wikipedia.org/wiki/Blue_cheese)
+  - Famous cheeses
+    - [Parmigiano Reggiano, aged at least 12 months](https://en.wikipedia.org/wiki/Parmigiano_Reggiano)
+    - Cheddar, from Somerset, England
+    - Roquefort, aged in French caves
+    - Gouda from the Netherlands
+  - History
+    - Made for over 7,000 years
+    - Monasteries refined many recipes
+    - [Protected names like Feta and Roquefort](https://en.wikipedia.org/wiki/Protected_designation_of_origin)
+  - Eating and storing
+    - Good source of protein and calcium
+    - High in saturated fat and salt
+    - Wrap and keep in the fridge

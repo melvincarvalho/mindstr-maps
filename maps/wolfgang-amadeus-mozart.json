@@ -1,0 +1,342 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Wolfgang Amadeus Mozart",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#awez2v",
+      "name": "Austrian composer, 1756–1791",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#czn6ik",
+      "name": "Born in Salzburg",
+      "x": -465,
+      "y": -53,
+      "parent": "#awez2v"
+    },
+    {
+      "@id": "#p4yts8",
+      "name": "Classical era, alongside Haydn",
+      "x": -409,
+      "y": -150,
+      "parent": "#awez2v"
+    },
+    {
+      "@id": "#kbrbv8",
+      "name": "Died in Vienna aged 35",
+      "x": -340,
+      "y": -236,
+      "parent": "#awez2v"
+    },
+    {
+      "@id": "#gi4bnd",
+      "name": "Child prodigy",
+      "x": -65,
+      "y": -177,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ajprrs",
+      "name": "Composing from about age five",
+      "x": -243,
+      "y": -303,
+      "parent": "#gi4bnd"
+    },
+    {
+      "@id": "#9ysbnp",
+      "name": "Taught by his father Leopold",
+      "x": -133,
+      "y": -360,
+      "parent": "#gi4bnd"
+    },
+    {
+      "@id": "#2xrnpv",
+      "name": "Toured Europe's courts with sister Nannerl",
+      "x": 0,
+      "y": -408,
+      "parent": "#gi4bnd"
+    },
+    {
+      "@id": "#9g5u8z",
+      "name": "Salzburg to Vienna",
+      "x": 151,
+      "y": -139,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#txk4es",
+      "name": "Court musician for Salzburg's archbishop",
+      "x": 175,
+      "y": -465,
+      "parent": "#9g5u8z"
+    },
+    {
+      "@id": "#cjg4ak",
+      "name": "Broke away to Vienna in 1781",
+      "x": 243,
+      "y": -303,
+      "parent": "#9g5u8z"
+    },
+    {
+      "@id": "#rjrqbv",
+      "name": "Freelance as pianist, teacher, composer",
+      "x": 340,
+      "y": -236,
+      "parent": "#9g5u8z"
+    },
+    {
+      "@id": "#mu39x5",
+      "name": "Married Constanze Weber, 1782",
+      "x": 427,
+      "y": -157,
+      "parent": "#9g5u8z"
+    },
+    {
+      "@id": "#prtsic",
+      "name": "Great operas",
+      "x": 221,
+      "y": 52,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hd7akd",
+      "name": "The Marriage of Figaro, 1786",
+      "x": 445,
+      "y": -51,
+      "link": "https://en.wikipedia.org/wiki/The_Marriage_of_Figaro",
+      "parent": "#prtsic"
+    },
+    {
+      "@id": "#6mb2ah",
+      "name": "Don Giovanni, 1787",
+      "x": 445,
+      "y": 51,
+      "parent": "#prtsic"
+    },
+    {
+      "@id": "#dx5gbp",
+      "name": "Così fan tutte, 1790",
+      "x": 409,
+      "y": 150,
+      "parent": "#prtsic"
+    },
+    {
+      "@id": "#4fprdg",
+      "name": "The Magic Flute, 1791",
+      "x": 340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/The_Magic_Flute",
+      "parent": "#prtsic"
+    },
+    {
+      "@id": "#ukrdnj",
+      "name": "Instrumental music",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#45w4cx",
+      "name": "41 numbered symphonies; last is Jupiter",
+      "x": 243,
+      "y": 303,
+      "parent": "#ukrdnj"
+    },
+    {
+      "@id": "#yr5wtc",
+      "name": "27 piano concertos",
+      "x": 133,
+      "y": 360,
+      "parent": "#ukrdnj"
+    },
+    {
+      "@id": "#vbdbfn",
+      "name": "Eine kleine Nachtmusik serenade",
+      "x": 0,
+      "y": 408,
+      "parent": "#ukrdnj"
+    },
+    {
+      "@id": "#6fpxnd",
+      "name": "Chamber music and piano sonatas",
+      "x": -175,
+      "y": 465,
+      "parent": "#ukrdnj"
+    },
+    {
+      "@id": "#ta47vx",
+      "name": "Final year and legacy",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9jafbg",
+      "name": "Requiem left unfinished at death",
+      "x": -243,
+      "y": 303,
+      "link": "https://en.wikipedia.org/wiki/Requiem_%28Mozart%29",
+      "parent": "#ta47vx"
+    },
+    {
+      "@id": "#nkhj59",
+      "name": "Over 600 works in about 35 years",
+      "x": -340,
+      "y": 236,
+      "parent": "#ta47vx"
+    },
+    {
+      "@id": "#uiyk3a",
+      "name": "Works numbered in the Köchel catalogue",
+      "x": -409,
+      "y": 150,
+      "link": "https://en.wikipedia.org/wiki/K%C3%B6chel_catalogue",
+      "parent": "#ta47vx"
+    },
+    {
+      "@id": "#7vkx2e",
+      "name": "Salieri rivalry myth: the film Amadeus",
+      "x": -445,
+      "y": 51,
+      "link": "https://en.wikipedia.org/wiki/Amadeus_%28film%29",
+      "parent": "#ta47vx"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,30 @@
+category: Science
+aliases: asteroids, asteroid belt, minor planet, near earth asteroid
+- Asteroid
+  - What they are
+    - Rocky or metallic leftovers of planet formation
+    - From metres to hundreds of km across
+    - Over a million known
+    - [Comets are icier; meteoroids are smaller](https://en.wikipedia.org/wiki/Meteoroid)
+  - Where they are
+    - [Main belt between Mars and Jupiter](https://en.wikipedia.org/wiki/Asteroid_belt)
+    - Trojans share Jupiter's orbit
+    - Near-Earth asteroids cross our path
+  - Famous examples
+    - Ceres, largest, now a dwarf planet
+    - Vesta, brightest seen from Earth
+    - Bennu and Ryugu, sampled by spacecraft
+  - Types
+    - Carbon-rich C-types are most common
+    - Stony S-types
+    - Metallic M-types, like Psyche
+  - Impacts on Earth
+    - [Dinosaur-ending impact, 66 million years ago](https://en.wikipedia.org/wiki/Chicxulub_crater)
+    - Tunguska blast flattened forest, 1908
+    - Chelyabinsk meteor injured many, 2013
+    - Small meteorites land every day
+  - Exploration and defence
+    - Dawn orbited Vesta and Ceres
+    - Hayabusa2 and OSIRIS-REx returned samples
+    - [DART shifted an asteroid's orbit, 2022](https://en.wikipedia.org/wiki/Double_Asteroid_Redirection_Test)
+    - Surveys track potentially hazardous objects

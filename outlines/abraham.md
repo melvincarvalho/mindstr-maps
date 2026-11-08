@@ -1,0 +1,29 @@
+category: Philosophy and religion
+aliases: ibrahim, prophet abraham, abraham the patriarch, abraham in the bible
+- Abraham
+  - His story in Genesis
+    - Called by God to leave Ur
+    - Settled in Canaan with wife Sarah
+    - [God's covenant promises land and descendants](https://en.wikipedia.org/wiki/Covenant_%28biblical%29)
+    - Sons Ishmael with Hagar, Isaac with Sarah
+    - [Binding of Isaac tests his faith](https://en.wikipedia.org/wiki/Binding_of_Isaac)
+  - In Judaism
+    - First patriarch of the Jewish people
+    - Circumcision marks the covenant
+    - Buried at the Cave of the Patriarchs
+  - In Christianity
+    - Model of faith in Paul's letters
+    - Spiritual father of all believers
+    - Isaac's binding seen as foreshadowing Jesus
+  - In Islam
+    - [Ibrahim, a prophet and friend of God](https://en.wikipedia.org/wiki/Abraham_in_Islam)
+    - Built the Kaaba with Ishmael
+    - Hajj and Eid al-Adha recall his sacrifice
+    - Upright monotheist before Judaism or Christianity
+  - Historical questions
+    - Traditionally placed about 2000–1500 BCE
+    - No archaeological evidence of him found
+    - Scholars see the stories as later traditions
+  - Legacy
+    - [Judaism, Christianity, Islam called Abrahamic religions](https://en.wikipedia.org/wiki/Abrahamic_religions)
+    - Over half the world claims his heritage

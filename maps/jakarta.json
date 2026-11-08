@@ -1,0 +1,363 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Jakarta",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#th5rcw",
+      "name": "Setting",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#52n4gq",
+      "name": "Indonesia's largest city, northwest Java",
+      "x": -466,
+      "y": -49,
+      "parent": "#th5rcw"
+    },
+    {
+      "@id": "#w2e288",
+      "name": "On the Java Sea coast",
+      "x": -416,
+      "y": -138,
+      "parent": "#th5rcw"
+    },
+    {
+      "@id": "#n5pen5",
+      "name": "City 11 million; metro over 30 million",
+      "x": -357,
+      "y": -219,
+      "parent": "#th5rcw"
+    },
+    {
+      "@id": "#yhxmx5",
+      "name": "Parts sinking several centimetres a year",
+      "x": -274,
+      "y": -286,
+      "parent": "#th5rcw"
+    },
+    {
+      "@id": "#cvpuw9",
+      "name": "History",
+      "x": 30,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c6juzv",
+      "name": "Port of Sunda Kelapa",
+      "x": -180,
+      "y": -348,
+      "parent": "#cvpuw9"
+    },
+    {
+      "@id": "#vc2aup",
+      "name": "Renamed Jayakarta in 1527",
+      "x": -68,
+      "y": -405,
+      "parent": "#cvpuw9"
+    },
+    {
+      "@id": "#w8z67f",
+      "name": "Dutch founded Batavia here in 1619",
+      "x": 77,
+      "y": -453,
+      "link": "https://en.wikipedia.org/wiki/Batavia,_Dutch_East_Indies",
+      "parent": "#cvpuw9"
+    },
+    {
+      "@id": "#sgp9ya",
+      "name": "Independence proclaimed here, 1945",
+      "x": 172,
+      "y": -333,
+      "link": "https://en.wikipedia.org/wiki/Proclamation_of_Indonesian_Independence",
+      "parent": "#cvpuw9"
+    },
+    {
+      "@id": "#7qhecb",
+      "name": "Capital moving to Nusantara in Borneo",
+      "x": 370,
+      "y": -390,
+      "parent": "#cvpuw9"
+    },
+    {
+      "@id": "#zhwn39",
+      "name": "People",
+      "x": 212,
+      "y": -70,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jqsn52",
+      "name": "Betawi, the native Jakartans",
+      "x": 357,
+      "y": -219,
+      "link": "https://en.wikipedia.org/wiki/Betawi_people",
+      "parent": "#zhwn39"
+    },
+    {
+      "@id": "#nchn8r",
+      "name": "Migrants from across the archipelago",
+      "x": 416,
+      "y": -138,
+      "parent": "#zhwn39"
+    },
+    {
+      "@id": "#embksc",
+      "name": "Mostly Muslim, with Christian minorities",
+      "x": 486,
+      "y": -51,
+      "parent": "#zhwn39"
+    },
+    {
+      "@id": "#k9kvhd",
+      "name": "Economy",
+      "x": 199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r2pcsk",
+      "name": "Indonesia's business and finance hub",
+      "x": 446,
+      "y": 47,
+      "parent": "#k9kvhd"
+    },
+    {
+      "@id": "#anm2vw",
+      "name": "Indonesia Stock Exchange",
+      "x": 416,
+      "y": 138,
+      "parent": "#k9kvhd"
+    },
+    {
+      "@id": "#3bgvut",
+      "name": "First MRT line opened 2019",
+      "x": 357,
+      "y": 219,
+      "parent": "#k9kvhd"
+    },
+    {
+      "@id": "#j6ipcv",
+      "name": "Heavy traffic and air pollution",
+      "x": 274,
+      "y": 286,
+      "parent": "#k9kvhd"
+    },
+    {
+      "@id": "#5kmn5y",
+      "name": "Landmarks",
+      "x": -30,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2kzp3d",
+      "name": "Monas, the National Monument",
+      "x": 180,
+      "y": 348,
+      "link": "https://en.wikipedia.org/wiki/National_Monument_%28Indonesia%29",
+      "parent": "#5kmn5y"
+    },
+    {
+      "@id": "#c3krb5",
+      "name": "Istiqlal Mosque, Southeast Asia's largest",
+      "x": 68,
+      "y": 405,
+      "parent": "#5kmn5y"
+    },
+    {
+      "@id": "#5ij5ee",
+      "name": "Jakarta Cathedral facing the mosque",
+      "x": -77,
+      "y": 453,
+      "parent": "#5kmn5y"
+    },
+    {
+      "@id": "#c7qguc",
+      "name": "Kota Tua, the Dutch old town",
+      "x": -172,
+      "y": 333,
+      "parent": "#5kmn5y"
+    },
+    {
+      "@id": "#fafd24",
+      "name": "Thousand Islands offshore",
+      "x": -370,
+      "y": 390,
+      "parent": "#5kmn5y"
+    },
+    {
+      "@id": "#nah33v",
+      "name": "Culture",
+      "x": -212,
+      "y": 70,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nsxqbi",
+      "name": "Ondel-ondel giant puppets",
+      "x": -357,
+      "y": 219,
+      "parent": "#nah33v"
+    },
+    {
+      "@id": "#2dyfky",
+      "name": "Kerak telor and Betawi food",
+      "x": -416,
+      "y": 138,
+      "parent": "#nah33v"
+    },
+    {
+      "@id": "#grd9jt",
+      "name": "Jakarta Fair each June–July",
+      "x": -446,
+      "y": 47,
+      "parent": "#nah33v"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 6,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    },
+    {
+      "start": 21,
+      "end": 26
+    },
+    {
+      "start": 0,
+      "end": 27
+    },
+    {
+      "start": 27,
+      "end": 28
+    },
+    {
+      "start": 27,
+      "end": 29
+    },
+    {
+      "start": 27,
+      "end": 30
+    }
+  ],
+  "selectedNode": 0
+}

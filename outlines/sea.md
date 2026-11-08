@@ -1,0 +1,30 @@
+category: Geography
+aliases: the sea, seas of the world, sea vs ocean
+- Sea
+  - What counts as a sea
+    - Salt water smaller than an ocean
+    - Usually partly enclosed by land
+    - [Marginal seas like the Caribbean](https://en.wikipedia.org/wiki/Marginal_sea)
+    - Inland seas like the Black Sea
+  - Seawater
+    - About 3.5% salt, mostly sodium chloride
+    - Rivers carry minerals from eroded rock
+    - Colder, saltier water is denser
+  - How the sea moves
+    - Wind drives waves across the surface
+    - [Moon and Sun pull the tides](https://en.wikipedia.org/wiki/Tide)
+    - Currents carry heat around the globe
+  - Life in the sea
+    - Plankton form the base of food webs
+    - [Coral reefs shelter a quarter of species](https://en.wikipedia.org/wiki/Coral_reef)
+    - Shallow continental shelves are richest in fish
+  - People and the sea
+    - Most world trade travels by ship
+    - Fishing feeds billions of people
+    - [Territorial waters extend 12 nautical miles](https://en.wikipedia.org/wiki/Territorial_waters)
+    - Economic zones reach 200 nautical miles
+  - Pressures
+    - Overfishing empties fish stocks
+    - Plastic and runoff pollute coasts
+    - [Absorbed CO₂ makes water more acidic](https://en.wikipedia.org/wiki/Ocean_acidification)
+    - Warming raises sea levels

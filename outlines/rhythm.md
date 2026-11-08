@@ -1,0 +1,32 @@
+category: Arts and culture
+aliases: musical rhythm, rhythm and metre, rhythm in music
+- Rhythm
+  - The basics
+    - [Beat: the steady pulse](https://en.wikipedia.org/wiki/Beat_%28music%29)
+    - [Tempo: speed in beats per minute](https://en.wikipedia.org/wiki/Tempo)
+    - Note lengths: whole, half, quarter, eighth
+    - Rests are timed silences
+  - Metre
+    - [Time signature counts beats per bar](https://en.wikipedia.org/wiki/Time_signature)
+    - 4/4: most common in pop
+    - 3/4: the waltz
+    - 6/8: beats grouped in threes
+    - Odd metres like 5/4 and 7/8
+  - Rhythmic devices
+    - Syncopation stresses off-beats
+    - Swing makes paired notes uneven
+    - Polyrhythm layers conflicting patterns
+    - Accents and ghost notes add groove
+  - Traditions
+    - West African interlocking drum patterns
+    - Indian tala cycles, like teental
+    - [Clave anchors Afro-Cuban music](https://en.wikipedia.org/wiki/Clave_%28rhythm%29)
+    - Rock's backbeat on 2 and 4
+  - Beyond music
+    - Speech and poetic metre
+    - Heartbeat, breathing and walking
+    - Dance moves to the beat
+  - Learning rhythm
+    - Count aloud: one-and-two-and
+    - Practise with a metronome
+    - Clap along to recordings

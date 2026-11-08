@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Ganges",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ui5qcs",
+      "name": "Course",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k2nvc6",
+      "name": "Starts at the Gangotri Glacier",
+      "x": -445,
+      "y": -54,
+      "link": "https://en.wikipedia.org/wiki/Gangotri_Glacier",
+      "parent": "#ui5qcs"
+    },
+    {
+      "@id": "#wk5ju5",
+      "name": "Bhagirathi and Alaknanda join at Devprayag",
+      "x": -405,
+      "y": -156,
+      "parent": "#ui5qcs"
+    },
+    {
+      "@id": "#ypgten",
+      "name": "Flows across the plains of northern India",
+      "x": -330,
+      "y": -245,
+      "parent": "#ui5qcs"
+    },
+    {
+      "@id": "#88rrsk",
+      "name": "About 2,500 km long",
+      "x": -225,
+      "y": -312,
+      "parent": "#ui5qcs"
+    },
+    {
+      "@id": "#ee5p6q",
+      "name": "Delta",
+      "x": 51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yjcciu",
+      "name": "Joins the Brahmaputra in Bangladesh",
+      "x": -104,
+      "y": -367,
+      "parent": "#ee5p6q"
+    },
+    {
+      "@id": "#gn6tzh",
+      "name": "Called the Padma in Bangladesh",
+      "x": 42,
+      "y": -423,
+      "parent": "#ee5p6q"
+    },
+    {
+      "@id": "#qqx46g",
+      "name": "Sundarbans, the largest mangrove forest",
+      "x": 234,
+      "y": -485,
+      "link": "https://en.wikipedia.org/wiki/Sundarbans",
+      "parent": "#ee5p6q"
+    },
+    {
+      "@id": "#vrqiz8",
+      "name": "Empties into the Bay of Bengal",
+      "x": 281,
+      "y": -281,
+      "parent": "#ee5p6q"
+    },
+    {
+      "@id": "#6xt9qd",
+      "name": "Tributaries",
+      "x": 220,
+      "y": -54,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qgzfj4",
+      "name": "Yamuna joins at Prayagraj",
+      "x": 372,
+      "y": -203,
+      "parent": "#6xt9qd"
+    },
+    {
+      "@id": "#zcbt7h",
+      "name": "Ghaghara, Gandaki and Kosi from Nepal",
+      "x": 430,
+      "y": -106,
+      "parent": "#6xt9qd"
+    },
+    {
+      "@id": "#bnjfm6",
+      "name": "Son flows in from the south",
+      "x": 450,
+      "y": 0,
+      "parent": "#6xt9qd"
+    },
+    {
+      "@id": "#2zu77s",
+      "name": "Sacred river",
+      "x": 169,
+      "y": 125,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c99vd4",
+      "name": "Worshipped as the goddess Ganga",
+      "x": 430,
+      "y": 106,
+      "parent": "#2zu77s"
+    },
+    {
+      "@id": "#f8cz9i",
+      "name": "Varanasi ghats for bathing and cremation",
+      "x": 372,
+      "y": 203,
+      "parent": "#2zu77s"
+    },
+    {
+      "@id": "#q6x68g",
+      "name": "Kumbh Mela draws tens of millions",
+      "x": 281,
+      "y": 281,
+      "link": "https://en.wikipedia.org/wiki/Kumbh_Mela",
+      "parent": "#2zu77s"
+    },
+    {
+      "@id": "#duvh8i",
+      "name": "Bathing believed to wash away sins",
+      "x": 164,
+      "y": 335,
+      "parent": "#2zu77s"
+    },
+    {
+      "@id": "#szsusf",
+      "name": "People and economy",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#riywbq",
+      "name": "Basin home to over 400 million",
+      "x": 38,
+      "y": 391,
+      "parent": "#szsusf"
+    },
+    {
+      "@id": "#ke7n8p",
+      "name": "Fertile plain feeds much of India",
+      "x": -124,
+      "y": 447,
+      "parent": "#szsusf"
+    },
+    {
+      "@id": "#mwt9c4",
+      "name": "Irrigation canals and the Farakka Barrage",
+      "x": -225,
+      "y": 312,
+      "parent": "#szsusf"
+    },
+    {
+      "@id": "#zvgne8",
+      "name": "Challenges",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#94n92c",
+      "name": "Heavy sewage and industrial pollution",
+      "x": -330,
+      "y": 245,
+      "link": "https://en.wikipedia.org/wiki/Pollution_of_the_Ganges",
+      "parent": "#zvgne8"
+    },
+    {
+      "@id": "#ij7vvh",
+      "name": "Namami Gange cleanup programme",
+      "x": -405,
+      "y": 156,
+      "parent": "#zvgne8"
+    },
+    {
+      "@id": "#94u7xx",
+      "name": "Ganges river dolphin is endangered",
+      "x": -465,
+      "y": 56,
+      "parent": "#zvgne8"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

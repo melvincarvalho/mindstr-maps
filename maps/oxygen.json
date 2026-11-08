@@ -1,0 +1,308 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Oxygen",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#7fufwx",
+      "name": "Basics",
+      "x": -182,
+      "y": -113,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y8bbt4",
+      "name": "Atomic number 8, symbol O",
+      "x": -444,
+      "y": -59,
+      "parent": "#7fufwx"
+    },
+    {
+      "@id": "#2rtgaa",
+      "name": "Colourless gas, pale blue as liquid",
+      "x": -396,
+      "y": -171,
+      "parent": "#7fufwx"
+    },
+    {
+      "@id": "#udfpb7",
+      "name": "Highly reactive; supports burning",
+      "x": -305,
+      "y": -265,
+      "parent": "#7fufwx"
+    },
+    {
+      "@id": "#7bajuh",
+      "name": "Found by Scheele and Priestley, 1770s",
+      "x": -181,
+      "y": -330,
+      "link": "https://en.wikipedia.org/wiki/Joseph_Priestley",
+      "parent": "#7fufwx"
+    },
+    {
+      "@id": "#hdjpks",
+      "name": "Where it's found",
+      "x": 92,
+      "y": -169,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d959zg",
+      "name": "About 21% of the air",
+      "x": -41,
+      "y": -391,
+      "parent": "#hdjpks"
+    },
+    {
+      "@id": "#wx2ct8",
+      "name": "Most abundant element in Earth's crust",
+      "x": 140,
+      "y": -445,
+      "parent": "#hdjpks"
+    },
+    {
+      "@id": "#ayncre",
+      "name": "Makes up 89% of water by mass",
+      "x": 246,
+      "y": -301,
+      "parent": "#hdjpks"
+    },
+    {
+      "@id": "#mw2f89",
+      "name": "Third most abundant in universe",
+      "x": 355,
+      "y": -221,
+      "parent": "#hdjpks"
+    },
+    {
+      "@id": "#6p9c6d",
+      "name": "Role in life",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fdwf8t",
+      "name": "Cells burn food with it for energy",
+      "x": 426,
+      "y": -117,
+      "parent": "#6p9c6d"
+    },
+    {
+      "@id": "#58kvbr",
+      "name": "About 65% of human body mass",
+      "x": 470,
+      "y": 0,
+      "parent": "#6p9c6d"
+    },
+    {
+      "@id": "#bpnxp7",
+      "name": "Photosynthesis releases it from water",
+      "x": 426,
+      "y": 117,
+      "link": "https://en.wikipedia.org/wiki/Photosynthesis",
+      "parent": "#6p9c6d"
+    },
+    {
+      "@id": "#gng983",
+      "name": "Air history",
+      "x": 198,
+      "y": 171,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rk565r",
+      "name": "Great Oxidation Event, 2.4 billion years ago",
+      "x": 355,
+      "y": 221,
+      "link": "https://en.wikipedia.org/wiki/Great_Oxidation_Event",
+      "parent": "#gng983"
+    },
+    {
+      "@id": "#pan2zn",
+      "name": "Made by early cyanobacteria",
+      "x": 246,
+      "y": 301,
+      "parent": "#gng983"
+    },
+    {
+      "@id": "#4grd6w",
+      "name": "Ozone (O₃)",
+      "x": 19,
+      "y": 183,
+      "link": "https://en.wikipedia.org/wiki/Ozone",
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bkw3t6",
+      "name": "Ozone layer blocks UV radiation",
+      "x": 110,
+      "y": 349,
+      "parent": "#4grd6w"
+    },
+    {
+      "@id": "#javkm9",
+      "name": "Ground-level ozone is a pollutant",
+      "x": -43,
+      "y": 407,
+      "parent": "#4grd6w"
+    },
+    {
+      "@id": "#5twyvz",
+      "name": "Uses",
+      "x": -182,
+      "y": 113,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fe37xq",
+      "name": "Steelmaking burns off impurities",
+      "x": -253,
+      "y": 465,
+      "parent": "#5twyvz"
+    },
+    {
+      "@id": "#3s4e6v",
+      "name": "Medical oxygen for patients",
+      "x": -305,
+      "y": 265,
+      "parent": "#5twyvz"
+    },
+    {
+      "@id": "#jxf8ww",
+      "name": "Welding and cutting torches",
+      "x": -396,
+      "y": 171,
+      "parent": "#5twyvz"
+    },
+    {
+      "@id": "#f8g8tb",
+      "name": "Rocket oxidiser as liquid oxygen",
+      "x": -444,
+      "y": 59,
+      "parent": "#5twyvz"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

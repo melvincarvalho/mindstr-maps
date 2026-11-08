@@ -1,0 +1,329 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Friendship",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#d6uy8d",
+      "name": "What friendship is",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qw8dgc",
+      "name": "Freely chosen bond of mutual affection",
+      "x": -525,
+      "y": -62,
+      "parent": "#d6uy8d"
+    },
+    {
+      "@id": "#jxr88v",
+      "name": "Built on trust, loyalty and reciprocity",
+      "x": -405,
+      "y": -156,
+      "parent": "#d6uy8d"
+    },
+    {
+      "@id": "#hpe26f",
+      "name": "Valued in every culture and era",
+      "x": -330,
+      "y": -245,
+      "parent": "#d6uy8d"
+    },
+    {
+      "@id": "#5hnizh",
+      "name": "Why it matters",
+      "x": -51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v7nwx8",
+      "name": "Linked to better health and longevity",
+      "x": -225,
+      "y": -312,
+      "parent": "#5hnizh"
+    },
+    {
+      "@id": "#by8sia",
+      "name": "Loneliness harms wellbeing",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Loneliness",
+      "parent": "#5hnizh"
+    },
+    {
+      "@id": "#5etqt9",
+      "name": "Support through hard times",
+      "x": 42,
+      "y": -423,
+      "parent": "#5hnizh"
+    },
+    {
+      "@id": "#5tetib",
+      "name": "Kinds of friends",
+      "x": 169,
+      "y": -125,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ayexj8",
+      "name": "Close friends and best friends",
+      "x": 234,
+      "y": -485,
+      "parent": "#5tetib"
+    },
+    {
+      "@id": "#ps3izf",
+      "name": "Casual friends and acquaintances",
+      "x": 281,
+      "y": -281,
+      "parent": "#5tetib"
+    },
+    {
+      "@id": "#ccjd9d",
+      "name": "Work, school and neighbourhood friends",
+      "x": 372,
+      "y": -203,
+      "parent": "#5tetib"
+    },
+    {
+      "@id": "#j9vvc5",
+      "name": "Online friends you may never meet",
+      "x": 449,
+      "y": -111,
+      "parent": "#5tetib"
+    },
+    {
+      "@id": "#4xbfkh",
+      "name": "Making friends",
+      "x": 207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hvzph4",
+      "name": "Show up repeatedly in the same places",
+      "x": 450,
+      "y": 0,
+      "parent": "#4xbfkh"
+    },
+    {
+      "@id": "#zsfyvg",
+      "name": "Join clubs, classes or volunteering",
+      "x": 487,
+      "y": 121,
+      "parent": "#4xbfkh"
+    },
+    {
+      "@id": "#axinng",
+      "name": "Ask questions and follow up",
+      "x": 372,
+      "y": 203,
+      "parent": "#4xbfkh"
+    },
+    {
+      "@id": "#ac9fpb",
+      "name": "Close friendships take many hours together",
+      "x": 281,
+      "y": 281,
+      "parent": "#4xbfkh"
+    },
+    {
+      "@id": "#9jt9id",
+      "name": "Keeping friends",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jhq5xh",
+      "name": "Stay in touch regularly",
+      "x": 164,
+      "y": 335,
+      "parent": "#9jt9id"
+    },
+    {
+      "@id": "#ef7ymq",
+      "name": "Listen and keep confidences",
+      "x": 38,
+      "y": 391,
+      "parent": "#9jt9id"
+    },
+    {
+      "@id": "#bamxnc",
+      "name": "Celebrate wins, help in hard times",
+      "x": -124,
+      "y": 447,
+      "parent": "#9jt9id"
+    },
+    {
+      "@id": "#k3rx5f",
+      "name": "Apologise and repair after conflict",
+      "x": -225,
+      "y": 312,
+      "parent": "#9jt9id"
+    },
+    {
+      "@id": "#2kqjms",
+      "name": "Ideas about friendship",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h2y6zb",
+      "name": "Aristotle's three kinds: utility, pleasure, virtue",
+      "x": -330,
+      "y": 245,
+      "link": "https://en.wikipedia.org/wiki/Philia",
+      "parent": "#2kqjms"
+    },
+    {
+      "@id": "#kn9735",
+      "name": "Dunbar's number: about 150 relationships",
+      "x": -405,
+      "y": 156,
+      "link": "https://en.wikipedia.org/wiki/Dunbar%27s_number",
+      "parent": "#2kqjms"
+    },
+    {
+      "@id": "#77ipu8",
+      "name": "Friendships change across life stages",
+      "x": -525,
+      "y": 62,
+      "parent": "#2kqjms"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

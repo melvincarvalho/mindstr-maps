@@ -1,0 +1,32 @@
+category: People
+aliases: luther the reformer, martin luther reformation, dr martin luther
+- Martin Luther
+  - Early life
+    - Born 1483 in Eisleben, Saxony
+    - Studied law at Erfurt
+    - Vowed to become a monk, 1505
+    - Augustinian friar, then Wittenberg professor
+  - The break with Rome
+    - [Ninety-five Theses, 31 October 1517](https://en.wikipedia.org/wiki/Ninety-five_Theses)
+    - Attacked the sale of indulgences
+    - Salvation by faith alone
+    - Scripture above church tradition
+  - Condemnation
+    - Excommunicated by Pope Leo X, 1521
+    - [Refused to recant at Diet of Worms](https://en.wikipedia.org/wiki/Diet_of_Worms)
+    - Hidden at Wartburg Castle
+  - Work and family
+    - [Translated the Bible into German](https://en.wikipedia.org/wiki/Luther_Bible)
+    - Wrote hymns like "A Mighty Fortress"
+    - Married former nun Katharina von Bora
+    - Small Catechism for ordinary believers
+  - Controversies
+    - Urged crushing of 1525 peasant revolt
+    - [Wrote "On the Jews and Their Lies"](https://en.wikipedia.org/wiki/On_the_Jews_and_Their_Lies)
+    - Antisemitic writings later used by Nazis
+  - Legacy
+    - Died 1546 in Eisleben
+    - [Sparked the Protestant Reformation](https://en.wikipedia.org/wiki/Reformation)
+    - Lutheran churches bear his name
+    - Printing spread his ideas fast
+    - Shaped the modern German language

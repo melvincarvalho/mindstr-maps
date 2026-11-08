@@ -1,0 +1,29 @@
+category: Technology
+aliases: textiles, fabrics and cloth, textile manufacturing, history of textiles
+- Textile
+  - Fibres
+    - Plant: cotton, linen, hemp
+    - Animal: wool and silk
+    - [Synthetic: polyester and nylon](https://en.wikipedia.org/wiki/Synthetic_fiber)
+    - Semi-synthetic: viscose from wood pulp
+  - From fibre to yarn
+    - Cleaning and combing loose fibres
+    - [Spinning twists fibres into yarn](https://en.wikipedia.org/wiki/Spinning_%28textiles%29)
+  - Making fabric
+    - [Weaving interlaces warp and weft](https://en.wikipedia.org/wiki/Weaving)
+    - Knitting loops one yarn together
+    - Felt and nonwovens bond loose fibres
+  - Finishing
+    - Dyeing and printing add colour
+    - Treatments against shrinking and water
+    - Cutting and sewing into products
+  - History
+    - Weaving at least 9,000 years old
+    - [Silk Road traded Chinese silk](https://en.wikipedia.org/wiki/Silk_Road)
+    - Spinning jenny and power loom mechanised it
+    - Textile mills led Britain's Industrial Revolution
+  - Industry today
+    - Clothing, furnishings and technical fabrics
+    - China, India and Bangladesh major producers
+    - Fast fashion raises waste concerns
+    - Rana Plaza collapse, 2013, spurred safety reforms

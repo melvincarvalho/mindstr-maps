@@ -1,0 +1,27 @@
+category: Science
+aliases: biological classification, classification of living things, taxonomic ranks
+- Taxonomy (biology)
+  - What it does
+    - Names, describes and groups organisms
+    - Gives every species one universal name
+    - About 2 million species described so far
+  - [Linnaeus founded the modern system](https://en.wikipedia.org/wiki/Carl_Linnaeus)
+    - Systema Naturae, first published 1735
+    - [Binomial names, like Homo sapiens](https://en.wikipedia.org/wiki/Binomial_nomenclature)
+    - Genus capitalised, species lower case
+  - [The main ranks](https://en.wikipedia.org/wiki/Taxonomic_rank)
+    - Domain, kingdom, phylum, class
+    - Order, family, genus, species
+    - Mnemonic: Dear King Philip Came Over...
+  - Humans as an example
+    - Eukarya, Animalia, Chordata, Mammalia
+    - Primates, Hominidae, Homo, sapiens
+  - Modern approaches
+    - [Cladistics groups by shared ancestry](https://en.wikipedia.org/wiki/Cladistics)
+    - DNA sequencing reshapes family trees
+    - Birds now counted among dinosaurs
+    - Fish and reptiles aren't single clades
+  - Naming rules
+    - Separate codes for animals, plants, bacteria
+    - Type specimens anchor each name
+    - Oldest valid name usually wins

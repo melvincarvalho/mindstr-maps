@@ -1,0 +1,33 @@
+category: Geography
+aliases: kingdom of thailand, siam
+- Thailand
+  - Land
+    - Bangkok is the capital
+    - Chao Phraya River and central plains
+    - Northern mountains around Chiang Mai
+    - Southern beaches: Phuket and islands
+  - People and languages
+    - About 66 million people
+    - Thai, written in its own script
+    - Over 90% Theravada Buddhist
+    - Malay Muslims in the far south
+  - History in brief
+    - Sukhothai kingdom, 13th century
+    - [Ayutthaya, capital for four centuries](https://en.wikipedia.org/wiki/Ayutthaya_Kingdom)
+    - Chakri dynasty and Bangkok from 1782
+    - Never colonised by Europeans
+    - Absolute monarchy ended in 1932
+  - Government
+    - Constitutional monarchy, King Vajiralongkorn
+    - Many military coups, latest 2014
+    - [Strict lese-majeste laws protect the monarchy](https://en.wikipedia.org/wiki/L%C3%A8se-majest%C3%A9_in_Thailand)
+  - Economy
+    - Major tourism destination
+    - Car manufacturing hub
+    - One of the top rice exporters
+  - Culture
+    - [Muay Thai, the national combat sport](https://en.wikipedia.org/wiki/Muay_Thai)
+    - Pad thai, green curry, tom yum
+    - Songkran water festival in April
+    - Wai greeting, palms pressed together
+    - [Grand Palace and Wat Phra Kaew](https://en.wikipedia.org/wiki/Grand_Palace)

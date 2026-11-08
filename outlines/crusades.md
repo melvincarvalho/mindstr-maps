@@ -1,0 +1,31 @@
+category: History
+aliases: the crusades, holy wars, crusader wars
+- Crusades
+  - What they were
+    - Religious wars sanctioned by the Pope
+    - Main eastern crusades 1096–1291
+    - Aim: control Jerusalem and the Holy Land
+  - Causes
+    - Seljuk Turks pressed the Byzantine Empire
+    - [Pope Urban II's call at Clermont, 1095](https://en.wikipedia.org/wiki/Council_of_Clermont)
+    - Promise of forgiveness for sins
+    - Land, wealth and adventure for knights
+  - Major crusades
+    - [First Crusade captures Jerusalem, 1099](https://en.wikipedia.org/wiki/First_Crusade)
+    - Second Crusade fails at Damascus, 1148
+    - [Saladin retakes Jerusalem in 1187](https://en.wikipedia.org/wiki/Saladin)
+    - Third Crusade: Richard the Lionheart
+    - Fourth Crusade sacks Constantinople, 1204
+  - The crusader states
+    - Kingdom of Jerusalem and three others
+    - Knights Templar and Hospitallers
+    - Acre, the last stronghold, falls 1291
+  - Beyond the Holy Land
+    - Reconquista in Spain and Portugal
+    - Northern Crusades in the Baltic
+    - Albigensian Crusade against Cathars in France
+  - Consequences
+    - Massacres of Jews and Muslims
+    - Deepened split of Eastern and Western churches
+    - Boosted Italian trade with the East
+    - Still a contested memory today

@@ -1,0 +1,29 @@
+category: Mathematics
+aliases: circles, parts of a circle, circle formulas
+- Circle
+  - What a circle is
+    - All points same distance from centre
+    - That distance is the radius
+    - Diameter is twice the radius
+  - [Pi, the circle's constant](https://en.wikipedia.org/wiki/Pi)
+    - Circumference divided by diameter
+    - About 3.14159, digits never repeat
+    - Archimedes showed it's near 22/7
+  - Key formulas
+    - Circumference: pi times diameter
+    - Area: pi times radius squared
+    - Arc length grows with the angle
+  - Parts of a circle
+    - Chord joins two points on it
+    - [Tangent touches at exactly one point](https://en.wikipedia.org/wiki/Tangent)
+    - Sector is a pizza-slice region
+    - Segment is cut off by a chord
+  - Circle theorems
+    - [Angle in a semicircle is 90°](https://en.wikipedia.org/wiki/Thales%27s_theorem)
+    - Tangent meets radius at right angles
+    - Angle at centre doubles angle at edge
+  - Circles in the world
+    - Wheels, gears and pulleys
+    - Most enclosed area for its perimeter
+    - Orbits are nearly circular ellipses
+    - [Squaring the circle proved impossible, 1882](https://en.wikipedia.org/wiki/Squaring_the_circle)

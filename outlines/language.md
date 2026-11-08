@@ -1,0 +1,32 @@
+category: Society
+aliases: human language, origin of language, what is language
+- Language
+  - What makes language special
+    - Finite words, endless possible sentences
+    - Arbitrary sounds paired with meanings
+    - Talks about past, future and imaginary
+    - [Sign languages are full languages](https://en.wikipedia.org/wiki/Sign_language)
+  - [How language is structured](https://en.wikipedia.org/wiki/Linguistics)
+    - Phonology: the sound system
+    - Morphology: how words are built
+    - Syntax: how sentences are ordered
+    - Semantics and pragmatics: meaning in context
+  - The world's languages
+    - About 7,000 spoken today
+    - [Language families share common ancestors](https://en.wikipedia.org/wiki/Language_family)
+    - Indo-European has the most speakers
+    - Around 40% are endangered
+  - Origins and change
+    - [Spoken origins unknown and debated](https://en.wikipedia.org/wiki/Origin_of_language)
+    - Writing invented about 5,000 years ago
+    - Languages change constantly, then split
+  - [How children learn it](https://en.wikipedia.org/wiki/Language_acquisition)
+    - Babbling at about six months
+    - First words around one year
+    - Two-word phrases around two
+    - Easiest to master when young
+    - Innate grammar or general learning? Debated
+  - Language and the brain
+    - Broca's area helps produce speech
+    - Wernicke's area helps understand it
+    - Brain damage can cause aphasia

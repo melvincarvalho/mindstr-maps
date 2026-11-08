@@ -1,0 +1,29 @@
+category: Science
+aliases: gold metal, gold element, element au
+- Gold
+  - The element
+    - Symbol Au, atomic number 79
+    - Does not rust or tarnish
+    - Most malleable metal: hammered to thin leaf
+    - Very dense: about 19 times water
+  - Where it comes from
+    - [Forged in neutron star collisions and supernovae](https://en.wikipedia.org/wiki/Nucleosynthesis)
+    - Found in veins and river gravels
+    - China, Australia and Russia mine the most
+    - All gold ever mined: about 210,000 tonnes
+  - Measuring purity
+    - [24 karat is pure gold](https://en.wikipedia.org/wiki/Fineness)
+    - 18 karat is 75% gold
+    - Weighed in troy ounces of 31.1 grams
+  - Uses
+    - Jewellery takes about half of demand
+    - Reliable contacts in phones and computers
+    - Dental crowns and some medicines
+    - Spacecraft visors reflect infrared heat
+  - Gold and money
+    - [Backed currencies under the gold standard](https://en.wikipedia.org/wiki/Gold_standard)
+    - Central banks still hold large reserves
+    - Seen as a safe haven in crises
+  - Gold in history
+    - Prized by ancient Egypt and the Incas
+    - [Gold rushes in California and Australia](https://en.wikipedia.org/wiki/California_gold_rush)

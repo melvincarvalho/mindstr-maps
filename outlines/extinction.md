@@ -1,0 +1,31 @@
+category: Science
+aliases: species extinction, mass extinction, extinct species
+- Extinction
+  - What it means
+    - Last individual of a species dies
+    - Extinct in the wild: survives only captive
+    - Over 99% of all species are extinct
+  - Natural causes
+    - Background rate: steady trickle of losses
+    - Climate shifts and ice ages
+    - Volcanic eruptions and asteroid impacts
+    - Competition from new species
+  - [The Big Five mass extinctions](https://en.wikipedia.org/wiki/Extinction_event)
+    - End-Ordovician, about 444 million years ago
+    - Late Devonian, about 372 million years ago
+    - [End-Permian: about 90% of species lost](https://en.wikipedia.org/wiki/Permian%E2%80%93Triassic_extinction_event)
+    - End-Triassic, about 201 million years ago
+    - [End-Cretaceous asteroid ended non-bird dinosaurs](https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event)
+  - Human-driven extinctions
+    - Dodo gone by about 1690
+    - Passenger pigeon: last one died 1914
+    - Habitat loss is the leading cause
+    - Hunting, invasive species and pollution
+  - Today's crisis
+    - Rates far above the background rate
+    - [IUCN Red List tracks threatened species](https://en.wikipedia.org/wiki/IUCN_Red_List)
+    - Amphibians among the hardest hit
+  - Preventing it
+    - Protecting and restoring habitats
+    - Captive breeding and reintroduction
+    - Laws against wildlife trade

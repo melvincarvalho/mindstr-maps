@@ -1,0 +1,30 @@
+category: Mathematics
+aliases: angles, types of angles, measuring angles
+- Angle
+  - What an angle is
+    - Two rays meeting at a vertex
+    - Measures the amount of turn
+    - Size doesn't depend on arm length
+  - Units of measure
+    - Full turn is 360 degrees
+    - 360 likely comes from Babylonian base 60
+    - [Radians: full turn is 2π](https://en.wikipedia.org/wiki/Radian)
+    - One radian is about 57.3°
+  - Kinds of angle
+    - Acute is less than 90°
+    - Right angle is exactly 90°
+    - Obtuse lies between 90° and 180°
+    - Straight is 180°, reflex beyond it
+  - Angle rules
+    - Angles on a straight line total 180°
+    - Vertically opposite angles are equal
+    - Triangle's angles sum to 180°
+    - [Parallel lines make equal alternate angles](https://en.wikipedia.org/wiki/Transversal_%28geometry%29)
+  - Measuring angles
+    - [Protractor for drawings](https://en.wikipedia.org/wiki/Protractor)
+    - Theodolite for surveying land
+    - Sextant once guided ships by stars
+  - Angles in everyday life
+    - Slope of roads and ramps
+    - Compass bearings for navigation
+    - Camera field of view

@@ -1,0 +1,30 @@
+category: People
+aliases: king hammurabi, hammurabi of babylon, hammurapi
+- Hammurabi
+  - Who he was
+    - Sixth king of Babylon's first dynasty
+    - Reigned about 1792 to 1750 BC
+    - An Amorite ruler in Mesopotamia
+  - Building an empire
+    - Inherited a small city-state
+    - Defeated Rim-Sin of Larsa about 1763 BC
+    - [Conquered the rich city of Mari](https://en.wikipedia.org/wiki/Mari,_Syria)
+    - Ruled most of Mesopotamia by his death
+  - Running the kingdom
+    - Dug and repaired irrigation canals
+    - Clay letters show hands-on government
+    - Raised Marduk as Babylon's chief god
+  - [The Code of Hammurabi](https://en.wikipedia.org/wiki/Code_of_Hammurabi)
+    - About 282 laws on a basalt stele
+    - Written in Akkadian cuneiform
+    - Covers trade, family, property, wages
+    - [Eye for an eye punishments](https://en.wikipedia.org/wiki/Eye_for_an_eye)
+    - Penalties depended on social class
+  - Rediscovery
+    - Stele found at Susa in 1901
+    - Now displayed in the Louvre, Paris
+  - Legacy
+    - [Made Babylon a leading Mesopotamian city](https://en.wikipedia.org/wiki/Babylon)
+    - Among the earliest well-preserved law codes
+    - Idea of publicly displayed laws
+    - Honoured among lawgivers in US Capitol

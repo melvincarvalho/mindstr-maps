@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Wave",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#f7nkzq",
+      "name": "What a wave is",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c2pf8k",
+      "name": "A disturbance that carries energy",
+      "x": -484,
+      "y": -60,
+      "parent": "#f7nkzq"
+    },
+    {
+      "@id": "#hs4usy",
+      "name": "The medium wobbles but stays put",
+      "x": -401,
+      "y": -163,
+      "parent": "#f7nkzq"
+    },
+    {
+      "@id": "#dwjq3g",
+      "name": "Repeating patterns in space and time",
+      "x": -318,
+      "y": -255,
+      "parent": "#f7nkzq"
+    },
+    {
+      "@id": "#hijw22",
+      "name": "Measuring a wave",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qn3k5w",
+      "name": "Wavelength: distance between crests",
+      "x": -204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Wavelength",
+      "parent": "#hijw22"
+    },
+    {
+      "@id": "#jtcjed",
+      "name": "Frequency: waves per second, in hertz",
+      "x": -73,
+      "y": -372,
+      "link": "https://en.wikipedia.org/wiki/Frequency",
+      "parent": "#hijw22"
+    },
+    {
+      "@id": "#fw7fjd",
+      "name": "Amplitude: height, which sets energy",
+      "x": 82,
+      "y": -420,
+      "parent": "#hijw22"
+    },
+    {
+      "@id": "#amr8te",
+      "name": "Speed equals frequency times wavelength",
+      "x": 204,
+      "y": -321,
+      "parent": "#hijw22"
+    },
+    {
+      "@id": "#7xg59f",
+      "name": "Two basic shapes",
+      "x": 186,
+      "y": -108,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#eeffyt",
+      "name": "Transverse: wiggles across travel direction",
+      "x": 318,
+      "y": -255,
+      "parent": "#7xg59f"
+    },
+    {
+      "@id": "#4ahf5r",
+      "name": "Longitudinal: squeezes along travel direction",
+      "x": 401,
+      "y": -163,
+      "parent": "#7xg59f"
+    },
+    {
+      "@id": "#p8k6a2",
+      "name": "Kinds of waves",
+      "x": 219,
+      "y": 57,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#585tqr",
+      "name": "Water waves on the sea",
+      "x": 444,
+      "y": -56,
+      "parent": "#p8k6a2"
+    },
+    {
+      "@id": "#mjjz6g",
+      "name": "Sound needs air or another medium",
+      "x": 504,
+      "y": 62,
+      "link": "https://en.wikipedia.org/wiki/Sound",
+      "parent": "#p8k6a2"
+    },
+    {
+      "@id": "#9zxw7e",
+      "name": "Earthquake waves through rock",
+      "x": 401,
+      "y": 163,
+      "parent": "#p8k6a2"
+    },
+    {
+      "@id": "#vszxi5",
+      "name": "Light and radio cross empty space",
+      "x": 318,
+      "y": 255,
+      "parent": "#p8k6a2"
+    },
+    {
+      "@id": "#fuwnvd",
+      "name": "What waves do",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mjvpem",
+      "name": "Reflect off surfaces as echoes",
+      "x": 204,
+      "y": 321,
+      "parent": "#fuwnvd"
+    },
+    {
+      "@id": "#rvui7t",
+      "name": "Refract when changing speed",
+      "x": 73,
+      "y": 372,
+      "parent": "#fuwnvd"
+    },
+    {
+      "@id": "#ptp6g4",
+      "name": "Interfere, adding or cancelling",
+      "x": -82,
+      "y": 420,
+      "link": "https://en.wikipedia.org/wiki/Wave_interference",
+      "parent": "#fuwnvd"
+    },
+    {
+      "@id": "#wmexj4",
+      "name": "Diffract by spreading round obstacles",
+      "x": -204,
+      "y": 321,
+      "parent": "#fuwnvd"
+    },
+    {
+      "@id": "#3n5au8",
+      "name": "Doppler effect: pitch shifts when moving",
+      "x": -318,
+      "y": 255,
+      "parent": "#fuwnvd"
+    },
+    {
+      "@id": "#vwyqra",
+      "name": "Waves in modern science",
+      "x": -219,
+      "y": 57,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y8anv6",
+      "name": "Particles behave as waves in quantum physics",
+      "x": -401,
+      "y": 163,
+      "parent": "#vwyqra"
+    },
+    {
+      "@id": "#c22zkm",
+      "name": "Gravitational waves ripple spacetime",
+      "x": -544,
+      "y": 66,
+      "parent": "#vwyqra"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 18,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

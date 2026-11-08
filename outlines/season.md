@@ -1,0 +1,31 @@
+category: Science
+aliases: four seasons, why do we have seasons, seasons of the year
+- Season
+  - Why seasons happen
+    - [Earth's axis tilts about 23.4°](https://en.wikipedia.org/wiki/Axial_tilt)
+    - Tilted hemisphere gets more direct sunlight
+    - Longer days mean more heating
+    - Not caused by distance from Sun
+  - Key dates
+    - [Solstices: longest and shortest days](https://en.wikipedia.org/wiki/Solstice)
+    - [Equinoxes: day and night roughly equal](https://en.wikipedia.org/wiki/Equinox)
+    - Hemispheres have opposite seasons
+  - The four temperate seasons
+    - Spring: warming, plants start growing
+    - Summer: warmest, longest days
+    - Autumn: cooling, leaves fall
+    - Winter: coldest, shortest days
+  - Seasons around the world
+    - Tropics: wet and dry seasons
+    - [Monsoon brings heavy summer rain](https://en.wikipedia.org/wiki/Monsoon)
+    - Poles: months of daylight or dark
+    - Seasons lag the Sun by weeks
+  - How life responds
+    - Birds and animals migrate
+    - Some animals hibernate through winter
+    - Trees drop leaves to save water
+    - Crops planted and harvested by season
+  - Seasons and people
+    - Meteorological seasons start on month 1st
+    - Festivals mark harvests and solstices
+    - Winter can lower mood for some

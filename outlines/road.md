@@ -1,0 +1,29 @@
+category: Technology
+aliases: roads, how roads are built, history of roads
+- Road
+  - What makes a road
+    - Layers of crushed stone for strength
+    - Asphalt or concrete surface on top
+    - Camber and drains shed rainwater
+  - History
+    - [Romans built about 80,000 km of roads](https://en.wikipedia.org/wiki/Roman_roads)
+    - Persian Royal Road carried royal messengers
+    - [McAdam's crushed-stone roads, early 1800s](https://en.wikipedia.org/wiki/Macadam)
+    - Tarmac spread with the motor car
+  - Kinds of road
+    - Motorways and freeways for fast traffic
+    - Main roads link towns
+    - Residential streets favour slower speeds
+    - Unpaved tracks still common worldwide
+  - Rules and signs
+    - Drive on left or right by country
+    - Signs, markings and traffic lights
+    - Roundabouts and junctions manage flow
+  - Keeping roads working
+    - Potholes form as water freezes and thaws
+    - Resurfacing and repairs cost billions
+    - Road pricing and tolls fund upkeep
+  - Roads and society
+    - [Interstate system began 1956](https://en.wikipedia.org/wiki/Interstate_Highway_System)
+    - Opened trade and connected rural areas
+    - Traffic brings congestion and pollution

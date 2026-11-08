@@ -1,0 +1,33 @@
+category: Health
+aliases: substance use disorder, drug addiction, alcohol addiction, addiction recovery
+- Addiction
+  - What it is
+    - Compulsive use despite clear harm
+    - Recognised as a treatable health condition
+    - Includes substances and behaviours like gambling
+  - Common substances
+    - Alcohol
+    - Nicotine
+    - [Opioids, including prescription painkillers](https://en.wikipedia.org/wiki/Opioid_use_disorder)
+    - Stimulants such as cocaine
+    - Cannabis
+  - How it develops
+    - [Dopamine reward pathway learns to crave](https://en.wikipedia.org/wiki/Reward_system)
+    - Tolerance: more needed for same effect
+    - Withdrawal when stopping
+    - Genes, trauma and stress raise risk
+  - Risks and harms
+    - Overdose, especially opioids
+    - Liver, heart and lung damage
+    - Strain on work, money and relationships
+    - Often linked with depression or anxiety
+  - Treatment
+    - [Medically supervised detox when needed](https://en.wikipedia.org/wiki/Drug_detoxification)
+    - Talking therapies like CBT
+    - Medications such as methadone or buprenorphine
+    - [Mutual support groups like Alcoholics Anonymous](https://en.wikipedia.org/wiki/Alcoholics_Anonymous)
+  - Recovery
+    - Relapse is common, not failure
+    - Avoid triggers and build routines
+    - Start with a doctor or helpline
+    - Family and friends can get support too

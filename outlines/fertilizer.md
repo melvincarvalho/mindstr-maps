@@ -1,0 +1,27 @@
+category: Technology
+aliases: fertiliser, plant fertilizer, chemical fertilizer
+- Fertilizer
+  - Supplies nutrients plants need to grow
+    - Nitrogen drives leafy growth
+    - Phosphorus builds roots and flowers
+    - Potassium strengthens stems and resists disease
+    - Calcium, magnesium and sulfur also needed
+  - Labels show N-P-K percentages
+    - 10-10-10 means 10% of each
+    - Balanced or high-nitrogen blends
+  - Organic fertilizers
+    - Manure and compost
+    - Bone meal and blood meal
+    - Soil microbes release nutrients slowly
+  - Synthetic fertilizers
+    - [Haber–Bosch process fixes nitrogen from air](https://en.wikipedia.org/wiki/Haber_process)
+    - Urea and ammonium nitrate
+    - Phosphate rock and potash are mined
+  - Impact on world food
+    - Synthetic nitrogen feeds about half humanity
+    - [Central to the Green Revolution](https://en.wikipedia.org/wiki/Green_Revolution)
+  - Environmental costs
+    - [Runoff causes algal blooms](https://en.wikipedia.org/wiki/Eutrophication)
+    - Releases nitrous oxide, a greenhouse gas
+    - Ammonia production uses much natural gas
+    - Soil testing avoids over-applying

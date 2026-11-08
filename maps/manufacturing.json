@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Manufacturing",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#7u24dn",
+      "name": "What it is",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gmaxeg",
+      "name": "Turning raw materials into finished goods",
+      "x": -505,
+      "y": -60,
+      "parent": "#7u24dn"
+    },
+    {
+      "@id": "#pipje2",
+      "name": "Secondary sector of the economy",
+      "x": -405,
+      "y": -156,
+      "parent": "#7u24dn"
+    },
+    {
+      "@id": "#dy8bun",
+      "name": "From hand craft to automated plants",
+      "x": -330,
+      "y": -245,
+      "parent": "#7u24dn"
+    },
+    {
+      "@id": "#yav58c",
+      "name": "History",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zjnkfs",
+      "name": "Craft workshops and guilds",
+      "x": -225,
+      "y": -312,
+      "parent": "#yav58c"
+    },
+    {
+      "@id": "#raabi8",
+      "name": "Industrial Revolution: machines and factories",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Industrial_Revolution",
+      "parent": "#yav58c"
+    },
+    {
+      "@id": "#4tvcnd",
+      "name": "Interchangeable parts standardise products",
+      "x": 42,
+      "y": -423,
+      "parent": "#yav58c"
+    },
+    {
+      "@id": "#9er92v",
+      "name": "Ford's moving assembly line, 1913",
+      "x": 234,
+      "y": -485,
+      "link": "https://en.wikipedia.org/wiki/Assembly_line",
+      "parent": "#yav58c"
+    },
+    {
+      "@id": "#64d36e",
+      "name": "Main processes",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#s75pwi",
+      "name": "Casting and moulding shape material",
+      "x": 281,
+      "y": -281,
+      "parent": "#64d36e"
+    },
+    {
+      "@id": "#te4yi2",
+      "name": "Machining cuts material away",
+      "x": 372,
+      "y": -203,
+      "parent": "#64d36e"
+    },
+    {
+      "@id": "#uvcjif",
+      "name": "Joining by welding or fastening",
+      "x": 468,
+      "y": -116,
+      "parent": "#64d36e"
+    },
+    {
+      "@id": "#a7wh7n",
+      "name": "3D printing builds layer by layer",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/3D_printing",
+      "parent": "#64d36e"
+    },
+    {
+      "@id": "#bccw7j",
+      "name": "Ways of organising production",
+      "x": 169,
+      "y": 125,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7iv4hi",
+      "name": "Mass production of identical items",
+      "x": 506,
+      "y": 126,
+      "parent": "#bccw7j"
+    },
+    {
+      "@id": "#pcf7sv",
+      "name": "Lean manufacturing cuts waste",
+      "x": 372,
+      "y": 203,
+      "link": "https://en.wikipedia.org/wiki/Lean_manufacturing",
+      "parent": "#bccw7j"
+    },
+    {
+      "@id": "#jeryrx",
+      "name": "Just-in-time keeps stocks low",
+      "x": 281,
+      "y": 281,
+      "parent": "#bccw7j"
+    },
+    {
+      "@id": "#2p3acr",
+      "name": "Global supply chains split production",
+      "x": 164,
+      "y": 335,
+      "parent": "#bccw7j"
+    },
+    {
+      "@id": "#dezau4",
+      "name": "Today's industry",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4w6zs8",
+      "name": "China makes about 30% globally",
+      "x": 38,
+      "y": 391,
+      "parent": "#dezau4"
+    },
+    {
+      "@id": "#42t2pg",
+      "name": "Robots and automation in factories",
+      "x": -124,
+      "y": 447,
+      "parent": "#dezau4"
+    },
+    {
+      "@id": "#bk2d9p",
+      "name": "Major sectors: cars, chemicals, electronics",
+      "x": -245,
+      "y": 340,
+      "parent": "#dezau4"
+    },
+    {
+      "@id": "#nxhejw",
+      "name": "Issues",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4pp9j7",
+      "name": "Factory jobs shifting to cheaper countries",
+      "x": -330,
+      "y": 245,
+      "parent": "#nxhejw"
+    },
+    {
+      "@id": "#t87kh4",
+      "name": "Energy use and pollution",
+      "x": -405,
+      "y": 156,
+      "parent": "#nxhejw"
+    },
+    {
+      "@id": "#kvgnhc",
+      "name": "Debates over reshoring and industrial policy",
+      "x": -485,
+      "y": 58,
+      "parent": "#nxhejw"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

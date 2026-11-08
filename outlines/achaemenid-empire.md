@@ -1,0 +1,29 @@
+category: History
+aliases: first persian empire, achaemenid persia, achaemenids, persian empire of cyrus
+- Achaemenid Empire
+  - Origins
+    - [Cyrus the Great founded it, 550 BC](https://en.wikipedia.org/wiki/Cyrus_the_Great)
+    - Conquered Media, Lydia and Babylon
+    - Pasargadae was the first capital
+  - Expansion
+    - Cambyses II conquered Egypt, 525 BC
+    - [Darius I pushed to the Indus](https://en.wikipedia.org/wiki/Darius_the_Great)
+    - Spanned from the Balkans to India
+  - Government
+    - [Provinces ruled by satraps](https://en.wikipedia.org/wiki/Satrap)
+    - Royal Road linked Sardis to Susa
+    - Gold daric coins standardised money
+    - Aramaic used across the administration
+  - Culture and religion
+    - [Persepolis built as ceremonial capital](https://en.wikipedia.org/wiki/Persepolis)
+    - Kings favoured Zoroastrian beliefs
+    - Cyrus let exiled Jews return home
+    - Local customs and religions largely tolerated
+  - Wars with Greece
+    - [Ionian Revolt sparked the Greco-Persian Wars](https://en.wikipedia.org/wiki/Greco-Persian_Wars)
+    - Defeat at Marathon, 490 BC
+    - Xerxes I lost at Salamis, 480 BC
+  - Fall and legacy
+    - Alexander the Great conquered it, 330 BC
+    - Darius III was the last king
+    - Model for later Persian empires

@@ -1,0 +1,374 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Egypt",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ua5mrv",
+      "name": "Geography",
+      "x": -202,
+      "y": -89,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#msghx3",
+      "name": "The Nile runs the country's length",
+      "x": -466,
+      "y": -47,
+      "link": "https://en.wikipedia.org/wiki/Nile",
+      "parent": "#ua5mrv"
+    },
+    {
+      "@id": "#qryky7",
+      "name": "Most people live along the Nile",
+      "x": -437,
+      "y": -139,
+      "parent": "#ua5mrv"
+    },
+    {
+      "@id": "#pridvc",
+      "name": "Desert covers over 90% of land",
+      "x": -364,
+      "y": -212,
+      "parent": "#ua5mrv"
+    },
+    {
+      "@id": "#x26mxz",
+      "name": "Sinai Peninsula links Africa and Asia",
+      "x": -287,
+      "y": -277,
+      "parent": "#ua5mrv"
+    },
+    {
+      "@id": "#52dzqx",
+      "name": "People and languages",
+      "x": -14,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qw48tv",
+      "name": "About 110 million people",
+      "x": -192,
+      "y": -326,
+      "parent": "#52dzqx"
+    },
+    {
+      "@id": "#jhzuph",
+      "name": "Capital Cairo, a city of 20+ million",
+      "x": -92,
+      "y": -386,
+      "parent": "#52dzqx"
+    },
+    {
+      "@id": "#r7ikka",
+      "name": "Arabic official; Egyptian Arabic everyday",
+      "x": 33,
+      "y": -439,
+      "parent": "#52dzqx"
+    },
+    {
+      "@id": "#7b82ec",
+      "name": "Mostly Sunni Muslim, Coptic Christian minority",
+      "x": 199,
+      "y": -492,
+      "parent": "#52dzqx"
+    },
+    {
+      "@id": "#dtazyy",
+      "name": "History in brief",
+      "x": 214,
+      "y": -68,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y94fdb",
+      "name": "Pharaohs ruled for about 3,000 years",
+      "x": 241,
+      "y": -304,
+      "link": "https://en.wikipedia.org/wiki/Ancient_Egypt",
+      "parent": "#dtazyy"
+    },
+    {
+      "@id": "#ytbu6x",
+      "name": "Greek, Roman, then Arab rule",
+      "x": 328,
+      "y": -246,
+      "parent": "#dtazyy"
+    },
+    {
+      "@id": "#7tvjy2",
+      "name": "Ottoman province from 1517",
+      "x": 394,
+      "y": -173,
+      "parent": "#dtazyy"
+    },
+    {
+      "@id": "#weae6r",
+      "name": "Independence from Britain in 1922",
+      "x": 493,
+      "y": -102,
+      "parent": "#dtazyy"
+    },
+    {
+      "@id": "#7b3iyh",
+      "name": "1952 revolution ended the monarchy",
+      "x": 450,
+      "y": 0,
+      "parent": "#dtazyy"
+    },
+    {
+      "@id": "#rc2ssv",
+      "name": "2011 uprising ended Mubarak's rule",
+      "x": 436,
+      "y": 90,
+      "parent": "#dtazyy"
+    },
+    {
+      "@id": "#4ewp8e",
+      "name": "Government",
+      "x": 168,
+      "y": 126,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zv4v6b",
+      "name": "Presidential republic",
+      "x": 394,
+      "y": 173,
+      "parent": "#4ewp8e"
+    },
+    {
+      "@id": "#5g2ras",
+      "name": "27 governorates",
+      "x": 328,
+      "y": 246,
+      "parent": "#4ewp8e"
+    },
+    {
+      "@id": "#ajgcsc",
+      "name": "Building a New Administrative Capital",
+      "x": 241,
+      "y": 304,
+      "parent": "#4ewp8e"
+    },
+    {
+      "@id": "#u4c3bf",
+      "name": "Economy",
+      "x": -14,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cwtxcw",
+      "name": "Suez Canal earns shipping fees",
+      "x": 145,
+      "y": 357,
+      "link": "https://en.wikipedia.org/wiki/Suez_Canal",
+      "parent": "#u4c3bf"
+    },
+    {
+      "@id": "#nmxf85",
+      "name": "Tourism a major source of income",
+      "x": 31,
+      "y": 407,
+      "parent": "#u4c3bf"
+    },
+    {
+      "@id": "#rs4xyn",
+      "name": "Natural gas, including offshore Zohr field",
+      "x": -112,
+      "y": 466,
+      "parent": "#u4c3bf"
+    },
+    {
+      "@id": "#niz2sa",
+      "name": "Remittances from Egyptians working abroad",
+      "x": -318,
+      "y": 522,
+      "parent": "#u4c3bf"
+    },
+    {
+      "@id": "#xznx8t",
+      "name": "Culture and known for",
+      "x": -202,
+      "y": 89,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xtdmqr",
+      "name": "Pyramids of Giza and the Sphinx",
+      "x": -287,
+      "y": 277,
+      "link": "https://en.wikipedia.org/wiki/Giza_pyramid_complex",
+      "parent": "#xznx8t"
+    },
+    {
+      "@id": "#47u2y2",
+      "name": "Temples of Luxor and Abu Simbel",
+      "x": -364,
+      "y": 212,
+      "parent": "#xznx8t"
+    },
+    {
+      "@id": "#w6wuig",
+      "name": "Cairo, a hub of Arab film",
+      "x": -437,
+      "y": 139,
+      "parent": "#xznx8t"
+    },
+    {
+      "@id": "#9z94nv",
+      "name": "Koshari and ful medames dishes",
+      "x": -486,
+      "y": 49,
+      "parent": "#xznx8t"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 11,
+      "end": 16
+    },
+    {
+      "start": 11,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    },
+    {
+      "start": 0,
+      "end": 27
+    },
+    {
+      "start": 27,
+      "end": 28
+    },
+    {
+      "start": 27,
+      "end": 29
+    },
+    {
+      "start": 27,
+      "end": 30
+    },
+    {
+      "start": 27,
+      "end": 31
+    }
+  ],
+  "selectedNode": 0
+}

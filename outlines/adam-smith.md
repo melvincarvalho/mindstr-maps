@@ -1,0 +1,28 @@
+category: People
+aliases: wealth of nations, adam smith economist, invisible hand
+- Adam Smith
+  - Life, 1723–1790
+    - Born in Kirkcaldy, Scotland
+    - Studied at Glasgow and Oxford
+    - Professor of moral philosophy at Glasgow
+    - Toured France, met Quesnay and Voltaire
+    - Later Commissioner of Customs in Edinburgh
+  - [The Theory of Moral Sentiments, 1759](https://en.wikipedia.org/wiki/The_Theory_of_Moral_Sentiments)
+    - Morality grows from sympathy with others
+    - Imagined impartial spectator guides conscience
+  - [The Wealth of Nations, 1776](https://en.wikipedia.org/wiki/The_Wealth_of_Nations)
+    - [Division of labour boosts productivity](https://en.wikipedia.org/wiki/Division_of_labour)
+    - Pin factory as famous example
+    - Wealth is production, not gold
+    - Markets set prices through competition
+  - Key ideas
+    - [Self-interest guided by an invisible hand](https://en.wikipedia.org/wiki/Invisible_hand)
+    - Criticised mercantilism and monopolies
+    - Favoured free trade between nations
+    - State provides defence, justice, public works
+    - Warned merchants conspire against the public
+  - Legacy
+    - Called the father of modern economics
+    - Key figure of Scottish Enlightenment
+    - Influenced Ricardo, Malthus and Marx
+    - Face on Bank of England £20 note

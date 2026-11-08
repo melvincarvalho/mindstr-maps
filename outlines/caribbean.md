@@ -1,0 +1,33 @@
+category: Geography
+aliases: the caribbean, caribbean islands, west indies, caribbean region
+- Caribbean
+  - Geography
+    - Islands between North and South America
+    - [Caribbean Sea borders Central America](https://en.wikipedia.org/wiki/Caribbean_Sea)
+    - Greater Antilles: Cuba, Hispaniola, Jamaica, Puerto Rico
+    - Lesser Antilles arc to the southeast
+    - Bahamas lie in the Atlantic
+  - Climate and environment
+    - Tropical, warm all year
+    - [Hurricane season runs June to November](https://en.wikipedia.org/wiki/Atlantic_hurricane_season)
+    - Coral reefs and volcanic islands
+  - People and languages
+    - About 44 million people
+    - Spanish, English, French and Dutch spoken
+    - Creole languages like Haitian Creole
+    - African, European, Indigenous and Asian roots
+  - History in brief
+    - Taíno and Kalinago peoples first inhabitants
+    - Columbus arrived in 1492
+    - [Sugar plantations used enslaved Africans](https://en.wikipedia.org/wiki/Atlantic_slave_trade)
+    - Haiti won independence in 1804
+    - Many states independent since the 1960s
+  - Politics today
+    - 13 independent countries
+    - Territories of US, UK, France, Netherlands
+    - [CARICOM promotes regional cooperation](https://en.wikipedia.org/wiki/Caribbean_Community)
+  - Economy and culture
+    - Tourism is the main earner
+    - Sugar, bananas, rum and bauxite
+    - Reggae, calypso, salsa and carnival
+    - Cricket and baseball are passions

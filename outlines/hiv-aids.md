@@ -1,0 +1,31 @@
+category: Health
+aliases: HIV, AIDS, human immunodeficiency virus, HIV infection
+- HIV/AIDS
+  - The virus and the disease
+    - [Destroys CD4 immune cells](https://en.wikipedia.org/wiki/T_helper_cell)
+    - Untreated, progresses to AIDS over years
+    - AIDS: immune system badly damaged
+  - How it spreads
+    - Unprotected anal or vaginal sex
+    - Sharing needles and syringes
+    - Pregnancy, birth or breastfeeding
+    - Not spread by touch, kissing or saliva
+  - Symptoms and stages
+    - Flu-like illness weeks after infection
+    - Then often years without symptoms
+    - AIDS brings opportunistic infections and cancers
+  - Testing and treatment
+    - Blood tests or finger-prick tests
+    - Self-test kits available
+    - [Antiretroviral therapy: daily medicines](https://en.wikipedia.org/wiki/Management_of_HIV/AIDS)
+    - Near-normal life expectancy with treatment
+    - Undetectable = untransmittable (U=U)
+    - No cure yet
+  - Prevention
+    - Condoms during sex
+    - PrEP and PEP medicines
+    - Clean needle programmes
+  - Global picture
+    - [First recognised in 1981](https://en.wikipedia.org/wiki/History_of_HIV/AIDS)
+    - About 40 million people living with HIV
+    - Most in eastern and southern Africa

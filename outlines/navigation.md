@@ -1,0 +1,26 @@
+category: Technology
+aliases: wayfinding, how navigation works, history of navigation
+- Navigation
+  - The basic questions
+    - Where am I now?
+    - Which way and how far?
+    - Latitude and longitude pinpoint position
+  - Old techniques
+    - Polynesians read stars, swells and birds
+    - [Dead reckoning: speed, heading, time](https://en.wikipedia.org/wiki/Dead_reckoning)
+    - Magnetic compass gave direction at sea
+    - Landmarks and coastlines guided pilots
+  - Finding position by sky
+    - Pole Star height gives latitude
+    - [Sextant measures Sun and star angles](https://en.wikipedia.org/wiki/Sextant)
+    - Longitude needs exact time
+    - [Harrison's marine chronometer, 1760s](https://en.wikipedia.org/wiki/Marine_chronometer)
+  - Modern navigation
+    - Radio beacons and radar
+    - Inertial systems sense every motion
+    - [GPS satellites time signals to locate](https://en.wikipedia.org/wiki/Global_Positioning_System)
+    - Phones combine GPS, Wi-Fi and maps
+  - Everyday navigation
+    - Sat-nav plans routes around traffic
+    - Pilots and ships follow set routes
+    - Hikers carry map and compass backup

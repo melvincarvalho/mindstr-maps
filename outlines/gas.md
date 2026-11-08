@@ -1,0 +1,30 @@
+category: Science
+aliases: gases, gaseous state, properties of gases
+- Gas
+  - What makes a gas
+    - No fixed shape or volume
+    - Spreads out to fill any container
+    - Particles far apart, moving fast
+    - Easily squashed into smaller space
+  - Pressure, volume and temperature
+    - [Pressure is particles hitting walls](https://en.wikipedia.org/wiki/Pressure)
+    - Squeeze a gas, pressure rises
+    - Heat a gas, it expands
+    - [Ideal gas law: PV = nRT](https://en.wikipedia.org/wiki/Ideal_gas_law)
+  - Everyday behaviour
+    - Smells spread by diffusion
+    - Hot-air balloons rise as air expands
+    - Tyres and balloons hold compressed air
+    - Aerosol cans feel cold when sprayed
+  - The air we breathe
+    - [About 78% nitrogen, 21% oxygen](https://en.wikipedia.org/wiki/Atmosphere_of_Earth)
+    - Carbon dioxide and argon in small amounts
+    - Water vapour varies with weather
+  - Changing state
+    - Condenses into liquid when cooled
+    - Pressure can liquefy gases, like LPG
+    - Gets so hot it becomes plasma
+  - Useful gases
+    - Natural gas fuels heating and cooking
+    - Helium lifts balloons and cools MRIs
+    - [Noble gases like neon light signs](https://en.wikipedia.org/wiki/Noble_gas)

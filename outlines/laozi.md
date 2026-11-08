@@ -1,0 +1,29 @@
+category: People
+aliases: lao tzu, lao tse, laozi tao te ching
+- Laozi
+  - Who he was
+    - Legendary Chinese philosopher
+    - Traditionally dated to 6th century BC
+    - Name means "Old Master"
+    - Historians doubt he was one person
+  - The legend
+    - Archivist at the Zhou court
+    - Said to have met Confucius
+    - Left China westward riding an ox
+    - Wrote his book for a border guard
+  - [Tao Te Ching](https://en.wikipedia.org/wiki/Tao_Te_Ching)
+    - About 5,000 characters in 81 chapters
+    - Probably compiled 4th–3rd century BC
+    - Short poetic verses, open to interpretation
+    - Among the most translated books ever
+  - Key ideas
+    - [The Tao: the Way of nature](https://en.wikipedia.org/wiki/Tao)
+    - [Wu wei: effortless non-forcing action](https://en.wikipedia.org/wiki/Wu_wei)
+    - Water as model: soft yet strong
+    - Simplicity, humility and contentment
+    - Rulers should govern lightly
+  - Legacy
+    - [Founding figure of Taoism](https://en.wikipedia.org/wiki/Taoism)
+    - Revered as a deity in religious Taoism
+    - Zhuangzi later expanded his ideas
+    - Shaped Chinese art, medicine and Zen

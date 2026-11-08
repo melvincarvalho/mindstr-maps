@@ -1,0 +1,31 @@
+category: Health
+aliases: mental wellbeing, mental wellness, emotional wellbeing, psychological health
+- Mental health
+  - What it means
+    - Wellbeing, not just absence of illness
+    - Shapes how we think, feel, cope
+    - About 1 in 8 people affected worldwide
+  - Common conditions
+    - [Depression: lasting low mood, lost interest](https://en.wikipedia.org/wiki/Major_depressive_disorder)
+    - [Anxiety disorders: persistent, excessive worry](https://en.wikipedia.org/wiki/Anxiety_disorder)
+    - Eating disorders, OCD and PTSD
+    - Bipolar disorder and schizophrenia, less common
+  - Causes and risk factors
+    - Genes and brain biology play a part
+    - Trauma, abuse and long-term stress
+    - Poverty, isolation and discrimination
+    - Long-term physical illness
+  - Looking after yourself
+    - Sleep, exercise and regular meals
+    - Stay connected with people
+    - Limit alcohol and drugs
+    - Talk about how you feel
+  - Treatment works
+    - [Talking therapies such as CBT](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy)
+    - Medicines such as antidepressants
+    - Many people recover or manage well
+  - Where to get help
+    - A family doctor or GP
+    - Helplines and crisis lines, often 24/7
+    - Emergency services if life is at risk
+    - School, college or workplace support

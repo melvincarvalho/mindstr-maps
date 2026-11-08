@@ -1,0 +1,28 @@
+category: Mathematics
+aliases: numbers, types of numbers, number systems
+- Number
+  - What numbers do
+    - Count: how many sheep
+    - Measure: how long or heavy
+    - Order: first, second, third
+    - Label: phone and bus numbers
+  - The growing family
+    - [Natural numbers: 1, 2, 3](https://en.wikipedia.org/wiki/Natural_number)
+    - Integers add zero and negatives
+    - [Rational numbers are fractions](https://en.wikipedia.org/wiki/Rational_number)
+    - Irrational numbers like pi
+    - Real numbers fill the number line
+    - [Complex numbers use square root of −1](https://en.wikipedia.org/wiki/Complex_number)
+  - Writing numbers down
+    - Tally marks and Roman numerals
+    - Place value: 3 in 30 means thirty
+    - [Hindu–Arabic digits 0 to 9](https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system)
+    - Computers use binary: 0 and 1
+  - Key milestones
+    - Babylonians counted in sixties
+    - Zero as a number, India, 7th century
+    - Negative numbers accepted slowly
+  - Special numbers
+    - Pi: circle's circumference over diameter
+    - e: natural growth, about 2.718
+    - Primes: building blocks of whole numbers

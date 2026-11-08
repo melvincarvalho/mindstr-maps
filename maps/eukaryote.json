@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Eukaryote",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ef68m2",
+      "name": "What makes them distinct",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9sv5hn",
+      "name": "DNA kept inside a nucleus",
+      "x": -445,
+      "y": -54,
+      "link": "https://en.wikipedia.org/wiki/Cell_nucleus",
+      "parent": "#ef68m2"
+    },
+    {
+      "@id": "#3y377k",
+      "name": "Membrane-bound compartments called organelles",
+      "x": -405,
+      "y": -156,
+      "parent": "#ef68m2"
+    },
+    {
+      "@id": "#kudard",
+      "name": "Internal skeleton lets cells change shape",
+      "x": -330,
+      "y": -245,
+      "parent": "#ef68m2"
+    },
+    {
+      "@id": "#98naiu",
+      "name": "Usually much larger than bacteria",
+      "x": -225,
+      "y": -312,
+      "parent": "#ef68m2"
+    },
+    {
+      "@id": "#ibdwwe",
+      "name": "Inside the cell",
+      "x": 51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gbxsdt",
+      "name": "Mitochondria release energy from food",
+      "x": -104,
+      "y": -367,
+      "parent": "#ibdwwe"
+    },
+    {
+      "@id": "#g8weqe",
+      "name": "Chloroplasts capture sunlight in plants",
+      "x": 42,
+      "y": -423,
+      "parent": "#ibdwwe"
+    },
+    {
+      "@id": "#rmejvu",
+      "name": "Ribosomes and endoplasmic reticulum build proteins",
+      "x": 234,
+      "y": -485,
+      "parent": "#ibdwwe"
+    },
+    {
+      "@id": "#h9u8tu",
+      "name": "Golgi apparatus packages and ships molecules",
+      "x": 281,
+      "y": -281,
+      "parent": "#ibdwwe"
+    },
+    {
+      "@id": "#r4qmmf",
+      "name": "Origins",
+      "x": 220,
+      "y": -54,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ce9p58",
+      "name": "Appeared about 2 billion years ago",
+      "x": 372,
+      "y": -203,
+      "parent": "#r4qmmf"
+    },
+    {
+      "@id": "#djbktv",
+      "name": "Mitochondria were once free-living bacteria",
+      "x": 430,
+      "y": -106,
+      "link": "https://en.wikipedia.org/wiki/Endosymbiont",
+      "parent": "#r4qmmf"
+    },
+    {
+      "@id": "#cvarzm",
+      "name": "Host cell likely related to Asgard archaea",
+      "x": 450,
+      "y": 0,
+      "parent": "#r4qmmf"
+    },
+    {
+      "@id": "#x7p4pw",
+      "name": "Main groups",
+      "x": 169,
+      "y": 125,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fpzdh7",
+      "name": "Animals",
+      "x": 430,
+      "y": 106,
+      "parent": "#x7p4pw"
+    },
+    {
+      "@id": "#q75set",
+      "name": "Plants and green algae",
+      "x": 372,
+      "y": 203,
+      "parent": "#x7p4pw"
+    },
+    {
+      "@id": "#38zic9",
+      "name": "Fungi, from yeast to mushrooms",
+      "x": 281,
+      "y": 281,
+      "parent": "#x7p4pw"
+    },
+    {
+      "@id": "#rqdtbs",
+      "name": "Protists: amoebas, algae, slime moulds",
+      "x": 164,
+      "y": 335,
+      "link": "https://en.wikipedia.org/wiki/Protist",
+      "parent": "#x7p4pw"
+    },
+    {
+      "@id": "#eiu9zj",
+      "name": "Life strategies",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nihacf",
+      "name": "Sexual reproduction mixes genes",
+      "x": 38,
+      "y": 391,
+      "link": "https://en.wikipedia.org/wiki/Sexual_reproduction",
+      "parent": "#eiu9zj"
+    },
+    {
+      "@id": "#ys937n",
+      "name": "Multicellularity evolved several separate times",
+      "x": -124,
+      "y": 447,
+      "parent": "#eiu9zj"
+    },
+    {
+      "@id": "#dsi5gu",
+      "name": "Many remain single-celled, like yeast",
+      "x": -235,
+      "y": 326,
+      "parent": "#eiu9zj"
+    },
+    {
+      "@id": "#xhhp6z",
+      "name": "Why they matter",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dfvs28",
+      "name": "Includes every human, crop and tree",
+      "x": -330,
+      "y": 245,
+      "parent": "#xhhp6z"
+    },
+    {
+      "@id": "#388cbg",
+      "name": "Malaria parasite is a single-celled eukaryote",
+      "x": -405,
+      "y": 156,
+      "parent": "#xhhp6z"
+    },
+    {
+      "@id": "#yd4hqv",
+      "name": "Yeast makes bread, beer and research models",
+      "x": -525,
+      "y": 62,
+      "parent": "#xhhp6z"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,30 @@
+category: Life and home
+aliases: forms of entertainment, entertainment industry
+- Entertainment
+  - What it is
+    - Anything that holds attention for enjoyment
+    - Watched passively or joined in
+    - Often also informs or persuades
+  - Live performance
+    - [Theatre, from ancient Greek drama](https://en.wikipedia.org/wiki/Theatre)
+    - Concerts and music festivals
+    - Stand-up comedy and magic
+    - [Circus acts and acrobatics](https://en.wikipedia.org/wiki/Circus)
+    - Dance, ballet and opera
+  - Screen and media
+    - [Cinema since the 1890s](https://en.wikipedia.org/wiki/Film)
+    - [Television brought shows into homes](https://en.wikipedia.org/wiki/Television)
+    - Streaming services on demand
+    - Short videos on social media
+    - Video games out-earn the box office
+  - Stories and sound
+    - Novels, comics and magazines
+    - Radio, podcasts and audiobooks
+  - Days out and events
+    - Spectator sports
+    - Theme parks and funfairs
+    - Carnivals and street festivals
+  - The business
+    - Money from tickets, subscriptions, ads
+    - Hollywood and Bollywood film industries
+    - Celebrity and fan culture

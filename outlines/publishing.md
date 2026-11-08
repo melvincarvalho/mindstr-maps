@@ -1,0 +1,33 @@
+category: Society
+aliases: book publishing, publishing industry, how publishing works
+- Publishing
+  - What publishing is
+    - Making works public for readers
+    - Books, newspapers, magazines and journals
+    - Publisher funds, edits and distributes
+  - A short history
+    - Scribes copied manuscripts by hand
+    - [Gutenberg's press, about 1450](https://en.wikipedia.org/wiki/Printing_press)
+    - Mass-market paperbacks in the 1930s
+    - Web and e-books from the 1990s
+  - From manuscript to reader
+    - Author submits, often via literary agent
+    - Editing, copyediting and proofreading
+    - Design, typesetting and cover
+    - Printing or e-book conversion
+    - Marketing, reviews and launch
+    - Distribution to shops and libraries
+  - How the money works
+    - Advance paid against future royalties
+    - [Copyright protects the author's work](https://en.wikipedia.org/wiki/Copyright)
+    - [ISBN identifies each edition](https://en.wikipedia.org/wiki/ISBN)
+    - Booksellers take a large discount
+  - Kinds of publishing
+    - Trade houses like Penguin Random House
+    - [Academic journals use peer review](https://en.wikipedia.org/wiki/Peer_review)
+    - [Self-publishing and print on demand](https://en.wikipedia.org/wiki/Self-publishing)
+    - Newspaper and magazine publishing
+  - Today's changes
+    - Amazon dominates book sales
+    - Audiobooks are the fastest-growing format
+    - Open access challenges journal paywalls

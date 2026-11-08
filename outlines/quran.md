@@ -1,0 +1,31 @@
+category: Philosophy and religion
+aliases: koran, qur'an, holy quran, the noble quran
+- Quran
+  - What it is
+    - Central religious text of Islam
+    - Muslims believe it is God's word
+    - Revealed to Muhammad through angel Gabriel
+  - Revelation
+    - About 23 years, 610 to 632 CE
+    - [Meccan and Medinan surahs](https://en.wikipedia.org/wiki/Meccan_surah)
+    - Memorised and written down by companions
+    - [Compiled into one text under Uthman](https://en.wikipedia.org/wiki/History_of_the_Quran)
+  - Structure
+    - [114 chapters called surahs](https://en.wikipedia.org/wiki/Surah)
+    - Over 6,000 verses called ayat
+    - Opens with Al-Fatiha
+    - Arranged roughly longest to shortest
+  - Main themes
+    - Oneness of God (tawhid)
+    - Stories of earlier prophets
+    - Moral guidance and law
+    - Judgement Day, heaven and hell
+  - Language and reading
+    - Written in Classical Arabic
+    - Recited aloud with tajwid rules
+    - Huffaz memorise the whole text
+    - Translations seen as interpretations
+  - Understanding it
+    - [Tafsir: scholarly commentary](https://en.wikipedia.org/wiki/Tafsir)
+    - Hadith help explain context
+    - Basis of Islamic law with Sunnah

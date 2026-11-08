@@ -1,0 +1,29 @@
+category: Technology
+aliases: rockets, how rockets work, rocket science, rocket history
+- Rocket
+  - How a rocket pushes itself
+    - [Newton's third law: action and reaction](https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion)
+    - Hot gas blasted out the nozzle
+    - Works in space, needs no air
+    - Carries its own fuel and oxidiser
+  - Types of propellant
+    - Solid fuel: simple, can't be throttled
+    - Liquid fuel: controllable and restartable
+    - Hybrid rockets mix solid and liquid
+  - Getting to orbit
+    - [Rocket equation limits fuel versus mass](https://en.wikipedia.org/wiki/Tsiolkovsky_rocket_equation)
+    - Stages dropped as fuel runs out
+    - About 28,000 km/h needed for orbit
+  - Early history
+    - Chinese gunpowder rockets, around 1200s
+    - Goddard flies liquid-fuel rocket, 1926
+    - [German V-2, first to reach space](https://en.wikipedia.org/wiki/V-2_rocket)
+  - Space Age rockets
+    - R-7 launched Sputnik in 1957
+    - [Saturn V carried Apollo to the Moon](https://en.wikipedia.org/wiki/Saturn_V)
+    - Space Shuttle flew 1981 to 2011
+  - Rockets today
+    - Reusable boosters land themselves upright
+    - SpaceX Falcon 9 dominates launches
+    - Launching satellites, crews and probes
+    - Also used in fireworks and missiles

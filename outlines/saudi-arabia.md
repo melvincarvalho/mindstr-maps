@@ -1,0 +1,34 @@
+category: Geography
+aliases: kingdom of saudi arabia, ksa
+- Saudi Arabia
+  - Geography
+    - Most of the Arabian Peninsula
+    - About 2.15 million km², mostly desert
+    - [Empty Quarter, vast sand desert](https://en.wikipedia.org/wiki/Rub%27_al_Khali)
+    - Red Sea and Persian Gulf coasts
+    - Riyadh is the capital
+  - People and languages
+    - About 35 million people
+    - Around 40% are foreign nationals
+    - Arabic is the official language
+    - Mostly Sunni Muslim; Shia minority in east
+  - History in brief
+    - Islam arose in Mecca, 7th century
+    - First Saudi state founded 1727
+    - [Unified as kingdom by Ibn Saud, 1932](https://en.wikipedia.org/wiki/Ibn_Saud)
+    - Oil discovered 1938 transformed the country
+  - Government
+    - Absolute monarchy ruled by House of Saud
+    - Laws based on Islamic law (Sharia)
+    - Appointed Consultative Assembly, no elected parliament
+    - Crown Prince Mohammed bin Salman also PM
+  - Economy
+    - One of the world's largest oil exporters
+    - State-owned Saudi Aramco dominates output
+    - Leading member of OPEC
+    - [Vision 2030 aims to diversify economy](https://en.wikipedia.org/wiki/Saudi_Vision_2030)
+  - Culture and society
+    - [Hajj pilgrimage to Mecca, millions yearly](https://en.wikipedia.org/wiki/Hajj)
+    - Prophet's Mosque in Medina
+    - Women allowed to drive since 2018
+    - Cinemas and concerts returned from 2018

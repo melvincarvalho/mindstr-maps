@@ -1,0 +1,28 @@
+category: People
+aliases: elizabeth i of england, queen elizabeth i, the virgin queen, gloriana
+- Elizabeth I
+  - Early life
+    - Born 1533, daughter of Henry VIII
+    - Mother Anne Boleyn executed in 1536
+    - Imprisoned in the Tower under Mary I
+  - Becoming queen
+    - Crowned in 1559 aged 25
+    - Last Tudor monarch
+    - Reigned 44 years until 1603
+  - Religion
+    - [Elizabethan Religious Settlement restored Protestantism](https://en.wikipedia.org/wiki/Elizabethan_Religious_Settlement)
+    - Became Supreme Governor of the Church
+    - Catholic plots met with executions
+  - Threats and wars
+    - [Executed Mary, Queen of Scots, 1587](https://en.wikipedia.org/wiki/Mary%2C_Queen_of_Scots)
+    - [Spanish Armada defeated in 1588](https://en.wikipedia.org/wiki/Spanish_Armada)
+    - Long war in Ireland
+  - Never married
+    - Many foreign suitors considered, none chosen
+    - Called the Virgin Queen
+    - Succeeded by James VI of Scotland
+  - The Elizabethan age
+    - Shakespeare and Marlowe wrote for the stage
+    - Drake sailed around the world
+    - Early colonies like Roanoke attempted
+    - Remembered as a golden age

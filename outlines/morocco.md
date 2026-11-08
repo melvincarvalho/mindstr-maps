@@ -1,0 +1,33 @@
+category: Geography
+aliases: kingdom of morocco, maroc
+- Morocco
+  - Geography
+    - Atlantic and Mediterranean coastlines
+    - [Strait of Gibraltar, 14 km from Spain](https://en.wikipedia.org/wiki/Strait_of_Gibraltar)
+    - [Atlas Mountains cross the country](https://en.wikipedia.org/wiki/Atlas_Mountains)
+    - Sahara desert in the south-east
+  - People and languages
+    - About 37 million people
+    - Arabic and Amazigh (Berber) are official
+    - French widely used in business
+    - Capital Rabat; Casablanca largest city
+  - History in brief
+    - Amazigh peoples, the original inhabitants
+    - Idrisids founded first Moroccan state, 788
+    - Almoravids and Almohads ruled into Spain
+    - Alaouite dynasty rules since the 1600s
+    - Independence from France and Spain, 1956
+  - Government
+    - Constitutional monarchy led by the king
+    - Elected parliament and prime minister
+    - [Western Sahara's status is disputed](https://en.wikipedia.org/wiki/Western_Sahara)
+  - Economy
+    - About 70% of world phosphate reserves
+    - Tourism, farming and car making
+    - Tanger Med, a major Mediterranean port
+    - [Noor solar complex near Ouarzazate](https://en.wikipedia.org/wiki/Ouarzazate_Solar_Power_Station)
+  - Culture and known for
+    - [Marrakesh's souks and Jemaa el-Fnaa](https://en.wikipedia.org/wiki/Marrakesh)
+    - Old medina of Fez
+    - Tagine, couscous and mint tea
+    - World Cup semi-finalists 2022, co-hosts 2030

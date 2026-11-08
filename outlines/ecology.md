@@ -1,0 +1,30 @@
+category: Science
+aliases: ecosystems, ecological science, study of ecosystems
+- Ecology
+  - What it studies
+    - How organisms interact with each other
+    - And with their physical environment
+    - From individuals to the whole biosphere
+  - Energy flow
+    - Producers capture sunlight by photosynthesis
+    - Consumers eat plants or animals
+    - Decomposers recycle dead matter
+    - [Food webs link who eats whom](https://en.wikipedia.org/wiki/Food_web)
+    - Only about 10% passes each level
+  - Nutrient cycles
+    - [Carbon cycle moves carbon around](https://en.wikipedia.org/wiki/Carbon_cycle)
+    - Nitrogen and water cycles
+  - Populations and communities
+    - Growth limited by carrying capacity
+    - Predators and prey rise and fall
+    - Competition, mutualism and parasitism
+    - [Keystone species hold ecosystems together](https://en.wikipedia.org/wiki/Keystone_species)
+  - Ecosystems and biomes
+    - Forests, grasslands, deserts, tundra
+    - Oceans, reefs, rivers and wetlands
+    - [Succession rebuilds after disturbance](https://en.wikipedia.org/wiki/Ecological_succession)
+  - People and ecology
+    - Habitat loss drives species decline
+    - Pollution and invasive species
+    - Conservation protects habitats
+    - [Biodiversity supports ecosystem services](https://en.wikipedia.org/wiki/Biodiversity)

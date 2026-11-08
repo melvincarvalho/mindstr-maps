@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Catholic Church",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#vt9pn4",
+      "name": "Beliefs",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p2ht94",
+      "name": "Teaching rests on Scripture and Tradition",
+      "x": -444,
+      "y": -56,
+      "parent": "#vt9pn4"
+    },
+    {
+      "@id": "#m38v2h",
+      "name": "Seven sacraments convey God's grace",
+      "x": -401,
+      "y": -163,
+      "link": "https://en.wikipedia.org/wiki/Sacraments_of_the_Catholic_Church",
+      "parent": "#vt9pn4"
+    },
+    {
+      "@id": "#t2bjvt",
+      "name": "Mass centres on the Eucharist",
+      "x": -318,
+      "y": -255,
+      "parent": "#vt9pn4"
+    },
+    {
+      "@id": "#jpuq7r",
+      "name": "Special honour for Mary and saints",
+      "x": -204,
+      "y": -321,
+      "parent": "#vt9pn4"
+    },
+    {
+      "@id": "#c4ihfv",
+      "name": "Leadership",
+      "x": 71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zbsfxb",
+      "name": "Pope is Bishop of Rome",
+      "x": -73,
+      "y": -372,
+      "link": "https://en.wikipedia.org/wiki/Pope",
+      "parent": "#c4ihfv"
+    },
+    {
+      "@id": "#dusqt9",
+      "name": "Seen as successor to Saint Peter",
+      "x": 82,
+      "y": -420,
+      "parent": "#c4ihfv"
+    },
+    {
+      "@id": "#q4we4m",
+      "name": "Bishops lead dioceses, priests parishes",
+      "x": 204,
+      "y": -321,
+      "parent": "#c4ihfv"
+    },
+    {
+      "@id": "#9k4vdb",
+      "name": "Cardinals elect the pope in conclave",
+      "x": 318,
+      "y": -255,
+      "parent": "#c4ihfv"
+    },
+    {
+      "@id": "#maanpp",
+      "name": "History",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cy3dax",
+      "name": "Traces itself to the apostles",
+      "x": 401,
+      "y": -163,
+      "parent": "#maanpp"
+    },
+    {
+      "@id": "#7u8gwj",
+      "name": "East–West Schism with Orthodoxy in 1054",
+      "x": 444,
+      "y": -56,
+      "parent": "#maanpp"
+    },
+    {
+      "@id": "#5npix4",
+      "name": "Council of Trent answered the Reformation",
+      "x": 444,
+      "y": 56,
+      "link": "https://en.wikipedia.org/wiki/Council_of_Trent",
+      "parent": "#maanpp"
+    },
+    {
+      "@id": "#tezvuj",
+      "name": "Second Vatican Council modernised worship (1962–65)",
+      "x": 401,
+      "y": 163,
+      "link": "https://en.wikipedia.org/wiki/Second_Vatican_Council",
+      "parent": "#maanpp"
+    },
+    {
+      "@id": "#5yhyzw",
+      "name": "Structure",
+      "x": 140,
+      "y": 220,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#x6pgc4",
+      "name": "Based in Vatican City",
+      "x": 332,
+      "y": 266,
+      "parent": "#5yhyzw"
+    },
+    {
+      "@id": "#mvv2s7",
+      "name": "Latin Church plus 23 Eastern Catholic churches",
+      "x": 204,
+      "y": 321,
+      "parent": "#5yhyzw"
+    },
+    {
+      "@id": "#r339ff",
+      "name": "Religious orders like Jesuits and Franciscans",
+      "x": 73,
+      "y": 372,
+      "parent": "#5yhyzw"
+    },
+    {
+      "@id": "#6z9zej",
+      "name": "In the world",
+      "x": -104,
+      "y": 164,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wh4ecr",
+      "name": "About 1.4 billion members",
+      "x": -82,
+      "y": 420,
+      "parent": "#6z9zej"
+    },
+    {
+      "@id": "#ibf523",
+      "name": "Largest numbers in Latin America",
+      "x": -204,
+      "y": 321,
+      "parent": "#6z9zej"
+    },
+    {
+      "@id": "#8xrqj9",
+      "name": "Runs many schools, hospitals and charities",
+      "x": -318,
+      "y": 255,
+      "parent": "#6z9zej"
+    },
+    {
+      "@id": "#ta3yq7",
+      "name": "Current issues",
+      "x": -219,
+      "y": 57,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j9pv5m",
+      "name": "Response to clergy abuse scandals",
+      "x": -401,
+      "y": 163,
+      "parent": "#ta3yq7"
+    },
+    {
+      "@id": "#wujit5",
+      "name": "Debates on women's roles and celibacy",
+      "x": -504,
+      "y": 62,
+      "parent": "#ta3yq7"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

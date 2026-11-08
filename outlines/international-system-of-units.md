@@ -1,0 +1,33 @@
+category: Science
+aliases: SI units, SI base units, metric SI units, système international d'unités
+- International System of Units
+  - What the SI is
+    - Modern form of the metric system
+    - Used in science and most countries
+    - [Kept by the BIPM near Paris](https://en.wikipedia.org/wiki/International_Bureau_of_Weights_and_Measures)
+  - [Seven base units](https://en.wikipedia.org/wiki/SI_base_unit)
+    - Metre (m): length
+    - Kilogram (kg): mass
+    - Second (s): time
+    - Ampere (A): electric current
+    - Kelvin (K): temperature
+    - Mole (amount) and candela (light)
+  - Derived units
+    - Newton (N): force
+    - Joule (J): energy
+    - Watt (W): power
+    - Volt, ohm, hertz and pascal
+  - Prefixes
+    - Powers of ten scale any unit
+    - kilo 10³, mega 10⁶, giga 10⁹
+    - milli 10⁻³, micro 10⁻⁶, nano 10⁻⁹
+    - [Quetta and quecto added in 2022](https://en.wikipedia.org/wiki/Metric_prefix)
+  - Defined by constants
+    - [2019 revision fixed seven constants](https://en.wikipedia.org/wiki/2019_revision_of_the_SI)
+    - Kilogram from the Planck constant
+    - Second from caesium atom vibrations
+    - Metre from the speed of light
+  - History
+    - Metric system from 1790s France
+    - SI named and adopted in 1960
+    - US still mainly uses customary units

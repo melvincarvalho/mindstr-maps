@@ -1,0 +1,31 @@
+category: Science
+aliases: fungi, kingdom fungi, mushrooms and fungi
+- Fungus
+  - A kingdom of their own
+    - Neither plants nor animals
+    - More closely related to animals
+    - Cell walls made of chitin
+    - About 150,000 named, millions likely exist
+  - How fungi live
+    - [Hyphae form a network called mycelium](https://en.wikipedia.org/wiki/Mycelium)
+    - Digest food outside their bodies
+    - Mushrooms are just the fruiting bodies
+    - Spread by microscopic spores
+  - Main kinds
+    - Mushrooms and toadstools
+    - Yeasts are single-celled fungi
+    - Moulds grow on damp food
+    - [Lichens: fungi partnered with algae](https://en.wikipedia.org/wiki/Lichen)
+  - Roles in nature
+    - Decomposers recycle dead material
+    - [Mycorrhizae trade nutrients with plant roots](https://en.wikipedia.org/wiki/Mycorrhiza)
+    - Some parasitise plants and insects
+  - Useful to people
+    - Yeast raises bread and ferments beer
+    - [Penicillin came from a mould](https://en.wikipedia.org/wiki/Penicillin)
+    - Cheese, soy sauce and edible mushrooms
+  - Harmful fungi
+    - Athlete's foot, thrush and ringworm
+    - Death cap and other poisonous mushrooms
+    - Crop diseases like rusts and smuts
+    - Never eat unidentified wild mushrooms

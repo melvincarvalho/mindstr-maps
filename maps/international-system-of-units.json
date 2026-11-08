@@ -1,0 +1,363 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "International System of Units",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#289r2k",
+      "name": "What the SI is",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#93b84d",
+      "name": "Modern form of the metric system",
+      "x": -486,
+      "y": -51,
+      "parent": "#289r2k"
+    },
+    {
+      "@id": "#d6xkft",
+      "name": "Used in science and most countries",
+      "x": -416,
+      "y": -138,
+      "parent": "#289r2k"
+    },
+    {
+      "@id": "#fgv65j",
+      "name": "Kept by the BIPM near Paris",
+      "x": -357,
+      "y": -219,
+      "link": "https://en.wikipedia.org/wiki/International_Bureau_of_Weights_and_Measures",
+      "parent": "#289r2k"
+    },
+    {
+      "@id": "#pcm5px",
+      "name": "Seven base units",
+      "x": 0,
+      "y": -184,
+      "link": "https://en.wikipedia.org/wiki/SI_base_unit",
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m2yspa",
+      "name": "Metre (m): length",
+      "x": -274,
+      "y": -286,
+      "parent": "#pcm5px"
+    },
+    {
+      "@id": "#rzwypj",
+      "name": "Kilogram (kg): mass",
+      "x": -180,
+      "y": -348,
+      "parent": "#pcm5px"
+    },
+    {
+      "@id": "#q5qk4k",
+      "name": "Second (s): time",
+      "x": -68,
+      "y": -405,
+      "parent": "#pcm5px"
+    },
+    {
+      "@id": "#us948b",
+      "name": "Ampere (A): electric current",
+      "x": 77,
+      "y": -453,
+      "parent": "#pcm5px"
+    },
+    {
+      "@id": "#dnkx84",
+      "name": "Kelvin (K): temperature",
+      "x": 172,
+      "y": -333,
+      "parent": "#pcm5px"
+    },
+    {
+      "@id": "#j2pdiv",
+      "name": "Mole (amount) and candela (light)",
+      "x": 370,
+      "y": -390,
+      "parent": "#pcm5px"
+    },
+    {
+      "@id": "#kjv38y",
+      "name": "Derived units",
+      "x": 222,
+      "y": -48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tv3he8",
+      "name": "Newton (N): force",
+      "x": 357,
+      "y": -219,
+      "parent": "#kjv38y"
+    },
+    {
+      "@id": "#wv8ete",
+      "name": "Joule (J): energy",
+      "x": 416,
+      "y": -138,
+      "parent": "#kjv38y"
+    },
+    {
+      "@id": "#hn2y89",
+      "name": "Watt (W): power",
+      "x": 446,
+      "y": -47,
+      "parent": "#kjv38y"
+    },
+    {
+      "@id": "#fstn62",
+      "name": "Volt, ohm, hertz and pascal",
+      "x": 446,
+      "y": 47,
+      "parent": "#kjv38y"
+    },
+    {
+      "@id": "#qe3jkf",
+      "name": "Prefixes",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nx4r3q",
+      "name": "Powers of ten scale any unit",
+      "x": 416,
+      "y": 138,
+      "parent": "#qe3jkf"
+    },
+    {
+      "@id": "#h4f9n4",
+      "name": "kilo 10³, mega 10⁶, giga 10⁹",
+      "x": 357,
+      "y": 219,
+      "parent": "#qe3jkf"
+    },
+    {
+      "@id": "#n4b937",
+      "name": "milli 10⁻³, micro 10⁻⁶, nano 10⁻⁹",
+      "x": 274,
+      "y": 286,
+      "parent": "#qe3jkf"
+    },
+    {
+      "@id": "#n8mdwn",
+      "name": "Quetta and quecto added in 2022",
+      "x": 180,
+      "y": 348,
+      "link": "https://en.wikipedia.org/wiki/Metric_prefix",
+      "parent": "#qe3jkf"
+    },
+    {
+      "@id": "#4ju78w",
+      "name": "Defined by constants",
+      "x": -60,
+      "y": 178,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9zqtie",
+      "name": "2019 revision fixed seven constants",
+      "x": 68,
+      "y": 405,
+      "link": "https://en.wikipedia.org/wiki/2019_revision_of_the_SI",
+      "parent": "#4ju78w"
+    },
+    {
+      "@id": "#rb94d7",
+      "name": "Kilogram from the Planck constant",
+      "x": -77,
+      "y": 453,
+      "parent": "#4ju78w"
+    },
+    {
+      "@id": "#nbhcd6",
+      "name": "Second from caesium atom vibrations",
+      "x": -180,
+      "y": 348,
+      "parent": "#4ju78w"
+    },
+    {
+      "@id": "#858sa3",
+      "name": "Metre from the speed of light",
+      "x": -274,
+      "y": 286,
+      "parent": "#4ju78w"
+    },
+    {
+      "@id": "#468ipq",
+      "name": "History",
+      "x": -212,
+      "y": 70,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ybzqm2",
+      "name": "Metric system from 1790s France",
+      "x": -357,
+      "y": 219,
+      "parent": "#468ipq"
+    },
+    {
+      "@id": "#r3uwmv",
+      "name": "SI named and adopted in 1960",
+      "x": -416,
+      "y": 138,
+      "parent": "#468ipq"
+    },
+    {
+      "@id": "#6bmwdq",
+      "name": "US still mainly uses customary units",
+      "x": -466,
+      "y": 49,
+      "parent": "#468ipq"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 5,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 12,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    },
+    {
+      "start": 0,
+      "end": 27
+    },
+    {
+      "start": 27,
+      "end": 28
+    },
+    {
+      "start": 27,
+      "end": 29
+    },
+    {
+      "start": 27,
+      "end": 30
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,29 @@
+category: Science
+aliases: human ear, how the ear works, how hearing works
+- Ear
+  - Outer ear
+    - Pinna funnels sound inward
+    - Ear canal ends at the eardrum
+    - Earwax cleans and protects
+  - Middle ear
+    - [Three tiny bones: hammer, anvil, stirrup](https://en.wikipedia.org/wiki/Ossicles)
+    - Bones amplify eardrum vibrations
+    - [Eustachian tube equalises pressure](https://en.wikipedia.org/wiki/Eustachian_tube)
+  - Inner ear
+    - [Cochlea turns vibrations into nerve signals](https://en.wikipedia.org/wiki/Cochlea)
+    - Hair cells detect different pitches
+    - Auditory nerve carries signals to brain
+  - Balance
+    - [Semicircular canals sense head rotation](https://en.wikipedia.org/wiki/Vestibular_system)
+    - Otolith organs sense gravity and acceleration
+    - Mismatch with eyes causes motion sickness
+  - Common problems
+    - [Age-related hearing loss](https://en.wikipedia.org/wiki/Hearing_loss)
+    - Loud noise damage is permanent
+    - Tinnitus: ringing in the ears
+    - Middle ear infections, common in children
+  - Looking after ears
+    - Don't push cotton buds inside
+    - Keep headphone volume moderate
+    - Wear ear protection at loud events
+    - Get hearing tested if struggling

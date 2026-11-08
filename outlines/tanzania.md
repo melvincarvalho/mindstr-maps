@@ -1,0 +1,33 @@
+category: Geography
+aliases: united republic of tanzania, tanganyika and zanzibar
+- Tanzania
+  - Geography
+    - [Kilimanjaro, Africa's highest peak, 5,895 m](https://en.wikipedia.org/wiki/Mount_Kilimanjaro)
+    - On lakes Victoria, Tanganyika and Nyasa
+    - Indian Ocean coast and Zanzibar islands
+  - People and languages
+    - About 67 million people
+    - Swahili national language; English also official
+    - Over 120 ethnic groups, none dominant
+    - Dodoma capital; Dar es Salaam largest city
+  - History in brief
+    - [Olduvai Gorge's early human fossils](https://en.wikipedia.org/wiki/Olduvai_Gorge)
+    - Kilwa and Zanzibar Swahili trading ports
+    - German, then British colonial rule
+    - Tanganyika independent in 1961
+    - Union with Zanzibar formed Tanzania, 1964
+    - [Julius Nyerere's ujamaa socialism](https://en.wikipedia.org/wiki/Julius_Nyerere)
+  - Government
+    - Presidential republic
+    - Zanzibar keeps its own semi-autonomous government
+    - First woman president sworn in 2021
+  - Economy
+    - Cashews, coffee, tea and Zanzibar cloves
+    - Gold is the top export
+    - Safari and beach tourism
+    - Offshore natural gas in the south
+  - Culture and known for
+    - [Serengeti and the wildebeest migration](https://en.wikipedia.org/wiki/Serengeti)
+    - Ngorongoro Crater's dense wildlife
+    - Stone Town, Zanzibar's historic heart
+    - Tanzanite, a gem found only here

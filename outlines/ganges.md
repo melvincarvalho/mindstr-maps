@@ -1,0 +1,30 @@
+category: Geography
+aliases: ganges river, ganga river, river ganges, ganga
+- Ganges
+  - Course
+    - [Starts at the Gangotri Glacier](https://en.wikipedia.org/wiki/Gangotri_Glacier)
+    - Bhagirathi and Alaknanda join at Devprayag
+    - Flows across the plains of northern India
+    - About 2,500 km long
+  - Delta
+    - Joins the Brahmaputra in Bangladesh
+    - Called the Padma in Bangladesh
+    - [Sundarbans, the largest mangrove forest](https://en.wikipedia.org/wiki/Sundarbans)
+    - Empties into the Bay of Bengal
+  - Tributaries
+    - Yamuna joins at Prayagraj
+    - Ghaghara, Gandaki and Kosi from Nepal
+    - Son flows in from the south
+  - Sacred river
+    - Worshipped as the goddess Ganga
+    - Varanasi ghats for bathing and cremation
+    - [Kumbh Mela draws tens of millions](https://en.wikipedia.org/wiki/Kumbh_Mela)
+    - Bathing believed to wash away sins
+  - People and economy
+    - Basin home to over 400 million
+    - Fertile plain feeds much of India
+    - Irrigation canals and the Farakka Barrage
+  - Challenges
+    - [Heavy sewage and industrial pollution](https://en.wikipedia.org/wiki/Pollution_of_the_Ganges)
+    - Namami Gange cleanup programme
+    - Ganges river dolphin is endangered

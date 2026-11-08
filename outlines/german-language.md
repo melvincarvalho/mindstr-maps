@@ -1,0 +1,32 @@
+category: Society
+aliases: german, deutsch, learn german
+- German language
+  - Where it's spoken
+    - About 95 million native speakers
+    - About 130 million speakers in total
+    - Germany, Austria, Switzerland, Liechtenstein
+    - Also official in Luxembourg and Belgium
+    - Most native speakers in the EU
+  - Family
+    - Indo-European, West Germanic branch
+    - Close cousins: Dutch, English, Yiddish
+    - Many dialects; Swiss German differs sharply
+  - History
+    - [High German consonant shift, 500s–700s](https://en.wikipedia.org/wiki/High_German_consonant_shift)
+    - [Luther's Bible, 1534, unified the standard](https://en.wikipedia.org/wiki/Luther_Bible)
+    - Duden dictionary set spelling from 1880
+    - Spelling reform of 1996
+  - Sounds and writing
+    - Umlauts ä, ö, ü change vowels
+    - ß stands for a sharp "ss"
+    - All nouns start with capitals
+    - Spelling is fairly regular
+  - Grammar highlights
+    - Three genders: der, die, das
+    - [Four cases change articles and endings](https://en.wikipedia.org/wiki/German_declension)
+    - [Verb second; last in subordinate clauses](https://en.wikipedia.org/wiki/V2_word_order)
+    - Long compound nouns are normal
+  - Tips for learners
+    - Learn every noun with its article
+    - Formal "Sie" versus friendly "du"
+    - Many words share roots with English

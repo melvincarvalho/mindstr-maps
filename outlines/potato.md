@@ -1,0 +1,30 @@
+category: Life and home
+aliases: potatoes, spud, spuds, solanum tuberosum
+- Potato
+  - What a potato is
+    - A starchy underground stem tuber
+    - [Nightshade family, related to tomatoes](https://en.wikipedia.org/wiki/Solanaceae)
+    - Thousands of varieties exist
+  - History
+    - Domesticated in the Andes 8,000+ years ago
+    - Brought to Europe by Spaniards, 1500s
+    - Fed fast population growth in Europe
+    - [Blight caused the Great Irish Famine](https://en.wikipedia.org/wiki/Great_Famine_%28Ireland%29)
+  - Growing potatoes
+    - Planted from seed potatoes, not seeds
+    - Earth up soil to cover tubers
+    - [Late blight is the major disease](https://en.wikipedia.org/wiki/Phytophthora_infestans)
+    - China and India grow the most
+  - Floury or waxy
+    - Floury for mash, baking, chips
+    - Waxy hold shape in salads, stews
+    - Store cool and dark, not fridge
+  - Nutrition and safety
+    - Good source of vitamin C, potassium
+    - Most fibre is in the skin
+    - Green patches contain toxic solanine
+    - Fried chips and crisps add fat
+  - Popular dishes
+    - [French fries, the global favourite](https://en.wikipedia.org/wiki/French_fries)
+    - Mashed, roast and baked potatoes
+    - Rösti, latkes, gnocchi, tortilla española

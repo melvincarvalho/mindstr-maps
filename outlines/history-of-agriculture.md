@@ -1,0 +1,31 @@
+category: History
+aliases: agricultural history, history of farming, origins of farming
+- History of agriculture
+  - Beginnings of farming
+    - [Neolithic Revolution, about 10,000 BC](https://en.wikipedia.org/wiki/Neolithic_Revolution)
+    - Fertile Crescent: wheat, barley, lentils
+    - Independent origins in China, Mesoamerica, Andes
+    - Farming let people settle in villages
+  - First domesticated species
+    - Sheep, goats and cattle in Near East
+    - Rice and millet in China
+    - Maize bred from teosinte in Mexico
+    - Potatoes in the Andes
+  - Ancient and medieval farming
+    - [Irrigation along the Nile and Tigris](https://en.wikipedia.org/wiki/History_of_irrigation)
+    - Iron ploughs broke heavier soils
+    - Medieval three-field crop rotation
+  - Columbian Exchange
+    - Maize and potatoes reached Europe and Asia
+    - Wheat, horses and cattle reached the Americas
+    - Plantation crops like sugar and cotton
+  - Agricultural Revolution
+    - [British Agricultural Revolution, 1700s](https://en.wikipedia.org/wiki/British_Agricultural_Revolution)
+    - Enclosure of common land
+    - Turnips and clover restored soil
+    - Seed drills and selective breeding
+  - Industrial and modern farming
+    - Tractors replaced horses and labour
+    - [Haber–Bosch process made synthetic fertiliser](https://en.wikipedia.org/wiki/Haber_process)
+    - Green Revolution's high-yield crops, 1960s
+    - Genetically modified crops from 1990s

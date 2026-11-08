@@ -1,0 +1,31 @@
+category: Technology
+aliases: waste management, municipal solid waste, waste disposal
+- Waste
+  - What counts as waste
+    - Anything discarded as no longer useful
+    - [Municipal waste from homes and shops](https://en.wikipedia.org/wiki/Municipal_solid_waste)
+    - Industrial, construction and farm waste
+    - Hazardous waste: toxic, flammable, corrosive
+  - Scale of the problem
+    - About 2 billion tonnes of rubbish yearly
+    - Richer countries generate more per person
+    - About a third of food is wasted
+  - Where it goes
+    - [Landfill buries waste in lined sites](https://en.wikipedia.org/wiki/Landfill)
+    - Incineration, often recovering energy
+    - Composting and anaerobic digestion
+    - Open dumping and burning in places
+  - The waste hierarchy
+    - [Reduce first, disposal last](https://en.wikipedia.org/wiki/Waste_hierarchy)
+    - Reuse and repair products
+    - Recycle materials into new goods
+    - Recover energy from what remains
+  - Harms if mismanaged
+    - Landfills emit methane
+    - Plastic pollutes rivers and oceans
+    - Leachate can contaminate groundwater
+    - Uncollected rubbish spreads disease
+  - Solutions
+    - [Circular economy designs out waste](https://en.wikipedia.org/wiki/Circular_economy)
+    - Producers pay for disposal
+    - Deposit-return schemes for bottles

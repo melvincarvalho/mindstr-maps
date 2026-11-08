@@ -1,0 +1,30 @@
+category: Geography
+aliases: asian continent, continent of asia, geography of asia
+- Asia
+  - Land and climate
+    - Largest continent, about 30% of land
+    - [Himalayas and Everest, the highest peak](https://en.wikipedia.org/wiki/Himalayas)
+    - Siberian taiga and Arabian deserts
+    - [Monsoon rains feed South and East](https://en.wikipedia.org/wiki/Monsoon)
+    - Great rivers: Yangtze, Ganges, Mekong
+  - Regions
+    - East, South and Southeast Asia
+    - Central Asia and Siberia
+    - West Asia, also called the Middle East
+  - Peoples and languages
+    - About 4.7 billion, nearly 60% of humanity
+    - China and India the most populous
+    - Mandarin, Hindi, Arabic, Bengali, Japanese
+  - History in brief
+    - Early civilisations in Mesopotamia, Indus, China
+    - [Silk Road linked East and West](https://en.wikipedia.org/wiki/Silk_Road)
+    - Mongol Empire spanned most of it
+    - Colonial rule, then independence after 1945
+  - Economy
+    - China, Japan and India among largest
+    - Manufacturing hub for the world
+    - Gulf oil and gas exports
+  - Culture and religion
+    - [Birthplace of all major world religions](https://en.wikipedia.org/wiki/Religion_in_Asia)
+    - Rice and tea at the table
+    - Festivals from Diwali to Lunar New Year

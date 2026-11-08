@@ -1,0 +1,29 @@
+category: Philosophy and religion
+aliases: nature of reality, what is reality, is reality real
+- Reality
+  - What we mean by reality
+    - What exists whatever we believe
+    - Contrasted with appearance, dreams and fiction
+  - Can we know it?
+    - [Plato's cave: shadows mistaken for reality](https://en.wikipedia.org/wiki/Allegory_of_the_cave)
+    - Descartes doubted all but his own thinking
+    - Kant: things-in-themselves stay unknowable
+    - [Could we be living in a simulation?](https://en.wikipedia.org/wiki/Simulation_hypothesis)
+  - Philosophical views
+    - Realism: world exists independently of minds
+    - Idealism: reality is fundamentally mental
+    - Anti-realism: truth tied to what's knowable
+  - What physics says
+    - Atoms are mostly empty space
+    - Time passes differently at different speeds
+    - Quantum theory strains everyday intuitions
+    - Locke: colour is a secondary quality
+  - Social reality
+    - Money works because we all agree
+    - Borders, laws and marriages too
+    - Searle calls these institutional facts
+  - Everyday tests
+    - Optical illusions show perception constructs
+    - Dreams feel real while they last
+    - Other people confirm what we see
+    - [Virtual reality builds convincing simulated worlds](https://en.wikipedia.org/wiki/Virtual_reality)

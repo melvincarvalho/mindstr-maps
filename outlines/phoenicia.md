@@ -1,0 +1,28 @@
+category: History
+aliases: phoenicians, ancient phoenicia, phoenician civilization, phoenician civilisation
+- Phoenicia
+  - Where and when
+    - Coast of modern Lebanon and Syria
+    - Flourished about 1200–300 BC
+    - Semitic people, called themselves Canaanites
+  - City-states
+    - Tyre, Sidon, Byblos and Arwad
+    - Each ruled by its own king
+    - Never a single unified state
+  - Seafaring and trade
+    - Master sailors across the Mediterranean
+    - Cedar wood from Lebanon's forests
+    - [Tyrian purple dye from sea snails](https://en.wikipedia.org/wiki/Tyrian_purple)
+    - Glass, ivory and metalwork
+  - Colonies
+    - [Carthage founded from Tyre](https://en.wikipedia.org/wiki/Ancient_Carthage)
+    - Cádiz in Spain, Sicily, Sardinia
+    - May have sailed around Africa
+  - [The Phoenician alphabet](https://en.wikipedia.org/wiki/Phoenician_alphabet)
+    - 22 letters, consonants only
+    - Greeks adapted it, adding vowels
+    - Ancestor of Latin, Greek, Hebrew, Arabic
+  - Decline
+    - Ruled by Assyrians, Babylonians, Persians
+    - [Alexander besieged Tyre, 332 BC](https://en.wikipedia.org/wiki/Siege_of_Tyre_%28332_BC%29)
+    - Rome destroyed Carthage in 146 BC

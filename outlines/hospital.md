@@ -1,0 +1,31 @@
+category: Health
+aliases: hospitals, how hospitals work, going to hospital
+- Hospital
+  - What a hospital is
+    - Care for the very ill and injured
+    - Open around the clock
+    - Doctors, nurses and many other staff
+  - Ways in
+    - [Emergency department for urgent cases](https://en.wikipedia.org/wiki/Emergency_department)
+    - Referral from a family doctor
+    - Planned admission for an operation
+    - Outpatient clinics without staying overnight
+  - Main departments
+    - Wards for patients staying in
+    - [Intensive care for the critically ill](https://en.wikipedia.org/wiki/Intensive_care_unit)
+    - Operating theatres
+    - Maternity and children's units
+    - Radiology, labs and pharmacy
+  - Kinds of hospital
+    - General hospitals cover most needs
+    - Teaching hospitals train new doctors
+    - Specialist: children, cancer, mental health
+    - Public, private or charity run
+  - A typical stay
+    - Assessment and triage on arrival
+    - Ward rounds review progress daily
+    - Discharge plan and follow-up care
+  - Challenges
+    - [Hospital-acquired infections](https://en.wikipedia.org/wiki/Hospital-acquired_infection)
+    - Waiting lists and bed shortages
+    - High running costs

@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Physical cosmology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#j99bx5",
+      "name": "What it studies",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pswyze",
+      "name": "Origin, evolution and fate of the universe",
+      "x": -525,
+      "y": -62,
+      "parent": "#j99bx5"
+    },
+    {
+      "@id": "#draz6h",
+      "name": "Built on general relativity",
+      "x": -405,
+      "y": -156,
+      "parent": "#j99bx5"
+    },
+    {
+      "@id": "#xmpgfa",
+      "name": "Tests ideas with telescope observations",
+      "x": -330,
+      "y": -245,
+      "parent": "#j99bx5"
+    },
+    {
+      "@id": "#qmbg4x",
+      "name": "The Big Bang",
+      "x": -17,
+      "y": -183,
+      "link": "https://en.wikipedia.org/wiki/Big_Bang",
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#n3mmr9",
+      "name": "Universe about 13.8 billion years old",
+      "x": -225,
+      "y": -312,
+      "parent": "#qmbg4x"
+    },
+    {
+      "@id": "#ygmut6",
+      "name": "Began hot and dense, then expanded",
+      "x": -104,
+      "y": -367,
+      "parent": "#qmbg4x"
+    },
+    {
+      "@id": "#t8mjq5",
+      "name": "Inflation: rapid early growth spurt",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Inflation_%28cosmology%29",
+      "parent": "#qmbg4x"
+    },
+    {
+      "@id": "#63gjt7",
+      "name": "First nuclei formed in minutes",
+      "x": 234,
+      "y": -485,
+      "parent": "#qmbg4x"
+    },
+    {
+      "@id": "#hbrtpe",
+      "name": "Key evidence",
+      "x": 190,
+      "y": -104,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#espi4z",
+      "name": "Hubble: galaxies recede, 1929",
+      "x": 281,
+      "y": -281,
+      "parent": "#hbrtpe"
+    },
+    {
+      "@id": "#66ji5r",
+      "name": "Cosmic microwave background, found 1965",
+      "x": 372,
+      "y": -203,
+      "link": "https://en.wikipedia.org/wiki/Cosmic_microwave_background",
+      "parent": "#hbrtpe"
+    },
+    {
+      "@id": "#bmt5kf",
+      "name": "Hydrogen and helium abundances match predictions",
+      "x": 525,
+      "y": -131,
+      "parent": "#hbrtpe"
+    },
+    {
+      "@id": "#djaqrg",
+      "name": "What the universe contains",
+      "x": 220,
+      "y": 54,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e87thm",
+      "name": "Ordinary matter is only about 5%",
+      "x": 450,
+      "y": 0,
+      "parent": "#djaqrg"
+    },
+    {
+      "@id": "#qi6ckq",
+      "name": "Dark matter about 27%",
+      "x": 430,
+      "y": 106,
+      "link": "https://en.wikipedia.org/wiki/Dark_matter",
+      "parent": "#djaqrg"
+    },
+    {
+      "@id": "#33dij4",
+      "name": "Dark energy about 68%",
+      "x": 372,
+      "y": 203,
+      "link": "https://en.wikipedia.org/wiki/Dark_energy",
+      "parent": "#djaqrg"
+    },
+    {
+      "@id": "#afjz9h",
+      "name": "Cosmic history",
+      "x": 51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#x4b7nt",
+      "name": "Atoms form, light escapes, ~380,000 years",
+      "x": 281,
+      "y": 281,
+      "parent": "#afjz9h"
+    },
+    {
+      "@id": "#7fmn7p",
+      "name": "Dark ages before the first stars",
+      "x": 164,
+      "y": 335,
+      "parent": "#afjz9h"
+    },
+    {
+      "@id": "#n49krf",
+      "name": "Galaxies and clusters assemble",
+      "x": 38,
+      "y": 391,
+      "parent": "#afjz9h"
+    },
+    {
+      "@id": "#jjx4k2",
+      "name": "Expansion accelerating for 5 billion years",
+      "x": -124,
+      "y": 447,
+      "parent": "#afjz9h"
+    },
+    {
+      "@id": "#yr67y7",
+      "name": "Open questions",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qvm346",
+      "name": "What dark matter and energy are",
+      "x": -225,
+      "y": 312,
+      "parent": "#yr67y7"
+    },
+    {
+      "@id": "#hz5aav",
+      "name": "Hubble tension: expansion rates disagree",
+      "x": -330,
+      "y": 245,
+      "parent": "#yr67y7"
+    },
+    {
+      "@id": "#ht8ffh",
+      "name": "Why more matter than antimatter",
+      "x": -405,
+      "y": 156,
+      "parent": "#yr67y7"
+    },
+    {
+      "@id": "#k7vahu",
+      "name": "Ultimate fate, likely endless cooling",
+      "x": -445,
+      "y": 54,
+      "parent": "#yr67y7"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

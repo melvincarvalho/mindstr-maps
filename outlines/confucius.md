@@ -1,0 +1,32 @@
+category: People
+aliases: kong fuzi, kongzi, confucius teachings, master kong
+- Confucius
+  - Who he was
+    - Chinese teacher, 551–479 BC (traditional)
+    - Born in the state of Lu
+    - Lived in the Spring and Autumn period
+  - Life
+    - Minor official in Lu's government
+    - Travelled states seeking a ruler
+    - Spent later years teaching disciples
+    - Said to have had about 3,000 students
+  - Core ideas
+    - Ren: humaneness and benevolence
+    - Li: ritual, propriety and manners
+    - [Filial piety: respect for parents](https://en.wikipedia.org/wiki/Filial_piety)
+    - The junzi, or exemplary person
+    - Rulers should govern by moral example
+  - Key texts
+    - [The Analects record his sayings](https://en.wikipedia.org/wiki/Analects)
+    - Compiled by disciples after his death
+    - [Linked to the Five Classics](https://en.wikipedia.org/wiki/Four_Books_and_Five_Classics)
+  - [Confucianism after him](https://en.wikipedia.org/wiki/Confucianism)
+    - Mencius and Xunzi developed his thought
+    - State orthodoxy under the Han dynasty
+    - Imperial exams tested Confucian texts
+    - Neo-Confucianism of Zhu Xi
+  - Legacy
+    - Shaped East Asian family and government
+    - Spread to Korea, Japan and Vietnam
+    - Attacked in Mao's Cultural Revolution
+    - Temple in Qufu, his hometown

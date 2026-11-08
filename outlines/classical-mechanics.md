@@ -1,0 +1,29 @@
+category: Science
+aliases: newtonian mechanics, newtonian physics
+- Classical mechanics
+  - What it covers
+    - Motion of everyday objects
+    - From thrown balls to planets
+    - Works at speeds well below light
+  - Founders
+    - [Galileo studied falling bodies and inertia](https://en.wikipedia.org/wiki/Galileo_Galilei)
+    - Kepler found laws of planetary orbits
+    - [Newton's Principia, published 1687](https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica)
+  - Core ideas
+    - [Newton's three laws of motion](https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion)
+    - Universal gravitation links Moon and apple
+    - Momentum and energy are conserved
+    - Torque and angular momentum describe spinning
+  - Key quantities
+    - Position, velocity and acceleration
+    - Mass measures resistance to acceleration
+    - Work equals force times distance
+  - Later reformulations
+    - [Lagrangian mechanics uses energy, not forces](https://en.wikipedia.org/wiki/Lagrangian_mechanics)
+    - Hamiltonian mechanics paved way for quantum
+    - [Chaos: tiny changes, huge differences](https://en.wikipedia.org/wiki/Chaos_theory)
+  - Its limits
+    - Near light speed: special relativity
+    - Strong gravity: general relativity
+    - Atoms and below: quantum mechanics
+    - Still used for bridges, cars, spacecraft

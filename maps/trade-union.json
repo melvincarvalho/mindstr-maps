@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Trade union",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#cizyvm",
+      "name": "Workers organising together",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2sh3er",
+      "name": "Members pay regular dues",
+      "x": -504,
+      "y": -62,
+      "parent": "#cizyvm"
+    },
+    {
+      "@id": "#jekrky",
+      "name": "Strength in numbers when bargaining",
+      "x": -401,
+      "y": -163,
+      "parent": "#cizyvm"
+    },
+    {
+      "@id": "#9ge75y",
+      "name": "Organised by trade, industry or employer",
+      "x": -318,
+      "y": -255,
+      "parent": "#cizyvm"
+    },
+    {
+      "@id": "#bpdpn7",
+      "name": "What unions do",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v28xbu",
+      "name": "Collective bargaining over pay and conditions",
+      "x": -204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Collective_bargaining",
+      "parent": "#bpdpn7"
+    },
+    {
+      "@id": "#m68j68",
+      "name": "Represent members in disputes",
+      "x": -73,
+      "y": -372,
+      "parent": "#bpdpn7"
+    },
+    {
+      "@id": "#gi84vw",
+      "name": "Campaign on health and safety",
+      "x": 82,
+      "y": -420,
+      "parent": "#bpdpn7"
+    },
+    {
+      "@id": "#9tn9ty",
+      "name": "Offer training, legal advice and benefits",
+      "x": 303,
+      "y": -475,
+      "parent": "#bpdpn7"
+    },
+    {
+      "@id": "#9hdgj9",
+      "name": "Industrial action",
+      "x": 205,
+      "y": -84,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b23r4t",
+      "name": "Strikes withdraw labour",
+      "x": 318,
+      "y": -255,
+      "link": "https://en.wikipedia.org/wiki/Strike_action",
+      "parent": "#9hdgj9"
+    },
+    {
+      "@id": "#smegcq",
+      "name": "Work-to-rule and overtime bans",
+      "x": 401,
+      "y": -163,
+      "parent": "#9hdgj9"
+    },
+    {
+      "@id": "#desk56",
+      "name": "Many countries require a ballot first",
+      "x": 504,
+      "y": -62,
+      "parent": "#9hdgj9"
+    },
+    {
+      "@id": "#xzma8k",
+      "name": "History",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xqdheb",
+      "name": "Grew with the Industrial Revolution",
+      "x": 444,
+      "y": 56,
+      "parent": "#xzma8k"
+    },
+    {
+      "@id": "#5bsxdb",
+      "name": "Tolpuddle Martyrs transported, 1834",
+      "x": 401,
+      "y": 163,
+      "link": "https://en.wikipedia.org/wiki/Tolpuddle_Martyrs",
+      "parent": "#xzma8k"
+    },
+    {
+      "@id": "#d32xr5",
+      "name": "Won the weekend and shorter hours",
+      "x": 318,
+      "y": 255,
+      "parent": "#xzma8k"
+    },
+    {
+      "@id": "#vtvkiv",
+      "name": "Peak membership mid-20th century",
+      "x": 204,
+      "y": 321,
+      "parent": "#xzma8k"
+    },
+    {
+      "@id": "#3xjfgf",
+      "name": "Around the world",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b6mfdu",
+      "name": "High membership in Nordic countries",
+      "x": 73,
+      "y": 372,
+      "parent": "#3xjfgf"
+    },
+    {
+      "@id": "#ifyk73",
+      "name": "National federations like TUC, AFL-CIO",
+      "x": -82,
+      "y": 420,
+      "parent": "#3xjfgf"
+    },
+    {
+      "@id": "#ywmjmt",
+      "name": "International Labour Organization sets standards",
+      "x": -303,
+      "y": 475,
+      "link": "https://en.wikipedia.org/wiki/International_Labour_Organization",
+      "parent": "#3xjfgf"
+    },
+    {
+      "@id": "#hpryeh",
+      "name": "Debates",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kh3wzh",
+      "name": "Higher wages versus employment effects",
+      "x": -318,
+      "y": 255,
+      "parent": "#hpryeh"
+    },
+    {
+      "@id": "#u8znb4",
+      "name": "Membership falling in many countries",
+      "x": -401,
+      "y": 163,
+      "parent": "#hpryeh"
+    },
+    {
+      "@id": "#xxzfx4",
+      "name": "Organising gig and service workers",
+      "x": -444,
+      "y": 56,
+      "parent": "#hpryeh"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

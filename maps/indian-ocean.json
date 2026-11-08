@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Indian Ocean",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#88w2g5",
+      "name": "Where it is",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#et328c",
+      "name": "Between Africa, Asia and Australia",
+      "x": -465,
+      "y": -56,
+      "parent": "#88w2g5"
+    },
+    {
+      "@id": "#vnt969",
+      "name": "Third-largest ocean, about 70 million km²",
+      "x": -405,
+      "y": -156,
+      "parent": "#88w2g5"
+    },
+    {
+      "@id": "#82hsxm",
+      "name": "Warmest of the major oceans",
+      "x": -330,
+      "y": -245,
+      "parent": "#88w2g5"
+    },
+    {
+      "@id": "#cmergx",
+      "name": "Key waters",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zfhq6f",
+      "name": "Arabian Sea and Bay of Bengal",
+      "x": -225,
+      "y": -312,
+      "parent": "#cmergx"
+    },
+    {
+      "@id": "#caqr65",
+      "name": "Strait of Malacca to the Pacific",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Strait_of_Malacca",
+      "parent": "#cmergx"
+    },
+    {
+      "@id": "#xcf2yc",
+      "name": "Strait of Hormuz to the Persian Gulf",
+      "x": 42,
+      "y": -423,
+      "parent": "#cmergx"
+    },
+    {
+      "@id": "#jrf8xx",
+      "name": "Bab-el-Mandeb to the Red Sea",
+      "x": 234,
+      "y": -485,
+      "parent": "#cmergx"
+    },
+    {
+      "@id": "#tuxfmg",
+      "name": "Islands",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fabywr",
+      "name": "Madagascar, the largest",
+      "x": 281,
+      "y": -281,
+      "parent": "#tuxfmg"
+    },
+    {
+      "@id": "#p7r9uq",
+      "name": "Sri Lanka off southern India",
+      "x": 372,
+      "y": -203,
+      "parent": "#tuxfmg"
+    },
+    {
+      "@id": "#h829ib",
+      "name": "Low-lying Maldives threatened by rising seas",
+      "x": 506,
+      "y": -126,
+      "parent": "#tuxfmg"
+    },
+    {
+      "@id": "#8m2wgw",
+      "name": "Seychelles, Mauritius and Réunion",
+      "x": 450,
+      "y": 0,
+      "parent": "#tuxfmg"
+    },
+    {
+      "@id": "#sjqufe",
+      "name": "Monsoons",
+      "x": 190,
+      "y": 104,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aavbbi",
+      "name": "Winds reverse direction with the seasons",
+      "x": 468,
+      "y": 116,
+      "link": "https://en.wikipedia.org/wiki/Monsoon",
+      "parent": "#sjqufe"
+    },
+    {
+      "@id": "#46wqv8",
+      "name": "Summer rains feed South Asia's farms",
+      "x": 372,
+      "y": 203,
+      "parent": "#sjqufe"
+    },
+    {
+      "@id": "#r2n8es",
+      "name": "Indian Ocean Dipole shifts rainfall",
+      "x": 281,
+      "y": 281,
+      "parent": "#sjqufe"
+    },
+    {
+      "@id": "#69ihyr",
+      "name": "Trade and history",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#arxhwt",
+      "name": "Dhows rode the monsoon winds for centuries",
+      "x": 164,
+      "y": 335,
+      "parent": "#69ihyr"
+    },
+    {
+      "@id": "#pwnbpv",
+      "name": "Spices, silk and gold crossed it",
+      "x": 38,
+      "y": 391,
+      "parent": "#69ihyr"
+    },
+    {
+      "@id": "#huw7hj",
+      "name": "Vasco da Gama reached India in 1498",
+      "x": -124,
+      "y": 447,
+      "link": "https://en.wikipedia.org/wiki/Vasco_da_Gama",
+      "parent": "#69ihyr"
+    },
+    {
+      "@id": "#49aqfp",
+      "name": "Key route for today's oil tankers",
+      "x": -225,
+      "y": 312,
+      "parent": "#69ihyr"
+    },
+    {
+      "@id": "#8xpycb",
+      "name": "Hazards",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3xqg28",
+      "name": "2004 tsunami killed about 230,000 people",
+      "x": -330,
+      "y": 245,
+      "link": "https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami",
+      "parent": "#8xpycb"
+    },
+    {
+      "@id": "#6wnxrb",
+      "name": "Sunda Trench, about 7,200 m deep",
+      "x": -405,
+      "y": 156,
+      "parent": "#8xpycb"
+    },
+    {
+      "@id": "#phwbfn",
+      "name": "Cyclones strike Bangladesh and Mozambique",
+      "x": -485,
+      "y": 58,
+      "parent": "#8xpycb"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

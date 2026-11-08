@@ -1,0 +1,28 @@
+category: Science
+aliases: perfect vacuum, empty space physics, vacuum physics
+- Vacuum
+  - What a vacuum is
+    - Space with little or no matter
+    - Measured by how low the pressure is
+    - A perfect vacuum is never achieved
+  - History of the idea
+    - Aristotle argued nature abhors a vacuum
+    - [Torricelli's mercury barometer, 1643](https://en.wikipedia.org/wiki/Evangelista_Torricelli)
+    - [Magdeburg hemispheres: horses couldn't separate](https://en.wikipedia.org/wiki/Magdeburg_hemispheres)
+  - How vacuums behave
+    - Sound cannot travel through it
+    - Light and radio waves pass freely
+    - Air pressure outside pushes inward
+    - Liquids boil at lower temperatures
+  - Making a vacuum
+    - [Vacuum pumps remove gas molecules](https://en.wikipedia.org/wiki/Vacuum_pump)
+    - Strong chambers resist crushing pressure
+    - Seals stop air leaking back
+  - Everyday and industrial uses
+    - Vacuum flasks keep drinks hot
+    - Vacuum-packed food lasts longer
+    - Light bulbs and old TV tubes
+    - Making computer chips needs clean vacuum
+  - Vacuums in nature and physics
+    - Outer space is a near-perfect vacuum
+    - [Quantum vacuum still has fleeting energy](https://en.wikipedia.org/wiki/Vacuum_state)

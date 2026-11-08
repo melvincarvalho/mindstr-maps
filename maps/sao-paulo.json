@@ -1,0 +1,329 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "São Paulo",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#3zcpaa",
+      "name": "Setting",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5jwbn2",
+      "name": "Southeast Brazil, on a plateau",
+      "x": -445,
+      "y": -54,
+      "parent": "#3zcpaa"
+    },
+    {
+      "@id": "#bqw9zm",
+      "name": "About 70 km from the Atlantic",
+      "x": -405,
+      "y": -156,
+      "parent": "#3zcpaa"
+    },
+    {
+      "@id": "#ja5mdt",
+      "name": "Largest city in the Southern Hemisphere",
+      "x": -330,
+      "y": -245,
+      "parent": "#3zcpaa"
+    },
+    {
+      "@id": "#tmdwby",
+      "name": "History",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m4kewe",
+      "name": "Founded by Jesuits in 1554",
+      "x": -225,
+      "y": -312,
+      "parent": "#tmdwby"
+    },
+    {
+      "@id": "#ecsi55",
+      "name": "Bandeirante expeditions pushed inland",
+      "x": -104,
+      "y": -367,
+      "parent": "#tmdwby"
+    },
+    {
+      "@id": "#bxij4r",
+      "name": "Coffee boom in the 1800s",
+      "x": 42,
+      "y": -423,
+      "parent": "#tmdwby"
+    },
+    {
+      "@id": "#in3w5d",
+      "name": "Industry boomed in the 20th century",
+      "x": 234,
+      "y": -485,
+      "parent": "#tmdwby"
+    },
+    {
+      "@id": "#6x2zwa",
+      "name": "People",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jjazc4",
+      "name": "About 12 million in the city",
+      "x": 281,
+      "y": -281,
+      "parent": "#6x2zwa"
+    },
+    {
+      "@id": "#s32346",
+      "name": "About 22 million in metro area",
+      "x": 372,
+      "y": -203,
+      "parent": "#6x2zwa"
+    },
+    {
+      "@id": "#2rt759",
+      "name": "Largest Japanese community outside Japan",
+      "x": 487,
+      "y": -121,
+      "link": "https://en.wikipedia.org/wiki/Japanese_Brazilians",
+      "parent": "#6x2zwa"
+    },
+    {
+      "@id": "#hah8xx",
+      "name": "Big Italian, Arab and northeastern communities",
+      "x": 450,
+      "y": 0,
+      "parent": "#6x2zwa"
+    },
+    {
+      "@id": "#snqv8q",
+      "name": "Economy",
+      "x": 169,
+      "y": 125,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#avavfv",
+      "name": "Brazil's financial and business capital",
+      "x": 430,
+      "y": 106,
+      "parent": "#snqv8q"
+    },
+    {
+      "@id": "#wu23mg",
+      "name": "B3 stock exchange",
+      "x": 372,
+      "y": 203,
+      "link": "https://en.wikipedia.org/wiki/B3_%28stock_exchange%29",
+      "parent": "#snqv8q"
+    },
+    {
+      "@id": "#gakp66",
+      "name": "Industry, services and tech startups",
+      "x": 281,
+      "y": 281,
+      "parent": "#snqv8q"
+    },
+    {
+      "@id": "#dex89i",
+      "name": "Stark gaps between rich and poor",
+      "x": 164,
+      "y": 335,
+      "parent": "#snqv8q"
+    },
+    {
+      "@id": "#cq46hm",
+      "name": "Landmarks",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tbxe45",
+      "name": "Avenida Paulista, the main avenue",
+      "x": 38,
+      "y": 391,
+      "link": "https://en.wikipedia.org/wiki/Avenida_Paulista",
+      "parent": "#cq46hm"
+    },
+    {
+      "@id": "#6txfjn",
+      "name": "Ibirapuera Park by Niemeyer",
+      "x": -124,
+      "y": 447,
+      "parent": "#cq46hm"
+    },
+    {
+      "@id": "#fdjzhr",
+      "name": "MASP museum's suspended building",
+      "x": -225,
+      "y": 312,
+      "parent": "#cq46hm"
+    },
+    {
+      "@id": "#nfipsv",
+      "name": "Culture",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9kxn6c",
+      "name": "Hosts Brazilian Grand Prix at Interlagos",
+      "x": -330,
+      "y": 245,
+      "parent": "#nfipsv"
+    },
+    {
+      "@id": "#c7awmx",
+      "name": "Huge Pride parade and street art",
+      "x": -405,
+      "y": 156,
+      "parent": "#nfipsv"
+    },
+    {
+      "@id": "#yhb8gp",
+      "name": "Pizza, pastel and Liberdade's food",
+      "x": -465,
+      "y": 56,
+      "parent": "#nfipsv"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

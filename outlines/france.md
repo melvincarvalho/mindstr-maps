@@ -1,0 +1,34 @@
+category: Geography
+aliases: french republic, republique francaise
+- France
+  - Geography
+    - Western Europe, about 550,000 km² mainland
+    - Alps, Pyrenees and Massif Central
+    - Overseas regions like Réunion and Guadeloupe
+    - [Paris is the capital](https://en.wikipedia.org/wiki/Paris)
+  - People and languages
+    - About 68 million people
+    - French is the sole official language
+    - Catholic heritage, largely secular today
+    - Large Muslim minority, mainly North African roots
+  - History in brief
+    - Roman Gaul, then Frankish kingdoms
+    - Charlemagne crowned emperor in 800
+    - [Revolution of 1789 ended absolute monarchy](https://en.wikipedia.org/wiki/French_Revolution)
+    - Napoleon's empire, 1804 to 1815
+    - [Fifth Republic founded 1958](https://en.wikipedia.org/wiki/French_Fifth_Republic)
+  - Government
+    - Semi-presidential republic
+    - President elected every five years
+    - National Assembly and Senate make laws
+    - Founding EU member; UN Security Council seat
+  - Economy
+    - Uses the euro; large developed economy
+    - About two-thirds of electricity is nuclear
+    - Aerospace, luxury goods, wine and food
+    - World's most-visited country
+  - Culture
+    - Louvre and Eiffel Tower
+    - Cuisine on UNESCO heritage list
+    - Writers Molière, Victor Hugo, Proust
+    - Tour de France each July

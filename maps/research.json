@@ -1,0 +1,297 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Research",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#nm9sve",
+      "name": "What research is",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6apd2t",
+      "name": "Systematic search for new knowledge",
+      "x": -483,
+      "y": -69,
+      "parent": "#nm9sve"
+    },
+    {
+      "@id": "#qc6i2n",
+      "name": "Basic research seeks understanding",
+      "x": -390,
+      "y": -180,
+      "link": "https://en.wikipedia.org/wiki/Basic_research",
+      "parent": "#nm9sve"
+    },
+    {
+      "@id": "#dvrfhj",
+      "name": "Applied research solves practical problems",
+      "x": -289,
+      "y": -276,
+      "parent": "#nm9sve"
+    },
+    {
+      "@id": "#2hyk77",
+      "name": "Ask a question",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#becvw5",
+      "name": "Review what is already known",
+      "x": -154,
+      "y": -338,
+      "parent": "#2hyk77"
+    },
+    {
+      "@id": "#6d5kt9",
+      "name": "Narrow to a specific question",
+      "x": 0,
+      "y": -392,
+      "parent": "#2hyk77"
+    },
+    {
+      "@id": "#i4c3dd",
+      "name": "Form a testable hypothesis",
+      "x": 154,
+      "y": -338,
+      "parent": "#2hyk77"
+    },
+    {
+      "@id": "#fzs33p",
+      "name": "Choose a method",
+      "x": 199,
+      "y": -92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9cxy43",
+      "name": "Quantitative: measure and count",
+      "x": 289,
+      "y": -276,
+      "link": "https://en.wikipedia.org/wiki/Quantitative_research",
+      "parent": "#fzs33p"
+    },
+    {
+      "@id": "#f5geww",
+      "name": "Qualitative: interviews and observation",
+      "x": 390,
+      "y": -180,
+      "link": "https://en.wikipedia.org/wiki/Qualitative_research",
+      "parent": "#fzs33p"
+    },
+    {
+      "@id": "#ihexsd",
+      "name": "Experiments, surveys and case studies",
+      "x": 503,
+      "y": -72,
+      "parent": "#fzs33p"
+    },
+    {
+      "@id": "#n5ayme",
+      "name": "Collect and analyse data",
+      "x": 199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#q9sgs8",
+      "name": "Plan sampling to avoid bias",
+      "x": 483,
+      "y": 69,
+      "parent": "#n5ayme"
+    },
+    {
+      "@id": "#bust8p",
+      "name": "Record data carefully and openly",
+      "x": 390,
+      "y": 180,
+      "parent": "#n5ayme"
+    },
+    {
+      "@id": "#k7yijp",
+      "name": "Statistics test whether effects are real",
+      "x": 289,
+      "y": 276,
+      "parent": "#n5ayme"
+    },
+    {
+      "@id": "#7nrpve",
+      "name": "Share the findings",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6bnix4",
+      "name": "Write up methods and results",
+      "x": 154,
+      "y": 338,
+      "parent": "#7nrpve"
+    },
+    {
+      "@id": "#empk9n",
+      "name": "Peer review before publication",
+      "x": 0,
+      "y": 392,
+      "link": "https://en.wikipedia.org/wiki/Peer_review",
+      "parent": "#7nrpve"
+    },
+    {
+      "@id": "#zw3sfk",
+      "name": "Others replicate and build on it",
+      "x": -203,
+      "y": 443,
+      "parent": "#7nrpve"
+    },
+    {
+      "@id": "#9ths5j",
+      "name": "Do it responsibly",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sz7w49",
+      "name": "Ethics approval for human studies",
+      "x": -289,
+      "y": 276,
+      "parent": "#9ths5j"
+    },
+    {
+      "@id": "#ak789v",
+      "name": "Informed consent from participants",
+      "x": -390,
+      "y": 180,
+      "parent": "#9ths5j"
+    },
+    {
+      "@id": "#5hfwy9",
+      "name": "Never plagiarise or fabricate data",
+      "x": -483,
+      "y": 69,
+      "parent": "#9ths5j"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,30 @@
+category: Society
+aliases: what is economics, economics explained, economics basics, intro to economics
+- Economics
+  - Choices under scarcity
+    - Wants exceed limited resources
+    - [Opportunity cost: the next best option](https://en.wikipedia.org/wiki/Opportunity_cost)
+    - People respond to incentives
+  - Microeconomics: markets and individuals
+    - [Supply and demand set prices](https://en.wikipedia.org/wiki/Supply_and_demand)
+    - Competition, monopoly and market power
+    - Market failures like pollution
+  - Macroeconomics: the whole economy
+    - [GDP measures total output](https://en.wikipedia.org/wiki/Gross_domestic_product)
+    - Unemployment and the business cycle
+    - Inflation and interest rates
+    - Growth raises living standards
+  - Government and policy
+    - Central banks run monetary policy
+    - Fiscal policy: taxes and spending
+    - Regulation and public goods
+  - Schools of thought
+    - [Adam Smith's Wealth of Nations, 1776](https://en.wikipedia.org/wiki/The_Wealth_of_Nations)
+    - Marx critiqued capitalism
+    - Keynes: governments can fight recessions
+    - Monetarists focus on money supply
+    - Behavioural economics: people aren't fully rational
+  - Tools economists use
+    - Models simplify the real world
+    - Data and statistics test ideas
+    - Experiments and natural experiments

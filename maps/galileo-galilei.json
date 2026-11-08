@@ -1,0 +1,328 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Galileo Galilei",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#8d2rkk",
+      "name": "Life",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4pixyn",
+      "name": "Born 1564 in Pisa, Italy",
+      "x": -445,
+      "y": -51,
+      "parent": "#8d2rkk"
+    },
+    {
+      "@id": "#qyhi3r",
+      "name": "Taught mathematics at Pisa and Padua",
+      "x": -409,
+      "y": -150,
+      "parent": "#8d2rkk"
+    },
+    {
+      "@id": "#jq5n4e",
+      "name": "Court philosopher to the Medici, 1610",
+      "x": -340,
+      "y": -236,
+      "parent": "#8d2rkk"
+    },
+    {
+      "@id": "#t7mt26",
+      "name": "Died 1642 at Arcetri near Florence",
+      "x": -243,
+      "y": -303,
+      "parent": "#8d2rkk"
+    },
+    {
+      "@id": "#tntshe",
+      "name": "Telescope discoveries",
+      "x": 65,
+      "y": -177,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zghfnm",
+      "name": "Built improved telescopes from 1609",
+      "x": -133,
+      "y": -360,
+      "parent": "#tntshe"
+    },
+    {
+      "@id": "#wzaqju",
+      "name": "Four large moons of Jupiter",
+      "x": 0,
+      "y": -408,
+      "link": "https://en.wikipedia.org/wiki/Galilean_moons",
+      "parent": "#tntshe"
+    },
+    {
+      "@id": "#6c5h8e",
+      "name": "Phases of Venus support heliocentrism",
+      "x": 175,
+      "y": -465,
+      "parent": "#tntshe"
+    },
+    {
+      "@id": "#vi8g9n",
+      "name": "Mountains and craters on the Moon",
+      "x": 243,
+      "y": -303,
+      "parent": "#tntshe"
+    },
+    {
+      "@id": "#gghga7",
+      "name": "Sunspots and the Milky Way's stars",
+      "x": 340,
+      "y": -236,
+      "parent": "#tntshe"
+    },
+    {
+      "@id": "#us9gwg",
+      "name": "Physics of motion",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mdgved",
+      "name": "Falling bodies accelerate at equal rates",
+      "x": 409,
+      "y": -150,
+      "parent": "#us9gwg"
+    },
+    {
+      "@id": "#ftk7x4",
+      "name": "Pendulum swings keep steady time",
+      "x": 445,
+      "y": -51,
+      "parent": "#us9gwg"
+    },
+    {
+      "@id": "#xt4prg",
+      "name": "Projectiles follow a parabolic path",
+      "x": 445,
+      "y": 51,
+      "parent": "#us9gwg"
+    },
+    {
+      "@id": "#wnzhyh",
+      "name": "Early idea of inertia",
+      "x": 409,
+      "y": 150,
+      "parent": "#us9gwg"
+    },
+    {
+      "@id": "#2rk2gz",
+      "name": "Clash with the Church",
+      "x": 65,
+      "y": 177,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ayhgft",
+      "name": "Backed Copernicus's Sun-centred system",
+      "x": 340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/Copernican_heliocentrism",
+      "parent": "#2rk2gz"
+    },
+    {
+      "@id": "#3fn5mn",
+      "name": "Warned off the doctrine in 1616",
+      "x": 243,
+      "y": 303,
+      "parent": "#2rk2gz"
+    },
+    {
+      "@id": "#8tszg5",
+      "name": "Dialogue on Two Chief World Systems, 1632",
+      "x": 133,
+      "y": 360,
+      "parent": "#2rk2gz"
+    },
+    {
+      "@id": "#awg6bc",
+      "name": "Tried by the Inquisition, 1633",
+      "x": 0,
+      "y": 408,
+      "link": "https://en.wikipedia.org/wiki/Galileo_affair",
+      "parent": "#2rk2gz"
+    },
+    {
+      "@id": "#z9cv9h",
+      "name": "House arrest for the rest of life",
+      "x": -175,
+      "y": 465,
+      "parent": "#2rk2gz"
+    },
+    {
+      "@id": "#6ieixd",
+      "name": "Legacy",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8es352",
+      "name": "Experiment and mathematics over authority",
+      "x": -243,
+      "y": 303,
+      "parent": "#6ieixd"
+    },
+    {
+      "@id": "#xpiwiv",
+      "name": "Two New Sciences published 1638",
+      "x": -340,
+      "y": 236,
+      "parent": "#6ieixd"
+    },
+    {
+      "@id": "#t6u32t",
+      "name": "Church admitted error in 1992",
+      "x": -409,
+      "y": 150,
+      "parent": "#6ieixd"
+    },
+    {
+      "@id": "#ctwife",
+      "name": "Paved the way for Newton",
+      "x": -445,
+      "y": 51,
+      "parent": "#6ieixd"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 6,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 12,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 17,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

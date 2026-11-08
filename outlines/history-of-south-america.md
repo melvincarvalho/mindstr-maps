@@ -1,0 +1,33 @@
+category: History
+aliases: south american history, south america history
+- History of South America
+  - First peoples
+    - [Monte Verde settled about 14,500 years ago](https://en.wikipedia.org/wiki/Monte_Verde)
+    - Caral in Peru, about 2600 BC
+    - Amazon peoples farm and shape the forest
+  - Andean civilizations
+    - Chavín and Moche cultures
+    - Nazca Lines etched in the desert
+    - Tiwanaku and Wari states
+    - [Inca Empire, largest in the Americas](https://en.wikipedia.org/wiki/Inca_Empire)
+  - Conquest and colony
+    - Treaty of Tordesillas divides lands, 1494
+    - Portugal claims Brazil from 1500
+    - Pizarro captures the Inca Atahualpa, 1532
+    - Potosí silver enriches Spain
+    - Disease and forced labour devastate Indigenous peoples
+  - Independence
+    - [Simón Bolívar liberates the north](https://en.wikipedia.org/wiki/Sim%C3%B3n_Bol%C3%ADvar)
+    - José de San Martín frees the south
+    - Brazil independent as an empire, 1822
+    - Most countries free by 1825
+  - Nations take shape
+    - Caudillos and civil wars
+    - Paraguayan War, 1864–1870
+    - War of the Pacific, 1879–1884
+    - Brazil ends slavery last, 1888
+  - Twentieth century to today
+    - Military dictatorships, 1960s–1980s
+    - Return to democracy in the 1980s
+    - Mercosur trade bloc founded, 1991
+    - Amazon deforestation and commodity booms

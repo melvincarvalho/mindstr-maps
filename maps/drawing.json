@@ -1,0 +1,353 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Drawing",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#kqqew8",
+      "name": "What drawing is",
+      "x": -211,
+      "y": -73,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#24m9yk",
+      "name": "Marks made on a surface",
+      "x": -446,
+      "y": -49,
+      "parent": "#kqqew8"
+    },
+    {
+      "@id": "#y4wjjw",
+      "name": "Line, tone and texture describe form",
+      "x": -413,
+      "y": -143,
+      "parent": "#kqqew8"
+    },
+    {
+      "@id": "#ydxsfu",
+      "name": "Groundwork for painting, design and architecture",
+      "x": -349,
+      "y": -227,
+      "parent": "#kqqew8"
+    },
+    {
+      "@id": "#qu4qks",
+      "name": "Tools and media",
+      "x": -16,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h9r49y",
+      "name": "Graphite pencils, common since the 1800s",
+      "x": -260,
+      "y": -294,
+      "link": "https://en.wikipedia.org/wiki/Pencil",
+      "parent": "#qu4qks"
+    },
+    {
+      "@id": "#uw2259",
+      "name": "Charcoal for bold, smudgy tones",
+      "x": -158,
+      "y": -354,
+      "parent": "#qu4qks"
+    },
+    {
+      "@id": "#inzt9t",
+      "name": "Pen and ink for crisp lines",
+      "x": -34,
+      "y": -407,
+      "parent": "#qu4qks"
+    },
+    {
+      "@id": "#bwfmav",
+      "name": "Chalk, pastel and silverpoint",
+      "x": 120,
+      "y": -464,
+      "parent": "#qu4qks"
+    },
+    {
+      "@id": "#y68srb",
+      "name": "Digital drawing on tablets",
+      "x": 207,
+      "y": -320,
+      "parent": "#qu4qks"
+    },
+    {
+      "@id": "#wqdhh3",
+      "name": "Kinds of drawing",
+      "x": 211,
+      "y": -73,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#w5jh52",
+      "name": "Sketches and quick studies",
+      "x": 307,
+      "y": -263,
+      "parent": "#wqdhh3"
+    },
+    {
+      "@id": "#bge4um",
+      "name": "Life drawing from the human figure",
+      "x": 384,
+      "y": -187,
+      "link": "https://en.wikipedia.org/wiki/Figure_drawing",
+      "parent": "#wqdhh3"
+    },
+    {
+      "@id": "#5xeg2h",
+      "name": "Technical drawings and architectural plans",
+      "x": 528,
+      "y": -117,
+      "parent": "#wqdhh3"
+    },
+    {
+      "@id": "#8s73i5",
+      "name": "Cartoons and illustration",
+      "x": 450,
+      "y": 0,
+      "parent": "#wqdhh3"
+    },
+    {
+      "@id": "#mvhpi9",
+      "name": "History",
+      "x": 178,
+      "y": 116,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vijdwj",
+      "name": "Cave drawings over 30,000 years old",
+      "x": 433,
+      "y": 97,
+      "link": "https://en.wikipedia.org/wiki/Cave_painting",
+      "parent": "#mvhpi9"
+    },
+    {
+      "@id": "#dtr42x",
+      "name": "Linear perspective worked out in 1400s Italy",
+      "x": 384,
+      "y": 187,
+      "link": "https://en.wikipedia.org/wiki/Perspective_%28graphical%29",
+      "parent": "#mvhpi9"
+    },
+    {
+      "@id": "#rk9mn5",
+      "name": "Cheaper paper spreads drawing in Renaissance",
+      "x": 307,
+      "y": 263,
+      "parent": "#mvhpi9"
+    },
+    {
+      "@id": "#arfbc5",
+      "name": "Art academies make drawing core training",
+      "x": 207,
+      "y": 320,
+      "parent": "#mvhpi9"
+    },
+    {
+      "@id": "#jg9cv9",
+      "name": "Famous draughtsmen",
+      "x": -77,
+      "y": 173,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m5q823",
+      "name": "Leonardo's notebooks and Vitruvian Man",
+      "x": 96,
+      "y": 368,
+      "link": "https://en.wikipedia.org/wiki/Vitruvian_Man",
+      "parent": "#jg9cv9"
+    },
+    {
+      "@id": "#vhfsav",
+      "name": "Albrecht Dürer's precise studies",
+      "x": -35,
+      "y": 423,
+      "parent": "#jg9cv9"
+    },
+    {
+      "@id": "#nkfcsw",
+      "name": "Rembrandt's quick ink sketches",
+      "x": -214,
+      "y": 474,
+      "parent": "#jg9cv9"
+    },
+    {
+      "@id": "#anta3h",
+      "name": "Hokusai's Manga sketchbooks",
+      "x": -260,
+      "y": 294,
+      "parent": "#jg9cv9"
+    },
+    {
+      "@id": "#2sfkcj",
+      "name": "Picasso's single-line drawings",
+      "x": -349,
+      "y": 227,
+      "parent": "#jg9cv9"
+    },
+    {
+      "@id": "#b2thcz",
+      "name": "Why it matters",
+      "x": -221,
+      "y": 50,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nksx8b",
+      "name": "Helps you see and think",
+      "x": -413,
+      "y": 143,
+      "parent": "#b2thcz"
+    },
+    {
+      "@id": "#kq99vz",
+      "name": "Records ideas in science and engineering",
+      "x": -526,
+      "y": 57,
+      "parent": "#b2thcz"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    },
+    {
+      "start": 21,
+      "end": 26
+    },
+    {
+      "start": 0,
+      "end": 27
+    },
+    {
+      "start": 27,
+      "end": 28
+    },
+    {
+      "start": 27,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

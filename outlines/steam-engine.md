@@ -1,0 +1,28 @@
+category: Technology
+aliases: steam engines, steam power, how a steam engine works
+- Steam engine
+  - How it works
+    - Burn fuel to boil water
+    - Water expands about 1,700 times as steam
+    - Steam pushes a piston back and forth
+    - Condenser turns steam back to water
+  - Early engines
+    - [Hero's aeolipile spun, 1st century AD](https://en.wikipedia.org/wiki/Aeolipile)
+    - Savery's steam pump, 1698
+    - [Newcomen's engine pumped mines, 1712](https://en.wikipedia.org/wiki/Newcomen_atmospheric_engine)
+  - [James Watt's improvements](https://en.wikipedia.org/wiki/James_Watt)
+    - Separate condenser saved fuel, 1769
+    - Rotary motion drove factory machines
+    - Partnership with Matthew Boulton
+  - Steam on the move
+    - Trevithick's first railway locomotive, 1804
+    - [Stephenson's Rocket, 1829](https://en.wikipedia.org/wiki/Stephenson%27s_Rocket)
+    - Steamships crossed oceans
+    - Traction engines and steam ploughs
+  - Industrial Revolution
+    - Factories no longer needed rivers
+    - Coal mining boomed
+    - Cities and railways grew fast
+  - Steam today
+    - Steam turbines generate much of our electricity
+    - Heritage railways keep engines running

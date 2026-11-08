@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "History of Asia",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#pn6rdw",
+      "name": "Early civilizations",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#puqw4m",
+      "name": "Mesopotamia, between Tigris and Euphrates",
+      "x": -545,
+      "y": -61,
+      "parent": "#pn6rdw"
+    },
+    {
+      "@id": "#7yx2vr",
+      "name": "Indus Valley cities like Harappa",
+      "x": -409,
+      "y": -150,
+      "parent": "#pn6rdw"
+    },
+    {
+      "@id": "#ivie93",
+      "name": "Shang dynasty China, about 1600 BC",
+      "x": -340,
+      "y": -236,
+      "parent": "#pn6rdw"
+    },
+    {
+      "@id": "#ut3s88",
+      "name": "Classical empires and ideas",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d5z9gz",
+      "name": "Persian Achaemenid Empire, from 550 BC",
+      "x": -243,
+      "y": -303,
+      "parent": "#ut3s88"
+    },
+    {
+      "@id": "#uneujj",
+      "name": "Maurya Empire and Ashoka in India",
+      "x": -133,
+      "y": -360,
+      "parent": "#ut3s88"
+    },
+    {
+      "@id": "#wv4va6",
+      "name": "Qin unifies China in 221 BC",
+      "x": 0,
+      "y": -408,
+      "link": "https://en.wikipedia.org/wiki/Qin_dynasty",
+      "parent": "#ut3s88"
+    },
+    {
+      "@id": "#3ycww2",
+      "name": "Buddhism, Confucianism and Hinduism take shape",
+      "x": 175,
+      "y": -465,
+      "parent": "#ut3s88"
+    },
+    {
+      "@id": "#3chw8s",
+      "name": "Trade and faith across Asia",
+      "x": 174,
+      "y": -120,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ixckg2",
+      "name": "Silk Road links China to Mediterranean",
+      "x": 243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Silk_Road",
+      "parent": "#3chw8s"
+    },
+    {
+      "@id": "#teesx7",
+      "name": "Islam spreads from Arabia, 7th century",
+      "x": 340,
+      "y": -236,
+      "parent": "#3chw8s"
+    },
+    {
+      "@id": "#9wufp8",
+      "name": "Indian Ocean trade reaches Southeast Asia",
+      "x": 463,
+      "y": -171,
+      "parent": "#3chw8s"
+    },
+    {
+      "@id": "#b76ezm",
+      "name": "Great empires, 1200–1800",
+      "x": 221,
+      "y": 52,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qhe5s6",
+      "name": "Mongols conquer much of Asia",
+      "x": 445,
+      "y": -51,
+      "link": "https://en.wikipedia.org/wiki/Mongol_Empire",
+      "parent": "#b76ezm"
+    },
+    {
+      "@id": "#zi66jq",
+      "name": "Ottoman, Safavid and Mughal empires",
+      "x": 545,
+      "y": 61,
+      "parent": "#b76ezm"
+    },
+    {
+      "@id": "#5jew9a",
+      "name": "Ming and Qing dynasties in China",
+      "x": 409,
+      "y": 150,
+      "parent": "#b76ezm"
+    },
+    {
+      "@id": "#vvxaau",
+      "name": "Tokugawa Japan limits foreign contact",
+      "x": 340,
+      "y": 236,
+      "parent": "#b76ezm"
+    },
+    {
+      "@id": "#gp6z7d",
+      "name": "Colonialism and response",
+      "x": 65,
+      "y": 177,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wjktpu",
+      "name": "British rule India from 1858",
+      "x": 243,
+      "y": 303,
+      "parent": "#gp6z7d"
+    },
+    {
+      "@id": "#2zkcfd",
+      "name": "Opium Wars weaken Qing China",
+      "x": 133,
+      "y": 360,
+      "link": "https://en.wikipedia.org/wiki/Opium_Wars",
+      "parent": "#gp6z7d"
+    },
+    {
+      "@id": "#p4j3qx",
+      "name": "Meiji Japan modernises rapidly from 1868",
+      "x": 0,
+      "y": 408,
+      "parent": "#gp6z7d"
+    },
+    {
+      "@id": "#9gnzn8",
+      "name": "Twentieth century to today",
+      "x": -174,
+      "y": 120,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z72vdg",
+      "name": "Japan's empire defeated in 1945",
+      "x": -175,
+      "y": 465,
+      "parent": "#9gnzn8"
+    },
+    {
+      "@id": "#kqevv2",
+      "name": "India and Pakistan independent, 1947",
+      "x": -243,
+      "y": 303,
+      "parent": "#9gnzn8"
+    },
+    {
+      "@id": "#asubyz",
+      "name": "People's Republic of China founded, 1949",
+      "x": -340,
+      "y": 236,
+      "parent": "#9gnzn8"
+    },
+    {
+      "@id": "#v5n87h",
+      "name": "Korean and Vietnam wars",
+      "x": -463,
+      "y": 171,
+      "parent": "#9gnzn8"
+    },
+    {
+      "@id": "#ytvk55",
+      "name": "China and India become economic giants",
+      "x": -445,
+      "y": 51,
+      "parent": "#9gnzn8"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    },
+    {
+      "start": 23,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

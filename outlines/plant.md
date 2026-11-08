@@ -1,0 +1,32 @@
+category: Science
+aliases: plants, plant kingdom, plantae, green plants
+- Plant
+  - What a plant is
+    - Multicellular, makes its own food
+    - Cell walls made of cellulose
+    - Rooted in place, growing throughout life
+    - Roughly 380,000 known species
+  - Parts of a plant
+    - Roots take up water and minerals
+    - Stems carry water and sugars
+    - Leaves capture sunlight and exchange gases
+    - Flowers and seeds for reproduction
+  - Major groups
+    - [Mosses and liverworts: no vascular tissue](https://en.wikipedia.org/wiki/Bryophyte)
+    - Ferns spread by spores
+    - Conifers bear seeds in cones
+    - [Flowering plants: the vast majority](https://en.wikipedia.org/wiki/Flowering_plant)
+  - How plants live
+    - [Photosynthesis turns light into sugar](https://en.wikipedia.org/wiki/Photosynthesis)
+    - Transpiration pulls water up from roots
+    - Shoots grow toward light
+    - Most partner with fungi at roots
+  - Reproduction
+    - Pollination by wind, insects and birds
+    - Fruits help animals spread seeds
+    - Runners, bulbs and cuttings clone plants
+  - Why plants matter
+    - Release the oxygen we breathe
+    - Staple foods: wheat, rice and maize
+    - Timber, cotton and medicines
+    - [Forests and soils store carbon](https://en.wikipedia.org/wiki/Carbon_sink)

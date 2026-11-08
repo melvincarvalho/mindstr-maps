@@ -1,0 +1,29 @@
+category: Geography
+aliases: the pacific, pacific sea
+- Pacific Ocean
+  - Size
+    - Largest ocean, about 165 million km²
+    - Bigger than all land combined
+    - About a third of Earth's surface
+    - Slowly shrinking as the Atlantic widens
+  - Depths
+    - [Mariana Trench holds the deepest point](https://en.wikipedia.org/wiki/Mariana_Trench)
+    - Challenger Deep, about 10,900 m down
+    - Average depth about 4,000 m
+  - Restless edges
+    - [Ring of Fire volcanoes and earthquakes](https://en.wikipedia.org/wiki/Ring_of_Fire)
+    - Tsunamis cross it in hours
+    - Hawaii built over a volcanic hotspot
+  - Climate engine
+    - [El Niño and La Niña swing weather](https://en.wikipedia.org/wiki/El_Ni%C3%B1o%E2%80%93Southern_Oscillation)
+    - Typhoons batter East Asia
+    - International Date Line runs through it
+  - Peoples and history
+    - Polynesian navigators settled remote islands
+    - Melanesia, Micronesia and Polynesia
+    - Magellan named it "peaceful" in 1520
+    - Pacific War battles of World War II
+  - Life and threats
+    - Great Barrier Reef off Australia
+    - Rich tuna fisheries
+    - [Great Pacific Garbage Patch gathers plastic](https://en.wikipedia.org/wiki/Great_Pacific_garbage_patch)

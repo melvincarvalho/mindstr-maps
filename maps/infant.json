@@ -1,0 +1,320 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Infant",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#dnj8cn",
+      "name": "Who counts as an infant",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fzkhjf",
+      "name": "A child up to about 12 months",
+      "x": -504,
+      "y": -62,
+      "parent": "#dnj8cn"
+    },
+    {
+      "@id": "#r3tki2",
+      "name": "Newborn: first four weeks",
+      "x": -401,
+      "y": -163,
+      "link": "https://en.wikipedia.org/wiki/Infant",
+      "parent": "#dnj8cn"
+    },
+    {
+      "@id": "#bn4vtd",
+      "name": "Premature if born before 37 weeks",
+      "x": -318,
+      "y": -255,
+      "parent": "#dnj8cn"
+    },
+    {
+      "@id": "#wn37qp",
+      "name": "Feeding",
+      "x": -36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cjhm7a",
+      "name": "Breast milk or infant formula",
+      "x": -204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Breastfeeding",
+      "parent": "#wn37qp"
+    },
+    {
+      "@id": "#jiytr5",
+      "name": "Feed on demand, often 8–12 times daily",
+      "x": -73,
+      "y": -372,
+      "parent": "#wn37qp"
+    },
+    {
+      "@id": "#rkgsvn",
+      "name": "Solid foods start around six months",
+      "x": 82,
+      "y": -420,
+      "parent": "#wn37qp"
+    },
+    {
+      "@id": "#tgtftv",
+      "name": "Sleep",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8psynx",
+      "name": "Newborns sleep about 14–17 hours daily",
+      "x": 204,
+      "y": -321,
+      "parent": "#tgtftv"
+    },
+    {
+      "@id": "#jafm6x",
+      "name": "Place on back to reduce SIDS",
+      "x": 318,
+      "y": -255,
+      "link": "https://en.wikipedia.org/wiki/Sudden_infant_death_syndrome",
+      "parent": "#tgtftv"
+    },
+    {
+      "@id": "#s98jjd",
+      "name": "Firm flat mattress, nothing loose in cot",
+      "x": 419,
+      "y": -170,
+      "parent": "#tgtftv"
+    },
+    {
+      "@id": "#7i4jc7",
+      "name": "Development milestones",
+      "x": 219,
+      "y": 57,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7ihpvb",
+      "name": "Social smiles around six weeks",
+      "x": 444,
+      "y": -56,
+      "parent": "#7i4jc7"
+    },
+    {
+      "@id": "#ecv8nn",
+      "name": "Rolling over around four to six months",
+      "x": 544,
+      "y": 66,
+      "parent": "#7i4jc7"
+    },
+    {
+      "@id": "#j8unaa",
+      "name": "Sitting up around six months",
+      "x": 401,
+      "y": 163,
+      "parent": "#7i4jc7"
+    },
+    {
+      "@id": "#2uac68",
+      "name": "Crawling, then first words near one",
+      "x": 318,
+      "y": 255,
+      "parent": "#7i4jc7"
+    },
+    {
+      "@id": "#3xjs9u",
+      "name": "Health and care",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r8w3g5",
+      "name": "Routine check-ups and vaccinations",
+      "x": 204,
+      "y": 321,
+      "parent": "#3xjs9u"
+    },
+    {
+      "@id": "#e64qjr",
+      "name": "Skin-to-skin contact helps bonding",
+      "x": 73,
+      "y": 372,
+      "link": "https://en.wikipedia.org/wiki/Kangaroo_care",
+      "parent": "#3xjs9u"
+    },
+    {
+      "@id": "#q43a7k",
+      "name": "Seek help for fever in young babies",
+      "x": -82,
+      "y": 420,
+      "parent": "#3xjs9u"
+    },
+    {
+      "@id": "#urtu9j",
+      "name": "Rear-facing car seat for travel",
+      "x": -204,
+      "y": 321,
+      "parent": "#3xjs9u"
+    },
+    {
+      "@id": "#i59pqw",
+      "name": "Caregivers matter too",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4jhk93",
+      "name": "Responsive comforting builds secure attachment",
+      "x": -318,
+      "y": 255,
+      "parent": "#i59pqw"
+    },
+    {
+      "@id": "#x7mhba",
+      "name": "Rest and accept help when offered",
+      "x": -401,
+      "y": 163,
+      "parent": "#i59pqw"
+    },
+    {
+      "@id": "#2tjynk",
+      "name": "Postnatal depression is common and treatable",
+      "x": -564,
+      "y": 68,
+      "link": "https://en.wikipedia.org/wiki/Postpartum_depression",
+      "parent": "#i59pqw"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Discrimination",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#cgcicp",
+      "name": "What it is",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#npkzek",
+      "name": "Unfair treatment for belonging to a group",
+      "x": -505,
+      "y": -57,
+      "parent": "#cgcicp"
+    },
+    {
+      "@id": "#dqhgmd",
+      "name": "Prejudice is the attitude behind it",
+      "x": -409,
+      "y": -150,
+      "parent": "#cgcicp"
+    },
+    {
+      "@id": "#yh59hf",
+      "name": "Stereotypes are oversimplified group beliefs",
+      "x": -340,
+      "y": -236,
+      "parent": "#cgcicp"
+    },
+    {
+      "@id": "#x482xc",
+      "name": "Common grounds",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rr54db",
+      "name": "Race and ethnicity",
+      "x": -243,
+      "y": -303,
+      "parent": "#x482xc"
+    },
+    {
+      "@id": "#ffj87b",
+      "name": "Sex and gender",
+      "x": -133,
+      "y": -360,
+      "parent": "#x482xc"
+    },
+    {
+      "@id": "#3c7mzn",
+      "name": "Disability",
+      "x": 0,
+      "y": -408,
+      "parent": "#x482xc"
+    },
+    {
+      "@id": "#x89w67",
+      "name": "Age",
+      "x": 127,
+      "y": -345,
+      "parent": "#x482xc"
+    },
+    {
+      "@id": "#qaf62m",
+      "name": "Religion or belief",
+      "x": 287,
+      "y": -355,
+      "parent": "#x482xc"
+    },
+    {
+      "@id": "#4j86e4",
+      "name": "Sexual orientation",
+      "x": 340,
+      "y": -236,
+      "parent": "#x482xc"
+    },
+    {
+      "@id": "#s3zdbh",
+      "name": "Forms it takes",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#quky2x",
+      "name": "Direct: openly treated worse",
+      "x": 409,
+      "y": -150,
+      "parent": "#s3zdbh"
+    },
+    {
+      "@id": "#3tnjun",
+      "name": "Indirect: neutral rules with unequal effects",
+      "x": 445,
+      "y": -51,
+      "parent": "#s3zdbh"
+    },
+    {
+      "@id": "#wjkgb7",
+      "name": "Institutional discrimination built into systems",
+      "x": 445,
+      "y": 51,
+      "link": "https://en.wikipedia.org/wiki/Institutional_racism",
+      "parent": "#s3zdbh"
+    },
+    {
+      "@id": "#p9ttb9",
+      "name": "Harassment and victimisation",
+      "x": 409,
+      "y": 150,
+      "parent": "#s3zdbh"
+    },
+    {
+      "@id": "#dr8sen",
+      "name": "Where it happens",
+      "x": 96,
+      "y": 167,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#eueyv4",
+      "name": "Hiring, pay and promotion",
+      "x": 340,
+      "y": 236,
+      "parent": "#dr8sen"
+    },
+    {
+      "@id": "#mdbi8j",
+      "name": "Housing and lending",
+      "x": 243,
+      "y": 303,
+      "parent": "#dr8sen"
+    },
+    {
+      "@id": "#55mvxx",
+      "name": "Education and healthcare",
+      "x": 133,
+      "y": 360,
+      "parent": "#dr8sen"
+    },
+    {
+      "@id": "#6x2ish",
+      "name": "Policing and justice",
+      "x": 0,
+      "y": 408,
+      "parent": "#dr8sen"
+    },
+    {
+      "@id": "#j9vz8i",
+      "name": "Laws against it",
+      "x": -124,
+      "y": 155,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2e5zer",
+      "name": "Universal Declaration of Human Rights, 1948",
+      "x": -175,
+      "y": 465,
+      "link": "https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights",
+      "parent": "#j9vz8i"
+    },
+    {
+      "@id": "#c3hiu6",
+      "name": "US Civil Rights Act, 1964",
+      "x": -243,
+      "y": 303,
+      "link": "https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1964",
+      "parent": "#j9vz8i"
+    },
+    {
+      "@id": "#h3ye2m",
+      "name": "UK Equality Act, 2010",
+      "x": -340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/Equality_Act_2010",
+      "parent": "#j9vz8i"
+    },
+    {
+      "@id": "#c6srpw",
+      "name": "How it is measured",
+      "x": -221,
+      "y": 52,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mpct85",
+      "name": "Audit studies send matched job applications",
+      "x": -445,
+      "y": 164,
+      "parent": "#c6srpw"
+    },
+    {
+      "@id": "#n4wbkp",
+      "name": "Pay and outcome gap statistics",
+      "x": -505,
+      "y": 57,
+      "parent": "#c6srpw"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 5,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 12,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

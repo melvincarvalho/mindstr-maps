@@ -1,0 +1,33 @@
+category: Science
+aliases: breathing system, human respiratory system, how breathing works, respiratory tract
+- Respiratory system
+  - Path of air
+    - Nose and mouth warm, filter air
+    - Pharynx and larynx (voice box)
+    - [Trachea, the windpipe](https://en.wikipedia.org/wiki/Trachea)
+    - Bronchi branch into each lung
+    - Bronchioles end in tiny air sacs
+  - Breathing mechanics
+    - [Diaphragm contracts to draw air in](https://en.wikipedia.org/wiki/Thoracic_diaphragm)
+    - Rib muscles expand the chest
+    - Breathing out is mostly passive
+    - About 12–20 breaths a minute at rest
+  - Gas exchange
+    - [Alveoli pass oxygen into blood](https://en.wikipedia.org/wiki/Pulmonary_alveolus)
+    - Carbon dioxide leaves the other way
+    - Haemoglobin in red cells carries oxygen
+  - Control and defences
+    - Brainstem sets rate from CO₂ levels
+    - Mucus traps dust and germs
+    - Cilia sweep mucus upward
+    - Coughing and sneezing clear airways
+  - Common problems
+    - Colds and flu infect the airways
+    - [Asthma narrows inflamed airways](https://en.wikipedia.org/wiki/Asthma)
+    - Pneumonia fills air sacs with fluid
+    - [COPD, mostly caused by smoking](https://en.wikipedia.org/wiki/Chronic_obstructive_pulmonary_disease)
+  - Keeping it healthy
+    - Don't smoke or vape
+    - Avoid polluted and smoky air
+    - Regular aerobic exercise
+    - Flu and pneumonia vaccines when advised

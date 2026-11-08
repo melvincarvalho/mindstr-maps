@@ -1,0 +1,308 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Logogram",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#sdcn5s",
+      "name": "A sign for a whole word",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#35k6zu",
+      "name": "人 means \"person\"",
+      "x": -444,
+      "y": -59,
+      "parent": "#sdcn5s"
+    },
+    {
+      "@id": "#65hg5w",
+      "name": "Says nothing direct about pronunciation",
+      "x": -396,
+      "y": -171,
+      "parent": "#sdcn5s"
+    },
+    {
+      "@id": "#6tpjk2",
+      "name": "Digits and & are logograms too",
+      "x": -305,
+      "y": -265,
+      "parent": "#sdcn5s"
+    },
+    {
+      "@id": "#mhbz48",
+      "name": "Where they are used",
+      "x": 19,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r8u7it",
+      "name": "Chinese characters",
+      "x": -181,
+      "y": -330,
+      "link": "https://en.wikipedia.org/wiki/Chinese_characters",
+      "parent": "#mhbz48"
+    },
+    {
+      "@id": "#9jd7id",
+      "name": "Japanese kanji alongside kana",
+      "x": -41,
+      "y": -391,
+      "link": "https://en.wikipedia.org/wiki/Kanji",
+      "parent": "#mhbz48"
+    },
+    {
+      "@id": "#6bn3yd",
+      "name": "Ancient cuneiform and Egyptian hieroglyphs",
+      "x": 140,
+      "y": -445,
+      "parent": "#mhbz48"
+    },
+    {
+      "@id": "#3v7xvm",
+      "name": "Maya script",
+      "x": 246,
+      "y": -301,
+      "link": "https://en.wikipedia.org/wiki/Maya_script",
+      "parent": "#mhbz48"
+    },
+    {
+      "@id": "#fkdbfp",
+      "name": "How signs are made",
+      "x": 227,
+      "y": -30,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z7rzw7",
+      "name": "Pictograms: simplified pictures, 山 mountain",
+      "x": 355,
+      "y": -221,
+      "parent": "#fkdbfp"
+    },
+    {
+      "@id": "#jz9me2",
+      "name": "Ideograms: abstract ideas, 上 up",
+      "x": 426,
+      "y": -117,
+      "parent": "#fkdbfp"
+    },
+    {
+      "@id": "#mh2dc2",
+      "name": "Rebus: borrow a sign for its sound",
+      "x": 530,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Rebus_principle",
+      "parent": "#fkdbfp"
+    },
+    {
+      "@id": "#atm55g",
+      "name": "Most Chinese characters pair meaning and sound",
+      "x": 426,
+      "y": 117,
+      "parent": "#fkdbfp"
+    },
+    {
+      "@id": "#zna5ue",
+      "name": "Strengths",
+      "x": 126,
+      "y": 154,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ywkm2t",
+      "name": "Readable across different spoken dialects",
+      "x": 355,
+      "y": 221,
+      "parent": "#zna5ue"
+    },
+    {
+      "@id": "#6bhd9n",
+      "name": "Distinguishes words that sound alike",
+      "x": 246,
+      "y": 301,
+      "parent": "#zna5ue"
+    },
+    {
+      "@id": "#pi2g4z",
+      "name": "Dense: much meaning in little space",
+      "x": 110,
+      "y": 349,
+      "parent": "#zna5ue"
+    },
+    {
+      "@id": "#gc69xt",
+      "name": "Challenges",
+      "x": -92,
+      "y": 169,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#48ndqm",
+      "name": "Thousands of signs to learn",
+      "x": -43,
+      "y": 407,
+      "parent": "#gc69xt"
+    },
+    {
+      "@id": "#smp5ba",
+      "name": "About 3,000 characters for everyday Chinese",
+      "x": -253,
+      "y": 465,
+      "parent": "#gc69xt"
+    },
+    {
+      "@id": "#sfwzq8",
+      "name": "Typed by phonetic input such as pinyin",
+      "x": -305,
+      "y": 265,
+      "parent": "#gc69xt"
+    },
+    {
+      "@id": "#bxxa6b",
+      "name": "Never purely logographic",
+      "x": -218,
+      "y": 60,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5dmyek",
+      "name": "Every system mixes in sound signs",
+      "x": -396,
+      "y": 171,
+      "parent": "#bxxa6b"
+    },
+    {
+      "@id": "#beh9ey",
+      "name": "Writing evolved from logograms toward sounds",
+      "x": -584,
+      "y": 80,
+      "parent": "#bxxa6b"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

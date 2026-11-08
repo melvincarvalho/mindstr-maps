@@ -1,0 +1,27 @@
+category: Technology
+aliases: six simple machines, simple machines, types of simple machines
+- Simple machine
+  - How they help
+    - Change a force's size or direction
+    - Less effort, moved over more distance
+    - [Mechanical advantage measures the gain](https://en.wikipedia.org/wiki/Mechanical_advantage)
+    - Combined, they make compound machines
+  - [Lever](https://en.wikipedia.org/wiki/Lever)
+    - A rigid bar turning on a fulcrum
+    - Three classes by fulcrum position
+    - Seesaws, crowbars and wheelbarrows
+  - [Wheel and axle](https://en.wikipedia.org/wiki/Wheel_and_axle)
+    - Turning the big wheel twists the axle
+    - Doorknobs, taps and screwdrivers
+  - [Pulley](https://en.wikipedia.org/wiki/Pulley)
+    - Rope running over a grooved wheel
+    - More pulleys mean less effort
+    - Flagpoles, cranes and window blinds
+  - [Inclined plane](https://en.wikipedia.org/wiki/Inclined_plane)
+    - Ramps raise loads with less force
+    - Wedge: two slopes that split things
+    - Screw: a ramp wrapped round a cylinder
+  - History
+    - Archimedes explained the lever mathematically
+    - Hero of Alexandria listed five
+    - Renaissance scholars added the inclined plane

@@ -1,0 +1,31 @@
+category: Technology
+aliases: how calendars work, history of the calendar
+- Calendar
+  - Built on sky cycles
+    - Day: Earth spins once
+    - Month: Moon's phases, about 29.5 days
+    - Year: one orbit, about 365.24 days
+    - The cycles don't divide evenly
+  - Kinds of calendar
+    - Solar calendars follow the seasons
+    - [Lunar: Islamic year of 354 days](https://en.wikipedia.org/wiki/Islamic_calendar)
+    - Lunisolar: Hebrew and Chinese calendars
+  - From Rome to Gregory
+    - [Julian calendar introduced 45 BC](https://en.wikipedia.org/wiki/Julian_calendar)
+    - Julian year 11 minutes too long
+    - [Pope Gregory XIII's reform, 1582](https://en.wikipedia.org/wiki/Gregorian_calendar)
+    - Ten days skipped to catch up
+    - Britain and colonies switched in 1752
+  - Leap years
+    - Extra day every four years
+    - Skip century years except every 400th
+    - So 2000 was a leap year
+  - Weeks and months
+    - Seven-day week has ancient Near Eastern roots
+    - July and August named after Caesars
+    - September was once the seventh month
+  - Calendars today
+    - Gregorian is the worldwide civil standard
+    - Religious festivals keep older calendars
+    - Easter and Ramadan dates move yearly
+    - [ISO 8601 writes dates year-month-day](https://en.wikipedia.org/wiki/ISO_8601)

@@ -1,0 +1,30 @@
+category: Geography
+aliases: paris france, city of light, ville lumiere
+- Paris
+  - Setting
+    - Capital of France, on the Seine
+    - 20 arrondissements spiral from centre
+    - Île de la Cité, the historic core
+  - History
+    - Celtic Parisii tribe gave the name
+    - Capital of French kings
+    - [Revolution began with Bastille, 1789](https://en.wikipedia.org/wiki/Storming_of_the_Bastille)
+    - [Haussmann rebuilt the boulevards, 1850s–1860s](https://en.wikipedia.org/wiki/Haussmann%27s_renovation_of_Paris)
+    - Occupied by Germany, 1940–1944
+  - People
+    - About 2 million in the city
+    - About 12 million in metro area
+    - Diverse suburbs, the banlieues
+  - Economy
+    - One of Europe's largest city economies
+    - La Défense business district
+    - Fashion, luxury goods and tourism
+  - Landmarks
+    - [Eiffel Tower, built 1889](https://en.wikipedia.org/wiki/Eiffel_Tower)
+    - Notre-Dame, restored and reopened 2024
+    - Arc de Triomphe and Champs-Élysées
+    - Sacré-Cœur on Montmartre hill
+  - Culture
+    - [The Louvre, most visited museum](https://en.wikipedia.org/wiki/Louvre)
+    - Cafés, bistros and bakeries
+    - Hosted the 2024 Olympics

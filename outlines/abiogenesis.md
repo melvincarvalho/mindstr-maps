@@ -1,0 +1,30 @@
+category: Science
+aliases: origin of life, how life began, origins of life
+- Abiogenesis
+  - The question
+    - How life arose from non-living chemistry
+    - Happened at least 3.5 billion years ago
+    - Still an open scientific problem
+  - Early Earth conditions
+    - No free oxygen in the air
+    - Oceans, volcanoes and lightning
+    - Meteorites delivered organic molecules
+  - Key experiments
+    - [Miller–Urey made amino acids, 1952](https://en.wikipedia.org/wiki/Miller%E2%80%93Urey_experiment)
+    - Simple chemistry can make nucleotides
+    - Fatty molecules self-assemble into bubbles
+  - Leading hypotheses
+    - [RNA world: RNA came first](https://en.wikipedia.org/wiki/RNA_world)
+    - [Hydrothermal vents supplied energy](https://en.wikipedia.org/wiki/Hydrothermal_vent)
+    - Metabolism-first chemical cycles
+    - Warm little ponds with wet-dry cycles
+    - Panspermia moves the question elsewhere
+  - Steps toward a cell
+    - Building blocks form
+    - Molecules start copying themselves
+    - Membranes enclose the chemistry
+    - [Last universal common ancestor emerges](https://en.wikipedia.org/wiki/Last_universal_common_ancestor)
+  - History of the idea
+    - Spontaneous generation was long believed
+    - [Pasteur disproved it in the 1860s](https://en.wikipedia.org/wiki/Spontaneous_generation)
+    - Oparin and Haldane's primordial soup

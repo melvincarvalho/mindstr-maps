@@ -1,0 +1,31 @@
+category: Science
+aliases: what causes wind, wind speed, how wind works
+- Wind
+  - What causes wind
+    - Sun heats Earth unevenly
+    - Air flows from high to low pressure
+    - [Earth's spin deflects winds](https://en.wikipedia.org/wiki/Coriolis_force)
+    - Friction slows wind near the ground
+  - Global wind patterns
+    - [Trade winds blow toward the equator](https://en.wikipedia.org/wiki/Trade_winds)
+    - Westerlies across the mid-latitudes
+    - Jet streams high in the atmosphere
+  - Local winds
+    - Sea breezes on warm days
+    - Mountain and valley breezes
+    - Warm dry foehn winds downslope
+    - Monsoon winds reverse with seasons
+  - Measuring wind
+    - Anemometer measures speed
+    - Wind vane shows direction
+    - [Beaufort scale: calm to hurricane](https://en.wikipedia.org/wiki/Beaufort_scale)
+    - Named by direction it comes from
+  - Uses and impacts
+    - [Wind turbines generate electricity](https://en.wikipedia.org/wiki/Wind_power)
+    - Powered sailing ships for millennia
+    - Spreads seeds, pollen and dust
+    - Wind chill makes cold feel colder
+  - High winds safety
+    - Follow official wind warnings
+    - Avoid trees and loose structures
+    - Drive carefully in high-sided vehicles

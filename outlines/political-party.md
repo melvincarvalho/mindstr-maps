@@ -1,0 +1,30 @@
+category: Society
+aliases: political parties, what is a political party, party politics
+- Political party
+  - What it is
+    - Organised group seeking government power
+    - Shares a broad set of policies
+    - Runs candidates in elections
+  - What parties do
+    - Select and support candidates
+    - Write manifestos and policy platforms
+    - Mobilise voters at election time
+    - Form governments or the opposition
+  - How they are organised
+    - Leader and parliamentary members
+    - Members and local branches
+    - Funding from members and donors
+    - Choosing leaders by vote or primary
+  - [Party systems](https://en.wikipedia.org/wiki/Party_system)
+    - [One-party state](https://en.wikipedia.org/wiki/One-party_state)
+    - [Two-party system, e.g. United States](https://en.wikipedia.org/wiki/Two-party_system)
+    - [Multi-party system, often with coalitions](https://en.wikipedia.org/wiki/Multi-party_system)
+  - What shapes them
+    - Electoral system, e.g. proportional representation
+    - Social divides like class, religion, region
+    - Ideology from left to right
+  - History and trends
+    - Modern parties grew with mass voting
+    - Whigs and Tories in 17th-century England
+    - Falling membership in many democracies
+    - New and populist parties emerging

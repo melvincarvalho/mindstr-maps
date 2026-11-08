@@ -1,0 +1,31 @@
+category: Technology
+aliases: automobile, motor car, how cars work, history of the car
+- Car
+  - How it moves
+    - [Engine burns fuel in cylinders](https://en.wikipedia.org/wiki/Internal_combustion_engine)
+    - Pistons turn a crankshaft
+    - Gearbox matches engine speed to wheels
+    - Electric cars use battery-powered motors
+  - Main systems
+    - Steering turns the front wheels
+    - Brakes press pads onto discs
+    - Suspension smooths out bumps
+    - Battery and alternator power electrics
+  - History
+    - [1886 Benz Patent-Motorwagen, first true car](https://en.wikipedia.org/wiki/Benz_Patent-Motorwagen)
+    - [1908 Ford Model T for the masses](https://en.wikipedia.org/wiki/Ford_Model_T)
+    - Moving assembly line cut costs, 1913
+    - Postwar boom built suburbs and motorways
+  - Safety
+    - Seat belts became standard from 1960s
+    - Airbags and crumple zones absorb impacts
+    - Anti-lock brakes prevent skidding
+    - About 1.2 million road deaths yearly
+  - Impact on the world
+    - Over 1.4 billion cars in use
+    - Exhaust adds CO₂ and air pollution
+    - Shaped cities, jobs and daily life
+  - Owning one
+    - Fuel, insurance and tax add up
+    - Regular servicing keeps it reliable
+    - Value drops fastest in early years

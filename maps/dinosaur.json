@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Dinosaur",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#a6ngvk",
+      "name": "When they lived",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7asd7q",
+      "name": "Appeared about 230 million years ago",
+      "x": -505,
+      "y": -60,
+      "parent": "#a6ngvk"
+    },
+    {
+      "@id": "#hgxb47",
+      "name": "Mesozoic: Triassic, Jurassic, Cretaceous",
+      "x": -405,
+      "y": -156,
+      "link": "https://en.wikipedia.org/wiki/Mesozoic",
+      "parent": "#a6ngvk"
+    },
+    {
+      "@id": "#gzgtbc",
+      "name": "Lasted about 165 million years",
+      "x": -330,
+      "y": -245,
+      "parent": "#a6ngvk"
+    },
+    {
+      "@id": "#8a6j5x",
+      "name": "Main groups",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#x7xqxd",
+      "name": "Theropods: two-legged, mostly meat-eaters",
+      "x": -225,
+      "y": -312,
+      "parent": "#8a6j5x"
+    },
+    {
+      "@id": "#39sgi3",
+      "name": "Sauropods: huge long-necked plant-eaters",
+      "x": -104,
+      "y": -367,
+      "parent": "#8a6j5x"
+    },
+    {
+      "@id": "#imdyj5",
+      "name": "Ornithischians: horned, armoured and duck-billed",
+      "x": 42,
+      "y": -423,
+      "parent": "#8a6j5x"
+    },
+    {
+      "@id": "#gdc9v7",
+      "name": "Not dinosaurs: pterosaurs, plesiosaurs",
+      "x": 234,
+      "y": -485,
+      "parent": "#8a6j5x"
+    },
+    {
+      "@id": "#6wruik",
+      "name": "Famous examples",
+      "x": 220,
+      "y": -54,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sg77ap",
+      "name": "Tyrannosaurus rex, late Cretaceous predator",
+      "x": 281,
+      "y": -281,
+      "link": "https://en.wikipedia.org/wiki/Tyrannosaurus",
+      "parent": "#6wruik"
+    },
+    {
+      "@id": "#b256w2",
+      "name": "Triceratops with three horns and frill",
+      "x": 372,
+      "y": -203,
+      "parent": "#6wruik"
+    },
+    {
+      "@id": "#6pnq55",
+      "name": "Stegosaurus with plates along its back",
+      "x": 430,
+      "y": -106,
+      "parent": "#6wruik"
+    },
+    {
+      "@id": "#sxbivh",
+      "name": "Argentinosaurus, among the largest land animals",
+      "x": 450,
+      "y": 0,
+      "parent": "#6wruik"
+    },
+    {
+      "@id": "#tc2gbh",
+      "name": "Velociraptor was turkey-sized and feathered",
+      "x": 430,
+      "y": 106,
+      "parent": "#6wruik"
+    },
+    {
+      "@id": "#mhm53b",
+      "name": "How we know",
+      "x": 115,
+      "y": 159,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#accirj",
+      "name": "Fossil bones, teeth, eggs and footprints",
+      "x": 389,
+      "y": 212,
+      "parent": "#mhm53b"
+    },
+    {
+      "@id": "#2yhb3t",
+      "name": "Megalosaurus first named, 1824",
+      "x": 281,
+      "y": 281,
+      "parent": "#mhm53b"
+    },
+    {
+      "@id": "#uh5z39",
+      "name": "Name means \"terrible lizard\", Owen 1842",
+      "x": 164,
+      "y": 335,
+      "parent": "#mhm53b"
+    },
+    {
+      "@id": "#weqc76",
+      "name": "Feathered fossils found in China",
+      "x": 38,
+      "y": 391,
+      "parent": "#mhm53b"
+    },
+    {
+      "@id": "#x2rz2r",
+      "name": "The extinction",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ebfjdr",
+      "name": "Asteroid impact 66 million years ago",
+      "x": -124,
+      "y": 447,
+      "link": "https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event",
+      "parent": "#x2rz2r"
+    },
+    {
+      "@id": "#jazw7x",
+      "name": "Chicxulub crater, Yucatán, Mexico",
+      "x": -225,
+      "y": 312,
+      "parent": "#x2rz2r"
+    },
+    {
+      "@id": "#qmvdie",
+      "name": "Deccan Traps eruptions may have contributed",
+      "x": -330,
+      "y": 245,
+      "parent": "#x2rz2r"
+    },
+    {
+      "@id": "#piczve",
+      "name": "Living dinosaurs",
+      "x": -220,
+      "y": 54,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#46dv3m",
+      "name": "Birds descend from small theropods",
+      "x": -405,
+      "y": 156,
+      "link": "https://en.wikipedia.org/wiki/Origin_of_birds",
+      "parent": "#piczve"
+    },
+    {
+      "@id": "#4q8nwk",
+      "name": "Archaeopteryx, an early bird-like dinosaur",
+      "x": -545,
+      "y": 64,
+      "parent": "#piczve"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 10,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

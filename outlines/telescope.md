@@ -1,0 +1,29 @@
+category: Technology
+aliases: telescopes, how a telescope works, astronomical telescope, how telescopes work
+- Telescope
+  - What it does
+    - Gathers far more light than an eye
+    - Bigger aperture shows fainter, sharper detail
+    - Eyepiece choice sets the magnification
+  - Two main designs
+    - [Refractors focus light with lenses](https://en.wikipedia.org/wiki/Refracting_telescope)
+    - [Reflectors focus light with curved mirrors](https://en.wikipedia.org/wiki/Reflecting_telescope)
+    - The biggest telescopes all use mirrors
+  - History
+    - Lippershey sought a patent, 1608
+    - Galileo saw Jupiter's moons, 1610
+    - Newton built a reflector, 1668
+    - Palomar's 5-metre mirror, 1948
+  - Beyond visible light
+    - Radio dishes detect radio waves
+    - X-ray telescopes must work in space
+    - Linked dishes imaged a black hole, 2019
+  - Telescopes in space
+    - [Hubble launched 1990, above the atmosphere](https://en.wikipedia.org/wiki/Hubble_Space_Telescope)
+    - [James Webb sees infrared, launched 2021](https://en.wikipedia.org/wiki/James_Webb_Space_Telescope)
+    - No air blur or absorbed wavelengths
+  - Using one yourself
+    - Binoculars are a good start
+    - Moon, planets and star clusters
+    - Dark skies away from city lights
+    - Never point at the Sun unfiltered

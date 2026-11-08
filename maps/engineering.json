@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Engineering",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#citrmc",
+      "name": "What engineers do",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hyu4xq",
+      "name": "Apply science and maths to design",
+      "x": -485,
+      "y": -58,
+      "parent": "#citrmc"
+    },
+    {
+      "@id": "#zc8rgc",
+      "name": "Meet needs within cost and safety limits",
+      "x": -405,
+      "y": -156,
+      "parent": "#citrmc"
+    },
+    {
+      "@id": "#7xjfb4",
+      "name": "Build, test and improve solutions",
+      "x": -330,
+      "y": -245,
+      "parent": "#citrmc"
+    },
+    {
+      "@id": "#5m7k7h",
+      "name": "Main branches",
+      "x": 17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uanz7g",
+      "name": "Civil: roads, bridges, water systems",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Civil_engineering",
+      "parent": "#5m7k7h"
+    },
+    {
+      "@id": "#29m65s",
+      "name": "Mechanical: machines, engines, motion",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Mechanical_engineering",
+      "parent": "#5m7k7h"
+    },
+    {
+      "@id": "#xdfc7a",
+      "name": "Electrical: power, circuits, electronics",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Electrical_engineering",
+      "parent": "#5m7k7h"
+    },
+    {
+      "@id": "#pvayqw",
+      "name": "Chemical: turning raw materials into products",
+      "x": 234,
+      "y": -485,
+      "parent": "#5m7k7h"
+    },
+    {
+      "@id": "#7wgcwd",
+      "name": "Software, aerospace, biomedical and more",
+      "x": 281,
+      "y": -281,
+      "parent": "#5m7k7h"
+    },
+    {
+      "@id": "#b3qhhk",
+      "name": "The design process",
+      "x": 227,
+      "y": -27,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ajsnya",
+      "name": "Define the problem and requirements",
+      "x": 372,
+      "y": -203,
+      "parent": "#b3qhhk"
+    },
+    {
+      "@id": "#q2yr9u",
+      "name": "Generate and compare concepts",
+      "x": 430,
+      "y": -106,
+      "parent": "#b3qhhk"
+    },
+    {
+      "@id": "#kdc9zm",
+      "name": "Model, prototype and test",
+      "x": 490,
+      "y": 0,
+      "parent": "#b3qhhk"
+    },
+    {
+      "@id": "#savg65",
+      "name": "Refine, build and maintain",
+      "x": 430,
+      "y": 106,
+      "parent": "#b3qhhk"
+    },
+    {
+      "@id": "#ueiw4g",
+      "name": "Core tools",
+      "x": 143,
+      "y": 144,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ufgmgb",
+      "name": "Maths, physics and materials science",
+      "x": 372,
+      "y": 203,
+      "parent": "#ueiw4g"
+    },
+    {
+      "@id": "#3eijie",
+      "name": "Computer-aided design and simulation",
+      "x": 281,
+      "y": 281,
+      "parent": "#ueiw4g"
+    },
+    {
+      "@id": "#q9sy4u",
+      "name": "Safety factors guard against failure",
+      "x": 164,
+      "y": 335,
+      "link": "https://en.wikipedia.org/wiki/Factor_of_safety",
+      "parent": "#ueiw4g"
+    },
+    {
+      "@id": "#hnj7jr",
+      "name": "Landmark achievements",
+      "x": -55,
+      "y": 195,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5pe9qn",
+      "name": "Roman aqueducts and roads",
+      "x": 38,
+      "y": 391,
+      "parent": "#hnj7jr"
+    },
+    {
+      "@id": "#pi2ei3",
+      "name": "Electrifying homes and industry",
+      "x": -124,
+      "y": 447,
+      "parent": "#hnj7jr"
+    },
+    {
+      "@id": "#t936pq",
+      "name": "Spaceflight and the Moon landings",
+      "x": -225,
+      "y": 312,
+      "parent": "#hnj7jr"
+    },
+    {
+      "@id": "#kppdvb",
+      "name": "Becoming an engineer",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b3vnbm",
+      "name": "Usually an accredited engineering degree",
+      "x": -330,
+      "y": 245,
+      "parent": "#kppdvb"
+    },
+    {
+      "@id": "#eyaibu",
+      "name": "Chartered or licensed professional status",
+      "x": -405,
+      "y": 156,
+      "parent": "#kppdvb"
+    },
+    {
+      "@id": "#fah3i6",
+      "name": "Ethics codes put public safety first",
+      "x": -525,
+      "y": 62,
+      "parent": "#kppdvb"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

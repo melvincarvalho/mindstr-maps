@@ -1,0 +1,29 @@
+category: Geography
+aliases: istanbul turkey, constantinople, byzantium city
+- Istanbul
+  - Setting
+    - Straddles the Bosphorus, Europe and Asia
+    - Golden Horn inlet splits European side
+    - Between the Black Sea and Marmara
+  - History
+    - Greek Byzantium founded about 660 BC
+    - [Constantinople, Roman capital from 330](https://en.wikipedia.org/wiki/Constantinople)
+    - [Ottomans captured it in 1453](https://en.wikipedia.org/wiki/Fall_of_Constantinople)
+    - Capital moved to Ankara in 1923
+  - People
+    - About 16 million, Turkey's largest city
+    - Migrants from across Anatolia
+    - Historic Greek, Armenian and Jewish communities
+  - Economy
+    - Turkey's financial and business centre
+    - Major port and shipping crossroads
+    - Tourism, textiles and manufacturing
+  - Landmarks
+    - [Hagia Sophia, built 537](https://en.wikipedia.org/wiki/Hagia_Sophia)
+    - Blue Mosque with six minarets
+    - Topkapı Palace of the sultans
+    - Grand Bazaar, one of oldest markets
+  - Culture
+    - Ferries and bridges link two continents
+    - Tea, kebabs and street simit
+    - Football rivalry: Galatasaray, Fenerbahçe, Beşiktaş

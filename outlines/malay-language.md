@@ -1,0 +1,29 @@
+category: Society
+aliases: bahasa melayu, malay, bahasa malaysia
+- Malay language
+  - Where it is spoken
+    - Malaysia, Brunei, Singapore and Indonesia
+    - National language of Malaysia and Brunei
+    - [Indonesian is a standardised form](https://en.wikipedia.org/wiki/Indonesian_language)
+    - About 290 million speakers, counting Indonesian
+  - Family and history
+    - [Part of the Austronesian family](https://en.wikipedia.org/wiki/Austronesian_languages)
+    - Old Malay inscriptions from the 600s
+    - Srivijaya and Malacca spread it by trade
+    - Lingua franca of maritime Southeast Asia
+  - Borrowed words
+    - Sanskrit gave bahasa and raja
+    - Arabic gave kitab and waktu
+    - Portuguese gave meja and sekolah
+    - English gives modern teksi and polis
+  - Sounds and writing
+    - Six vowels and no tones
+    - [Jawi: Arabic-based script, still used](https://en.wikipedia.org/wiki/Jawi_script)
+    - Latin-based Rumi script is standard
+    - Spelling reformed jointly with Indonesia, 1972
+  - Grammar highlights
+    - No verb tenses; sudah, akan mark time
+    - No gender, articles or conjugation
+    - Plurals by doubling: orang-orang
+    - Affixes build words: ajar, belajar, pelajar
+    - Subject–verb–object word order

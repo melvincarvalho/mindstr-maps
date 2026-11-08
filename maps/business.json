@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Business",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#6wy388",
+      "name": "What a business is",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gff8tg",
+      "name": "Sells goods or services for profit",
+      "x": -505,
+      "y": -60,
+      "parent": "#6wy388"
+    },
+    {
+      "@id": "#uxd57q",
+      "name": "Customers, owners, employees and suppliers",
+      "x": -405,
+      "y": -156,
+      "parent": "#6wy388"
+    },
+    {
+      "@id": "#jt52zy",
+      "name": "Nonprofits and social enterprises differ",
+      "x": -330,
+      "y": -245,
+      "parent": "#6wy388"
+    },
+    {
+      "@id": "#wafrvf",
+      "name": "Legal forms",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vmb7cx",
+      "name": "Sole proprietorship, owned by one person",
+      "x": -225,
+      "y": -312,
+      "parent": "#wafrvf"
+    },
+    {
+      "@id": "#mjmf9k",
+      "name": "Partnership shared by two or more",
+      "x": -104,
+      "y": -367,
+      "parent": "#wafrvf"
+    },
+    {
+      "@id": "#aaa3xy",
+      "name": "Corporation: a separate legal person",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Corporation",
+      "parent": "#wafrvf"
+    },
+    {
+      "@id": "#6mdy52",
+      "name": "Limited liability protects owners' assets",
+      "x": 234,
+      "y": -485,
+      "link": "https://en.wikipedia.org/wiki/Limited_liability",
+      "parent": "#wafrvf"
+    },
+    {
+      "@id": "#hx4nje",
+      "name": "Core functions",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cf6txt",
+      "name": "Operations make the product",
+      "x": 281,
+      "y": -281,
+      "parent": "#hx4nje"
+    },
+    {
+      "@id": "#gj6vem",
+      "name": "Marketing and sales find customers",
+      "x": 372,
+      "y": -203,
+      "parent": "#hx4nje"
+    },
+    {
+      "@id": "#feevnx",
+      "name": "Finance and accounting track money",
+      "x": 487,
+      "y": -121,
+      "parent": "#hx4nje"
+    },
+    {
+      "@id": "#2tsjcu",
+      "name": "Human resources hires and develops people",
+      "x": 450,
+      "y": 0,
+      "parent": "#hx4nje"
+    },
+    {
+      "@id": "#bgdhyz",
+      "name": "Money in and out",
+      "x": 169,
+      "y": 125,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ndi7x8",
+      "name": "Revenue minus costs equals profit",
+      "x": 449,
+      "y": 111,
+      "parent": "#bgdhyz"
+    },
+    {
+      "@id": "#3kp8xr",
+      "name": "Cash flow keeps it running",
+      "x": 372,
+      "y": 203,
+      "parent": "#bgdhyz"
+    },
+    {
+      "@id": "#gx99iu",
+      "name": "Funding from savings, loans or investors",
+      "x": 281,
+      "y": 281,
+      "parent": "#bgdhyz"
+    },
+    {
+      "@id": "#fehgxu",
+      "name": "Financial statements report performance",
+      "x": 164,
+      "y": 335,
+      "link": "https://en.wikipedia.org/wiki/Financial_statement",
+      "parent": "#bgdhyz"
+    },
+    {
+      "@id": "#rgiarx",
+      "name": "Size and scale",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pwvjj9",
+      "name": "Small firms are about 90% of businesses",
+      "x": 38,
+      "y": 391,
+      "parent": "#rgiarx"
+    },
+    {
+      "@id": "#67a7br",
+      "name": "Multinationals operate across many countries",
+      "x": -124,
+      "y": 447,
+      "parent": "#rgiarx"
+    },
+    {
+      "@id": "#y4n7uq",
+      "name": "Stock markets let public companies raise money",
+      "x": -365,
+      "y": 508,
+      "parent": "#rgiarx"
+    },
+    {
+      "@id": "#7sqf6z",
+      "name": "Responsibilities",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xxqdaw",
+      "name": "Obey laws on tax, safety and competition",
+      "x": -330,
+      "y": 245,
+      "parent": "#7sqf6z"
+    },
+    {
+      "@id": "#58pq75",
+      "name": "Treat workers and customers fairly",
+      "x": -405,
+      "y": 156,
+      "parent": "#7sqf6z"
+    },
+    {
+      "@id": "#f5tvp5",
+      "name": "Corporate social responsibility",
+      "x": -485,
+      "y": 58,
+      "link": "https://en.wikipedia.org/wiki/Corporate_social_responsibility",
+      "parent": "#7sqf6z"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

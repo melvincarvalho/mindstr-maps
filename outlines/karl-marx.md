@@ -1,0 +1,29 @@
+category: People
+aliases: marx, marxism, karl marx philosophy
+- Karl Marx
+  - Life, 1818–1883
+    - Born in Trier, Prussia
+    - Studied law and philosophy in Bonn, Berlin
+    - Radical journalist expelled from several countries
+    - Settled in London from 1849
+    - Supported by lifelong partner Friedrich Engels
+  - Major works
+    - [The Communist Manifesto with Engels, 1848](https://en.wikipedia.org/wiki/The_Communist_Manifesto)
+    - [Das Kapital, volume one 1867](https://en.wikipedia.org/wiki/Das_Kapital)
+    - Theses on Feuerbach and German Ideology
+  - Key ideas
+    - [History driven by material conditions](https://en.wikipedia.org/wiki/Historical_materialism)
+    - History as class struggle
+    - Workers alienated from their labour
+    - Profit comes from unpaid surplus labour
+    - Capitalism would give way to communism
+  - Political activity
+    - Leading figure in the First International
+    - Defended the Paris Commune of 1871
+    - Lived in poverty, buried in Highgate
+  - Legacy
+    - [Inspired socialist and communist movements](https://en.wikipedia.org/wiki/Marxism)
+    - Claimed by Soviet Union and China
+    - Shaped sociology, economics and history
+    - Critics cite authoritarian regimes, failed predictions
+    - Among the most influential modern thinkers

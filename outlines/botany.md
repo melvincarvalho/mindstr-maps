@@ -1,0 +1,33 @@
+category: Science
+aliases: plant science, plant biology, study of plants, phytology
+- Botany
+  - What botany studies
+    - The scientific study of plants
+    - Traditionally also fungi and algae
+    - Structure, growth, evolution and uses
+  - History
+    - [Theophrastus, "father of botany", ancient Greece](https://en.wikipedia.org/wiki/Theophrastus)
+    - Medieval herbals described medicinal plants
+    - [Linnaeus's two-part names, 1753](https://en.wikipedia.org/wiki/Carl_Linnaeus)
+    - Mendel's pea experiments founded genetics, 1866
+  - Main branches
+    - Plant anatomy and morphology
+    - Plant physiology: how plants function
+    - Taxonomy: naming and classifying
+    - Plant ecology: plants and environment
+    - Paleobotany: fossil plants
+    - Ethnobotany: plants and human cultures
+  - Methods
+    - Fieldwork and plant collecting
+    - [Herbarium: archive of pressed specimens](https://en.wikipedia.org/wiki/Herbarium)
+    - Microscopy of cells and tissues
+    - DNA sequencing reshapes the family tree
+  - Applications
+    - Crop breeding and agriculture
+    - Medicines like morphine and quinine
+    - Conservation of endangered species
+    - Forestry and horticulture
+  - Where it happens
+    - [Kew Gardens, London](https://en.wikipedia.org/wiki/Royal_Botanic_Gardens,_Kew)
+    - Seed banks like Svalbard Global Seed Vault
+    - University labs and field stations

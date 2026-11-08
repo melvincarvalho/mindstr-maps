@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Paris",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#7n9paf",
+      "name": "Setting",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hcd8ga",
+      "name": "Capital of France, on the Seine",
+      "x": -445,
+      "y": -54,
+      "parent": "#7n9paf"
+    },
+    {
+      "@id": "#63ybzf",
+      "name": "20 arrondissements spiral from centre",
+      "x": -405,
+      "y": -156,
+      "parent": "#7n9paf"
+    },
+    {
+      "@id": "#k99ecc",
+      "name": "Île de la Cité, the historic core",
+      "x": -330,
+      "y": -245,
+      "parent": "#7n9paf"
+    },
+    {
+      "@id": "#mj2ds6",
+      "name": "History",
+      "x": 17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qdunnn",
+      "name": "Celtic Parisii tribe gave the name",
+      "x": -225,
+      "y": -312,
+      "parent": "#mj2ds6"
+    },
+    {
+      "@id": "#n2fhj6",
+      "name": "Capital of French kings",
+      "x": -104,
+      "y": -367,
+      "parent": "#mj2ds6"
+    },
+    {
+      "@id": "#xgkbzr",
+      "name": "Revolution began with Bastille, 1789",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Storming_of_the_Bastille",
+      "parent": "#mj2ds6"
+    },
+    {
+      "@id": "#8w5aiv",
+      "name": "Haussmann rebuilt the boulevards, 1850s–1860s",
+      "x": 234,
+      "y": -485,
+      "link": "https://en.wikipedia.org/wiki/Haussmann%27s_renovation_of_Paris",
+      "parent": "#mj2ds6"
+    },
+    {
+      "@id": "#jiunpy",
+      "name": "Occupied by Germany, 1940–1944",
+      "x": 281,
+      "y": -281,
+      "parent": "#mj2ds6"
+    },
+    {
+      "@id": "#77cz96",
+      "name": "People",
+      "x": 220,
+      "y": -54,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6js9ye",
+      "name": "About 2 million in the city",
+      "x": 372,
+      "y": -203,
+      "parent": "#77cz96"
+    },
+    {
+      "@id": "#fqsyzw",
+      "name": "About 12 million in metro area",
+      "x": 430,
+      "y": -106,
+      "parent": "#77cz96"
+    },
+    {
+      "@id": "#5u2sq9",
+      "name": "Diverse suburbs, the banlieues",
+      "x": 450,
+      "y": 0,
+      "parent": "#77cz96"
+    },
+    {
+      "@id": "#hwgwhb",
+      "name": "Economy",
+      "x": 190,
+      "y": 104,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tsbgpu",
+      "name": "One of Europe's largest city economies",
+      "x": 449,
+      "y": 111,
+      "parent": "#hwgwhb"
+    },
+    {
+      "@id": "#h8e8zd",
+      "name": "La Défense business district",
+      "x": 372,
+      "y": 203,
+      "parent": "#hwgwhb"
+    },
+    {
+      "@id": "#z2rda5",
+      "name": "Fashion, luxury goods and tourism",
+      "x": 281,
+      "y": 281,
+      "parent": "#hwgwhb"
+    },
+    {
+      "@id": "#zbc88d",
+      "name": "Landmarks",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rei5g6",
+      "name": "Eiffel Tower, built 1889",
+      "x": 164,
+      "y": 335,
+      "link": "https://en.wikipedia.org/wiki/Eiffel_Tower",
+      "parent": "#zbc88d"
+    },
+    {
+      "@id": "#fvhheb",
+      "name": "Notre-Dame, restored and reopened 2024",
+      "x": 38,
+      "y": 391,
+      "parent": "#zbc88d"
+    },
+    {
+      "@id": "#6gf3kp",
+      "name": "Arc de Triomphe and Champs-Élysées",
+      "x": -124,
+      "y": 447,
+      "parent": "#zbc88d"
+    },
+    {
+      "@id": "#44gx95",
+      "name": "Sacré-Cœur on Montmartre hill",
+      "x": -225,
+      "y": 312,
+      "parent": "#zbc88d"
+    },
+    {
+      "@id": "#99csei",
+      "name": "Culture",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a96k7k",
+      "name": "The Louvre, most visited museum",
+      "x": -330,
+      "y": 245,
+      "link": "https://en.wikipedia.org/wiki/Louvre",
+      "parent": "#99csei"
+    },
+    {
+      "@id": "#w2cyph",
+      "name": "Cafés, bistros and bakeries",
+      "x": -405,
+      "y": 156,
+      "parent": "#99csei"
+    },
+    {
+      "@id": "#yk3i59",
+      "name": "Hosted the 2024 Olympics",
+      "x": -445,
+      "y": 54,
+      "parent": "#99csei"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Function (mathematics)",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#tqac93",
+      "name": "A rule from inputs to outputs",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7uy2bf",
+      "name": "Each input gives exactly one output",
+      "x": -545,
+      "y": -64,
+      "parent": "#tqac93"
+    },
+    {
+      "@id": "#j2w5r4",
+      "name": "\"Double it\": 3 becomes 6",
+      "x": -405,
+      "y": -156,
+      "parent": "#tqac93"
+    },
+    {
+      "@id": "#anaau4",
+      "name": "Like a machine or a vending slot",
+      "x": -330,
+      "y": -245,
+      "parent": "#tqac93"
+    },
+    {
+      "@id": "#q89rq5",
+      "name": "Parts of a function",
+      "x": -51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#abr9j2",
+      "name": "Domain: the allowed inputs",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Domain_of_a_function",
+      "parent": "#q89rq5"
+    },
+    {
+      "@id": "#xykvu7",
+      "name": "Codomain: where outputs land",
+      "x": -104,
+      "y": -367,
+      "parent": "#q89rq5"
+    },
+    {
+      "@id": "#9dbkff",
+      "name": "Range: outputs actually reached",
+      "x": 42,
+      "y": -423,
+      "parent": "#q89rq5"
+    },
+    {
+      "@id": "#k58njb",
+      "name": "Ways to describe one",
+      "x": 169,
+      "y": -125,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sczsgv",
+      "name": "A formula like \"square it\"",
+      "x": 234,
+      "y": -485,
+      "parent": "#k58njb"
+    },
+    {
+      "@id": "#wkj82v",
+      "name": "A table of input–output pairs",
+      "x": 281,
+      "y": -281,
+      "parent": "#k58njb"
+    },
+    {
+      "@id": "#q77d7f",
+      "name": "A graph drawn on axes",
+      "x": 372,
+      "y": -203,
+      "link": "https://en.wikipedia.org/wiki/Graph_of_a_function",
+      "parent": "#k58njb"
+    },
+    {
+      "@id": "#uf6nwe",
+      "name": "Arrows between two sets",
+      "x": 430,
+      "y": -106,
+      "parent": "#k58njb"
+    },
+    {
+      "@id": "#sbzq9i",
+      "name": "Common kinds",
+      "x": 207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#n38pcx",
+      "name": "Linear: straight-line graphs",
+      "x": 450,
+      "y": 0,
+      "parent": "#sbzq9i"
+    },
+    {
+      "@id": "#5p9gac",
+      "name": "Quadratic: U-shaped parabolas",
+      "x": 449,
+      "y": 111,
+      "parent": "#sbzq9i"
+    },
+    {
+      "@id": "#etae5w",
+      "name": "Exponential: repeated doubling growth",
+      "x": 372,
+      "y": 203,
+      "parent": "#sbzq9i"
+    },
+    {
+      "@id": "#6fg7ux",
+      "name": "Trigonometric: waves and cycles",
+      "x": 281,
+      "y": 281,
+      "link": "https://en.wikipedia.org/wiki/Trigonometric_functions",
+      "parent": "#sbzq9i"
+    },
+    {
+      "@id": "#mk39ka",
+      "name": "Key properties",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#62pq2h",
+      "name": "One-to-one: no two inputs share",
+      "x": 164,
+      "y": 335,
+      "parent": "#mk39ka"
+    },
+    {
+      "@id": "#2zccy8",
+      "name": "Onto: every target is reached",
+      "x": 38,
+      "y": 391,
+      "parent": "#mk39ka"
+    },
+    {
+      "@id": "#emuiqs",
+      "name": "Inverse undoes the function",
+      "x": -124,
+      "y": 447,
+      "parent": "#mk39ka"
+    },
+    {
+      "@id": "#zrw44g",
+      "name": "Composition chains functions together",
+      "x": -225,
+      "y": 312,
+      "parent": "#mk39ka"
+    },
+    {
+      "@id": "#ttt9ku",
+      "name": "History and uses",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m2ti4m",
+      "name": "Leibniz coined \"function\" around 1692",
+      "x": -330,
+      "y": 245,
+      "parent": "#ttt9ku"
+    },
+    {
+      "@id": "#u3ktxy",
+      "name": "Euler popularised the notation",
+      "x": -405,
+      "y": 156,
+      "link": "https://en.wikipedia.org/wiki/Leonhard_Euler",
+      "parent": "#ttt9ku"
+    },
+    {
+      "@id": "#9n5rmh",
+      "name": "Models physics, prices and populations",
+      "x": -505,
+      "y": 60,
+      "parent": "#ttt9ku"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

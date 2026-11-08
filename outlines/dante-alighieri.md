@@ -1,0 +1,31 @@
+category: People
+aliases: dante, author of the divine comedy, dante poet
+- Dante Alighieri
+  - Florentine poet, 1265–1321
+    - Born in Florence to minor nobility
+    - [Lifelong muse Beatrice Portinari](https://en.wikipedia.org/wiki/Beatrice_Portinari)
+    - La Vita Nuova tells of his love
+  - Politics and exile
+    - [White Guelph in Florence's factional strife](https://en.wikipedia.org/wiki/Guelphs_and_Ghibellines)
+    - Served as a prior of Florence, 1300
+    - Exiled in 1302, never returned
+    - Died in Ravenna, where he's buried
+  - [The Divine Comedy](https://en.wikipedia.org/wiki/Divine_Comedy)
+    - [Inferno: nine circles of Hell](https://en.wikipedia.org/wiki/Inferno_%28Dante%29)
+    - Purgatorio: climbing the mountain of Purgatory
+    - Paradiso: ascent through the heavens
+    - Guided by Virgil, then Beatrice
+    - 100 cantos in terza rima
+  - Other works
+    - Convivio: a banquet of knowledge
+    - De vulgari eloquentia defends vernacular speech
+    - Monarchia: on pope and emperor
+  - Why he matters
+    - Wrote in Tuscan, not Latin
+    - Called the father of the Italian language
+    - Put real popes and enemies in Hell
+    - Bridge from medieval to Renaissance thought
+  - Legacy
+    - Inspired Botticelli, Blake and Doré
+    - Translated by Longfellow, Sayers and many more
+    - "Abandon all hope" entered common speech

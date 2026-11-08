@@ -1,0 +1,318 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "John Locke",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#5via9y",
+      "name": "Life, 1632–1704",
+      "x": -169,
+      "y": -125,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k5img3",
+      "name": "Born in Wrington, Somerset, England",
+      "x": -445,
+      "y": -54,
+      "parent": "#5via9y"
+    },
+    {
+      "@id": "#gd6hrk",
+      "name": "Studied and taught at Oxford",
+      "x": -423,
+      "y": -163,
+      "parent": "#5via9y"
+    },
+    {
+      "@id": "#k2ewth",
+      "name": "Physician and adviser to Earl of Shaftesbury",
+      "x": -330,
+      "y": -245,
+      "parent": "#5via9y"
+    },
+    {
+      "@id": "#tvdvws",
+      "name": "Exiled in Holland, 1683–1689",
+      "x": -225,
+      "y": -312,
+      "parent": "#5via9y"
+    },
+    {
+      "@id": "#dqiajw",
+      "name": "Returned after the Glorious Revolution",
+      "x": -104,
+      "y": -367,
+      "parent": "#5via9y"
+    },
+    {
+      "@id": "#ax4268",
+      "name": "Theory of knowledge",
+      "x": 115,
+      "y": -159,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#q5bxuc",
+      "name": "Essay Concerning Human Understanding, 1689",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/An_Essay_Concerning_Human_Understanding",
+      "parent": "#ax4268"
+    },
+    {
+      "@id": "#hv6rz7",
+      "name": "Mind begins as a blank slate",
+      "x": 234,
+      "y": -485,
+      "link": "https://en.wikipedia.org/wiki/Tabula_rasa",
+      "parent": "#ax4268"
+    },
+    {
+      "@id": "#h4vtzj",
+      "name": "All ideas come from experience",
+      "x": 281,
+      "y": -281,
+      "parent": "#ax4268"
+    },
+    {
+      "@id": "#72wkii",
+      "name": "Founder of British empiricism",
+      "x": 389,
+      "y": -212,
+      "parent": "#ax4268"
+    },
+    {
+      "@id": "#yxtktb",
+      "name": "Political philosophy",
+      "x": 220,
+      "y": 54,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kudr37",
+      "name": "Two Treatises of Government, 1689",
+      "x": 430,
+      "y": -106,
+      "link": "https://en.wikipedia.org/wiki/Two_Treatises_of_Government",
+      "parent": "#yxtktb"
+    },
+    {
+      "@id": "#rrergx",
+      "name": "Natural rights to life, liberty, property",
+      "x": 450,
+      "y": 0,
+      "parent": "#yxtktb"
+    },
+    {
+      "@id": "#qhxsyy",
+      "name": "Government rests on consent of governed",
+      "x": 430,
+      "y": 106,
+      "parent": "#yxtktb"
+    },
+    {
+      "@id": "#hbb54c",
+      "name": "People may resist tyrannical rulers",
+      "x": 372,
+      "y": 203,
+      "parent": "#yxtktb"
+    },
+    {
+      "@id": "#bx8b3g",
+      "name": "Property comes from mixing in labour",
+      "x": 281,
+      "y": 281,
+      "parent": "#yxtktb"
+    },
+    {
+      "@id": "#aub2m4",
+      "name": "Religion and education",
+      "x": 17,
+      "y": 183,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wf3wix",
+      "name": "A Letter Concerning Toleration argues tolerance",
+      "x": 164,
+      "y": 335,
+      "link": "https://en.wikipedia.org/wiki/A_Letter_Concerning_Toleration",
+      "parent": "#aub2m4"
+    },
+    {
+      "@id": "#f49yk8",
+      "name": "Church and state should be separate",
+      "x": 38,
+      "y": 391,
+      "parent": "#aub2m4"
+    },
+    {
+      "@id": "#h99sbm",
+      "name": "Some Thoughts Concerning Education, 1693",
+      "x": -124,
+      "y": 447,
+      "parent": "#aub2m4"
+    },
+    {
+      "@id": "#cbh9y3",
+      "name": "Legacy",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#w74kcu",
+      "name": "Called the father of liberalism",
+      "x": -245,
+      "y": 340,
+      "parent": "#cbh9y3"
+    },
+    {
+      "@id": "#4u58d2",
+      "name": "Echoed in US Declaration of Independence",
+      "x": -330,
+      "y": 245,
+      "parent": "#cbh9y3"
+    },
+    {
+      "@id": "#8hdfxf",
+      "name": "Shaped Enlightenment thinkers like Voltaire",
+      "x": -405,
+      "y": 156,
+      "parent": "#cbh9y3"
+    },
+    {
+      "@id": "#ad63wm",
+      "name": "Criticised over colonial and slavery ties",
+      "x": -445,
+      "y": 54,
+      "parent": "#cbh9y3"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 7,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 12,
+      "end": 16
+    },
+    {
+      "start": 12,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

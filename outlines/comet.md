@@ -1,0 +1,30 @@
+category: Science
+aliases: comets, what is a comet, comet tail
+- Comet
+  - What a comet is
+    - Icy body of frozen gas and dust
+    - "Dirty snowball" nucleus a few km wide
+    - Leftover building blocks of the Solar System
+  - Where comets come from
+    - [Kuiper belt beyond Neptune](https://en.wikipedia.org/wiki/Kuiper_belt)
+    - [Oort cloud at the Solar System's edge](https://en.wikipedia.org/wiki/Oort_cloud)
+    - Short-period comets orbit within 200 years
+    - Long-period comets take thousands of years
+  - Anatomy near the Sun
+    - Sunlight turns ice straight into gas
+    - Coma: glowing cloud around the nucleus
+    - Dust tail curves along the orbit
+    - Ion tail points directly away from Sun
+  - Famous comets
+    - [Halley's Comet returns every 76 years](https://en.wikipedia.org/wiki/Halley%27s_Comet)
+    - Hale–Bopp visible to eye in 1997
+    - Shoemaker–Levy 9 hit Jupiter in 1994
+  - Effects on Earth
+    - Meteor showers from comet debris trails
+    - Perseids come from comet Swift–Tuttle
+    - May have delivered water and organics
+    - Seen as omens in ancient times
+  - Exploring comets
+    - Giotto flew past Halley in 1986
+    - [Rosetta orbited comet 67P, 2014–2016](https://en.wikipedia.org/wiki/Rosetta_%28spacecraft%29)
+    - Philae made the first comet landing

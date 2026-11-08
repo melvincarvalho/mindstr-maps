@@ -1,0 +1,34 @@
+category: Geography
+aliases: italian republic, italia
+- Italy
+  - Geography
+    - Boot-shaped Mediterranean peninsula
+    - About 300,000 km²
+    - Alps in north, Apennines down spine
+    - Sicily and Sardinia, largest islands
+    - Volcanoes Etna and Vesuvius still active
+  - People and languages
+    - About 59 million people
+    - Italian plus many regional dialects
+    - Mostly Catholic; Vatican City inside Rome
+    - Ageing population, low birth rate
+  - History in brief
+    - [Rome grew into a Mediterranean empire](https://en.wikipedia.org/wiki/Ancient_Rome)
+    - [Renaissance began in Florence, 14th century](https://en.wikipedia.org/wiki/Italian_Renaissance)
+    - [Unified as a kingdom, 1861](https://en.wikipedia.org/wiki/Italian_unification)
+    - Mussolini's Fascist rule, 1922 to 1943
+    - Became a republic by referendum, 1946
+  - Government
+    - Parliamentary republic; Rome is capital
+    - President is head of state
+    - Prime minister needs confidence of both chambers
+    - Founding member of the EU
+  - Economy
+    - Uses the euro; industrial north, poorer south
+    - Fashion, cars, machinery and food
+    - Tourism is a major industry
+  - Culture
+    - Leonardo, Michelangelo and Raphael
+    - Opera of Verdi and Puccini
+    - Pasta, pizza, espresso and regional cooking
+    - Among most UNESCO World Heritage Sites

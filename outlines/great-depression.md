@@ -1,0 +1,30 @@
+category: History
+aliases: the depression of the 1930s, 1930s depression, great depression 1929
+- Great Depression
+  - How it started
+    - [Wall Street Crash, October 1929](https://en.wikipedia.org/wiki/Wall_Street_crash_of_1929)
+    - Thousands of US banks failed
+    - Spending and lending collapsed
+  - Why it spread worldwide
+    - [Gold standard transmitted deflation](https://en.wikipedia.org/wiki/Gold_standard)
+    - Tariffs like Smoot–Hawley choked trade
+    - US loans to Europe dried up
+  - How bad it got
+    - US unemployment about 25% by 1933
+    - US output fell about a quarter
+    - World trade fell by over half
+    - Germany's unemployment passed six million
+  - Daily life
+    - Breadlines, soup kitchens and shantytowns
+    - [Dust Bowl drove farmers from Plains](https://en.wikipedia.org/wiki/Dust_Bowl)
+    - Hunger marches, like Jarrow 1936
+  - Responses
+    - Britain left gold standard 1931
+    - [Roosevelt's New Deal from 1933](https://en.wikipedia.org/wiki/New_Deal)
+    - Public works and relief jobs
+    - [Keynes argued for government spending](https://en.wikipedia.org/wiki/Keynesian_economics)
+  - Consequences
+    - Helped Nazis win power in Germany
+    - Recovery completed by wartime rearmament
+    - Social Security and deposit insurance created
+    - Shaped the post-war Bretton Woods system

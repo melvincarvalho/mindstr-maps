@@ -1,0 +1,29 @@
+category: Arts and culture
+aliases: fashion industry, fashion design, clothing trends
+- Fashion
+  - What fashion is
+    - Popular styles of dress at a time
+    - Signals identity, status and belonging
+    - Trends rise, spread and fade
+  - A short history
+    - Royal courts set early trends
+    - [Charles Worth founded haute couture, 1850s](https://en.wikipedia.org/wiki/Haute_couture)
+    - Coco Chanel simplified women's clothing
+    - Ready-to-wear spread after 1945
+  - The fashion system
+    - Designers create seasonal collections
+    - Fashion weeks in Paris, Milan, New York
+    - Magazines, influencers and street style
+    - Retailers turn trends into stock
+  - Fast fashion
+    - [Cheap clothes made in weeks](https://en.wikipedia.org/wiki/Fast_fashion)
+    - Low wages in garment factories
+    - Rana Plaza collapse killed over 1,100
+  - Environmental impact
+    - Textile waste filling landfills
+    - Water and chemicals for dyeing
+    - Polyester sheds microplastics
+  - Alternatives
+    - [Sustainable fashion and slow fashion](https://en.wikipedia.org/wiki/Sustainable_fashion)
+    - Secondhand, vintage and rental
+    - Repairing and buying fewer clothes

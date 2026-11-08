@@ -1,0 +1,32 @@
+category: Health
+aliases: stomach flu, stomach bug, tummy bug
+- Gastroenteritis
+  - What it is
+    - Inflammation of stomach and intestines
+    - Usually clears in a few days
+    - Very common worldwide
+  - Causes
+    - [Norovirus, the winter vomiting bug](https://en.wikipedia.org/wiki/Norovirus)
+    - [Rotavirus in young children](https://en.wikipedia.org/wiki/Rotavirus)
+    - Bacteria like Salmonella, Campylobacter, E. coli
+    - Contaminated food or water
+    - Spread hand to mouth
+  - Symptoms
+    - Diarrhoea and vomiting
+    - Stomach cramps and nausea
+    - Mild fever and aches
+  - Treatment at home
+    - Sip fluids often
+    - [Oral rehydration solution replaces salts](https://en.wikipedia.org/wiki/Oral_rehydration_therapy)
+    - Rest and eat when able
+    - Antibiotics usually not needed
+  - When to get help
+    - [Signs of dehydration](https://en.wikipedia.org/wiki/Dehydration)
+    - Blood in stool or vomit
+    - Babies, elderly or frail people
+    - Symptoms lasting over a week
+  - Prevention
+    - Wash hands with soap and water
+    - Cook and store food safely
+    - Rotavirus vaccine for babies
+    - Stay home 48 hours after symptoms

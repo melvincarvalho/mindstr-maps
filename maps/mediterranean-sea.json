@@ -1,0 +1,318 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Mediterranean Sea",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#q37f44",
+      "name": "Geography",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#eci43n",
+      "name": "Between Europe, North Africa and Western Asia",
+      "x": -444,
+      "y": -56,
+      "parent": "#q37f44"
+    },
+    {
+      "@id": "#v94pic",
+      "name": "About 2.5 million km²",
+      "x": -401,
+      "y": -163,
+      "parent": "#q37f44"
+    },
+    {
+      "@id": "#gppusf",
+      "name": "Over 20 countries on its shores",
+      "x": -318,
+      "y": -255,
+      "parent": "#q37f44"
+    },
+    {
+      "@id": "#3t4i7c",
+      "name": "Deepest point about 5,200 m, off Greece",
+      "x": -204,
+      "y": -321,
+      "parent": "#q37f44"
+    },
+    {
+      "@id": "#fxm8vn",
+      "name": "Gateways",
+      "x": 36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ec7mzx",
+      "name": "Strait of Gibraltar opens to the Atlantic",
+      "x": -73,
+      "y": -372,
+      "link": "https://en.wikipedia.org/wiki/Strait_of_Gibraltar",
+      "parent": "#fxm8vn"
+    },
+    {
+      "@id": "#a5vexe",
+      "name": "Suez Canal to the Red Sea, 1869",
+      "x": 82,
+      "y": -420,
+      "parent": "#fxm8vn"
+    },
+    {
+      "@id": "#m886i2",
+      "name": "Bosporus and Dardanelles to the Black Sea",
+      "x": 204,
+      "y": -321,
+      "parent": "#fxm8vn"
+    },
+    {
+      "@id": "#ir6enh",
+      "name": "Islands",
+      "x": 205,
+      "y": -84,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#w46gdr",
+      "name": "Sicily, the largest",
+      "x": 318,
+      "y": -255,
+      "parent": "#ir6enh"
+    },
+    {
+      "@id": "#7uwmgt",
+      "name": "Sardinia, Cyprus, Corsica and Crete",
+      "x": 401,
+      "y": -163,
+      "parent": "#ir6enh"
+    },
+    {
+      "@id": "#xsyufx",
+      "name": "Volcanic Etna, Stromboli and Santorini",
+      "x": 464,
+      "y": -58,
+      "parent": "#ir6enh"
+    },
+    {
+      "@id": "#am5njd",
+      "name": "Deep past",
+      "x": 205,
+      "y": 84,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v5dc54",
+      "name": "Remnant of the ancient Tethys Ocean",
+      "x": 464,
+      "y": 58,
+      "parent": "#am5njd"
+    },
+    {
+      "@id": "#9ht62u",
+      "name": "Nearly dried up 6 million years ago",
+      "x": 401,
+      "y": 163,
+      "link": "https://en.wikipedia.org/wiki/Messinian_salinity_crisis",
+      "parent": "#am5njd"
+    },
+    {
+      "@id": "#scgpqt",
+      "name": "Refilled by a flood through Gibraltar",
+      "x": 318,
+      "y": 255,
+      "parent": "#am5njd"
+    },
+    {
+      "@id": "#e55wgp",
+      "name": "Cradle of civilisations",
+      "x": 36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ih3jci",
+      "name": "Phoenicians, Greeks and Carthaginians traded across it",
+      "x": 204,
+      "y": 321,
+      "parent": "#e55wgp"
+    },
+    {
+      "@id": "#gkvtd8",
+      "name": "Romans called it Mare Nostrum, \"our sea\"",
+      "x": 73,
+      "y": 372,
+      "parent": "#e55wgp"
+    },
+    {
+      "@id": "#nx2z3f",
+      "name": "Venice and Genoa ruled medieval trade",
+      "x": -82,
+      "y": 420,
+      "parent": "#e55wgp"
+    },
+    {
+      "@id": "#zrbetu",
+      "name": "Today",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wdmv7g",
+      "name": "Mediterranean climate: hot dry summers",
+      "x": -303,
+      "y": 475,
+      "link": "https://en.wikipedia.org/wiki/Mediterranean_climate",
+      "parent": "#zrbetu"
+    },
+    {
+      "@id": "#gcm24q",
+      "name": "Among the world's busiest tourist regions",
+      "x": -318,
+      "y": 255,
+      "parent": "#zrbetu"
+    },
+    {
+      "@id": "#exiyz9",
+      "name": "Dangerous migrant crossings to Europe",
+      "x": -401,
+      "y": 163,
+      "parent": "#zrbetu"
+    },
+    {
+      "@id": "#nj4hqe",
+      "name": "Warm, salty and almost tideless",
+      "x": -444,
+      "y": 56,
+      "parent": "#zrbetu"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,31 @@
+category: Arts and culture
+aliases: animated films, cartoons, how animation works
+- Animation
+  - How it works
+    - Still images shown in quick sequence
+    - Usually 12 to 24 frames per second
+    - [Persistence of vision creates motion](https://en.wikipedia.org/wiki/Persistence_of_vision)
+  - Techniques
+    - [Hand-drawn cel animation](https://en.wikipedia.org/wiki/Traditional_animation)
+    - Stop motion with puppets or clay
+    - 3D computer-generated animation
+    - 2D digital and vector animation
+    - Motion capture of real actors
+  - Making an animated film
+    - Script and storyboard
+    - Voice recording before animating
+    - Keyframes, then in-betweens
+    - Rendering, compositing and sound
+  - Milestones
+    - Gertie the Dinosaur, 1914
+    - [Snow White, first Disney feature, 1937](https://en.wikipedia.org/wiki/Snow_White_and_the_Seven_Dwarfs_%281937_film%29)
+    - [Toy Story, first CGI feature, 1995](https://en.wikipedia.org/wiki/Toy_Story)
+    - Spirited Away wins Oscar, 2003
+  - Major studios and traditions
+    - Disney and Pixar
+    - Studio Ghibli and Japanese anime
+    - Aardman's claymation
+  - Where it's used
+    - Feature films and TV series
+    - Video games and advertising
+    - Visual effects in live-action films

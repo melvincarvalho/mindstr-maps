@@ -1,0 +1,353 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Infection",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#3re5si",
+      "name": "What it is",
+      "x": -211,
+      "y": -73,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h5fhaz",
+      "name": "Germs invade and multiply in the body",
+      "x": -486,
+      "y": -53,
+      "parent": "#3re5si"
+    },
+    {
+      "@id": "#etkufj",
+      "name": "Many microbes are harmless or helpful",
+      "x": -413,
+      "y": -143,
+      "parent": "#3re5si"
+    },
+    {
+      "@id": "#6c9ixj",
+      "name": "Can stay local or spread body-wide",
+      "x": -349,
+      "y": -227,
+      "parent": "#3re5si"
+    },
+    {
+      "@id": "#sht2q3",
+      "name": "Types of germ",
+      "x": -47,
+      "y": -180,
+      "link": "https://en.wikipedia.org/wiki/Pathogen",
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sknd3v",
+      "name": "Bacteria: strep throat, UTIs",
+      "x": -260,
+      "y": -294,
+      "parent": "#sht2q3"
+    },
+    {
+      "@id": "#brh3ry",
+      "name": "Viruses: colds, flu, COVID-19",
+      "x": -158,
+      "y": -354,
+      "parent": "#sht2q3"
+    },
+    {
+      "@id": "#k86mhm",
+      "name": "Fungi: thrush, athlete's foot",
+      "x": -34,
+      "y": -407,
+      "parent": "#sht2q3"
+    },
+    {
+      "@id": "#qm793z",
+      "name": "Parasites: malaria, worms",
+      "x": 120,
+      "y": -464,
+      "parent": "#sht2q3"
+    },
+    {
+      "@id": "#awuekm",
+      "name": "How infections spread",
+      "x": 178,
+      "y": -116,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#85ve9q",
+      "name": "Coughs, sneezes and airborne droplets",
+      "x": 207,
+      "y": -320,
+      "parent": "#awuekm"
+    },
+    {
+      "@id": "#ff7ftk",
+      "name": "Contaminated hands, surfaces, food, water",
+      "x": 307,
+      "y": -263,
+      "parent": "#awuekm"
+    },
+    {
+      "@id": "#kyzyt7",
+      "name": "Sexual contact and blood",
+      "x": 384,
+      "y": -187,
+      "parent": "#awuekm"
+    },
+    {
+      "@id": "#5z4f22",
+      "name": "Bites from mosquitoes and ticks",
+      "x": 471,
+      "y": -105,
+      "parent": "#awuekm"
+    },
+    {
+      "@id": "#kj2znj",
+      "name": "Signs and symptoms",
+      "x": 221,
+      "y": 50,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z8nr6a",
+      "name": "Fever, chills and tiredness",
+      "x": 450,
+      "y": 0,
+      "parent": "#kj2znj"
+    },
+    {
+      "@id": "#98xgzm",
+      "name": "Redness, swelling, pain or pus",
+      "x": 452,
+      "y": 101,
+      "parent": "#kj2znj"
+    },
+    {
+      "@id": "#bfisav",
+      "name": "Sepsis is a medical emergency",
+      "x": 384,
+      "y": 187,
+      "link": "https://en.wikipedia.org/wiki/Sepsis",
+      "parent": "#kj2znj"
+    },
+    {
+      "@id": "#2pstvi",
+      "name": "Diagnosis and treatment",
+      "x": 47,
+      "y": 180,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v3iwrn",
+      "name": "Swabs, blood tests and cultures",
+      "x": 307,
+      "y": 263,
+      "parent": "#2pstvi"
+    },
+    {
+      "@id": "#beid3g",
+      "name": "Antibiotics treat bacteria, not viruses",
+      "x": 207,
+      "y": 320,
+      "link": "https://en.wikipedia.org/wiki/Antibiotic",
+      "parent": "#2pstvi"
+    },
+    {
+      "@id": "#45qub8",
+      "name": "Antivirals and antifungals for some",
+      "x": 96,
+      "y": 368,
+      "parent": "#2pstvi"
+    },
+    {
+      "@id": "#fayu4a",
+      "name": "Rest and fluids for mild illness",
+      "x": -35,
+      "y": 423,
+      "parent": "#2pstvi"
+    },
+    {
+      "@id": "#7sch8e",
+      "name": "Overuse breeds antibiotic resistance",
+      "x": -214,
+      "y": 474,
+      "link": "https://en.wikipedia.org/wiki/Antimicrobial_resistance",
+      "parent": "#2pstvi"
+    },
+    {
+      "@id": "#va4237",
+      "name": "Prevention",
+      "x": -197,
+      "y": 96,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#27ygn2",
+      "name": "Handwashing with soap and water",
+      "x": -260,
+      "y": 294,
+      "parent": "#va4237"
+    },
+    {
+      "@id": "#2y34r9",
+      "name": "Vaccines train the immune system",
+      "x": -349,
+      "y": 227,
+      "link": "https://en.wikipedia.org/wiki/Vaccine",
+      "parent": "#va4237"
+    },
+    {
+      "@id": "#zidjiy",
+      "name": "Safe food, clean water, sanitation",
+      "x": -431,
+      "y": 149,
+      "parent": "#va4237"
+    },
+    {
+      "@id": "#x2tgdd",
+      "name": "Staying home when contagious",
+      "x": -446,
+      "y": 49,
+      "parent": "#va4237"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 19,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    },
+    {
+      "start": 25,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

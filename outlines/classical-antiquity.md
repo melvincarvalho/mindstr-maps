@@ -1,0 +1,30 @@
+category: History
+aliases: classical era, greco-roman world, ancient greece and rome, greco-roman antiquity
+- Classical antiquity
+  - When and where
+    - About 800 BC to AD 500
+    - Centred on the Mediterranean world
+    - Greek and Roman civilisations intertwined
+  - Ancient Greece
+    - [City-states like Athens and Sparta](https://en.wikipedia.org/wiki/Polis)
+    - Persian invasions repelled, 490–479 BC
+    - Athenian democracy in the 5th century BC
+    - [Alexander's conquests began the Hellenistic age](https://en.wikipedia.org/wiki/Hellenistic_period)
+  - Rome
+    - Traditionally founded in 753 BC
+    - [Roman Republic from 509 BC](https://en.wikipedia.org/wiki/Roman_Republic)
+    - Augustus became first emperor, 27 BC
+    - Empire at its largest around AD 117
+  - Ideas and culture
+    - [Socrates, Plato and Aristotle shaped philosophy](https://en.wikipedia.org/wiki/Ancient_Greek_philosophy)
+    - Homer's epics and Greek tragedy
+    - Columned temples and Roman concrete
+    - Roman law shaped European legal systems
+  - The end
+    - Empire divided into east and west
+    - [Western Empire fell in AD 476](https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire)
+    - Eastern (Byzantine) Empire lasted until 1453
+  - Legacy
+    - Renaissance revived classical learning
+    - Latin and Greek roots in many languages
+    - Neoclassical architecture and republican ideals

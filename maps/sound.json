@@ -1,0 +1,320 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Sound",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#q96f8e",
+      "name": "What sound is",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#paukrv",
+      "name": "Vibrations passing through a medium",
+      "x": -484,
+      "y": -60,
+      "parent": "#q96f8e"
+    },
+    {
+      "@id": "#mxw7rj",
+      "name": "Longitudinal pressure waves",
+      "x": -401,
+      "y": -163,
+      "link": "https://en.wikipedia.org/wiki/Longitudinal_wave",
+      "parent": "#q96f8e"
+    },
+    {
+      "@id": "#6qwbgn",
+      "name": "Cannot travel through a vacuum",
+      "x": -318,
+      "y": -255,
+      "parent": "#q96f8e"
+    },
+    {
+      "@id": "#n6vmpt",
+      "name": "Speed of sound",
+      "x": -36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nh6evm",
+      "name": "About 343 m/s in air",
+      "x": -204,
+      "y": -321,
+      "parent": "#n6vmpt"
+    },
+    {
+      "@id": "#n7tzde",
+      "name": "Faster in water and solids",
+      "x": -73,
+      "y": -372,
+      "parent": "#n6vmpt"
+    },
+    {
+      "@id": "#4ecp2g",
+      "name": "Breaking it causes a sonic boom",
+      "x": 82,
+      "y": -420,
+      "parent": "#n6vmpt"
+    },
+    {
+      "@id": "#c7ycu3",
+      "name": "Properties of a sound",
+      "x": 186,
+      "y": -108,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#apsn8v",
+      "name": "Frequency sets pitch, in hertz",
+      "x": 204,
+      "y": -321,
+      "parent": "#c7ycu3"
+    },
+    {
+      "@id": "#rsk649",
+      "name": "Amplitude sets loudness",
+      "x": 318,
+      "y": -255,
+      "parent": "#c7ycu3"
+    },
+    {
+      "@id": "#a3vkdw",
+      "name": "Loudness measured in decibels",
+      "x": 401,
+      "y": -163,
+      "link": "https://en.wikipedia.org/wiki/Decibel",
+      "parent": "#c7ycu3"
+    },
+    {
+      "@id": "#zp4jxf",
+      "name": "Timbre makes instruments sound different",
+      "x": 444,
+      "y": -56,
+      "parent": "#c7ycu3"
+    },
+    {
+      "@id": "#pfw8ud",
+      "name": "How we hear",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bfq2xc",
+      "name": "Humans hear roughly 20 Hz–20 kHz",
+      "x": 444,
+      "y": 56,
+      "parent": "#pfw8ud"
+    },
+    {
+      "@id": "#udjhmk",
+      "name": "Eardrum and tiny bones pass vibrations",
+      "x": 401,
+      "y": 163,
+      "parent": "#pfw8ud"
+    },
+    {
+      "@id": "#hgwkyh",
+      "name": "Cochlea turns vibration into nerve signals",
+      "x": 318,
+      "y": 255,
+      "link": "https://en.wikipedia.org/wiki/Cochlea",
+      "parent": "#pfw8ud"
+    },
+    {
+      "@id": "#vt55nt",
+      "name": "Loud noise can damage hearing permanently",
+      "x": 204,
+      "y": 321,
+      "parent": "#pfw8ud"
+    },
+    {
+      "@id": "#jnyw37",
+      "name": "Sound behaviour",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#92s5w6",
+      "name": "Echoes are reflected sound",
+      "x": 73,
+      "y": 372,
+      "parent": "#jnyw37"
+    },
+    {
+      "@id": "#tjcevv",
+      "name": "Doppler effect shifts moving sources' pitch",
+      "x": -82,
+      "y": 420,
+      "link": "https://en.wikipedia.org/wiki/Doppler_effect",
+      "parent": "#jnyw37"
+    },
+    {
+      "@id": "#9trb7t",
+      "name": "Resonance amplifies matching frequencies",
+      "x": -303,
+      "y": 475,
+      "parent": "#jnyw37"
+    },
+    {
+      "@id": "#yqxrht",
+      "name": "Using sound",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6uzni6",
+      "name": "Ultrasound images the body",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wikipedia.org/wiki/Medical_ultrasound",
+      "parent": "#yqxrht"
+    },
+    {
+      "@id": "#9fttaa",
+      "name": "Sonar and echolocation find objects",
+      "x": -401,
+      "y": 163,
+      "parent": "#yqxrht"
+    },
+    {
+      "@id": "#zr43nr",
+      "name": "Music, speech and recording",
+      "x": -444,
+      "y": 56,
+      "parent": "#yqxrht"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

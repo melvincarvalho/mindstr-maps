@@ -1,0 +1,30 @@
+category: Mathematics
+aliases: matrices and vectors, matrix algebra, vector spaces and matrices
+- Linear algebra
+  - Vectors
+    - Arrows with length and direction
+    - Lists of numbers, like coordinates
+    - Add them tip to tail
+  - [Matrices](https://en.wikipedia.org/wiki/Matrix_%28mathematics%29)
+    - Rectangular grids of numbers
+    - Each matrix transforms space
+    - Rotate, stretch, shear or project
+    - Multiplying matrices chains transformations
+  - Solving systems of equations
+    - Many unknowns, many linear equations
+    - [Gaussian elimination solves them step by step](https://en.wikipedia.org/wiki/Gaussian_elimination)
+    - Determinant zero: no unique solution
+  - Key ideas
+    - Vector spaces and their dimension
+    - A basis: the building-block vectors
+    - [Eigenvectors keep direction when transformed](https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors)
+    - Rank counts independent directions
+  - History
+    - China's Nine Chapters solved linear systems
+    - Grassmann's vector spaces, 1844
+    - Cayley and Sylvester developed matrices, 1850s
+  - Uses
+    - 3D graphics rotate and project scenes
+    - [Google's PageRank used eigenvectors](https://en.wikipedia.org/wiki/PageRank)
+    - Neural networks multiply huge matrices
+    - Quantum mechanics works in vector spaces

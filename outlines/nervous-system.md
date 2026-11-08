@@ -1,0 +1,31 @@
+category: Science
+aliases: human nervous system, how nerves work, the nervous system explained
+- Nervous system
+  - Two main divisions
+    - [Central: brain and spinal cord](https://en.wikipedia.org/wiki/Central_nervous_system)
+    - [Peripheral: nerves throughout the body](https://en.wikipedia.org/wiki/Peripheral_nervous_system)
+  - Nerve cells
+    - [Neurons carry electrical signals](https://en.wikipedia.org/wiki/Neuron)
+    - Dendrites receive, axons send
+    - Myelin sheath speeds signals up
+    - Glial cells support and protect neurons
+  - How signals travel
+    - Electrical impulse runs along the axon
+    - [Synapses pass signals with neurotransmitters](https://en.wikipedia.org/wiki/Synapse)
+    - Reflexes bypass the brain for speed
+  - What it controls
+    - Sensory nerves bring information in
+    - Motor nerves make muscles move
+    - [Autonomic system runs organs automatically](https://en.wikipedia.org/wiki/Autonomic_nervous_system)
+      - Sympathetic: fight or flight
+      - Parasympathetic: rest and digest
+  - Common problems
+    - Stroke cuts blood supply to brain
+    - Neuropathy: damaged nerves, often diabetes
+    - Multiple sclerosis attacks myelin
+    - Epilepsy causes recurring seizures
+    - Spinal injury can cause paralysis
+  - Keeping it healthy
+    - Regular exercise and good sleep
+    - Control blood pressure and blood sugar
+    - Wear helmets and seatbelts

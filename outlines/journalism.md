@@ -1,0 +1,33 @@
+category: Society
+aliases: journalist, news reporting, the press
+- Journalism
+  - What journalists do
+    - Gather, check and report news
+    - Explain events and hold power to account
+  - Core principles
+    - Accuracy: verify before publishing
+    - Independence from those being covered
+    - Keep news separate from opinion
+    - Correct mistakes openly
+    - Protect confidential sources
+  - Forms
+    - Daily news reporting
+    - [Investigative journalism uncovers hidden wrongdoing](https://en.wikipedia.org/wiki/Investigative_journalism)
+    - Features, profiles and long reads
+    - Opinion columns and editorials
+    - [Photojournalism tells stories in images](https://en.wikipedia.org/wiki/Photojournalism)
+  - How a story is made
+    - Find a lead or tip
+    - Research documents and interview sources
+    - Write with the key facts first
+    - Edit and fact-check, then publish
+  - Milestones
+    - First regular newspapers, early 1600s
+    - Cheap penny press, 1830s
+    - [Pulitzer Prizes awarded since 1917](https://en.wikipedia.org/wiki/Pulitzer_Prize)
+    - [Watergate reporting, 1972 to 1974](https://en.wikipedia.org/wiki/Watergate_scandal)
+  - Challenges today
+    - Print advertising revenue has collapsed
+    - Falling public trust in news
+    - Competing with misinformation online
+    - Journalists face threats and imprisonment

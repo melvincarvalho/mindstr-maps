@@ -1,0 +1,33 @@
+category: Health
+aliases: vitamins, what are vitamins, essential vitamins
+- Vitamin
+  - What vitamins are
+    - Organic compounds needed in small amounts
+    - Body can't make enough itself
+    - [13 vitamins are essential for humans](https://en.wikipedia.org/wiki/Vitamin)
+  - Fat-soluble: A, D, E, K
+    - Stored in the liver and fat
+    - Excess can build up to toxic levels
+    - A: vision and immunity
+    - D: bones; made in sunlit skin
+    - E: protects cells from oxidation
+    - K: blood clotting
+  - Water-soluble: B group and C
+    - Excess mostly leaves in urine
+    - Eight B vitamins help release energy
+    - B12 comes mainly from animal foods
+    - Folate matters before and in pregnancy
+    - [C: collagen and wound healing](https://en.wikipedia.org/wiki/Vitamin_C)
+  - Deficiency diseases
+    - [Scurvy from lack of vitamin C](https://en.wikipedia.org/wiki/Scurvy)
+    - [Rickets from lack of vitamin D](https://en.wikipedia.org/wiki/Rickets)
+    - Night blindness from lack of vitamin A
+    - Beriberi from lack of thiamine (B1)
+  - Getting enough
+    - A varied diet covers most needs
+    - Supplements advised for some groups
+    - Folic acid advised when trying to conceive
+    - Megadoses rarely help and can harm
+  - Discovery
+    - 1747: Lind's citrus trial against scurvy
+    - [1912: Casimir Funk coins "vitamine"](https://en.wikipedia.org/wiki/Casimir_Funk)

@@ -1,0 +1,31 @@
+category: Science
+aliases: human heart, how the heart works, heart anatomy
+- Heart
+  - Where and what
+    - Muscular pump, about fist-sized
+    - Sits in the chest, slightly left
+    - Beats about 100,000 times a day
+  - Four chambers
+    - Atria receive incoming blood
+    - Ventricles pump blood out
+    - Right side pumps to the lungs
+    - Left side pumps to the body
+    - [Valves stop blood flowing backward](https://en.wikipedia.org/wiki/Heart_valve)
+  - The heartbeat
+    - [Sinoatrial node: the natural pacemaker](https://en.wikipedia.org/wiki/Sinoatrial_node)
+    - Electrical signal spreads, muscle contracts
+    - "Lub-dub" is valves closing
+    - [ECG records electrical activity](https://en.wikipedia.org/wiki/Electrocardiography)
+  - Feeding the heart
+    - Coronary arteries supply heart muscle
+    - A blocked one causes heart attack
+  - Common problems
+    - [Coronary artery disease, a leading killer](https://en.wikipedia.org/wiki/Coronary_artery_disease)
+    - Heart failure: weakened pumping
+    - Arrhythmias such as atrial fibrillation
+    - Chest pain, breathlessness: call emergency services
+  - Keeping it healthy
+    - Stay active most days
+    - Eat less salt and saturated fat
+    - Don't smoke; limit alcohol
+    - Check blood pressure and cholesterol

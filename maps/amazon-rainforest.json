@@ -1,0 +1,307 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Amazon rainforest",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#gbifr5",
+      "name": "Where it is",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4snyns",
+      "name": "Covers about 5.5 million km²",
+      "x": -444,
+      "y": -59,
+      "parent": "#gbifr5"
+    },
+    {
+      "@id": "#dqgz97",
+      "name": "About 60% lies in Brazil",
+      "x": -396,
+      "y": -171,
+      "parent": "#gbifr5"
+    },
+    {
+      "@id": "#5k25gb",
+      "name": "Spans nine countries and territories",
+      "x": -305,
+      "y": -265,
+      "parent": "#gbifr5"
+    },
+    {
+      "@id": "#2asn4n",
+      "name": "The Amazon River",
+      "x": -19,
+      "y": -183,
+      "link": "https://en.wikipedia.org/wiki/Amazon_River",
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nwjzud",
+      "name": "Largest river by water discharge",
+      "x": -181,
+      "y": -330,
+      "parent": "#2asn4n"
+    },
+    {
+      "@id": "#wcm7yb",
+      "name": "Fed by over 1,000 tributaries",
+      "x": -41,
+      "y": -391,
+      "parent": "#2asn4n"
+    },
+    {
+      "@id": "#ipb9eg",
+      "name": "Floods seasonally into várzea forests",
+      "x": 140,
+      "y": -445,
+      "parent": "#2asn4n"
+    },
+    {
+      "@id": "#fu36cy",
+      "name": "Biodiversity",
+      "x": 182,
+      "y": -113,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zeycky",
+      "name": "About 10% of known species",
+      "x": 246,
+      "y": -301,
+      "parent": "#fu36cy"
+    },
+    {
+      "@id": "#wuudre",
+      "name": "Around 16,000 tree species",
+      "x": 355,
+      "y": -221,
+      "parent": "#fu36cy"
+    },
+    {
+      "@id": "#n5g24w",
+      "name": "Jaguars, pink river dolphins, macaws",
+      "x": 464,
+      "y": -127,
+      "parent": "#fu36cy"
+    },
+    {
+      "@id": "#hp5qcx",
+      "name": "Climate role",
+      "x": 218,
+      "y": 60,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hi9z8k",
+      "name": "Stores huge amounts of carbon",
+      "x": 450,
+      "y": 0,
+      "parent": "#hp5qcx"
+    },
+    {
+      "@id": "#k8vmcv",
+      "name": "Trees recycle rain inland",
+      "x": 426,
+      "y": 117,
+      "parent": "#hp5qcx"
+    },
+    {
+      "@id": "#m2tca9",
+      "name": "Risk of tipping into savanna",
+      "x": 355,
+      "y": 221,
+      "parent": "#hp5qcx"
+    },
+    {
+      "@id": "#bjyzs6",
+      "name": "People",
+      "x": 56,
+      "y": 178,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xj69q9",
+      "name": "Hundreds of Indigenous peoples live there",
+      "x": 246,
+      "y": 301,
+      "link": "https://en.wikipedia.org/wiki/Indigenous_peoples_in_Brazil",
+      "parent": "#bjyzs6"
+    },
+    {
+      "@id": "#ueyrkn",
+      "name": "Some groups remain uncontacted",
+      "x": 110,
+      "y": 349,
+      "parent": "#bjyzs6"
+    },
+    {
+      "@id": "#nznxjt",
+      "name": "Manaus is the largest city",
+      "x": -43,
+      "y": 407,
+      "parent": "#bjyzs6"
+    },
+    {
+      "@id": "#kyqq8m",
+      "name": "Threats and protection",
+      "x": -182,
+      "y": 113,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ntn8e2",
+      "name": "Deforestation mainly for cattle ranching",
+      "x": -253,
+      "y": 465,
+      "link": "https://en.wikipedia.org/wiki/Deforestation_of_the_Amazon_rainforest",
+      "parent": "#kyqq8m"
+    },
+    {
+      "@id": "#v22vwq",
+      "name": "Soy farming, logging and mining",
+      "x": -305,
+      "y": 265,
+      "parent": "#kyqq8m"
+    },
+    {
+      "@id": "#h48k94",
+      "name": "Fires set to clear land",
+      "x": -396,
+      "y": 171,
+      "parent": "#kyqq8m"
+    },
+    {
+      "@id": "#75dkhq",
+      "name": "Indigenous lands and parks slow clearing",
+      "x": -444,
+      "y": 59,
+      "parent": "#kyqq8m"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

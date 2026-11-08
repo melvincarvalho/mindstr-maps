@@ -1,0 +1,29 @@
+category: Life and home
+aliases: cow's milk, dairy milk, cows milk
+- Milk
+  - What milk is
+    - Mammals make it to feed young
+    - About 87% water
+    - Protein, fat, lactose, calcium
+  - Where it comes from
+    - Mostly cows worldwide
+    - Also buffalo, goats, sheep, camels
+    - India is the largest producer
+  - Processing
+    - [Pasteurisation heats milk to kill germs](https://en.wikipedia.org/wiki/Pasteurization)
+    - Homogenisation stops cream separating
+    - Whole, semi-skimmed and skimmed
+    - UHT keeps for months unopened
+  - Made from milk
+    - Cheese from curdled milk
+    - Yogurt fermented by bacteria
+    - Butter churned from cream
+  - Milk and health
+    - Good source of calcium and protein
+    - [Most adults digest lactose poorly](https://en.wikipedia.org/wiki/Lactose_intolerance)
+    - Milk allergy is common in infants
+    - Raw milk can carry harmful bacteria
+  - Alternatives
+    - [Plant milks: soy, oat, almond](https://en.wikipedia.org/wiki/Plant_milk)
+    - Choose ones with added calcium
+    - Lactose-free cow's milk

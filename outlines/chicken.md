@@ -1,0 +1,31 @@
+category: Science
+aliases: chickens, domestic chicken, hens and roosters, backyard chickens
+- Chicken
+  - The bird
+    - [Descends from the red junglefowl](https://en.wikipedia.org/wiki/Red_junglefowl)
+    - Hens are female, roosters male
+    - Comb and wattles on the head
+    - Can fly only short distances
+    - Lives about 5 to 10 years
+  - Domestication
+    - Tamed in Southeast Asia, 3,500 years ago
+    - First kept for cockfighting and ritual
+    - Spread worldwide with trade and farming
+  - Most numerous bird on Earth
+    - About 25 billion alive at once
+    - [Broilers raised for meat in weeks](https://en.wikipedia.org/wiki/Broiler)
+    - Layer hens produce about 300 eggs yearly
+    - Over 70 billion slaughtered each year
+  - Behaviour
+    - [Pecking order sets flock hierarchy](https://en.wikipedia.org/wiki/Pecking_order)
+    - Scratch and peck to forage
+    - Dust bathe to clean feathers
+    - Roosters crow, mostly at dawn
+  - Eggs and life cycle
+    - Hens lay without a rooster
+    - Fertilised eggs hatch in about 21 days
+    - Broody hens sit on eggs
+  - Welfare and keeping
+    - [Battery cages banned in some countries](https://en.wikipedia.org/wiki/Battery_cage)
+    - Backyard flocks need a fox-proof coop
+    - Bird flu can spread through flocks

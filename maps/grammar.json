@@ -1,0 +1,308 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Grammar",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#2b2n77",
+      "name": "The rules that build meaning",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5mekpy",
+      "name": "Every language and dialect has one",
+      "x": -544,
+      "y": -74,
+      "parent": "#2b2n77"
+    },
+    {
+      "@id": "#66i5tc",
+      "name": "Native speakers learn it unconsciously",
+      "x": -396,
+      "y": -171,
+      "parent": "#2b2n77"
+    },
+    {
+      "@id": "#w92dby",
+      "name": "Descriptive versus prescriptive grammar",
+      "x": -305,
+      "y": -265,
+      "parent": "#2b2n77"
+    },
+    {
+      "@id": "#sdbcg6",
+      "name": "Parts of speech",
+      "x": -19,
+      "y": -183,
+      "link": "https://en.wikipedia.org/wiki/Part_of_speech",
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kyeayb",
+      "name": "Nouns name things, verbs show actions",
+      "x": -181,
+      "y": -330,
+      "parent": "#sdbcg6"
+    },
+    {
+      "@id": "#wacdkq",
+      "name": "Adjectives and adverbs modify",
+      "x": -41,
+      "y": -391,
+      "parent": "#sdbcg6"
+    },
+    {
+      "@id": "#75989t",
+      "name": "Pronouns, prepositions, conjunctions link ideas",
+      "x": 140,
+      "y": -445,
+      "parent": "#sdbcg6"
+    },
+    {
+      "@id": "#n2akrj",
+      "name": "Morphology: shaping words",
+      "x": 182,
+      "y": -113,
+      "link": "https://en.wikipedia.org/wiki/Morphology_%28linguistics%29",
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#79fex4",
+      "name": "Inflection marks tense, number, case",
+      "x": 246,
+      "y": -301,
+      "parent": "#n2akrj"
+    },
+    {
+      "@id": "#zt8ymi",
+      "name": "Some languages add gender to nouns",
+      "x": 355,
+      "y": -221,
+      "parent": "#n2akrj"
+    },
+    {
+      "@id": "#a3kmzy",
+      "name": "English inflects little; Latin, a lot",
+      "x": 521,
+      "y": -142,
+      "parent": "#n2akrj"
+    },
+    {
+      "@id": "#36m3tc",
+      "name": "Syntax: ordering words",
+      "x": 202,
+      "y": 88,
+      "link": "https://en.wikipedia.org/wiki/Syntax",
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ngg7mq",
+      "name": "Sentences have a subject and predicate",
+      "x": 450,
+      "y": 0,
+      "parent": "#36m3tc"
+    },
+    {
+      "@id": "#piwxy4",
+      "name": "Clauses combine into complex sentences",
+      "x": 502,
+      "y": 137,
+      "parent": "#36m3tc"
+    },
+    {
+      "@id": "#3h8hg5",
+      "name": "SOV and SVO are most common",
+      "x": 355,
+      "y": 221,
+      "link": "https://en.wikipedia.org/wiki/Word_order",
+      "parent": "#36m3tc"
+    },
+    {
+      "@id": "#gtidmy",
+      "name": "Questions and negatives reorder words",
+      "x": 246,
+      "y": 301,
+      "parent": "#36m3tc"
+    },
+    {
+      "@id": "#th5ffd",
+      "name": "History of grammar study",
+      "x": -19,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#42rf64",
+      "name": "Pāṇini described Sanskrit about 400 BC",
+      "x": 110,
+      "y": 349,
+      "parent": "#th5ffd"
+    },
+    {
+      "@id": "#rczs36",
+      "name": "Greek and Latin grammars shaped schoolbooks",
+      "x": -43,
+      "y": 407,
+      "parent": "#th5ffd"
+    },
+    {
+      "@id": "#n7gyup",
+      "name": "Modern linguistics models grammar formally",
+      "x": -253,
+      "y": 465,
+      "parent": "#th5ffd"
+    },
+    {
+      "@id": "#ry55jm",
+      "name": "Grammar in everyday use",
+      "x": -202,
+      "y": 88,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v5q227",
+      "name": "Style guides set formal conventions",
+      "x": -305,
+      "y": 265,
+      "parent": "#ry55jm"
+    },
+    {
+      "@id": "#6mssnq",
+      "name": "Many \"rules\" are just style preferences",
+      "x": -396,
+      "y": 171,
+      "parent": "#ry55jm"
+    },
+    {
+      "@id": "#54hey3",
+      "name": "Learners study it explicitly; children don't",
+      "x": -564,
+      "y": 77,
+      "parent": "#ry55jm"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

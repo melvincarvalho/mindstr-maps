@@ -1,0 +1,29 @@
+category: Society
+aliases: political power, power in politics, social power
+- Power (political science)
+  - Definitions
+    - Ability to influence others' behavior
+    - Dahl: A gets B to act
+    - Power over versus power to
+    - [Foucault: power runs through everyday practices](https://en.wikipedia.org/wiki/Michel_Foucault)
+  - Sources of power
+    - Force and coercion
+    - Wealth and economic resources
+    - Knowledge and information
+    - Office, law and institutions
+  - [Weber's three types of authority](https://en.wikipedia.org/wiki/Tripartite_classification_of_authority)
+    - Traditional: custom and inheritance
+    - Charismatic: devotion to a leader
+    - Legal-rational: rules and offices
+  - Lukes's three faces of power
+    - Winning open decisions
+    - Setting the agenda
+    - Shaping what people want
+  - Hard and soft power
+    - Hard power uses military and money
+    - [Soft power attracts rather than coerces](https://en.wikipedia.org/wiki/Soft_power)
+    - Smart power combines both
+  - Limits on power
+    - [Separation of powers](https://en.wikipedia.org/wiki/Separation_of_powers)
+    - Elections and accountability
+    - Rule of law and courts

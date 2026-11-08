@@ -1,0 +1,30 @@
+category: People
+aliases: tamerlane, tamburlaine, timur the lame, amir timur
+- Timur
+  - Origins
+    - Born 1336 near Kesh, modern Uzbekistan
+    - From the Turco-Mongol Barlas tribe
+    - Leg injury gave name "Timur the Lame"
+  - Rise to power
+    - Seized control of Chagatai lands by 1370
+    - Ruled as amir, not khan
+    - Married a Genghisid princess for legitimacy
+    - Made Samarkand his capital
+  - Conquests
+    - Persia and Mesopotamia from the 1380s
+    - Defeated Golden Horde's Tokhtamysh
+    - Sacked Delhi in 1398
+    - [Captured Ottoman sultan at Ankara, 1402](https://en.wikipedia.org/wiki/Battle_of_Ankara)
+  - Methods
+    - Towers of skulls terrorised cities
+    - Spared artisans and sent them to Samarkand
+    - Campaigns killed millions, by some estimates
+  - Death
+    - Died 1405 marching on Ming China
+    - [Buried in Gur-e-Amir, Samarkand](https://en.wikipedia.org/wiki/Gur-e-Amir)
+    - Empire split among his heirs
+  - Legacy
+    - [Timurid dynasty fostered art and science](https://en.wikipedia.org/wiki/Timurid_Empire)
+    - Grandson Ulugh Beg built an observatory
+    - Descendant Babur founded Mughal Empire
+    - National hero in modern Uzbekistan

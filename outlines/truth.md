@@ -1,0 +1,29 @@
+category: Philosophy and religion
+aliases: what is truth, theories of truth, philosophy of truth
+- Truth
+  - Key questions
+    - What makes a statement true?
+    - Is truth absolute or relative?
+    - Can we ever be certain of it?
+  - Theories of truth
+    - [Correspondence: matching the facts](https://en.wikipedia.org/wiki/Correspondence_theory_of_truth)
+    - Coherence: fitting with other beliefs
+    - Pragmatic: what works (Peirce, James)
+    - Deflationary: "true" adds little meaning
+    - Tarski's "snow is white" definition
+  - Truth and logic
+    - Law of non-contradiction
+    - [Liar paradox: "This sentence is false"](https://en.wikipedia.org/wiki/Liar_paradox)
+    - Bivalence: every statement true or false
+  - Truth and relativism
+    - Protagoras: "man is the measure"
+    - Critics: relativism undermines itself
+    - Moral truths versus factual truths
+  - Finding truth
+    - Evidence, experiment and peer review
+    - Courts weigh testimony and proof
+    - Journalists check facts and sources
+  - Truth in public life
+    - [Post-truth politics](https://en.wikipedia.org/wiki/Post-truth_politics)
+    - False news spreads faster online
+    - Honesty and lying in ethics

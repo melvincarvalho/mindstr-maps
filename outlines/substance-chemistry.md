@@ -1,0 +1,27 @@
+category: Science
+aliases: chemical substance, pure substance
+- Substance (chemistry)
+  - What counts as a substance
+    - Matter with fixed composition and properties
+    - Same throughout, wherever the sample comes from
+    - Cannot be separated by physical means
+  - Two kinds
+    - [Elements: one kind of atom](https://en.wikipedia.org/wiki/Chemical_element)
+    - [Compounds: elements bonded in fixed ratios](https://en.wikipedia.org/wiki/Chemical_compound)
+    - Water: always two hydrogen, one oxygen
+  - Substances versus mixtures
+    - [Mixtures combine substances in any ratio](https://en.wikipedia.org/wiki/Mixture)
+    - Air, seawater and alloys are mixtures
+    - Filtering, distilling or evaporating separate them
+  - Identifying properties
+    - Melting and boiling points
+    - Density and solubility
+    - How it reacts with other substances
+  - States and changes
+    - Solid, liquid and gas
+    - Physical changes keep the substance
+    - Chemical reactions make new substances
+  - Naming and tracking
+    - Chemical formula shows atoms present
+    - [CAS numbers identify each substance](https://en.wikipedia.org/wiki/CAS_Registry_Number)
+    - Hundreds of millions now registered

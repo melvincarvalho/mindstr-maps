@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Waste",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ia6rqu",
+      "name": "What counts as waste",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5b5gb4",
+      "name": "Anything discarded as no longer useful",
+      "x": -445,
+      "y": -51,
+      "parent": "#ia6rqu"
+    },
+    {
+      "@id": "#xk5epj",
+      "name": "Municipal waste from homes and shops",
+      "x": -409,
+      "y": -150,
+      "link": "https://en.wikipedia.org/wiki/Municipal_solid_waste",
+      "parent": "#ia6rqu"
+    },
+    {
+      "@id": "#i787ey",
+      "name": "Industrial, construction and farm waste",
+      "x": -340,
+      "y": -236,
+      "parent": "#ia6rqu"
+    },
+    {
+      "@id": "#fbzhbi",
+      "name": "Hazardous waste: toxic, flammable, corrosive",
+      "x": -243,
+      "y": -303,
+      "parent": "#ia6rqu"
+    },
+    {
+      "@id": "#dhd7zf",
+      "name": "Scale of the problem",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vbxht5",
+      "name": "About 2 billion tonnes of rubbish yearly",
+      "x": -133,
+      "y": -360,
+      "parent": "#dhd7zf"
+    },
+    {
+      "@id": "#tryfsq",
+      "name": "Richer countries generate more per person",
+      "x": 0,
+      "y": -408,
+      "parent": "#dhd7zf"
+    },
+    {
+      "@id": "#mv5r7w",
+      "name": "About a third of food is wasted",
+      "x": 175,
+      "y": -465,
+      "parent": "#dhd7zf"
+    },
+    {
+      "@id": "#n6qagh",
+      "name": "Where it goes",
+      "x": 193,
+      "y": -99,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2w528c",
+      "name": "Landfill buries waste in lined sites",
+      "x": 243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Landfill",
+      "parent": "#n6qagh"
+    },
+    {
+      "@id": "#mw92t2",
+      "name": "Incineration, often recovering energy",
+      "x": 340,
+      "y": -236,
+      "parent": "#n6qagh"
+    },
+    {
+      "@id": "#9jt3wb",
+      "name": "Composting and anaerobic digestion",
+      "x": 409,
+      "y": -150,
+      "parent": "#n6qagh"
+    },
+    {
+      "@id": "#j9fzza",
+      "name": "Open dumping and burning in places",
+      "x": 445,
+      "y": -51,
+      "parent": "#n6qagh"
+    },
+    {
+      "@id": "#e3vbbz",
+      "name": "The waste hierarchy",
+      "x": 193,
+      "y": 99,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r4qd8y",
+      "name": "Reduce first, disposal last",
+      "x": 445,
+      "y": 51,
+      "link": "https://en.wikipedia.org/wiki/Waste_hierarchy",
+      "parent": "#e3vbbz"
+    },
+    {
+      "@id": "#84c68p",
+      "name": "Reuse and repair products",
+      "x": 409,
+      "y": 150,
+      "parent": "#e3vbbz"
+    },
+    {
+      "@id": "#5rs76q",
+      "name": "Recycle materials into new goods",
+      "x": 340,
+      "y": 236,
+      "parent": "#e3vbbz"
+    },
+    {
+      "@id": "#dqtbx7",
+      "name": "Recover energy from what remains",
+      "x": 243,
+      "y": 303,
+      "parent": "#e3vbbz"
+    },
+    {
+      "@id": "#k7h29x",
+      "name": "Harms if mismanaged",
+      "x": -33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bh47iu",
+      "name": "Landfills emit methane",
+      "x": 133,
+      "y": 360,
+      "parent": "#k7h29x"
+    },
+    {
+      "@id": "#rtkwwj",
+      "name": "Plastic pollutes rivers and oceans",
+      "x": 0,
+      "y": 408,
+      "parent": "#k7h29x"
+    },
+    {
+      "@id": "#t2ejam",
+      "name": "Leachate can contaminate groundwater",
+      "x": -175,
+      "y": 465,
+      "parent": "#k7h29x"
+    },
+    {
+      "@id": "#qnrm6e",
+      "name": "Uncollected rubbish spreads disease",
+      "x": -243,
+      "y": 303,
+      "parent": "#k7h29x"
+    },
+    {
+      "@id": "#4b277w",
+      "name": "Solutions",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ibhj7p",
+      "name": "Circular economy designs out waste",
+      "x": -340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/Circular_economy",
+      "parent": "#4b277w"
+    },
+    {
+      "@id": "#pe68cf",
+      "name": "Producers pay for disposal",
+      "x": -409,
+      "y": 150,
+      "parent": "#4b277w"
+    },
+    {
+      "@id": "#e8iuqp",
+      "name": "Deposit-return schemes for bottles",
+      "x": -465,
+      "y": 53,
+      "parent": "#4b277w"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

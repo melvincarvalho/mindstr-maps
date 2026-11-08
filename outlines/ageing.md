@@ -1,0 +1,30 @@
+category: Health
+aliases: aging, biological ageing, how the body ages, healthy ageing
+- Ageing
+  - What ageing is
+    - Gradual decline of body functions
+    - Starts in early adulthood
+    - Pace varies a lot between people
+  - Why we age
+    - Damage to cells and DNA builds up
+    - [Telomeres shorten as cells divide](https://en.wikipedia.org/wiki/Telomere)
+    - Genes and lifestyle both matter
+  - Changes in the body
+    - Muscle and bone mass decline
+    - Eyesight and hearing weaken
+    - Skin thins and loses elasticity
+    - Memory slows but knowledge grows
+  - Conditions more common with age
+    - Heart disease and stroke
+    - Cancer and type 2 diabetes
+    - [Dementia, mostly Alzheimer's disease](https://en.wikipedia.org/wiki/Dementia)
+    - [Osteoporosis and falls](https://en.wikipedia.org/wiki/Osteoporosis)
+  - Ageing well
+    - Stay physically active every week
+    - Eat well and avoid smoking
+    - Keep socially and mentally engaged
+    - Regular check-ups and vaccines
+  - Ageing societies
+    - Global life expectancy now above 70
+    - Fewer workers per retiree
+    - [Population ageing strains pensions and care](https://en.wikipedia.org/wiki/Population_ageing)

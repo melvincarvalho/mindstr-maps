@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Maize",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#cuhnaa",
+      "name": "The plant",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bxx5xa",
+      "name": "A tall grass, Zea mays",
+      "x": -445,
+      "y": -54,
+      "parent": "#cuhnaa"
+    },
+    {
+      "@id": "#gnys9u",
+      "name": "Kernels grow in rows on cobs",
+      "x": -405,
+      "y": -156,
+      "parent": "#cuhnaa"
+    },
+    {
+      "@id": "#6fesk5",
+      "name": "Male tassel on top, female silks below",
+      "x": -330,
+      "y": -245,
+      "parent": "#cuhnaa"
+    },
+    {
+      "@id": "#jcvb69",
+      "name": "Origins",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#x4x4e5",
+      "name": "Bred from teosinte in Mexico",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Teosinte",
+      "parent": "#jcvb69"
+    },
+    {
+      "@id": "#h2ju5q",
+      "name": "Domesticated about 9,000 years ago",
+      "x": -104,
+      "y": -367,
+      "parent": "#jcvb69"
+    },
+    {
+      "@id": "#i4gg5x",
+      "name": "Staple of the Maya and Aztecs",
+      "x": 42,
+      "y": -423,
+      "parent": "#jcvb69"
+    },
+    {
+      "@id": "#4qkq2u",
+      "name": "Spread worldwide after 1492",
+      "x": 234,
+      "y": -485,
+      "parent": "#jcvb69"
+    },
+    {
+      "@id": "#mrbqzu",
+      "name": "Kinds of maize",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#f4tzn8",
+      "name": "Dent corn for feed and industry",
+      "x": 281,
+      "y": -281,
+      "parent": "#mrbqzu"
+    },
+    {
+      "@id": "#7k7tch",
+      "name": "Sweetcorn eaten fresh as a vegetable",
+      "x": 372,
+      "y": -203,
+      "link": "https://en.wikipedia.org/wiki/Sweet_corn",
+      "parent": "#mrbqzu"
+    },
+    {
+      "@id": "#mchxmt",
+      "name": "Popcorn kernels burst when heated",
+      "x": 487,
+      "y": -121,
+      "parent": "#mrbqzu"
+    },
+    {
+      "@id": "#g74i3q",
+      "name": "Flint corn with a hard shell",
+      "x": 450,
+      "y": 0,
+      "parent": "#mrbqzu"
+    },
+    {
+      "@id": "#rbw3fw",
+      "name": "How it is used",
+      "x": 169,
+      "y": 125,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jbtakc",
+      "name": "Most goes to animal feed",
+      "x": 430,
+      "y": 106,
+      "parent": "#rbw3fw"
+    },
+    {
+      "@id": "#5v7aeh",
+      "name": "Ethanol fuel, especially in the US",
+      "x": 372,
+      "y": 203,
+      "parent": "#rbw3fw"
+    },
+    {
+      "@id": "#brxwie",
+      "name": "Cornflour, corn syrup and oil",
+      "x": 281,
+      "y": 281,
+      "parent": "#rbw3fw"
+    },
+    {
+      "@id": "#a7dbr3",
+      "name": "Tortillas from nixtamalised maize",
+      "x": 164,
+      "y": 335,
+      "link": "https://en.wikipedia.org/wiki/Nixtamalization",
+      "parent": "#rbw3fw"
+    },
+    {
+      "@id": "#v5fxvf",
+      "name": "Global crop",
+      "x": -84,
+      "y": 171,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p4zujt",
+      "name": "Most produced grain by weight",
+      "x": 38,
+      "y": 391,
+      "parent": "#v5fxvf"
+    },
+    {
+      "@id": "#vyifjr",
+      "name": "US is the largest producer",
+      "x": -124,
+      "y": 447,
+      "parent": "#v5fxvf"
+    },
+    {
+      "@id": "#kx6jy7",
+      "name": "China and Brazil also grow vast amounts",
+      "x": -225,
+      "y": 312,
+      "parent": "#v5fxvf"
+    },
+    {
+      "@id": "#jqjbmv",
+      "name": "Staple food across much of Africa",
+      "x": -330,
+      "y": 245,
+      "parent": "#v5fxvf"
+    },
+    {
+      "@id": "#frwkut",
+      "name": "Nutrition notes",
+      "x": -220,
+      "y": 54,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#irrjqj",
+      "name": "Rich in starch, low in lysine",
+      "x": -405,
+      "y": 156,
+      "parent": "#frwkut"
+    },
+    {
+      "@id": "#cfw9yg",
+      "name": "Maize-only diets risked pellagra",
+      "x": -505,
+      "y": 60,
+      "link": "https://en.wikipedia.org/wiki/Pellagra",
+      "parent": "#frwkut"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,29 @@
+category: Science
+aliases: waves physics, wave motion, mechanical wave
+- Wave
+  - What a wave is
+    - A disturbance that carries energy
+    - The medium wobbles but stays put
+    - Repeating patterns in space and time
+  - Measuring a wave
+    - [Wavelength: distance between crests](https://en.wikipedia.org/wiki/Wavelength)
+    - [Frequency: waves per second, in hertz](https://en.wikipedia.org/wiki/Frequency)
+    - Amplitude: height, which sets energy
+    - Speed equals frequency times wavelength
+  - Two basic shapes
+    - Transverse: wiggles across travel direction
+    - Longitudinal: squeezes along travel direction
+  - Kinds of waves
+    - Water waves on the sea
+    - [Sound needs air or another medium](https://en.wikipedia.org/wiki/Sound)
+    - Earthquake waves through rock
+    - Light and radio cross empty space
+  - What waves do
+    - Reflect off surfaces as echoes
+    - Refract when changing speed
+    - [Interfere, adding or cancelling](https://en.wikipedia.org/wiki/Wave_interference)
+    - Diffract by spreading round obstacles
+    - Doppler effect: pitch shifts when moving
+  - Waves in modern science
+    - Particles behave as waves in quantum physics
+    - Gravitational waves ripple spacetime

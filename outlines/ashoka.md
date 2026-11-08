@@ -1,0 +1,30 @@
+category: People
+aliases: ashoka the great, asoka, emperor ashoka, samrat ashoka
+- Ashoka
+  - Who he was
+    - [Emperor of India's Maurya dynasty](https://en.wikipedia.org/wiki/Maurya_Empire)
+    - Reigned about 268 to 232 BC
+    - Grandson of founder Chandragupta Maurya
+    - Ruled most of the Indian subcontinent
+  - The Kalinga War
+    - Conquered Kalinga about 261 BC
+    - Over 100,000 killed, by his account
+    - Deep remorse at the suffering
+  - Turn to Buddhism
+    - Became a devoted lay Buddhist
+    - Promoted dhamma: ethical, humane living
+    - Urged tolerance of all religions
+    - Discouraged killing animals for sacrifice
+  - [Edicts of Ashoka](https://en.wikipedia.org/wiki/Edicts_of_Ashoka)
+    - Carved on rocks and stone pillars
+    - Mostly in Prakrit, Brahmi script
+    - Greek and Aramaic versions in the northwest
+    - Deciphered by James Prinsep in 1837
+  - Spreading Buddhism
+    - Sent missions across Asia
+    - Son Mahinda took Buddhism to Sri Lanka
+    - Built stupas, including at Sanchi
+  - Legacy
+    - [Lion Capital is India's national emblem](https://en.wikipedia.org/wiki/Lion_Capital_of_Ashoka)
+    - Ashoka Chakra on India's flag
+    - Model of a moral ruler

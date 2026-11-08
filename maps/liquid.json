@@ -1,0 +1,318 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Liquid",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#zxszru",
+      "name": "What makes a liquid",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yq67h2",
+      "name": "Fixed volume, takes container's shape",
+      "x": -524,
+      "y": -64,
+      "parent": "#zxszru"
+    },
+    {
+      "@id": "#uvfkcu",
+      "name": "Particles close but free to slide",
+      "x": -401,
+      "y": -163,
+      "parent": "#zxszru"
+    },
+    {
+      "@id": "#ckyuyh",
+      "name": "Hardly compresses under pressure",
+      "x": -318,
+      "y": -255,
+      "parent": "#zxszru"
+    },
+    {
+      "@id": "#5mh7km",
+      "name": "Flow and thickness",
+      "x": -36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sh36az",
+      "name": "Viscosity: honey flows slower than water",
+      "x": -204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Viscosity",
+      "parent": "#5mh7km"
+    },
+    {
+      "@id": "#uz3e6s",
+      "name": "Most liquids thin out when warmed",
+      "x": -73,
+      "y": -372,
+      "parent": "#5mh7km"
+    },
+    {
+      "@id": "#a6cw52",
+      "name": "Non-Newtonian fluids like cornflour slime",
+      "x": 82,
+      "y": -420,
+      "parent": "#5mh7km"
+    },
+    {
+      "@id": "#2rhqnb",
+      "name": "Surface effects",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#prr3rc",
+      "name": "Surface tension lets insects walk on water",
+      "x": 303,
+      "y": -475,
+      "link": "https://en.wikipedia.org/wiki/Surface_tension",
+      "parent": "#2rhqnb"
+    },
+    {
+      "@id": "#9tifny",
+      "name": "Droplets pull into round shapes",
+      "x": 318,
+      "y": -255,
+      "parent": "#2rhqnb"
+    },
+    {
+      "@id": "#egf28w",
+      "name": "Capillary action draws water up plants",
+      "x": 455,
+      "y": -184,
+      "link": "https://en.wikipedia.org/wiki/Capillary_action",
+      "parent": "#2rhqnb"
+    },
+    {
+      "@id": "#nkz95t",
+      "name": "Changing state",
+      "x": 219,
+      "y": 57,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#92qcya",
+      "name": "Evaporation happens at any temperature",
+      "x": 444,
+      "y": -56,
+      "parent": "#nkz95t"
+    },
+    {
+      "@id": "#k6agyn",
+      "name": "Boils when vapour pressure meets air pressure",
+      "x": 544,
+      "y": 66,
+      "parent": "#nkz95t"
+    },
+    {
+      "@id": "#nqaapf",
+      "name": "Boils at lower temperature on mountains",
+      "x": 401,
+      "y": 163,
+      "parent": "#nkz95t"
+    },
+    {
+      "@id": "#j3pxzt",
+      "name": "Freezes into a solid when cooled",
+      "x": 318,
+      "y": 255,
+      "parent": "#nkz95t"
+    },
+    {
+      "@id": "#jbkkht",
+      "name": "Liquids as mixers",
+      "x": 36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#js3vt4",
+      "name": "Dissolve solids, like sugar in tea",
+      "x": 204,
+      "y": 321,
+      "parent": "#jbkkht"
+    },
+    {
+      "@id": "#cpd4vu",
+      "name": "Water is the universal solvent",
+      "x": 73,
+      "y": 372,
+      "parent": "#jbkkht"
+    },
+    {
+      "@id": "#vai96w",
+      "name": "Oil and water don't mix",
+      "x": -82,
+      "y": 420,
+      "parent": "#jbkkht"
+    },
+    {
+      "@id": "#qrwn64",
+      "name": "Notable liquids",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rhp9cw",
+      "name": "Water covers about 71% of Earth",
+      "x": -204,
+      "y": 321,
+      "parent": "#qrwn64"
+    },
+    {
+      "@id": "#aap4gx",
+      "name": "Mercury: only metal liquid at room temperature",
+      "x": -318,
+      "y": 255,
+      "parent": "#qrwn64"
+    },
+    {
+      "@id": "#xr5y26",
+      "name": "Blood carries oxygen around the body",
+      "x": -401,
+      "y": 163,
+      "parent": "#qrwn64"
+    },
+    {
+      "@id": "#5c6js3",
+      "name": "Liquid nitrogen boils at −196°C",
+      "x": -444,
+      "y": 56,
+      "parent": "#qrwn64"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,29 @@
+category: Science
+aliases: galaxies, what is a galaxy, types of galaxies
+- Galaxy
+  - What a galaxy is
+    - Stars, gas, dust and dark matter
+    - Held together by gravity
+    - Millions to trillions of stars each
+    - Perhaps 2 trillion in observable universe
+  - [Types by shape](https://en.wikipedia.org/wiki/Hubble_sequence)
+    - Spiral: rotating disc with arms
+    - Barred spiral, like the Milky Way
+    - Elliptical: smooth, older red stars
+    - Irregular: no clear shape
+  - What's inside
+    - [Supermassive black hole at the centre](https://en.wikipedia.org/wiki/Supermassive_black_hole)
+    - [Dark matter halo outweighs the stars](https://en.wikipedia.org/wiki/Dark_matter)
+    - Gas clouds where new stars form
+  - How galaxies grow
+    - First galaxies formed within 500 million years
+    - Smaller galaxies merge into larger ones
+    - Collisions trigger bursts of star formation
+  - Our neighbourhood
+    - Milky Way is in the Local Group
+    - [Andromeda, 2.5 million light-years away](https://en.wikipedia.org/wiki/Andromeda_Galaxy)
+    - Magellanic Clouds orbit the Milky Way
+    - Groups gather into clusters and superclusters
+  - Discovery
+    - Hubble proved other galaxies exist, 1924
+    - Redshift shows galaxies moving apart

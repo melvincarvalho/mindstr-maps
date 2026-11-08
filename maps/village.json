@@ -1,0 +1,317 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Village",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#2huhvx",
+      "name": "What a village is",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4qpqxz",
+      "name": "Small rural settlement",
+      "x": -444,
+      "y": -56,
+      "parent": "#2huhvx"
+    },
+    {
+      "@id": "#n5q5pd",
+      "name": "Usually a few hundred to few thousand",
+      "x": -401,
+      "y": -163,
+      "parent": "#2huhvx"
+    },
+    {
+      "@id": "#n97yb4",
+      "name": "Larger than a hamlet, smaller than town",
+      "x": -318,
+      "y": -255,
+      "parent": "#2huhvx"
+    },
+    {
+      "@id": "#zeiq2x",
+      "name": "Origins",
+      "x": -36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#s9k8hu",
+      "name": "First villages after farming began",
+      "x": -204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Neolithic_Revolution",
+      "parent": "#zeiq2x"
+    },
+    {
+      "@id": "#aqvzww",
+      "name": "Built near water and good soil",
+      "x": -73,
+      "y": -372,
+      "parent": "#zeiq2x"
+    },
+    {
+      "@id": "#4vbnzm",
+      "name": "Medieval villages centred on manor",
+      "x": 82,
+      "y": -420,
+      "parent": "#zeiq2x"
+    },
+    {
+      "@id": "#p9nwtx",
+      "name": "Layouts",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pfpfdz",
+      "name": "Nucleated: houses clustered together",
+      "x": 204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Nucleated_village",
+      "parent": "#p9nwtx"
+    },
+    {
+      "@id": "#bgqitx",
+      "name": "Linear: along one road",
+      "x": 318,
+      "y": -255,
+      "parent": "#p9nwtx"
+    },
+    {
+      "@id": "#dfxmbi",
+      "name": "Green village around common land",
+      "x": 401,
+      "y": -163,
+      "parent": "#p9nwtx"
+    },
+    {
+      "@id": "#w9ssxr",
+      "name": "Typical features",
+      "x": 219,
+      "y": 57,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6qetry",
+      "name": "Church, temple or mosque",
+      "x": 444,
+      "y": -56,
+      "parent": "#w9ssxr"
+    },
+    {
+      "@id": "#aqdcyr",
+      "name": "Village green or square",
+      "x": 464,
+      "y": 58,
+      "parent": "#w9ssxr"
+    },
+    {
+      "@id": "#uyzxy2",
+      "name": "Shop, pub or meeting place",
+      "x": 401,
+      "y": 163,
+      "parent": "#w9ssxr"
+    },
+    {
+      "@id": "#zsjnq9",
+      "name": "Surrounded by farmland",
+      "x": 318,
+      "y": 255,
+      "parent": "#w9ssxr"
+    },
+    {
+      "@id": "#822fr5",
+      "name": "Village life",
+      "x": 36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9uxxkq",
+      "name": "Most people once lived in villages",
+      "x": 204,
+      "y": 321,
+      "parent": "#822fr5"
+    },
+    {
+      "@id": "#hc44pr",
+      "name": "Close-knit community and local customs",
+      "x": 73,
+      "y": 372,
+      "parent": "#822fr5"
+    },
+    {
+      "@id": "#de776q",
+      "name": "Farming the traditional livelihood",
+      "x": -82,
+      "y": 420,
+      "parent": "#822fr5"
+    },
+    {
+      "@id": "#2si3vp",
+      "name": "Villages today",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#64rc72",
+      "name": "Young people leave for cities",
+      "x": -204,
+      "y": 321,
+      "parent": "#2si3vp"
+    },
+    {
+      "@id": "#cq68rc",
+      "name": "Commuters and second homes raise prices",
+      "x": -318,
+      "y": 255,
+      "parent": "#2si3vp"
+    },
+    {
+      "@id": "#mp9cip",
+      "name": "Over 600,000 villages in India",
+      "x": -401,
+      "y": 163,
+      "parent": "#2si3vp"
+    },
+    {
+      "@id": "#djyu5b",
+      "name": "Shops and services close",
+      "x": -444,
+      "y": 56,
+      "parent": "#2si3vp"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

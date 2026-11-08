@@ -1,0 +1,30 @@
+category: Science
+aliases: proteins, what are proteins, protein structure
+- Protein
+  - Built from amino acids
+    - [About 20 amino acids in the code](https://en.wikipedia.org/wiki/Amino_acid)
+    - Joined by peptide bonds into chains
+    - Nine are essential from diet
+  - Four levels of structure
+    - Primary: the amino acid sequence
+    - Secondary: helices and sheets
+    - Tertiary: the full 3D fold
+    - Quaternary: several chains together
+  - [Shape decides function](https://en.wikipedia.org/wiki/Protein_folding)
+    - Chains fold into precise shapes
+    - Heat or acid denatures them
+    - Misfolding linked to prion diseases, Alzheimer's
+    - [AlphaFold predicts structure from sequence](https://en.wikipedia.org/wiki/AlphaFold)
+  - Jobs in the body
+    - Enzymes speed up reactions
+    - Haemoglobin carries oxygen
+    - Antibodies fight infection
+    - Collagen and keratin give structure
+    - Actin and myosin move muscles
+  - How cells make them
+    - Genes code for protein sequences
+    - Ribosomes link amino acids in order
+  - In the diet
+    - Meat, fish, eggs, dairy, legumes
+    - Adults need about 0.8 g/kg daily
+    - Supplies about 4 kcal per gram

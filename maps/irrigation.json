@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Irrigation",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#qia7ah",
+      "name": "Supplying water to crops artificially",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yiz3w7",
+      "name": "Lets farming happen in dry regions",
+      "x": -585,
+      "y": -68,
+      "parent": "#qia7ah"
+    },
+    {
+      "@id": "#k8ur9w",
+      "name": "Uses about 70% of freshwater withdrawals",
+      "x": -405,
+      "y": -156,
+      "parent": "#qia7ah"
+    },
+    {
+      "@id": "#syngyy",
+      "name": "About 20% of farmland, 40% of food",
+      "x": -330,
+      "y": -245,
+      "parent": "#qia7ah"
+    },
+    {
+      "@id": "#3xd8ia",
+      "name": "Ancient origins",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sfgdgc",
+      "name": "Mesopotamian canals from Tigris and Euphrates",
+      "x": -225,
+      "y": -312,
+      "parent": "#3xd8ia"
+    },
+    {
+      "@id": "#zbht74",
+      "name": "Egypt used the Nile's annual floods",
+      "x": -104,
+      "y": -367,
+      "parent": "#3xd8ia"
+    },
+    {
+      "@id": "#wet3sb",
+      "name": "Qanat tunnels carry groundwater in Persia",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Qanat",
+      "parent": "#3xd8ia"
+    },
+    {
+      "@id": "#6ji7ic",
+      "name": "Shaduf lifts water by lever",
+      "x": 234,
+      "y": -485,
+      "parent": "#3xd8ia"
+    },
+    {
+      "@id": "#77zadp",
+      "name": "Main methods",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pgrjq4",
+      "name": "Surface flooding and furrows",
+      "x": 281,
+      "y": -281,
+      "parent": "#77zadp"
+    },
+    {
+      "@id": "#wb2q4y",
+      "name": "Sprinklers and centre pivots",
+      "x": 372,
+      "y": -203,
+      "parent": "#77zadp"
+    },
+    {
+      "@id": "#jvv3va",
+      "name": "Drip irrigation feeds roots directly",
+      "x": 487,
+      "y": -121,
+      "link": "https://en.wikipedia.org/wiki/Drip_irrigation",
+      "parent": "#77zadp"
+    },
+    {
+      "@id": "#wzh2p5",
+      "name": "Rice paddies flooded deliberately",
+      "x": 450,
+      "y": 0,
+      "parent": "#77zadp"
+    },
+    {
+      "@id": "#tifsmk",
+      "name": "Water sources",
+      "x": 190,
+      "y": 104,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5ahciu",
+      "name": "Rivers, dams and reservoirs",
+      "x": 430,
+      "y": 106,
+      "parent": "#tifsmk"
+    },
+    {
+      "@id": "#gsxjv9",
+      "name": "Groundwater pumped from aquifers",
+      "x": 372,
+      "y": 203,
+      "parent": "#tifsmk"
+    },
+    {
+      "@id": "#i5ufsu",
+      "name": "Treated wastewater reuse",
+      "x": 281,
+      "y": 281,
+      "parent": "#tifsmk"
+    },
+    {
+      "@id": "#utf2zd",
+      "name": "Problems",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zxtwts",
+      "name": "Soil salinity from evaporating water",
+      "x": 164,
+      "y": 335,
+      "link": "https://en.wikipedia.org/wiki/Soil_salinity",
+      "parent": "#utf2zd"
+    },
+    {
+      "@id": "#9tq4nd",
+      "name": "Aral Sea shrank from cotton irrigation",
+      "x": 38,
+      "y": 391,
+      "link": "https://en.wikipedia.org/wiki/Aral_Sea",
+      "parent": "#utf2zd"
+    },
+    {
+      "@id": "#qwa5w5",
+      "name": "Overpumping drains aquifers like Ogallala",
+      "x": -124,
+      "y": 447,
+      "parent": "#utf2zd"
+    },
+    {
+      "@id": "#27582m",
+      "name": "Waterlogging of poorly drained fields",
+      "x": -225,
+      "y": 312,
+      "parent": "#utf2zd"
+    },
+    {
+      "@id": "#swu48f",
+      "name": "Using water efficiently",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g8kwex",
+      "name": "Lining canals to stop leaks",
+      "x": -330,
+      "y": 245,
+      "parent": "#swu48f"
+    },
+    {
+      "@id": "#9hjupw",
+      "name": "Soil moisture sensors guide scheduling",
+      "x": -405,
+      "y": 156,
+      "parent": "#swu48f"
+    },
+    {
+      "@id": "#92qmz9",
+      "name": "Watering when cool cuts evaporation",
+      "x": -525,
+      "y": 62,
+      "parent": "#swu48f"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

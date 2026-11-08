@@ -1,0 +1,28 @@
+category: Technology
+aliases: black powder, history of gunpowder, invention of gunpowder
+- Gunpowder
+  - What it is
+    - Earliest known chemical explosive
+    - Also called black powder
+    - Burns very fast, releasing hot gas
+  - Origins in China
+    - Found by alchemists seeking elixirs, 800s
+    - [Described in a military text, 1044](https://en.wikipedia.org/wiki/Wujing_Zongyao)
+    - Fire arrows, bombs and early rockets
+  - Spread west
+    - Reached the Islamic world and Europe, 1200s
+    - Cannon in Europe by the 1320s
+    - [Gunpowder empires: Ottoman, Safavid, Mughal](https://en.wikipedia.org/wiki/Gunpowder_empires)
+  - Changing warfare
+    - Castle walls became vulnerable to cannon
+    - Handheld firearms replaced bows
+    - [Military revolution in early modern Europe](https://en.wikipedia.org/wiki/Military_revolution)
+  - Peaceful uses
+    - Chinese fireworks for celebrations
+    - Mining and canal blasting from 1600s
+    - Quarrying before dynamite arrived
+  - Decline and legacy
+    - [Smokeless powder replaced it, 1880s](https://en.wikipedia.org/wiki/Smokeless_powder)
+    - Still used in fireworks and fuses
+    - Strictly regulated; licences required
+    - [Guy Fawkes and the Gunpowder Plot, 1605](https://en.wikipedia.org/wiki/Gunpowder_Plot)

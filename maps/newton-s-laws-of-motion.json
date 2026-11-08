@@ -1,0 +1,286 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Newton's laws of motion",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#czdxba",
+      "name": "Published in the Principia, 1687",
+      "x": -216,
+      "y": -63,
+      "link": "https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica",
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#adr6vj",
+      "name": "Built on Galileo's work on inertia",
+      "x": -583,
+      "y": -84,
+      "parent": "#czdxba"
+    },
+    {
+      "@id": "#u6wt6n",
+      "name": "Explained falling apples and orbiting moons",
+      "x": -390,
+      "y": -180,
+      "parent": "#czdxba"
+    },
+    {
+      "@id": "#mi4tsg",
+      "name": "First law: inertia",
+      "x": -40,
+      "y": -181,
+      "link": "https://en.wikipedia.org/wiki/Inertia",
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zf2d22",
+      "name": "Objects stay at rest or keep moving",
+      "x": -289,
+      "y": -276,
+      "parent": "#mi4tsg"
+    },
+    {
+      "@id": "#mwkavt",
+      "name": "Unless a net force acts on them",
+      "x": -154,
+      "y": -338,
+      "parent": "#mi4tsg"
+    },
+    {
+      "@id": "#p2b7vd",
+      "name": "Passengers lurch forward when a bus brakes",
+      "x": 0,
+      "y": -392,
+      "parent": "#mi4tsg"
+    },
+    {
+      "@id": "#uh3fkw",
+      "name": "Spacecraft coast without firing engines",
+      "x": 203,
+      "y": -443,
+      "parent": "#mi4tsg"
+    },
+    {
+      "@id": "#tcejdq",
+      "name": "Second law: force equals mass times acceleration",
+      "x": 216,
+      "y": -63,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rswkxd",
+      "name": "Same push moves light things faster",
+      "x": 289,
+      "y": -276,
+      "parent": "#tcejdq"
+    },
+    {
+      "@id": "#7d2ti8",
+      "name": "Doubling force doubles the acceleration",
+      "x": 390,
+      "y": -180,
+      "parent": "#tcejdq"
+    },
+    {
+      "@id": "#wipuix",
+      "name": "Unit of force is named the newton",
+      "x": 643,
+      "y": -93,
+      "parent": "#tcejdq"
+    },
+    {
+      "@id": "#pmxn2j",
+      "name": "Force is momentum's rate of change",
+      "x": 443,
+      "y": 63,
+      "link": "https://en.wikipedia.org/wiki/Momentum",
+      "parent": "#tcejdq"
+    },
+    {
+      "@id": "#ha72fj",
+      "name": "Third law: action and reaction",
+      "x": 115,
+      "y": 159,
+      "link": "https://en.wikipedia.org/wiki/Reaction_%28physics%29",
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#khqmcu",
+      "name": "Every force has an equal, opposite partner",
+      "x": 458,
+      "y": 212,
+      "parent": "#ha72fj"
+    },
+    {
+      "@id": "#67ih9a",
+      "name": "Partner forces act on different objects",
+      "x": 289,
+      "y": 276,
+      "parent": "#ha72fj"
+    },
+    {
+      "@id": "#nb6rdx",
+      "name": "Rockets push exhaust back, shoot forward",
+      "x": 154,
+      "y": 338,
+      "parent": "#ha72fj"
+    },
+    {
+      "@id": "#fjpcxa",
+      "name": "Swimmers push water backward to advance",
+      "x": 0,
+      "y": 392,
+      "parent": "#ha72fj"
+    },
+    {
+      "@id": "#39xwfv",
+      "name": "Where they fail",
+      "x": -176,
+      "y": 118,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hbvwwy",
+      "name": "Very fast: Einstein's special relativity",
+      "x": -203,
+      "y": 443,
+      "link": "https://en.wikipedia.org/wiki/Special_relativity",
+      "parent": "#39xwfv"
+    },
+    {
+      "@id": "#jf6pnm",
+      "name": "Very small: quantum mechanics",
+      "x": -289,
+      "y": 276,
+      "parent": "#39xwfv"
+    },
+    {
+      "@id": "#pvgqd4",
+      "name": "Need a non-accelerating reference frame",
+      "x": -390,
+      "y": 180,
+      "parent": "#39xwfv"
+    },
+    {
+      "@id": "#rxrkav",
+      "name": "Still accurate enough for Moon landings",
+      "x": -443,
+      "y": 63,
+      "parent": "#39xwfv"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 4,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    }
+  ],
+  "selectedNode": 0
+}

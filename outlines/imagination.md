@@ -1,0 +1,29 @@
+category: Society
+aliases: imagining, power of imagination, the imagination
+- Imagination
+  - What imagination is
+    - Picturing things not present to senses
+    - Recombining memories into new ideas
+    - [Mental imagery: the mind's eye](https://en.wikipedia.org/wiki/Mental_image)
+  - Kinds of imagining
+    - Replaying and reliving the past
+    - Simulating the future to plan
+    - Counterfactuals: what might have been
+    - Fantasy, fiction and daydreaming
+  - In the brain
+    - [Default mode network active when mind-wandering](https://en.wikipedia.org/wiki/Default_mode_network)
+    - Shares machinery with memory and perception
+    - [Aphantasia: no voluntary mental pictures](https://en.wikipedia.org/wiki/Aphantasia)
+  - How it develops
+    - Pretend play from about age two
+    - Imaginary friends are common and normal
+    - Stories and play feed it
+  - What it is for
+    - Creativity in art and science
+    - Empathy: imagining what others feel
+    - Testing plans without real risk
+    - [Thought experiments explore ideas safely](https://en.wikipedia.org/wiki/Thought_experiment)
+  - Exercising it
+    - Reading fiction and telling stories
+    - Free time to let the mind wander
+    - Drawing, writing and making things

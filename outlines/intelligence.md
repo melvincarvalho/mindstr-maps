@@ -1,0 +1,29 @@
+category: Society
+aliases: human intelligence, intelligence quotient, iq, what is intelligence
+- Intelligence
+  - What it is
+    - Ability to learn, reason and solve problems
+    - Adapting to new situations
+    - Exact definitions still debated
+  - Theories
+    - [Spearman's g: one general factor](https://en.wikipedia.org/wiki/G_factor_%28psychometrics%29)
+    - Fluid versus crystallised intelligence
+    - [Gardner's multiple intelligences, weakly supported](https://en.wikipedia.org/wiki/Theory_of_multiple_intelligences)
+    - Sternberg: analytical, creative, practical
+    - [Emotional intelligence: popular, debated](https://en.wikipedia.org/wiki/Emotional_intelligence)
+  - Measuring it
+    - [IQ tests set the average at 100](https://en.wikipedia.org/wiki/Intelligence_quotient)
+    - About two-thirds score between 85 and 115
+    - Predicts school and job performance
+    - Scores rose for decades: Flynn effect
+  - Genes and environment
+    - Twin studies show substantial heritability
+    - Nutrition, schooling and health matter too
+    - Heritability rises from childhood to adulthood
+  - Across a lifetime
+    - Fluid reasoning peaks in early adulthood
+    - Knowledge keeps growing into old age
+    - Extra schooling raises IQ a few points
+  - Beyond humans
+    - Crows, apes and dolphins solve problems
+    - Artificial intelligence matches some abilities

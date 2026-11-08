@@ -1,0 +1,28 @@
+category: Technology
+aliases: how clocks work, history of clocks, timekeeping devices
+- Clock
+  - What every clock needs
+    - A steady repeating oscillator
+    - A counter for the beats
+    - A display showing the time
+  - Early timekeeping
+    - [Sundials track the Sun's shadow](https://en.wikipedia.org/wiki/Sundial)
+    - Water clocks measured flowing water
+    - Candles and hourglasses timed tasks
+  - Mechanical clocks
+    - Weight-driven tower clocks, 1300s Europe
+    - [Escapement releases energy in ticks](https://en.wikipedia.org/wiki/Escapement)
+    - [Huygens' pendulum clock, 1656](https://en.wikipedia.org/wiki/Pendulum_clock)
+    - Coiled springs made watches portable
+  - Finding longitude at sea
+    - [Harrison's marine chronometers, 1700s](https://en.wikipedia.org/wiki/Marine_chronometer)
+    - Time difference gives east-west position
+  - Modern clocks
+    - Quartz crystal vibrates 32,768 times a second
+    - [Atomic clocks count caesium atom vibrations](https://en.wikipedia.org/wiki/Atomic_clock)
+    - The second defined by caesium since 1967
+    - GPS satellites carry atomic clocks
+  - Time in daily life
+    - Railways forced standard time zones
+    - Phones sync to network time
+    - Ancient Egyptians split day into 24 hours

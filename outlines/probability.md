@@ -1,0 +1,32 @@
+category: Mathematics
+aliases: probability theory, chance and odds, mathematics of chance
+- Probability
+  - What it measures
+    - Scale from 0 (impossible) to 1 (certain)
+    - Fair coin: heads has chance 1/2
+    - Frequency: long-run share of outcomes
+    - Bayesian view: a degree of belief
+  - Basic rules
+    - Either-or: add, if events exclusive
+    - Independent events: multiply the chances
+    - Two heads in a row: 1/4
+    - Chance of "not" is 1 minus chance
+  - Key ideas
+    - [Expected value: the long-run average](https://en.wikipedia.org/wiki/Expected_value)
+    - [Law of large numbers](https://en.wikipedia.org/wiki/Law_of_large_numbers)
+    - Conditional probability: chance given new information
+    - [Bayes' theorem updates beliefs with evidence](https://en.wikipedia.org/wiki/Bayes%27_theorem)
+  - Surprises and common mistakes
+    - [Gambler's fallacy: coins have no memory](https://en.wikipedia.org/wiki/Gambler%27s_fallacy)
+    - Birthday problem: 23 people, 50% match
+    - [Monty Hall: switching wins 2/3](https://en.wikipedia.org/wiki/Monty_Hall_problem)
+    - Rare disease: most positives can be false
+  - History
+    - Cardano studied dice in the 1500s
+    - Pascal and Fermat's gambling letters, 1654
+    - Kolmogorov's axioms made it rigorous, 1933
+  - Uses
+    - Insurance and pricing risk
+    - Weather forecasts: 70% chance of rain
+    - Casinos and lotteries always have an edge
+    - Genetics, quantum physics and AI

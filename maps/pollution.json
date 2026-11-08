@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Pollution",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#pyexb9",
+      "name": "Air pollution",
+      "x": -186,
+      "y": -108,
+      "link": "https://en.wikipedia.org/wiki/Air_pollution",
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#punwmh",
+      "name": "Fine particles (PM2.5) from burning fuels",
+      "x": -444,
+      "y": -56,
+      "parent": "#pyexb9"
+    },
+    {
+      "@id": "#j6f7aw",
+      "name": "Smog from vehicle and factory emissions",
+      "x": -401,
+      "y": -163,
+      "parent": "#pyexb9"
+    },
+    {
+      "@id": "#4gte7q",
+      "name": "About 7 million deaths a year",
+      "x": -318,
+      "y": -255,
+      "parent": "#pyexb9"
+    },
+    {
+      "@id": "#ibmy5a",
+      "name": "Indoor smoke from cooking fires",
+      "x": -204,
+      "y": -321,
+      "parent": "#pyexb9"
+    },
+    {
+      "@id": "#54yi4v",
+      "name": "Water pollution",
+      "x": 71,
+      "y": -175,
+      "link": "https://en.wikipedia.org/wiki/Water_pollution",
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p8hkif",
+      "name": "Sewage spreads cholera and other diseases",
+      "x": -73,
+      "y": -372,
+      "parent": "#54yi4v"
+    },
+    {
+      "@id": "#bk6pfs",
+      "name": "Fertiliser runoff causes algal blooms",
+      "x": 82,
+      "y": -420,
+      "parent": "#54yi4v"
+    },
+    {
+      "@id": "#cqsc65",
+      "name": "Oil spills harm marine life",
+      "x": 204,
+      "y": -321,
+      "parent": "#54yi4v"
+    },
+    {
+      "@id": "#udg7xq",
+      "name": "Industrial waste and heavy metals",
+      "x": 318,
+      "y": -255,
+      "parent": "#54yi4v"
+    },
+    {
+      "@id": "#vwwgye",
+      "name": "Land and soil pollution",
+      "x": 227,
+      "y": -29,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hwnbt2",
+      "name": "Landfills leak chemicals into groundwater",
+      "x": 401,
+      "y": -163,
+      "parent": "#vwwgye"
+    },
+    {
+      "@id": "#utmpu8",
+      "name": "Pesticides and mining waste",
+      "x": 504,
+      "y": -62,
+      "parent": "#vwwgye"
+    },
+    {
+      "@id": "#vs8egd",
+      "name": "Plastics break into microplastics",
+      "x": 444,
+      "y": 56,
+      "parent": "#vwwgye"
+    },
+    {
+      "@id": "#vcihhq",
+      "name": "Other forms",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vbxxjj",
+      "name": "Noise pollution harms sleep, health",
+      "x": 437,
+      "y": 177,
+      "parent": "#vcihhq"
+    },
+    {
+      "@id": "#5qn67z",
+      "name": "Light pollution hides the night sky",
+      "x": 318,
+      "y": 255,
+      "parent": "#vcihhq"
+    },
+    {
+      "@id": "#s22xya",
+      "name": "Radioactive contamination after nuclear accidents",
+      "x": 204,
+      "y": 321,
+      "parent": "#vcihhq"
+    },
+    {
+      "@id": "#yz3ccf",
+      "name": "Landmark events",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kddfb9",
+      "name": "Great Smog of London, 1952",
+      "x": 73,
+      "y": 372,
+      "link": "https://en.wikipedia.org/wiki/Great_Smog_of_London",
+      "parent": "#yz3ccf"
+    },
+    {
+      "@id": "#r7xmrq",
+      "name": "Bhopal gas disaster, 1984",
+      "x": -82,
+      "y": 420,
+      "parent": "#yz3ccf"
+    },
+    {
+      "@id": "#i2a88e",
+      "name": "Silent Spring sparked environmental movement",
+      "x": -303,
+      "y": 475,
+      "parent": "#yz3ccf"
+    },
+    {
+      "@id": "#agsdif",
+      "name": "Solutions",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cicnbz",
+      "name": "Clean Air and Clean Water Acts",
+      "x": -318,
+      "y": 255,
+      "parent": "#agsdif"
+    },
+    {
+      "@id": "#7cbz6v",
+      "name": "Montreal Protocol phased out CFCs",
+      "x": -401,
+      "y": 163,
+      "link": "https://en.wikipedia.org/wiki/Montreal_Protocol",
+      "parent": "#agsdif"
+    },
+    {
+      "@id": "#riryza",
+      "name": "Polluter pays principle",
+      "x": -444,
+      "y": 56,
+      "parent": "#agsdif"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

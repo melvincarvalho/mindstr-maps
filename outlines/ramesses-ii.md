@@ -1,0 +1,30 @@
+category: People
+aliases: ramesses the great, rameses ii, ramses ii, ramses the great
+- Ramesses II
+  - Who he was
+    - Third pharaoh of Egypt's 19th Dynasty
+    - Reigned about 1279 to 1213 BC
+    - Ruled for about 66 years
+    - Son of the pharaoh Seti I
+  - Warrior king
+    - [Fought the Hittites at Kadesh](https://en.wikipedia.org/wiki/Battle_of_Kadesh)
+    - Kadesh about 1274 BC, a stalemate
+    - Campaigns in Nubia, Canaan and Libya
+  - Peace and diplomacy
+    - [Peace treaty with Hittites, about 1259 BC](https://en.wikipedia.org/wiki/Egyptian%E2%80%93Hittite_peace_treaty)
+    - Earliest known surviving peace treaty
+    - Married a Hittite princess
+  - Great builder
+    - [Rock temples at Abu Simbel](https://en.wikipedia.org/wiki/Abu_Simbel)
+    - The Ramesseum, his memorial temple
+    - Expanded Karnak and Luxor temples
+    - Built new capital Pi-Ramesses
+  - Family
+    - Nefertari was his chief queen
+    - Fathered over 100 children
+    - Outlived many heirs; son Merneptah succeeded
+  - Legacy
+    - Remembered as Ramesses the Great
+    - His mummy is in Cairo
+    - [Inspired Shelley's poem Ozymandias](https://en.wikipedia.org/wiki/Ozymandias)
+    - Often cast as the Exodus pharaoh

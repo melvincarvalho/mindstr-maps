@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Mollusca",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#gj5284",
+      "name": "What makes them distinct",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#je4ht2",
+      "name": "Soft body, usually no segments",
+      "x": -445,
+      "y": -54,
+      "parent": "#gj5284"
+    },
+    {
+      "@id": "#rpahv4",
+      "name": "Muscular foot for moving",
+      "x": -405,
+      "y": -156,
+      "parent": "#gj5284"
+    },
+    {
+      "@id": "#6vn469",
+      "name": "Mantle that often builds a shell",
+      "x": -330,
+      "y": -245,
+      "parent": "#gj5284"
+    },
+    {
+      "@id": "#5sq4n3",
+      "name": "Radula, a rasping tongue",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Radula",
+      "parent": "#gj5284"
+    },
+    {
+      "@id": "#7sg67q",
+      "name": "Size and diversity",
+      "x": 17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3fn9vf",
+      "name": "About 85,000 living species",
+      "x": -104,
+      "y": -367,
+      "parent": "#7sg67q"
+    },
+    {
+      "@id": "#rk4umy",
+      "name": "Second-largest animal phylum after arthropods",
+      "x": 42,
+      "y": -423,
+      "parent": "#7sg67q"
+    },
+    {
+      "@id": "#s83gec",
+      "name": "Tiny snails to giant squids",
+      "x": 234,
+      "y": -485,
+      "parent": "#7sg67q"
+    },
+    {
+      "@id": "#k6fpzs",
+      "name": "Main groups",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aqayg5",
+      "name": "Gastropods: snails and slugs",
+      "x": 281,
+      "y": -281,
+      "link": "https://en.wikipedia.org/wiki/Gastropoda",
+      "parent": "#k6fpzs"
+    },
+    {
+      "@id": "#4wpsza",
+      "name": "Bivalves: clams, mussels, oysters",
+      "x": 372,
+      "y": -203,
+      "parent": "#k6fpzs"
+    },
+    {
+      "@id": "#yrfji5",
+      "name": "Cephalopods: octopus, squid, cuttlefish",
+      "x": 506,
+      "y": -126,
+      "link": "https://en.wikipedia.org/wiki/Cephalopod",
+      "parent": "#k6fpzs"
+    },
+    {
+      "@id": "#gkyhp2",
+      "name": "Chitons with eight shell plates",
+      "x": 450,
+      "y": 0,
+      "parent": "#k6fpzs"
+    },
+    {
+      "@id": "#g2t2me",
+      "name": "Remarkable features",
+      "x": 169,
+      "y": 125,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sieh7u",
+      "name": "Octopuses solve puzzles and use tools",
+      "x": 487,
+      "y": 121,
+      "parent": "#g2t2me"
+    },
+    {
+      "@id": "#hyfc5m",
+      "name": "Squid and cuttlefish change colour instantly",
+      "x": 372,
+      "y": 203,
+      "parent": "#g2t2me"
+    },
+    {
+      "@id": "#h5ta2f",
+      "name": "Oysters build pearls around irritants",
+      "x": 281,
+      "y": 281,
+      "parent": "#g2t2me"
+    },
+    {
+      "@id": "#jrhzyx",
+      "name": "Ammonites left famous spiral fossils",
+      "x": 164,
+      "y": 335,
+      "link": "https://en.wikipedia.org/wiki/Ammonoidea",
+      "parent": "#g2t2me"
+    },
+    {
+      "@id": "#tjxj8s",
+      "name": "Role in ecosystems",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hecc3h",
+      "name": "Bivalves filter and clean water",
+      "x": 38,
+      "y": 391,
+      "parent": "#tjxj8s"
+    },
+    {
+      "@id": "#dnv87g",
+      "name": "Oyster reefs shelter other species",
+      "x": -124,
+      "y": 447,
+      "parent": "#tjxj8s"
+    },
+    {
+      "@id": "#2am9sa",
+      "name": "Food for fish, birds and mammals",
+      "x": -225,
+      "y": 312,
+      "parent": "#tjxj8s"
+    },
+    {
+      "@id": "#a5ud6t",
+      "name": "Molluscs and people",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#shqxme",
+      "name": "Seafood: mussels, scallops, calamari",
+      "x": -330,
+      "y": 245,
+      "parent": "#a5ud6t"
+    },
+    {
+      "@id": "#fxfnxp",
+      "name": "Garden snails and slugs eat crops",
+      "x": -405,
+      "y": 156,
+      "parent": "#a5ud6t"
+    },
+    {
+      "@id": "#t5drjm",
+      "name": "Some snails spread schistosomiasis",
+      "x": -505,
+      "y": 60,
+      "parent": "#a5ud6t"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,34 @@
+category: Philosophy and religion
+aliases: hindu religion, sanatana dharma, hindu dharma
+- Hinduism
+  - Origins and history
+    - Roots in Vedic religion, about 1500 BCE
+    - No single founder or creed
+    - Called Sanatana Dharma, "eternal order"
+    - About 1.2 billion followers worldwide
+  - Core beliefs
+    - [Brahman, the ultimate reality](https://en.wikipedia.org/wiki/Brahman)
+    - Atman, the eternal self
+    - [Karma shapes future lives](https://en.wikipedia.org/wiki/Karma_in_Hinduism)
+    - Samsara, the cycle of rebirth
+    - Moksha, liberation from rebirth
+    - Dharma, duty and right conduct
+  - Main traditions
+    - Vaishnavism worships Vishnu and his avatars
+    - Shaivism centres on Shiva
+    - Shaktism honours the Goddess, Devi
+    - Smartism treats major deities as equal
+  - Sacred texts
+    - Vedas and Upanishads, revealed shruti
+    - [Bhagavad Gita, Krishna's teaching](https://en.wikipedia.org/wiki/Bhagavad_Gita)
+    - Ramayana and Mahabharata epics
+    - Puranas tell stories of the gods
+  - Practices
+    - [Puja, worship at home and temple](https://en.wikipedia.org/wiki/Puja_%28Hinduism%29)
+    - Yoga and meditation
+    - Pilgrimage to Varanasi and the Ganges
+    - Festivals such as Diwali and Holi
+  - Paths to liberation
+    - Jnana yoga, the path of knowledge
+    - Bhakti yoga, the path of devotion
+    - Karma yoga, the path of selfless action

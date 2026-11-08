@@ -1,0 +1,27 @@
+category: Geography
+aliases: the atlantic, atlantic sea, north atlantic
+- Atlantic Ocean
+  - Shape and size
+    - Second-largest ocean, about 106 million km²
+    - S-shaped between the Americas and Europe–Africa
+    - Saltiest of the major oceans
+  - How it formed
+    - Opened as Pangaea broke apart
+    - [Mid-Atlantic Ridge runs down the middle](https://en.wikipedia.org/wiki/Mid-Atlantic_Ridge)
+    - Still widening a few centimetres a year
+    - Iceland sits on top of the ridge
+  - Currents and weather
+    - [Gulf Stream warms northwest Europe](https://en.wikipedia.org/wiki/Gulf_Stream)
+    - [Overturning circulation carries heat north](https://en.wikipedia.org/wiki/Atlantic_meridional_overturning_circulation)
+    - Hurricanes form off West Africa
+    - Sargasso Sea, a sea without coasts
+  - Features
+    - Puerto Rico Trench, about 8,400 m deep
+    - Grand Banks, a famous fishing ground
+    - Caribbean and Gulf of Mexico margins
+  - History of crossings
+    - Vikings reached Newfoundland around 1000 CE
+    - Columbus sailed to the Caribbean in 1492
+    - [Transatlantic slave trade forced 12 million across](https://en.wikipedia.org/wiki/Atlantic_slave_trade)
+    - Titanic sank in 1912
+    - First non-stop flight across, 1919

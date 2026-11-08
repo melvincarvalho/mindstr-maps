@@ -1,0 +1,29 @@
+category: Geography
+aliases: what is a town, town vs city, market town
+- Town
+  - What a town is
+    - Bigger than a village, smaller than city
+    - Often thousands to tens of thousands
+    - No single worldwide definition
+  - Origins
+    - [Market towns grew around weekly markets](https://en.wikipedia.org/wiki/Market_town)
+    - Medieval charters granted trading rights
+    - Walled towns for defence
+  - Kinds of town
+    - Market and county towns
+    - Mill and mining towns
+    - Seaside resorts and spa towns
+    - [New towns planned after 1945](https://en.wikipedia.org/wiki/New_towns_in_the_United_Kingdom)
+  - Town vs city
+    - UK city status is granted by monarch
+    - US towns are a legal municipality type
+    - Population size is the usual guide
+  - Typical features
+    - High street and town square
+    - Town hall and local council
+    - Market, church and schools
+    - Serves surrounding villages
+  - Towns today
+    - Some decline as retail moves online
+    - [Commuter towns house city workers](https://en.wikipedia.org/wiki/Commuter_town)
+    - Revival through local shops and events

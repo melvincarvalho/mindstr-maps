@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Mahatma Gandhi",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#cwn7q6",
+      "name": "Early life",
+      "x": -220,
+      "y": -54,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bnp39e",
+      "name": "Born 1869 in Porbandar, Gujarat",
+      "x": -465,
+      "y": -56,
+      "parent": "#cwn7q6"
+    },
+    {
+      "@id": "#ax8a2y",
+      "name": "Studied law in London",
+      "x": -405,
+      "y": -156,
+      "parent": "#cwn7q6"
+    },
+    {
+      "@id": "#2ft9rn",
+      "name": "South Africa, 1893–1914",
+      "x": -115,
+      "y": -159,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gk7wn5",
+      "name": "Faced racial discrimination as a lawyer",
+      "x": -330,
+      "y": -245,
+      "parent": "#2ft9rn"
+    },
+    {
+      "@id": "#yiepkr",
+      "name": "Organised Indians against unjust laws",
+      "x": -225,
+      "y": -312,
+      "parent": "#2ft9rn"
+    },
+    {
+      "@id": "#xsqqwn",
+      "name": "First campaigns of mass civil resistance",
+      "x": -104,
+      "y": -367,
+      "parent": "#2ft9rn"
+    },
+    {
+      "@id": "#ignt7v",
+      "name": "Method of nonviolence",
+      "x": 105,
+      "y": -216,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c8mpgd",
+      "name": "Satyagraha: firm, nonviolent resistance to injustice",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Satyagraha",
+      "parent": "#ignt7v"
+    },
+    {
+      "@id": "#ndjnpd",
+      "name": "Boycotts, strikes, fasts and civil disobedience",
+      "x": 234,
+      "y": -485,
+      "parent": "#ignt7v"
+    },
+    {
+      "@id": "#36nxgb",
+      "name": "Simple living and homespun cloth (khadi)",
+      "x": 281,
+      "y": -281,
+      "parent": "#ignt7v"
+    },
+    {
+      "@id": "#ky3nun",
+      "name": "Leading the independence movement",
+      "x": 270,
+      "y": 0,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zim9nw",
+      "name": "Led the Indian National Congress from 1920s",
+      "x": 610,
+      "y": -329,
+      "parent": "#ky3nun"
+    },
+    {
+      "@id": "#vuamvi",
+      "name": "Non-cooperation movement, 1920–22",
+      "x": 430,
+      "y": -106,
+      "link": "https://en.wikipedia.org/wiki/Non-cooperation_movement",
+      "parent": "#ky3nun"
+    },
+    {
+      "@id": "#bb6hgm",
+      "name": "Salt March to Dandi, 1930",
+      "x": 590,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Salt_March",
+      "parent": "#ky3nun"
+    },
+    {
+      "@id": "#tz3u27",
+      "name": "Quit India movement, 1942",
+      "x": 430,
+      "y": 106,
+      "link": "https://en.wikipedia.org/wiki/Quit_India_Movement",
+      "parent": "#ky3nun"
+    },
+    {
+      "@id": "#p3zcav",
+      "name": "Jailed by the British many times",
+      "x": 372,
+      "y": 203,
+      "parent": "#ky3nun"
+    },
+    {
+      "@id": "#ckhvh2",
+      "name": "Independence and death",
+      "x": 51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jemd5d",
+      "name": "India became independent in August 1947",
+      "x": 281,
+      "y": 281,
+      "parent": "#ckhvh2"
+    },
+    {
+      "@id": "#9x2t6g",
+      "name": "Opposed partition and religious violence",
+      "x": 164,
+      "y": 335,
+      "parent": "#ckhvh2"
+    },
+    {
+      "@id": "#44abik",
+      "name": "Fasted to stop Hindu–Muslim riots",
+      "x": 38,
+      "y": 391,
+      "parent": "#ckhvh2"
+    },
+    {
+      "@id": "#29t8h4",
+      "name": "Assassinated by Nathuram Godse, January 1948",
+      "x": -124,
+      "y": 447,
+      "link": "https://en.wikipedia.org/wiki/Assassination_of_Mahatma_Gandhi",
+      "parent": "#ckhvh2"
+    },
+    {
+      "@id": "#9efh7p",
+      "name": "Legacy and debates",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jahqva",
+      "name": "Called \"Father of the Nation\" in India",
+      "x": -235,
+      "y": 326,
+      "parent": "#9efh7p"
+    },
+    {
+      "@id": "#rbijkc",
+      "name": "Inspired Martin Luther King Jr. and Mandela",
+      "x": -330,
+      "y": 245,
+      "parent": "#9efh7p"
+    },
+    {
+      "@id": "#ueiifm",
+      "name": "Birthday is International Day of Non-Violence",
+      "x": -405,
+      "y": 156,
+      "parent": "#9efh7p"
+    },
+    {
+      "@id": "#ghh3ds",
+      "name": "Criticised over early racial views and caste",
+      "x": -445,
+      "y": 54,
+      "parent": "#9efh7p"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 12,
+      "end": 16
+    },
+    {
+      "start": 12,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

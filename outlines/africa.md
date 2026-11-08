@@ -1,0 +1,29 @@
+category: Geography
+aliases: african continent, continent of africa, geography of africa
+- Africa
+  - Land and climate
+    - [Sahara, the largest hot desert](https://en.wikipedia.org/wiki/Sahara)
+    - [Nile, among the world's longest rivers](https://en.wikipedia.org/wiki/Nile)
+    - Congo rainforest straddles the equator
+    - [Great Rift Valley and Kilimanjaro](https://en.wikipedia.org/wiki/Great_Rift_Valley)
+    - Savannas cover much of the continent
+  - People and languages
+    - About 1.5 billion people, very young
+    - 54 sovereign countries
+    - Around 2,000 languages spoken
+    - Arabic, Swahili, Hausa widely used
+  - History in brief
+    - [Humans evolved here first](https://en.wikipedia.org/wiki/Recent_African_origin_of_modern_humans)
+    - Ancient Egypt, Kush, Aksum, Mali
+    - Atlantic slave trade took millions
+    - European colonial rule after 1880s
+    - Most states independent by the 1960s
+  - Economy
+    - Rich in oil, gold, cobalt, diamonds
+    - Farming employs a large share
+    - Fast-growing mobile banking and tech
+    - Largest economies: Nigeria, Egypt, South Africa
+  - Culture and society
+    - Islam and Christianity most followed
+    - Afrobeats, highlife and other music
+    - African Union links the continent

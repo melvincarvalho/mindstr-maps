@@ -1,0 +1,353 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Obesity",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#wp2r3x",
+      "name": "Measuring it",
+      "x": -197,
+      "y": -96,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gzxdzk",
+      "name": "Excess body fat that harms health",
+      "x": -466,
+      "y": -51,
+      "parent": "#wp2r3x"
+    },
+    {
+      "@id": "#yva9su",
+      "name": "Adults: BMI of 30 or more",
+      "x": -431,
+      "y": -149,
+      "link": "https://en.wikipedia.org/wiki/Body_mass_index",
+      "parent": "#wp2r3x"
+    },
+    {
+      "@id": "#m86gfw",
+      "name": "BMI is only a rough screening tool",
+      "x": -349,
+      "y": -227,
+      "parent": "#wp2r3x"
+    },
+    {
+      "@id": "#5s96g9",
+      "name": "Waist size flags risky belly fat",
+      "x": -260,
+      "y": -294,
+      "parent": "#wp2r3x"
+    },
+    {
+      "@id": "#vwgy5r",
+      "name": "Causes",
+      "x": 47,
+      "y": -180,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#x5nkv9",
+      "name": "More energy eaten than used",
+      "x": -158,
+      "y": -354,
+      "parent": "#vwgy5r"
+    },
+    {
+      "@id": "#j5gixs",
+      "name": "Cheap, energy-dense processed food",
+      "x": -34,
+      "y": -407,
+      "parent": "#vwgy5r"
+    },
+    {
+      "@id": "#tq8965",
+      "name": "Less physical activity in daily life",
+      "x": 120,
+      "y": -464,
+      "parent": "#vwgy5r"
+    },
+    {
+      "@id": "#r8irat",
+      "name": "Genes strongly influence weight",
+      "x": 207,
+      "y": -320,
+      "parent": "#vwgy5r"
+    },
+    {
+      "@id": "#588p6k",
+      "name": "Sleep, stress, some medicines and conditions",
+      "x": 307,
+      "y": -263,
+      "parent": "#vwgy5r"
+    },
+    {
+      "@id": "#hyh5eh",
+      "name": "Health risks",
+      "x": 228,
+      "y": -25,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tt5f2q",
+      "name": "Type 2 diabetes",
+      "x": 384,
+      "y": -187,
+      "link": "https://en.wikipedia.org/wiki/Type_2_diabetes",
+      "parent": "#hyh5eh"
+    },
+    {
+      "@id": "#u4hvwj",
+      "name": "Heart disease and stroke",
+      "x": 433,
+      "y": -97,
+      "parent": "#hyh5eh"
+    },
+    {
+      "@id": "#tds34c",
+      "name": "Several cancers and joint problems",
+      "x": 490,
+      "y": 0,
+      "parent": "#hyh5eh"
+    },
+    {
+      "@id": "#tgnw9n",
+      "name": "Obstructive sleep apnoea",
+      "x": 433,
+      "y": 97,
+      "parent": "#hyh5eh"
+    },
+    {
+      "@id": "#nzdzpc",
+      "name": "Global picture",
+      "x": 157,
+      "y": 134,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g5fujs",
+      "name": "About 1 in 8 people worldwide",
+      "x": 384,
+      "y": 187,
+      "parent": "#nzdzpc"
+    },
+    {
+      "@id": "#yfnsx7",
+      "name": "Adult rates more than doubled since 1990",
+      "x": 307,
+      "y": 263,
+      "parent": "#nzdzpc"
+    },
+    {
+      "@id": "#eaetqm",
+      "name": "Rising fast in lower-income countries",
+      "x": 207,
+      "y": 320,
+      "parent": "#nzdzpc"
+    },
+    {
+      "@id": "#a6safj",
+      "name": "Treatment and support",
+      "x": -51,
+      "y": 196,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kagkpa",
+      "name": "Eating, activity and behaviour changes",
+      "x": 96,
+      "y": 368,
+      "parent": "#a6safj"
+    },
+    {
+      "@id": "#bfx6dw",
+      "name": "Losing 5–10% of weight helps health",
+      "x": -35,
+      "y": 423,
+      "parent": "#a6safj"
+    },
+    {
+      "@id": "#2ubpky",
+      "name": "GLP-1 medicines such as semaglutide",
+      "x": -214,
+      "y": 474,
+      "link": "https://en.wikipedia.org/wiki/GLP-1_receptor_agonist",
+      "parent": "#a6safj"
+    },
+    {
+      "@id": "#9u6s69",
+      "name": "Bariatric surgery for severe obesity",
+      "x": -260,
+      "y": 294,
+      "link": "https://en.wikipedia.org/wiki/Bariatric_surgery",
+      "parent": "#a6safj"
+    },
+    {
+      "@id": "#55fc4r",
+      "name": "Prevention and society",
+      "x": -211,
+      "y": 73,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y2749q",
+      "name": "Healthier food environments and labelling",
+      "x": -541,
+      "y": 347,
+      "parent": "#55fc4r"
+    },
+    {
+      "@id": "#dg3h8b",
+      "name": "Sugar taxes in some countries",
+      "x": -413,
+      "y": 143,
+      "parent": "#55fc4r"
+    },
+    {
+      "@id": "#y5bmyu",
+      "name": "Weight stigma harms health and care",
+      "x": -546,
+      "y": 59,
+      "link": "https://en.wikipedia.org/wiki/Social_stigma_of_obesity",
+      "parent": "#55fc4r"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 6,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 12,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    },
+    {
+      "start": 26,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

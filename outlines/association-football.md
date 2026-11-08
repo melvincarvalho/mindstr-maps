@@ -1,0 +1,31 @@
+category: Life and home
+aliases: soccer, soccer rules, the beautiful game
+- Association football
+  - The basics
+    - Two teams of eleven players
+    - Score by getting ball into goal
+    - Only goalkeepers handle, in their area
+    - Two 45-minute halves
+  - Key rules
+    - [Offside stops attackers goal-hanging](https://en.wikipedia.org/wiki/Offside_%28association_football%29)
+    - Fouls give free kicks or penalties
+    - Yellow card cautions, red sends off
+    - VAR reviews major decisions
+  - Origins
+    - [Football Association founded in London, 1863](https://en.wikipedia.org/wiki/The_Football_Association)
+    - [IFAB guards the Laws since 1886](https://en.wikipedia.org/wiki/Laws_of_the_Game_%28association_football%29)
+    - Spread worldwide with British trade
+    - FIFA founded in Paris, 1904
+  - Competitions
+    - [First World Cup: Uruguay, 1930](https://en.wikipedia.org/wiki/FIFA_World_Cup)
+    - Women's World Cup since 1991
+    - UEFA Champions League for European clubs
+    - Leagues like Premier League, La Liga
+  - Positions and tactics
+    - Goalkeeper, defenders, midfielders, forwards
+    - Formations like 4-4-2 and 4-3-3
+    - Pressing versus possession styles
+  - The global game
+    - World's most popular sport
+    - Brazil has won five World Cups
+    - Greats include Pelé, Maradona, Messi

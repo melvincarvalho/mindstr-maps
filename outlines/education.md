@@ -1,0 +1,30 @@
+category: Society
+aliases: education system, purpose of education, right to education
+- Education
+  - Why it matters
+    - Literacy and numeracy for daily life
+    - Better jobs and higher earnings
+    - Healthier families and active citizens
+    - [A human right since 1948](https://en.wikipedia.org/wiki/Right_to_education)
+  - Stages
+    - [Early childhood education](https://en.wikipedia.org/wiki/Early_childhood_education)
+    - Primary and secondary school
+    - Higher education and vocational training
+    - Lifelong learning for adults
+  - How people learn
+    - Practice with feedback builds skill
+    - [Spacing study out beats cramming](https://en.wikipedia.org/wiki/Spaced_repetition)
+    - Learning by doing and discussion
+  - Ways to teach
+    - Teacher-led direct instruction
+    - Project and inquiry-based learning
+    - Online and distance education
+    - [Montessori and other alternative methods](https://en.wikipedia.org/wiki/Montessori_education)
+  - The global picture
+    - Most children now enrol in primary school
+    - About 250 million children out of school
+    - Adult literacy about 87% worldwide
+  - Debates
+    - Testing versus broader goals
+    - Cost and access to university
+    - Technology and AI in classrooms

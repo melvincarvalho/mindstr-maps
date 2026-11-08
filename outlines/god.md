@@ -1,0 +1,31 @@
+category: Philosophy and religion
+aliases: existence of god, concept of god, what is god
+- God
+  - Meanings of the word
+    - The single supreme being of monotheism
+    - Creator and sustainer of the universe
+    - Often called all-powerful, all-knowing, good
+  - In major traditions
+    - Jews believe in one indivisible God
+    - [Christians believe in the Trinity](https://en.wikipedia.org/wiki/Trinity)
+    - [Muslims stress God's oneness (tawhid)](https://en.wikipedia.org/wiki/Tawhid)
+    - Sikhs worship one God, Waheguru
+    - [Many Hindus see Brahman as ultimate reality](https://en.wikipedia.org/wiki/Brahman)
+  - Arguments for existence
+    - [Cosmological: the universe needs a cause](https://en.wikipedia.org/wiki/Cosmological_argument)
+    - Teleological: apparent design in nature
+    - Ontological: from the idea of God
+    - Moral: a source for right and wrong
+  - Challenges and replies
+    - [Problem of evil: why suffering?](https://en.wikipedia.org/wiki/Problem_of_evil)
+    - Theodicies answer with free will
+    - Sceptics point to lack of evidence
+  - Range of views
+    - Theism: a personal God who acts
+    - Deism: a creator who does not intervene
+    - Agnosticism: we cannot know
+    - Atheism: no belief in gods
+  - How believers say God is known
+    - Revelation through scripture and prophets
+    - Prayer and personal experience
+    - Mystics seek direct union

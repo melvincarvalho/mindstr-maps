@@ -1,0 +1,295 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Eastern Orthodox Church",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#cv2rhz",
+      "name": "Beliefs",
+      "x": -182,
+      "y": -113,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#drx55i",
+      "name": "Keeps faith of the seven ecumenical councils",
+      "x": -444,
+      "y": -59,
+      "parent": "#cv2rhz"
+    },
+    {
+      "@id": "#3mpu8x",
+      "name": "Holy Spirit proceeds from the Father",
+      "x": -396,
+      "y": -171,
+      "parent": "#cv2rhz"
+    },
+    {
+      "@id": "#hq4k6v",
+      "name": "Theosis: humans can share God's life",
+      "x": -305,
+      "y": -265,
+      "link": "https://en.wikipedia.org/wiki/Theosis_%28Eastern_Christian_theology%29",
+      "parent": "#cv2rhz"
+    },
+    {
+      "@id": "#auwusg",
+      "name": "Scripture read within Holy Tradition",
+      "x": -181,
+      "y": -330,
+      "parent": "#cv2rhz"
+    },
+    {
+      "@id": "#jfjbcy",
+      "name": "Worship",
+      "x": 92,
+      "y": -169,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bnk97c",
+      "name": "Divine Liturgy of Saint John Chrysostom",
+      "x": -41,
+      "y": -391,
+      "link": "https://en.wikipedia.org/wiki/Liturgy_of_Saint_John_Chrysostom",
+      "parent": "#jfjbcy"
+    },
+    {
+      "@id": "#yb5rs7",
+      "name": "Icons venerated as windows to heaven",
+      "x": 140,
+      "y": -445,
+      "link": "https://en.wikipedia.org/wiki/Icon",
+      "parent": "#jfjbcy"
+    },
+    {
+      "@id": "#mf2sky",
+      "name": "Easter (Pascha) is the greatest feast",
+      "x": 246,
+      "y": -301,
+      "parent": "#jfjbcy"
+    },
+    {
+      "@id": "#j3u9mn",
+      "name": "Many churches use the Julian calendar",
+      "x": 355,
+      "y": -221,
+      "parent": "#jfjbcy"
+    },
+    {
+      "@id": "#me6euh",
+      "name": "History",
+      "x": 227,
+      "y": 30,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cdmzex",
+      "name": "Grew from the Byzantine Empire",
+      "x": 426,
+      "y": -117,
+      "parent": "#me6euh"
+    },
+    {
+      "@id": "#t6rv3m",
+      "name": "Split with Rome in 1054",
+      "x": 450,
+      "y": 0,
+      "parent": "#me6euh"
+    },
+    {
+      "@id": "#3tqpu9",
+      "name": "Spread to Slavs from the 9th century",
+      "x": 426,
+      "y": 117,
+      "parent": "#me6euh"
+    },
+    {
+      "@id": "#kfvg3c",
+      "name": "Moscow rose after Constantinople fell, 1453",
+      "x": 355,
+      "y": 221,
+      "parent": "#me6euh"
+    },
+    {
+      "@id": "#dq2yvy",
+      "name": "Organisation",
+      "x": 19,
+      "y": 183,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e79sps",
+      "name": "Self-governing churches in communion",
+      "x": 246,
+      "y": 301,
+      "parent": "#dq2yvy"
+    },
+    {
+      "@id": "#t3v7nm",
+      "name": "Ecumenical Patriarch is first among equals",
+      "x": 110,
+      "y": 349,
+      "parent": "#dq2yvy"
+    },
+    {
+      "@id": "#e4n3hr",
+      "name": "Russian Church is the largest",
+      "x": -43,
+      "y": 407,
+      "parent": "#dq2yvy"
+    },
+    {
+      "@id": "#uvxryn",
+      "name": "Priests may marry before ordination",
+      "x": -253,
+      "y": 465,
+      "parent": "#dq2yvy"
+    },
+    {
+      "@id": "#gasqk2",
+      "name": "Today",
+      "x": -202,
+      "y": 88,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pb575z",
+      "name": "About 220 million members",
+      "x": -305,
+      "y": 265,
+      "parent": "#gasqk2"
+    },
+    {
+      "@id": "#s3e8nt",
+      "name": "Mainly Eastern Europe, Greece, Russia",
+      "x": -396,
+      "y": 171,
+      "parent": "#gasqk2"
+    },
+    {
+      "@id": "#aiz7bd",
+      "name": "Monastic centre at Mount Athos",
+      "x": -444,
+      "y": 59,
+      "parent": "#gasqk2"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,32 @@
+category: Science
+aliases: bronze metal, bronze alloy, copper and tin
+- Bronze
+  - What it is
+    - An alloy of mostly copper
+    - Classic mix: about 88% copper, 12% tin
+    - Harder than copper, melts lower than iron
+    - Modern bronzes may use aluminium instead
+  - [The Bronze Age](https://en.wikipedia.org/wiki/Bronze_Age)
+    - Began about 3300 BC, Near East
+    - Better tools, weapons and armour
+    - Tin trade linked distant regions
+    - Iron spread after about 1200 BC
+  - Properties
+    - Resists corrosion, even in seawater
+    - Forms a green-brown patina over time
+    - Low friction against other metals
+    - Rings clearly when struck
+  - Uses then and now
+    - [Statues cast by lost-wax method](https://en.wikipedia.org/wiki/Lost-wax_casting)
+    - Church bells use bell metal
+    - Ship propellers and fittings
+    - Bearings, springs and bushings
+    - Cymbals and other instruments
+  - Famous bronzes
+    - [Shang dynasty ritual vessels in China](https://en.wikipedia.org/wiki/Chinese_ritual_bronzes)
+    - [Riace bronzes, ancient Greek warriors](https://en.wikipedia.org/wiki/Riace_bronzes)
+    - Third place wins the bronze medal
+  - Bronze vs brass
+    - Bronze: copper with tin
+    - Brass: copper with zinc
+    - Brass is more yellow, bronze browner

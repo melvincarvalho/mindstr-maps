@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Vedas",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#zvywd3",
+      "name": "What they are",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xne6h5",
+      "name": "Oldest Hindu scriptures, in Vedic Sanskrit",
+      "x": -445,
+      "y": -51,
+      "parent": "#zvywd3"
+    },
+    {
+      "@id": "#vmbhhz",
+      "name": "Composed about 1500–500 BCE",
+      "x": -409,
+      "y": -150,
+      "parent": "#zvywd3"
+    },
+    {
+      "@id": "#q86qhy",
+      "name": "Revered as shruti, \"that which is heard\"",
+      "x": -340,
+      "y": -236,
+      "parent": "#zvywd3"
+    },
+    {
+      "@id": "#pcnpb2",
+      "name": "Passed down orally for centuries",
+      "x": -243,
+      "y": -303,
+      "parent": "#zvywd3"
+    },
+    {
+      "@id": "#axwsib",
+      "name": "The four Vedas",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2bb8jb",
+      "name": "Rigveda, over 1,000 hymns",
+      "x": -133,
+      "y": -360,
+      "link": "https://en.wikipedia.org/wiki/Rigveda",
+      "parent": "#axwsib"
+    },
+    {
+      "@id": "#px8gbq",
+      "name": "Samaveda, melodies for chanting",
+      "x": 0,
+      "y": -408,
+      "parent": "#axwsib"
+    },
+    {
+      "@id": "#kmmmxn",
+      "name": "Yajurveda, formulas for sacrifice",
+      "x": 175,
+      "y": -465,
+      "parent": "#axwsib"
+    },
+    {
+      "@id": "#9tmmn5",
+      "name": "Atharvaveda, spells and everyday rites",
+      "x": 243,
+      "y": -303,
+      "parent": "#axwsib"
+    },
+    {
+      "@id": "#bkidf4",
+      "name": "Layers of each Veda",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rnknbg",
+      "name": "Samhitas, the hymn collections",
+      "x": 340,
+      "y": -236,
+      "parent": "#bkidf4"
+    },
+    {
+      "@id": "#kq39dd",
+      "name": "Brahmanas explain the rituals",
+      "x": 409,
+      "y": -150,
+      "parent": "#bkidf4"
+    },
+    {
+      "@id": "#vadtub",
+      "name": "Aranyakas, \"forest\" texts on ritual meaning",
+      "x": 565,
+      "y": -63,
+      "parent": "#bkidf4"
+    },
+    {
+      "@id": "#aqprf9",
+      "name": "Upanishads, philosophical teachings",
+      "x": 445,
+      "y": 51,
+      "link": "https://en.wikipedia.org/wiki/Upanishads",
+      "parent": "#bkidf4"
+    },
+    {
+      "@id": "#qqj7cb",
+      "name": "Gods and ideas",
+      "x": 151,
+      "y": 139,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kdubcz",
+      "name": "Indra, god of storms and war",
+      "x": 409,
+      "y": 150,
+      "parent": "#qqj7cb"
+    },
+    {
+      "@id": "#xya34n",
+      "name": "Agni, the sacred fire",
+      "x": 340,
+      "y": 236,
+      "parent": "#qqj7cb"
+    },
+    {
+      "@id": "#czda2s",
+      "name": "Soma, a ritual drink and deity",
+      "x": 243,
+      "y": 303,
+      "parent": "#qqj7cb"
+    },
+    {
+      "@id": "#5qzhy9",
+      "name": "Rita, the cosmic order",
+      "x": 133,
+      "y": 360,
+      "parent": "#qqj7cb"
+    },
+    {
+      "@id": "#biqzja",
+      "name": "Ritual and recitation",
+      "x": -65,
+      "y": 177,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7rd77r",
+      "name": "Yajna, the fire sacrifice",
+      "x": 0,
+      "y": 408,
+      "link": "https://en.wikipedia.org/wiki/Yajna",
+      "parent": "#biqzja"
+    },
+    {
+      "@id": "#49guhs",
+      "name": "Memorised with exact recitation patterns",
+      "x": -175,
+      "y": 465,
+      "parent": "#biqzja"
+    },
+    {
+      "@id": "#cegymm",
+      "name": "Chanting recognised by UNESCO in 2003",
+      "x": -243,
+      "y": 303,
+      "parent": "#biqzja"
+    },
+    {
+      "@id": "#564p5d",
+      "name": "Legacy",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dkepbb",
+      "name": "Basis of Vedanta philosophy",
+      "x": -340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/Vedanta",
+      "parent": "#564p5d"
+    },
+    {
+      "@id": "#cbw3b7",
+      "name": "Mantras still used in Hindu rites",
+      "x": -409,
+      "y": 150,
+      "parent": "#564p5d"
+    },
+    {
+      "@id": "#7tzkdq",
+      "name": "Key source for early Indian history",
+      "x": -465,
+      "y": 53,
+      "parent": "#564p5d"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,30 @@
+category: Health
+aliases: termination of pregnancy, induced abortion, abortion debate, pregnancy termination
+- Abortion
+  - What it is
+    - Ending a pregnancy before birth
+    - Induced abortion is a deliberate choice
+    - Miscarriage is spontaneous pregnancy loss
+    - Most take place in the first trimester
+  - Methods in general terms
+    - [Medication abortion uses mifepristone and misoprostol](https://en.wikipedia.org/wiki/Medical_abortion)
+    - Surgical: vacuum aspiration in early pregnancy
+    - Dilation and evacuation later on
+  - Safety
+    - Very safe when done by trained providers
+    - Risk rises later in pregnancy
+    - [Unsafe abortion causes many deaths worldwide](https://en.wikipedia.org/wiki/Unsafe_abortion)
+  - Laws around the world
+    - Allowed on request in many countries
+    - Limited to certain grounds in others
+    - Banned or nearly banned in some
+    - [Gestational limits differ widely](https://en.wikipedia.org/wiki/Abortion_law)
+  - Main ethical positions
+    - Pro-choice: bodily autonomy and choice
+    - Pro-life: protect the life of the fetus
+    - Many hold views in between
+    - Religious traditions take varied stances
+  - Debate and context
+    - Exceptions for rape or health debated
+    - Contraception access affects abortion rates
+    - [Abortion debate in law and politics](https://en.wikipedia.org/wiki/Abortion_debate)

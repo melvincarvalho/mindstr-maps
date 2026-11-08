@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Inca Empire",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#3729y7",
+      "name": "Origins and rise",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a2sz9x",
+      "name": "Began around Cusco, Peru, about 1200s",
+      "x": -505,
+      "y": -57,
+      "parent": "#3729y7"
+    },
+    {
+      "@id": "#s9ats9",
+      "name": "Pachacuti expands the state from 1438",
+      "x": -409,
+      "y": -150,
+      "link": "https://en.wikipedia.org/wiki/Pachacuti",
+      "parent": "#3729y7"
+    },
+    {
+      "@id": "#tycdxa",
+      "name": "Largest empire in pre-Columbian Americas",
+      "x": -340,
+      "y": -236,
+      "parent": "#3729y7"
+    },
+    {
+      "@id": "#xf5wxv",
+      "name": "Land of the four quarters",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#s27ixr",
+      "name": "Called Tawantinsuyu by the Incas",
+      "x": -243,
+      "y": -303,
+      "parent": "#xf5wxv"
+    },
+    {
+      "@id": "#umg7jb",
+      "name": "Stretched from Ecuador to central Chile",
+      "x": -133,
+      "y": -360,
+      "parent": "#xf5wxv"
+    },
+    {
+      "@id": "#gmdiwq",
+      "name": "About 10 million people at its height",
+      "x": 0,
+      "y": -408,
+      "parent": "#xf5wxv"
+    },
+    {
+      "@id": "#3vgzk9",
+      "name": "Capital Cusco linked all four regions",
+      "x": 175,
+      "y": -465,
+      "parent": "#xf5wxv"
+    },
+    {
+      "@id": "#c2dfmj",
+      "name": "How it was run",
+      "x": 193,
+      "y": -99,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#437r9s",
+      "name": "Sapa Inca ruled as son of Sun",
+      "x": 243,
+      "y": -303,
+      "parent": "#c2dfmj"
+    },
+    {
+      "@id": "#v35pa3",
+      "name": "Mit'a: labour owed instead of taxes",
+      "x": 340,
+      "y": -236,
+      "parent": "#c2dfmj"
+    },
+    {
+      "@id": "#urywq2",
+      "name": "Quipu knotted cords recorded data",
+      "x": 409,
+      "y": -150,
+      "link": "https://en.wikipedia.org/wiki/Quipu",
+      "parent": "#c2dfmj"
+    },
+    {
+      "@id": "#yurgg7",
+      "name": "Quechua spread as common language",
+      "x": 445,
+      "y": -51,
+      "parent": "#c2dfmj"
+    },
+    {
+      "@id": "#2nfcbs",
+      "name": "Engineering and farming",
+      "x": 193,
+      "y": 99,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kdzq27",
+      "name": "Road network about 40,000 km long",
+      "x": 445,
+      "y": 51,
+      "link": "https://en.wikipedia.org/wiki/Inca_road_system",
+      "parent": "#2nfcbs"
+    },
+    {
+      "@id": "#7n745d",
+      "name": "Mortarless stonework resists earthquakes",
+      "x": 409,
+      "y": 150,
+      "parent": "#2nfcbs"
+    },
+    {
+      "@id": "#ifgw9t",
+      "name": "Terraced fields on steep Andean slopes",
+      "x": 340,
+      "y": 236,
+      "parent": "#2nfcbs"
+    },
+    {
+      "@id": "#7r8vey",
+      "name": "Freeze-dried potatoes stored in warehouses",
+      "x": 243,
+      "y": 303,
+      "parent": "#2nfcbs"
+    },
+    {
+      "@id": "#cxp337",
+      "name": "Religion",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xiigvn",
+      "name": "Inti the Sun god was supreme",
+      "x": 133,
+      "y": 360,
+      "parent": "#cxp337"
+    },
+    {
+      "@id": "#wszg9j",
+      "name": "Coricancha temple in Cusco",
+      "x": 0,
+      "y": 408,
+      "parent": "#cxp337"
+    },
+    {
+      "@id": "#tkuq34",
+      "name": "Royal mummies kept and honoured",
+      "x": -175,
+      "y": 465,
+      "parent": "#cxp337"
+    },
+    {
+      "@id": "#2bgir5",
+      "name": "Conquest and legacy",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#femx9x",
+      "name": "Civil war between Huáscar and Atahualpa",
+      "x": -243,
+      "y": 303,
+      "parent": "#2bgir5"
+    },
+    {
+      "@id": "#gzzssu",
+      "name": "Pizarro captures Atahualpa in 1532",
+      "x": -340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Inca_Empire",
+      "parent": "#2bgir5"
+    },
+    {
+      "@id": "#he8srw",
+      "name": "Last stronghold Vilcabamba falls in 1572",
+      "x": -409,
+      "y": 150,
+      "parent": "#2bgir5"
+    },
+    {
+      "@id": "#dahviy",
+      "name": "Machu Picchu now a World Heritage site",
+      "x": -445,
+      "y": 51,
+      "parent": "#2bgir5"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

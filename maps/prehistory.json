@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Prehistory",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#dnc5ky",
+      "name": "What prehistory means",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c7sxe2",
+      "name": "Human past before writing",
+      "x": -484,
+      "y": -60,
+      "parent": "#dnc5ky"
+    },
+    {
+      "@id": "#wf5mfx",
+      "name": "Writing began about 3200 BC",
+      "x": -401,
+      "y": -163,
+      "parent": "#dnc5ky"
+    },
+    {
+      "@id": "#7tnuyb",
+      "name": "Ended at different times worldwide",
+      "x": -318,
+      "y": -255,
+      "parent": "#dnc5ky"
+    },
+    {
+      "@id": "#9heusb",
+      "name": "Human origins",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yjirsb",
+      "name": "Split from chimps ~6–7 million years ago",
+      "x": -204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Human_evolution",
+      "parent": "#9heusb"
+    },
+    {
+      "@id": "#yhukym",
+      "name": "Stone tools from about 3.3 million years",
+      "x": -73,
+      "y": -372,
+      "parent": "#9heusb"
+    },
+    {
+      "@id": "#qgr9s5",
+      "name": "Homo erectus left Africa ~1.9 million years",
+      "x": 82,
+      "y": -420,
+      "parent": "#9heusb"
+    },
+    {
+      "@id": "#viujg8",
+      "name": "Homo sapiens arose in Africa ~300,000 years",
+      "x": 303,
+      "y": -475,
+      "parent": "#9heusb"
+    },
+    {
+      "@id": "#zsa94e",
+      "name": "Spreading across the world",
+      "x": 219,
+      "y": -57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tz6c55",
+      "name": "Out of Africa about 60,000 years ago",
+      "x": 318,
+      "y": -255,
+      "parent": "#zsa94e"
+    },
+    {
+      "@id": "#8c7j5i",
+      "name": "Met Neanderthals and Denisovans, interbred",
+      "x": 401,
+      "y": -163,
+      "parent": "#zsa94e"
+    },
+    {
+      "@id": "#qskcgv",
+      "name": "Australia by about 50,000 years ago",
+      "x": 544,
+      "y": -66,
+      "parent": "#zsa94e"
+    },
+    {
+      "@id": "#qz4bfh",
+      "name": "Americas by at least 15,000 years",
+      "x": 444,
+      "y": 56,
+      "parent": "#zsa94e"
+    },
+    {
+      "@id": "#3fikp4",
+      "name": "The Stone Age",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6qt5ku",
+      "name": "Paleolithic: hunting, gathering, stone tools",
+      "x": 455,
+      "y": 184,
+      "link": "https://en.wikipedia.org/wiki/Paleolithic",
+      "parent": "#3fikp4"
+    },
+    {
+      "@id": "#xma42t",
+      "name": "Cave art at Chauvet and Lascaux",
+      "x": 318,
+      "y": 255,
+      "parent": "#3fikp4"
+    },
+    {
+      "@id": "#z5gvtt",
+      "name": "Ice Age ended about 11,700 years ago",
+      "x": 204,
+      "y": 321,
+      "parent": "#3fikp4"
+    },
+    {
+      "@id": "#ywrv5f",
+      "name": "Farming and settlement",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g92k7q",
+      "name": "Neolithic Revolution began ~10,000 BC",
+      "x": 73,
+      "y": 372,
+      "link": "https://en.wikipedia.org/wiki/Neolithic_Revolution",
+      "parent": "#ywrv5f"
+    },
+    {
+      "@id": "#fd3mwj",
+      "name": "Villages like Çatalhöyük and Jericho",
+      "x": -82,
+      "y": 420,
+      "parent": "#ywrv5f"
+    },
+    {
+      "@id": "#67x7mi",
+      "name": "Megaliths such as Stonehenge",
+      "x": -204,
+      "y": 321,
+      "parent": "#ywrv5f"
+    },
+    {
+      "@id": "#u2sv7h",
+      "name": "Metals and the first states",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4pjskr",
+      "name": "Copper, then bronze, then iron",
+      "x": -318,
+      "y": 255,
+      "parent": "#u2sv7h"
+    },
+    {
+      "@id": "#abmdit",
+      "name": "Cities and kings in Mesopotamia, Egypt",
+      "x": -401,
+      "y": 163,
+      "parent": "#u2sv7h"
+    },
+    {
+      "@id": "#8pys67",
+      "name": "Three-age system: Stone, Bronze, Iron",
+      "x": -564,
+      "y": 68,
+      "link": "https://en.wikipedia.org/wiki/Three-age_system",
+      "parent": "#u2sv7h"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

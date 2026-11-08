@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Carl Friedrich Gauss",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#98ftzs",
+      "name": "Early life",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dkfchf",
+      "name": "Born in Brunswick, Germany, 1777",
+      "x": -465,
+      "y": -56,
+      "parent": "#98ftzs"
+    },
+    {
+      "@id": "#wbrwq2",
+      "name": "Poor family; a duke funded his studies",
+      "x": -405,
+      "y": -156,
+      "parent": "#98ftzs"
+    },
+    {
+      "@id": "#iqp67j",
+      "name": "Child prodigy, famed for quick sums",
+      "x": -330,
+      "y": -245,
+      "parent": "#98ftzs"
+    },
+    {
+      "@id": "#qu7xng",
+      "name": "Number theory",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zqqu82",
+      "name": "Constructed a regular 17-gon, aged 18",
+      "x": -225,
+      "y": -312,
+      "parent": "#qu7xng"
+    },
+    {
+      "@id": "#xms64k",
+      "name": "Disquisitiones Arithmeticae published 1801",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Disquisitiones_Arithmeticae",
+      "parent": "#qu7xng"
+    },
+    {
+      "@id": "#gv5s3t",
+      "name": "Modular arithmetic: clock-style counting",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Modular_arithmetic",
+      "parent": "#qu7xng"
+    },
+    {
+      "@id": "#r66n8n",
+      "name": "Proved quadratic reciprocity",
+      "x": 234,
+      "y": -485,
+      "parent": "#qu7xng"
+    },
+    {
+      "@id": "#jx66us",
+      "name": "Algebra and statistics",
+      "x": 190,
+      "y": -104,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vshfd8",
+      "name": "Proved fundamental theorem of algebra, 1799",
+      "x": 281,
+      "y": -281,
+      "parent": "#jx66us"
+    },
+    {
+      "@id": "#kq6z3a",
+      "name": "Least squares fits curves to data",
+      "x": 372,
+      "y": -203,
+      "parent": "#jx66us"
+    },
+    {
+      "@id": "#jc7h9t",
+      "name": "Normal distribution: the Gaussian bell curve",
+      "x": 544,
+      "y": -136,
+      "link": "https://en.wikipedia.org/wiki/Normal_distribution",
+      "parent": "#jx66us"
+    },
+    {
+      "@id": "#t2zbma",
+      "name": "Astronomy and the Earth",
+      "x": 207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bvv2yk",
+      "name": "Predicted the orbit of Ceres, 1801",
+      "x": 450,
+      "y": 0,
+      "parent": "#t2zbma"
+    },
+    {
+      "@id": "#ehx884",
+      "name": "Göttingen Observatory director from 1807",
+      "x": 525,
+      "y": 131,
+      "parent": "#t2zbma"
+    },
+    {
+      "@id": "#inekeb",
+      "name": "Surveyed Hanover, inventing the heliotrope",
+      "x": 372,
+      "y": 203,
+      "parent": "#t2zbma"
+    },
+    {
+      "@id": "#v3cuiv",
+      "name": "Theorema Egregium: curvature is intrinsic",
+      "x": 281,
+      "y": 281,
+      "link": "https://en.wikipedia.org/wiki/Theorema_Egregium",
+      "parent": "#t2zbma"
+    },
+    {
+      "@id": "#7b5axf",
+      "name": "Physics",
+      "x": 17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v7vmxh",
+      "name": "Electric telegraph with Weber, 1833",
+      "x": 164,
+      "y": 335,
+      "parent": "#7b5axf"
+    },
+    {
+      "@id": "#mn5hvr",
+      "name": "Mapped Earth's magnetic field",
+      "x": 38,
+      "y": 391,
+      "parent": "#7b5axf"
+    },
+    {
+      "@id": "#syx8y8",
+      "name": "Gauss's law in electromagnetism",
+      "x": -124,
+      "y": 447,
+      "parent": "#7b5axf"
+    },
+    {
+      "@id": "#9fesxr",
+      "name": "Legacy",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nd5dah",
+      "name": "Called the \"Prince of Mathematicians\"",
+      "x": -225,
+      "y": 312,
+      "parent": "#9fesxr"
+    },
+    {
+      "@id": "#t2u8qt",
+      "name": "Published little: \"few, but ripe\"",
+      "x": -330,
+      "y": 245,
+      "parent": "#9fesxr"
+    },
+    {
+      "@id": "#gb7ibu",
+      "name": "Anticipated non-Euclidean geometry privately",
+      "x": -405,
+      "y": 156,
+      "parent": "#9fesxr"
+    },
+    {
+      "@id": "#3nbszm",
+      "name": "The gauss is a unit of magnetism",
+      "x": -445,
+      "y": 54,
+      "parent": "#9fesxr"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

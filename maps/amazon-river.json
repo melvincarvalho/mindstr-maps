@@ -1,0 +1,351 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Amazon River",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#zg6das",
+      "name": "Course",
+      "x": -197,
+      "y": -96,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#isw5pw",
+      "name": "Rises in the Peruvian Andes",
+      "x": -446,
+      "y": -49,
+      "parent": "#zg6das"
+    },
+    {
+      "@id": "#gy34qd",
+      "name": "Flows east across Peru and Brazil",
+      "x": -431,
+      "y": -149,
+      "parent": "#zg6das"
+    },
+    {
+      "@id": "#wwfxiq",
+      "name": "Called the Solimões above Manaus",
+      "x": -349,
+      "y": -227,
+      "parent": "#zg6das"
+    },
+    {
+      "@id": "#suwgyf",
+      "name": "Enters the Atlantic near Marajó Island",
+      "x": -260,
+      "y": -294,
+      "parent": "#zg6das"
+    },
+    {
+      "@id": "#bf9dp7",
+      "name": "Size and flow",
+      "x": 47,
+      "y": -180,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#68pgrv",
+      "name": "About 6,400 km long",
+      "x": -158,
+      "y": -354,
+      "parent": "#bf9dp7"
+    },
+    {
+      "@id": "#97hs9m",
+      "name": "Rivals the Nile as longest river",
+      "x": -34,
+      "y": -407,
+      "parent": "#bf9dp7"
+    },
+    {
+      "@id": "#2a9snu",
+      "name": "Largest discharge of any river",
+      "x": 120,
+      "y": -464,
+      "parent": "#bf9dp7"
+    },
+    {
+      "@id": "#zq3kge",
+      "name": "About a fifth of world river flow",
+      "x": 207,
+      "y": -320,
+      "parent": "#bf9dp7"
+    },
+    {
+      "@id": "#hufcca",
+      "name": "Drainage basin about 7 million km²",
+      "x": 307,
+      "y": -263,
+      "parent": "#bf9dp7"
+    },
+    {
+      "@id": "#w7yi7g",
+      "name": "Tributaries",
+      "x": 221,
+      "y": -50,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zj4pu4",
+      "name": "Rio Negro meets it at Manaus",
+      "x": 384,
+      "y": -187,
+      "link": "https://en.wikipedia.org/wiki/Meeting_of_Waters",
+      "parent": "#w7yi7g"
+    },
+    {
+      "@id": "#rygtg4",
+      "name": "Madeira is the largest tributary",
+      "x": 452,
+      "y": -101,
+      "parent": "#w7yi7g"
+    },
+    {
+      "@id": "#q3q3mj",
+      "name": "More than 1,000 tributaries in all",
+      "x": 450,
+      "y": 0,
+      "parent": "#w7yi7g"
+    },
+    {
+      "@id": "#mwwfjv",
+      "name": "Wildlife",
+      "x": 178,
+      "y": 116,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j77pub",
+      "name": "Amazon river dolphin, the pink boto",
+      "x": 452,
+      "y": 101,
+      "link": "https://en.wikipedia.org/wiki/Amazon_river_dolphin",
+      "parent": "#mwwfjv"
+    },
+    {
+      "@id": "#q5ddzh",
+      "name": "Piranhas and giant arapaima fish",
+      "x": 384,
+      "y": 187,
+      "parent": "#mwwfjv"
+    },
+    {
+      "@id": "#yz8kpg",
+      "name": "Over 3,000 known fish species",
+      "x": 307,
+      "y": 263,
+      "parent": "#mwwfjv"
+    },
+    {
+      "@id": "#igf64t",
+      "name": "Annual floods create flooded forest",
+      "x": 207,
+      "y": 320,
+      "parent": "#mwwfjv"
+    },
+    {
+      "@id": "#kws4sy",
+      "name": "People and history",
+      "x": -47,
+      "y": 180,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fys5m6",
+      "name": "Indigenous peoples lived here millennia",
+      "x": 96,
+      "y": 368,
+      "parent": "#kws4sy"
+    },
+    {
+      "@id": "#krtmy2",
+      "name": "Orellana sailed its length in 1542",
+      "x": -35,
+      "y": 423,
+      "link": "https://en.wikipedia.org/wiki/Francisco_de_Orellana",
+      "parent": "#kws4sy"
+    },
+    {
+      "@id": "#mdgs8f",
+      "name": "Named after Greek myth's Amazons",
+      "x": -214,
+      "y": 474,
+      "parent": "#kws4sy"
+    },
+    {
+      "@id": "#53w24e",
+      "name": "Manaus grew rich on rubber",
+      "x": -260,
+      "y": 294,
+      "parent": "#kws4sy"
+    },
+    {
+      "@id": "#9ypytp",
+      "name": "Today",
+      "x": -211,
+      "y": 73,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vy2w6e",
+      "name": "No bridges cross the main river",
+      "x": -349,
+      "y": 227,
+      "parent": "#9ypytp"
+    },
+    {
+      "@id": "#2ssr34",
+      "name": "Ocean ships reach Manaus and Iquitos",
+      "x": -413,
+      "y": 143,
+      "parent": "#9ypytp"
+    },
+    {
+      "@id": "#sxv6bz",
+      "name": "Deforestation and dams threaten the basin",
+      "x": -486,
+      "y": 53,
+      "parent": "#9ypytp"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 6,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    },
+    {
+      "start": 26,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

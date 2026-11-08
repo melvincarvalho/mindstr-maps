@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Zoology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#uznbrv",
+      "name": "What it studies",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ejghe9",
+      "name": "All animals, living and extinct",
+      "x": -485,
+      "y": -58,
+      "parent": "#uznbrv"
+    },
+    {
+      "@id": "#a3zut5",
+      "name": "Their bodies, behaviour and evolution",
+      "x": -405,
+      "y": -156,
+      "parent": "#uznbrv"
+    },
+    {
+      "@id": "#kxwpgk",
+      "name": "How they fit in ecosystems",
+      "x": -330,
+      "y": -245,
+      "parent": "#uznbrv"
+    },
+    {
+      "@id": "#atzgmz",
+      "name": "Main branches",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yx5ea8",
+      "name": "Anatomy and physiology: how bodies work",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Animal_physiology",
+      "parent": "#atzgmz"
+    },
+    {
+      "@id": "#yrd87m",
+      "name": "Ethology: animal behaviour",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Ethology",
+      "parent": "#atzgmz"
+    },
+    {
+      "@id": "#sfgu3t",
+      "name": "Taxonomy names and classifies species",
+      "x": 42,
+      "y": -423,
+      "parent": "#atzgmz"
+    },
+    {
+      "@id": "#8ii5cm",
+      "name": "Ecology and conservation biology",
+      "x": 234,
+      "y": -485,
+      "parent": "#atzgmz"
+    },
+    {
+      "@id": "#wkaxby",
+      "name": "By animal group",
+      "x": 220,
+      "y": -54,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#psb9s7",
+      "name": "Entomology studies insects",
+      "x": 281,
+      "y": -281,
+      "parent": "#wkaxby"
+    },
+    {
+      "@id": "#5i25mh",
+      "name": "Ornithology studies birds",
+      "x": 372,
+      "y": -203,
+      "parent": "#wkaxby"
+    },
+    {
+      "@id": "#dhf5u4",
+      "name": "Ichthyology studies fish",
+      "x": 430,
+      "y": -106,
+      "parent": "#wkaxby"
+    },
+    {
+      "@id": "#2vbh6q",
+      "name": "Herpetology studies reptiles and amphibians",
+      "x": 450,
+      "y": 0,
+      "parent": "#wkaxby"
+    },
+    {
+      "@id": "#qw3ncm",
+      "name": "Mammalogy studies mammals",
+      "x": 430,
+      "y": 106,
+      "parent": "#wkaxby"
+    },
+    {
+      "@id": "#33ekam",
+      "name": "Key figures",
+      "x": 143,
+      "y": 144,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#x7sx44",
+      "name": "Aristotle classified animals in ancient Greece",
+      "x": 372,
+      "y": 203,
+      "link": "https://en.wikipedia.org/wiki/History_of_zoology_through_1859",
+      "parent": "#33ekam"
+    },
+    {
+      "@id": "#wsqwau",
+      "name": "Linnaeus created two-part species names",
+      "x": 281,
+      "y": 281,
+      "parent": "#33ekam"
+    },
+    {
+      "@id": "#fc2j4z",
+      "name": "Darwin explained evolution by natural selection",
+      "x": 164,
+      "y": 335,
+      "link": "https://en.wikipedia.org/wiki/Charles_Darwin",
+      "parent": "#33ekam"
+    },
+    {
+      "@id": "#wjmxqx",
+      "name": "Methods",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4kq6ek",
+      "name": "Field observation and tracking",
+      "x": 38,
+      "y": 391,
+      "parent": "#wjmxqx"
+    },
+    {
+      "@id": "#5khs53",
+      "name": "DNA sequencing reveals relationships",
+      "x": -124,
+      "y": 447,
+      "parent": "#wjmxqx"
+    },
+    {
+      "@id": "#4gehjn",
+      "name": "Museum collections preserve specimens",
+      "x": -365,
+      "y": 508,
+      "parent": "#wjmxqx"
+    },
+    {
+      "@id": "#8ivk2e",
+      "name": "Where zoologists work",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8mx77v",
+      "name": "Universities and research institutes",
+      "x": -330,
+      "y": 245,
+      "parent": "#8ivk2e"
+    },
+    {
+      "@id": "#ea5pma",
+      "name": "Zoos, aquariums and wildlife parks",
+      "x": -405,
+      "y": 156,
+      "parent": "#8ivk2e"
+    },
+    {
+      "@id": "#jtz8pb",
+      "name": "Conservation and wildlife agencies",
+      "x": -505,
+      "y": 60,
+      "parent": "#8ivk2e"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 10,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

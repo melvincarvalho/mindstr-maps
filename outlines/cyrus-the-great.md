@@ -1,0 +1,29 @@
+category: People
+aliases: cyrus ii of persia, cyrus ii, king cyrus, kourosh
+- Cyrus the Great
+  - Who he was
+    - Persian king, about 600 to 530 BC
+    - Ruled from about 559 BC
+    - [Founded the Achaemenid Persian Empire](https://en.wikipedia.org/wiki/Achaemenid_Empire)
+  - Conquests
+    - Overthrew the Medes about 550 BC
+    - Defeated Croesus of Lydia
+    - [Took Babylon in 539 BC](https://en.wikipedia.org/wiki/Fall_of_Babylon)
+    - Built the largest empire yet seen
+  - How he ruled
+    - Respected local customs and gods
+    - Kept local rulers in many places
+    - Organised lands into provinces
+  - Return of the Jews
+    - Allowed exiles to return to Judah
+    - Permitted rebuilding the Jerusalem Temple
+    - Called God's anointed in Isaiah
+  - Death and tomb
+    - Died in battle in Central Asia
+    - Simple stone tomb at Pasargadae
+    - Son Cambyses II conquered Egypt
+  - Legacy
+    - [The Cyrus Cylinder in British Museum](https://en.wikipedia.org/wiki/Cyrus_Cylinder)
+    - Admired by Greeks in Xenophon's Cyropaedia
+    - National hero in Iran today
+    - Model of a tolerant ruler

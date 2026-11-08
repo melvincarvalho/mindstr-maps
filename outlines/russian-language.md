@@ -1,0 +1,32 @@
+category: Society
+aliases: russian, learn russian, русский язык
+- Russian language
+  - Where it's spoken
+    - About 255 million speakers
+    - Around 150 million native speakers
+    - Official in Russia, Belarus, Kazakhstan, Kyrgyzstan
+    - Widely known across former Soviet states
+    - One of six UN official languages
+  - History and family
+    - East Slavic branch of Indo-European
+    - Close to Ukrainian and Belarusian
+    - Grew from the language of Kievan Rus'
+    - Church Slavonic shaped its vocabulary
+    - [Pushkin shaped the modern literary language](https://en.wikipedia.org/wiki/Alexander_Pushkin)
+  - Sounds
+    - Hard and soft consonant pairs
+    - Unstressed o sounds like a
+    - Stress is free and unmarked
+  - Writing
+    - [33-letter Cyrillic alphabet](https://en.wikipedia.org/wiki/Russian_alphabet)
+    - Some letters look Latin but differ
+    - 1918 reform simplified spelling
+  - Grammar highlights
+    - [Six cases change word endings](https://en.wikipedia.org/wiki/Russian_grammar)
+    - Three genders
+    - [Verbs in aspect pairs](https://en.wikipedia.org/wiki/Grammatical_aspect)
+    - No articles; no present-tense "is"
+  - Tips for learners
+    - Learn Cyrillic in the first week
+    - Learn each noun with its gender
+    - Learn verbs as aspect pairs

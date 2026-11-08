@@ -1,0 +1,31 @@
+category: Health
+aliases: medical science, practice of medicine, modern medicine
+- Medicine
+  - What medicine does
+    - Prevents, diagnoses and treats illness
+    - Relieves pain and suffering
+    - Built on science and clinical evidence
+  - How doctors diagnose
+    - Taking a history of symptoms
+    - Physical examination
+    - Blood tests and other lab tests
+    - Scans: X-ray, ultrasound, CT, MRI
+  - Main kinds of treatment
+    - [Drugs, from painkillers to antibiotics](https://en.wikipedia.org/wiki/Medication)
+    - Surgery to repair or remove tissue
+    - Radiotherapy and chemotherapy for cancer
+    - Physiotherapy and lifestyle change
+  - Prevention and public health
+    - [Vaccines train the immune system](https://en.wikipedia.org/wiki/Vaccine)
+    - Clean water and sanitation
+    - Screening catches disease early
+  - Main specialties
+    - General practice and family medicine
+    - Internal medicine and surgery
+    - Paediatrics, obstetrics and psychiatry
+    - Emergency medicine
+  - How we know what works
+    - [Randomised controlled trials compare treatments](https://en.wikipedia.org/wiki/Randomized_controlled_trial)
+    - [Evidence-based medicine weighs all studies](https://en.wikipedia.org/wiki/Evidence-based_medicine)
+    - Regulators approve drugs before sale
+    - Informed consent and medical ethics

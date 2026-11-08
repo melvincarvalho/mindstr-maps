@@ -1,0 +1,30 @@
+category: Society
+aliases: pop culture, mass culture
+- Popular culture
+  - What it is
+    - Culture enjoyed by most people
+    - Contrasted with high or elite culture
+    - Shaped by mass media and markets
+  - Main forms
+    - Film, television and streaming
+    - [Popular music and the charts](https://en.wikipedia.org/wiki/Popular_music)
+    - Video games and online content
+    - Sport and celebrity
+    - Fashion, slang and trends
+  - How it developed
+    - Cheap print created mass readerships
+    - Radio and cinema spread in 1920s
+    - Television dominated postwar decades
+    - Internet and social media since 2000s
+  - How it spreads
+    - Mass media reach huge audiences
+    - [Memes and viral content online](https://en.wikipedia.org/wiki/Internet_meme)
+    - [K-pop and anime go global](https://en.wikipedia.org/wiki/Korean_Wave)
+  - Debates about it
+    - [Frankfurt School's culture industry critique](https://en.wikipedia.org/wiki/Culture_industry)
+    - Cultural studies value everyday tastes
+    - Concerns over commercialism and conformity
+  - Why it matters
+    - Shared references build social bonds
+    - Reflects values and anxieties of its time
+    - Fans create their own works

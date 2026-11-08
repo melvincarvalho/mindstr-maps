@@ -1,0 +1,363 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Hong Kong",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#6ijdsm",
+      "name": "Setting",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bepfvb",
+      "name": "On the Pearl River Delta, southern China",
+      "x": -466,
+      "y": -49,
+      "parent": "#6ijdsm"
+    },
+    {
+      "@id": "#2fi42h",
+      "name": "Hong Kong Island, Kowloon, New Territories",
+      "x": -434,
+      "y": -144,
+      "parent": "#6ijdsm"
+    },
+    {
+      "@id": "#xqs9x2",
+      "name": "About 7.5 million people",
+      "x": -357,
+      "y": -219,
+      "parent": "#6ijdsm"
+    },
+    {
+      "@id": "#6i7t8z",
+      "name": "Steep hills; much land is country park",
+      "x": -274,
+      "y": -286,
+      "parent": "#6ijdsm"
+    },
+    {
+      "@id": "#549w69",
+      "name": "History",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gdsvmq",
+      "name": "Ceded to Britain after First Opium War",
+      "x": -180,
+      "y": -348,
+      "link": "https://en.wikipedia.org/wiki/First_Opium_War",
+      "parent": "#549w69"
+    },
+    {
+      "@id": "#qnhgyg",
+      "name": "New Territories leased for 99 years, 1898",
+      "x": -68,
+      "y": -405,
+      "parent": "#549w69"
+    },
+    {
+      "@id": "#7qir3g",
+      "name": "Japanese occupation 1941–1945",
+      "x": 77,
+      "y": -453,
+      "parent": "#549w69"
+    },
+    {
+      "@id": "#jp39f7",
+      "name": "Returned to China on 1 July 1997",
+      "x": 268,
+      "y": -513,
+      "link": "https://en.wikipedia.org/wiki/Handover_of_Hong_Kong",
+      "parent": "#549w69"
+    },
+    {
+      "@id": "#r7ed4k",
+      "name": "Status and recent changes",
+      "x": 212,
+      "y": -70,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u22cjs",
+      "name": "Special administrative region of China",
+      "x": 274,
+      "y": -286,
+      "link": "https://en.wikipedia.org/wiki/One_country,_two_systems",
+      "parent": "#r7ed4k"
+    },
+    {
+      "@id": "#tns989",
+      "name": "Basic Law promises own system until 2047",
+      "x": 357,
+      "y": -219,
+      "parent": "#r7ed4k"
+    },
+    {
+      "@id": "#z67rf4",
+      "name": "Large protests in 2019",
+      "x": 416,
+      "y": -138,
+      "parent": "#r7ed4k"
+    },
+    {
+      "@id": "#vwbhf9",
+      "name": "National Security Law imposed in 2020",
+      "x": 546,
+      "y": -57,
+      "parent": "#r7ed4k"
+    },
+    {
+      "@id": "#izhbu4",
+      "name": "Electoral system overhauled in 2021",
+      "x": 446,
+      "y": 47,
+      "parent": "#r7ed4k"
+    },
+    {
+      "@id": "#66tdgc",
+      "name": "People",
+      "x": 182,
+      "y": 112,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nx56vd",
+      "name": "Mostly Cantonese-speaking Han Chinese",
+      "x": 434,
+      "y": 144,
+      "parent": "#66tdgc"
+    },
+    {
+      "@id": "#hcevfz",
+      "name": "Chinese and English are official",
+      "x": 357,
+      "y": 219,
+      "parent": "#66tdgc"
+    },
+    {
+      "@id": "#qatsbi",
+      "name": "Among the world's longest life expectancies",
+      "x": 274,
+      "y": 286,
+      "parent": "#66tdgc"
+    },
+    {
+      "@id": "#ynxutn",
+      "name": "Economy",
+      "x": 30,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7kithn",
+      "name": "Major global financial centre",
+      "x": 180,
+      "y": 348,
+      "parent": "#ynxutn"
+    },
+    {
+      "@id": "#ak3kyi",
+      "name": "Busy container port and trade hub",
+      "x": 68,
+      "y": 405,
+      "parent": "#ynxutn"
+    },
+    {
+      "@id": "#3q5fkw",
+      "name": "Low taxes; dollar pegged to US dollar",
+      "x": -77,
+      "y": 453,
+      "parent": "#ynxutn"
+    },
+    {
+      "@id": "#mkridy",
+      "name": "Landmarks and culture",
+      "x": -182,
+      "y": 112,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v992yn",
+      "name": "Victoria Harbour and its skyline",
+      "x": -172,
+      "y": 333,
+      "link": "https://en.wikipedia.org/wiki/Victoria_Harbour",
+      "parent": "#mkridy"
+    },
+    {
+      "@id": "#yha486",
+      "name": "Victoria Peak and the Peak Tram",
+      "x": -370,
+      "y": 390,
+      "parent": "#mkridy"
+    },
+    {
+      "@id": "#84g898",
+      "name": "Star Ferry across the harbour",
+      "x": -357,
+      "y": 219,
+      "parent": "#mkridy"
+    },
+    {
+      "@id": "#23cmt3",
+      "name": "Tian Tan Buddha on Lantau",
+      "x": -452,
+      "y": 150,
+      "parent": "#mkridy"
+    },
+    {
+      "@id": "#nfa7ki",
+      "name": "Dim sum, Cantopop and kung fu films",
+      "x": -446,
+      "y": 47,
+      "parent": "#mkridy"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 11,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    },
+    {
+      "start": 25,
+      "end": 29
+    },
+    {
+      "start": 25,
+      "end": 30
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,30 @@
+category: Technology
+aliases: wind energy, wind turbines, wind farms, offshore wind
+- Wind power
+  - How it works
+    - Wind turns long rotor blades
+    - Gearbox or direct drive spins a generator
+    - Power rises with wind speed cubed
+    - Turbines turn to face the wind
+  - Where turbines go
+    - Onshore farms on windy plains and hills
+    - [Offshore farms catch stronger, steadier winds](https://en.wikipedia.org/wiki/Offshore_wind_power)
+    - Floating turbines for deep water
+  - Share of world energy
+    - About 3% of primary energy
+    - About 8% of world electricity
+    - Denmark: over half its electricity from wind
+    - Largest capacity in China, then US
+  - Pros
+    - No emissions while generating
+    - Among the cheapest new power sources
+    - Land beneath can still be farmed
+  - Cons
+    - Output varies with the weather
+    - Needs storage, backup or wider grids
+    - Visual and noise objections nearby
+    - [Birds and bats can be killed](https://en.wikipedia.org/wiki/Environmental_impact_of_wind_power)
+  - History
+    - Windmills ground grain for centuries
+    - Modern turbines grew from 1980s Denmark
+    - [Today's turbines exceed 200 m tall](https://en.wikipedia.org/wiki/Wind_turbine)

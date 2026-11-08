@@ -1,0 +1,353 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Polynesia",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#i8n5ya",
+      "name": "Geography",
+      "x": -197,
+      "y": -96,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xd6sdu",
+      "name": "Polynesian Triangle in the Pacific",
+      "x": -466,
+      "y": -51,
+      "link": "https://en.wikipedia.org/wiki/Polynesian_Triangle",
+      "parent": "#i8n5ya"
+    },
+    {
+      "@id": "#7x54bf",
+      "name": "Corners: Hawaii, New Zealand, Easter Island",
+      "x": -431,
+      "y": -149,
+      "parent": "#i8n5ya"
+    },
+    {
+      "@id": "#skgehd",
+      "name": "Over 1,000 islands",
+      "x": -349,
+      "y": -227,
+      "parent": "#i8n5ya"
+    },
+    {
+      "@id": "#gg3qgz",
+      "name": "Volcanic high islands and coral atolls",
+      "x": -260,
+      "y": -294,
+      "parent": "#i8n5ya"
+    },
+    {
+      "@id": "#7wdrqu",
+      "name": "Countries and territories",
+      "x": 47,
+      "y": -180,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p9n4jv",
+      "name": "Samoa, Tonga and Tuvalu independent",
+      "x": -158,
+      "y": -354,
+      "parent": "#7wdrqu"
+    },
+    {
+      "@id": "#pvktxt",
+      "name": "New Zealand is the largest",
+      "x": -34,
+      "y": -407,
+      "parent": "#7wdrqu"
+    },
+    {
+      "@id": "#95tnrq",
+      "name": "French Polynesia, including Tahiti",
+      "x": 120,
+      "y": -464,
+      "parent": "#7wdrqu"
+    },
+    {
+      "@id": "#ddfwxz",
+      "name": "Hawaii is a US state",
+      "x": 207,
+      "y": -320,
+      "parent": "#7wdrqu"
+    },
+    {
+      "@id": "#q4ynme",
+      "name": "Cook Islands and Niue tied to NZ",
+      "x": 307,
+      "y": -263,
+      "parent": "#7wdrqu"
+    },
+    {
+      "@id": "#tuw2kg",
+      "name": "People and languages",
+      "x": 221,
+      "y": -50,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8rznvt",
+      "name": "About 2 million Polynesians",
+      "x": 384,
+      "y": -187,
+      "parent": "#tuw2kg"
+    },
+    {
+      "@id": "#jki37h",
+      "name": "Related Polynesian languages",
+      "x": 452,
+      "y": -101,
+      "parent": "#tuw2kg"
+    },
+    {
+      "@id": "#size95",
+      "name": "Māori, Samoan, Tongan, Hawaiian, Tahitian",
+      "x": 450,
+      "y": 0,
+      "parent": "#tuw2kg"
+    },
+    {
+      "@id": "#i6p8un",
+      "name": "Settlement and history",
+      "x": 157,
+      "y": 134,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e3hikp",
+      "name": "Ancestors came from Taiwan via Southeast Asia",
+      "x": 509,
+      "y": 113,
+      "parent": "#i6p8un"
+    },
+    {
+      "@id": "#nu3afr",
+      "name": "Lapita culture reached Tonga, Samoa",
+      "x": 384,
+      "y": 187,
+      "link": "https://en.wikipedia.org/wiki/Lapita_culture",
+      "parent": "#i6p8un"
+    },
+    {
+      "@id": "#k3c4sc",
+      "name": "Wayfinding by stars, swells and birds",
+      "x": 307,
+      "y": 263,
+      "link": "https://en.wikipedia.org/wiki/Polynesian_navigation",
+      "parent": "#i6p8un"
+    },
+    {
+      "@id": "#sfdnpk",
+      "name": "New Zealand settled about 1250–1300",
+      "x": 207,
+      "y": 320,
+      "parent": "#i6p8un"
+    },
+    {
+      "@id": "#8f2yht",
+      "name": "European contact from the 1500s–1700s",
+      "x": 96,
+      "y": 368,
+      "parent": "#i6p8un"
+    },
+    {
+      "@id": "#45kj97",
+      "name": "Culture",
+      "x": -106,
+      "y": 163,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#th8t85",
+      "name": "Chiefly societies and kinship",
+      "x": -35,
+      "y": 423,
+      "parent": "#45kj97"
+    },
+    {
+      "@id": "#3vd6u5",
+      "name": "Mana and tapu as sacred concepts",
+      "x": -214,
+      "y": 474,
+      "link": "https://en.wikipedia.org/wiki/Mana",
+      "parent": "#45kj97"
+    },
+    {
+      "@id": "#6ispqr",
+      "name": "Tattoo traditions, a Polynesian word",
+      "x": -260,
+      "y": 294,
+      "parent": "#45kj97"
+    },
+    {
+      "@id": "#9gy6wq",
+      "name": "Moai statues on Easter Island",
+      "x": -349,
+      "y": 227,
+      "link": "https://en.wikipedia.org/wiki/Moai",
+      "parent": "#45kj97"
+    },
+    {
+      "@id": "#cv38pt",
+      "name": "Modern life",
+      "x": -221,
+      "y": 50,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vrdyhj",
+      "name": "Tourism, fishing and remittances",
+      "x": -413,
+      "y": 143,
+      "parent": "#cv38pt"
+    },
+    {
+      "@id": "#a5n9rn",
+      "name": "Rising seas threaten atolls",
+      "x": -466,
+      "y": 51,
+      "parent": "#cv38pt"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 6,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 16,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    },
+    {
+      "start": 0,
+      "end": 27
+    },
+    {
+      "start": 27,
+      "end": 28
+    },
+    {
+      "start": 27,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

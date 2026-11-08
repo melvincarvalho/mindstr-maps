@@ -1,0 +1,27 @@
+category: Science
+aliases: mass in physics, what is mass, inertial mass
+- Mass
+  - What mass is
+    - Resistance to being accelerated
+    - Also the source of gravity
+    - Same everywhere, unlike weight
+  - [Mass versus weight](https://en.wikipedia.org/wiki/Mass_versus_weight)
+    - Weight is gravity's pull on mass
+    - 60 kg person weighs about 590 newtons
+    - Moon weight is about a sixth
+  - Measuring mass
+    - [SI unit: the kilogram](https://en.wikipedia.org/wiki/Kilogram)
+    - Defined by the Planck constant since 2019
+    - Balances compare against known masses
+    - In orbit, astronauts measure by oscillation
+  - Mass and energy
+    - [Einstein: energy equals mass times c²](https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence)
+    - Tiny mass releases huge nuclear energy
+    - Sun loses 4 million tonnes each second
+  - Where mass comes from
+    - [Higgs field gives particles their mass](https://en.wikipedia.org/wiki/Higgs_boson)
+    - Higgs boson found at CERN, 2012
+    - Most of a proton's mass is energy
+  - Conservation of mass
+    - [Lavoisier: mass conserved in reactions](https://en.wikipedia.org/wiki/Conservation_of_mass)
+    - Holds in chemistry, not nuclear reactions

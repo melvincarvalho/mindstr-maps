@@ -1,0 +1,317 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Firearm",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#8u9wku",
+      "name": "Gun that fires projectiles using propellant",
+      "x": -220,
+      "y": -54,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v6dk7f",
+      "name": "Handguns, rifles and shotguns",
+      "x": -605,
+      "y": -70,
+      "parent": "#8u9wku"
+    },
+    {
+      "@id": "#qjg226",
+      "name": "Used by militaries, police, hunters, shooters",
+      "x": -405,
+      "y": -156,
+      "parent": "#8u9wku"
+    },
+    {
+      "@id": "#4vzuj8",
+      "name": "History",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cpq67s",
+      "name": "Fire lances in China, 10th century",
+      "x": -330,
+      "y": -245,
+      "link": "https://en.wikipedia.org/wiki/Fire_lance",
+      "parent": "#4vzuj8"
+    },
+    {
+      "@id": "#24htx2",
+      "name": "Hand cannons by the 1300s",
+      "x": -225,
+      "y": -312,
+      "parent": "#4vzuj8"
+    },
+    {
+      "@id": "#4pr6kb",
+      "name": "Matchlock, then flintlock muskets",
+      "x": -104,
+      "y": -367,
+      "parent": "#4vzuj8"
+    },
+    {
+      "@id": "#56fdbh",
+      "name": "Rifled barrels improved accuracy",
+      "x": 42,
+      "y": -423,
+      "parent": "#4vzuj8"
+    },
+    {
+      "@id": "#zgrnuu",
+      "name": "Revolvers and repeating rifles, 1800s",
+      "x": 234,
+      "y": -485,
+      "parent": "#4vzuj8"
+    },
+    {
+      "@id": "#qqgsxf",
+      "name": "Automatic weapons in the 20th century",
+      "x": 281,
+      "y": -281,
+      "parent": "#4vzuj8"
+    },
+    {
+      "@id": "#a8cis7",
+      "name": "Laws vary by country",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e924e4",
+      "name": "US Second Amendment: right to bear arms",
+      "x": 372,
+      "y": -203,
+      "link": "https://en.wikipedia.org/wiki/Second_Amendment_to_the_United_States_Constitution",
+      "parent": "#a8cis7"
+    },
+    {
+      "@id": "#kykgig",
+      "name": "UK banned most handguns in 1997",
+      "x": 430,
+      "y": -106,
+      "parent": "#a8cis7"
+    },
+    {
+      "@id": "#recy8f",
+      "name": "Australia's 1996 buyback after Port Arthur",
+      "x": 570,
+      "y": 0,
+      "parent": "#a8cis7"
+    },
+    {
+      "@id": "#xqsxgi",
+      "name": "Japan has very strict licensing",
+      "x": 430,
+      "y": 106,
+      "parent": "#a8cis7"
+    },
+    {
+      "@id": "#cz3uhf",
+      "name": "Licences, background checks, storage rules common",
+      "x": 372,
+      "y": 203,
+      "parent": "#a8cis7"
+    },
+    {
+      "@id": "#b6t82u",
+      "name": "Safety and statistics",
+      "x": 71,
+      "y": 259,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#irieuj",
+      "name": "US has most civilian guns per person",
+      "x": 317,
+      "y": 317,
+      "parent": "#b6t82u"
+    },
+    {
+      "@id": "#c7ve7h",
+      "name": "Suicides are most US gun deaths",
+      "x": 178,
+      "y": 365,
+      "parent": "#b6t82u"
+    },
+    {
+      "@id": "#6877r2",
+      "name": "Locked storage reduces accidents and suicides",
+      "x": 42,
+      "y": 423,
+      "parent": "#b6t82u"
+    },
+    {
+      "@id": "#gkdr3n",
+      "name": "Treat every gun as loaded",
+      "x": -132,
+      "y": 479,
+      "parent": "#b6t82u"
+    },
+    {
+      "@id": "#apwbrk",
+      "name": "Sport and culture",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6pykbm",
+      "name": "Olympic shooting events since 1896",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wikipedia.org/wiki/Shooting_at_the_Summer_Olympics",
+      "parent": "#apwbrk"
+    },
+    {
+      "@id": "#793r9w",
+      "name": "Hunting traditions and wildlife management",
+      "x": -330,
+      "y": 245,
+      "parent": "#apwbrk"
+    },
+    {
+      "@id": "#emu6nq",
+      "name": "Westerns and action films",
+      "x": -405,
+      "y": 156,
+      "parent": "#apwbrk"
+    },
+    {
+      "@id": "#btivjg",
+      "name": "Collectors and antique arms",
+      "x": -445,
+      "y": 54,
+      "parent": "#apwbrk"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 4,
+      "end": 8
+    },
+    {
+      "start": 4,
+      "end": 9
+    },
+    {
+      "start": 4,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 11,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

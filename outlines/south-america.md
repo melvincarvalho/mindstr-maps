@@ -1,0 +1,33 @@
+category: Geography
+aliases: south american continent, geography of south america, latin america south
+- South America
+  - Land and physical geography
+    - Fourth-largest continent, about 17.8 million km²
+    - [Andes, the longest mountain range](https://en.wikipedia.org/wiki/Andes)
+    - [Amazon River carries the most water](https://en.wikipedia.org/wiki/Amazon_River)
+    - Atacama, one of the driest deserts
+    - Patagonia and Tierra del Fuego south
+  - Countries
+    - 12 sovereign states
+    - Brazil covers nearly half the continent
+    - French Guiana is part of France
+    - Falklands sovereignty disputed by UK, Argentina
+  - Nature
+    - [Amazon rainforest, the largest tropical forest](https://en.wikipedia.org/wiki/Amazon_rainforest)
+    - Galápagos Islands inspired Darwin
+    - Angel Falls, the highest waterfall
+  - People and languages
+    - About 440 million people
+    - Spanish and Portuguese dominate
+    - Quechua, Guaraní and Aymara survive
+    - Indigenous, European, African and mixed heritage
+  - History in brief
+    - [Inca Empire ruled the Andes](https://en.wikipedia.org/wiki/Inca_Empire)
+    - Spanish and Portuguese conquest from 1500s
+    - Independence wars led by Bolívar, San Martín
+    - Military dictatorships in the 20th century
+  - Economy and culture
+    - Soy, beef, coffee, copper and oil
+    - Mercosur trade bloc
+    - Football is a near-religion
+    - Samba, tango and Carnival

@@ -1,0 +1,31 @@
+category: People
+aliases: shankaracharya, adi shankaracharya, sankaracharya
+- Adi Shankara
+  - Life
+    - Born in Kaladi, Kerala
+    - Usually dated to the 8th century CE
+    - Became a renunciant monk as a boy
+    - Tradition says he died aged 32
+  - [Teacher of Advaita Vedanta](https://en.wikipedia.org/wiki/Advaita_Vedanta)
+    - Brahman alone is ultimately real
+    - Atman, the true self, is Brahman
+    - The world as maya, or appearance
+    - Liberation (moksha) through knowledge
+  - Writings
+    - [Commentary on the Brahma Sutras](https://en.wikipedia.org/wiki/Brahma_Sutras)
+    - Commentaries on the principal Upanishads
+    - [Commentary on the Bhagavad Gita](https://en.wikipedia.org/wiki/Bhagavad_Gita)
+    - Many hymns attributed, authorship debated
+  - Travels and debates
+    - Travelled across India debating rival schools
+    - Debated Mimamsa scholar Mandana Mishra
+    - Argued against Buddhist philosophical positions
+  - Monastic institutions
+    - Tradition credits him with four mathas
+    - [Sringeri, Dwarka, Puri and Jyotirmath](https://en.wikipedia.org/wiki/Sringeri_Sharada_Peetham)
+    - Linked to the Dashanami monastic order
+  - Legacy
+    - Hagiographies written centuries after him
+    - Heads of mathas hold the Shankaracharya title
+    - Revered in the Smarta tradition
+    - Shaped modern Hindu thought and Vivekananda

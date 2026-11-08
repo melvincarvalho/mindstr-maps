@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Scientific Revolution",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#d3gjrx",
+      "name": "What it was",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vcga3i",
+      "name": "Roughly 1543 to the late 1600s",
+      "x": -444,
+      "y": -56,
+      "parent": "#d3gjrx"
+    },
+    {
+      "@id": "#wvzcpk",
+      "name": "Observation and experiment over ancient authority",
+      "x": -401,
+      "y": -163,
+      "parent": "#d3gjrx"
+    },
+    {
+      "@id": "#nyttz2",
+      "name": "Nature described with mathematical laws",
+      "x": -318,
+      "y": -255,
+      "parent": "#d3gjrx"
+    },
+    {
+      "@id": "#bzdprs",
+      "name": "Astronomy",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wtcnvz",
+      "name": "Copernicus put Sun at centre, 1543",
+      "x": -204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Nicolaus_Copernicus",
+      "parent": "#bzdprs"
+    },
+    {
+      "@id": "#tkfm4t",
+      "name": "Tycho Brahe made precise naked-eye observations",
+      "x": -73,
+      "y": -372,
+      "parent": "#bzdprs"
+    },
+    {
+      "@id": "#k36tej",
+      "name": "Kepler found elliptical planetary orbits",
+      "x": 82,
+      "y": -420,
+      "parent": "#bzdprs"
+    },
+    {
+      "@id": "#ugp69n",
+      "name": "Galileo's telescope found Jupiter's moons",
+      "x": 204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Galileo_Galilei",
+      "parent": "#bzdprs"
+    },
+    {
+      "@id": "#p8e2w3",
+      "name": "Physics and mathematics",
+      "x": 205,
+      "y": -84,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hq77yx",
+      "name": "Newton's Principia, 1687: gravity and motion",
+      "x": 318,
+      "y": -255,
+      "link": "https://en.wikipedia.org/wiki/Philosophi%C3%A6_Naturalis_Principia_Mathematica",
+      "parent": "#p8e2w3"
+    },
+    {
+      "@id": "#er8wra",
+      "name": "Calculus by Newton and Leibniz",
+      "x": 401,
+      "y": -163,
+      "parent": "#p8e2w3"
+    },
+    {
+      "@id": "#gdp2dp",
+      "name": "Descartes linked algebra and geometry",
+      "x": 524,
+      "y": -64,
+      "parent": "#p8e2w3"
+    },
+    {
+      "@id": "#hfqitv",
+      "name": "Life and the body",
+      "x": 205,
+      "y": 84,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#izk5u7",
+      "name": "Vesalius corrected anatomy by dissection, 1543",
+      "x": 544,
+      "y": 66,
+      "parent": "#hfqitv"
+    },
+    {
+      "@id": "#rc2tj6",
+      "name": "Harvey showed blood circulates, 1628",
+      "x": 401,
+      "y": 163,
+      "parent": "#hfqitv"
+    },
+    {
+      "@id": "#34e2in",
+      "name": "Microscopes revealed cells and microbes",
+      "x": 318,
+      "y": 255,
+      "parent": "#hfqitv"
+    },
+    {
+      "@id": "#ywqbvw",
+      "name": "New methods",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6yc2ce",
+      "name": "Bacon promoted induction from experiment",
+      "x": 204,
+      "y": 321,
+      "parent": "#ywqbvw"
+    },
+    {
+      "@id": "#85ygmh",
+      "name": "Boyle's air pump experiments on gases",
+      "x": 73,
+      "y": 372,
+      "parent": "#ywqbvw"
+    },
+    {
+      "@id": "#tx57j8",
+      "name": "Royal Society founded in London, 1660",
+      "x": -82,
+      "y": 420,
+      "link": "https://en.wikipedia.org/wiki/Royal_Society",
+      "parent": "#ywqbvw"
+    },
+    {
+      "@id": "#ytzmbm",
+      "name": "Journals let scientists share results",
+      "x": -204,
+      "y": 321,
+      "parent": "#ywqbvw"
+    },
+    {
+      "@id": "#mhvzu8",
+      "name": "Conflict and legacy",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#scv2gw",
+      "name": "Galileo tried by the Inquisition, 1633",
+      "x": -318,
+      "y": 255,
+      "parent": "#mhvzu8"
+    },
+    {
+      "@id": "#6sutky",
+      "name": "Laid foundations of modern science",
+      "x": -401,
+      "y": 163,
+      "parent": "#mhvzu8"
+    },
+    {
+      "@id": "#bzup9u",
+      "name": "Inspired the Enlightenment",
+      "x": -464,
+      "y": 58,
+      "parent": "#mhvzu8"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

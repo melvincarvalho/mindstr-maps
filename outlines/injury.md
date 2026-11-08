@@ -1,0 +1,32 @@
+category: Health
+aliases: physical injury, types of injuries, bodily injury
+- Injury
+  - What counts as an injury
+    - Damage to the body from outside force
+    - Unintentional injuries are the most common
+    - Intentional: assault and self-harm
+    - A leading cause of death under 45
+  - Common types
+    - Cuts, grazes and bruises
+    - [Sprains stretch or tear ligaments](https://en.wikipedia.org/wiki/Sprain)
+    - Broken bones, or fractures
+    - Burns from heat, chemicals or electricity
+    - [Head injuries and concussion](https://en.wikipedia.org/wiki/Concussion)
+  - Main causes
+    - Falls, especially in older people
+    - Road traffic collisions
+    - Sport and workplace accidents
+    - Drowning and poisoning
+  - Immediate first aid
+    - Check the scene is safe first
+    - Press firmly on heavy bleeding
+    - Cool burns under running water
+    - Call emergency services for serious injuries
+  - Recovery and treatment
+    - Rest, ice, compression, elevation for sprains
+    - Casts or surgery to set fractures
+    - [Physiotherapy restores strength and movement](https://en.wikipedia.org/wiki/Physical_therapy)
+  - Prevention
+    - Seat belts, helmets and child seats
+    - Grab rails and good lighting against falls
+    - Warm up and use proper technique

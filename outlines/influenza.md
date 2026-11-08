@@ -1,0 +1,30 @@
+category: Health
+aliases: flu, the flu, seasonal flu, flu symptoms, flu virus
+- Influenza
+  - The virus
+    - Types A and B cause seasonal epidemics
+    - Mutates, so new strains each year
+    - Named by surface proteins, e.g. H1N1
+  - How it spreads
+    - Droplets from coughs, sneezes and talking
+    - Peaks in winter in temperate regions
+    - Contagious from a day before symptoms
+  - Symptoms
+    - Sudden fever and chills
+    - Muscle aches and exhaustion
+    - Dry cough and sore throat
+    - Most recover within one to two weeks
+  - Complications and risk
+    - Pneumonia is the main danger
+    - Higher risk: over-65s, infants, pregnancy
+    - Long-term heart or lung conditions
+    - About 290,000–650,000 deaths a year worldwide
+  - Treatment and prevention
+    - Rest, fluids and fever relief
+    - [Antivirals like oseltamivir help early](https://en.wikipedia.org/wiki/Oseltamivir)
+    - [Yearly vaccine matched to circulating strains](https://en.wikipedia.org/wiki/Influenza_vaccine)
+    - Handwashing and staying home when ill
+  - [Pandemics](https://en.wikipedia.org/wiki/Influenza_pandemic)
+    - [1918 flu killed tens of millions](https://en.wikipedia.org/wiki/Spanish_flu)
+    - 2009 H1N1 "swine flu" pandemic
+    - Bird flu strains watched closely

@@ -1,0 +1,34 @@
+category: Geography
+aliases: arab republic of egypt, modern egypt
+- Egypt
+  - Geography
+    - [The Nile runs the country's length](https://en.wikipedia.org/wiki/Nile)
+    - Most people live along the Nile
+    - Desert covers over 90% of land
+    - Sinai Peninsula links Africa and Asia
+  - People and languages
+    - About 110 million people
+    - Capital Cairo, a city of 20+ million
+    - Arabic official; Egyptian Arabic everyday
+    - Mostly Sunni Muslim, Coptic Christian minority
+  - History in brief
+    - [Pharaohs ruled for about 3,000 years](https://en.wikipedia.org/wiki/Ancient_Egypt)
+    - Greek, Roman, then Arab rule
+    - Ottoman province from 1517
+    - Independence from Britain in 1922
+    - 1952 revolution ended the monarchy
+    - 2011 uprising ended Mubarak's rule
+  - Government
+    - Presidential republic
+    - 27 governorates
+    - Building a New Administrative Capital
+  - Economy
+    - [Suez Canal earns shipping fees](https://en.wikipedia.org/wiki/Suez_Canal)
+    - Tourism a major source of income
+    - Natural gas, including offshore Zohr field
+    - Remittances from Egyptians working abroad
+  - Culture and known for
+    - [Pyramids of Giza and the Sphinx](https://en.wikipedia.org/wiki/Giza_pyramid_complex)
+    - Temples of Luxor and Abu Simbel
+    - Cairo, a hub of Arab film
+    - Koshari and ful medames dishes

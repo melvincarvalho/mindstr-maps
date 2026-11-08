@@ -1,0 +1,29 @@
+category: Technology
+aliases: exploring space, history of space exploration, space race
+- Space exploration
+  - Why we explore
+    - Science about origins of the Solar System
+    - Searching for signs of life
+    - Technology and national prestige
+  - The Space Race
+    - Sputnik 1 launched, 1957
+    - [Yuri Gagarin first human in space, 1961](https://en.wikipedia.org/wiki/Yuri_Gagarin)
+    - Apollo 11 lands on the Moon, 1969
+  - Robotic explorers
+    - Voyager probes left the heliosphere
+    - [Mars rovers like Curiosity and Perseverance](https://en.wikipedia.org/wiki/Perseverance_%28rover%29)
+    - Cassini studied Saturn and its moons
+    - New Horizons flew past Pluto, 2015
+  - Living in space
+    - [International Space Station crewed since 2000](https://en.wikipedia.org/wiki/International_Space_Station)
+    - China's Tiangong space station
+    - Weightlessness weakens bones and muscles
+  - Looking deep into space
+    - Hubble launched 1990
+    - [James Webb telescope sees early galaxies](https://en.wikipedia.org/wiki/James_Webb_Space_Telescope)
+    - Thousands of exoplanets discovered
+  - What comes next
+    - Artemis programme returning people to Moon
+    - Plans for crewed missions to Mars
+    - Private companies like SpaceX and Blue Origin
+    - India, China and Japan land on Moon

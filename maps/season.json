@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Season",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#8se94v",
+      "name": "Why seasons happen",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r7a7ak",
+      "name": "Earth's axis tilts about 23.4°",
+      "x": -445,
+      "y": -51,
+      "link": "https://en.wikipedia.org/wiki/Axial_tilt",
+      "parent": "#8se94v"
+    },
+    {
+      "@id": "#33ru8m",
+      "name": "Tilted hemisphere gets more direct sunlight",
+      "x": -409,
+      "y": -150,
+      "parent": "#8se94v"
+    },
+    {
+      "@id": "#8ayz5b",
+      "name": "Longer days mean more heating",
+      "x": -340,
+      "y": -236,
+      "parent": "#8se94v"
+    },
+    {
+      "@id": "#e52tmb",
+      "name": "Not caused by distance from Sun",
+      "x": -243,
+      "y": -303,
+      "parent": "#8se94v"
+    },
+    {
+      "@id": "#peikse",
+      "name": "Key dates",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nqbipa",
+      "name": "Solstices: longest and shortest days",
+      "x": -133,
+      "y": -360,
+      "link": "https://en.wikipedia.org/wiki/Solstice",
+      "parent": "#peikse"
+    },
+    {
+      "@id": "#fvimpq",
+      "name": "Equinoxes: day and night roughly equal",
+      "x": 0,
+      "y": -408,
+      "link": "https://en.wikipedia.org/wiki/Equinox",
+      "parent": "#peikse"
+    },
+    {
+      "@id": "#ta69yy",
+      "name": "Hemispheres have opposite seasons",
+      "x": 175,
+      "y": -465,
+      "parent": "#peikse"
+    },
+    {
+      "@id": "#q8v6uc",
+      "name": "The four temperate seasons",
+      "x": 193,
+      "y": -99,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#en4gk3",
+      "name": "Spring: warming, plants start growing",
+      "x": 243,
+      "y": -303,
+      "parent": "#q8v6uc"
+    },
+    {
+      "@id": "#dqfsfp",
+      "name": "Summer: warmest, longest days",
+      "x": 340,
+      "y": -236,
+      "parent": "#q8v6uc"
+    },
+    {
+      "@id": "#sb838a",
+      "name": "Autumn: cooling, leaves fall",
+      "x": 409,
+      "y": -150,
+      "parent": "#q8v6uc"
+    },
+    {
+      "@id": "#q8f774",
+      "name": "Winter: coldest, shortest days",
+      "x": 445,
+      "y": -51,
+      "parent": "#q8v6uc"
+    },
+    {
+      "@id": "#bj7rdn",
+      "name": "Seasons around the world",
+      "x": 193,
+      "y": 99,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ekgyzh",
+      "name": "Tropics: wet and dry seasons",
+      "x": 445,
+      "y": 51,
+      "parent": "#bj7rdn"
+    },
+    {
+      "@id": "#k3w6ip",
+      "name": "Monsoon brings heavy summer rain",
+      "x": 409,
+      "y": 150,
+      "link": "https://en.wikipedia.org/wiki/Monsoon",
+      "parent": "#bj7rdn"
+    },
+    {
+      "@id": "#gd8kea",
+      "name": "Poles: months of daylight or dark",
+      "x": 340,
+      "y": 236,
+      "parent": "#bj7rdn"
+    },
+    {
+      "@id": "#aisp3u",
+      "name": "Seasons lag the Sun by weeks",
+      "x": 243,
+      "y": 303,
+      "parent": "#bj7rdn"
+    },
+    {
+      "@id": "#7tzi45",
+      "name": "How life responds",
+      "x": -33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sdiivk",
+      "name": "Birds and animals migrate",
+      "x": 133,
+      "y": 360,
+      "parent": "#7tzi45"
+    },
+    {
+      "@id": "#2vvmy3",
+      "name": "Some animals hibernate through winter",
+      "x": 0,
+      "y": 408,
+      "parent": "#7tzi45"
+    },
+    {
+      "@id": "#e32zpe",
+      "name": "Trees drop leaves to save water",
+      "x": -175,
+      "y": 465,
+      "parent": "#7tzi45"
+    },
+    {
+      "@id": "#n3vakj",
+      "name": "Crops planted and harvested by season",
+      "x": -243,
+      "y": 303,
+      "parent": "#7tzi45"
+    },
+    {
+      "@id": "#cwe62u",
+      "name": "Seasons and people",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3hj7sw",
+      "name": "Meteorological seasons start on month 1st",
+      "x": -340,
+      "y": 236,
+      "parent": "#cwe62u"
+    },
+    {
+      "@id": "#5pakmf",
+      "name": "Festivals mark harvests and solstices",
+      "x": -409,
+      "y": 150,
+      "parent": "#cwe62u"
+    },
+    {
+      "@id": "#pb8div",
+      "name": "Winter can lower mood for some",
+      "x": -485,
+      "y": 55,
+      "parent": "#cwe62u"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

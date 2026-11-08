@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Knowledge",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#s7yqqq",
+      "name": "Kinds of knowledge",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ef2bsd",
+      "name": "Knowing that: Paris is in France",
+      "x": -444,
+      "y": -56,
+      "parent": "#s7yqqq"
+    },
+    {
+      "@id": "#f6iuqq",
+      "name": "Knowing how: riding a bike",
+      "x": -401,
+      "y": -163,
+      "parent": "#s7yqqq"
+    },
+    {
+      "@id": "#zqajnq",
+      "name": "Acquaintance: knowing a person or place",
+      "x": -318,
+      "y": -255,
+      "parent": "#s7yqqq"
+    },
+    {
+      "@id": "#ibkf7k",
+      "name": "Tacit knowledge: hard to put in words",
+      "x": -204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Tacit_knowledge",
+      "parent": "#s7yqqq"
+    },
+    {
+      "@id": "#8et8b3",
+      "name": "What knowledge requires",
+      "x": 71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4kg7nt",
+      "name": "Truth: you cannot know falsehoods",
+      "x": -73,
+      "y": -372,
+      "parent": "#8et8b3"
+    },
+    {
+      "@id": "#h4hep8",
+      "name": "Belief: you must accept it",
+      "x": 82,
+      "y": -420,
+      "parent": "#8et8b3"
+    },
+    {
+      "@id": "#mb5y4t",
+      "name": "Justification: good reasons or evidence",
+      "x": 204,
+      "y": -321,
+      "parent": "#8et8b3"
+    },
+    {
+      "@id": "#6e252k",
+      "name": "Gettier: lucky true beliefs fall short",
+      "x": 318,
+      "y": -255,
+      "parent": "#8et8b3"
+    },
+    {
+      "@id": "#8b69bs",
+      "name": "How we gain it",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4q4m57",
+      "name": "Senses and observation",
+      "x": 401,
+      "y": -163,
+      "parent": "#8b69bs"
+    },
+    {
+      "@id": "#v9ypeb",
+      "name": "Reasoning and proof",
+      "x": 444,
+      "y": -56,
+      "parent": "#8b69bs"
+    },
+    {
+      "@id": "#8d7pur",
+      "name": "Testimony from teachers, books and experts",
+      "x": 444,
+      "y": 56,
+      "parent": "#8b69bs"
+    },
+    {
+      "@id": "#whagnj",
+      "name": "Scientific method tests ideas",
+      "x": 401,
+      "y": 163,
+      "link": "https://en.wikipedia.org/wiki/Scientific_method",
+      "parent": "#8b69bs"
+    },
+    {
+      "@id": "#5yd8e6",
+      "name": "A priori and a posteriori",
+      "x": 195,
+      "y": 214,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sidq3p",
+      "name": "A priori: known without experience",
+      "x": 332,
+      "y": 266,
+      "parent": "#5yd8e6"
+    },
+    {
+      "@id": "#q9a5hh",
+      "name": "A posteriori: needs experience to check",
+      "x": 204,
+      "y": 321,
+      "parent": "#5yd8e6"
+    },
+    {
+      "@id": "#k2vb7g",
+      "name": "Limits of knowledge",
+      "x": -51,
+      "y": 262,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y7ji8d",
+      "name": "Socrates: wise to know you don't know",
+      "x": 73,
+      "y": 372,
+      "link": "https://en.wikipedia.org/wiki/I_know_that_I_know_nothing",
+      "parent": "#k2vb7g"
+    },
+    {
+      "@id": "#3g5d7f",
+      "name": "Skeptics doubt certainty is possible",
+      "x": -82,
+      "y": 420,
+      "parent": "#k2vb7g"
+    },
+    {
+      "@id": "#dahdp3",
+      "name": "Fallibilism: knowledge without certainty",
+      "x": -204,
+      "y": 321,
+      "parent": "#k2vb7g"
+    },
+    {
+      "@id": "#w6ijh6",
+      "name": "Knowledge in society",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pbkmat",
+      "name": "Libraries, encyclopedias and Wikipedia",
+      "x": -472,
+      "y": 376,
+      "parent": "#w6ijh6"
+    },
+    {
+      "@id": "#kexqij",
+      "name": "Relying on experts we cannot check",
+      "x": -401,
+      "y": 163,
+      "parent": "#w6ijh6"
+    },
+    {
+      "@id": "#8243vr",
+      "name": "Bacon: \"knowledge is power\"",
+      "x": -484,
+      "y": 60,
+      "link": "https://en.wikipedia.org/wiki/Scientia_potentia_est",
+      "parent": "#w6ijh6"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

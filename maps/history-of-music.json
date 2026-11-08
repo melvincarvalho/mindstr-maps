@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "History of music",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#4rqxz8",
+      "name": "Origins",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ap2f74",
+      "name": "Bone flutes over 40,000 years old",
+      "x": -465,
+      "y": -53,
+      "link": "https://en.wikipedia.org/wiki/Prehistoric_music",
+      "parent": "#4rqxz8"
+    },
+    {
+      "@id": "#9nuiti",
+      "name": "Song in ritual, work and storytelling",
+      "x": -409,
+      "y": -150,
+      "parent": "#4rqxz8"
+    },
+    {
+      "@id": "#fktj6y",
+      "name": "Ancient Greeks linked music to mathematics",
+      "x": -340,
+      "y": -236,
+      "parent": "#4rqxz8"
+    },
+    {
+      "@id": "#t9fbhn",
+      "name": "Medieval and Renaissance",
+      "x": -65,
+      "y": -177,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zkqxxi",
+      "name": "Gregorian chant sung in monasteries",
+      "x": -243,
+      "y": -303,
+      "parent": "#t9fbhn"
+    },
+    {
+      "@id": "#anpnkt",
+      "name": "Staff notation invented around 1000",
+      "x": -133,
+      "y": -360,
+      "parent": "#t9fbhn"
+    },
+    {
+      "@id": "#nd8i2t",
+      "name": "Polyphony wove several melodies together",
+      "x": 0,
+      "y": -408,
+      "parent": "#t9fbhn"
+    },
+    {
+      "@id": "#murmwx",
+      "name": "Baroque and Classical",
+      "x": 203,
+      "y": -187,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fb6stj",
+      "name": "Bach and Handel, about 1600–1750",
+      "x": 175,
+      "y": -465,
+      "link": "https://en.wikipedia.org/wiki/Baroque_music",
+      "parent": "#murmwx"
+    },
+    {
+      "@id": "#5ejdyf",
+      "name": "Opera born in Italy around 1600",
+      "x": 243,
+      "y": -303,
+      "parent": "#murmwx"
+    },
+    {
+      "@id": "#mafjqm",
+      "name": "Haydn and Mozart shaped the symphony",
+      "x": 340,
+      "y": -236,
+      "parent": "#murmwx"
+    },
+    {
+      "@id": "#m2zpfe",
+      "name": "Beethoven bridged Classical and Romantic",
+      "x": 733,
+      "y": -276,
+      "parent": "#murmwx"
+    },
+    {
+      "@id": "#hhvjmm",
+      "name": "Romantic and modern classical",
+      "x": 221,
+      "y": 52,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tfvdfm",
+      "name": "Romantics expressed emotion and nationalism",
+      "x": 445,
+      "y": -51,
+      "parent": "#hhvjmm"
+    },
+    {
+      "@id": "#ntf4t7",
+      "name": "Wagner's huge music dramas",
+      "x": 525,
+      "y": 59,
+      "parent": "#hhvjmm"
+    },
+    {
+      "@id": "#4hs2t9",
+      "name": "Debussy and Stravinsky broke old rules",
+      "x": 409,
+      "y": 150,
+      "parent": "#hhvjmm"
+    },
+    {
+      "@id": "#rtnevd",
+      "name": "Schoenberg abandoned traditional keys",
+      "x": 340,
+      "y": 236,
+      "parent": "#hhvjmm"
+    },
+    {
+      "@id": "#24pjpd",
+      "name": "Traditions around the world",
+      "x": 65,
+      "y": 177,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#iswnpt",
+      "name": "Indian classical ragas and talas",
+      "x": 243,
+      "y": 303,
+      "link": "https://en.wikipedia.org/wiki/Raga",
+      "parent": "#24pjpd"
+    },
+    {
+      "@id": "#an2sxg",
+      "name": "West African drumming and polyrhythm",
+      "x": 133,
+      "y": 360,
+      "parent": "#24pjpd"
+    },
+    {
+      "@id": "#a4mikd",
+      "name": "Indonesian gamelan orchestras",
+      "x": 0,
+      "y": 408,
+      "parent": "#24pjpd"
+    },
+    {
+      "@id": "#nnaqi5",
+      "name": "Popular music and recording",
+      "x": -174,
+      "y": 120,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nzvjjx",
+      "name": "Phonograph recorded sound, 1877",
+      "x": -175,
+      "y": 465,
+      "parent": "#nnaqi5"
+    },
+    {
+      "@id": "#55j5ki",
+      "name": "Jazz grew from blues in New Orleans",
+      "x": -243,
+      "y": 303,
+      "link": "https://en.wikipedia.org/wiki/Jazz",
+      "parent": "#nnaqi5"
+    },
+    {
+      "@id": "#52hvf5",
+      "name": "Rock and roll in the 1950s",
+      "x": -340,
+      "y": 236,
+      "parent": "#nnaqi5"
+    },
+    {
+      "@id": "#kmjpgh",
+      "name": "Hip hop began in the Bronx, 1970s",
+      "x": -463,
+      "y": 171,
+      "parent": "#nnaqi5"
+    },
+    {
+      "@id": "#cj93h4",
+      "name": "Streaming dominates listening today",
+      "x": -445,
+      "y": 51,
+      "parent": "#nnaqi5"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    },
+    {
+      "start": 23,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

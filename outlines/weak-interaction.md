@@ -1,0 +1,29 @@
+category: Science
+aliases: weak nuclear force, weak force, electroweak interaction
+- Weak interaction
+  - What it is
+    - One of four fundamental forces
+    - Changes one type of quark into another
+    - Acts only over tiny distances
+    - Far weaker than electromagnetism at everyday scales
+  - Force carriers
+    - [W and Z bosons carry it](https://en.wikipedia.org/wiki/W_and_Z_bosons)
+    - Heavy carriers explain its short range
+    - Discovered at CERN in 1983
+  - What it does
+    - [Causes beta decay in radioactive atoms](https://en.wikipedia.org/wiki/Beta_decay)
+    - Turns a neutron into a proton
+    - Lets the Sun fuse hydrogen into helium
+    - Helps date fossils via carbon-14
+  - Neutrinos
+    - [Neutrinos feel only weak force and gravity](https://en.wikipedia.org/wiki/Neutrino)
+    - Trillions pass through you every second
+    - Rarely interact, so hard to detect
+  - Odd features
+    - [Treats left and right differently](https://en.wikipedia.org/wiki/Parity_%28physics%29)
+    - Wu experiment showed parity violation, 1957
+    - Breaks matter–antimatter symmetry slightly
+  - Unification
+    - Merges with electromagnetism at high energy
+    - [Electroweak theory won 1979 Nobel Prize](https://en.wikipedia.org/wiki/Electroweak_interaction)
+    - Higgs field gives W and Z mass

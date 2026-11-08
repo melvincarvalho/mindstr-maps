@@ -1,0 +1,30 @@
+category: Geography
+aliases: nyc, big apple, new york new york
+- New York City
+  - Setting
+    - [Five boroughs, Manhattan at the heart](https://en.wikipedia.org/wiki/Boroughs_of_New_York_City)
+    - Natural harbour at Hudson's mouth
+    - Most populous US city
+  - History
+    - Lenape homeland before Europeans
+    - Dutch New Amsterdam, founded 1620s
+    - English renamed it New York, 1664
+    - [Ellis Island processed millions of immigrants](https://en.wikipedia.org/wiki/Ellis_Island)
+    - September 11 attacks, 2001
+  - People
+    - About 8.3 million residents
+    - Over a third born abroad
+    - Hundreds of languages spoken
+  - Economy
+    - [Wall Street, global finance centre](https://en.wikipedia.org/wiki/Wall_Street)
+    - Media, fashion, tech and law
+    - United Nations headquarters
+  - Landmarks
+    - [Statue of Liberty, gift from France](https://en.wikipedia.org/wiki/Statue_of_Liberty)
+    - Empire State Building and skyline
+    - Central Park, 843 acres
+    - Brooklyn Bridge, opened 1883
+  - Culture
+    - Broadway theatre district
+    - Met, MoMA and Guggenheim museums
+    - 24-hour subway and yellow cabs

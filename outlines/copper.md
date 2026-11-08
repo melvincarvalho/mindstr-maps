@@ -1,0 +1,32 @@
+category: Science
+aliases: copper metal, copper element, element 29
+- Copper
+  - Basics
+    - Atomic number 29, symbol Cu
+    - From Latin cuprum, after Cyprus
+    - Reddish-orange, soft, easily shaped
+    - Turns green with patina outdoors
+  - Where it's found
+    - Ores like chalcopyrite
+    - Sometimes found as pure metal
+    - [Chile is the largest producer](https://en.wikipedia.org/wiki/Copper_mining_in_Chile)
+  - History
+    - Used for over 10,000 years
+    - [Bronze: copper with tin](https://en.wikipedia.org/wiki/Bronze_Age)
+    - Brass: copper with zinc
+    - Coins for thousands of years
+  - Properties
+    - Second best electrical conductor after silver
+    - Excellent heat conductor
+    - Resists corrosion
+    - Kills many microbes on contact
+  - Uses
+    - [Electrical wiring and motors](https://en.wikipedia.org/wiki/Copper_wire_and_cable)
+    - Water pipes and plumbing
+    - Electric cars use extra copper
+    - Fully recyclable without losing quality
+  - Role in life
+    - Essential trace nutrient for enzymes
+    - Helps the body use iron
+    - Too much is toxic
+    - Octopuses' blue blood uses copper

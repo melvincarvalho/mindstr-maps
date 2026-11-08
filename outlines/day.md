@@ -1,0 +1,28 @@
+category: Science
+aliases: length of a day, solar day, how long is a day
+- Day
+  - What a day is
+    - One full spin of Earth
+    - Also the daylight hours
+    - Divided into 24 hours of 60 minutes
+  - Two ways to count a day
+    - [Solar day: noon to noon, 24 hours](https://en.wikipedia.org/wiki/Solar_time)
+    - [Sidereal day: about 23 h 56 min](https://en.wikipedia.org/wiki/Sidereal_time)
+    - Difference comes from orbiting the Sun
+  - Day and night
+    - Half of Earth always faces the Sun
+    - [Axial tilt changes day length yearly](https://en.wikipedia.org/wiki/Axial_tilt)
+    - Polar summers bring the midnight sun
+    - Equinoxes give near-equal day and night
+  - Days are getting longer
+    - [Tides slowly brake Earth's spin](https://en.wikipedia.org/wiki/Tidal_acceleration)
+    - Roughly 2 milliseconds longer per century
+    - Dinosaur-era days were about 23.5 hours
+  - Days on other planets
+    - Mars day about 24 h 40 min
+    - Jupiter spins in under 10 hours
+    - Venus day is longer than its year
+  - Human days
+    - [Circadian rhythm tunes body to daylight](https://en.wikipedia.org/wiki/Circadian_rhythm)
+    - Civil days start at midnight
+    - Seven-day week has ancient Near East roots

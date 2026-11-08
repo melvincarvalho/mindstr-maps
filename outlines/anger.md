@@ -1,0 +1,30 @@
+category: Society
+aliases: anger management, dealing with anger, managing anger, controlling anger
+- Anger
+  - What anger is
+    - Response to being wronged or blocked
+    - Ranges from irritation to rage
+    - A normal, healthy human emotion
+  - Why we have it
+    - Pushes us to defend ourselves
+    - Signals that a boundary was crossed
+    - Can fuel fighting real injustice
+  - What happens in the body
+    - [Fight-or-flight: adrenaline surges](https://en.wikipedia.org/wiki/Fight-or-flight_response)
+    - Heart races, muscles tense, face flushes
+    - Thinking narrows while anger peaks
+  - Common triggers
+    - Feeling unfairly treated or disrespected
+    - Frustration when goals are blocked
+    - Tiredness, hunger and stress lower tolerance
+  - Healthy ways to handle it
+    - Pause and breathe slowly before responding
+    - Take a time-out and walk away
+    - Say how you feel with "I" statements
+    - Solve the underlying problem later
+    - Burn off tension with exercise
+  - When anger becomes a problem
+    - Shouting or venting often backfires
+    - Aggression, violence or damaged relationships
+    - [Anger management courses teach skills](https://en.wikipedia.org/wiki/Anger_management)
+    - See a doctor or therapist if overwhelming

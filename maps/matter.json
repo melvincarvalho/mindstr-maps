@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Matter",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#j99xci",
+      "name": "What counts as matter",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h7k2r6",
+      "name": "Anything with mass that takes up space",
+      "x": -524,
+      "y": -64,
+      "parent": "#j99xci"
+    },
+    {
+      "@id": "#qgwk2a",
+      "name": "Light and energy alone are not matter",
+      "x": -401,
+      "y": -163,
+      "parent": "#j99xci"
+    },
+    {
+      "@id": "#f5qa8j",
+      "name": "Mass and energy interchange, E = mc²",
+      "x": -318,
+      "y": -255,
+      "parent": "#j99xci"
+    },
+    {
+      "@id": "#iqb9ht",
+      "name": "Building blocks",
+      "x": 36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dr3bsa",
+      "name": "Everything is made of atoms",
+      "x": -204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Atom",
+      "parent": "#iqb9ht"
+    },
+    {
+      "@id": "#bygps9",
+      "name": "Nucleus of protons and neutrons",
+      "x": -73,
+      "y": -372,
+      "parent": "#iqb9ht"
+    },
+    {
+      "@id": "#egikag",
+      "name": "Electrons surround the nucleus",
+      "x": 82,
+      "y": -420,
+      "parent": "#iqb9ht"
+    },
+    {
+      "@id": "#w79se9",
+      "name": "Protons and neutrons are made of quarks",
+      "x": 204,
+      "y": -321,
+      "parent": "#iqb9ht"
+    },
+    {
+      "@id": "#aupbgr",
+      "name": "About 118 known chemical elements",
+      "x": 318,
+      "y": -255,
+      "parent": "#iqb9ht"
+    },
+    {
+      "@id": "#ea6g8z",
+      "name": "How atoms combine",
+      "x": 227,
+      "y": -29,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#357gb5",
+      "name": "Atoms bond to form molecules",
+      "x": 401,
+      "y": -163,
+      "parent": "#ea6g8z"
+    },
+    {
+      "@id": "#kv8rwe",
+      "name": "Compounds like water (H₂O), salt (NaCl)",
+      "x": 544,
+      "y": -66,
+      "parent": "#ea6g8z"
+    },
+    {
+      "@id": "#mxe3np",
+      "name": "Mixtures like air or seawater",
+      "x": 444,
+      "y": 56,
+      "parent": "#ea6g8z"
+    },
+    {
+      "@id": "#w8apmi",
+      "name": "States of matter",
+      "x": 163,
+      "y": 130,
+      "link": "https://en.wikipedia.org/wiki/State_of_matter",
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y8tj8t",
+      "name": "Solid, liquid, gas and plasma",
+      "x": 437,
+      "y": 177,
+      "parent": "#w8apmi"
+    },
+    {
+      "@id": "#yuth7c",
+      "name": "Heating or cooling changes state",
+      "x": 318,
+      "y": 255,
+      "parent": "#w8apmi"
+    },
+    {
+      "@id": "#76bagu",
+      "name": "Mass is conserved in changes",
+      "x": 204,
+      "y": 321,
+      "parent": "#w8apmi"
+    },
+    {
+      "@id": "#s6hjd6",
+      "name": "Properties we measure",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bbsg2g",
+      "name": "Mass, volume and density",
+      "x": 73,
+      "y": 372,
+      "parent": "#s6hjd6"
+    },
+    {
+      "@id": "#t3kz4e",
+      "name": "Melting and boiling points",
+      "x": -82,
+      "y": 420,
+      "parent": "#s6hjd6"
+    },
+    {
+      "@id": "#k5vk3w",
+      "name": "Physical versus chemical changes",
+      "x": -204,
+      "y": 321,
+      "parent": "#s6hjd6"
+    },
+    {
+      "@id": "#khbtsx",
+      "name": "The bigger picture",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#akv4hn",
+      "name": "Antimatter: opposite charge, annihilates matter",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wikipedia.org/wiki/Antimatter",
+      "parent": "#khbtsx"
+    },
+    {
+      "@id": "#uepkgm",
+      "name": "Dark matter outweighs ordinary matter fivefold",
+      "x": -401,
+      "y": 163,
+      "link": "https://en.wikipedia.org/wiki/Dark_matter",
+      "parent": "#khbtsx"
+    },
+    {
+      "@id": "#ritfqh",
+      "name": "Ordinary matter is about 5% of universe",
+      "x": -524,
+      "y": 64,
+      "parent": "#khbtsx"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

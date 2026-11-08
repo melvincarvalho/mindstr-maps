@@ -1,0 +1,296 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Mecca",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#8as5iy",
+      "name": "Setting",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zihwhw",
+      "name": "Western Saudi Arabia, Hejaz region",
+      "x": -444,
+      "y": -59,
+      "parent": "#8as5iy"
+    },
+    {
+      "@id": "#rrw3n7",
+      "name": "Dry valley ringed by mountains",
+      "x": -396,
+      "y": -171,
+      "parent": "#8as5iy"
+    },
+    {
+      "@id": "#pich2d",
+      "name": "About 70 km inland from Jeddah",
+      "x": -305,
+      "y": -265,
+      "parent": "#8as5iy"
+    },
+    {
+      "@id": "#ajn3x4",
+      "name": "History",
+      "x": 19,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7kfm2w",
+      "name": "Trading town on caravan routes",
+      "x": -181,
+      "y": -330,
+      "parent": "#ajn3x4"
+    },
+    {
+      "@id": "#m8sthg",
+      "name": "Birthplace of Muhammad, about 570",
+      "x": -41,
+      "y": -391,
+      "link": "https://en.wikipedia.org/wiki/Muhammad",
+      "parent": "#ajn3x4"
+    },
+    {
+      "@id": "#8gepq7",
+      "name": "Muslims took the city in 630",
+      "x": 140,
+      "y": -445,
+      "parent": "#ajn3x4"
+    },
+    {
+      "@id": "#79du7m",
+      "name": "Saudi rule since the 1920s",
+      "x": 246,
+      "y": -301,
+      "parent": "#ajn3x4"
+    },
+    {
+      "@id": "#jdvxuz",
+      "name": "Islam's holiest city",
+      "x": 227,
+      "y": -30,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vtdj6c",
+      "name": "Kaaba, the direction of prayer",
+      "x": 355,
+      "y": -221,
+      "link": "https://en.wikipedia.org/wiki/Kaaba",
+      "parent": "#jdvxuz"
+    },
+    {
+      "@id": "#jmf493",
+      "name": "Masjid al-Haram, the Great Mosque",
+      "x": 426,
+      "y": -117,
+      "link": "https://en.wikipedia.org/wiki/Masjid_al-Haram",
+      "parent": "#jdvxuz"
+    },
+    {
+      "@id": "#h5aaqi",
+      "name": "Zamzam well inside the mosque",
+      "x": 510,
+      "y": 0,
+      "parent": "#jdvxuz"
+    },
+    {
+      "@id": "#b4bzfb",
+      "name": "Only Muslims may enter the city",
+      "x": 426,
+      "y": 117,
+      "parent": "#jdvxuz"
+    },
+    {
+      "@id": "#yywvqy",
+      "name": "Pilgrimage",
+      "x": 92,
+      "y": 169,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wr5a8v",
+      "name": "Hajj: once-in-a-lifetime duty if able",
+      "x": 355,
+      "y": 221,
+      "link": "https://en.wikipedia.org/wiki/Hajj",
+      "parent": "#yywvqy"
+    },
+    {
+      "@id": "#acacgj",
+      "name": "Up to 2–3 million pilgrims yearly",
+      "x": 246,
+      "y": 301,
+      "parent": "#yywvqy"
+    },
+    {
+      "@id": "#t2ge8g",
+      "name": "Umrah, the lesser pilgrimage, any time",
+      "x": 110,
+      "y": 349,
+      "parent": "#yywvqy"
+    },
+    {
+      "@id": "#rjqf3g",
+      "name": "Rituals at Mina, Arafat and Muzdalifah",
+      "x": -43,
+      "y": 407,
+      "parent": "#yywvqy"
+    },
+    {
+      "@id": "#yzjx4i",
+      "name": "City today",
+      "x": -182,
+      "y": 113,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b4hsss",
+      "name": "About 2 million residents",
+      "x": -253,
+      "y": 465,
+      "parent": "#yzjx4i"
+    },
+    {
+      "@id": "#z8h5u5",
+      "name": "Economy built on serving pilgrims",
+      "x": -305,
+      "y": 265,
+      "parent": "#yzjx4i"
+    },
+    {
+      "@id": "#vvmesa",
+      "name": "Abraj Al-Bait clock tower overlooks mosque",
+      "x": -396,
+      "y": 171,
+      "parent": "#yzjx4i"
+    },
+    {
+      "@id": "#tis76r",
+      "name": "Huge mosque expansions and rail links",
+      "x": -444,
+      "y": 59,
+      "parent": "#yzjx4i"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    }
+  ],
+  "selectedNode": 0
+}

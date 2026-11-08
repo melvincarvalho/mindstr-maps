@@ -1,0 +1,27 @@
+category: Society
+aliases: disabilities, disabled people, disability rights
+- Disability
+  - What disability means
+    - Impairment meets barriers in society
+    - About 1 in 6 people worldwide
+    - Can be lifelong or acquired later
+    - Many disabilities are not visible
+  - Main types
+    - Physical and mobility impairments
+    - Sensory: blindness, deafness
+    - Intellectual and learning disabilities
+    - Mental health conditions
+    - Chronic illness and pain
+  - Two ways of seeing it
+    - [Medical model: treat the condition](https://en.wikipedia.org/wiki/Medical_model_of_disability)
+    - [Social model: remove society's barriers](https://en.wikipedia.org/wiki/Social_model_of_disability)
+    - Person-first or identity-first language
+  - Rights and law
+    - [UN Convention on disability rights, 2006](https://en.wikipedia.org/wiki/Convention_on_the_Rights_of_Persons_with_Disabilities)
+    - [Americans with Disabilities Act, 1990](https://en.wikipedia.org/wiki/Americans_with_Disabilities_Act_of_1990)
+    - "Nothing about us without us"
+  - Access and support
+    - Ramps, lifts and step-free routes
+    - Captions, sign language and screen readers
+    - Reasonable adjustments at work and school
+    - Assistive technology and personal assistants

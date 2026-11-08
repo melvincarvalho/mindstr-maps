@@ -1,0 +1,34 @@
+category: Geography
+aliases: federative republic of brazil, brazil country, brasil
+- Brazil
+  - Geography
+    - Fifth-largest country, half of South America
+    - [Holds most of the Amazon rainforest](https://en.wikipedia.org/wiki/Amazon_rainforest)
+    - [Pantanal, world's largest tropical wetland](https://en.wikipedia.org/wiki/Pantanal)
+    - Long Atlantic coastline
+    - Borders all South American countries but two
+  - People and languages
+    - Over 200 million people
+    - Largest Portuguese-speaking country
+    - São Paulo is the largest city
+    - Mixed European, African and Indigenous ancestry
+  - History
+    - Indigenous peoples including Tupi and Guarani
+    - Portuguese arrived in 1500
+    - [Largest destination for enslaved Africans](https://en.wikipedia.org/wiki/Slavery_in_Brazil)
+    - Independence as an empire, 1822
+    - Slavery abolished 1888, republic 1889
+    - [Military rule 1964–1985](https://en.wikipedia.org/wiki/Military_dictatorship_in_Brazil)
+  - Government
+    - Federal presidential republic
+    - 26 states and a Federal District
+    - Capital Brasília, built in 1960
+  - Economy
+    - Largest economy in Latin America
+    - Exports soy, coffee, beef and iron ore
+    - Aircraft maker Embraer and big industry
+    - Currency is the Brazilian real
+  - Culture
+    - Carnival, biggest in Rio de Janeiro
+    - Samba and bossa nova
+    - Football: five World Cup wins

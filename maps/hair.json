@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Hair",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#7btkd7",
+      "name": "What hair is",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9anviy",
+      "name": "Made mainly of keratin protein",
+      "x": -445,
+      "y": -51,
+      "link": "https://en.wikipedia.org/wiki/Keratin",
+      "parent": "#7btkd7"
+    },
+    {
+      "@id": "#dst5n4",
+      "name": "Grows from follicles in the skin",
+      "x": -409,
+      "y": -150,
+      "parent": "#7btkd7"
+    },
+    {
+      "@id": "#4vr3gd",
+      "name": "Shaft above the skin is dead",
+      "x": -340,
+      "y": -236,
+      "parent": "#7btkd7"
+    },
+    {
+      "@id": "#e7ptiz",
+      "name": "Grows everywhere except palms and soles",
+      "x": -243,
+      "y": -303,
+      "parent": "#7btkd7"
+    },
+    {
+      "@id": "#3jzwfh",
+      "name": "How it grows",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t7uyfx",
+      "name": "Scalp hair grows about 1 cm monthly",
+      "x": -133,
+      "y": -360,
+      "parent": "#3jzwfh"
+    },
+    {
+      "@id": "#bpb9ek",
+      "name": "Cycles of growth, rest and shedding",
+      "x": 0,
+      "y": -408,
+      "link": "https://en.wikipedia.org/wiki/Hair_follicle",
+      "parent": "#3jzwfh"
+    },
+    {
+      "@id": "#izj6bu",
+      "name": "Losing 50–100 hairs daily is normal",
+      "x": 175,
+      "y": -465,
+      "parent": "#3jzwfh"
+    },
+    {
+      "@id": "#m5bcyj",
+      "name": "About 100,000 hairs on the scalp",
+      "x": 243,
+      "y": -303,
+      "parent": "#3jzwfh"
+    },
+    {
+      "@id": "#yrqfuh",
+      "name": "Colour and texture",
+      "x": 209,
+      "y": -76,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z8g4bv",
+      "name": "Melanin sets hair colour",
+      "x": 340,
+      "y": -236,
+      "link": "https://en.wikipedia.org/wiki/Melanin",
+      "parent": "#yrqfuh"
+    },
+    {
+      "@id": "#myqds9",
+      "name": "Turns grey as pigment production slows",
+      "x": 409,
+      "y": -150,
+      "parent": "#yrqfuh"
+    },
+    {
+      "@id": "#b33vg6",
+      "name": "Follicle shape makes hair straight or curly",
+      "x": 545,
+      "y": -61,
+      "parent": "#yrqfuh"
+    },
+    {
+      "@id": "#ugbv8s",
+      "name": "What hair does",
+      "x": 209,
+      "y": 76,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dy2njh",
+      "name": "Helps keep the head warm",
+      "x": 445,
+      "y": 51,
+      "parent": "#ugbv8s"
+    },
+    {
+      "@id": "#3qk6ib",
+      "name": "Eyelashes and brows protect eyes",
+      "x": 409,
+      "y": 150,
+      "parent": "#ugbv8s"
+    },
+    {
+      "@id": "#ucssuy",
+      "name": "Body hair senses light touch",
+      "x": 340,
+      "y": 236,
+      "parent": "#ugbv8s"
+    },
+    {
+      "@id": "#h34kti",
+      "name": "Common problems",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5b5csw",
+      "name": "Male and female pattern baldness",
+      "x": 243,
+      "y": 303,
+      "link": "https://en.wikipedia.org/wiki/Pattern_hair_loss",
+      "parent": "#h34kti"
+    },
+    {
+      "@id": "#uv64j5",
+      "name": "Alopecia areata causes patchy loss",
+      "x": 133,
+      "y": 360,
+      "parent": "#h34kti"
+    },
+    {
+      "@id": "#qk5bzt",
+      "name": "Dandruff from a flaky scalp",
+      "x": 0,
+      "y": 408,
+      "parent": "#h34kti"
+    },
+    {
+      "@id": "#gfx2a2",
+      "name": "Head lice, common in children",
+      "x": -175,
+      "y": 465,
+      "parent": "#h34kti"
+    },
+    {
+      "@id": "#9ks536",
+      "name": "Hair care",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hp3dir",
+      "name": "Wash gently to suit hair type",
+      "x": -243,
+      "y": 303,
+      "parent": "#9ks536"
+    },
+    {
+      "@id": "#qq2ypr",
+      "name": "Limit heat and harsh chemicals",
+      "x": -340,
+      "y": 236,
+      "parent": "#9ks536"
+    },
+    {
+      "@id": "#a4axsx",
+      "name": "Balanced diet supports healthy hair",
+      "x": -409,
+      "y": 150,
+      "parent": "#9ks536"
+    },
+    {
+      "@id": "#sfwkj3",
+      "name": "Sudden heavy loss: see a doctor",
+      "x": -445,
+      "y": 51,
+      "parent": "#9ks536"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

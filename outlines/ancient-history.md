@@ -1,0 +1,30 @@
+category: History
+aliases: antiquity, ancient world
+- Ancient history
+  - What it covers
+    - From writing, about 3200 BC
+    - To roughly AD 500
+    - Known from texts plus archaeology
+  - The first civilisations
+    - [Sumer: first cities in Mesopotamia](https://en.wikipedia.org/wiki/Sumer)
+    - Egypt united about 3100 BC
+    - Indus Valley cities like Mohenjo-daro
+    - Shang dynasty China, oracle bones
+  - Empires of the Near East
+    - Babylon and Hammurabi's law code
+    - Assyrians built an iron-age empire
+    - [Persia's Achaemenid Empire under Cyrus](https://en.wikipedia.org/wiki/Achaemenid_Empire)
+    - Phoenicians spread the alphabet by sea
+  - Classical Mediterranean
+    - Greek city-states, Athenian democracy
+    - Alexander conquered Persia, 330s BC
+    - [Rome: republic, then empire](https://en.wikipedia.org/wiki/Ancient_Rome)
+  - Asia and the Americas
+    - Maurya Empire and Ashoka in India
+    - Qin unified China in 221 BC
+    - Han dynasty and the Silk Road
+    - Olmec and Maya in Mesoamerica
+  - Ideas that lasted
+    - Buddhism, Confucianism, Judaism, Christianity
+    - Greek philosophy: Socrates, Plato, Aristotle
+    - [Western Roman Empire fell in 476](https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire)

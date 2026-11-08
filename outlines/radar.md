@@ -1,0 +1,27 @@
+category: Technology
+aliases: radio detection and ranging, how radar works
+- Radar
+  - How radar works
+    - Transmitter sends out radio pulses
+    - Pulses bounce off distant objects
+    - Echo timing gives the distance
+    - [Doppler shift reveals speed](https://en.wikipedia.org/wiki/Doppler_radar)
+  - Parts of a radar
+    - Antenna focuses and steers the beam
+    - Receiver picks up faint echoes
+    - Display shows targets as blips
+  - History
+    - Hertz showed radio waves reflect, 1880s
+    - [Chain Home warned Britain in 1940](https://en.wikipedia.org/wiki/Chain_Home)
+    - [Cavity magnetron enabled compact radar](https://en.wikipedia.org/wiki/Cavity_magnetron)
+    - Name from RAdio Detection And Ranging
+  - Everyday uses
+    - Air traffic control tracks planes
+    - [Weather radar spots rain and storms](https://en.wikipedia.org/wiki/Weather_radar)
+    - Police speed guns catch speeders
+    - Adaptive cruise control in cars
+    - Ships navigate safely in fog
+  - Limits and countermeasures
+    - Earth's curve hides low targets
+    - [Stealth shapes scatter radar waves away](https://en.wikipedia.org/wiki/Stealth_technology)
+    - Jamming floods receivers with noise

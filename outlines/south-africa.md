@@ -1,0 +1,34 @@
+category: Geography
+aliases: republic of south africa, rsa, mzansi
+- South Africa
+  - Geography
+    - Africa's southern tip, between two oceans
+    - [Table Mountain above Cape Town](https://en.wikipedia.org/wiki/Table_Mountain)
+    - Drakensberg mountains and high plateau
+    - Surrounds the kingdom of Lesotho
+  - People and languages
+    - About 63 million people
+    - 12 official languages, including sign language
+    - Zulu and Xhosa most spoken at home
+    - Three capitals: Pretoria, Cape Town, Bloemfontein
+  - History in brief
+    - Cradle of Humankind fossil sites
+    - Dutch settled the Cape in 1652
+    - British rule and the Boer Wars
+    - [Apartheid enforced from 1948 to 1994](https://en.wikipedia.org/wiki/Apartheid)
+    - [Nelson Mandela elected president in 1994](https://en.wikipedia.org/wiki/Nelson_Mandela)
+  - Government
+    - Parliament elects the president
+    - [1996 constitution with strong bill of rights](https://en.wikipedia.org/wiki/Constitution_of_South_Africa)
+    - Nine provinces
+    - Coalition government formed in 2024
+  - Economy
+    - Africa's most industrialised economy
+    - Platinum, gold and coal mining
+    - Johannesburg, the financial centre
+    - High unemployment and inequality
+  - Culture and known for
+    - [Kruger National Park and safaris](https://en.wikipedia.org/wiki/Kruger_National_Park)
+    - Four Rugby World Cup titles
+    - Braai, biltong and bobotie
+    - The "Rainbow Nation" ideal after 1994

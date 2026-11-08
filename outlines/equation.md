@@ -1,0 +1,30 @@
+category: Mathematics
+aliases: equations, mathematical equation, solving equations
+- Equation
+  - What an equation is
+    - Two expressions joined by "="
+    - Like a balanced pair of scales
+    - [Robert Recorde invented "=" in 1557](https://en.wikipedia.org/wiki/Robert_Recorde)
+  - Kinds of equation
+    - Linear: 2x + 3 = 7
+    - [Quadratic: includes x squared](https://en.wikipedia.org/wiki/Quadratic_equation)
+    - Simultaneous: several unknowns at once
+    - [Differential: involves rates of change](https://en.wikipedia.org/wiki/Differential_equation)
+  - How to solve one
+    - Do the same to both sides
+    - Undo operations in reverse order
+    - Check by substituting the answer back
+  - How many solutions
+    - One, as in x+1 = 3
+    - Several, as in x² = 4
+    - None among real numbers: x² = −1
+    - Identities hold for every value
+  - Equations versus identities
+    - An equation is true for some values
+    - Identities: 2(x+1) = 2x+2
+    - Formulas link quantities, like A = πr²
+  - Famous equations
+    - [E = mc²: mass and energy](https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence)
+    - F = ma: Newton's second law
+    - Pythagoras: a² + b² = c²
+    - Maxwell's equations of electromagnetism

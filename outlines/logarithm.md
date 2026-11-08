@@ -1,0 +1,32 @@
+category: Mathematics
+aliases: logarithms, log function, how logarithms work
+- Logarithm
+  - The idea
+    - Asks: what power gives this number?
+    - Log base 10 of 1000 is 3
+    - The inverse of exponentiation
+    - Base-10 log roughly counts digits
+  - Common bases
+    - Base 10 for everyday calculation
+    - [Natural log uses e, about 2.718](https://en.wikipedia.org/wiki/Natural_logarithm)
+    - Base 2 in computing
+  - Key rules
+    - Log of a product: add logs
+    - Log of a quotient: subtract logs
+    - Log of a power: multiply
+    - Turns multiplication into addition
+  - History
+    - [John Napier published logarithms, 1614](https://en.wikipedia.org/wiki/John_Napier)
+    - Briggs made base-10 tables
+    - Kepler used them for planetary orbits
+    - [Slide rules used logs until 1970s](https://en.wikipedia.org/wiki/Slide_rule)
+  - [Logarithmic scales](https://en.wikipedia.org/wiki/Logarithmic_scale)
+    - Earthquake magnitude: each step ~32× energy
+    - Decibels measure loudness
+    - pH measures acidity
+    - Musical pitch: octaves double frequency
+  - Uses
+    - Solving for unknown exponents
+    - Measuring growth rates and half-lives
+    - Algorithm speed, like binary search
+    - Log graphs show huge ranges

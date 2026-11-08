@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Musical instrument",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#iywdsc",
+      "name": "How it makes sound",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5q8h9m",
+      "name": "Something vibrates: string, air, skin",
+      "x": -525,
+      "y": -59,
+      "parent": "#iywdsc"
+    },
+    {
+      "@id": "#47wk7a",
+      "name": "A resonator amplifies the vibration",
+      "x": -409,
+      "y": -150,
+      "parent": "#iywdsc"
+    },
+    {
+      "@id": "#nfxrit",
+      "name": "Size and tension set the pitch",
+      "x": -340,
+      "y": -236,
+      "parent": "#iywdsc"
+    },
+    {
+      "@id": "#p35je9",
+      "name": "Hornbostel–Sachs classes",
+      "x": 0,
+      "y": -184,
+      "link": "https://en.wikipedia.org/wiki/Hornbostel%E2%80%93Sachs",
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dr6je4",
+      "name": "Idiophones: the body vibrates (cymbals)",
+      "x": -243,
+      "y": -303,
+      "parent": "#p35je9"
+    },
+    {
+      "@id": "#4cn35e",
+      "name": "Membranophones: stretched skin (drums)",
+      "x": -133,
+      "y": -360,
+      "parent": "#p35je9"
+    },
+    {
+      "@id": "#n7s43j",
+      "name": "Chordophones: strings (violin, guitar)",
+      "x": 0,
+      "y": -408,
+      "parent": "#p35je9"
+    },
+    {
+      "@id": "#r8f83w",
+      "name": "Aerophones: vibrating air (flute, trumpet)",
+      "x": 175,
+      "y": -465,
+      "parent": "#p35je9"
+    },
+    {
+      "@id": "#9vhbsf",
+      "name": "Electrophones: electronic (synthesizer)",
+      "x": 243,
+      "y": -303,
+      "parent": "#p35je9"
+    },
+    {
+      "@id": "#bezcmg",
+      "name": "Orchestral families",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#frshpg",
+      "name": "Strings: violin, viola, cello, bass",
+      "x": 340,
+      "y": -236,
+      "parent": "#bezcmg"
+    },
+    {
+      "@id": "#datdmz",
+      "name": "Woodwinds: flute, oboe, clarinet, bassoon",
+      "x": 409,
+      "y": -150,
+      "parent": "#bezcmg"
+    },
+    {
+      "@id": "#yz8k9n",
+      "name": "Brass: trumpet, horn, trombone, tuba",
+      "x": 525,
+      "y": -59,
+      "parent": "#bezcmg"
+    },
+    {
+      "@id": "#2iudbm",
+      "name": "Percussion: timpani, snare, xylophone",
+      "x": 445,
+      "y": 51,
+      "parent": "#bezcmg"
+    },
+    {
+      "@id": "#fvaph9",
+      "name": "Keyboards",
+      "x": 174,
+      "y": 120,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uwpc97",
+      "name": "Piano invented by Cristofori, about 1700",
+      "x": 463,
+      "y": 171,
+      "link": "https://en.wikipedia.org/wiki/Piano",
+      "parent": "#fvaph9"
+    },
+    {
+      "@id": "#yd37u6",
+      "name": "Harpsichord plucks its strings",
+      "x": 340,
+      "y": 236,
+      "parent": "#fvaph9"
+    },
+    {
+      "@id": "#epquh5",
+      "name": "Pipe organ blows air through pipes",
+      "x": 243,
+      "y": 303,
+      "parent": "#fvaph9"
+    },
+    {
+      "@id": "#zzfgc8",
+      "name": "History",
+      "x": -33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e523y5",
+      "name": "Bone flutes over 40,000 years old",
+      "x": 133,
+      "y": 360,
+      "link": "https://en.wikipedia.org/wiki/Prehistoric_music",
+      "parent": "#zzfgc8"
+    },
+    {
+      "@id": "#zg6bky",
+      "name": "Lyres of Ur, about 2500 BC",
+      "x": 0,
+      "y": 408,
+      "parent": "#zzfgc8"
+    },
+    {
+      "@id": "#633wzj",
+      "name": "Theremin, early electronic, about 1920",
+      "x": -175,
+      "y": 465,
+      "link": "https://en.wikipedia.org/wiki/Theremin",
+      "parent": "#zzfgc8"
+    },
+    {
+      "@id": "#4i7jke",
+      "name": "Electric guitar spread in the 1950s",
+      "x": -243,
+      "y": 303,
+      "parent": "#zzfgc8"
+    },
+    {
+      "@id": "#9fgvuq",
+      "name": "Learning to play",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3xm2jw",
+      "name": "Piano and guitar are common starts",
+      "x": -340,
+      "y": 236,
+      "parent": "#9fgvuq"
+    },
+    {
+      "@id": "#fd3rdf",
+      "name": "Short daily practice beats long sessions",
+      "x": -409,
+      "y": 150,
+      "parent": "#9fgvuq"
+    },
+    {
+      "@id": "#2dusfd",
+      "name": "Teachers and apps help",
+      "x": -445,
+      "y": 51,
+      "parent": "#9fgvuq"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

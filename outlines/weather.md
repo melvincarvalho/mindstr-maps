@@ -1,0 +1,31 @@
+category: Science
+aliases: weather forecast explained, how weather works, meteorology basics
+- Weather
+  - What weather is
+    - Atmosphere's state over hours to days
+    - Climate is the long-term average
+    - Happens mostly in the troposphere
+  - What drives it
+    - Sun heats Earth unevenly
+    - [Air pressure differences make wind](https://en.wikipedia.org/wiki/Atmospheric_pressure)
+    - Water evaporates, condenses into clouds
+    - Earth's spin curves winds and storms
+  - Main ingredients
+    - Temperature: how warm the air is
+    - Humidity: water vapour in air
+    - Cloud cover and precipitation
+    - Wind speed and direction
+  - Weather systems
+    - High pressure brings settled weather
+    - Low pressure brings cloud and rain
+    - [Fronts: where air masses meet](https://en.wikipedia.org/wiki/Weather_front)
+    - [Jet stream steers weather systems](https://en.wikipedia.org/wiki/Jet_stream)
+  - Forecasting
+    - Satellites, radar and weather balloons
+    - [Computer models simulate the atmosphere](https://en.wikipedia.org/wiki/Numerical_weather_prediction)
+    - Reliable about a week ahead
+    - Percent chance of rain explained
+  - Using forecasts safely
+    - Follow official weather warnings
+    - Check before travel or outdoor plans
+    - Dress for heat, cold and wet

@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Steel",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ajbk5q",
+      "name": "What it is",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#un9gw8",
+      "name": "Iron with up to about 2% carbon",
+      "x": -445,
+      "y": -51,
+      "parent": "#ajbk5q"
+    },
+    {
+      "@id": "#ww2we5",
+      "name": "Carbon makes it far stronger than iron",
+      "x": -409,
+      "y": -150,
+      "parent": "#ajbk5q"
+    },
+    {
+      "@id": "#8ki7g9",
+      "name": "World's most used metal by far",
+      "x": -340,
+      "y": -236,
+      "parent": "#ajbk5q"
+    },
+    {
+      "@id": "#9fsk4g",
+      "name": "About 1.9 billion tonnes made yearly",
+      "x": -243,
+      "y": -303,
+      "parent": "#ajbk5q"
+    },
+    {
+      "@id": "#jmgk9r",
+      "name": "Making steel",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8hcf7c",
+      "name": "Iron ore smelted in a blast furnace",
+      "x": -133,
+      "y": -360,
+      "parent": "#jmgk9r"
+    },
+    {
+      "@id": "#it6fc6",
+      "name": "Basic oxygen furnace burns off carbon",
+      "x": 0,
+      "y": -408,
+      "link": "https://en.wikipedia.org/wiki/Basic_oxygen_steelmaking",
+      "parent": "#jmgk9r"
+    },
+    {
+      "@id": "#9je956",
+      "name": "Electric arc furnaces melt scrap",
+      "x": 175,
+      "y": -465,
+      "link": "https://en.wikipedia.org/wiki/Electric_arc_furnace",
+      "parent": "#jmgk9r"
+    },
+    {
+      "@id": "#kmknmz",
+      "name": "Rolled, forged or cast into shape",
+      "x": 243,
+      "y": -303,
+      "parent": "#jmgk9r"
+    },
+    {
+      "@id": "#ixgvyv",
+      "name": "Kinds of steel",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ahmnuv",
+      "name": "Mild steel: low carbon, easy to shape",
+      "x": 340,
+      "y": -236,
+      "parent": "#ixgvyv"
+    },
+    {
+      "@id": "#zvrprg",
+      "name": "Stainless steel: chromium stops rust",
+      "x": 409,
+      "y": -150,
+      "link": "https://en.wikipedia.org/wiki/Stainless_steel",
+      "parent": "#ixgvyv"
+    },
+    {
+      "@id": "#eb6skm",
+      "name": "Tool steel: hard, keeps an edge",
+      "x": 485,
+      "y": -55,
+      "parent": "#ixgvyv"
+    },
+    {
+      "@id": "#v97c59",
+      "name": "Galvanised steel: coated in zinc",
+      "x": 445,
+      "y": 51,
+      "parent": "#ixgvyv"
+    },
+    {
+      "@id": "#3r5mu3",
+      "name": "Heat treatment",
+      "x": 174,
+      "y": 120,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#x2dw7k",
+      "name": "Quenching in water makes it hard",
+      "x": 445,
+      "y": 164,
+      "parent": "#3r5mu3"
+    },
+    {
+      "@id": "#b3nq3e",
+      "name": "Tempering reduces brittleness",
+      "x": 340,
+      "y": 236,
+      "parent": "#3r5mu3"
+    },
+    {
+      "@id": "#cnkpwx",
+      "name": "Annealing softens it for working",
+      "x": 243,
+      "y": 303,
+      "parent": "#3r5mu3"
+    },
+    {
+      "@id": "#cqbsih",
+      "name": "History",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d8hfej",
+      "name": "Ancient crucible steel from India",
+      "x": 133,
+      "y": 360,
+      "parent": "#cqbsih"
+    },
+    {
+      "@id": "#365dng",
+      "name": "Bessemer process made it cheap, 1850s",
+      "x": 0,
+      "y": 408,
+      "link": "https://en.wikipedia.org/wiki/Bessemer_process",
+      "parent": "#cqbsih"
+    },
+    {
+      "@id": "#hhtji8",
+      "name": "Enabled railways, skyscrapers and big ships",
+      "x": -175,
+      "y": 465,
+      "parent": "#cqbsih"
+    },
+    {
+      "@id": "#s7haqr",
+      "name": "Uses and impact",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#92ry4u",
+      "name": "Buildings, bridges and reinforced concrete",
+      "x": -243,
+      "y": 303,
+      "parent": "#s7haqr"
+    },
+    {
+      "@id": "#atch9t",
+      "name": "Cars, ships and appliances",
+      "x": -340,
+      "y": 236,
+      "parent": "#s7haqr"
+    },
+    {
+      "@id": "#zyiesd",
+      "name": "About 7–9% of global CO₂ emissions",
+      "x": -409,
+      "y": 150,
+      "parent": "#s7haqr"
+    },
+    {
+      "@id": "#ctmnxe",
+      "name": "Recyclable again and again",
+      "x": -445,
+      "y": 51,
+      "parent": "#s7haqr"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

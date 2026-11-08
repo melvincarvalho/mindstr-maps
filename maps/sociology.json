@@ -1,0 +1,329 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Sociology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#h5xmse",
+      "name": "What it studies",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#46izcy",
+      "name": "Social relationships and institutions",
+      "x": -505,
+      "y": -60,
+      "parent": "#h5xmse"
+    },
+    {
+      "@id": "#8uzv97",
+      "name": "How society shapes individuals",
+      "x": -405,
+      "y": -156,
+      "parent": "#h5xmse"
+    },
+    {
+      "@id": "#ftwi64",
+      "name": "Groups from families to nations",
+      "x": -330,
+      "y": -245,
+      "parent": "#h5xmse"
+    },
+    {
+      "@id": "#u485md",
+      "name": "Founders",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wyy4ty",
+      "name": "Comte named the field in 1838",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Auguste_Comte",
+      "parent": "#u485md"
+    },
+    {
+      "@id": "#fyifcd",
+      "name": "Durkheim studied social facts and suicide",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/%C3%89mile_Durkheim",
+      "parent": "#u485md"
+    },
+    {
+      "@id": "#qpfmt9",
+      "name": "Marx analysed class and capitalism",
+      "x": 42,
+      "y": -423,
+      "parent": "#u485md"
+    },
+    {
+      "@id": "#ice2bw",
+      "name": "Weber studied bureaucracy and the Protestant ethic",
+      "x": 234,
+      "y": -485,
+      "link": "https://en.wikipedia.org/wiki/Max_Weber",
+      "parent": "#u485md"
+    },
+    {
+      "@id": "#9exctp",
+      "name": "Major perspectives",
+      "x": 190,
+      "y": -104,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7sei5g",
+      "name": "Functionalism: parts keep society stable",
+      "x": 281,
+      "y": -281,
+      "parent": "#9exctp"
+    },
+    {
+      "@id": "#j5nmnw",
+      "name": "Conflict theory: groups compete for power",
+      "x": 372,
+      "y": -203,
+      "parent": "#9exctp"
+    },
+    {
+      "@id": "#ckgp3i",
+      "name": "Symbolic interactionism: meaning in interaction",
+      "x": 544,
+      "y": -136,
+      "parent": "#9exctp"
+    },
+    {
+      "@id": "#ks7m5h",
+      "name": "Core topics",
+      "x": 190,
+      "y": 104,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jzp4v8",
+      "name": "Social class and inequality",
+      "x": 450,
+      "y": 0,
+      "parent": "#ks7m5h"
+    },
+    {
+      "@id": "#y5dtgi",
+      "name": "Race, ethnicity and gender",
+      "x": 430,
+      "y": 106,
+      "parent": "#ks7m5h"
+    },
+    {
+      "@id": "#nd2p5s",
+      "name": "Family, religion and education",
+      "x": 372,
+      "y": 203,
+      "parent": "#ks7m5h"
+    },
+    {
+      "@id": "#j2r7ri",
+      "name": "Crime and deviance",
+      "x": 281,
+      "y": 281,
+      "parent": "#ks7m5h"
+    },
+    {
+      "@id": "#qus32f",
+      "name": "Urbanisation and globalisation",
+      "x": 164,
+      "y": 335,
+      "parent": "#ks7m5h"
+    },
+    {
+      "@id": "#6sizef",
+      "name": "Key concepts",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vi6b4q",
+      "name": "Socialisation teaches norms and values",
+      "x": 38,
+      "y": 391,
+      "parent": "#6sizef"
+    },
+    {
+      "@id": "#uvhfzd",
+      "name": "Social mobility between classes",
+      "x": -124,
+      "y": 447,
+      "parent": "#6sizef"
+    },
+    {
+      "@id": "#a2ru4k",
+      "name": "Roles, status and identity",
+      "x": -225,
+      "y": 312,
+      "parent": "#6sizef"
+    },
+    {
+      "@id": "#zvuxng",
+      "name": "Methods",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wxqyq4",
+      "name": "Surveys and social statistics",
+      "x": -330,
+      "y": 245,
+      "parent": "#zvuxng"
+    },
+    {
+      "@id": "#j4unfd",
+      "name": "Interviews and ethnography",
+      "x": -405,
+      "y": 156,
+      "parent": "#zvuxng"
+    },
+    {
+      "@id": "#d2ek64",
+      "name": "Comparing societies and history",
+      "x": -445,
+      "y": 54,
+      "parent": "#zvuxng"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 14,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

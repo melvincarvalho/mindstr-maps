@@ -1,0 +1,29 @@
+category: Society
+aliases: macroeconomic theory, macro economics, whole economy economics
+- Macroeconomics
+  - What it studies
+    - The economy as a whole
+    - Output, jobs and prices nationwide
+    - Contrast: microeconomics studies single markets
+  - Key measures
+    - [GDP: total value of output](https://en.wikipedia.org/wiki/Gross_domestic_product)
+    - Unemployment rate
+    - Inflation rate from price indices
+    - Trade balance and government debt
+  - Booms and busts
+    - [Business cycles of growth and recession](https://en.wikipedia.org/wiki/Business_cycle)
+    - Long-run growth from capital, technology, skills
+    - Financial crises can trigger deep slumps
+  - Monetary policy
+    - [Central banks set interest rates](https://en.wikipedia.org/wiki/Central_bank)
+    - Many target about 2% inflation
+    - Quantitative easing when rates hit zero
+  - Fiscal policy
+    - Government spending and taxation
+    - Deficits borrow to boost weak demand
+    - Automatic stabilisers like unemployment benefits
+  - Schools of thought
+    - [Keynes: demand drives short-run output](https://en.wikipedia.org/wiki/Keynesian_economics)
+    - Monetarists: control the money supply
+    - New classical: markets clear, expectations rational
+    - Modern models blend these ideas

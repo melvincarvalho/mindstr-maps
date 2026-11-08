@@ -1,0 +1,29 @@
+category: Philosophy and religion
+aliases: christian religion, christian faith, christians
+- Christianity
+  - Core beliefs
+    - One God as Father, Son and Spirit
+    - Jesus is the Son of God
+    - Death and resurrection bring salvation
+    - [Nicene Creed summarises the faith](https://en.wikipedia.org/wiki/Nicene_Creed)
+  - Jesus of Nazareth
+    - Jewish teacher in first-century Judea
+    - Crucified by the Romans around 30 CE
+    - [Sermon on the Mount: love your enemies](https://en.wikipedia.org/wiki/Sermon_on_the_Mount)
+  - Early history
+    - Apostles spread it across the Roman Empire
+    - Constantine legalised it in 313
+    - Councils settled doctrine and the canon
+  - Main branches
+    - Catholic Church, about half of Christians
+    - Eastern Orthodox split from Rome in 1054
+    - Protestants broke away from 1517
+    - Oriental Orthodox and other churches
+  - Practices
+    - Baptism marks entry into the faith
+    - [Eucharist or Holy Communion](https://en.wikipedia.org/wiki/Eucharist)
+    - Sunday worship and prayer
+    - Christmas and Easter are major festivals
+  - Christianity today
+    - [Largest religion, about 2.4 billion followers](https://en.wikipedia.org/wiki/Christianity_by_country)
+    - Growth centred in Africa and Latin America

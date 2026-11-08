@@ -1,0 +1,30 @@
+category: History
+aliases: byzantium, eastern roman empire, byzantine history
+- Byzantine Empire
+  - What it was
+    - Eastern half of the Roman Empire
+    - Called themselves Romans, spoke Greek
+    - Lasted about 1,000 years after Rome
+  - [Constantinople, the capital](https://en.wikipedia.org/wiki/Constantinople)
+    - Founded by Constantine in 330
+    - Theodosian Walls defended it for centuries
+    - Controlled trade between Europe and Asia
+  - [Justinian's golden age](https://en.wikipedia.org/wiki/Justinian_I)
+    - Ruled 527–565 with Empress Theodora
+    - Reconquered Italy and North Africa
+    - Justinian Code organised Roman law
+    - [Hagia Sophia completed in 537](https://en.wikipedia.org/wiki/Hagia_Sophia)
+  - Faith and culture
+    - Emperor head of church and state
+    - Iconoclasm disputes over religious images
+    - Split from Rome in 1054
+    - Mosaics, icons and domed churches
+  - Long decline
+    - Lost Syria and Egypt to Arab conquests
+    - Defeat by Seljuks at Manzikert, 1071
+    - Fourth Crusade sacked Constantinople, 1204
+  - Fall and legacy
+    - [Ottomans captured Constantinople in 1453](https://en.wikipedia.org/wiki/Fall_of_Constantinople)
+    - Preserved Greek classics for the Renaissance
+    - Spread Orthodox Christianity to Russia
+    - Cyrillic alphabet came from Byzantine missionaries

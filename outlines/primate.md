@@ -1,0 +1,31 @@
+category: Science
+aliases: primates, primate species, monkeys and apes
+- Primate
+  - What makes a primate
+    - Grasping hands, most with opposable thumbs
+    - Forward-facing eyes give depth vision
+    - Large brains for body size
+    - Long childhoods and few offspring
+  - Two main groups
+    - [Strepsirrhines: lemurs, lorises and galagos](https://en.wikipedia.org/wiki/Strepsirrhini)
+    - Haplorhines: tarsiers, monkeys and apes
+    - Over 500 living species
+  - Monkeys
+    - New World monkeys: Central and South America
+    - Some New World monkeys grip with tails
+    - Old World monkeys: Africa and Asia
+    - Baboons and macaques live in troops
+  - Apes
+    - [Gibbons are the small, swinging apes](https://en.wikipedia.org/wiki/Gibbon)
+    - Orangutans live in Borneo and Sumatra
+    - Gorillas are the largest primates
+    - [Chimpanzees and bonobos: our closest relatives](https://en.wikipedia.org/wiki/Chimpanzee)
+    - Humans are apes too
+  - Life and behaviour
+    - Complex social groups bonded by grooming
+    - Chimps and capuchins use tools
+    - Most live in tropical forests
+  - Conservation
+    - About 60% of species threatened
+    - Habitat loss from logging and farming
+    - Hunting for bushmeat and pet trade

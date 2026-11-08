@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Human history",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#qqnm7e",
+      "name": "Prehistory",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6raahi",
+      "name": "Homo sapiens arises about 300,000 years ago",
+      "x": -504,
+      "y": -62,
+      "parent": "#qqnm7e"
+    },
+    {
+      "@id": "#3fft5z",
+      "name": "Migrations out of Africa reach every continent",
+      "x": -401,
+      "y": -163,
+      "parent": "#qqnm7e"
+    },
+    {
+      "@id": "#x58i4x",
+      "name": "Stone tools, fire and cave art",
+      "x": -318,
+      "y": -255,
+      "parent": "#qqnm7e"
+    },
+    {
+      "@id": "#ye2pny",
+      "name": "Farming and the first cities",
+      "x": -60,
+      "y": -310,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rtajs4",
+      "name": "Farming begins about 10,000 BC",
+      "x": -231,
+      "y": -363,
+      "link": "https://en.wikipedia.org/wiki/Neolithic_Revolution",
+      "parent": "#ye2pny"
+    },
+    {
+      "@id": "#3aqcuz",
+      "name": "Mesopotamia, Egypt, Indus Valley and China",
+      "x": -82,
+      "y": -420,
+      "parent": "#ye2pny"
+    },
+    {
+      "@id": "#ed98fz",
+      "name": "Writing invented in Sumer, about 3200 BC",
+      "x": 91,
+      "y": -468,
+      "parent": "#ye2pny"
+    },
+    {
+      "@id": "#bqf9i4",
+      "name": "Classical empires, about 500 BC–AD 500",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tvz89i",
+      "name": "Greece and Rome in the Mediterranean",
+      "x": 231,
+      "y": -363,
+      "parent": "#bqf9i4"
+    },
+    {
+      "@id": "#926c44",
+      "name": "Persian, Maurya and Han empires",
+      "x": 318,
+      "y": -255,
+      "parent": "#bqf9i4"
+    },
+    {
+      "@id": "#tn29xd",
+      "name": "Major religions and philosophies spread",
+      "x": 455,
+      "y": -184,
+      "parent": "#bqf9i4"
+    },
+    {
+      "@id": "#5dynef",
+      "name": "Middle Ages, about 500–1500",
+      "x": 219,
+      "y": 57,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9djmq7",
+      "name": "Islamic Golden Age centred on Baghdad",
+      "x": 444,
+      "y": -56,
+      "parent": "#5dynef"
+    },
+    {
+      "@id": "#fkz9vd",
+      "name": "Mongol Empire spans Eurasia",
+      "x": 524,
+      "y": 64,
+      "link": "https://en.wikipedia.org/wiki/Mongol_Empire",
+      "parent": "#5dynef"
+    },
+    {
+      "@id": "#vkkn8e",
+      "name": "Black Death kills millions in the 1340s",
+      "x": 401,
+      "y": 163,
+      "parent": "#5dynef"
+    },
+    {
+      "@id": "#bhmt5m",
+      "name": "Song China, Mali, Aztecs and Incas",
+      "x": 318,
+      "y": 255,
+      "parent": "#5dynef"
+    },
+    {
+      "@id": "#f6qs4n",
+      "name": "Early modern era, about 1500–1800",
+      "x": 60,
+      "y": 310,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#emncr6",
+      "name": "Columbus's voyages link Old and New Worlds",
+      "x": 231,
+      "y": 363,
+      "parent": "#f6qs4n"
+    },
+    {
+      "@id": "#ccnatj",
+      "name": "Atlantic slave trade enslaves about 12 million",
+      "x": 82,
+      "y": 420,
+      "link": "https://en.wikipedia.org/wiki/Atlantic_slave_trade",
+      "parent": "#f6qs4n"
+    },
+    {
+      "@id": "#8d3vnp",
+      "name": "Printing press and Scientific Revolution",
+      "x": -91,
+      "y": 468,
+      "parent": "#f6qs4n"
+    },
+    {
+      "@id": "#ev3xrd",
+      "name": "Modern era",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#x5qn84",
+      "name": "Industrial Revolution begins in Britain",
+      "x": -231,
+      "y": 363,
+      "link": "https://en.wikipedia.org/wiki/Industrial_Revolution",
+      "parent": "#ev3xrd"
+    },
+    {
+      "@id": "#mywfzc",
+      "name": "Two world wars, 1914–1945",
+      "x": -318,
+      "y": 255,
+      "parent": "#ev3xrd"
+    },
+    {
+      "@id": "#74c9dc",
+      "name": "Decolonisation and the Cold War",
+      "x": -401,
+      "y": 163,
+      "parent": "#ev3xrd"
+    },
+    {
+      "@id": "#gm3e5c",
+      "name": "World population passes 8 billion, 2022",
+      "x": -444,
+      "y": 56,
+      "parent": "#ev3xrd"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

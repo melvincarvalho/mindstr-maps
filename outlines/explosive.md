@@ -1,0 +1,27 @@
+category: Technology
+aliases: explosives, explosive material, how explosives work
+- Explosive
+  - What it is
+    - A fast chemical reaction releasing gas
+    - Sudden heat and pressure form a blast
+    - [Low explosives burn; high explosives detonate](https://en.wikipedia.org/wiki/Detonation)
+    - Power compared as TNT equivalent
+  - History
+    - [Gunpowder invented in China, 9th century](https://en.wikipedia.org/wiki/Gunpowder)
+    - [Nobel patented dynamite, 1867](https://en.wikipedia.org/wiki/Dynamite)
+    - TNT adopted for shells, early 1900s
+  - Peaceful uses
+    - Mining and quarrying rock
+    - [Controlled demolition of buildings](https://en.wikipedia.org/wiki/Demolition)
+    - Tunnelling and road building
+    - Fireworks and avalanche control
+    - Seismic surveys for oil and gas
+  - Military use and harm
+    - Shells, bombs and mines
+    - [Landmines still kill civilians](https://en.wikipedia.org/wiki/Land_mine)
+    - Ottawa Treaty banned anti-personnel mines, 1997
+  - Law and safety
+    - Licences needed to make, store, use
+    - Only trained blasters handle commercial explosives
+    - Bomb disposal teams handle suspect items
+    - Never touch suspicious items; call police

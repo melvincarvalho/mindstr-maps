@@ -1,0 +1,308 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Andes",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#znk49p",
+      "name": "Where they are",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qbfjxv",
+      "name": "Longest continental mountain range",
+      "x": -484,
+      "y": -65,
+      "link": "https://en.wikipedia.org/wiki/List_of_mountain_ranges",
+      "parent": "#znk49p"
+    },
+    {
+      "@id": "#j77tc7",
+      "name": "About 7,000 km along South America",
+      "x": -396,
+      "y": -171,
+      "parent": "#znk49p"
+    },
+    {
+      "@id": "#pn47p8",
+      "name": "Runs through seven countries",
+      "x": -305,
+      "y": -265,
+      "parent": "#znk49p"
+    },
+    {
+      "@id": "#bb3fgz",
+      "name": "How they formed",
+      "x": -19,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d8qjbg",
+      "name": "Nazca Plate dives under South America",
+      "x": -181,
+      "y": -330,
+      "link": "https://en.wikipedia.org/wiki/Nazca_Plate",
+      "parent": "#bb3fgz"
+    },
+    {
+      "@id": "#89m8f7",
+      "name": "Many active volcanoes",
+      "x": -41,
+      "y": -391,
+      "parent": "#bb3fgz"
+    },
+    {
+      "@id": "#yncwq9",
+      "name": "Frequent large earthquakes",
+      "x": 140,
+      "y": -445,
+      "parent": "#bb3fgz"
+    },
+    {
+      "@id": "#dye9qf",
+      "name": "Peaks and plateaus",
+      "x": 202,
+      "y": -88,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a5cqgw",
+      "name": "Aconcagua, 6,961 m, highest outside Asia",
+      "x": 246,
+      "y": -301,
+      "link": "https://en.wikipedia.org/wiki/Aconcagua",
+      "parent": "#dye9qf"
+    },
+    {
+      "@id": "#a26zzy",
+      "name": "Altiplano, a high plateau",
+      "x": 355,
+      "y": -221,
+      "parent": "#dye9qf"
+    },
+    {
+      "@id": "#8q5sfw",
+      "name": "Lake Titicaca on Peru–Bolivia border",
+      "x": 502,
+      "y": -137,
+      "parent": "#dye9qf"
+    },
+    {
+      "@id": "#76dv8s",
+      "name": "Atacama Desert on western flank",
+      "x": 450,
+      "y": 0,
+      "parent": "#dye9qf"
+    },
+    {
+      "@id": "#2vbba2",
+      "name": "Life",
+      "x": 182,
+      "y": 113,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#s8h8bp",
+      "name": "Llamas, alpacas and vicuñas",
+      "x": 426,
+      "y": 117,
+      "parent": "#2vbba2"
+    },
+    {
+      "@id": "#s5uqnx",
+      "name": "Andean condor soars overhead",
+      "x": 355,
+      "y": 221,
+      "parent": "#2vbba2"
+    },
+    {
+      "@id": "#t2dhxc",
+      "name": "Potatoes first domesticated here",
+      "x": 246,
+      "y": 301,
+      "parent": "#2vbba2"
+    },
+    {
+      "@id": "#v8whdz",
+      "name": "People and history",
+      "x": -56,
+      "y": 178,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#439xhp",
+      "name": "Inca Empire centred on Cusco",
+      "x": 110,
+      "y": 349,
+      "link": "https://en.wikipedia.org/wiki/Inca_Empire",
+      "parent": "#v8whdz"
+    },
+    {
+      "@id": "#w4u8qh",
+      "name": "Machu Picchu built in 1400s",
+      "x": -43,
+      "y": 407,
+      "parent": "#v8whdz"
+    },
+    {
+      "@id": "#acb8nb",
+      "name": "Quechua and Aymara still widely spoken",
+      "x": -253,
+      "y": 465,
+      "parent": "#v8whdz"
+    },
+    {
+      "@id": "#xrdwxf",
+      "name": "La Paz and Quito are high capitals",
+      "x": -305,
+      "y": 265,
+      "parent": "#v8whdz"
+    },
+    {
+      "@id": "#ktd9sa",
+      "name": "Today",
+      "x": -218,
+      "y": 60,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#66dpud",
+      "name": "Copper, lithium and silver mining",
+      "x": -396,
+      "y": 171,
+      "parent": "#ktd9sa"
+    },
+    {
+      "@id": "#hj3wb5",
+      "name": "Glaciers supply water but are shrinking",
+      "x": -484,
+      "y": 65,
+      "parent": "#ktd9sa"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

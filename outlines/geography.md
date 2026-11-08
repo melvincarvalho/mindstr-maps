@@ -1,0 +1,28 @@
+category: Geography
+aliases: what is geography, geography explained, study of geography
+- Geography
+  - Two main branches
+    - [Physical: landforms, climate, rivers](https://en.wikipedia.org/wiki/Physical_geography)
+    - [Human: people, cities, economies](https://en.wikipedia.org/wiki/Human_geography)
+    - Environmental geography links the two
+  - Key questions geographers ask
+    - Where is it?
+    - Why is it there?
+    - How does place shape life?
+  - Shape of the land
+    - Plate tectonics builds mountains and oceans
+    - Erosion by water, ice and wind
+    - Oceans cover about 71% of Earth
+  - Climate and living things
+    - Latitude sets how much sunlight arrives
+    - Biomes: desert, rainforest, tundra, grassland
+    - Ocean currents move heat around
+  - People on the planet
+    - About 8 billion people, unevenly spread
+    - Over half now live in cities
+    - Migration, trade and borders connect places
+  - Tools of the trade
+    - [Maps and map projections](https://en.wikipedia.org/wiki/Map_projection)
+    - Latitude and longitude locate anywhere
+    - [GIS layers data on maps](https://en.wikipedia.org/wiki/Geographic_information_system)
+    - Satellites and remote sensing

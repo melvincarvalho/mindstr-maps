@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Abstract algebra",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ehus4b",
+      "name": "Studying structure, not just numbers",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jjrjsm",
+      "name": "Sets with operations obeying rules",
+      "x": -585,
+      "y": -65,
+      "parent": "#ehus4b"
+    },
+    {
+      "@id": "#mny2ka",
+      "name": "Prove once, true everywhere it applies",
+      "x": -409,
+      "y": -150,
+      "parent": "#ehus4b"
+    },
+    {
+      "@id": "#7vmwxd",
+      "name": "Symmetry made precise",
+      "x": -340,
+      "y": -236,
+      "parent": "#ehus4b"
+    },
+    {
+      "@id": "#usw8hg",
+      "name": "Groups",
+      "x": -33,
+      "y": -182,
+      "link": "https://en.wikipedia.org/wiki/Group_%28mathematics%29",
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dvuy5h",
+      "name": "One operation, an identity, inverses",
+      "x": -243,
+      "y": -303,
+      "parent": "#usw8hg"
+    },
+    {
+      "@id": "#vrrjah",
+      "name": "Rotations of a square form a group",
+      "x": -133,
+      "y": -360,
+      "parent": "#usw8hg"
+    },
+    {
+      "@id": "#yyuxyt",
+      "name": "Clock arithmetic adds hours modulo 12",
+      "x": 0,
+      "y": -408,
+      "parent": "#usw8hg"
+    },
+    {
+      "@id": "#2qfkgu",
+      "name": "Rubik's Cube moves form a group",
+      "x": 175,
+      "y": -465,
+      "parent": "#usw8hg"
+    },
+    {
+      "@id": "#au7kdm",
+      "name": "Rings and fields",
+      "x": 193,
+      "y": -99,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hs3j56",
+      "name": "Rings add and multiply, like integers",
+      "x": 243,
+      "y": -303,
+      "parent": "#au7kdm"
+    },
+    {
+      "@id": "#7cnv4r",
+      "name": "Fields also divide, like fractions",
+      "x": 340,
+      "y": -236,
+      "parent": "#au7kdm"
+    },
+    {
+      "@id": "#7d97mz",
+      "name": "Polynomials form a ring too",
+      "x": 409,
+      "y": -150,
+      "parent": "#au7kdm"
+    },
+    {
+      "@id": "#vbrqhs",
+      "name": "Finite fields power error-correcting codes",
+      "x": 445,
+      "y": -51,
+      "link": "https://en.wikipedia.org/wiki/Finite_field",
+      "parent": "#au7kdm"
+    },
+    {
+      "@id": "#xe6yqj",
+      "name": "Key ideas",
+      "x": 193,
+      "y": 99,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uxmgji",
+      "name": "Homomorphisms preserve the structure",
+      "x": 445,
+      "y": 51,
+      "parent": "#xe6yqj"
+    },
+    {
+      "@id": "#e9a6qw",
+      "name": "Isomorphic means identical in disguise",
+      "x": 409,
+      "y": 150,
+      "parent": "#xe6yqj"
+    },
+    {
+      "@id": "#trbyck",
+      "name": "Lagrange: subgroup sizes divide group size",
+      "x": 340,
+      "y": 236,
+      "parent": "#xe6yqj"
+    },
+    {
+      "@id": "#iafpch",
+      "name": "Vector spaces and modules",
+      "x": 243,
+      "y": 303,
+      "parent": "#xe6yqj"
+    },
+    {
+      "@id": "#6j8g7g",
+      "name": "History",
+      "x": -33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xahtd9",
+      "name": "Galois linked equations to symmetry",
+      "x": 133,
+      "y": 360,
+      "link": "https://en.wikipedia.org/wiki/Galois_theory",
+      "parent": "#6j8g7g"
+    },
+    {
+      "@id": "#6hc45u",
+      "name": "No radical formula for general quintics",
+      "x": 0,
+      "y": 408,
+      "parent": "#6j8g7g"
+    },
+    {
+      "@id": "#henyfu",
+      "name": "Cayley defined abstract groups, 1854",
+      "x": -175,
+      "y": 465,
+      "parent": "#6j8g7g"
+    },
+    {
+      "@id": "#mz53zz",
+      "name": "Emmy Noether shaped the modern subject",
+      "x": -243,
+      "y": 303,
+      "parent": "#6j8g7g"
+    },
+    {
+      "@id": "#yzbpp8",
+      "name": "Uses",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r3s8y2",
+      "name": "Public-key cryptography relies on groups",
+      "x": -340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/Public-key_cryptography",
+      "parent": "#yzbpp8"
+    },
+    {
+      "@id": "#j9n4n2",
+      "name": "Crystals and molecules classified by symmetry",
+      "x": -409,
+      "y": 150,
+      "parent": "#yzbpp8"
+    },
+    {
+      "@id": "#muswvt",
+      "name": "Particle physics built on symmetry groups",
+      "x": -465,
+      "y": 53,
+      "parent": "#yzbpp8"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

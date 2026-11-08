@@ -1,0 +1,31 @@
+category: Mathematics
+aliases: basic arithmetic, elementary arithmetic, the four operations
+- Arithmetic
+  - The four operations
+    - [Addition combines amounts](https://en.wikipedia.org/wiki/Addition)
+    - Subtraction finds the difference
+    - Multiplication is repeated addition
+    - Division shares into equal groups
+  - Kinds of numbers
+    - Whole numbers for counting
+    - Negative numbers below zero
+    - Fractions and decimals for parts
+    - Percentages are hundredths
+  - Rules that always hold
+    - Order doesn't matter when adding or multiplying
+    - Multiplication distributes over addition
+    - [Order of operations: brackets first](https://en.wikipedia.org/wiki/Order_of_operations)
+    - Dividing by zero is undefined
+  - Written methods
+    - [Place value: ones, tens, hundreds](https://en.wikipedia.org/wiki/Positional_notation)
+    - Carrying and borrowing in columns
+    - Long multiplication and long division
+  - History
+    - Tally marks on bones, Stone Age
+    - Babylonians counted in base 60
+    - [Indian digits and zero spread westward](https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system)
+    - Fibonacci popularised them in Europe, 1202
+  - Everyday uses
+    - Shopping, budgets and giving change
+    - Scaling recipes with ratios
+    - Mental tricks: round, then adjust

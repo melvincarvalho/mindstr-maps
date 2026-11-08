@@ -1,0 +1,28 @@
+category: People
+aliases: king of pop, michael jackson singer, michael joseph jackson
+- Michael Jackson
+  - Early life
+    - Born 1958 in Gary, Indiana
+    - [Lead singer of the Jackson 5](https://en.wikipedia.org/wiki/The_Jackson_5)
+    - Motown hits like "I Want You Back"
+  - Solo superstar
+    - Off the Wall (1979) with Quincy Jones
+    - [Thriller (1982), best-selling album ever](https://en.wikipedia.org/wiki/Thriller_%28album%29)
+    - Bad (1987) and Dangerous (1991)
+  - Videos and dance
+    - Videos broke racial barriers on MTV
+    - [Moonwalk debuted at Motown 25, 1983](https://en.wikipedia.org/wiki/Moonwalk_%28dance%29)
+    - Thriller short film, 1983
+  - Fame and public life
+    - Dubbed the "King of Pop"
+    - Neverland Ranch in California
+    - Co-wrote "We Are the World", 1985
+  - Allegations
+    - Child sexual abuse allegations from 1993
+    - Acquitted on all charges, 2005
+    - Leaving Neverland (2019) renewed allegations
+  - Death and legacy
+    - [Died 2009 of a propofol overdose](https://en.wikipedia.org/wiki/Death_of_Michael_Jackson)
+    - Doctor convicted of involuntary manslaughter
+    - Among best-selling artists of all time
+    - Rock Hall inductee twice

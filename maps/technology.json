@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Technology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#uvnce8",
+      "name": "What technology is",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aw89xp",
+      "name": "Applying knowledge to practical problems",
+      "x": -525,
+      "y": -62,
+      "parent": "#uvnce8"
+    },
+    {
+      "@id": "#r6mmj3",
+      "name": "Tools, machines, techniques and systems",
+      "x": -405,
+      "y": -156,
+      "parent": "#uvnce8"
+    },
+    {
+      "@id": "#z3a5n2",
+      "name": "Distinct from science, but feeds it",
+      "x": -330,
+      "y": -245,
+      "parent": "#uvnce8"
+    },
+    {
+      "@id": "#hctebg",
+      "name": "Prehistoric beginnings",
+      "x": -51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7pjbk4",
+      "name": "Stone tools over 3 million years old",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Stone_tool",
+      "parent": "#hctebg"
+    },
+    {
+      "@id": "#g4n8hg",
+      "name": "Control of fire for warmth, cooking",
+      "x": -104,
+      "y": -367,
+      "parent": "#hctebg"
+    },
+    {
+      "@id": "#zes5ed",
+      "name": "Farming began about 12,000 years ago",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Neolithic_Revolution",
+      "parent": "#hctebg"
+    },
+    {
+      "@id": "#tbbn2f",
+      "name": "Great turning points",
+      "x": 190,
+      "y": -104,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bz2fgn",
+      "name": "Bronze, then iron, metalworking",
+      "x": 234,
+      "y": -485,
+      "parent": "#tbbn2f"
+    },
+    {
+      "@id": "#tj9bgp",
+      "name": "Printing press spread knowledge, 1440s",
+      "x": 281,
+      "y": -281,
+      "parent": "#tbbn2f"
+    },
+    {
+      "@id": "#rxjjca",
+      "name": "Steam power drove the Industrial Revolution",
+      "x": 372,
+      "y": -203,
+      "link": "https://en.wikipedia.org/wiki/Industrial_Revolution",
+      "parent": "#tbbn2f"
+    },
+    {
+      "@id": "#m5aysg",
+      "name": "Electricity and telegraph, 1800s",
+      "x": 487,
+      "y": -121,
+      "parent": "#tbbn2f"
+    },
+    {
+      "@id": "#nnq6yp",
+      "name": "Computers and the internet, 1900s",
+      "x": 450,
+      "y": 0,
+      "parent": "#tbbn2f"
+    },
+    {
+      "@id": "#jcrpmz",
+      "name": "How new technology spreads",
+      "x": 190,
+      "y": 104,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z9ugws",
+      "name": "Invention, then innovation, then adoption",
+      "x": 544,
+      "y": 136,
+      "parent": "#jcrpmz"
+    },
+    {
+      "@id": "#q2wnzk",
+      "name": "Patents protect and reward inventors",
+      "x": 372,
+      "y": 203,
+      "parent": "#jcrpmz"
+    },
+    {
+      "@id": "#ftbieh",
+      "name": "Shared standards let devices interconnect",
+      "x": 281,
+      "y": 281,
+      "parent": "#jcrpmz"
+    },
+    {
+      "@id": "#q2sfky",
+      "name": "Effects on society",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fbaxsd",
+      "name": "Higher productivity and living standards",
+      "x": 164,
+      "y": 335,
+      "parent": "#q2sfky"
+    },
+    {
+      "@id": "#kahvh2",
+      "name": "Some jobs automated, new ones created",
+      "x": 38,
+      "y": 391,
+      "parent": "#q2sfky"
+    },
+    {
+      "@id": "#f8bc94",
+      "name": "Pollution and climate impacts",
+      "x": -124,
+      "y": 447,
+      "parent": "#q2sfky"
+    },
+    {
+      "@id": "#xk4nnf",
+      "name": "Privacy and surveillance concerns",
+      "x": -225,
+      "y": 312,
+      "parent": "#q2sfky"
+    },
+    {
+      "@id": "#8f3gwb",
+      "name": "Today's frontiers",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#x4q6jf",
+      "name": "Artificial intelligence",
+      "x": -330,
+      "y": 245,
+      "link": "https://en.wikipedia.org/wiki/Artificial_intelligence",
+      "parent": "#8f3gwb"
+    },
+    {
+      "@id": "#q2jxin",
+      "name": "Renewable energy and batteries",
+      "x": -405,
+      "y": 156,
+      "parent": "#8f3gwb"
+    },
+    {
+      "@id": "#w4bdc8",
+      "name": "Biotechnology and gene editing",
+      "x": -485,
+      "y": 58,
+      "parent": "#8f3gwb"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 9,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

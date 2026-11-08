@@ -1,0 +1,28 @@
+category: History
+aliases: han china, han empire, han period, han chinese dynasty
+- Han dynasty
+  - Rise and dates
+    - [Liu Bang founded it, 202 BC](https://en.wikipedia.org/wiki/Emperor_Gaozu_of_Han)
+    - Followed the short-lived Qin dynasty
+    - Lasted until AD 220
+  - Two halves
+    - Western Han, capital Chang'an
+    - Wang Mang's Xin interrupted, AD 9–23
+    - Eastern Han, capital Luoyang
+  - Government
+    - Confucianism became state ideology
+    - [Emperor Wu expanded the empire](https://en.wikipedia.org/wiki/Emperor_Wu_of_Han)
+    - Officials chosen partly by merit
+    - State monopolies on salt and iron
+  - Trade and expansion
+    - [Zhang Qian's missions opened the Silk Road](https://en.wikipedia.org/wiki/Silk_Road)
+    - Long wars against the Xiongnu nomads
+    - Commanderies in Korea and northern Vietnam
+  - Inventions and learning
+    - [Cai Lun improved papermaking, AD 105](https://en.wikipedia.org/wiki/Cai_Lun)
+    - Zhang Heng built a seismoscope
+    - [Sima Qian's Records of the Grand Historian](https://en.wikipedia.org/wiki/Sima_Qian)
+  - Fall and legacy
+    - Yellow Turban Rebellion, AD 184
+    - Split into the Three Kingdoms
+    - Han Chinese named after the dynasty

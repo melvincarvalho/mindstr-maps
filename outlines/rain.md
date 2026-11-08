@@ -1,0 +1,30 @@
+category: Science
+aliases: rainfall, why does it rain, how rain forms
+- Rain
+  - How rain forms
+    - Rising air cools, vapour condenses
+    - Droplets form on dust and salt
+    - Droplets collide and grow heavy
+    - Much rain starts as melting snow
+  - What makes air rise
+    - Sun-heated ground: showers and thunderstorms
+    - Weather fronts: long steady rain
+    - [Mountains force air up](https://en.wikipedia.org/wiki/Orographic_lift)
+  - Kinds of rain
+    - Drizzle: tiny drops
+    - Showers: short and heavy
+    - [Freezing rain coats surfaces in ice](https://en.wikipedia.org/wiki/Freezing_rain)
+    - [Acid rain from air pollution](https://en.wikipedia.org/wiki/Acid_rain)
+  - Measuring and forecasting
+    - [Rain gauge measures millimetres fallen](https://en.wikipedia.org/wiki/Rain_gauge)
+    - Weather radar tracks rain live
+    - Global average about 1 metre a year
+  - Where rain falls
+    - Rainforests near the equator
+    - Rain shadows behind mountains are dry
+    - [Monsoons bring seasonal downpours](https://en.wikipedia.org/wiki/Monsoon)
+    - Deserts get under 250 mm yearly
+  - Why it matters
+    - Refills rivers, lakes and groundwater
+    - Farming depends on reliable rain
+    - Too much causes floods, too little drought

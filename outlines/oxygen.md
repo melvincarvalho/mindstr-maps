@@ -1,0 +1,28 @@
+category: Science
+aliases: oxygen element, o2 gas, element 8
+- Oxygen
+  - Basics
+    - Atomic number 8, symbol O
+    - Colourless gas, pale blue as liquid
+    - Highly reactive; supports burning
+    - [Found by Scheele and Priestley, 1770s](https://en.wikipedia.org/wiki/Joseph_Priestley)
+  - Where it's found
+    - About 21% of the air
+    - Most abundant element in Earth's crust
+    - Makes up 89% of water by mass
+    - Third most abundant in universe
+  - Role in life
+    - Cells burn food with it for energy
+    - About 65% of human body mass
+    - [Photosynthesis releases it from water](https://en.wikipedia.org/wiki/Photosynthesis)
+  - Air history
+    - [Great Oxidation Event, 2.4 billion years ago](https://en.wikipedia.org/wiki/Great_Oxidation_Event)
+    - Made by early cyanobacteria
+  - [Ozone (O₃)](https://en.wikipedia.org/wiki/Ozone)
+    - Ozone layer blocks UV radiation
+    - Ground-level ozone is a pollutant
+  - Uses
+    - Steelmaking burns off impurities
+    - Medical oxygen for patients
+    - Welding and cutting torches
+    - Rocket oxidiser as liquid oxygen

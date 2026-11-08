@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Portuguese language",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#bxr3ud",
+      "name": "Where it's spoken",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p4q63v",
+      "name": "About 260 million speakers worldwide",
+      "x": -445,
+      "y": -51,
+      "parent": "#bxr3ud"
+    },
+    {
+      "@id": "#ihnac7",
+      "name": "Brazil has over 200 million",
+      "x": -409,
+      "y": -150,
+      "parent": "#bxr3ud"
+    },
+    {
+      "@id": "#sfuati",
+      "name": "Portugal, Angola, Mozambique and more",
+      "x": -340,
+      "y": -236,
+      "parent": "#bxr3ud"
+    },
+    {
+      "@id": "#7j9376",
+      "name": "Official in nine CPLP countries",
+      "x": -243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Community_of_Portuguese_Language_Countries",
+      "parent": "#bxr3ud"
+    },
+    {
+      "@id": "#56wu5k",
+      "name": "History",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j9gmqh",
+      "name": "Grew from Latin in northwest Iberia",
+      "x": -133,
+      "y": -360,
+      "parent": "#56wu5k"
+    },
+    {
+      "@id": "#eruh8a",
+      "name": "Galician-Portuguese poetry, 1200s",
+      "x": 0,
+      "y": -408,
+      "link": "https://en.wikipedia.org/wiki/Galician-Portuguese",
+      "parent": "#56wu5k"
+    },
+    {
+      "@id": "#eax89i",
+      "name": "Spread by voyages from the 1400s",
+      "x": 175,
+      "y": -465,
+      "parent": "#56wu5k"
+    },
+    {
+      "@id": "#in7sjx",
+      "name": "Camões wrote The Lusiads, 1572",
+      "x": 243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Lu%C3%ADs_de_Cam%C3%B5es",
+      "parent": "#56wu5k"
+    },
+    {
+      "@id": "#abf84r",
+      "name": "Family",
+      "x": 209,
+      "y": -76,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tqq9n3",
+      "name": "Romance branch of Indo-European",
+      "x": 340,
+      "y": -236,
+      "parent": "#abf84r"
+    },
+    {
+      "@id": "#qgi83f",
+      "name": "Closest relative is Galician",
+      "x": 409,
+      "y": -150,
+      "parent": "#abf84r"
+    },
+    {
+      "@id": "#scpxbq",
+      "name": "Partly understandable to Spanish speakers",
+      "x": 485,
+      "y": -55,
+      "parent": "#abf84r"
+    },
+    {
+      "@id": "#v2pbct",
+      "name": "Sounds and writing",
+      "x": 193,
+      "y": 99,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4anuvj",
+      "name": "Nasal vowels, as in pão",
+      "x": 445,
+      "y": 51,
+      "parent": "#v2pbct"
+    },
+    {
+      "@id": "#mp9wez",
+      "name": "Latin alphabet with ç, ã, õ",
+      "x": 409,
+      "y": 150,
+      "parent": "#v2pbct"
+    },
+    {
+      "@id": "#8vses9",
+      "name": "European speech swallows unstressed vowels",
+      "x": 340,
+      "y": 236,
+      "parent": "#v2pbct"
+    },
+    {
+      "@id": "#xga6y5",
+      "name": "1990 spelling agreement unified spelling",
+      "x": 243,
+      "y": 303,
+      "parent": "#v2pbct"
+    },
+    {
+      "@id": "#umm9qb",
+      "name": "Grammar highlights",
+      "x": -33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#76r6f6",
+      "name": "Two verbs for \"to be\": ser, estar",
+      "x": 133,
+      "y": 360,
+      "parent": "#umm9qb"
+    },
+    {
+      "@id": "#drvfme",
+      "name": "Nouns are masculine or feminine",
+      "x": 0,
+      "y": 408,
+      "parent": "#umm9qb"
+    },
+    {
+      "@id": "#2bvnt2",
+      "name": "Personal infinitive takes person endings",
+      "x": -175,
+      "y": 465,
+      "parent": "#umm9qb"
+    },
+    {
+      "@id": "#bb86s6",
+      "name": "Future subjunctive still in everyday use",
+      "x": -243,
+      "y": 303,
+      "parent": "#umm9qb"
+    },
+    {
+      "@id": "#6mycg3",
+      "name": "Tips for learners",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nc7exz",
+      "name": "Choose Brazilian or European Portuguese",
+      "x": -340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/Brazilian_Portuguese",
+      "parent": "#6mycg3"
+    },
+    {
+      "@id": "#dxea3u",
+      "name": "Você is common in Brazil",
+      "x": -409,
+      "y": 150,
+      "parent": "#6mycg3"
+    },
+    {
+      "@id": "#8vddtk",
+      "name": "Spanish helps, but false friends abound",
+      "x": -525,
+      "y": 59,
+      "parent": "#6mycg3"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

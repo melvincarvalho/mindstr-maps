@@ -1,0 +1,31 @@
+category: Life and home
+aliases: vegetables, veggies, veg, types of vegetables
+- Vegetable
+  - What counts as a vegetable
+    - A cooking term, not a botanical one
+    - Edible plant parts used in savoury dishes
+    - Tomatoes and peppers are botanically fruits
+  - Grouped by plant part
+    - Leaves: lettuce, spinach, cabbage
+    - Roots and tubers: carrots, potatoes
+    - Stems and shoots: celery, asparagus
+    - Flowers: broccoli, cauliflower, artichoke
+    - Bulbs: onions, garlic, leeks
+    - Seeds and pods: peas, beans, sweetcorn
+  - Why they matter for health
+    - [Rich in fibre, vitamins and minerals](https://en.wikipedia.org/wiki/Dietary_fiber)
+    - Low in calories, filling
+    - Linked to lower heart disease risk
+    - [WHO: 400 g fruit and veg daily](https://en.wikipedia.org/wiki/5_A_Day)
+  - Buying and storing
+    - Seasonal and local often tastes best
+    - Frozen vegetables keep nutrients well
+    - Most leafy greens chill in the fridge
+    - Keep potatoes and onions cool, dark
+  - Cooking them well
+    - Steam or roast to keep flavour
+    - Avoid boiling to mush
+    - Wash before eating, especially raw
+  - Growing your own
+    - [Start with easy salad leaves](https://en.wikipedia.org/wiki/Kitchen_garden)
+    - Rotate crops to avoid disease

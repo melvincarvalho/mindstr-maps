@@ -1,0 +1,329 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Atmosphere of Earth",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#qyiexa",
+      "name": "What air is made of",
+      "x": -174,
+      "y": -120,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bwd9a5",
+      "name": "Nitrogen about 78%",
+      "x": -445,
+      "y": -51,
+      "parent": "#qyiexa"
+    },
+    {
+      "@id": "#vqnxbw",
+      "name": "Oxygen about 21%",
+      "x": -409,
+      "y": -150,
+      "parent": "#qyiexa"
+    },
+    {
+      "@id": "#92u24q",
+      "name": "Argon just under 1%",
+      "x": -340,
+      "y": -236,
+      "parent": "#qyiexa"
+    },
+    {
+      "@id": "#h8wbyj",
+      "name": "Carbon dioxide about 0.04%",
+      "x": -243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Carbon_dioxide_in_Earth%27s_atmosphere",
+      "parent": "#qyiexa"
+    },
+    {
+      "@id": "#ijs623",
+      "name": "Water vapour varies, up to 4%",
+      "x": -133,
+      "y": -360,
+      "parent": "#qyiexa"
+    },
+    {
+      "@id": "#r3uhhb",
+      "name": "Layers, from the ground up",
+      "x": 151,
+      "y": -139,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ca9fdu",
+      "name": "Troposphere: weather, up to about 12 km",
+      "x": 0,
+      "y": -408,
+      "parent": "#r3uhhb"
+    },
+    {
+      "@id": "#eqb7vh",
+      "name": "Stratosphere holds the ozone layer",
+      "x": 175,
+      "y": -465,
+      "link": "https://en.wikipedia.org/wiki/Ozone_layer",
+      "parent": "#r3uhhb"
+    },
+    {
+      "@id": "#9airnm",
+      "name": "Mesosphere burns up meteors",
+      "x": 243,
+      "y": -303,
+      "parent": "#r3uhhb"
+    },
+    {
+      "@id": "#p4idre",
+      "name": "Thermosphere: auroras and the ISS",
+      "x": 340,
+      "y": -236,
+      "parent": "#r3uhhb"
+    },
+    {
+      "@id": "#mrmvu8",
+      "name": "Space conventionally begins at 100 km",
+      "x": 499,
+      "y": -185,
+      "link": "https://en.wikipedia.org/wiki/K%C3%A1rm%C3%A1n_line",
+      "parent": "#r3uhhb"
+    },
+    {
+      "@id": "#482ve6",
+      "name": "Exosphere fades into space",
+      "x": 445,
+      "y": -51,
+      "parent": "#r3uhhb"
+    },
+    {
+      "@id": "#itnbq6",
+      "name": "What it does for us",
+      "x": 193,
+      "y": 99,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xzcjut",
+      "name": "Supplies oxygen to breathe",
+      "x": 445,
+      "y": 51,
+      "parent": "#itnbq6"
+    },
+    {
+      "@id": "#fnjrpt",
+      "name": "Ozone blocks harmful ultraviolet light",
+      "x": 409,
+      "y": 150,
+      "parent": "#itnbq6"
+    },
+    {
+      "@id": "#tfzjn9",
+      "name": "Greenhouse effect keeps Earth about 33°C warmer",
+      "x": 340,
+      "y": 236,
+      "parent": "#itnbq6"
+    },
+    {
+      "@id": "#bpy6ba",
+      "name": "Spreads heat from equator to poles",
+      "x": 243,
+      "y": 303,
+      "parent": "#itnbq6"
+    },
+    {
+      "@id": "#nkp2qj",
+      "name": "Pressure and weather",
+      "x": -33,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b37243",
+      "name": "Air pressure halves about every 5.5 km",
+      "x": 133,
+      "y": 360,
+      "parent": "#nkp2qj"
+    },
+    {
+      "@id": "#ssgiw3",
+      "name": "Sea-level pressure about 1013 hPa",
+      "x": 0,
+      "y": 408,
+      "parent": "#nkp2qj"
+    },
+    {
+      "@id": "#txid53",
+      "name": "Uneven heating drives winds",
+      "x": -175,
+      "y": 465,
+      "parent": "#nkp2qj"
+    },
+    {
+      "@id": "#hyyqdq",
+      "name": "Water vapour forms clouds and rain",
+      "x": -243,
+      "y": 303,
+      "parent": "#nkp2qj"
+    },
+    {
+      "@id": "#uw4jm4",
+      "name": "How it formed and changes",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9j4887",
+      "name": "Early air had almost no oxygen",
+      "x": -340,
+      "y": 236,
+      "parent": "#uw4jm4"
+    },
+    {
+      "@id": "#48jkrf",
+      "name": "Oxygen rose about 2.4 billion years ago",
+      "x": -409,
+      "y": 150,
+      "link": "https://en.wikipedia.org/wiki/Great_Oxidation_Event",
+      "parent": "#uw4jm4"
+    },
+    {
+      "@id": "#uj5ast",
+      "name": "Humans have raised CO₂ by about 50%",
+      "x": -545,
+      "y": 61,
+      "parent": "#uw4jm4"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 7,
+      "end": 11
+    },
+    {
+      "start": 7,
+      "end": 12
+    },
+    {
+      "start": 7,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

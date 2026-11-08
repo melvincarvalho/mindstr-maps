@@ -1,0 +1,32 @@
+category: History
+aliases: science history, history of scientific discovery, history of the sciences
+- History of science
+  - Ancient roots
+    - Babylonian astronomy and mathematics
+    - Egyptian medicine and geometry
+    - Greeks seek natural causes: Aristotle, Archimedes
+  - Medieval science
+    - [Islamic Golden Age: algebra and optics](https://en.wikipedia.org/wiki/Islamic_Golden_Age)
+    - Indian numerals and zero spread west
+    - China: paper, printing, compass, gunpowder
+    - Universities founded in Europe
+  - [Scientific Revolution](https://en.wikipedia.org/wiki/Scientific_Revolution)
+    - Copernicus puts the Sun at centre, 1543
+    - Galileo's telescope observations, 1610
+    - Newton's laws and gravity, 1687
+    - Experiments and the scientific method
+  - Nineteenth century
+    - [Darwin's evolution by natural selection, 1859](https://en.wikipedia.org/wiki/On_the_Origin_of_Species)
+    - Mendeleev's periodic table, 1869
+    - Germ theory: Pasteur and Koch
+    - Maxwell unifies electricity and magnetism
+  - Twentieth century
+    - [Einstein's relativity, 1905 and 1915](https://en.wikipedia.org/wiki/Theory_of_relativity)
+    - Quantum mechanics reshapes physics
+    - DNA double helix, 1953
+    - Big Bang and the expanding universe
+  - Science as an institution
+    - Royal Society founded, 1660
+    - Peer-reviewed journals share results
+    - Big science: CERN and space agencies
+    - Kuhn's paradigm shifts, 1962

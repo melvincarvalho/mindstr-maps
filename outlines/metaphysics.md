@@ -1,0 +1,27 @@
+category: Philosophy and religion
+aliases: what is metaphysics, metaphysical questions, metaphysics philosophy
+- Metaphysics
+  - The basic questions
+    - What exists, and what is it like?
+    - [Named after Aristotle's book after Physics](https://en.wikipedia.org/wiki/Metaphysics_%28Aristotle%29)
+    - Leibniz: why something rather than nothing?
+  - Mind and body
+    - [Dualism: mind separate from body (Descartes)](https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism)
+    - Physicalism: the mind is brain activity
+    - Idealism: only minds are real (Berkeley)
+  - Universals and particulars
+    - Plato: perfect Forms exist apart
+    - Aristotle: forms exist only in things
+    - Nominalism: only individual things exist
+  - Identity and change
+    - [Ship of Theseus: replaced plank by plank](https://en.wikipedia.org/wiki/Ship_of_Theseus)
+    - Same person now as at age five?
+    - Heraclitus: everything flows and changes
+  - Causation and time
+    - Hume: we never observe causes directly
+    - Free will versus determinism
+    - Is the future already fixed?
+  - Possibility and necessity
+    - [Possible worlds: how things might be](https://en.wikipedia.org/wiki/Possible_world)
+    - Necessary truths could not be otherwise
+    - Contingent facts might have been different

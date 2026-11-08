@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Measurement",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#r55rns",
+      "name": "What measuring means",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#baspzq",
+      "name": "Comparing a quantity with a unit",
+      "x": -505,
+      "y": -60,
+      "parent": "#r55rns"
+    },
+    {
+      "@id": "#babggr",
+      "name": "Result: a number times a unit",
+      "x": -405,
+      "y": -156,
+      "parent": "#r55rns"
+    },
+    {
+      "@id": "#aknst3",
+      "name": "Length, mass, time, temperature and more",
+      "x": -330,
+      "y": -245,
+      "parent": "#r55rns"
+    },
+    {
+      "@id": "#9yt3ka",
+      "name": "Units and standards",
+      "x": -51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u35uvj",
+      "name": "Metric SI used almost worldwide",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/International_System_of_Units",
+      "parent": "#9yt3ka"
+    },
+    {
+      "@id": "#4a7xby",
+      "name": "Imperial and US customary units",
+      "x": -104,
+      "y": -367,
+      "parent": "#9yt3ka"
+    },
+    {
+      "@id": "#jurxy3",
+      "name": "Units now defined by physical constants",
+      "x": 42,
+      "y": -423,
+      "parent": "#9yt3ka"
+    },
+    {
+      "@id": "#qp9cr2",
+      "name": "History",
+      "x": 169,
+      "y": -125,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p25rfq",
+      "name": "Early units from body parts",
+      "x": 234,
+      "y": -485,
+      "parent": "#qp9cr2"
+    },
+    {
+      "@id": "#yspwxc",
+      "name": "Ancient Egypt's royal cubit",
+      "x": 281,
+      "y": -281,
+      "parent": "#qp9cr2"
+    },
+    {
+      "@id": "#3qnjiv",
+      "name": "Metric system born in 1790s France",
+      "x": 372,
+      "y": -203,
+      "parent": "#qp9cr2"
+    },
+    {
+      "@id": "#75wriq",
+      "name": "Metre Convention signed in 1875",
+      "x": 430,
+      "y": -106,
+      "parent": "#qp9cr2"
+    },
+    {
+      "@id": "#z2234v",
+      "name": "Measuring tools",
+      "x": 207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xijvcw",
+      "name": "Rulers, tape measures and callipers",
+      "x": 450,
+      "y": 0,
+      "parent": "#z2234v"
+    },
+    {
+      "@id": "#dc3s9c",
+      "name": "Scales and balances for mass",
+      "x": 468,
+      "y": 116,
+      "parent": "#z2234v"
+    },
+    {
+      "@id": "#azrih9",
+      "name": "Atomic clocks are the most precise",
+      "x": 372,
+      "y": 203,
+      "parent": "#z2234v"
+    },
+    {
+      "@id": "#4yjve2",
+      "name": "Thermometers for temperature",
+      "x": 281,
+      "y": 281,
+      "parent": "#z2234v"
+    },
+    {
+      "@id": "#7ngrgs",
+      "name": "Accuracy and error",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kghuz4",
+      "name": "Accuracy: closeness to the true value",
+      "x": 164,
+      "y": 335,
+      "link": "https://en.wikipedia.org/wiki/Accuracy_and_precision",
+      "parent": "#7ngrgs"
+    },
+    {
+      "@id": "#ckkbxx",
+      "name": "Precision: repeated readings agree",
+      "x": 38,
+      "y": 391,
+      "parent": "#7ngrgs"
+    },
+    {
+      "@id": "#5th6yx",
+      "name": "Every measurement has some uncertainty",
+      "x": -124,
+      "y": 447,
+      "link": "https://en.wikipedia.org/wiki/Measurement_uncertainty",
+      "parent": "#7ngrgs"
+    },
+    {
+      "@id": "#bv4h79",
+      "name": "Calibrate against known standards",
+      "x": -225,
+      "y": 312,
+      "parent": "#7ngrgs"
+    },
+    {
+      "@id": "#83i23w",
+      "name": "Why it matters",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fn2wmq",
+      "name": "Fair trade needs agreed weights",
+      "x": -330,
+      "y": 245,
+      "parent": "#83i23w"
+    },
+    {
+      "@id": "#q89s9k",
+      "name": "Science depends on comparable numbers",
+      "x": -405,
+      "y": 156,
+      "parent": "#83i23w"
+    },
+    {
+      "@id": "#uhubpc",
+      "name": "Mars Climate Orbiter lost to unit mix-up",
+      "x": -525,
+      "y": 62,
+      "link": "https://en.wikipedia.org/wiki/Mars_Climate_Orbiter",
+      "parent": "#83i23w"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

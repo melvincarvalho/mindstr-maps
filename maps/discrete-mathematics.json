@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Discrete mathematics",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#q2w4xa",
+      "name": "Maths of separate, countable things",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pam5uu",
+      "name": "Whole numbers, not smooth quantities",
+      "x": -584,
+      "y": -70,
+      "parent": "#q2w4xa"
+    },
+    {
+      "@id": "#mkri3x",
+      "name": "Steps and choices, not continuous change",
+      "x": -401,
+      "y": -163,
+      "parent": "#q2w4xa"
+    },
+    {
+      "@id": "#ghvufh",
+      "name": "Foundation of computer science",
+      "x": -318,
+      "y": -255,
+      "parent": "#q2w4xa"
+    },
+    {
+      "@id": "#4btfhp",
+      "name": "Logic and proof",
+      "x": -36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#w5a29f",
+      "name": "True or false statements combined",
+      "x": -204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Propositional_calculus",
+      "parent": "#4btfhp"
+    },
+    {
+      "@id": "#cs6ax4",
+      "name": "Proof by induction climbs a ladder",
+      "x": -73,
+      "y": -372,
+      "parent": "#4btfhp"
+    },
+    {
+      "@id": "#qxrnw4",
+      "name": "Proof by contradiction",
+      "x": 82,
+      "y": -420,
+      "parent": "#4btfhp"
+    },
+    {
+      "@id": "#ujrnad",
+      "name": "Sets and relations",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#demhcd",
+      "name": "Collections of objects",
+      "x": 204,
+      "y": -321,
+      "parent": "#ujrnad"
+    },
+    {
+      "@id": "#ummyuu",
+      "name": "Functions pair inputs with outputs",
+      "x": 318,
+      "y": -255,
+      "parent": "#ujrnad"
+    },
+    {
+      "@id": "#a7ehn3",
+      "name": "Relations like \"is a divisor of\"",
+      "x": 455,
+      "y": -184,
+      "parent": "#ujrnad"
+    },
+    {
+      "@id": "#unsn7j",
+      "name": "Counting",
+      "x": 227,
+      "y": 29,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#n7zfe5",
+      "name": "Combinatorics counts arrangements",
+      "x": 444,
+      "y": -56,
+      "link": "https://en.wikipedia.org/wiki/Combinatorics",
+      "parent": "#unsn7j"
+    },
+    {
+      "@id": "#mjmk3v",
+      "name": "3 books can be ordered 6 ways",
+      "x": 464,
+      "y": 58,
+      "parent": "#unsn7j"
+    },
+    {
+      "@id": "#8fmdcc",
+      "name": "Pigeonhole principle forces a repeat",
+      "x": 401,
+      "y": 163,
+      "parent": "#unsn7j"
+    },
+    {
+      "@id": "#5wgakr",
+      "name": "Graphs and networks",
+      "x": 71,
+      "y": 175,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#957q65",
+      "name": "Dots joined by lines",
+      "x": 318,
+      "y": 255,
+      "link": "https://en.wikipedia.org/wiki/Graph_theory",
+      "parent": "#5wgakr"
+    },
+    {
+      "@id": "#8ib3n9",
+      "name": "Seven Bridges of Königsberg, 1736",
+      "x": 204,
+      "y": 321,
+      "parent": "#5wgakr"
+    },
+    {
+      "@id": "#8q5y8c",
+      "name": "Trees, paths and colourings",
+      "x": 73,
+      "y": 372,
+      "parent": "#5wgakr"
+    },
+    {
+      "@id": "#bn62yc",
+      "name": "Model roads, friendships, the internet",
+      "x": -82,
+      "y": 420,
+      "parent": "#5wgakr"
+    },
+    {
+      "@id": "#pwzn76",
+      "name": "Numbers and computing",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ju2yqq",
+      "name": "Remainders and clock arithmetic",
+      "x": -204,
+      "y": 321,
+      "parent": "#pwzn76"
+    },
+    {
+      "@id": "#qnca53",
+      "name": "Boolean algebra runs digital circuits",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wikipedia.org/wiki/Boolean_algebra",
+      "parent": "#pwzn76"
+    },
+    {
+      "@id": "#77pbbb",
+      "name": "Encryption relies on prime numbers",
+      "x": -401,
+      "y": 163,
+      "parent": "#pwzn76"
+    },
+    {
+      "@id": "#ttey6h",
+      "name": "Algorithms and their efficiency",
+      "x": -444,
+      "y": 56,
+      "parent": "#pwzn76"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

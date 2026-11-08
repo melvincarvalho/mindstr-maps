@@ -1,0 +1,316 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Dmitri Mendeleev",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#9ky4ef",
+      "name": "Life",
+      "x": -169,
+      "y": -125,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8say7j",
+      "name": "Born 1834 in Tobolsk, Siberia",
+      "x": -445,
+      "y": -54,
+      "parent": "#9ky4ef"
+    },
+    {
+      "@id": "#ijedaw",
+      "name": "Youngest of a large family",
+      "x": -405,
+      "y": -156,
+      "parent": "#9ky4ef"
+    },
+    {
+      "@id": "#yvmtud",
+      "name": "Studied in St Petersburg and Heidelberg",
+      "x": -330,
+      "y": -245,
+      "parent": "#9ky4ef"
+    },
+    {
+      "@id": "#zczyec",
+      "name": "Professor at St Petersburg University",
+      "x": -225,
+      "y": -312,
+      "parent": "#9ky4ef"
+    },
+    {
+      "@id": "#x8pkqr",
+      "name": "Died 1907 in St Petersburg",
+      "x": -104,
+      "y": -367,
+      "parent": "#9ky4ef"
+    },
+    {
+      "@id": "#n5cvhw",
+      "name": "The periodic table",
+      "x": 115,
+      "y": -159,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4e93z7",
+      "name": "Arranged elements by atomic weight, 1869",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Periodic_table",
+      "parent": "#n5cvhw"
+    },
+    {
+      "@id": "#xdpdgn",
+      "name": "Properties repeat in regular periods",
+      "x": 234,
+      "y": -485,
+      "parent": "#n5cvhw"
+    },
+    {
+      "@id": "#2rqpnj",
+      "name": "Grouped similar elements in columns",
+      "x": 281,
+      "y": -281,
+      "parent": "#n5cvhw"
+    },
+    {
+      "@id": "#5ajzdr",
+      "name": "Ordered the 63 elements then known",
+      "x": 389,
+      "y": -212,
+      "parent": "#n5cvhw"
+    },
+    {
+      "@id": "#m2fumt",
+      "name": "Bold predictions",
+      "x": 220,
+      "y": 54,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g8626v",
+      "name": "Left gaps for undiscovered elements",
+      "x": 430,
+      "y": -106,
+      "parent": "#m2fumt"
+    },
+    {
+      "@id": "#zg7hsq",
+      "name": "Gallium found 1875, eka-aluminium",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Gallium",
+      "parent": "#m2fumt"
+    },
+    {
+      "@id": "#nk838i",
+      "name": "Scandium found 1879, eka-boron",
+      "x": 430,
+      "y": 106,
+      "parent": "#m2fumt"
+    },
+    {
+      "@id": "#7w6du8",
+      "name": "Germanium found 1886, eka-silicon",
+      "x": 372,
+      "y": 203,
+      "parent": "#m2fumt"
+    },
+    {
+      "@id": "#qzy4ww",
+      "name": "Corrected some atomic weights",
+      "x": 281,
+      "y": 281,
+      "parent": "#m2fumt"
+    },
+    {
+      "@id": "#qqg6v8",
+      "name": "Other work",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#egb8mn",
+      "name": "Principles of Chemistry textbook",
+      "x": 164,
+      "y": 335,
+      "parent": "#qqg6v8"
+    },
+    {
+      "@id": "#5ed9qw",
+      "name": "Studied solutions and gas expansion",
+      "x": 38,
+      "y": 391,
+      "parent": "#qqg6v8"
+    },
+    {
+      "@id": "#38mbgm",
+      "name": "Advised on oil and industry",
+      "x": -124,
+      "y": 447,
+      "parent": "#qqg6v8"
+    },
+    {
+      "@id": "#cc2sd8",
+      "name": "Head of Russia's weights and measures",
+      "x": -225,
+      "y": 312,
+      "parent": "#qqg6v8"
+    },
+    {
+      "@id": "#8s9rer",
+      "name": "Legacy",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nmsiq2",
+      "name": "Element 101 named mendelevium",
+      "x": -330,
+      "y": 245,
+      "parent": "#8s9rer"
+    },
+    {
+      "@id": "#xfg7qq",
+      "name": "Table later reordered by atomic number",
+      "x": -405,
+      "y": 156,
+      "parent": "#8s9rer"
+    },
+    {
+      "@id": "#qqrk4u",
+      "name": "Missed the Nobel Prize narrowly",
+      "x": -445,
+      "y": 54,
+      "parent": "#8s9rer"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 7,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 12,
+      "end": 16
+    },
+    {
+      "start": 12,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

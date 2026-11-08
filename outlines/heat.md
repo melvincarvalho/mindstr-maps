@@ -1,0 +1,28 @@
+category: Science
+aliases: heat energy, heat transfer, thermal energy
+- Heat
+  - What heat is
+    - Energy moving from hot to cold
+    - Comes from jiggling atoms and molecules
+    - Not the same as temperature
+  - From fluid to motion
+    - Caloric theory: heat as invisible fluid
+    - Rumford's cannon boring disproved it, 1798
+    - Joule measured heat's equivalent in work
+  - Three ways heat travels
+    - [Conduction: through touching materials](https://en.wikipedia.org/wiki/Thermal_conduction)
+    - [Convection: carried by moving fluids](https://en.wikipedia.org/wiki/Convection)
+    - [Radiation: infrared light, even through space](https://en.wikipedia.org/wiki/Thermal_radiation)
+  - Measuring heat
+    - Joules are the SI unit
+    - Calories still used for food
+    - Specific heat: water warms slowly
+  - What heat does
+    - Makes most materials expand
+    - Melts solids and boils liquids
+    - [Latent heat changes state, not temperature](https://en.wikipedia.org/wiki/Latent_heat)
+  - Heat in everyday life
+    - Metal spoons feel colder than wood
+    - Insulation slows heat leaving homes
+    - Sweating cools by evaporation
+    - Engines and power stations run on it

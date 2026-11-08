@@ -1,0 +1,329 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Physical disability",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#tc6ryu",
+      "name": "What it covers",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#btbsya",
+      "name": "Limits movement, stamina or dexterity",
+      "x": -505,
+      "y": -60,
+      "parent": "#tc6ryu"
+    },
+    {
+      "@id": "#gweq2v",
+      "name": "Present from birth or acquired",
+      "x": -405,
+      "y": -156,
+      "parent": "#tc6ryu"
+    },
+    {
+      "@id": "#z8y5cz",
+      "name": "Ranges from mild to severe",
+      "x": -330,
+      "y": -245,
+      "parent": "#tc6ryu"
+    },
+    {
+      "@id": "#vbxhkx",
+      "name": "Common causes",
+      "x": 17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2u74sa",
+      "name": "Cerebral palsy, from early brain injury",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Cerebral_palsy",
+      "parent": "#vbxhkx"
+    },
+    {
+      "@id": "#ug54fh",
+      "name": "Spinal cord injury",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Spinal_cord_injury",
+      "parent": "#vbxhkx"
+    },
+    {
+      "@id": "#xxvucu",
+      "name": "Amputation and limb difference",
+      "x": 42,
+      "y": -423,
+      "parent": "#vbxhkx"
+    },
+    {
+      "@id": "#g52vvc",
+      "name": "Muscular dystrophy and multiple sclerosis",
+      "x": 234,
+      "y": -485,
+      "parent": "#vbxhkx"
+    },
+    {
+      "@id": "#f7bbc7",
+      "name": "Stroke and arthritis in later life",
+      "x": 281,
+      "y": -281,
+      "parent": "#vbxhkx"
+    },
+    {
+      "@id": "#7bfns3",
+      "name": "Mobility aids",
+      "x": 220,
+      "y": -54,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#72pzs2",
+      "name": "Manual and powered wheelchairs",
+      "x": 372,
+      "y": -203,
+      "parent": "#7bfns3"
+    },
+    {
+      "@id": "#8v8w5e",
+      "name": "Crutches, walkers and canes",
+      "x": 430,
+      "y": -106,
+      "parent": "#7bfns3"
+    },
+    {
+      "@id": "#tqv5f2",
+      "name": "Prosthetic limbs and orthoses",
+      "x": 450,
+      "y": 0,
+      "parent": "#7bfns3"
+    },
+    {
+      "@id": "#u47fqn",
+      "name": "Accessible environments",
+      "x": 169,
+      "y": 125,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t9th9y",
+      "name": "Ramps, lifts and level entrances",
+      "x": 468,
+      "y": 116,
+      "parent": "#u47fqn"
+    },
+    {
+      "@id": "#eds7bz",
+      "name": "Accessible toilets and parking",
+      "x": 372,
+      "y": 203,
+      "parent": "#u47fqn"
+    },
+    {
+      "@id": "#kfxz6t",
+      "name": "Step-free public transport",
+      "x": 281,
+      "y": 281,
+      "parent": "#u47fqn"
+    },
+    {
+      "@id": "#mamn7e",
+      "name": "Adapted homes and vehicles",
+      "x": 164,
+      "y": 335,
+      "parent": "#u47fqn"
+    },
+    {
+      "@id": "#6vepts",
+      "name": "Health and rehabilitation",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#txqdja",
+      "name": "Physiotherapy builds strength and movement",
+      "x": 38,
+      "y": 391,
+      "parent": "#6vepts"
+    },
+    {
+      "@id": "#qdpd35",
+      "name": "Occupational therapy adapts daily tasks",
+      "x": -124,
+      "y": 447,
+      "parent": "#6vepts"
+    },
+    {
+      "@id": "#v8f2k6",
+      "name": "Pain and fatigue management",
+      "x": -225,
+      "y": 312,
+      "parent": "#6vepts"
+    },
+    {
+      "@id": "#3rer62",
+      "name": "Rights and participation",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y5eg5v",
+      "name": "Anti-discrimination laws require access",
+      "x": -330,
+      "y": 245,
+      "parent": "#3rer62"
+    },
+    {
+      "@id": "#ejkeki",
+      "name": "Reasonable adjustments at work",
+      "x": -405,
+      "y": 156,
+      "parent": "#3rer62"
+    },
+    {
+      "@id": "#ervupa",
+      "name": "Paralympic Games, first held 1960",
+      "x": -525,
+      "y": 62,
+      "link": "https://en.wikipedia.org/wiki/Paralympic_Games",
+      "parent": "#3rer62"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

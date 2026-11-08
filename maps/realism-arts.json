@@ -1,0 +1,308 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Realism (arts)",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#nmx4bp",
+      "name": "The core idea",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7eiuz5",
+      "name": "Show ordinary life truthfully",
+      "x": -464,
+      "y": -62,
+      "parent": "#nmx4bp"
+    },
+    {
+      "@id": "#n8ssma",
+      "name": "No idealising, no grand myths",
+      "x": -396,
+      "y": -171,
+      "parent": "#nmx4bp"
+    },
+    {
+      "@id": "#q7rwgt",
+      "name": "Reaction against Romanticism",
+      "x": -305,
+      "y": -265,
+      "parent": "#nmx4bp"
+    },
+    {
+      "@id": "#f23zy9",
+      "name": "French painting, about 1848 to 1880",
+      "x": 19,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mm5x9j",
+      "name": "Gustave Courbet led the movement",
+      "x": -181,
+      "y": -330,
+      "link": "https://en.wikipedia.org/wiki/Gustave_Courbet",
+      "parent": "#f23zy9"
+    },
+    {
+      "@id": "#x44sm5",
+      "name": "A Burial at Ornans shocked critics",
+      "x": -41,
+      "y": -391,
+      "parent": "#f23zy9"
+    },
+    {
+      "@id": "#8u9hcs",
+      "name": "Jean-François Millet painted peasant labour",
+      "x": 140,
+      "y": -445,
+      "parent": "#f23zy9"
+    },
+    {
+      "@id": "#2tmpzr",
+      "name": "Honoré Daumier satirised Paris society",
+      "x": 246,
+      "y": -301,
+      "parent": "#f23zy9"
+    },
+    {
+      "@id": "#itwfj8",
+      "name": "Realism in literature",
+      "x": 227,
+      "y": -30,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ifugtk",
+      "name": "Flaubert's Madame Bovary, 1857",
+      "x": 371,
+      "y": -231,
+      "link": "https://en.wikipedia.org/wiki/Madame_Bovary",
+      "parent": "#itwfj8"
+    },
+    {
+      "@id": "#w2hvxq",
+      "name": "George Eliot's Middlemarch",
+      "x": 426,
+      "y": -117,
+      "parent": "#itwfj8"
+    },
+    {
+      "@id": "#vu97d2",
+      "name": "Tolstoy and Dostoevsky in Russia",
+      "x": 530,
+      "y": 0,
+      "parent": "#itwfj8"
+    },
+    {
+      "@id": "#4rgqdj",
+      "name": "Naturalism pushed further, as in Zola",
+      "x": 426,
+      "y": 117,
+      "parent": "#itwfj8"
+    },
+    {
+      "@id": "#iqt6ba",
+      "name": "Wider spread",
+      "x": 126,
+      "y": 154,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ubtfz9",
+      "name": "Russian Peredvizhniki painted rural life",
+      "x": 355,
+      "y": 221,
+      "parent": "#iqt6ba"
+    },
+    {
+      "@id": "#j39zmy",
+      "name": "Winslow Homer and Thomas Eakins in America",
+      "x": 246,
+      "y": 301,
+      "link": "https://en.wikipedia.org/wiki/Thomas_Eakins",
+      "parent": "#iqt6ba"
+    },
+    {
+      "@id": "#7wwawq",
+      "name": "Realist theatre: Ibsen and Chekhov",
+      "x": 110,
+      "y": 349,
+      "parent": "#iqt6ba"
+    },
+    {
+      "@id": "#2eiaey",
+      "name": "Why it mattered",
+      "x": -92,
+      "y": 169,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tayzm9",
+      "name": "Working people became worthy subjects",
+      "x": -43,
+      "y": 407,
+      "parent": "#2eiaey"
+    },
+    {
+      "@id": "#eh44p3",
+      "name": "Photography shared its documentary aim",
+      "x": -253,
+      "y": 465,
+      "parent": "#2eiaey"
+    },
+    {
+      "@id": "#292stz",
+      "name": "Opened the way to Impressionism",
+      "x": -305,
+      "y": 265,
+      "parent": "#2eiaey"
+    },
+    {
+      "@id": "#be8aze",
+      "name": "Later realisms",
+      "x": -218,
+      "y": 60,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2w3f4k",
+      "name": "Socialist realism as official Soviet style",
+      "x": -414,
+      "y": 179,
+      "parent": "#be8aze"
+    },
+    {
+      "@id": "#uz4uwk",
+      "name": "Photorealism in the 1960s and 70s",
+      "x": -504,
+      "y": 68,
+      "link": "https://en.wikipedia.org/wiki/Photorealism",
+      "parent": "#be8aze"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

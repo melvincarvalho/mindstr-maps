@@ -1,0 +1,29 @@
+category: Society
+aliases: communist ideology, marxism-leninism, communist states, history of communism
+- Communism
+  - Core ideas
+    - Common ownership of means of production
+    - A classless, stateless society
+    - "From each according to ability"
+  - Marx and Engels
+    - [Communist Manifesto, 1848](https://en.wikipedia.org/wiki/The_Communist_Manifesto)
+    - History as class struggle
+    - Workers' revolution overthrows capitalism
+  - Leninism and the USSR
+    - [Russian Revolution, October 1917](https://en.wikipedia.org/wiki/October_Revolution)
+    - Vanguard party leads the workers
+    - Stalin's five-year plans and collectivisation
+  - Communist states
+    - Eastern Europe after 1945
+    - China under Mao from 1949
+    - Cuba, Vietnam, North Korea, Laos
+  - Human costs
+    - [Holodomor famine in Ukraine, 1932–33](https://en.wikipedia.org/wiki/Holodomor)
+    - Gulag labour camps and purges
+    - Great Leap Forward famine, 1959–61
+    - Cambodia's Khmer Rouge killings
+  - Decline and debate
+    - Soviet Union dissolved in 1991
+    - China, Vietnam adopted market reforms
+    - Supporters: rapid industrialisation, literacy, healthcare
+    - Critics: repression, shortages, no freedoms

@@ -1,0 +1,31 @@
+category: Geography
+aliases: far east, northeast asia, east asian countries
+- East Asia
+  - Countries and territories
+    - China, Japan, North and South Korea
+    - Mongolia and Taiwan
+    - Hong Kong and Macau
+  - Land and climate
+    - Tibetan Plateau, the world's highest
+    - [Yangtze and Yellow rivers](https://en.wikipedia.org/wiki/Yangtze)
+    - Gobi Desert in the north
+    - Japan sits on the Ring of Fire
+    - Monsoon summers, cold dry winters
+  - Peoples and languages
+    - About 1.6 billion people
+    - Han Chinese the largest ethnic group
+    - Chinese, Japanese, Korean, Mongolian
+    - [Chinese characters shaped regional writing](https://en.wikipedia.org/wiki/Chinese_characters)
+  - History in brief
+    - Chinese dynasties from about 1600 BC
+    - Confucianism and Buddhism spread widely
+    - Japan's empire and World War II
+    - Korean War divided the peninsula, 1950–53
+  - Economy
+    - [China, world's second-largest economy](https://en.wikipedia.org/wiki/Economy_of_China)
+    - Japan and Korea lead in electronics, cars
+    - Taiwan makes most advanced chips
+  - Culture
+    - Chopsticks, rice, tea and soy
+    - Anime, K-pop and Chinese cinema
+    - [Lunar New Year, the biggest festival](https://en.wikipedia.org/wiki/Chinese_New_Year)

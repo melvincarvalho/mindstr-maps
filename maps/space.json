@@ -1,0 +1,297 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Space",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#82tgpj",
+      "name": "What space is",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mvma5b",
+      "name": "The room where things exist and move",
+      "x": -483,
+      "y": -69,
+      "parent": "#82tgpj"
+    },
+    {
+      "@id": "#s95tis",
+      "name": "Measured as distance between objects",
+      "x": -390,
+      "y": -180,
+      "parent": "#82tgpj"
+    },
+    {
+      "@id": "#x4uuyz",
+      "name": "Three dimensions: length, width, height",
+      "x": -289,
+      "y": -276,
+      "parent": "#82tgpj"
+    },
+    {
+      "@id": "#dvq5xi",
+      "name": "Old ideas about space",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3sjd8w",
+      "name": "Greeks debated whether empty space exists",
+      "x": -154,
+      "y": -338,
+      "parent": "#dvq5xi"
+    },
+    {
+      "@id": "#65gdhy",
+      "name": "Newton: a fixed, absolute stage",
+      "x": 0,
+      "y": -392,
+      "link": "https://en.wikipedia.org/wiki/Absolute_space_and_time",
+      "parent": "#dvq5xi"
+    },
+    {
+      "@id": "#ys6xd2",
+      "name": "Leibniz: only relations between objects",
+      "x": 203,
+      "y": -443,
+      "parent": "#dvq5xi"
+    },
+    {
+      "@id": "#wp8u6v",
+      "name": "Measuring and mapping space",
+      "x": 199,
+      "y": -92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#awaa47",
+      "name": "Euclid's geometry describes flat space",
+      "x": 289,
+      "y": -276,
+      "link": "https://en.wikipedia.org/wiki/Euclidean_geometry",
+      "parent": "#wp8u6v"
+    },
+    {
+      "@id": "#tzxf5r",
+      "name": "Coordinates pin down any point",
+      "x": 390,
+      "y": -180,
+      "parent": "#wp8u6v"
+    },
+    {
+      "@id": "#wt4nmu",
+      "name": "The metre is defined using light",
+      "x": 523,
+      "y": -75,
+      "parent": "#wp8u6v"
+    },
+    {
+      "@id": "#mc88is",
+      "name": "Space joins time",
+      "x": 199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r7t2u3",
+      "name": "Einstein merged them into spacetime",
+      "x": 503,
+      "y": 72,
+      "link": "https://en.wikipedia.org/wiki/Spacetime",
+      "parent": "#mc88is"
+    },
+    {
+      "@id": "#64kqc6",
+      "name": "Moving observers disagree on lengths",
+      "x": 390,
+      "y": 180,
+      "parent": "#mc88is"
+    },
+    {
+      "@id": "#ies4h9",
+      "name": "Fast objects shrink along their motion",
+      "x": 289,
+      "y": 276,
+      "parent": "#mc88is"
+    },
+    {
+      "@id": "#wzartd",
+      "name": "Curved and stretching space",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kwfadv",
+      "name": "Mass and energy curve spacetime",
+      "x": 154,
+      "y": 338,
+      "parent": "#wzartd"
+    },
+    {
+      "@id": "#zdqrdv",
+      "name": "Gravity is objects following curves",
+      "x": 0,
+      "y": 392,
+      "parent": "#wzartd"
+    },
+    {
+      "@id": "#qntcs5",
+      "name": "The universe's space is expanding",
+      "x": -203,
+      "y": 443,
+      "link": "https://en.wikipedia.org/wiki/Expansion_of_the_universe",
+      "parent": "#wzartd"
+    },
+    {
+      "@id": "#dhragp",
+      "name": "Open questions",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#akg8kg",
+      "name": "Is space infinite or finite?",
+      "x": -289,
+      "y": 276,
+      "parent": "#dhragp"
+    },
+    {
+      "@id": "#sy5e8r",
+      "name": "Extra hidden dimensions in string theory",
+      "x": -390,
+      "y": 180,
+      "parent": "#dhragp"
+    },
+    {
+      "@id": "#s7d544",
+      "name": "Is space made of tiny units?",
+      "x": -443,
+      "y": 63,
+      "parent": "#dhragp"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    }
+  ],
+  "selectedNode": 0
+}

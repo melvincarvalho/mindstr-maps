@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Sexually transmitted infection",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#wk79pe",
+      "name": "What they are",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#py9fbu",
+      "name": "Infections passed during sexual contact",
+      "x": -505,
+      "y": -57,
+      "parent": "#wk79pe"
+    },
+    {
+      "@id": "#wa87y7",
+      "name": "Vaginal, anal and oral sex",
+      "x": -409,
+      "y": -150,
+      "parent": "#wk79pe"
+    },
+    {
+      "@id": "#5pazyt",
+      "name": "Often cause no symptoms at all",
+      "x": -340,
+      "y": -236,
+      "parent": "#wk79pe"
+    },
+    {
+      "@id": "#ea892x",
+      "name": "Common infections",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4j4bjn",
+      "name": "Chlamydia: most common bacterial STI",
+      "x": -243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Chlamydia",
+      "parent": "#ea892x"
+    },
+    {
+      "@id": "#wamie4",
+      "name": "Gonorrhoea, increasingly drug-resistant",
+      "x": -133,
+      "y": -360,
+      "parent": "#ea892x"
+    },
+    {
+      "@id": "#nd9ndj",
+      "name": "Syphilis: painless sore, then rash",
+      "x": 0,
+      "y": -408,
+      "parent": "#ea892x"
+    },
+    {
+      "@id": "#y4am8i",
+      "name": "HPV can cause cervical cancer",
+      "x": 175,
+      "y": -465,
+      "link": "https://en.wikipedia.org/wiki/Human_papillomavirus_infection",
+      "parent": "#ea892x"
+    },
+    {
+      "@id": "#t2tmgs",
+      "name": "Genital herpes causes recurring blisters",
+      "x": 243,
+      "y": -303,
+      "parent": "#ea892x"
+    },
+    {
+      "@id": "#bvv638",
+      "name": "HIV attacks the immune system",
+      "x": 340,
+      "y": -236,
+      "parent": "#ea892x"
+    },
+    {
+      "@id": "#wn78rh",
+      "name": "Possible signs",
+      "x": 268,
+      "y": -30,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wddbj3",
+      "name": "Unusual discharge",
+      "x": 409,
+      "y": -150,
+      "parent": "#wn78rh"
+    },
+    {
+      "@id": "#nimq95",
+      "name": "Pain when urinating",
+      "x": 485,
+      "y": -55,
+      "parent": "#wn78rh"
+    },
+    {
+      "@id": "#9zni99",
+      "name": "Sores, lumps, rashes or itching",
+      "x": 445,
+      "y": 51,
+      "parent": "#wn78rh"
+    },
+    {
+      "@id": "#jpeyfm",
+      "name": "Testing",
+      "x": 151,
+      "y": 139,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v2uhie",
+      "name": "Urine tests, swabs and blood tests",
+      "x": 409,
+      "y": 150,
+      "parent": "#jpeyfm"
+    },
+    {
+      "@id": "#4psa6b",
+      "name": "Regular checks with new partners",
+      "x": 340,
+      "y": 236,
+      "parent": "#jpeyfm"
+    },
+    {
+      "@id": "#yzdjsc",
+      "name": "Confidential sexual health clinics",
+      "x": 243,
+      "y": 303,
+      "parent": "#jpeyfm"
+    },
+    {
+      "@id": "#przyr6",
+      "name": "Telling partners so they can test",
+      "x": 133,
+      "y": 360,
+      "parent": "#jpeyfm"
+    },
+    {
+      "@id": "#7wf4kb",
+      "name": "Treatment",
+      "x": -65,
+      "y": 177,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#53ydbm",
+      "name": "Antibiotics cure chlamydia, gonorrhoea, syphilis",
+      "x": 0,
+      "y": 408,
+      "parent": "#7wf4kb"
+    },
+    {
+      "@id": "#wdxsd5",
+      "name": "Antivirals control herpes and HIV",
+      "x": -175,
+      "y": 465,
+      "parent": "#7wf4kb"
+    },
+    {
+      "@id": "#kbstem",
+      "name": "Untreated, some cause infertility",
+      "x": -243,
+      "y": 303,
+      "parent": "#7wf4kb"
+    },
+    {
+      "@id": "#xgepha",
+      "name": "Prevention",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xfz477",
+      "name": "Condoms greatly reduce risk",
+      "x": -340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/Condom",
+      "parent": "#xgepha"
+    },
+    {
+      "@id": "#tijd8c",
+      "name": "HPV and hepatitis B vaccines",
+      "x": -409,
+      "y": 150,
+      "parent": "#xgepha"
+    },
+    {
+      "@id": "#kwgbw9",
+      "name": "PrEP prevents HIV",
+      "x": -445,
+      "y": 51,
+      "link": "https://en.wikipedia.org/wiki/Pre-exposure_prophylaxis",
+      "parent": "#xgepha"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 5,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

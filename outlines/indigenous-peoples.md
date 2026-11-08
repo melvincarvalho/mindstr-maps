@@ -1,0 +1,34 @@
+category: Society
+aliases: indigenous people, first peoples, native peoples, aboriginal peoples
+- Indigenous peoples
+  - Who they are
+    - Descendants of a region's earliest inhabitants
+    - Distinct languages, cultures and institutions
+    - Self-identification is the key criterion
+    - About 476 million people worldwide
+  - Examples around the world
+    - First Nations, Inuit and Métis in Canada
+    - Native Americans in the United States
+    - Aboriginal and Torres Strait Islander peoples
+    - Māori in Aotearoa New Zealand
+    - Sámi in northern Europe
+    - Many peoples across Africa and Asia
+  - Land and culture
+    - Deep ties to ancestral lands
+    - Traditional knowledge of ecosystems
+    - Territories hold much of Earth's biodiversity
+    - Many Indigenous languages are endangered
+  - History of colonisation
+    - Land taken by colonial settlement
+    - [Epidemics devastated many populations](https://en.wikipedia.org/wiki/Virgin_soil_epidemic)
+    - [Residential and boarding schools](https://en.wikipedia.org/wiki/Canadian_Indian_residential_school_system)
+    - Treaties signed, often later broken
+  - Rights and recognition
+    - [UN Declaration on Indigenous rights, 2007](https://en.wikipedia.org/wiki/Declaration_on_the_Rights_of_Indigenous_Peoples)
+    - Free, prior and informed consent
+    - Land claims and self-government agreements
+    - Truth and reconciliation processes
+  - Today
+    - Language revitalisation programmes
+    - Higher rates of poverty and poorer health
+    - [International Day: 9 August](https://en.wikipedia.org/wiki/International_Day_of_the_World%27s_Indigenous_Peoples)

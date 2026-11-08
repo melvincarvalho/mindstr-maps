@@ -1,0 +1,30 @@
+category: Science
+aliases: human blood, what is blood, blood cells
+- Blood
+  - What it's made of
+    - Plasma: watery liquid, about 55%
+    - [Red blood cells carry oxygen](https://en.wikipedia.org/wiki/Red_blood_cell)
+    - [White blood cells fight infection](https://en.wikipedia.org/wiki/White_blood_cell)
+    - [Platelets help blood clot](https://en.wikipedia.org/wiki/Platelet)
+  - What it does
+    - Transports oxygen, nutrients and hormones
+    - Carries waste to kidneys and lungs
+    - Spreads heat around the body
+  - Key facts
+    - Adults have about 5 litres
+    - Haemoglobin's iron makes it red
+    - Made in bone marrow
+    - Red cells live about 120 days
+  - Blood groups
+    - [ABO groups: A, B, AB, O](https://en.wikipedia.org/wiki/ABO_blood_group_system)
+    - Rhesus factor: positive or negative
+    - O negative: universal red cell donor
+  - Common problems
+    - Anaemia: too little haemoglobin
+    - Clotting disorders like haemophilia
+    - Unwanted clots cause thrombosis
+    - Blood cancers: leukaemia, lymphoma, myeloma
+  - Donating and testing
+    - One donation is about half a litre
+    - Blood tests reveal much about health
+    - Iron-rich food supports red cells

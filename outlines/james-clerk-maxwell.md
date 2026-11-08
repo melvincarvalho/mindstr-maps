@@ -1,0 +1,28 @@
+category: People
+aliases: maxwell, james clerk maxwell biography, clerk maxwell
+- James Clerk Maxwell
+  - Life
+    - Born 1831 in Edinburgh, Scotland
+    - Studied at Edinburgh and Cambridge
+    - Professor at Aberdeen and King's College London
+    - First Cavendish Professor at Cambridge
+    - Died 1879, aged 48
+  - Electromagnetism
+    - [Maxwell's equations unify electricity and magnetism](https://en.wikipedia.org/wiki/Maxwell%27s_equations)
+    - Built on Faraday's field lines
+    - Predicted electromagnetic waves
+    - [Light is an electromagnetic wave](https://en.wikipedia.org/wiki/Electromagnetic_radiation)
+  - Gases and heat
+    - Kinetic theory of gases
+    - [Maxwell–Boltzmann distribution of molecular speeds](https://en.wikipedia.org/wiki/Maxwell%E2%80%93Boltzmann_distribution)
+    - [Maxwell's demon thought experiment](https://en.wikipedia.org/wiki/Maxwell%27s_demon)
+  - Colour and other work
+    - First colour photograph, 1861
+    - Red, green and blue colour theory
+    - Saturn's rings must be particles
+    - Early control theory of governors
+  - Legacy
+    - Hertz detected radio waves, 1887
+    - Foundation for radio, radar, television
+    - Paved the way to relativity
+    - Einstein kept his picture on the wall

@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Cryptography",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#gjiwbf",
+      "name": "Keeping messages secret",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#678g6w",
+      "name": "Plaintext scrambled into ciphertext",
+      "x": -524,
+      "y": -64,
+      "parent": "#gjiwbf"
+    },
+    {
+      "@id": "#zajtsz",
+      "name": "A key unlocks the message",
+      "x": -401,
+      "y": -163,
+      "parent": "#gjiwbf"
+    },
+    {
+      "@id": "#wihqta",
+      "name": "Strength depends on key, not secrecy",
+      "x": -318,
+      "y": -255,
+      "parent": "#gjiwbf"
+    },
+    {
+      "@id": "#9shq8r",
+      "name": "Classical ciphers",
+      "x": -36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3ki4vr",
+      "name": "Caesar cipher shifts each letter",
+      "x": -204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Caesar_cipher",
+      "parent": "#9shq8r"
+    },
+    {
+      "@id": "#k9e933",
+      "name": "Frequency analysis broke simple ciphers",
+      "x": -73,
+      "y": -372,
+      "parent": "#9shq8r"
+    },
+    {
+      "@id": "#qhr5ij",
+      "name": "Enigma machine broken at Bletchley Park",
+      "x": 82,
+      "y": -420,
+      "link": "https://en.wikipedia.org/wiki/Enigma_machine",
+      "parent": "#9shq8r"
+    },
+    {
+      "@id": "#nwumzi",
+      "name": "Symmetric encryption",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jvrwnz",
+      "name": "Same key locks and unlocks",
+      "x": 204,
+      "y": -321,
+      "parent": "#nwumzi"
+    },
+    {
+      "@id": "#y25h79",
+      "name": "AES is today's standard since 2001",
+      "x": 318,
+      "y": -255,
+      "parent": "#nwumzi"
+    },
+    {
+      "@id": "#tpapv7",
+      "name": "Fast, but sharing the key is hard",
+      "x": 455,
+      "y": -184,
+      "parent": "#nwumzi"
+    },
+    {
+      "@id": "#f95yzp",
+      "name": "Public-key cryptography",
+      "x": 219,
+      "y": 57,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7t62j8",
+      "name": "Public key encrypts, private key decrypts",
+      "x": 444,
+      "y": -56,
+      "link": "https://en.wikipedia.org/wiki/Public-key_cryptography",
+      "parent": "#f95yzp"
+    },
+    {
+      "@id": "#kwdg2q",
+      "name": "Diffie–Hellman key exchange in 1976",
+      "x": 544,
+      "y": 66,
+      "parent": "#f95yzp"
+    },
+    {
+      "@id": "#v36szv",
+      "name": "RSA relies on factoring huge numbers",
+      "x": 401,
+      "y": 163,
+      "parent": "#f95yzp"
+    },
+    {
+      "@id": "#7gyxdr",
+      "name": "Digital signatures prove who sent it",
+      "x": 318,
+      "y": 255,
+      "parent": "#f95yzp"
+    },
+    {
+      "@id": "#49cqav",
+      "name": "Hashing and integrity",
+      "x": 36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sz3xj7",
+      "name": "Hash gives a fixed-size fingerprint",
+      "x": 204,
+      "y": 321,
+      "parent": "#49cqav"
+    },
+    {
+      "@id": "#rw24zp",
+      "name": "Any change alters the hash completely",
+      "x": 73,
+      "y": 372,
+      "parent": "#49cqav"
+    },
+    {
+      "@id": "#ar9ppa",
+      "name": "Passwords stored as salted hashes",
+      "x": -82,
+      "y": 420,
+      "parent": "#49cqav"
+    },
+    {
+      "@id": "#a4jy34",
+      "name": "Everyday uses",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hdbuuw",
+      "name": "HTTPS padlock in your browser",
+      "x": -204,
+      "y": 321,
+      "link": "https://en.wikipedia.org/wiki/HTTPS",
+      "parent": "#a4jy34"
+    },
+    {
+      "@id": "#trnyuk",
+      "name": "End-to-end encrypted messaging apps",
+      "x": -318,
+      "y": 255,
+      "parent": "#a4jy34"
+    },
+    {
+      "@id": "#gxrtti",
+      "name": "Card payments and phone unlocking",
+      "x": -401,
+      "y": 163,
+      "parent": "#a4jy34"
+    },
+    {
+      "@id": "#9uypvs",
+      "name": "Quantum computers spur post-quantum algorithms",
+      "x": -444,
+      "y": 56,
+      "parent": "#a4jy34"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

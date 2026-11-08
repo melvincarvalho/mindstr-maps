@@ -1,0 +1,29 @@
+category: Philosophy and religion
+aliases: right and wrong, moral values, what is morality, sense of right and wrong
+- Morality
+  - What morality is
+    - Shared rules about right and wrong
+    - Differs from law and etiquette
+    - Applies even when nobody is watching
+  - Where it comes from
+    - [Evolution favoured cooperation and empathy](https://en.wikipedia.org/wiki/Evolution_of_morality)
+    - Parents, culture and religion teach it
+    - Young children already notice unfairness
+  - Values found almost everywhere
+    - Don't harm the innocent
+    - Be fair and keep promises
+    - [Golden Rule appears across cultures](https://en.wikipedia.org/wiki/Golden_Rule)
+    - Loyalty, authority and purity vary more
+  - How we actually judge
+    - Quick gut feelings usually come first
+    - Reasoning often justifies them afterwards
+    - [Moral foundations theory maps six intuitions](https://en.wikipedia.org/wiki/Moral_foundations_theory)
+    - Guilt, shame and blame enforce norms
+  - Is morality objective?
+    - Realism: some acts are truly wrong
+    - [Relativism: right depends on culture](https://en.wikipedia.org/wiki/Moral_relativism)
+    - Nihilism: there are no moral facts
+  - Hard everyday cases
+    - Lying to spare someone's feelings
+    - Keeping cash from a found wallet
+    - [Trolley problem: one life for five](https://en.wikipedia.org/wiki/Trolley_problem)

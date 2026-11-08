@@ -1,0 +1,29 @@
+category: Society
+aliases: authoritarian regime, authoritarian government, authoritarian state, autocracy
+- Authoritarianism
+  - Definition
+    - Concentrated power, few political freedoms
+    - Obedience to authority over individual liberty
+    - Limited or no accountability to voters
+  - Types
+    - [Totalitarianism seeks control of everything](https://en.wikipedia.org/wiki/Totalitarianism)
+    - Military, single-party and personalist regimes
+    - [Hybrid regimes hold unfair elections](https://en.wikipedia.org/wiki/Hybrid_regime)
+    - Absolute monarchies
+  - Common features
+    - Restricted press and opposition
+    - Weak courts and rule of law
+    - Security services watch dissent
+    - Loyalty rewarded with patronage
+  - Supporters' case
+    - Strong leadership brings order and stability
+    - Fast decisions for development
+    - Singapore and South Korea cited
+  - Criticisms and costs
+    - Human rights abuses and political prisoners
+    - Corruption without accountability
+    - Mass atrocities under extreme regimes
+  - Research and trends
+    - [Adorno's "Authoritarian Personality" (1950)](https://en.wikipedia.org/wiki/The_Authoritarian_Personality)
+    - Juan Linz defined modern authoritarian regimes
+    - Scholars report democratic backsliding since 2000s

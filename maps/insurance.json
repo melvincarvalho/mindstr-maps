@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Insurance",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#8c9dn9",
+      "name": "The basic idea",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bxqhp8",
+      "name": "Many people pool small regular payments",
+      "x": -505,
+      "y": -60,
+      "parent": "#8c9dn9"
+    },
+    {
+      "@id": "#64uu7x",
+      "name": "The few who suffer losses get paid",
+      "x": -405,
+      "y": -156,
+      "parent": "#8c9dn9"
+    },
+    {
+      "@id": "#xt52ps",
+      "name": "Trades uncertain loss for fixed cost",
+      "x": -330,
+      "y": -245,
+      "parent": "#8c9dn9"
+    },
+    {
+      "@id": "#zscsrq",
+      "name": "Key terms",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5m7jcz",
+      "name": "Premium: what you pay for cover",
+      "x": -225,
+      "y": -312,
+      "parent": "#zscsrq"
+    },
+    {
+      "@id": "#wuk6uq",
+      "name": "Deductible or excess: your share first",
+      "x": -104,
+      "y": -367,
+      "parent": "#zscsrq"
+    },
+    {
+      "@id": "#ncvnp7",
+      "name": "Policy: the contract and its exclusions",
+      "x": 42,
+      "y": -423,
+      "parent": "#zscsrq"
+    },
+    {
+      "@id": "#44ig2c",
+      "name": "Claim: asking the insurer to pay",
+      "x": 234,
+      "y": -485,
+      "parent": "#zscsrq"
+    },
+    {
+      "@id": "#zkuyv5",
+      "name": "Common types",
+      "x": 220,
+      "y": -54,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kikphr",
+      "name": "Life insurance pays out on death",
+      "x": 281,
+      "y": -281,
+      "link": "https://en.wikipedia.org/wiki/Life_insurance",
+      "parent": "#zkuyv5"
+    },
+    {
+      "@id": "#56ccmp",
+      "name": "Health insurance covers medical costs",
+      "x": 372,
+      "y": -203,
+      "link": "https://en.wikipedia.org/wiki/Health_insurance",
+      "parent": "#zkuyv5"
+    },
+    {
+      "@id": "#kgm4fs",
+      "name": "Car insurance, often legally required",
+      "x": 430,
+      "y": -106,
+      "parent": "#zkuyv5"
+    },
+    {
+      "@id": "#u5rinb",
+      "name": "Home and contents insurance",
+      "x": 450,
+      "y": 0,
+      "parent": "#zkuyv5"
+    },
+    {
+      "@id": "#bzxkgm",
+      "name": "Travel and liability insurance",
+      "x": 430,
+      "y": 106,
+      "parent": "#zkuyv5"
+    },
+    {
+      "@id": "#36uv4n",
+      "name": "How insurers make money",
+      "x": 155,
+      "y": 157,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k6psdf",
+      "name": "Actuaries price risk with statistics",
+      "x": 389,
+      "y": 212,
+      "link": "https://en.wikipedia.org/wiki/Actuary",
+      "parent": "#36uv4n"
+    },
+    {
+      "@id": "#pvf99q",
+      "name": "Invest premiums before claims are paid",
+      "x": 281,
+      "y": 281,
+      "parent": "#36uv4n"
+    },
+    {
+      "@id": "#nqucu3",
+      "name": "Reinsurers insure the insurers",
+      "x": 164,
+      "y": 335,
+      "link": "https://en.wikipedia.org/wiki/Reinsurance",
+      "parent": "#36uv4n"
+    },
+    {
+      "@id": "#bcyqbu",
+      "name": "Built-in problems",
+      "x": -59,
+      "y": 211,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t5mt7k",
+      "name": "Adverse selection: risky people buy more",
+      "x": 38,
+      "y": 391,
+      "link": "https://en.wikipedia.org/wiki/Adverse_selection",
+      "parent": "#bcyqbu"
+    },
+    {
+      "@id": "#ddu46k",
+      "name": "Moral hazard: insured people take risks",
+      "x": -124,
+      "y": 447,
+      "parent": "#bcyqbu"
+    },
+    {
+      "@id": "#88mpwa",
+      "name": "Fraud and exaggerated claims raise prices",
+      "x": -225,
+      "y": 312,
+      "parent": "#bcyqbu"
+    },
+    {
+      "@id": "#uzc6v9",
+      "name": "History",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dt8ztc",
+      "name": "Marine insurance in medieval Italian ports",
+      "x": -495,
+      "y": 366,
+      "parent": "#uzc6v9"
+    },
+    {
+      "@id": "#fq3gmg",
+      "name": "Lloyd's of London began around 1688",
+      "x": -405,
+      "y": 156,
+      "parent": "#uzc6v9"
+    },
+    {
+      "@id": "#azivnb",
+      "name": "Social insurance via state pensions, unemployment",
+      "x": -525,
+      "y": 62,
+      "parent": "#uzc6v9"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 10,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

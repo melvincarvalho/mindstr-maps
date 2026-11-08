@@ -1,0 +1,31 @@
+category: History
+aliases: bronze age civilizations, bronze age collapse era, age of bronze
+- Bronze Age
+  - What it was
+    - Era of bronze tools and weapons
+    - Bronze: copper alloyed with tin
+    - Near East about 3300–1200 BC
+    - Dates vary by region
+  - Technology
+    - Tin traded over long distances
+    - Bronze swords, axes and armour
+    - War chariots with spoked wheels
+    - Potter's wheel and sailing ships
+  - Great civilisations
+    - Sumer, Akkad and Babylon
+    - Egypt's Old to New Kingdoms
+    - [Indus Valley Civilisation](https://en.wikipedia.org/wiki/Indus_Valley_Civilisation)
+    - [Minoans and Mycenaeans in Greece](https://en.wikipedia.org/wiki/Mycenaean_Greece)
+    - Shang dynasty China
+  - Society and writing
+    - Cuneiform and hieroglyphs invented
+    - Palaces, temples and kings
+    - Scribes, priests and bureaucracy
+    - Hittites and Egypt signed early treaty
+  - [Late Bronze Age collapse](https://en.wikipedia.org/wiki/Late_Bronze_Age_collapse)
+    - Around 1200–1150 BC
+    - Hittites and Mycenaean palaces fell
+    - Sea Peoples, drought and quakes blamed
+  - What came next
+    - [Iron Age: cheaper, abundant iron](https://en.wikipedia.org/wiki/Iron_Age)
+    - Alphabets spread from Phoenicia

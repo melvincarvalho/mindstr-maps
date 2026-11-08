@@ -1,0 +1,31 @@
+category: Philosophy and religion
+aliases: praying, types of prayer
+- Prayer
+  - What prayer is
+    - Communicating with God, gods or spirits
+    - Spoken, silent, sung or written
+    - Alone or with a congregation
+  - Kinds of prayer
+    - Praise and adoration
+    - Thanksgiving for blessings
+    - Confession and asking forgiveness
+    - Petition and intercession for others
+  - Across traditions
+    - [Muslims perform salah five times daily](https://en.wikipedia.org/wiki/Salah)
+    - [Christians pray the Lord's Prayer](https://en.wikipedia.org/wiki/Lord%27s_Prayer)
+    - Jews pray three daily services
+    - Hindus offer puja and chant mantras
+    - Buddhists chant, some using prayer wheels
+    - Sikhs recite Nitnem, set daily prayers
+  - Body and objects
+    - Kneeling, bowing or prostrating
+    - Hands folded or raised
+    - [Prayer beads: rosary, misbaha, mala](https://en.wikipedia.org/wiki/Prayer_beads)
+    - Facing a direction, such as Mecca
+  - Set and spontaneous
+    - Set liturgy recited word for word
+    - Spontaneous words from the heart
+    - Contemplative and meditative prayer
+  - Studying prayer
+    - Many report comfort and less stress
+    - [Healing-prayer trials found no clear effect](https://en.wikipedia.org/wiki/Studies_on_intercessory_prayer)

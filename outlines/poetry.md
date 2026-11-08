@@ -1,0 +1,32 @@
+category: Arts and culture
+aliases: poems, what is poetry, poetic forms
+- Poetry
+  - What poetry is
+    - Language shaped by sound and rhythm
+    - Compresses meaning into few words
+    - Lines and stanzas, not paragraphs
+  - Sound
+    - [Metre: patterns of stressed syllables](https://en.wikipedia.org/wiki/Metre_%28poetry%29)
+    - Rhyme links line endings
+    - Alliteration repeats opening sounds
+    - Free verse drops fixed metre
+  - Imagery and figures
+    - Metaphor and simile compare things
+    - Concrete images appeal to senses
+    - Symbols carry layered meanings
+  - Forms
+    - [Sonnet: 14 rhymed lines](https://en.wikipedia.org/wiki/Sonnet)
+    - [Haiku: three short lines, from Japan](https://en.wikipedia.org/wiki/Haiku)
+    - Epic: long heroic narrative
+    - Ballad tells a story in song
+    - Ode praises, elegy mourns
+  - History
+    - [Oral epics: Gilgamesh, Homer's Iliad](https://en.wikipedia.org/wiki/Iliad)
+    - China's ancient Classic of Poetry
+    - Persian masters Rumi and Hafez
+    - Romantics: Wordsworth, Keats, Shelley
+    - Modernists: T. S. Eliot, Ezra Pound
+  - Reading a poem
+    - Read it aloud, slowly
+    - Notice line breaks and pauses
+    - Ask who speaks, and to whom

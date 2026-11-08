@@ -1,0 +1,29 @@
+category: Society
+aliases: forms of government, types of government, system of government, how government works
+- Government
+  - What governments do
+    - Make and enforce laws
+    - Defend territory and keep order
+    - Collect taxes and provide services
+    - [Monopoly on legitimate force (Weber)](https://en.wikipedia.org/wiki/Monopoly_on_violence)
+  - Who holds power
+    - Democracy: rule by elected representatives
+    - Monarchy: a hereditary ruler
+    - Dictatorship: one unaccountable leader or party
+    - Oligarchy and theocracy
+  - Separation of powers
+    - Legislature makes the laws
+    - Executive carries them out
+    - Judiciary interprets and checks them
+  - How power is divided
+    - Unitary states centralise authority
+    - [Federal systems share power with regions](https://en.wikipedia.org/wiki/Federalism)
+    - Local councils run everyday services
+  - Executive models
+    - [Parliamentary: PM answers to parliament](https://en.wikipedia.org/wiki/Parliamentary_system)
+    - Presidential: separately elected head
+    - Semi-presidential mixes both, as France
+  - Legitimacy
+    - [Social contract: Hobbes, Locke, Rousseau](https://en.wikipedia.org/wiki/Social_contract)
+    - Constitutions set rules and rights
+    - Rule of law binds rulers too

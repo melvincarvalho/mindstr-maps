@@ -1,0 +1,30 @@
+category: Technology
+aliases: biotech, biotech industry, bioengineering, biotechnology applications
+- Biotechnology
+  - What it is
+    - Using living things to make products
+    - Ancient roots in brewing, bread, cheese
+    - Modern biotech edits DNA directly
+  - Key tools
+    - [Recombinant DNA splices genes, 1970s](https://en.wikipedia.org/wiki/Recombinant_DNA)
+    - [PCR copies DNA millions of times](https://en.wikipedia.org/wiki/Polymerase_chain_reaction)
+    - [CRISPR edits genes precisely](https://en.wikipedia.org/wiki/CRISPR_gene_editing)
+    - DNA sequencing reads genomes cheaply
+    - Fermentation in large bioreactors
+  - Medicine
+    - Insulin made by bacteria since 1982
+    - Monoclonal antibodies treat cancer
+    - mRNA vaccines used against COVID-19
+    - Gene therapies for inherited diseases
+  - Farming and food
+    - [Genetically modified crops resist pests](https://en.wikipedia.org/wiki/Genetically_modified_crops)
+    - Herbicide-tolerant soy and maize
+    - Enzymes used in food processing
+  - Industry and environment
+    - Biofuels from crops and waste
+    - Enzymes in laundry detergents
+    - Microbes clean up pollution
+  - Debates
+    - Safety and labelling of GM food
+    - Ethics of editing human embryos
+    - Patents on genes and organisms

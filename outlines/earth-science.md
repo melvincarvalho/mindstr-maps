@@ -1,0 +1,30 @@
+category: Science
+aliases: earth sciences, geoscience, geosciences
+- Earth science
+  - Branches
+    - [Geology: rocks and Earth's history](https://en.wikipedia.org/wiki/Geology)
+    - [Meteorology: weather and the atmosphere](https://en.wikipedia.org/wiki/Meteorology)
+    - Oceanography: seas and currents
+    - Seismology: earthquakes and Earth's interior
+  - Inside the Earth
+    - Thin rocky crust on top
+    - Hot, slowly flowing mantle
+    - Liquid iron outer core drives magnetism
+  - [Plate tectonics](https://en.wikipedia.org/wiki/Plate_tectonics)
+    - Crust split into moving plates
+    - Plates move a few cm a year
+    - Earthquakes and volcanoes at plate edges
+    - Colliding plates push up mountains
+  - [The rock cycle](https://en.wikipedia.org/wiki/Rock_cycle)
+    - Igneous rock cools from magma
+    - Sedimentary rock forms in layers
+    - Metamorphic rock changed by heat, pressure
+    - Erosion wears rock into sediment
+  - Earth's systems
+    - Atmosphere, hydrosphere, biosphere, geosphere
+    - Water cycle moves water around
+    - Carbon cycle links life and rock
+  - Deep time and tools
+    - Earth is about 4.5 billion years old
+    - Fossils and rock layers date events
+    - Satellites, seismometers and drill cores

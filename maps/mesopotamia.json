@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Mesopotamia",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#wm5z6m",
+      "name": "Where it was",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hfh7wt",
+      "name": "Between the Tigris and Euphrates",
+      "x": -465,
+      "y": -56,
+      "parent": "#wm5z6m"
+    },
+    {
+      "@id": "#wnpx7v",
+      "name": "Mostly modern Iraq",
+      "x": -405,
+      "y": -156,
+      "parent": "#wm5z6m"
+    },
+    {
+      "@id": "#4hvwg9",
+      "name": "Part of the Fertile Crescent",
+      "x": -330,
+      "y": -245,
+      "parent": "#wm5z6m"
+    },
+    {
+      "@id": "#y529w5",
+      "name": "Firsts",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5f52id",
+      "name": "Early cities like Uruk",
+      "x": -225,
+      "y": -312,
+      "parent": "#y529w5"
+    },
+    {
+      "@id": "#fkw2n7",
+      "name": "Cuneiform writing, about 3200 BC",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Cuneiform",
+      "parent": "#y529w5"
+    },
+    {
+      "@id": "#j8jnk7",
+      "name": "Irrigation canals made desert farmland",
+      "x": 42,
+      "y": -423,
+      "parent": "#y529w5"
+    },
+    {
+      "@id": "#frp439",
+      "name": "Base-60 counting: our hours, degrees",
+      "x": 234,
+      "y": -485,
+      "parent": "#y529w5"
+    },
+    {
+      "@id": "#ixjg9u",
+      "name": "Peoples and empires",
+      "x": 220,
+      "y": -54,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2mvzwn",
+      "name": "Sumerians in the south",
+      "x": 281,
+      "y": -281,
+      "link": "https://en.wikipedia.org/wiki/Sumer",
+      "parent": "#ixjg9u"
+    },
+    {
+      "@id": "#u2rt6i",
+      "name": "Sargon's Akkadian Empire, about 2300 BC",
+      "x": 372,
+      "y": -203,
+      "parent": "#ixjg9u"
+    },
+    {
+      "@id": "#242smd",
+      "name": "Babylonians under Hammurabi",
+      "x": 430,
+      "y": -106,
+      "parent": "#ixjg9u"
+    },
+    {
+      "@id": "#kwmxrr",
+      "name": "Assyrians ruled from Nineveh",
+      "x": 450,
+      "y": 0,
+      "parent": "#ixjg9u"
+    },
+    {
+      "@id": "#7m9ckp",
+      "name": "Neo-Babylonians under Nebuchadnezzar II",
+      "x": 430,
+      "y": 106,
+      "parent": "#ixjg9u"
+    },
+    {
+      "@id": "#c55bme",
+      "name": "Law and literature",
+      "x": 155,
+      "y": 157,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yq7zmk",
+      "name": "Code of Hammurabi, about 1754 BC",
+      "x": 389,
+      "y": 212,
+      "link": "https://en.wikipedia.org/wiki/Code_of_Hammurabi",
+      "parent": "#c55bme"
+    },
+    {
+      "@id": "#7znr62",
+      "name": "Epic of Gilgamesh",
+      "x": 281,
+      "y": 281,
+      "link": "https://en.wikipedia.org/wiki/Epic_of_Gilgamesh",
+      "parent": "#c55bme"
+    },
+    {
+      "@id": "#dj75m7",
+      "name": "Clay tablets kept records and letters",
+      "x": 164,
+      "y": 335,
+      "parent": "#c55bme"
+    },
+    {
+      "@id": "#8mffex",
+      "name": "Religion and cities",
+      "x": -59,
+      "y": 211,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zhk433",
+      "name": "Each city had a patron god",
+      "x": 38,
+      "y": 391,
+      "parent": "#8mffex"
+    },
+    {
+      "@id": "#ziqdiz",
+      "name": "Ziggurats: stepped temple platforms",
+      "x": -124,
+      "y": 447,
+      "parent": "#8mffex"
+    },
+    {
+      "@id": "#zff82m",
+      "name": "Priests and kings ruled together",
+      "x": -225,
+      "y": 312,
+      "parent": "#8mffex"
+    },
+    {
+      "@id": "#s36rba",
+      "name": "End and legacy",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bcaecm",
+      "name": "Persia's Cyrus took Babylon, 539 BC",
+      "x": -495,
+      "y": 366,
+      "parent": "#s36rba"
+    },
+    {
+      "@id": "#r6xj9x",
+      "name": "Later Greek, Parthian and Islamic rule",
+      "x": -405,
+      "y": 156,
+      "parent": "#s36rba"
+    },
+    {
+      "@id": "#6ac5q8",
+      "name": "Wheel, astronomy and maths passed on",
+      "x": -485,
+      "y": 58,
+      "parent": "#s36rba"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 10,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

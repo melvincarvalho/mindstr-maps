@@ -1,0 +1,28 @@
+category: Life and home
+aliases: jewelry, jewels, types of jewellery
+- Jewellery
+  - Why people wear it
+    - Adornment and personal style
+    - Marks marriage, faith or status
+    - Portable wealth and family heirlooms
+    - Gifts for milestones and celebrations
+  - An ancient craft
+    - Shell beads over 100,000 years old
+    - Egyptian gold and faience collars
+    - Every culture has its own traditions
+  - Common pieces
+    - Rings, earrings and necklaces
+    - Bracelets, bangles and anklets
+    - Brooches, pins and body piercings
+    - Watches as functional jewellery
+  - Materials
+    - [Gold purity measured in carats](https://en.wikipedia.org/wiki/Fineness)
+    - Silver and platinum
+    - [Gemstones: diamond, ruby, sapphire, emerald](https://en.wikipedia.org/wiki/Gemstone)
+    - [Pearls grown by oysters and mussels](https://en.wikipedia.org/wiki/Pearl)
+    - Costume jewellery uses cheaper materials
+  - Buying and care
+    - [Look for hallmarks on precious metals](https://en.wikipedia.org/wiki/Hallmark)
+    - Ask about ethically sourced stones
+    - Remove before swimming and cleaning
+    - Store pieces apart to avoid scratches

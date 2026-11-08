@@ -1,0 +1,34 @@
+category: Geography
+aliases: federal republic of germany, deutschland
+- Germany
+  - Geography
+    - Central Europe, about 357,000 km²
+    - North Sea plain to Alps
+    - Rhine, Elbe and Danube rivers
+    - Berlin capital and largest city
+  - People and languages
+    - About 84 million people
+    - German is the official language
+    - About a quarter have migrant backgrounds
+    - Catholic, Protestant and growing non-religious
+  - History in brief
+    - Holy Roman Empire for nearly 1,000 years
+    - [Luther began the Reformation, 1517](https://en.wikipedia.org/wiki/Reformation)
+    - Unified as empire under Bismarck, 1871
+    - [Nazi dictatorship and the Holocaust](https://en.wikipedia.org/wiki/The_Holocaust)
+    - [Split East and West, reunified 1990](https://en.wikipedia.org/wiki/German_reunification)
+  - Government
+    - Federal parliamentary republic
+    - Chancellor elected by the Bundestag
+    - Bundesrat represents the states
+    - Founding EU member; NATO since 1955
+  - Economy
+    - Europe's largest economy; uses the euro
+    - Cars, machinery and chemicals exported
+    - Family-owned Mittelstand firms
+    - Shut last nuclear plants in 2023
+  - Culture
+    - [Composers Bach, Beethoven and Brahms](https://en.wikipedia.org/wiki/Music_of_Germany)
+    - Thinkers Kant, Hegel and Marx
+    - Goethe and Schiller in literature
+    - Beer, Oktoberfest and Christmas markets

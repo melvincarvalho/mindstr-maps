@@ -1,0 +1,32 @@
+category: Arts and culture
+aliases: cinema, movies, motion pictures, history of film
+- Film
+  - How film works
+    - Still frames shown in rapid sequence
+    - 24 frames per second is standard
+    - Editing joins shots into scenes
+  - Early cinema
+    - [Lumière brothers screen films in 1895](https://en.wikipedia.org/wiki/Auguste_and_Louis_Lumi%C3%A8re)
+    - Georges Méliès pioneers special effects
+    - Silent stars like Charlie Chaplin
+    - [The Jazz Singer brings sound, 1927](https://en.wikipedia.org/wiki/The_Jazz_Singer)
+  - Hollywood and the studios
+    - Studio system's golden age, 1930s–1940s
+    - Technicolor brings vivid colour
+    - [Citizen Kane (1941) often called greatest](https://en.wikipedia.org/wiki/Citizen_Kane)
+  - World cinema
+    - Soviet montage: Eisenstein's Battleship Potemkin
+    - Italian neorealism after the Second World War
+    - [French New Wave breaks the rules](https://en.wikipedia.org/wiki/French_New_Wave)
+    - Akira Kurosawa and Japanese cinema
+    - India makes the most films yearly
+  - Genres
+    - Drama, comedy, horror and thriller
+    - Westerns, musicals and science fiction
+    - Animation, from Disney to Pixar
+    - Documentary records real life
+  - Film today
+    - Blockbusters and franchise sequels
+    - Digital cameras replaced celluloid
+    - Streaming services change how we watch
+    - [Oscars and Cannes honour the best](https://en.wikipedia.org/wiki/Academy_Awards)

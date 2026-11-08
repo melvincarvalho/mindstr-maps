@@ -1,0 +1,28 @@
+category: Science
+aliases: the cosmos, what is the universe
+- Universe
+  - What it contains
+    - All space, time, matter and energy
+    - At least hundreds of billions of galaxies
+    - Galaxies form a web of filaments
+    - Huge empty voids between filaments
+  - The beginning
+    - [Big Bang about 13.8 billion years ago](https://en.wikipedia.org/wiki/Big_Bang)
+    - First atoms formed after 380,000 years
+    - First stars within half a billion years
+  - Size and shape
+    - [Observable universe about 93 billion light-years wide](https://en.wikipedia.org/wiki/Observable_universe)
+    - Space looks flat on large scales
+    - The whole may be infinite
+  - What it's made of
+    - Ordinary matter about 5%
+    - [Dark matter about 27%](https://en.wikipedia.org/wiki/Dark_matter)
+    - [Dark energy about 68%](https://en.wikipedia.org/wiki/Dark_energy)
+  - Expansion
+    - Galaxies move apart as space stretches
+    - Hubble's law links distance and speed
+    - Expansion is accelerating, found 1998
+  - Possible futures
+    - [Most likely: slow cooling to heat death](https://en.wikipedia.org/wiki/Heat_death_of_the_universe)
+    - Star formation ends in trillions of years
+    - Big Crunch or Big Rip less favoured

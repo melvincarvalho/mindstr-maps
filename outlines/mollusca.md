@@ -1,0 +1,30 @@
+category: Science
+aliases: mollusc, mollusk, molluscs, mollusks
+- Mollusca
+  - What makes them distinct
+    - Soft body, usually no segments
+    - Muscular foot for moving
+    - Mantle that often builds a shell
+    - [Radula, a rasping tongue](https://en.wikipedia.org/wiki/Radula)
+  - Size and diversity
+    - About 85,000 living species
+    - Second-largest animal phylum after arthropods
+    - Tiny snails to giant squids
+  - Main groups
+    - [Gastropods: snails and slugs](https://en.wikipedia.org/wiki/Gastropoda)
+    - Bivalves: clams, mussels, oysters
+    - [Cephalopods: octopus, squid, cuttlefish](https://en.wikipedia.org/wiki/Cephalopod)
+    - Chitons with eight shell plates
+  - Remarkable features
+    - Octopuses solve puzzles and use tools
+    - Squid and cuttlefish change colour instantly
+    - Oysters build pearls around irritants
+    - [Ammonites left famous spiral fossils](https://en.wikipedia.org/wiki/Ammonoidea)
+  - Role in ecosystems
+    - Bivalves filter and clean water
+    - Oyster reefs shelter other species
+    - Food for fish, birds and mammals
+  - Molluscs and people
+    - Seafood: mussels, scallops, calamari
+    - Garden snails and slugs eat crops
+    - Some snails spread schistosomiasis

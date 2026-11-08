@@ -1,0 +1,320 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Organic chemistry",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#rhdtvq",
+      "name": "The chemistry of carbon",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nwenyv",
+      "name": "Carbon forms four bonds",
+      "x": -484,
+      "y": -60,
+      "parent": "#rhdtvq"
+    },
+    {
+      "@id": "#brad82",
+      "name": "Chains, rings and branches",
+      "x": -401,
+      "y": -163,
+      "parent": "#rhdtvq"
+    },
+    {
+      "@id": "#zng7kq",
+      "name": "Millions of known compounds",
+      "x": -318,
+      "y": -255,
+      "parent": "#rhdtvq"
+    },
+    {
+      "@id": "#vamv6p",
+      "name": "Hydrocarbons: just carbon and hydrogen",
+      "x": -36,
+      "y": -182,
+      "link": "https://en.wikipedia.org/wiki/Hydrocarbon",
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kmr8d7",
+      "name": "Alkanes: methane, propane, petrol",
+      "x": -204,
+      "y": -321,
+      "parent": "#vamv6p"
+    },
+    {
+      "@id": "#86yzu3",
+      "name": "Alkenes have a C=C double bond",
+      "x": -73,
+      "y": -372,
+      "parent": "#vamv6p"
+    },
+    {
+      "@id": "#qbg5j3",
+      "name": "Aromatics built on benzene rings",
+      "x": 82,
+      "y": -420,
+      "link": "https://en.wikipedia.org/wiki/Benzene",
+      "parent": "#vamv6p"
+    },
+    {
+      "@id": "#3yfsaj",
+      "name": "Functional groups set behaviour",
+      "x": 186,
+      "y": -108,
+      "link": "https://en.wikipedia.org/wiki/Functional_group",
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#84ecnj",
+      "name": "Alcohols carry -OH, as in ethanol",
+      "x": 204,
+      "y": -321,
+      "parent": "#3yfsaj"
+    },
+    {
+      "@id": "#qqjx8c",
+      "name": "Carboxylic acids: vinegar's acetic acid",
+      "x": 318,
+      "y": -255,
+      "parent": "#3yfsaj"
+    },
+    {
+      "@id": "#zy5s83",
+      "name": "Amines contain nitrogen",
+      "x": 401,
+      "y": -163,
+      "parent": "#3yfsaj"
+    },
+    {
+      "@id": "#hxss34",
+      "name": "Esters give fruity smells",
+      "x": 444,
+      "y": -56,
+      "parent": "#3yfsaj"
+    },
+    {
+      "@id": "#9pemny",
+      "name": "Reactions and synthesis",
+      "x": 205,
+      "y": 84,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xxaipb",
+      "name": "Substitution, addition and elimination",
+      "x": 544,
+      "y": 66,
+      "parent": "#9pemny"
+    },
+    {
+      "@id": "#xmeyme",
+      "name": "Polymerisation makes plastics",
+      "x": 401,
+      "y": 163,
+      "parent": "#9pemny"
+    },
+    {
+      "@id": "#pa9a3k",
+      "name": "Drugs built step by step",
+      "x": 318,
+      "y": 255,
+      "parent": "#9pemny"
+    },
+    {
+      "@id": "#mdjxre",
+      "name": "Shape matters",
+      "x": 36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7tr3gy",
+      "name": "Isomers: same formula, different structure",
+      "x": 204,
+      "y": 321,
+      "parent": "#mdjxre"
+    },
+    {
+      "@id": "#22abky",
+      "name": "Chirality: mirror-image molecules",
+      "x": 73,
+      "y": 372,
+      "link": "https://en.wikipedia.org/wiki/Chirality_%28chemistry%29",
+      "parent": "#mdjxre"
+    },
+    {
+      "@id": "#ibmwbs",
+      "name": "Mirror forms can act differently as drugs",
+      "x": -82,
+      "y": 420,
+      "parent": "#mdjxre"
+    },
+    {
+      "@id": "#9yasrp",
+      "name": "Everywhere in daily life",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r24ypg",
+      "name": "Medicines like aspirin and penicillin",
+      "x": -204,
+      "y": 321,
+      "parent": "#9yasrp"
+    },
+    {
+      "@id": "#rra6bw",
+      "name": "Plastics, nylon and polyester",
+      "x": -318,
+      "y": 255,
+      "parent": "#9yasrp"
+    },
+    {
+      "@id": "#6gnuir",
+      "name": "Fuels refined from crude oil",
+      "x": -401,
+      "y": 163,
+      "parent": "#9yasrp"
+    },
+    {
+      "@id": "#zajesv",
+      "name": "Wöhler made urea in 1828",
+      "x": -444,
+      "y": 56,
+      "link": "https://en.wikipedia.org/wiki/W%C3%B6hler_synthesis",
+      "parent": "#9yasrp"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

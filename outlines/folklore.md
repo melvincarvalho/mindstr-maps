@@ -1,0 +1,28 @@
+category: Society
+aliases: folk tales, folk traditions, folklore studies
+- Folklore
+  - What folklore is
+    - Traditional knowledge shared informally
+    - Passed on by word and example
+    - Term coined by William Thoms, 1846
+  - Folk narratives
+    - [Myths explain origins and the sacred](https://en.wikipedia.org/wiki/Myth)
+    - Legends tied to real places, people
+    - [Folk tales and fairy tales](https://en.wikipedia.org/wiki/Fairy_tale)
+    - [Urban legends still circulate today](https://en.wikipedia.org/wiki/Urban_legend)
+  - Customs and beliefs
+    - Superstitions and folk remedies
+    - Seasonal rituals and festivals
+    - Rites of passage like weddings
+  - Performed and material folklore
+    - Folk songs, dances and music
+    - Crafts, costume and vernacular building
+    - Proverbs, riddles and jokes
+  - Collecting and classifying
+    - [Brothers Grimm collected German tales](https://en.wikipedia.org/wiki/Brothers_Grimm)
+    - Tale-type indexes group similar stories
+    - Folkloristics is the academic study
+  - Folklore today
+    - Internet memes as digital folklore
+    - Reworked in films and fantasy fiction
+    - Source of community and national identity

@@ -1,0 +1,31 @@
+category: People
+aliases: henry ford biography, founder of ford motor company
+- Henry Ford
+  - Early life
+    - Born 1863 on a Michigan farm
+    - Machinist apprentice in Detroit
+    - Engineer at Edison Illuminating Company
+    - Built his first car, the Quadricycle, 1896
+  - Ford Motor Company
+    - Founded with investors in 1903
+    - [Model T launched in 1908](https://en.wikipedia.org/wiki/Ford_Model_T)
+    - About 15 million Model Ts sold
+  - Mass production
+    - [Moving assembly line from 1913](https://en.wikipedia.org/wiki/Assembly_line)
+    - Model T price fell below $300
+    - Highland Park and River Rouge plants
+  - Workers and wages
+    - Five-dollar day introduced in 1914
+    - [Fordism: mass production, mass consumption](https://en.wikipedia.org/wiki/Fordism)
+    - Fought unions, Battle of the Overpass 1937
+    - Recognised the UAW only in 1941
+  - Antisemitism
+    - [Dearborn Independent ran antisemitic articles](https://en.wikipedia.org/wiki/The_Dearborn_Independent)
+    - [Published "The International Jew", 1920s](https://en.wikipedia.org/wiki/The_International_Jew)
+    - Promoted the forged Protocols of Zion
+    - Issued a public retraction in 1927
+    - Accepted a Nazi German medal, 1938
+  - Later life and legacy
+    - Died 1947 in Dearborn, Michigan
+    - Ford Foundation founded in 1936
+    - Made cars affordable for ordinary families

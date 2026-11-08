@@ -1,0 +1,30 @@
+category: History
+aliases: holy roman emperor, first reich, heiliges romisches reich
+- Holy Roman Empire
+  - What it was
+    - Central European realm, 800/962–1806
+    - Mostly German lands, plus Italy and Bohemia
+    - "Neither holy, nor Roman, nor an empire"
+  - Beginnings
+    - [Charlemagne crowned by the Pope, 800](https://en.wikipedia.org/wiki/Charlemagne)
+    - [Otto I crowned emperor in 962](https://en.wikipedia.org/wiki/Otto_the_Great)
+    - Claimed succession to ancient Rome
+  - How it worked
+    - Hundreds of princes, bishops and cities
+    - Emperor chosen by prince-electors
+    - [Golden Bull of 1356 fixed seven electors](https://en.wikipedia.org/wiki/Golden_Bull_of_1356)
+    - Imperial Diet, the Reichstag, met regularly
+  - Emperors and popes
+    - Investiture Controversy over appointing bishops
+    - Henry IV's penance at Canossa, 1077
+    - Frederick Barbarossa's wars in Italy
+  - Habsburg era
+    - Habsburgs held the crown from 1438
+    - Charles V ruled a vast inheritance
+    - Luther's Reformation divided the empire
+    - [Thirty Years' War, 1618–1648](https://en.wikipedia.org/wiki/Thirty_Years%27_War)
+  - End and legacy
+    - Peace of Westphalia weakened the emperor
+    - Napoleon's victories hastened its collapse
+    - Francis II dissolved it in 1806
+    - Shaped Germany's federal tradition

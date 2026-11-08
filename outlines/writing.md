@@ -1,0 +1,29 @@
+category: Society
+aliases: history of writing, invention of writing
+- Writing
+  - Invented independently several times
+    - [Mesopotamian cuneiform, about 3200 BC](https://en.wikipedia.org/wiki/Cuneiform)
+    - [Egyptian hieroglyphs, about 3200 BC](https://en.wikipedia.org/wiki/Egyptian_hieroglyphs)
+    - Chinese oracle bone script, about 1200 BC
+    - Mesoamerica, first millennium BC
+  - Why it began
+    - Tallying grain, livestock and taxes
+    - Recording laws, kings and rituals
+    - Pictures slowly came to stand for sounds
+  - Kinds of system
+    - Logograms stand for whole words
+    - Syllabaries stand for syllables
+    - Alphabets stand for single sounds
+  - Tools and materials
+    - Clay tablets pressed with a stylus
+    - Papyrus, parchment, then paper from China
+    - [Printing press, Gutenberg about 1440](https://en.wikipedia.org/wiki/Printing_press)
+    - Keyboards, screens and Unicode text
+  - What writing changed
+    - Knowledge outlives the people who knew it
+    - Laws, contracts and bureaucracy at scale
+    - Literature, history and science accumulate
+  - Literacy
+    - For most of history, few could read
+    - Mass schooling spread reading after 1800
+    - [About 87% of adults now literate](https://en.wikipedia.org/wiki/Literacy)

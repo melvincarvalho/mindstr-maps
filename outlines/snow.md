@@ -1,0 +1,30 @@
+category: Science
+aliases: snowfall, snowflakes, how snow forms, snowstorm
+- Snow
+  - How snow forms
+    - Water vapour freezes onto tiny particles
+    - Ice crystals grow into snowflakes
+    - Falls when air stays near freezing
+  - Snowflakes
+    - [Six-sided because of ice structure](https://en.wikipedia.org/wiki/Snowflake)
+    - Shape depends on temperature and humidity
+    - Mostly air: good insulator
+  - Kinds of snowfall
+    - Sleet: partly melted snow
+    - [Lake-effect snow downwind of lakes](https://en.wikipedia.org/wiki/Lake-effect_snow)
+    - [Blizzard: strong wind, low visibility](https://en.wikipedia.org/wiki/Blizzard)
+    - Wet snow sticks, dry snow drifts
+  - Snow on the ground
+    - Reflects most sunlight back
+    - Snowpack stores water for spring rivers
+    - Glaciers form from compacted snow
+    - [Avalanches on steep slopes](https://en.wikipedia.org/wiki/Avalanche)
+  - Living with snow
+    - Ploughing and gritting roads
+    - Winter tyres or chains
+    - Snow load can collapse roofs
+  - Staying safe
+    - Follow official winter weather warnings
+    - Avoid travel in heavy snow
+    - Carry blanket, food, water in car
+    - Shovel slowly: strain risks heart attacks

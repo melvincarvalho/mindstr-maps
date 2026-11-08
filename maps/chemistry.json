@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Chemistry",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#bedr5a",
+      "name": "Matter is made of atoms",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#n2h5i6",
+      "name": "About 118 known chemical elements",
+      "x": -525,
+      "y": -59,
+      "link": "https://en.wikipedia.org/wiki/Chemical_element",
+      "parent": "#bedr5a"
+    },
+    {
+      "@id": "#kc65va",
+      "name": "Protons, neutrons and surrounding electrons",
+      "x": -409,
+      "y": -150,
+      "parent": "#bedr5a"
+    },
+    {
+      "@id": "#u64aft",
+      "name": "Periodic table groups similar elements",
+      "x": -340,
+      "y": -236,
+      "link": "https://en.wikipedia.org/wiki/Periodic_table",
+      "parent": "#bedr5a"
+    },
+    {
+      "@id": "#3rht82",
+      "name": "Atoms bond into molecules",
+      "x": -113,
+      "y": -297,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gu3tmg",
+      "name": "Ionic bonds: table salt, NaCl",
+      "x": -287,
+      "y": -355,
+      "parent": "#3rht82"
+    },
+    {
+      "@id": "#uvarnw",
+      "name": "Covalent bonds: water, H₂O",
+      "x": -151,
+      "y": -405,
+      "parent": "#3rht82"
+    },
+    {
+      "@id": "#9e65tg",
+      "name": "Metallic bonds let metals conduct",
+      "x": 0,
+      "y": -456,
+      "parent": "#3rht82"
+    },
+    {
+      "@id": "#efzv3k",
+      "name": "Chemical reactions",
+      "x": 151,
+      "y": -139,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pq65ig",
+      "name": "Old bonds break, new ones form",
+      "x": 127,
+      "y": -345,
+      "parent": "#efzv3k"
+    },
+    {
+      "@id": "#xtffbu",
+      "name": "Mass is conserved in reactions",
+      "x": 320,
+      "y": -394,
+      "parent": "#efzv3k"
+    },
+    {
+      "@id": "#pgjeip",
+      "name": "Burning, rusting and cooking are reactions",
+      "x": 340,
+      "y": -236,
+      "parent": "#efzv3k"
+    },
+    {
+      "@id": "#wctk55",
+      "name": "Catalysts speed reactions without being used",
+      "x": 481,
+      "y": -178,
+      "parent": "#efzv3k"
+    },
+    {
+      "@id": "#xt6g99",
+      "name": "Acids, bases and solutions",
+      "x": 228,
+      "y": 26,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#caj7t8",
+      "name": "pH scale usually runs 0 to 14",
+      "x": 445,
+      "y": -51,
+      "link": "https://en.wikipedia.org/wiki/PH",
+      "parent": "#xt6g99"
+    },
+    {
+      "@id": "#dtnc74",
+      "name": "Lemon juice is acidic, soap basic",
+      "x": 545,
+      "y": 61,
+      "parent": "#xt6g99"
+    },
+    {
+      "@id": "#e35tyd",
+      "name": "Water dissolves many substances",
+      "x": 409,
+      "y": 150,
+      "parent": "#xt6g99"
+    },
+    {
+      "@id": "#6vfqpv",
+      "name": "Main branches",
+      "x": 65,
+      "y": 177,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8yqrc8",
+      "name": "Organic: carbon compounds",
+      "x": 340,
+      "y": 236,
+      "parent": "#6vfqpv"
+    },
+    {
+      "@id": "#7h62y3",
+      "name": "Inorganic: metals, minerals and salts",
+      "x": 243,
+      "y": 303,
+      "parent": "#6vfqpv"
+    },
+    {
+      "@id": "#deqafw",
+      "name": "Physical: energy and reaction rates",
+      "x": 133,
+      "y": 360,
+      "parent": "#6vfqpv"
+    },
+    {
+      "@id": "#h4pjyf",
+      "name": "Analytical: what is in a sample",
+      "x": 0,
+      "y": 408,
+      "parent": "#6vfqpv"
+    },
+    {
+      "@id": "#5fdgjs",
+      "name": "Biochemistry: chemistry of living things",
+      "x": -175,
+      "y": 465,
+      "parent": "#6vfqpv"
+    },
+    {
+      "@id": "#bzb6qm",
+      "name": "Why it matters",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#53r385",
+      "name": "Medicines are designed and made chemically",
+      "x": -243,
+      "y": 303,
+      "parent": "#bzb6qm"
+    },
+    {
+      "@id": "#cikr8f",
+      "name": "Fertilisers help feed billions",
+      "x": -340,
+      "y": 236,
+      "parent": "#bzb6qm"
+    },
+    {
+      "@id": "#f5c83z",
+      "name": "Plastics, fuels and batteries",
+      "x": -409,
+      "y": 150,
+      "parent": "#bzb6qm"
+    },
+    {
+      "@id": "#abgzdk",
+      "name": "Lavoisier helped found modern chemistry",
+      "x": -445,
+      "y": 51,
+      "link": "https://en.wikipedia.org/wiki/Antoine_Lavoisier",
+      "parent": "#bzb6qm"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 18,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

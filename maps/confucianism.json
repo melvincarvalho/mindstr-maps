@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Confucianism",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#gvptri",
+      "name": "Origins",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qjge28",
+      "name": "Confucius taught in Lu, about 500 BCE",
+      "x": -485,
+      "y": -58,
+      "link": "https://en.wikipedia.org/wiki/Confucius",
+      "parent": "#gvptri"
+    },
+    {
+      "@id": "#i2p2e7",
+      "name": "The Analects record his sayings",
+      "x": -405,
+      "y": -156,
+      "link": "https://en.wikipedia.org/wiki/Analects",
+      "parent": "#gvptri"
+    },
+    {
+      "@id": "#3bbbm4",
+      "name": "Mencius and Xunzi developed it",
+      "x": -330,
+      "y": -245,
+      "parent": "#gvptri"
+    },
+    {
+      "@id": "#im3m6p",
+      "name": "Core virtues",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bha5tm",
+      "name": "Ren: humaneness toward others",
+      "x": -225,
+      "y": -312,
+      "parent": "#im3m6p"
+    },
+    {
+      "@id": "#krrd7k",
+      "name": "Li: ritual and proper conduct",
+      "x": -104,
+      "y": -367,
+      "parent": "#im3m6p"
+    },
+    {
+      "@id": "#ayw7ci",
+      "name": "Yi: doing what is right",
+      "x": 42,
+      "y": -423,
+      "parent": "#im3m6p"
+    },
+    {
+      "@id": "#qb4e7c",
+      "name": "Filial piety: honour parents and ancestors",
+      "x": 234,
+      "y": -485,
+      "link": "https://en.wikipedia.org/wiki/Filial_piety",
+      "parent": "#im3m6p"
+    },
+    {
+      "@id": "#dx4xw3",
+      "name": "Five key relationships",
+      "x": 220,
+      "y": -54,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#q373rb",
+      "name": "Ruler and subject",
+      "x": 281,
+      "y": -281,
+      "parent": "#dx4xw3"
+    },
+    {
+      "@id": "#nve75z",
+      "name": "Father and son",
+      "x": 372,
+      "y": -203,
+      "parent": "#dx4xw3"
+    },
+    {
+      "@id": "#8kjd5w",
+      "name": "Husband and wife",
+      "x": 430,
+      "y": -106,
+      "parent": "#dx4xw3"
+    },
+    {
+      "@id": "#tc8bqf",
+      "name": "Elder and younger brother",
+      "x": 450,
+      "y": 0,
+      "parent": "#dx4xw3"
+    },
+    {
+      "@id": "#iyrtmr",
+      "name": "Friend and friend",
+      "x": 430,
+      "y": 106,
+      "parent": "#dx4xw3"
+    },
+    {
+      "@id": "#s9wg9j",
+      "name": "Government",
+      "x": 143,
+      "y": 144,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h9ykww",
+      "name": "Rule by moral example, not force",
+      "x": 372,
+      "y": 203,
+      "parent": "#s9wg9j"
+    },
+    {
+      "@id": "#dfsq9s",
+      "name": "Han dynasty made it state orthodoxy",
+      "x": 281,
+      "y": 281,
+      "parent": "#s9wg9j"
+    },
+    {
+      "@id": "#pe4p8a",
+      "name": "Exams on the classics chose officials",
+      "x": 164,
+      "y": 335,
+      "link": "https://en.wikipedia.org/wiki/Imperial_examination",
+      "parent": "#s9wg9j"
+    },
+    {
+      "@id": "#pnnfnd",
+      "name": "Later history",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nm2fhe",
+      "name": "Neo-Confucianism: Zhu Xi, 12th century",
+      "x": 38,
+      "y": 391,
+      "link": "https://en.wikipedia.org/wiki/Neo-Confucianism",
+      "parent": "#pnnfnd"
+    },
+    {
+      "@id": "#9vcc53",
+      "name": "Spread to Korea, Japan and Vietnam",
+      "x": -124,
+      "y": 447,
+      "parent": "#pnnfnd"
+    },
+    {
+      "@id": "#3p6ys4",
+      "name": "Attacked in 1919 and Cultural Revolution",
+      "x": -245,
+      "y": 340,
+      "parent": "#pnnfnd"
+    },
+    {
+      "@id": "#w7qnfh",
+      "name": "Everyday legacy",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nkynsz",
+      "name": "Respect for elders and teachers",
+      "x": -330,
+      "y": 245,
+      "parent": "#w7qnfh"
+    },
+    {
+      "@id": "#3sd44q",
+      "name": "High value placed on education",
+      "x": -405,
+      "y": 156,
+      "parent": "#w7qnfh"
+    },
+    {
+      "@id": "#e37qt4",
+      "name": "Don't impose on others what you dislike",
+      "x": -505,
+      "y": 60,
+      "parent": "#w7qnfh"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 10,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

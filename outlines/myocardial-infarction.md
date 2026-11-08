@@ -1,0 +1,33 @@
+category: Health
+aliases: heart attack, heart attack symptoms, signs of a heart attack, acute myocardial infarction
+- Myocardial infarction
+  - Warning signs: act fast
+    - Chest pain, pressure or tightness
+    - Pain spreading to arm, jaw, back
+    - Shortness of breath and sweating
+    - Nausea or lightheadedness
+    - Women more often have subtle symptoms
+  - What to do
+    - Call emergency services immediately
+    - Chew aspirin if advised by operator
+    - Rest and stay calm
+    - [If unresponsive, start CPR](https://en.wikipedia.org/wiki/Cardiopulmonary_resuscitation)
+  - What happens
+    - A coronary artery becomes blocked
+    - Usually a clot on ruptured plaque
+    - Heart muscle dies without oxygen
+    - Not the same as cardiac arrest
+  - Risk factors
+    - [Coronary artery disease builds over years](https://en.wikipedia.org/wiki/Coronary_artery_disease)
+    - Smoking, high blood pressure, cholesterol
+    - Diabetes, obesity and inactivity
+    - Older age and family history
+  - Hospital diagnosis and treatment
+    - [ECG shows heart damage](https://en.wikipedia.org/wiki/Electrocardiography)
+    - Troponin blood test confirms it
+    - [Angioplasty and stent reopen artery](https://en.wikipedia.org/wiki/Percutaneous_coronary_intervention)
+    - Clot-busting drugs if no cath lab
+  - Recovery
+    - [Cardiac rehabilitation and exercise](https://en.wikipedia.org/wiki/Cardiac_rehabilitation)
+    - Statins, aspirin and beta blockers
+    - Quit smoking and eat healthily

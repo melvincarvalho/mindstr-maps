@@ -1,0 +1,29 @@
+category: People
+aliases: president george washington, general george washington, washington first president
+- George Washington
+  - Early life
+    - Born 1732 in Virginia colony
+    - Worked as a land surveyor
+    - Owned Mount Vernon plantation
+  - Colonial soldier
+    - Officer in the French and Indian War
+    - Elected to Virginia's House of Burgesses
+  - Revolutionary War
+    - Commander of the Continental Army, 1775
+    - Crossed the Delaware to win at Trenton
+    - Endured winter at Valley Forge
+    - [British surrendered at Yorktown, 1781](https://en.wikipedia.org/wiki/Siege_of_Yorktown)
+    - Resigned his commission in 1783
+  - Founding the nation
+    - [Presided over Constitutional Convention, 1787](https://en.wikipedia.org/wiki/Constitutional_Convention_%28United_States%29)
+    - Unanimously elected first president
+  - President, 1789 to 1797
+    - Built the first cabinet
+    - Neutrality in Britain–France wars
+    - [Farewell Address warned against factions](https://en.wikipedia.org/wiki/George_Washington%27s_Farewell_Address)
+    - Stepped down after two terms
+  - Legacy
+    - Died 1799 at Mount Vernon
+    - Enslaved hundreds; will freed his own
+    - Capital and a state named for him
+    - Called "Father of His Country"

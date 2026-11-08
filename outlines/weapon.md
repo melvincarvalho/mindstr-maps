@@ -1,0 +1,29 @@
+category: Technology
+aliases: weapons, weaponry, history of weapons
+- Weapon
+  - Tool designed to injure or deter
+    - Used for hunting, war and defence
+    - Also for sport and ceremony
+  - Prehistoric and ancient
+    - Stone spears and hand axes
+    - Bow and arrow, a Stone Age invention
+    - Bronze, then iron swords
+    - Chariots and siege engines
+  - Medieval and early modern
+    - Longbow and crossbow
+    - [Gunpowder spread from China](https://en.wikipedia.org/wiki/Gunpowder)
+    - Cannon changed castle warfare
+  - Modern warfare
+    - Machine guns in World War I
+    - Tanks, aircraft and missiles
+    - [Nuclear weapons first used in 1945](https://en.wikipedia.org/wiki/Nuclear_weapon)
+    - Drones and cyber weapons
+  - Control and law
+    - [Chemical Weapons Convention bans chemical arms](https://en.wikipedia.org/wiki/Chemical_Weapons_Convention)
+    - [Nuclear Non-Proliferation Treaty, 1968](https://en.wikipedia.org/wiki/Treaty_on_the_Non-Proliferation_of_Nuclear_Weapons)
+    - Ottawa Treaty bans anti-personnel landmines
+    - National laws limit carrying weapons
+  - Culture and sport
+    - Fencing and archery are Olympic sports
+    - Swords as symbols of rank
+    - Museums and historical reenactment

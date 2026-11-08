@@ -1,0 +1,340 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Theatre",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#bcnx7n",
+      "name": "What it is",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rfa4nd",
+      "name": "Live performers before an audience",
+      "x": -465,
+      "y": -53,
+      "parent": "#bcnx7n"
+    },
+    {
+      "@id": "#fragms",
+      "name": "Stories told through action and dialogue",
+      "x": -409,
+      "y": -150,
+      "parent": "#bcnx7n"
+    },
+    {
+      "@id": "#p42d3j",
+      "name": "Each performance is unrepeatable",
+      "x": -340,
+      "y": -236,
+      "parent": "#bcnx7n"
+    },
+    {
+      "@id": "#q3d3q9",
+      "name": "Major traditions",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6dgv8d",
+      "name": "Ancient Greek tragedy and comedy",
+      "x": -243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Greek_tragedy",
+      "parent": "#q3d3q9"
+    },
+    {
+      "@id": "#fswjhv",
+      "name": "Noh, kabuki and Sanskrit drama",
+      "x": -133,
+      "y": -360,
+      "parent": "#q3d3q9"
+    },
+    {
+      "@id": "#65zs87",
+      "name": "Shakespeare and the Globe Theatre",
+      "x": 0,
+      "y": -408,
+      "link": "https://en.wikipedia.org/wiki/William_Shakespeare",
+      "parent": "#q3d3q9"
+    },
+    {
+      "@id": "#qhbftr",
+      "name": "Commedia dell'arte's masked characters",
+      "x": 175,
+      "y": -465,
+      "parent": "#q3d3q9"
+    },
+    {
+      "@id": "#a93ude",
+      "name": "Realism of Ibsen and Chekhov",
+      "x": 243,
+      "y": -303,
+      "parent": "#q3d3q9"
+    },
+    {
+      "@id": "#kxbztv",
+      "name": "Modern movements",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2nw9wj",
+      "name": "Brecht's epic theatre",
+      "x": 340,
+      "y": -236,
+      "parent": "#kxbztv"
+    },
+    {
+      "@id": "#k848yn",
+      "name": "Theatre of the Absurd, Beckett",
+      "x": 409,
+      "y": -150,
+      "parent": "#kxbztv"
+    },
+    {
+      "@id": "#fzejeq",
+      "name": "Musicals on Broadway and West End",
+      "x": 505,
+      "y": -57,
+      "parent": "#kxbztv"
+    },
+    {
+      "@id": "#guettq",
+      "name": "Experimental and immersive theatre",
+      "x": 445,
+      "y": 51,
+      "parent": "#kxbztv"
+    },
+    {
+      "@id": "#ggxqgw",
+      "name": "Making a production",
+      "x": 151,
+      "y": 139,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6nd2aj",
+      "name": "Playwright writes the script",
+      "x": 427,
+      "y": 157,
+      "parent": "#ggxqgw"
+    },
+    {
+      "@id": "#5tfdcf",
+      "name": "Director leads rehearsals",
+      "x": 340,
+      "y": 236,
+      "parent": "#ggxqgw"
+    },
+    {
+      "@id": "#2rs74w",
+      "name": "Actors play the roles",
+      "x": 243,
+      "y": 303,
+      "parent": "#ggxqgw"
+    },
+    {
+      "@id": "#3deq6n",
+      "name": "Sets, lighting, costume and sound",
+      "x": 133,
+      "y": 360,
+      "parent": "#ggxqgw"
+    },
+    {
+      "@id": "#qwrvmn",
+      "name": "The space",
+      "x": -65,
+      "y": 177,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7b65gf",
+      "name": "Proscenium arch frames the stage",
+      "x": 0,
+      "y": 408,
+      "link": "https://en.wikipedia.org/wiki/Proscenium",
+      "parent": "#qwrvmn"
+    },
+    {
+      "@id": "#3rbpuw",
+      "name": "Thrust and theatre-in-the-round",
+      "x": -175,
+      "y": 465,
+      "parent": "#qwrvmn"
+    },
+    {
+      "@id": "#4fvq2p",
+      "name": "Found spaces and street theatre",
+      "x": -243,
+      "y": 303,
+      "parent": "#qwrvmn"
+    },
+    {
+      "@id": "#9mh8ja",
+      "name": "Going to the theatre",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dd7336",
+      "name": "Tickets, previews and press night",
+      "x": -340,
+      "y": 236,
+      "parent": "#9mh8ja"
+    },
+    {
+      "@id": "#xtw6zg",
+      "name": "Critics review opening night",
+      "x": -409,
+      "y": 150,
+      "parent": "#9mh8ja"
+    },
+    {
+      "@id": "#f5hrar",
+      "name": "Theatre etiquette: phones off",
+      "x": -485,
+      "y": 55,
+      "parent": "#9mh8ja"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

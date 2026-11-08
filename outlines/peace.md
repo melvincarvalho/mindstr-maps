@@ -1,0 +1,29 @@
+category: Society
+aliases: world peace, peacebuilding, peacemaking
+- Peace
+  - Two kinds of peace
+    - Negative peace: no direct violence
+    - Positive peace: justice and stable institutions
+    - [Johan Galtung drew the distinction](https://en.wikipedia.org/wiki/Johan_Galtung)
+  - Ideas behind peace
+    - Kant's Perpetual Peace, 1795
+    - [Democracies rarely fight each other](https://en.wikipedia.org/wiki/Democratic_peace_theory)
+    - Trade links raise the cost of war
+    - Pacifism rejects all war
+  - How peace is made
+    - Negotiation and mediation
+    - Ceasefires, then peace agreements
+    - Disarmament and reintegrating fighters
+    - Truth commissions and reconciliation
+  - Keeping the peace
+    - United Nations founded 1945
+    - [UN peacekeepers deployed since 1948](https://en.wikipedia.org/wiki/United_Nations_peacekeeping)
+    - Regional bodies like the African Union
+    - Arms control treaties
+  - Landmark peace agreements
+    - Peace of Westphalia, 1648
+    - Camp David Accords, 1978
+    - [Good Friday Agreement, 1998](https://en.wikipedia.org/wiki/Good_Friday_Agreement)
+  - Honouring peacemakers
+    - [Nobel Peace Prize since 1901](https://en.wikipedia.org/wiki/Nobel_Peace_Prize)
+    - International Day of Peace, 21 September

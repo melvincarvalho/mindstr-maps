@@ -1,0 +1,31 @@
+category: History
+aliases: technology history, history of inventions, history of technological change
+- History of technology
+  - Stone Age tools
+    - Stone tools over 3 million years old
+    - [Control of fire, 400,000+ years ago](https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans)
+    - Spears, needles and the bow
+  - Ancient inventions
+    - Pottery and the potter's wheel
+    - [Wheel appeared about 3500 BC](https://en.wikipedia.org/wiki/Wheel)
+    - Bronze, then iron, for tools and weapons
+    - Writing to keep records
+  - Medieval innovations
+    - Chinese paper, compass and gunpowder
+    - Water and windmills for power
+    - Mechanical clocks in Europe
+    - [Gutenberg's printing press, about 1440](https://en.wikipedia.org/wiki/Printing_press)
+  - Industrial Revolution
+    - [Watt's improved steam engine, 1770s](https://en.wikipedia.org/wiki/Watt_steam_engine)
+    - Factories and mechanised textile mills
+    - Railways and steamships shrank distances
+  - Electric age
+    - Telegraph and telephone
+    - Electric light and power grids
+    - Cars and aeroplanes
+    - Radio and television
+  - Digital age
+    - Transistor invented, 1947
+    - Integrated circuits and personal computers
+    - [Internet and World Wide Web](https://en.wikipedia.org/wiki/History_of_the_Internet)
+    - Smartphones and artificial intelligence

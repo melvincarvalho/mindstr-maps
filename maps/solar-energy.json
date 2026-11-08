@@ -1,0 +1,340 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Solar energy",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#xt8utq",
+      "name": "How it works",
+      "x": -174,
+      "y": -120,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wrpv9j",
+      "name": "Photovoltaic cells turn light into electricity",
+      "x": -445,
+      "y": -51,
+      "link": "https://en.wikipedia.org/wiki/Photovoltaics",
+      "parent": "#xt8utq"
+    },
+    {
+      "@id": "#buymsu",
+      "name": "Silicon cells free electrons when lit",
+      "x": -463,
+      "y": -171,
+      "parent": "#xt8utq"
+    },
+    {
+      "@id": "#fh92ej",
+      "name": "Inverters convert DC to AC",
+      "x": -340,
+      "y": -236,
+      "parent": "#xt8utq"
+    },
+    {
+      "@id": "#qsfcvn",
+      "name": "Concentrated solar uses mirrors to make steam",
+      "x": -243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Concentrated_solar_power",
+      "parent": "#xt8utq"
+    },
+    {
+      "@id": "#g3k9x5",
+      "name": "Solar water heaters warm water directly",
+      "x": -133,
+      "y": -360,
+      "parent": "#xt8utq"
+    },
+    {
+      "@id": "#iay5jt",
+      "name": "Where it is used",
+      "x": 65,
+      "y": -177,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vie9nd",
+      "name": "Rooftop panels on homes and businesses",
+      "x": 0,
+      "y": -408,
+      "parent": "#iay5jt"
+    },
+    {
+      "@id": "#6r7ywe",
+      "name": "Large solar farms feed the grid",
+      "x": 175,
+      "y": -465,
+      "parent": "#iay5jt"
+    },
+    {
+      "@id": "#4e7uhi",
+      "name": "Off-grid power for remote areas",
+      "x": 243,
+      "y": -303,
+      "parent": "#iay5jt"
+    },
+    {
+      "@id": "#uqeesu",
+      "name": "Share of world energy",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3h8xpp",
+      "name": "About 2% of primary energy",
+      "x": 340,
+      "y": -236,
+      "parent": "#uqeesu"
+    },
+    {
+      "@id": "#7ubgin",
+      "name": "About 7% of world electricity",
+      "x": 409,
+      "y": -150,
+      "parent": "#uqeesu"
+    },
+    {
+      "@id": "#xzbw3c",
+      "name": "Fastest-growing source of electricity",
+      "x": 545,
+      "y": -61,
+      "parent": "#uqeesu"
+    },
+    {
+      "@id": "#un46ef",
+      "name": "China installs the most by far",
+      "x": 445,
+      "y": 51,
+      "parent": "#uqeesu"
+    },
+    {
+      "@id": "#aku8z4",
+      "name": "Pros",
+      "x": 151,
+      "y": 139,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3cq7bb",
+      "name": "No emissions while generating",
+      "x": 409,
+      "y": 150,
+      "parent": "#aku8z4"
+    },
+    {
+      "@id": "#8gmse8",
+      "name": "Panel costs fell about 90% since 2010",
+      "x": 340,
+      "y": 236,
+      "parent": "#aku8z4"
+    },
+    {
+      "@id": "#i7snhy",
+      "name": "Quick to build at any scale",
+      "x": 243,
+      "y": 303,
+      "parent": "#aku8z4"
+    },
+    {
+      "@id": "#xrxuyg",
+      "name": "Little maintenance, no fuel needed",
+      "x": 133,
+      "y": 360,
+      "parent": "#aku8z4"
+    },
+    {
+      "@id": "#rc8bzh",
+      "name": "Cons",
+      "x": -96,
+      "y": 167,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dgdwzf",
+      "name": "Only generates in daylight",
+      "x": 0,
+      "y": 408,
+      "parent": "#rc8bzh"
+    },
+    {
+      "@id": "#ixav88",
+      "name": "Output varies with weather and season",
+      "x": -175,
+      "y": 465,
+      "parent": "#rc8bzh"
+    },
+    {
+      "@id": "#ikzaga",
+      "name": "Needs batteries or backup for night",
+      "x": -243,
+      "y": 303,
+      "parent": "#rc8bzh"
+    },
+    {
+      "@id": "#tqkny9",
+      "name": "Large farms use a lot of land",
+      "x": -340,
+      "y": 236,
+      "parent": "#rc8bzh"
+    },
+    {
+      "@id": "#z8prus",
+      "name": "Storage and grids",
+      "x": -221,
+      "y": 52,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k752id",
+      "name": "Batteries shift solar power into evening",
+      "x": -409,
+      "y": 150,
+      "link": "https://en.wikipedia.org/wiki/Battery_storage_power_station",
+      "parent": "#z8prus"
+    },
+    {
+      "@id": "#tfn2wz",
+      "name": "Wider grids smooth out local clouds",
+      "x": -525,
+      "y": 59,
+      "parent": "#z8prus"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

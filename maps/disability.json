@@ -1,0 +1,296 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Disability",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#fqhs73",
+      "name": "What disability means",
+      "x": -182,
+      "y": -113,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ckn9qp",
+      "name": "Impairment meets barriers in society",
+      "x": -444,
+      "y": -59,
+      "parent": "#fqhs73"
+    },
+    {
+      "@id": "#4dn3ah",
+      "name": "About 1 in 6 people worldwide",
+      "x": -396,
+      "y": -171,
+      "parent": "#fqhs73"
+    },
+    {
+      "@id": "#9b5i3t",
+      "name": "Can be lifelong or acquired later",
+      "x": -305,
+      "y": -265,
+      "parent": "#fqhs73"
+    },
+    {
+      "@id": "#bcudpt",
+      "name": "Many disabilities are not visible",
+      "x": -181,
+      "y": -330,
+      "parent": "#fqhs73"
+    },
+    {
+      "@id": "#z783hw",
+      "name": "Main types",
+      "x": 126,
+      "y": -154,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jbpr67",
+      "name": "Physical and mobility impairments",
+      "x": -41,
+      "y": -391,
+      "parent": "#z783hw"
+    },
+    {
+      "@id": "#mi5dw2",
+      "name": "Sensory: blindness, deafness",
+      "x": 140,
+      "y": -445,
+      "parent": "#z783hw"
+    },
+    {
+      "@id": "#bmat5c",
+      "name": "Intellectual and learning disabilities",
+      "x": 246,
+      "y": -301,
+      "parent": "#z783hw"
+    },
+    {
+      "@id": "#3r7kgw",
+      "name": "Mental health conditions",
+      "x": 355,
+      "y": -221,
+      "parent": "#z783hw"
+    },
+    {
+      "@id": "#kbainu",
+      "name": "Chronic illness and pain",
+      "x": 426,
+      "y": -117,
+      "parent": "#z783hw"
+    },
+    {
+      "@id": "#i767ug",
+      "name": "Two ways of seeing it",
+      "x": 218,
+      "y": 60,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#n6hp34",
+      "name": "Medical model: treat the condition",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Medical_model_of_disability",
+      "parent": "#i767ug"
+    },
+    {
+      "@id": "#eywgbg",
+      "name": "Social model: remove society's barriers",
+      "x": 426,
+      "y": 117,
+      "link": "https://en.wikipedia.org/wiki/Social_model_of_disability",
+      "parent": "#i767ug"
+    },
+    {
+      "@id": "#r7twrj",
+      "name": "Person-first or identity-first language",
+      "x": 355,
+      "y": 221,
+      "parent": "#i767ug"
+    },
+    {
+      "@id": "#k4tys5",
+      "name": "Rights and law",
+      "x": 56,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#izc8vk",
+      "name": "UN Convention on disability rights, 2006",
+      "x": 246,
+      "y": 301,
+      "link": "https://en.wikipedia.org/wiki/Convention_on_the_Rights_of_Persons_with_Disabilities",
+      "parent": "#k4tys5"
+    },
+    {
+      "@id": "#hsnbq5",
+      "name": "Americans with Disabilities Act, 1990",
+      "x": 110,
+      "y": 349,
+      "link": "https://en.wikipedia.org/wiki/Americans_with_Disabilities_Act_of_1990",
+      "parent": "#k4tys5"
+    },
+    {
+      "@id": "#257vve",
+      "name": "\"Nothing about us without us\"",
+      "x": -43,
+      "y": 407,
+      "parent": "#k4tys5"
+    },
+    {
+      "@id": "#t6p77e",
+      "name": "Access and support",
+      "x": -182,
+      "y": 113,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#s438h3",
+      "name": "Ramps, lifts and step-free routes",
+      "x": -253,
+      "y": 465,
+      "parent": "#t6p77e"
+    },
+    {
+      "@id": "#nqajhq",
+      "name": "Captions, sign language and screen readers",
+      "x": -305,
+      "y": 265,
+      "parent": "#t6p77e"
+    },
+    {
+      "@id": "#xn4fx6",
+      "name": "Reasonable adjustments at work and school",
+      "x": -396,
+      "y": 171,
+      "parent": "#t6p77e"
+    },
+    {
+      "@id": "#kh4ygs",
+      "name": "Assistive technology and personal assistants",
+      "x": -444,
+      "y": 59,
+      "parent": "#t6p77e"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 6,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    }
+  ],
+  "selectedNode": 0
+}

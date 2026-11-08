@@ -1,0 +1,29 @@
+category: Technology
+aliases: what is civil engineering, civil engineer, infrastructure engineering
+- Civil engineering
+  - What it covers
+    - Designing and building public infrastructure
+    - Oldest discipline after military engineering
+    - Clients are governments and private developers
+  - Main specialisms
+    - [Structural: buildings, bridges, towers](https://en.wikipedia.org/wiki/Structural_engineering)
+    - [Geotechnical: soil, rock and foundations](https://en.wikipedia.org/wiki/Geotechnical_engineering)
+    - Transport: roads, railways, airports
+    - Water: supply, drainage, flood defence
+    - Environmental: wastewater and pollution control
+  - Forces and materials
+    - Loads: weight, wind, earthquakes
+    - [Concrete is strong in compression](https://en.wikipedia.org/wiki/Reinforced_concrete)
+    - Steel is strong in tension
+    - Reinforced concrete combines both
+  - A project's life
+    - Surveys and site investigation
+    - Design to codes and standards
+    - Construction and site management
+    - Inspection and maintenance for decades
+  - Landmarks and lessons
+    - [Roman aqueducts carried water by gravity](https://en.wikipedia.org/wiki/Roman_aqueduct)
+    - Panama Canal opened 1914
+    - Channel Tunnel opened 1994
+    - Burj Khalifa, tallest building since 2010
+    - Tacoma Narrows Bridge collapse, 1940

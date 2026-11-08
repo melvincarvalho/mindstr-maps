@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Theravada",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#r44n2i",
+      "name": "What it is",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2wc879",
+      "name": "\"School of the Elders\" in Buddhism",
+      "x": -465,
+      "y": -56,
+      "parent": "#r44n2i"
+    },
+    {
+      "@id": "#9cvvng",
+      "name": "Oldest surviving Buddhist school",
+      "x": -405,
+      "y": -156,
+      "parent": "#r44n2i"
+    },
+    {
+      "@id": "#vs9tm3",
+      "name": "Roughly 150 million followers",
+      "x": -330,
+      "y": -245,
+      "parent": "#r44n2i"
+    },
+    {
+      "@id": "#5s5b2t",
+      "name": "Scriptures",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2uviu9",
+      "name": "Pali Canon, the Tipitaka",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/P%C4%81li_Canon",
+      "parent": "#5s5b2t"
+    },
+    {
+      "@id": "#r4unnh",
+      "name": "Vinaya, Sutta and Abhidhamma baskets",
+      "x": -104,
+      "y": -367,
+      "parent": "#5s5b2t"
+    },
+    {
+      "@id": "#989nmj",
+      "name": "Written down in Sri Lanka, 1st-century BCE",
+      "x": 42,
+      "y": -423,
+      "parent": "#5s5b2t"
+    },
+    {
+      "@id": "#nkzh3r",
+      "name": "Buddhaghosa's Visuddhimagga commentary",
+      "x": 234,
+      "y": -485,
+      "link": "https://en.wikipedia.org/wiki/Visuddhimagga",
+      "parent": "#5s5b2t"
+    },
+    {
+      "@id": "#srqnc9",
+      "name": "Key ideas",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ic4cyf",
+      "name": "Four Noble Truths and Eightfold Path",
+      "x": 281,
+      "y": -281,
+      "parent": "#srqnc9"
+    },
+    {
+      "@id": "#ueax6c",
+      "name": "Three marks: impermanence, suffering, not-self",
+      "x": 372,
+      "y": -203,
+      "parent": "#srqnc9"
+    },
+    {
+      "@id": "#irtj4x",
+      "name": "Arahant: one who reaches nirvana",
+      "x": 468,
+      "y": -116,
+      "link": "https://en.wikipedia.org/wiki/Arhat",
+      "parent": "#srqnc9"
+    },
+    {
+      "@id": "#ir7j5t",
+      "name": "Gotama is the Buddha of our age",
+      "x": 450,
+      "y": 0,
+      "parent": "#srqnc9"
+    },
+    {
+      "@id": "#ejvy6y",
+      "name": "Practice",
+      "x": 169,
+      "y": 125,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#465w3u",
+      "name": "Vipassana insight meditation",
+      "x": 430,
+      "y": 106,
+      "link": "https://en.wikipedia.org/wiki/Vipassan%C4%81",
+      "parent": "#ejvy6y"
+    },
+    {
+      "@id": "#upmmyu",
+      "name": "Samatha meditation for calm",
+      "x": 372,
+      "y": 203,
+      "parent": "#ejvy6y"
+    },
+    {
+      "@id": "#pcqx5b",
+      "name": "Laypeople give alms to monks",
+      "x": 281,
+      "y": 281,
+      "parent": "#ejvy6y"
+    },
+    {
+      "@id": "#fhtck6",
+      "name": "Merit-making and five precepts",
+      "x": 164,
+      "y": 335,
+      "parent": "#ejvy6y"
+    },
+    {
+      "@id": "#j2cnu8",
+      "name": "Monastic life",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4vdrms",
+      "name": "Monks keep 227 Vinaya rules",
+      "x": 38,
+      "y": 391,
+      "parent": "#j2cnu8"
+    },
+    {
+      "@id": "#tkng6n",
+      "name": "Saffron robes and morning alms round",
+      "x": -124,
+      "y": 447,
+      "parent": "#j2cnu8"
+    },
+    {
+      "@id": "#sgrcfd",
+      "name": "Short-term ordination common for young men",
+      "x": -225,
+      "y": 312,
+      "parent": "#j2cnu8"
+    },
+    {
+      "@id": "#k6n2mi",
+      "name": "Where it lives",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a3ne9q",
+      "name": "Sri Lanka, Myanmar, Thailand",
+      "x": -330,
+      "y": 245,
+      "parent": "#k6n2mi"
+    },
+    {
+      "@id": "#349d6q",
+      "name": "Cambodia and Laos",
+      "x": -405,
+      "y": 156,
+      "parent": "#k6n2mi"
+    },
+    {
+      "@id": "#mxa3yf",
+      "name": "Modern meditation movement spread it West",
+      "x": -505,
+      "y": 60,
+      "parent": "#k6n2mi"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

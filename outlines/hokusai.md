@@ -1,0 +1,33 @@
+category: People
+aliases: katsushika hokusai, hokusai artist, hokusai great wave
+- Hokusai
+  - Who he was
+    - Japanese artist, born Edo 1760
+    - Died 1849, aged about 88
+    - Worked under about 30 different names
+    - Called himself "old man mad about painting"
+  - Training and early work
+    - Apprenticed to Katsukawa Shunshō around 1778
+    - Early prints of actors and courtesans
+    - Shifted to landscapes, nature and legends
+  - [Ukiyo-e woodblock prints](https://en.wikipedia.org/wiki/Ukiyo-e)
+    - Artist drew, carvers cut, printers inked
+    - Prints were cheap and mass-produced
+    - Used imported Prussian blue pigment
+  - Famous works
+    - [Thirty-Six Views of Mount Fuji](https://en.wikipedia.org/wiki/Thirty-six_Views_of_Mount_Fuji)
+      - [The Great Wave off Kanagawa](https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa)
+      - Fine Wind, Clear Morning ("Red Fuji")
+    - [Hokusai Manga sketchbooks, from 1814](https://en.wikipedia.org/wiki/Hokusai_Manga)
+    - One Hundred Views of Mount Fuji
+    - Waterfall and bridge print series
+  - Life and habits
+    - Moved house about 90 times
+    - Lived in poverty despite his fame
+    - Daughter Katsushika Ōi painted alongside him
+    - Kept improving into his late eighties
+  - Legacy
+    - [Inspired Western Japonisme craze](https://en.wikipedia.org/wiki/Japonisme)
+    - Influenced Monet, Degas and Van Gogh
+    - Great Wave among most reproduced artworks
+    - Featured on Japan's 1,000-yen note

@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Narrative",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#8wxyfs",
+      "name": "What a narrative is",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nf9jwa",
+      "name": "Connected events told in sequence",
+      "x": -505,
+      "y": -60,
+      "parent": "#8wxyfs"
+    },
+    {
+      "@id": "#7dh53u",
+      "name": "Story is events; plot is arrangement",
+      "x": -405,
+      "y": -156,
+      "parent": "#8wxyfs"
+    },
+    {
+      "@id": "#pqthv8",
+      "name": "Found in myth, news, film, games",
+      "x": -330,
+      "y": -245,
+      "parent": "#8wxyfs"
+    },
+    {
+      "@id": "#ht2mk5",
+      "name": "Core elements",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e5nmii",
+      "name": "Characters who want something",
+      "x": -225,
+      "y": -312,
+      "parent": "#ht2mk5"
+    },
+    {
+      "@id": "#qnpk4m",
+      "name": "Conflict drives the action",
+      "x": -104,
+      "y": -367,
+      "parent": "#ht2mk5"
+    },
+    {
+      "@id": "#s8hjun",
+      "name": "Setting fixes time and place",
+      "x": 42,
+      "y": -423,
+      "parent": "#ht2mk5"
+    },
+    {
+      "@id": "#csfaqd",
+      "name": "Theme is the underlying idea",
+      "x": 234,
+      "y": -485,
+      "parent": "#ht2mk5"
+    },
+    {
+      "@id": "#ez9rhe",
+      "name": "Structure",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nav3je",
+      "name": "Freytag's pyramid: rise, climax, fall",
+      "x": 281,
+      "y": -281,
+      "link": "https://en.wikipedia.org/wiki/Dramatic_structure",
+      "parent": "#ez9rhe"
+    },
+    {
+      "@id": "#nfvmqd",
+      "name": "Three acts: setup, confrontation, resolution",
+      "x": 372,
+      "y": -203,
+      "parent": "#ez9rhe"
+    },
+    {
+      "@id": "#r37s47",
+      "name": "The hero's journey monomyth",
+      "x": 449,
+      "y": -111,
+      "link": "https://en.wikipedia.org/wiki/Hero%27s_journey",
+      "parent": "#ez9rhe"
+    },
+    {
+      "@id": "#6dqzf6",
+      "name": "Flashbacks and nonlinear timelines",
+      "x": 450,
+      "y": 0,
+      "parent": "#ez9rhe"
+    },
+    {
+      "@id": "#tp6uev",
+      "name": "Who tells it",
+      "x": 190,
+      "y": 104,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ba3vzu",
+      "name": "First-person narrator says \"I\"",
+      "x": 449,
+      "y": 111,
+      "link": "https://en.wikipedia.org/wiki/First-person_narrative",
+      "parent": "#tp6uev"
+    },
+    {
+      "@id": "#4v5ptb",
+      "name": "Third-person limited or omniscient",
+      "x": 372,
+      "y": 203,
+      "parent": "#tp6uev"
+    },
+    {
+      "@id": "#dz5etg",
+      "name": "Unreliable narrators mislead readers",
+      "x": 281,
+      "y": 281,
+      "parent": "#tp6uev"
+    },
+    {
+      "@id": "#jp6dk3",
+      "name": "Why narratives matter",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#98qfin",
+      "name": "Oldest way to pass on knowledge",
+      "x": 164,
+      "y": 335,
+      "parent": "#jp6dk3"
+    },
+    {
+      "@id": "#c8t9vc",
+      "name": "Build identity and shared values",
+      "x": 38,
+      "y": 391,
+      "parent": "#jp6dk3"
+    },
+    {
+      "@id": "#jdiypn",
+      "name": "Memory organises life as stories",
+      "x": -124,
+      "y": 447,
+      "parent": "#jp6dk3"
+    },
+    {
+      "@id": "#pnie2b",
+      "name": "Used in law, history, advertising",
+      "x": -225,
+      "y": 312,
+      "parent": "#jp6dk3"
+    },
+    {
+      "@id": "#rakqwa",
+      "name": "Studying narrative",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fxvfrf",
+      "name": "Narratology analyses how stories work",
+      "x": -330,
+      "y": 245,
+      "link": "https://en.wikipedia.org/wiki/Narratology",
+      "parent": "#rakqwa"
+    },
+    {
+      "@id": "#jtmph7",
+      "name": "Propp mapped 31 folktale functions",
+      "x": -405,
+      "y": 156,
+      "parent": "#rakqwa"
+    },
+    {
+      "@id": "#wwhm63",
+      "name": "Aristotle's Poetics: beginning, middle, end",
+      "x": -545,
+      "y": 64,
+      "parent": "#rakqwa"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

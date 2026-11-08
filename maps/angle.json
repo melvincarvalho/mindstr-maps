@@ -1,0 +1,329 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Angle",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#rct6cg",
+      "name": "What an angle is",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tuqga2",
+      "name": "Two rays meeting at a vertex",
+      "x": -465,
+      "y": -56,
+      "parent": "#rct6cg"
+    },
+    {
+      "@id": "#ywu8qa",
+      "name": "Measures the amount of turn",
+      "x": -405,
+      "y": -156,
+      "parent": "#rct6cg"
+    },
+    {
+      "@id": "#4e6kpc",
+      "name": "Size doesn't depend on arm length",
+      "x": -330,
+      "y": -245,
+      "parent": "#rct6cg"
+    },
+    {
+      "@id": "#dbr5af",
+      "name": "Units of measure",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bwmg23",
+      "name": "Full turn is 360 degrees",
+      "x": -225,
+      "y": -312,
+      "parent": "#dbr5af"
+    },
+    {
+      "@id": "#yg6vge",
+      "name": "360 likely comes from Babylonian base 60",
+      "x": -104,
+      "y": -367,
+      "parent": "#dbr5af"
+    },
+    {
+      "@id": "#9asfvn",
+      "name": "Radians: full turn is 2π",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Radian",
+      "parent": "#dbr5af"
+    },
+    {
+      "@id": "#tafswa",
+      "name": "One radian is about 57.3°",
+      "x": 234,
+      "y": -485,
+      "parent": "#dbr5af"
+    },
+    {
+      "@id": "#fp82t3",
+      "name": "Kinds of angle",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hzsvp9",
+      "name": "Acute is less than 90°",
+      "x": 281,
+      "y": -281,
+      "parent": "#fp82t3"
+    },
+    {
+      "@id": "#qekgkz",
+      "name": "Right angle is exactly 90°",
+      "x": 372,
+      "y": -203,
+      "parent": "#fp82t3"
+    },
+    {
+      "@id": "#qt4m6p",
+      "name": "Obtuse lies between 90° and 180°",
+      "x": 468,
+      "y": -116,
+      "parent": "#fp82t3"
+    },
+    {
+      "@id": "#j7emiw",
+      "name": "Straight is 180°, reflex beyond it",
+      "x": 450,
+      "y": 0,
+      "parent": "#fp82t3"
+    },
+    {
+      "@id": "#ps3zat",
+      "name": "Angle rules",
+      "x": 169,
+      "y": 125,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kw8dpy",
+      "name": "Angles on a straight line total 180°",
+      "x": 449,
+      "y": 111,
+      "parent": "#ps3zat"
+    },
+    {
+      "@id": "#6eerd8",
+      "name": "Vertically opposite angles are equal",
+      "x": 372,
+      "y": 203,
+      "parent": "#ps3zat"
+    },
+    {
+      "@id": "#gxn76c",
+      "name": "Triangle's angles sum to 180°",
+      "x": 281,
+      "y": 281,
+      "parent": "#ps3zat"
+    },
+    {
+      "@id": "#mta5m3",
+      "name": "Parallel lines make equal alternate angles",
+      "x": 164,
+      "y": 335,
+      "link": "https://en.wikipedia.org/wiki/Transversal_%28geometry%29",
+      "parent": "#ps3zat"
+    },
+    {
+      "@id": "#9n52bx",
+      "name": "Measuring angles",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#68ivvu",
+      "name": "Protractor for drawings",
+      "x": 38,
+      "y": 391,
+      "link": "https://en.wikipedia.org/wiki/Protractor",
+      "parent": "#9n52bx"
+    },
+    {
+      "@id": "#8bprkp",
+      "name": "Theodolite for surveying land",
+      "x": -124,
+      "y": 447,
+      "parent": "#9n52bx"
+    },
+    {
+      "@id": "#in8nav",
+      "name": "Sextant once guided ships by stars",
+      "x": -235,
+      "y": 326,
+      "parent": "#9n52bx"
+    },
+    {
+      "@id": "#jk6fxs",
+      "name": "Angles in everyday life",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#msu6hb",
+      "name": "Slope of roads and ramps",
+      "x": -330,
+      "y": 245,
+      "parent": "#jk6fxs"
+    },
+    {
+      "@id": "#gncu6j",
+      "name": "Compass bearings for navigation",
+      "x": -405,
+      "y": 156,
+      "parent": "#jk6fxs"
+    },
+    {
+      "@id": "#isxdbx",
+      "name": "Camera field of view",
+      "x": -465,
+      "y": 56,
+      "parent": "#jk6fxs"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,308 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Electrical engineering",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#csrdgf",
+      "name": "What it covers",
+      "x": -218,
+      "y": -60,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d8bkej",
+      "name": "Electricity, electronics and electromagnetism",
+      "x": -544,
+      "y": -74,
+      "parent": "#csrdgf"
+    },
+    {
+      "@id": "#4xfcxg",
+      "name": "From microchips to national grids",
+      "x": -396,
+      "y": -171,
+      "parent": "#csrdgf"
+    },
+    {
+      "@id": "#iimt7z",
+      "name": "Basic principles",
+      "x": -92,
+      "y": -169,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m9hhwu",
+      "name": "Ohm's law: voltage = current × resistance",
+      "x": -305,
+      "y": -265,
+      "link": "https://en.wikipedia.org/wiki/Ohm%27s_law",
+      "parent": "#iimt7z"
+    },
+    {
+      "@id": "#hneyen",
+      "name": "Direct and alternating current",
+      "x": -181,
+      "y": -330,
+      "parent": "#iimt7z"
+    },
+    {
+      "@id": "#jm3a2c",
+      "name": "Maxwell's equations unify electromagnetism",
+      "x": -41,
+      "y": -391,
+      "link": "https://en.wikipedia.org/wiki/Maxwell%27s_equations",
+      "parent": "#iimt7z"
+    },
+    {
+      "@id": "#hmmxdm",
+      "name": "Main fields",
+      "x": 156,
+      "y": -135,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#iaih8a",
+      "name": "Power: generation, transmission, distribution",
+      "x": 140,
+      "y": -445,
+      "parent": "#hmmxdm"
+    },
+    {
+      "@id": "#yvignw",
+      "name": "Electronics: circuits and semiconductors",
+      "x": 246,
+      "y": -301,
+      "parent": "#hmmxdm"
+    },
+    {
+      "@id": "#c57b75",
+      "name": "Control systems and automation",
+      "x": 355,
+      "y": -221,
+      "parent": "#hmmxdm"
+    },
+    {
+      "@id": "#5w4i6e",
+      "name": "Telecommunications and signal processing",
+      "x": 445,
+      "y": -122,
+      "parent": "#hmmxdm"
+    },
+    {
+      "@id": "#uep3cv",
+      "name": "Key milestones",
+      "x": 202,
+      "y": 88,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mng7ks",
+      "name": "Faraday discovers electromagnetic induction, 1831",
+      "x": 450,
+      "y": 0,
+      "parent": "#uep3cv"
+    },
+    {
+      "@id": "#da4jgm",
+      "name": "Edison and Tesla's power systems, 1880s",
+      "x": 502,
+      "y": 137,
+      "parent": "#uep3cv"
+    },
+    {
+      "@id": "#dmt3d3",
+      "name": "Transistor invented at Bell Labs, 1947",
+      "x": 355,
+      "y": 221,
+      "link": "https://en.wikipedia.org/wiki/Transistor",
+      "parent": "#uep3cv"
+    },
+    {
+      "@id": "#npxs93",
+      "name": "Integrated circuit, late 1950s",
+      "x": 246,
+      "y": 301,
+      "parent": "#uep3cv"
+    },
+    {
+      "@id": "#qc8qvd",
+      "name": "Tools of the trade",
+      "x": -19,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#n77xuf",
+      "name": "Circuit design and simulation software",
+      "x": 110,
+      "y": 349,
+      "parent": "#qc8qvd"
+    },
+    {
+      "@id": "#uyud5y",
+      "name": "Oscilloscopes and multimeters",
+      "x": -43,
+      "y": 407,
+      "parent": "#qc8qvd"
+    },
+    {
+      "@id": "#wneieg",
+      "name": "Electrical safety codes and standards",
+      "x": -253,
+      "y": 465,
+      "parent": "#qc8qvd"
+    },
+    {
+      "@id": "#tjhfwh",
+      "name": "Today's challenges",
+      "x": -202,
+      "y": 88,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kxex6v",
+      "name": "Fitting solar and wind into grids",
+      "x": -305,
+      "y": 265,
+      "link": "https://en.wikipedia.org/wiki/Electrical_grid",
+      "parent": "#tjhfwh"
+    },
+    {
+      "@id": "#azhyic",
+      "name": "Electric vehicles and charging networks",
+      "x": -396,
+      "y": 171,
+      "parent": "#tjhfwh"
+    },
+    {
+      "@id": "#g5rfap",
+      "name": "Smaller, more efficient chips",
+      "x": -484,
+      "y": 65,
+      "parent": "#tjhfwh"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 8,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

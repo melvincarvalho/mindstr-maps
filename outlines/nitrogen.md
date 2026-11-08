@@ -1,0 +1,29 @@
+category: Science
+aliases: nitrogen gas, nitrogen element, element 7
+- Nitrogen
+  - Basics
+    - Atomic number 7, symbol N
+    - Colourless, odourless, unreactive gas
+    - N₂ triple bond is very strong
+    - Discovered by Daniel Rutherford, 1772
+  - Where it's found
+    - About 78% of Earth's air
+    - Soils as nitrates and ammonium
+    - All living things
+  - Role in life
+    - In every amino acid and protein
+    - In DNA and RNA bases
+    - Plants can't use N₂ directly
+  - [The nitrogen cycle](https://en.wikipedia.org/wiki/Nitrogen_cycle)
+    - [Bacteria fix nitrogen in legume roots](https://en.wikipedia.org/wiki/Nitrogen_fixation)
+    - Lightning also fixes some nitrogen
+    - Denitrifying bacteria return it to air
+  - Uses
+    - [Haber–Bosch ammonia feeds billions](https://en.wikipedia.org/wiki/Haber_process)
+    - Explosives like TNT and nitroglycerin
+    - Liquid nitrogen freezes at −196°C
+    - Keeps packaged food fresh
+  - Problems
+    - Fertiliser runoff causes algal blooms
+    - Nitrous oxide is a greenhouse gas
+    - [Nitrogen oxides cause smog](https://en.wikipedia.org/wiki/Nitrogen_oxide)

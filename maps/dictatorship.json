@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Dictatorship",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#w755uq",
+      "name": "Definition",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aw6uge",
+      "name": "Rule by one person or small group",
+      "x": -465,
+      "y": -56,
+      "parent": "#w755uq"
+    },
+    {
+      "@id": "#4shqym",
+      "name": "No free elections or real limits",
+      "x": -405,
+      "y": -156,
+      "parent": "#w755uq"
+    },
+    {
+      "@id": "#47u8zy",
+      "name": "Roman dictators held temporary emergency power",
+      "x": -330,
+      "y": -245,
+      "parent": "#w755uq"
+    },
+    {
+      "@id": "#a7efuc",
+      "name": "Kinds",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wykkiz",
+      "name": "Military juntas, as Pinochet's Chile",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Military_dictatorship",
+      "parent": "#a7efuc"
+    },
+    {
+      "@id": "#7cmwcb",
+      "name": "Single-party states",
+      "x": -104,
+      "y": -367,
+      "parent": "#a7efuc"
+    },
+    {
+      "@id": "#bfv8vb",
+      "name": "Personalist rule around one leader",
+      "x": 42,
+      "y": -423,
+      "parent": "#a7efuc"
+    },
+    {
+      "@id": "#hh3itg",
+      "name": "Totalitarian regimes control all of life",
+      "x": 234,
+      "y": -485,
+      "link": "https://en.wikipedia.org/wiki/Totalitarianism",
+      "parent": "#a7efuc"
+    },
+    {
+      "@id": "#hhg5kz",
+      "name": "How power is taken",
+      "x": 190,
+      "y": -104,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k923ei",
+      "name": "Coups by the armed forces",
+      "x": 281,
+      "y": -281,
+      "parent": "#hhg5kz"
+    },
+    {
+      "@id": "#yvm2x9",
+      "name": "Revolutions and civil wars",
+      "x": 372,
+      "y": -203,
+      "parent": "#hhg5kz"
+    },
+    {
+      "@id": "#63h8v7",
+      "name": "Elected leaders dismantling checks gradually",
+      "x": 525,
+      "y": -131,
+      "parent": "#hhg5kz"
+    },
+    {
+      "@id": "#5z46ai",
+      "name": "How power is kept",
+      "x": 207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cunxgp",
+      "name": "Secret police and surveillance",
+      "x": 450,
+      "y": 0,
+      "parent": "#5z46ai"
+    },
+    {
+      "@id": "#cae5cf",
+      "name": "Censorship and propaganda",
+      "x": 468,
+      "y": 116,
+      "parent": "#5z46ai"
+    },
+    {
+      "@id": "#q4aumm",
+      "name": "Personality cults and loyal elites",
+      "x": 372,
+      "y": 203,
+      "parent": "#5z46ai"
+    },
+    {
+      "@id": "#ac84cd",
+      "name": "Rigged or show elections",
+      "x": 281,
+      "y": 281,
+      "parent": "#5z46ai"
+    },
+    {
+      "@id": "#rqbscx",
+      "name": "20th-century examples",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#npb7x7",
+      "name": "Hitler: Holocaust killed six million Jews",
+      "x": 164,
+      "y": 335,
+      "parent": "#rqbscx"
+    },
+    {
+      "@id": "#4rm7jb",
+      "name": "Stalin: Gulag, purges and famine",
+      "x": 38,
+      "y": 391,
+      "link": "https://en.wikipedia.org/wiki/Great_Purge",
+      "parent": "#rqbscx"
+    },
+    {
+      "@id": "#8kvu62",
+      "name": "Mao: Great Leap famine, tens of millions",
+      "x": -124,
+      "y": 447,
+      "parent": "#rqbscx"
+    },
+    {
+      "@id": "#ncfiqz",
+      "name": "Khmer Rouge killed about 1.5–2 million",
+      "x": -245,
+      "y": 340,
+      "link": "https://en.wikipedia.org/wiki/Cambodian_genocide",
+      "parent": "#rqbscx"
+    },
+    {
+      "@id": "#imbd8j",
+      "name": "Why and how they end",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uwmvux",
+      "name": "Supporters cite order, speed, stability",
+      "x": -330,
+      "y": 245,
+      "parent": "#imbd8j"
+    },
+    {
+      "@id": "#q4czjv",
+      "name": "Critics: abuses, corruption, succession crises",
+      "x": -405,
+      "y": 156,
+      "parent": "#imbd8j"
+    },
+    {
+      "@id": "#z9rj9r",
+      "name": "End by protest, defeat or negotiated transition",
+      "x": -565,
+      "y": 66,
+      "parent": "#imbd8j"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,29 @@
+category: Health
+aliases: surgical operation, having an operation, types of surgery
+- Surgery
+  - What surgery is
+    - Treatment by cutting or repairing tissue
+    - Done by surgeons in operating theatres
+    - Elective, urgent or emergency
+  - Before the operation
+    - Tests to check fitness for surgery
+    - [Informed consent: risks and benefits explained](https://en.wikipedia.org/wiki/Informed_consent)
+    - Fasting for several hours beforehand
+  - During the operation
+    - [Anaesthesia: general, regional or local](https://en.wikipedia.org/wiki/Anesthesia)
+    - Sterile technique prevents infection
+    - Team of surgeon, anaesthetist and nurses
+    - Safety checklist before the first cut
+  - Main approaches
+    - Open surgery through one large cut
+    - [Keyhole surgery through small cuts](https://en.wikipedia.org/wiki/Laparoscopy)
+    - Robot-assisted surgery
+    - Organ transplants
+  - After the operation
+    - Monitoring in the recovery room
+    - Pain relief and early walking
+    - Watch for infection and blood clots
+  - Milestones
+    - Ether anaesthesia demonstrated in 1846
+    - [Lister's antiseptic surgery in the 1860s](https://en.wikipedia.org/wiki/Joseph_Lister)
+    - Antibiotics made operations far safer

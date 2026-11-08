@@ -1,0 +1,29 @@
+category: Science
+aliases: chemistry of carbon compounds, organic compounds
+- Organic chemistry
+  - The chemistry of carbon
+    - Carbon forms four bonds
+    - Chains, rings and branches
+    - Millions of known compounds
+  - [Hydrocarbons: just carbon and hydrogen](https://en.wikipedia.org/wiki/Hydrocarbon)
+    - Alkanes: methane, propane, petrol
+    - Alkenes have a C=C double bond
+    - [Aromatics built on benzene rings](https://en.wikipedia.org/wiki/Benzene)
+  - [Functional groups set behaviour](https://en.wikipedia.org/wiki/Functional_group)
+    - Alcohols carry -OH, as in ethanol
+    - Carboxylic acids: vinegar's acetic acid
+    - Amines contain nitrogen
+    - Esters give fruity smells
+  - Reactions and synthesis
+    - Substitution, addition and elimination
+    - Polymerisation makes plastics
+    - Drugs built step by step
+  - Shape matters
+    - Isomers: same formula, different structure
+    - [Chirality: mirror-image molecules](https://en.wikipedia.org/wiki/Chirality_%28chemistry%29)
+    - Mirror forms can act differently as drugs
+  - Everywhere in daily life
+    - Medicines like aspirin and penicillin
+    - Plastics, nylon and polyester
+    - Fuels refined from crude oil
+    - [Wöhler made urea in 1828](https://en.wikipedia.org/wiki/W%C3%B6hler_synthesis)

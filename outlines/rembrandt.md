@@ -1,0 +1,29 @@
+category: People
+aliases: rembrandt van rijn, rembrandt harmenszoon van rijn
+- Rembrandt
+  - Life
+    - Born 1606 in Leiden, Dutch Republic
+    - Moved to Amsterdam in the early 1630s
+    - Married Saskia van Uylenburgh, 1634
+    - Declared insolvent in 1656
+    - Died 1669 in Amsterdam
+  - [Dutch Golden Age](https://en.wikipedia.org/wiki/Dutch_Golden_Age)
+    - Wealthy merchant republic buying art
+    - Portrait commissions from burghers and guilds
+  - Major works
+    - [The Night Watch, 1642](https://en.wikipedia.org/wiki/The_Night_Watch)
+    - [The Anatomy Lesson of Dr. Nicolaes Tulp](https://en.wikipedia.org/wiki/The_Anatomy_Lesson_of_Dr._Nicolaes_Tulp)
+    - The Return of the Prodigal Son
+    - Syndics of the Drapers' Guild
+  - Self-portraits
+    - Dozens painted across four decades
+    - Honest record of ageing and hardship
+  - Style and technique
+    - [Dramatic light and shadow (chiaroscuro)](https://en.wikipedia.org/wiki/Chiaroscuro)
+    - Thick, textured paint in later works
+    - Master etcher and draughtsman
+    - Biblical scenes full of human emotion
+  - Legacy
+    - Widely seen as the greatest Dutch painter
+    - Rembrandt House Museum in Amsterdam
+    - The Night Watch hangs in the Rijksmuseum

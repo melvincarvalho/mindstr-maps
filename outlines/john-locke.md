@@ -1,0 +1,29 @@
+category: People
+aliases: locke, john locke philosophy, two treatises of government
+- John Locke
+  - Life, 1632–1704
+    - Born in Wrington, Somerset, England
+    - Studied and taught at Oxford
+    - Physician and adviser to Earl of Shaftesbury
+    - Exiled in Holland, 1683–1689
+    - Returned after the Glorious Revolution
+  - Theory of knowledge
+    - [Essay Concerning Human Understanding, 1689](https://en.wikipedia.org/wiki/An_Essay_Concerning_Human_Understanding)
+    - [Mind begins as a blank slate](https://en.wikipedia.org/wiki/Tabula_rasa)
+    - All ideas come from experience
+    - Founder of British empiricism
+  - Political philosophy
+    - [Two Treatises of Government, 1689](https://en.wikipedia.org/wiki/Two_Treatises_of_Government)
+    - Natural rights to life, liberty, property
+    - Government rests on consent of governed
+    - People may resist tyrannical rulers
+    - Property comes from mixing in labour
+  - Religion and education
+    - [A Letter Concerning Toleration argues tolerance](https://en.wikipedia.org/wiki/A_Letter_Concerning_Toleration)
+    - Church and state should be separate
+    - Some Thoughts Concerning Education, 1693
+  - Legacy
+    - Called the father of liberalism
+    - Echoed in US Declaration of Independence
+    - Shaped Enlightenment thinkers like Voltaire
+    - Criticised over colonial and slavery ties

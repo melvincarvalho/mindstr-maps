@@ -1,0 +1,31 @@
+category: Science
+aliases: insects, insecta, bugs and insects
+- Insect
+  - Body plan
+    - Head, thorax and abdomen
+    - Six legs on the thorax
+    - One pair of antennae
+    - Most adults have wings
+  - Size and diversity
+    - About 1 million species described
+    - Perhaps 5 million in total
+    - [Beetles alone: about 400,000 species](https://en.wikipedia.org/wiki/Beetle)
+    - First flying animals, 300+ million years ago
+  - Growing up
+    - [Complete metamorphosis: egg, larva, pupa, adult](https://en.wikipedia.org/wiki/Holometabolism)
+    - Grasshoppers grow gradually through nymphs
+    - Moult the exoskeleton to grow
+  - Familiar orders
+    - Butterflies and moths
+    - Bees, wasps and ants
+    - Flies and mosquitoes
+    - True bugs like aphids and cicadas
+  - Remarkable abilities
+    - [Ants, bees and termites form colonies](https://en.wikipedia.org/wiki/Eusociality)
+    - Honeybees dance to share directions
+    - Monarch butterflies migrate thousands of kilometres
+  - Insects and people
+    - [Pollinate about three-quarters of crop types](https://en.wikipedia.org/wiki/Pollinator)
+    - Mosquitoes spread malaria and dengue
+    - Pests damage crops and stored food
+    - [Many populations declining](https://en.wikipedia.org/wiki/Decline_in_insect_populations)

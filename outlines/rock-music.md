@@ -1,0 +1,30 @@
+category: Arts and culture
+aliases: rock and roll, rock 'n' roll, rock bands
+- Rock music
+  - Roots
+    - Blues, country and rhythm and blues
+    - [Rock and roll in 1950s America](https://en.wikipedia.org/wiki/Rock_and_roll)
+    - Chuck Berry, Elvis Presley, Little Richard
+  - The sound
+    - Electric guitar leads the band
+    - Bass guitar and drum kit backbeat
+    - Loud amplified live performance
+    - Verse–chorus songs and guitar solos
+  - 1960s breakthrough
+    - [The Beatles and British Invasion](https://en.wikipedia.org/wiki/British_Invasion)
+    - Rolling Stones, The Who, Jimi Hendrix
+    - Psychedelia and Woodstock 1969
+  - Major subgenres
+    - Hard rock and heavy metal
+    - Progressive rock's long ambitious songs
+    - [Punk rock's fast, raw rebellion](https://en.wikipedia.org/wiki/Punk_rock)
+    - Alternative and grunge in the 1990s
+    - Indie rock
+  - Culture and influence
+    - Youth rebellion and counterculture
+    - Albums as artistic statements
+    - Stadium tours and festivals
+  - Legacy
+    - [Rock and Roll Hall of Fame](https://en.wikipedia.org/wiki/Rock_and_Roll_Hall_of_Fame)
+    - Shaped pop, hip hop and metal
+    - Overtaken by hip hop in sales

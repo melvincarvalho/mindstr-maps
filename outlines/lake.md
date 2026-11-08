@@ -1,0 +1,30 @@
+category: Geography
+aliases: lakes, freshwater lake, how lakes form
+- Lake
+  - What a lake is
+    - Inland water body surrounded by land
+    - Fed by rivers, rain, springs or groundwater
+    - Some have no outlet and turn salty
+  - How lakes form
+    - Glaciers scoured basins, like Finland's lakes
+    - [Rift valleys make deep lakes](https://en.wikipedia.org/wiki/Rift_lake)
+    - Volcanic craters fill with rain
+    - Meanders cut off into oxbow lakes
+    - Dams create reservoirs like Lake Mead
+  - Record holders
+    - [Baikal: deepest and oldest lake](https://en.wikipedia.org/wiki/Lake_Baikal)
+    - Caspian Sea: largest by area
+    - Lake Superior: largest freshwater by area
+    - [Dead Sea: lowest and very salty](https://en.wikipedia.org/wiki/Dead_Sea)
+  - Inside a lake
+    - Summer layers: warm top, cold bottom
+    - Mixing turnovers in spring and autumn
+    - Shoreline plants, plankton and fish
+  - Why they matter
+    - Store much of Earth's liquid fresh water
+    - Drinking water, fishing and recreation
+    - Habitat for birds and wildlife
+  - Threats
+    - [Fertiliser runoff causes algal blooms](https://en.wikipedia.org/wiki/Eutrophication)
+    - Aral Sea shrank from irrigation
+    - Warming shortens ice cover

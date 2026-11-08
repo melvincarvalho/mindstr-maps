@@ -1,0 +1,30 @@
+category: Society
+aliases: feeling sad, dealing with sadness, coping with sadness
+- Sadness
+  - What sadness is
+    - Emotional pain after loss or disappointment
+    - One of the basic human emotions
+    - Usually fades with time
+  - Why we have it
+    - Signals that something mattered to us
+    - Slows us down to reflect
+    - Tears invite comfort from others
+  - How sadness shows
+    - Crying, low energy, heavy body
+    - Withdrawing from people and activities
+    - Downturned mouth and drooping eyelids
+  - Common causes
+    - [Grief after someone dies](https://en.wikipedia.org/wiki/Grief)
+    - Breakups and lost friendships
+    - Failures and unmet hopes
+    - Loneliness and isolation
+  - Healthy ways to cope
+    - Let yourself feel it and cry
+    - Talk to someone you trust
+    - Keep moving, sleeping and eating well
+    - Do small things you usually enjoy
+  - Sadness or depression?
+    - Sadness has a cause and passes
+    - [Depression lasts weeks and affects everything](https://en.wikipedia.org/wiki/Major_depressive_disorder)
+    - See a doctor if it lingers
+    - Thoughts of self-harm need urgent help

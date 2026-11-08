@@ -1,0 +1,31 @@
+category: People
+aliases: li po, li bo, li taibai
+- Li Bai
+  - Tang dynasty poet, 701–762
+    - Born in Central Asia, raised in Sichuan
+    - Wandered China as a young man
+    - Called the "Immortal of Poetry"
+  - Life at court and in exile
+    - Hanlin Academy under Emperor Xuanzong
+    - Left court after about two years
+    - [An Lushan Rebellion upended his life](https://en.wikipedia.org/wiki/An_Lushan_rebellion)
+    - Exiled for serving Prince Yong, then pardoned
+  - His poetry
+    - About 1,000 poems survive
+    - [Quiet Night Thought: moonlight and home](https://en.wikipedia.org/wiki/Quiet_Night_Thought)
+    - Drinking Alone by the Moon
+    - Hard Is the Road to Shu
+  - Themes and style
+    - Wine, the moon and friendship
+    - Mountains, rivers and wild nature
+    - Daoist freedom and immortals
+    - Bold, spontaneous, often in old forms
+  - [Friendship with Du Fu](https://en.wikipedia.org/wiki/Du_Fu)
+    - Met in 744, a famous pairing
+    - Du Fu wrote poems about him
+  - Legacy
+    - [A peak of Tang poetry](https://en.wikipedia.org/wiki/Tang_poetry)
+    - Legend: drowned embracing the moon's reflection
+    - Pound's Cathay translated him as Rihaku
+    - Mahler set his verses in Das Lied
+    - Still memorised by Chinese schoolchildren

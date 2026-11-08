@@ -1,0 +1,29 @@
+category: Society
+aliases: microeconomic theory, micro economics, economics of markets
+- Microeconomics
+  - What it studies
+    - Choices of households and firms
+    - How single markets set prices
+    - Scarcity forces trade-offs
+  - Supply and demand
+    - [Demand falls as price rises](https://en.wikipedia.org/wiki/Supply_and_demand)
+    - Supply rises as price rises
+    - Equilibrium where the two meet
+    - [Elasticity: how strongly quantities respond](https://en.wikipedia.org/wiki/Elasticity_%28economics%29)
+  - Consumer choice
+    - People maximise utility within budgets
+    - Diminishing marginal utility
+    - [Opportunity cost: the next best option](https://en.wikipedia.org/wiki/Opportunity_cost)
+  - Firms and costs
+    - Profit is revenue minus costs
+    - Produce where marginal cost equals revenue
+    - Economies of scale lower unit costs
+  - Market structures
+    - Perfect competition: many small sellers
+    - [Monopoly: one seller sets price](https://en.wikipedia.org/wiki/Monopoly)
+    - Oligopoly: a few rivals, game theory
+    - Monopolistic competition: differentiated brands
+  - When markets fail
+    - [Externalities like pollution go unpriced](https://en.wikipedia.org/wiki/Externality)
+    - Information gaps between buyers and sellers
+    - Taxes, subsidies and regulation respond

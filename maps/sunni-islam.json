@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Sunni Islam",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#iuzehr",
+      "name": "What it is",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#iwsiq6",
+      "name": "Largest branch of Islam",
+      "x": -445,
+      "y": -51,
+      "parent": "#iuzehr"
+    },
+    {
+      "@id": "#mtamjz",
+      "name": "About 85 to 90% of Muslims",
+      "x": -409,
+      "y": -150,
+      "parent": "#iuzehr"
+    },
+    {
+      "@id": "#2ejvjx",
+      "name": "Name from Sunnah, the Prophet's example",
+      "x": -340,
+      "y": -236,
+      "parent": "#iuzehr"
+    },
+    {
+      "@id": "#9g3znm",
+      "name": "Origins",
+      "x": -65,
+      "y": -177,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cxkyts",
+      "name": "Split over succession after Muhammad, 632 CE",
+      "x": -243,
+      "y": -303,
+      "parent": "#9g3znm"
+    },
+    {
+      "@id": "#47mkx9",
+      "name": "Accepts the four Rashidun caliphs",
+      "x": -133,
+      "y": -360,
+      "link": "https://en.wikipedia.org/wiki/Rashidun_Caliphate",
+      "parent": "#9g3znm"
+    },
+    {
+      "@id": "#zr6jsx",
+      "name": "Shia instead followed Ali and his line",
+      "x": 0,
+      "y": -408,
+      "parent": "#9g3znm"
+    },
+    {
+      "@id": "#nkjs23",
+      "name": "Core beliefs",
+      "x": 151,
+      "y": -139,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#f8kixa",
+      "name": "One God, Allah, without partners",
+      "x": 175,
+      "y": -465,
+      "parent": "#nkjs23"
+    },
+    {
+      "@id": "#8cmcm4",
+      "name": "Muhammad is the final prophet",
+      "x": 243,
+      "y": -303,
+      "parent": "#nkjs23"
+    },
+    {
+      "@id": "#msa2wb",
+      "name": "Quran is God's word revealed",
+      "x": 340,
+      "y": -236,
+      "parent": "#nkjs23"
+    },
+    {
+      "@id": "#h3938w",
+      "name": "Angels, prophets, Judgement Day, divine decree",
+      "x": 463,
+      "y": -171,
+      "parent": "#nkjs23"
+    },
+    {
+      "@id": "#acxgw9",
+      "name": "Sources of guidance",
+      "x": 221,
+      "y": 52,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#87v6k5",
+      "name": "The Quran",
+      "x": 445,
+      "y": -51,
+      "parent": "#acxgw9"
+    },
+    {
+      "@id": "#ceby7i",
+      "name": "Hadith collections like Sahih al-Bukhari",
+      "x": 545,
+      "y": 61,
+      "link": "https://en.wikipedia.org/wiki/Kutub_al-Sittah",
+      "parent": "#acxgw9"
+    },
+    {
+      "@id": "#2443bk",
+      "name": "Scholarly consensus (ijma)",
+      "x": 409,
+      "y": 150,
+      "parent": "#acxgw9"
+    },
+    {
+      "@id": "#raubnp",
+      "name": "Analogical reasoning (qiyas)",
+      "x": 340,
+      "y": 236,
+      "parent": "#acxgw9"
+    },
+    {
+      "@id": "#eruqdz",
+      "name": "Practice",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wvuk7p",
+      "name": "Five Pillars structure religious life",
+      "x": 243,
+      "y": 303,
+      "link": "https://en.wikipedia.org/wiki/Five_Pillars_of_Islam",
+      "parent": "#eruqdz"
+    },
+    {
+      "@id": "#58nah7",
+      "name": "Five daily prayers facing Mecca",
+      "x": 133,
+      "y": 360,
+      "parent": "#eruqdz"
+    },
+    {
+      "@id": "#mug3hp",
+      "name": "Fasting in Ramadan",
+      "x": 0,
+      "y": 408,
+      "parent": "#eruqdz"
+    },
+    {
+      "@id": "#yj9xi3",
+      "name": "Hajj to Mecca once if able",
+      "x": -175,
+      "y": 465,
+      "parent": "#eruqdz"
+    },
+    {
+      "@id": "#cvkarb",
+      "name": "Schools and traditions",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6ytxaa",
+      "name": "Four law schools: Hanafi, Maliki, Shafi'i, Hanbali",
+      "x": -243,
+      "y": 303,
+      "link": "https://en.wikipedia.org/wiki/Madhhab",
+      "parent": "#cvkarb"
+    },
+    {
+      "@id": "#9yeid9",
+      "name": "Ash'ari and Maturidi theology",
+      "x": -340,
+      "y": 236,
+      "parent": "#cvkarb"
+    },
+    {
+      "@id": "#qsypx8",
+      "name": "Sufism practised within many communities",
+      "x": -409,
+      "y": 150,
+      "parent": "#cvkarb"
+    },
+    {
+      "@id": "#r9ww2r",
+      "name": "Al-Azhar in Cairo, major learning centre",
+      "x": -445,
+      "y": 51,
+      "parent": "#cvkarb"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,363 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Lagos",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#dvzkh9",
+      "name": "Setting",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u67dpx",
+      "name": "Nigeria's largest city, on the Atlantic",
+      "x": -466,
+      "y": -49,
+      "parent": "#dvzkh9"
+    },
+    {
+      "@id": "#4scq9h",
+      "name": "Built around the Lagos Lagoon",
+      "x": -434,
+      "y": -144,
+      "link": "https://en.wikipedia.org/wiki/Lagos_Lagoon",
+      "parent": "#dvzkh9"
+    },
+    {
+      "@id": "#3jkt4w",
+      "name": "Lagos Island, Victoria Island and mainland",
+      "x": -357,
+      "y": -219,
+      "parent": "#dvzkh9"
+    },
+    {
+      "@id": "#6anjmc",
+      "name": "Metro estimates around 15–20+ million",
+      "x": -274,
+      "y": -286,
+      "parent": "#dvzkh9"
+    },
+    {
+      "@id": "#tayni5",
+      "name": "History",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h7cw6b",
+      "name": "Yoruba fishing settlement called Eko",
+      "x": -180,
+      "y": -348,
+      "parent": "#tayni5"
+    },
+    {
+      "@id": "#sni5em",
+      "name": "Portuguese named it Lagos, \"lakes\"",
+      "x": -68,
+      "y": -405,
+      "parent": "#tayni5"
+    },
+    {
+      "@id": "#9fef22",
+      "name": "Annexed by Britain in 1861",
+      "x": 77,
+      "y": -453,
+      "parent": "#tayni5"
+    },
+    {
+      "@id": "#hrewnp",
+      "name": "Nigeria's capital until Abuja, 1991",
+      "x": 268,
+      "y": -513,
+      "parent": "#tayni5"
+    },
+    {
+      "@id": "#5pbe8y",
+      "name": "People",
+      "x": 182,
+      "y": -112,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rdjet7",
+      "name": "Yoruba majority, migrants from everywhere",
+      "x": 274,
+      "y": -286,
+      "parent": "#5pbe8y"
+    },
+    {
+      "@id": "#8mipf7",
+      "name": "English and Yoruba widely spoken",
+      "x": 357,
+      "y": -219,
+      "parent": "#5pbe8y"
+    },
+    {
+      "@id": "#gd76pg",
+      "name": "Muslims and Christians in similar numbers",
+      "x": 452,
+      "y": -150,
+      "parent": "#5pbe8y"
+    },
+    {
+      "@id": "#mz6mtn",
+      "name": "Economy",
+      "x": 212,
+      "y": 70,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#iqbxv6",
+      "name": "Nigeria's commercial and financial hub",
+      "x": 446,
+      "y": -47,
+      "parent": "#mz6mtn"
+    },
+    {
+      "@id": "#224buj",
+      "name": "Apapa and new Lekki deep-sea ports",
+      "x": 466,
+      "y": 49,
+      "parent": "#mz6mtn"
+    },
+    {
+      "@id": "#avwgcm",
+      "name": "Dangote oil refinery at Lekki",
+      "x": 416,
+      "y": 138,
+      "parent": "#mz6mtn"
+    },
+    {
+      "@id": "#h2tvu8",
+      "name": "Yaba tech and startup scene",
+      "x": 357,
+      "y": 219,
+      "parent": "#mz6mtn"
+    },
+    {
+      "@id": "#5yf4mz",
+      "name": "Notorious traffic; new rail lines opened 2023",
+      "x": 274,
+      "y": 286,
+      "parent": "#mz6mtn"
+    },
+    {
+      "@id": "#bgi9sq",
+      "name": "Landmarks",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u3m4f9",
+      "name": "Third Mainland Bridge across the lagoon",
+      "x": 180,
+      "y": 348,
+      "parent": "#bgi9sq"
+    },
+    {
+      "@id": "#5gb4dg",
+      "name": "National Theatre at Iganmu",
+      "x": 68,
+      "y": 405,
+      "parent": "#bgi9sq"
+    },
+    {
+      "@id": "#88epyt",
+      "name": "Eko Atlantic, land reclaimed from sea",
+      "x": -77,
+      "y": 453,
+      "link": "https://en.wikipedia.org/wiki/Eko_Atlantic",
+      "parent": "#bgi9sq"
+    },
+    {
+      "@id": "#zx4fm4",
+      "name": "Makoko stilt community on the water",
+      "x": -268,
+      "y": 513,
+      "parent": "#bgi9sq"
+    },
+    {
+      "@id": "#c3tuna",
+      "name": "Culture",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pkvdxx",
+      "name": "Heart of Nollywood film industry",
+      "x": -274,
+      "y": 286,
+      "link": "https://en.wikipedia.org/wiki/Nollywood",
+      "parent": "#c3tuna"
+    },
+    {
+      "@id": "#jhajgt",
+      "name": "Birthplace of Afrobeat and Afrobeats",
+      "x": -357,
+      "y": 219,
+      "link": "https://en.wikipedia.org/wiki/Afrobeats",
+      "parent": "#c3tuna"
+    },
+    {
+      "@id": "#pasbhn",
+      "name": "Fela Kuti's Afrika Shrine",
+      "x": -416,
+      "y": 138,
+      "parent": "#c3tuna"
+    },
+    {
+      "@id": "#q9iw66",
+      "name": "Eyo masquerade festival",
+      "x": -446,
+      "y": 47,
+      "parent": "#c3tuna"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 15,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    },
+    {
+      "start": 26,
+      "end": 29
+    },
+    {
+      "start": 26,
+      "end": 30
+    }
+  ],
+  "selectedNode": 0
+}

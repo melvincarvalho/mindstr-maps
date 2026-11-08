@@ -1,0 +1,352 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Bicycle",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#zy844i",
+      "name": "How it works",
+      "x": -197,
+      "y": -96,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gvky5i",
+      "name": "Pedals drive a chain to back wheel",
+      "x": -466,
+      "y": -51,
+      "parent": "#zy844i"
+    },
+    {
+      "@id": "#evbjch",
+      "name": "Gears trade speed for easier pedalling",
+      "x": -431,
+      "y": -149,
+      "parent": "#zy844i"
+    },
+    {
+      "@id": "#ibvqhn",
+      "name": "Steering and lean keep it balanced",
+      "x": -349,
+      "y": -227,
+      "parent": "#zy844i"
+    },
+    {
+      "@id": "#4g87mv",
+      "name": "Brakes squeeze the rim or a disc",
+      "x": -260,
+      "y": -294,
+      "parent": "#zy844i"
+    },
+    {
+      "@id": "#z8afs5",
+      "name": "Main parts",
+      "x": -16,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m7vage",
+      "name": "Frame of steel, aluminium or carbon",
+      "x": -158,
+      "y": -354,
+      "parent": "#z8afs5"
+    },
+    {
+      "@id": "#6jr2ca",
+      "name": "Wheels with spokes and air-filled tyres",
+      "x": -34,
+      "y": -407,
+      "parent": "#z8afs5"
+    },
+    {
+      "@id": "#2nmwwz",
+      "name": "Saddle, handlebars and drivetrain",
+      "x": 120,
+      "y": -464,
+      "parent": "#z8afs5"
+    },
+    {
+      "@id": "#hig52a",
+      "name": "History",
+      "x": 197,
+      "y": -96,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xe7fi8",
+      "name": "1817 Draisine had no pedals",
+      "x": 207,
+      "y": -320,
+      "link": "https://en.wikipedia.org/wiki/Dandy_horse",
+      "parent": "#hig52a"
+    },
+    {
+      "@id": "#yaj67a",
+      "name": "1860s pedal velocipede on the front wheel",
+      "x": 307,
+      "y": -263,
+      "parent": "#hig52a"
+    },
+    {
+      "@id": "#z8kja7",
+      "name": "Penny-farthing's huge front wheel, 1870s",
+      "x": 384,
+      "y": -187,
+      "link": "https://en.wikipedia.org/wiki/Penny-farthing",
+      "parent": "#hig52a"
+    },
+    {
+      "@id": "#2d6mup",
+      "name": "1885 safety bicycle set modern shape",
+      "x": 471,
+      "y": -105,
+      "link": "https://en.wikipedia.org/wiki/Safety_bicycle",
+      "parent": "#hig52a"
+    },
+    {
+      "@id": "#pqh43k",
+      "name": "Pneumatic tyres arrived around 1888",
+      "x": 450,
+      "y": 0,
+      "parent": "#hig52a"
+    },
+    {
+      "@id": "#wcderg",
+      "name": "Kinds of bike",
+      "x": 178,
+      "y": 116,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8z7u43",
+      "name": "Road bikes for speed on tarmac",
+      "x": 433,
+      "y": 97,
+      "parent": "#wcderg"
+    },
+    {
+      "@id": "#ijhcbn",
+      "name": "Mountain bikes for rough trails",
+      "x": 384,
+      "y": 187,
+      "parent": "#wcderg"
+    },
+    {
+      "@id": "#2rfpzs",
+      "name": "Folding and cargo bikes for town",
+      "x": 307,
+      "y": 263,
+      "parent": "#wcderg"
+    },
+    {
+      "@id": "#28xxtf",
+      "name": "E-bikes add a battery motor",
+      "x": 207,
+      "y": 320,
+      "link": "https://en.wikipedia.org/wiki/Electric_bicycle",
+      "parent": "#wcderg"
+    },
+    {
+      "@id": "#d976u6",
+      "name": "Why people ride",
+      "x": -47,
+      "y": 180,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g2dxii",
+      "name": "Most energy-efficient way to travel",
+      "x": 96,
+      "y": 368,
+      "parent": "#d976u6"
+    },
+    {
+      "@id": "#g6fuyy",
+      "name": "No fuel, little noise, cheap upkeep",
+      "x": -35,
+      "y": 423,
+      "parent": "#d976u6"
+    },
+    {
+      "@id": "#sk6bbe",
+      "name": "Exercise built into the commute",
+      "x": -214,
+      "y": 474,
+      "parent": "#d976u6"
+    },
+    {
+      "@id": "#25bx6p",
+      "name": "Over a billion bicycles worldwide",
+      "x": -260,
+      "y": 294,
+      "parent": "#d976u6"
+    },
+    {
+      "@id": "#8dm227",
+      "name": "Riding safely",
+      "x": -211,
+      "y": 73,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qf4dad",
+      "name": "Helmet, lights and visible clothing",
+      "x": -349,
+      "y": 227,
+      "parent": "#8dm227"
+    },
+    {
+      "@id": "#efr5d6",
+      "name": "Check tyres, brakes and chain",
+      "x": -413,
+      "y": 143,
+      "parent": "#8dm227"
+    },
+    {
+      "@id": "#mnwjpn",
+      "name": "Bike lanes separate riders from traffic",
+      "x": -506,
+      "y": 55,
+      "parent": "#8dm227"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 10,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    },
+    {
+      "start": 26,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

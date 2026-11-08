@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Time",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ah6jrx",
+      "name": "What time is",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#w6zjam",
+      "name": "The ordering of events, past to future",
+      "x": -485,
+      "y": -58,
+      "parent": "#ah6jrx"
+    },
+    {
+      "@id": "#g7am35",
+      "name": "A fourth dimension alongside space",
+      "x": -405,
+      "y": -156,
+      "parent": "#ah6jrx"
+    },
+    {
+      "@id": "#4b9ejt",
+      "name": "Arrow of time follows rising entropy",
+      "x": -330,
+      "y": -245,
+      "link": "https://en.wikipedia.org/wiki/Arrow_of_time",
+      "parent": "#ah6jrx"
+    },
+    {
+      "@id": "#p3rwnw",
+      "name": "Measuring time",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#spe8ss",
+      "name": "Second defined by caesium atom vibrations",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Second",
+      "parent": "#p3rwnw"
+    },
+    {
+      "@id": "#2s873k",
+      "name": "Atomic clocks are the most precise",
+      "x": -104,
+      "y": -367,
+      "parent": "#p3rwnw"
+    },
+    {
+      "@id": "#4ki3pp",
+      "name": "Days, months, years from sky cycles",
+      "x": 42,
+      "y": -423,
+      "parent": "#p3rwnw"
+    },
+    {
+      "@id": "#nz9aac",
+      "name": "Huygens built the pendulum clock, 1656",
+      "x": 234,
+      "y": -485,
+      "parent": "#p3rwnw"
+    },
+    {
+      "@id": "#c9gd7z",
+      "name": "Timekeeping on Earth",
+      "x": 190,
+      "y": -104,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sb94cf",
+      "name": "About 24 time zones around the globe",
+      "x": 281,
+      "y": -281,
+      "parent": "#c9gd7z"
+    },
+    {
+      "@id": "#6qbfi5",
+      "name": "UTC is the world reference time",
+      "x": 372,
+      "y": -203,
+      "link": "https://en.wikipedia.org/wiki/Coordinated_Universal_Time",
+      "parent": "#c9gd7z"
+    },
+    {
+      "@id": "#j36r6d",
+      "name": "Leap seconds match clocks to Earth's spin",
+      "x": 525,
+      "y": -131,
+      "parent": "#c9gd7z"
+    },
+    {
+      "@id": "#fm5xfm",
+      "name": "Time in physics",
+      "x": 190,
+      "y": 104,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m4mf8e",
+      "name": "Newton: absolute time, same everywhere",
+      "x": 450,
+      "y": 0,
+      "parent": "#fm5xfm"
+    },
+    {
+      "@id": "#cgp8vh",
+      "name": "Einstein: time is relative",
+      "x": 430,
+      "y": 106,
+      "parent": "#fm5xfm"
+    },
+    {
+      "@id": "#zqehj7",
+      "name": "Moving clocks tick slower",
+      "x": 372,
+      "y": 203,
+      "link": "https://en.wikipedia.org/wiki/Time_dilation",
+      "parent": "#fm5xfm"
+    },
+    {
+      "@id": "#qxfqxw",
+      "name": "Strong gravity slows clocks too",
+      "x": 281,
+      "y": 281,
+      "parent": "#fm5xfm"
+    },
+    {
+      "@id": "#sstdzp",
+      "name": "GPS satellites correct for both effects",
+      "x": 164,
+      "y": 335,
+      "parent": "#fm5xfm"
+    },
+    {
+      "@id": "#st43nf",
+      "name": "Deep time",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jsjti2",
+      "name": "Universe about 13.8 billion years old",
+      "x": 38,
+      "y": 391,
+      "parent": "#st43nf"
+    },
+    {
+      "@id": "#g4j7q7",
+      "name": "Earth about 4.5 billion years old",
+      "x": -124,
+      "y": 447,
+      "parent": "#st43nf"
+    },
+    {
+      "@id": "#jvcywt",
+      "name": "Geologic time scale divides Earth's past",
+      "x": -245,
+      "y": 340,
+      "link": "https://en.wikipedia.org/wiki/Geologic_time_scale",
+      "parent": "#st43nf"
+    },
+    {
+      "@id": "#v797ap",
+      "name": "Human experience of time",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#85krf2",
+      "name": "Body clock follows a daily rhythm",
+      "x": -330,
+      "y": 245,
+      "parent": "#v797ap"
+    },
+    {
+      "@id": "#e9d52s",
+      "name": "Time seems to speed up with age",
+      "x": -405,
+      "y": 156,
+      "parent": "#v797ap"
+    },
+    {
+      "@id": "#6jssvh",
+      "name": "Calendars organise shared time",
+      "x": -505,
+      "y": 60,
+      "parent": "#v797ap"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 14,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

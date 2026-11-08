@@ -1,0 +1,34 @@
+category: History
+aliases: the british empire, british colonial empire, british imperialism
+- British Empire
+  - Rise from about 1600
+    - [East India Company chartered 1600](https://en.wikipedia.org/wiki/East_India_Company)
+    - Colonies in North America and Caribbean
+    - Thirteen American colonies lost in 1783
+    - Royal Navy dominated sea trade
+  - Height around 1920
+    - About a quarter of world's land
+    - Roughly a quarter of world's population
+    - India under Crown rule from 1858
+    - Settler dominions: Canada, Australia, New Zealand
+  - Impact on colonised peoples
+    - [Millions of Africans enslaved and shipped](https://en.wikipedia.org/wiki/Atlantic_slave_trade)
+    - Indigenous lands seized, populations devastated
+    - Deadly famines under British rule in India
+    - [Amritsar massacre of 1919](https://en.wikipedia.org/wiki/Jallianwala_Bagh_massacre)
+    - Brutal suppression of Kenya's Mau Mau
+    - Economies reshaped to export raw materials
+  - Abolition and reform
+    - Slave trade banned 1807
+    - Slavery abolished in most colonies 1833
+  - Decline after the world wars
+    - Two world wars drained British power
+    - [India and Pakistan independent 1947](https://en.wikipedia.org/wiki/Partition_of_India)
+    - Suez Crisis 1956 exposed weakness
+    - Most African colonies free by 1960s
+    - Hong Kong returned to China 1997
+  - Legacy
+    - [Commonwealth of Nations unites former colonies](https://en.wikipedia.org/wiki/Commonwealth_of_Nations)
+    - English spread as a global language
+    - Borders and legal systems left behind
+    - Historians still debate its record

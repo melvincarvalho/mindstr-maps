@@ -1,0 +1,31 @@
+category: Science
+aliases: steelmaking, how steel is made, carbon steel
+- Steel
+  - What it is
+    - Iron with up to about 2% carbon
+    - Carbon makes it far stronger than iron
+    - World's most used metal by far
+    - About 1.9 billion tonnes made yearly
+  - Making steel
+    - Iron ore smelted in a blast furnace
+    - [Basic oxygen furnace burns off carbon](https://en.wikipedia.org/wiki/Basic_oxygen_steelmaking)
+    - [Electric arc furnaces melt scrap](https://en.wikipedia.org/wiki/Electric_arc_furnace)
+    - Rolled, forged or cast into shape
+  - Kinds of steel
+    - Mild steel: low carbon, easy to shape
+    - [Stainless steel: chromium stops rust](https://en.wikipedia.org/wiki/Stainless_steel)
+    - Tool steel: hard, keeps an edge
+    - Galvanised steel: coated in zinc
+  - Heat treatment
+    - Quenching in water makes it hard
+    - Tempering reduces brittleness
+    - Annealing softens it for working
+  - History
+    - Ancient crucible steel from India
+    - [Bessemer process made it cheap, 1850s](https://en.wikipedia.org/wiki/Bessemer_process)
+    - Enabled railways, skyscrapers and big ships
+  - Uses and impact
+    - Buildings, bridges and reinforced concrete
+    - Cars, ships and appliances
+    - About 7–9% of global CO₂ emissions
+    - Recyclable again and again

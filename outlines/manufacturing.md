@@ -1,0 +1,30 @@
+category: Society
+aliases: manufacturing industry, how things are made, factory production, industrial production
+- Manufacturing
+  - What it is
+    - Turning raw materials into finished goods
+    - Secondary sector of the economy
+    - From hand craft to automated plants
+  - History
+    - Craft workshops and guilds
+    - [Industrial Revolution: machines and factories](https://en.wikipedia.org/wiki/Industrial_Revolution)
+    - Interchangeable parts standardise products
+    - [Ford's moving assembly line, 1913](https://en.wikipedia.org/wiki/Assembly_line)
+  - Main processes
+    - Casting and moulding shape material
+    - Machining cuts material away
+    - Joining by welding or fastening
+    - [3D printing builds layer by layer](https://en.wikipedia.org/wiki/3D_printing)
+  - Ways of organising production
+    - Mass production of identical items
+    - [Lean manufacturing cuts waste](https://en.wikipedia.org/wiki/Lean_manufacturing)
+    - Just-in-time keeps stocks low
+    - Global supply chains split production
+  - Today's industry
+    - China makes about 30% globally
+    - Robots and automation in factories
+    - Major sectors: cars, chemicals, electronics
+  - Issues
+    - Factory jobs shifting to cheaper countries
+    - Energy use and pollution
+    - Debates over reshoring and industrial policy

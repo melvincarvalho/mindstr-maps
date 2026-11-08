@@ -1,0 +1,32 @@
+category: People
+aliases: faraday, michael faraday biography
+- Michael Faraday
+  - Life
+    - Born 1791 in Newington Butts, London
+    - Blacksmith's son, little formal schooling
+    - Apprentice bookbinder who read science
+    - Assistant to Humphry Davy from 1813
+    - Died 1867 at Hampton Court
+  - Electricity and magnetism
+    - Electric motor principle shown 1821
+    - [Electromagnetic induction discovered 1831](https://en.wikipedia.org/wiki/Electromagnetic_induction)
+    - Built the first electric dynamo
+    - Pictured invisible lines of force
+    - [Faraday effect links light and magnetism](https://en.wikipedia.org/wiki/Faraday_effect)
+  - Chemistry
+    - Discovered benzene in 1825
+    - Liquefied chlorine and other gases
+    - [Laws of electrolysis](https://en.wikipedia.org/wiki/Faraday%27s_laws_of_electrolysis)
+    - Coined electrode, anode, cathode, ion
+  - Royal Institution
+    - Director of its laboratory
+    - [Started the Christmas Lectures, 1825](https://en.wikipedia.org/wiki/Royal_Institution_Christmas_Lectures)
+    - The Chemical History of a Candle
+  - Character
+    - Devout Sandemanian Christian
+    - Declined a knighthood
+    - Refused to make chemical weapons
+  - Legacy
+    - Field idea inspired Maxwell's equations
+    - Basis of generators and transformers
+    - Farad unit and Faraday cage

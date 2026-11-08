@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Heart",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#9gv57j",
+      "name": "Where and what",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#myjrbf",
+      "name": "Muscular pump, about fist-sized",
+      "x": -465,
+      "y": -53,
+      "parent": "#9gv57j"
+    },
+    {
+      "@id": "#xu7reg",
+      "name": "Sits in the chest, slightly left",
+      "x": -409,
+      "y": -150,
+      "parent": "#9gv57j"
+    },
+    {
+      "@id": "#dabwe4",
+      "name": "Beats about 100,000 times a day",
+      "x": -340,
+      "y": -236,
+      "parent": "#9gv57j"
+    },
+    {
+      "@id": "#xmv2qe",
+      "name": "Four chambers",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#isgj7k",
+      "name": "Atria receive incoming blood",
+      "x": -243,
+      "y": -303,
+      "parent": "#xmv2qe"
+    },
+    {
+      "@id": "#dunf9h",
+      "name": "Ventricles pump blood out",
+      "x": -133,
+      "y": -360,
+      "parent": "#xmv2qe"
+    },
+    {
+      "@id": "#tzpib5",
+      "name": "Right side pumps to the lungs",
+      "x": 0,
+      "y": -408,
+      "parent": "#xmv2qe"
+    },
+    {
+      "@id": "#mb6b7b",
+      "name": "Left side pumps to the body",
+      "x": 175,
+      "y": -465,
+      "parent": "#xmv2qe"
+    },
+    {
+      "@id": "#ze5zq3",
+      "name": "Valves stop blood flowing backward",
+      "x": 243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Heart_valve",
+      "parent": "#xmv2qe"
+    },
+    {
+      "@id": "#maxsgi",
+      "name": "The heartbeat",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#i5d4be",
+      "name": "Sinoatrial node: the natural pacemaker",
+      "x": 340,
+      "y": -236,
+      "link": "https://en.wikipedia.org/wiki/Sinoatrial_node",
+      "parent": "#maxsgi"
+    },
+    {
+      "@id": "#rdijpg",
+      "name": "Electrical signal spreads, muscle contracts",
+      "x": 409,
+      "y": -150,
+      "parent": "#maxsgi"
+    },
+    {
+      "@id": "#sfz76h",
+      "name": "\"Lub-dub\" is valves closing",
+      "x": 465,
+      "y": -53,
+      "parent": "#maxsgi"
+    },
+    {
+      "@id": "#69xqie",
+      "name": "ECG records electrical activity",
+      "x": 445,
+      "y": 51,
+      "link": "https://en.wikipedia.org/wiki/Electrocardiography",
+      "parent": "#maxsgi"
+    },
+    {
+      "@id": "#wxhbns",
+      "name": "Feeding the heart",
+      "x": 193,
+      "y": 99,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gcp5n8",
+      "name": "Coronary arteries supply heart muscle",
+      "x": 409,
+      "y": 150,
+      "parent": "#wxhbns"
+    },
+    {
+      "@id": "#gbkmb8",
+      "name": "A blocked one causes heart attack",
+      "x": 340,
+      "y": 236,
+      "parent": "#wxhbns"
+    },
+    {
+      "@id": "#z4fkt3",
+      "name": "Common problems",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#92mqvj",
+      "name": "Coronary artery disease, a leading killer",
+      "x": 243,
+      "y": 303,
+      "link": "https://en.wikipedia.org/wiki/Coronary_artery_disease",
+      "parent": "#z4fkt3"
+    },
+    {
+      "@id": "#mkeiyc",
+      "name": "Heart failure: weakened pumping",
+      "x": 133,
+      "y": 360,
+      "parent": "#z4fkt3"
+    },
+    {
+      "@id": "#ivcs2z",
+      "name": "Arrhythmias such as atrial fibrillation",
+      "x": 0,
+      "y": 408,
+      "parent": "#z4fkt3"
+    },
+    {
+      "@id": "#simuss",
+      "name": "Chest pain, breathlessness: call emergency services",
+      "x": -175,
+      "y": 465,
+      "parent": "#z4fkt3"
+    },
+    {
+      "@id": "#fssvjr",
+      "name": "Keeping it healthy",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wzym3f",
+      "name": "Stay active most days",
+      "x": -243,
+      "y": 303,
+      "parent": "#fssvjr"
+    },
+    {
+      "@id": "#6heihs",
+      "name": "Eat less salt and saturated fat",
+      "x": -340,
+      "y": 236,
+      "parent": "#fssvjr"
+    },
+    {
+      "@id": "#pqjugw",
+      "name": "Don't smoke; limit alcohol",
+      "x": -409,
+      "y": 150,
+      "parent": "#fssvjr"
+    },
+    {
+      "@id": "#k4q3d4",
+      "name": "Check blood pressure and cholesterol",
+      "x": -445,
+      "y": 51,
+      "parent": "#fssvjr"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

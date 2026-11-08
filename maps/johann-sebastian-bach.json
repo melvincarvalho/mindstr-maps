@@ -1,0 +1,352 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Johann Sebastian Bach",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#kjaei4",
+      "name": "German Baroque composer, 1685–1750",
+      "x": -211,
+      "y": -73,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sw3avp",
+      "name": "Born in Eisenach into a musical family",
+      "x": -586,
+      "y": -63,
+      "parent": "#kjaei4"
+    },
+    {
+      "@id": "#xhhxtz",
+      "name": "Orphaned at ten; raised by his brother",
+      "x": -413,
+      "y": -143,
+      "parent": "#kjaei4"
+    },
+    {
+      "@id": "#9d3x9p",
+      "name": "A virtuoso organist and keyboard player",
+      "x": -349,
+      "y": -227,
+      "parent": "#kjaei4"
+    },
+    {
+      "@id": "#dh7nrh",
+      "name": "Career stages",
+      "x": -47,
+      "y": -180,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yq3j4v",
+      "name": "Organist in Arnstadt and Mühlhausen",
+      "x": -260,
+      "y": -294,
+      "parent": "#dh7nrh"
+    },
+    {
+      "@id": "#jnzc7x",
+      "name": "Weimar court: many organ works",
+      "x": -158,
+      "y": -354,
+      "parent": "#dh7nrh"
+    },
+    {
+      "@id": "#cv4pvu",
+      "name": "Köthen: instrumental and chamber music",
+      "x": -34,
+      "y": -407,
+      "parent": "#dh7nrh"
+    },
+    {
+      "@id": "#j6h98f",
+      "name": "Leipzig from 1723: cantor of St Thomas",
+      "x": 120,
+      "y": -464,
+      "parent": "#dh7nrh"
+    },
+    {
+      "@id": "#xvh6ta",
+      "name": "Masterworks",
+      "x": 211,
+      "y": -73,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ct5saa",
+      "name": "The Well-Tempered Clavier: all 24 keys",
+      "x": 207,
+      "y": -320,
+      "link": "https://en.wikipedia.org/wiki/The_Well-Tempered_Clavier",
+      "parent": "#xvh6ta"
+    },
+    {
+      "@id": "#f5pp8f",
+      "name": "Six Brandenburg Concertos",
+      "x": 307,
+      "y": -263,
+      "link": "https://en.wikipedia.org/wiki/Brandenburg_Concertos",
+      "parent": "#xvh6ta"
+    },
+    {
+      "@id": "#63h35j",
+      "name": "St Matthew Passion",
+      "x": 384,
+      "y": -187,
+      "link": "https://en.wikipedia.org/wiki/St_Matthew_Passion",
+      "parent": "#xvh6ta"
+    },
+    {
+      "@id": "#awi2nf",
+      "name": "Mass in B minor",
+      "x": 433,
+      "y": -97,
+      "parent": "#xvh6ta"
+    },
+    {
+      "@id": "#gjn37s",
+      "name": "Goldberg Variations and Cello Suites",
+      "x": 450,
+      "y": 0,
+      "parent": "#xvh6ta"
+    },
+    {
+      "@id": "#kbgate",
+      "name": "About 200 surviving church cantatas",
+      "x": 433,
+      "y": 97,
+      "parent": "#xvh6ta"
+    },
+    {
+      "@id": "#vkvh27",
+      "name": "His musical language",
+      "x": 171,
+      "y": 146,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5a3r39",
+      "name": "Master of counterpoint and the fugue",
+      "x": 401,
+      "y": 195,
+      "link": "https://en.wikipedia.org/wiki/Fugue",
+      "parent": "#vkvh27"
+    },
+    {
+      "@id": "#fng5d9",
+      "name": "Lutheran faith shaped his music",
+      "x": 307,
+      "y": 263,
+      "parent": "#vkvh27"
+    },
+    {
+      "@id": "#7bayy5",
+      "name": "Signed scores \"Soli Deo gloria\"",
+      "x": 207,
+      "y": 320,
+      "parent": "#vkvh27"
+    },
+    {
+      "@id": "#ixzixh",
+      "name": "Family",
+      "x": 17,
+      "y": 200,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#abw8x3",
+      "name": "Two marriages and 20 children",
+      "x": 96,
+      "y": 368,
+      "parent": "#ixzixh"
+    },
+    {
+      "@id": "#untu62",
+      "name": "Composer sons C.P.E. and J.C. Bach",
+      "x": -35,
+      "y": 423,
+      "parent": "#ixzixh"
+    },
+    {
+      "@id": "#pc2d7k",
+      "name": "Legacy",
+      "x": -178,
+      "y": 116,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qdphyc",
+      "name": "Seen as old-fashioned by his death",
+      "x": -214,
+      "y": 474,
+      "parent": "#pc2d7k"
+    },
+    {
+      "@id": "#rxvuc5",
+      "name": "Mendelssohn revived the St Matthew Passion, 1829",
+      "x": -260,
+      "y": 294,
+      "parent": "#pc2d7k"
+    },
+    {
+      "@id": "#x24ku5",
+      "name": "Studied by Mozart, Beethoven and Chopin",
+      "x": -349,
+      "y": 227,
+      "parent": "#pc2d7k"
+    },
+    {
+      "@id": "#baazc7",
+      "name": "Works numbered in the BWV catalogue",
+      "x": -431,
+      "y": 149,
+      "parent": "#pc2d7k"
+    },
+    {
+      "@id": "#wy83sn",
+      "name": "On the Voyager Golden Record",
+      "x": -446,
+      "y": 49,
+      "parent": "#pc2d7k"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 10,
+      "end": 15
+    },
+    {
+      "start": 10,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    },
+    {
+      "start": 24,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,32 @@
+category: History
+aliases: medieval period, medieval europe, the middle ages
+- Middle Ages
+  - When it was
+    - About 500 to 1500 in Europe
+    - From Rome's fall to the Renaissance
+    - Early, High and Late periods
+  - Early Middle Ages
+    - [Western Roman Empire falls in 476](https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire)
+    - Germanic kingdoms replace Roman rule
+    - [Charlemagne crowned emperor in 800](https://en.wikipedia.org/wiki/Charlemagne)
+    - Viking raids from the late 700s
+  - How society worked
+    - [Feudalism: land exchanged for loyalty](https://en.wikipedia.org/wiki/Feudalism)
+    - Most people were peasant farmers
+    - Serfs bound to the lord's manor
+    - Knights, castles and chivalry
+  - The Church
+    - Catholic Church united Western Europe
+    - Monasteries preserved books and learning
+    - Gothic cathedrals like Notre-Dame
+    - East–West Schism of 1054
+  - High Middle Ages
+    - Population, towns and trade grow
+    - Crusades to the Holy Land from 1096
+    - Universities founded at Bologna, Paris, Oxford
+    - Magna Carta sealed in 1215
+  - Late Middle Ages
+    - [Black Death kills a third of Europe](https://en.wikipedia.org/wiki/Black_Death)
+    - Hundred Years' War, England versus France
+    - Constantinople falls to Ottomans, 1453
+    - Printing press spreads new ideas

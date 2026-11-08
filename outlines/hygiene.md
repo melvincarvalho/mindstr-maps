@@ -1,0 +1,29 @@
+category: Health
+aliases: personal hygiene, good hygiene, hygiene habits
+- Hygiene
+  - Why it matters
+    - Breaks the chain of infection
+    - Germs spread by hands, air, food
+    - Prevents diarrhoea and respiratory infections
+  - [Handwashing](https://en.wikipedia.org/wiki/Hand_washing)
+    - Soap and water for 20 seconds
+    - Before eating or preparing food
+    - After the toilet or nappy changes
+    - Hand sanitiser when soap isn't available
+  - Personal hygiene
+    - Regular washing and clean clothes
+    - [Brush teeth twice a day](https://en.wikipedia.org/wiki/Oral_hygiene)
+    - Keep nails short and clean
+    - Change period products regularly
+  - Respiratory hygiene
+    - Cough or sneeze into your elbow
+    - Bin used tissues, then wash hands
+    - Masks can reduce spread
+  - Food hygiene
+    - [Keep raw meat separate](https://en.wikipedia.org/wiki/Food_safety)
+    - Cook food thoroughly
+    - Chill leftovers within two hours
+  - At home and in hospitals
+    - Clean often-touched surfaces
+    - [Hospitals follow strict infection control](https://en.wikipedia.org/wiki/Infection_prevention_and_control)
+    - [Semmelweis linked handwashing to fewer deaths](https://en.wikipedia.org/wiki/Ignaz_Semmelweis)

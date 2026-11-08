@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Semiconductor",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#8xg9qn",
+      "name": "Between a conductor and an insulator",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b26wi4",
+      "name": "Silicon is the most used material",
+      "x": -585,
+      "y": -68,
+      "link": "https://en.wikipedia.org/wiki/Silicon",
+      "parent": "#8xg9qn"
+    },
+    {
+      "@id": "#w53377",
+      "name": "Conductivity changes with heat and light",
+      "x": -405,
+      "y": -156,
+      "parent": "#8xg9qn"
+    },
+    {
+      "@id": "#w3gvrv",
+      "name": "Band gap decides how it conducts",
+      "x": -330,
+      "y": -245,
+      "parent": "#8xg9qn"
+    },
+    {
+      "@id": "#vs38am",
+      "name": "Doping changes behaviour",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rmxu6p",
+      "name": "Tiny impurities added on purpose",
+      "x": -225,
+      "y": -312,
+      "parent": "#vs38am"
+    },
+    {
+      "@id": "#4djuc7",
+      "name": "N-type has extra electrons",
+      "x": -104,
+      "y": -367,
+      "parent": "#vs38am"
+    },
+    {
+      "@id": "#9rfpr7",
+      "name": "P-type has missing electrons, \"holes\"",
+      "x": 42,
+      "y": -423,
+      "parent": "#vs38am"
+    },
+    {
+      "@id": "#wewnmf",
+      "name": "P–n junction makes a diode",
+      "x": 234,
+      "y": -485,
+      "link": "https://en.wikipedia.org/wiki/P%E2%80%93n_junction",
+      "parent": "#vs38am"
+    },
+    {
+      "@id": "#xi56zh",
+      "name": "Devices made from semiconductors",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qbse9w",
+      "name": "Transistors are on-off switches",
+      "x": 281,
+      "y": -281,
+      "parent": "#xi56zh"
+    },
+    {
+      "@id": "#i3q8xa",
+      "name": "Solar cells turn light into electricity",
+      "x": 372,
+      "y": -203,
+      "parent": "#xi56zh"
+    },
+    {
+      "@id": "#q36y7k",
+      "name": "LEDs and laser diodes make light",
+      "x": 525,
+      "y": -131,
+      "parent": "#xi56zh"
+    },
+    {
+      "@id": "#xjktic",
+      "name": "Image sensors in digital cameras",
+      "x": 450,
+      "y": 0,
+      "parent": "#xi56zh"
+    },
+    {
+      "@id": "#k9uctq",
+      "name": "How chips are made",
+      "x": 169,
+      "y": 125,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7c7arq",
+      "name": "Pure silicon grown into crystal ingots",
+      "x": 487,
+      "y": 121,
+      "parent": "#k9uctq"
+    },
+    {
+      "@id": "#5ujrvf",
+      "name": "Ingots sliced into thin wafers",
+      "x": 372,
+      "y": 203,
+      "parent": "#k9uctq"
+    },
+    {
+      "@id": "#2ncjz7",
+      "name": "Photolithography prints circuit patterns",
+      "x": 281,
+      "y": 281,
+      "link": "https://en.wikipedia.org/wiki/Photolithography",
+      "parent": "#k9uctq"
+    },
+    {
+      "@id": "#7pu32f",
+      "name": "Made in ultra-clean fabrication plants",
+      "x": 164,
+      "y": 335,
+      "parent": "#k9uctq"
+    },
+    {
+      "@id": "#tua93r",
+      "name": "Shrinking and scaling",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ebtt3f",
+      "name": "Moore's law: transistors double every two years",
+      "x": 38,
+      "y": 391,
+      "link": "https://en.wikipedia.org/wiki/Moore%27s_law",
+      "parent": "#tua93r"
+    },
+    {
+      "@id": "#dm888a",
+      "name": "Modern chips hold billions of transistors",
+      "x": -124,
+      "y": 447,
+      "parent": "#tua93r"
+    },
+    {
+      "@id": "#we3z9t",
+      "name": "Features now just nanometres wide",
+      "x": -225,
+      "y": 312,
+      "parent": "#tua93r"
+    },
+    {
+      "@id": "#sm8ikz",
+      "name": "A global industry",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bp58q2",
+      "name": "Taiwan's TSMC makes most advanced chips",
+      "x": -330,
+      "y": 245,
+      "parent": "#sm8ikz"
+    },
+    {
+      "@id": "#udvtye",
+      "name": "Dutch ASML builds key lithography machines",
+      "x": -405,
+      "y": 156,
+      "parent": "#sm8ikz"
+    },
+    {
+      "@id": "#v25hda",
+      "name": "2020–2023 chip shortage hit car production",
+      "x": -525,
+      "y": 62,
+      "parent": "#sm8ikz"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

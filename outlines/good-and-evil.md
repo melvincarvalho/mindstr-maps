@@ -1,0 +1,29 @@
+category: Philosophy and religion
+aliases: good vs evil, good versus evil, nature of evil
+- Good and evil
+  - Key questions
+    - Does evil exist objectively?
+    - Why do people do evil?
+    - Why would a good God allow evil?
+  - Religious views
+    - [Problem of evil: Epicurus to Leibniz](https://en.wikipedia.org/wiki/Problem_of_evil)
+    - Free will defence: evil from choice
+    - Zoroastrianism: two opposing cosmic forces
+    - Christianity: sin, grace and redemption
+    - Buddhism: suffering from ignorance and craving
+  - Philosophical views
+    - Augustine: evil is absence of good
+    - Socrates: no one does wrong willingly
+    - [Nietzsche's "Beyond Good and Evil", 1886](https://en.wikipedia.org/wiki/Beyond_Good_and_Evil)
+    - Kant: radical evil in human nature
+  - Psychology of evil
+    - [Milgram's obedience experiments, 1960s](https://en.wikipedia.org/wiki/Milgram_experiment)
+    - Stanford prison experiment, now heavily criticised
+    - Dehumanising language enables violence
+  - Ordinary people
+    - [Arendt's "banality of evil", 1963](https://en.wikipedia.org/wiki/Eichmann_in_Jerusalem)
+    - Following orders and conformity
+  - Goodness in practice
+    - Altruism and self-sacrifice
+    - Rescuers who hid Jews in the Holocaust
+    - Everyday kindness and fairness

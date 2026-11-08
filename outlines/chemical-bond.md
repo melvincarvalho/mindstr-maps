@@ -1,0 +1,30 @@
+category: Science
+aliases: chemical bonds, chemical bonding, types of chemical bonds
+- Chemical bond
+  - Why atoms bond
+    - Bonded atoms have lower energy
+    - Outer electrons do the bonding
+    - [Many atoms seek eight outer electrons](https://en.wikipedia.org/wiki/Octet_rule)
+  - Ionic bonds
+    - [Electrons transfer from metal to non-metal](https://en.wikipedia.org/wiki/Ionic_bonding)
+    - Opposite charges attract strongly
+    - Form crystals like table salt
+    - High melting points; conduct when dissolved
+  - Covalent bonds
+    - [Atoms share pairs of electrons](https://en.wikipedia.org/wiki/Covalent_bond)
+    - Single, double or triple bonds
+    - Polar when sharing is unequal
+    - Hold together water, sugar and DNA
+  - Metallic bonds
+    - Sea of electrons around metal ions
+    - Explains conductivity and shine
+    - Lets metals bend without breaking
+  - Weaker attractions between molecules
+    - [Hydrogen bonds hold DNA strands together](https://en.wikipedia.org/wiki/Hydrogen_bond)
+    - Hydrogen bonds give water high boiling point
+    - Van der Waals forces let geckos climb
+  - Making and breaking bonds
+    - Breaking bonds takes in energy
+    - Forming bonds gives out energy
+    - Chemical reactions rearrange bonds
+    - [Electronegativity predicts bond type](https://en.wikipedia.org/wiki/Electronegativity)

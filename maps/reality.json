@@ -1,0 +1,318 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Reality",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#tbsyat",
+      "name": "What we mean by reality",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nfru7q",
+      "name": "What exists whatever we believe",
+      "x": -524,
+      "y": -64,
+      "parent": "#tbsyat"
+    },
+    {
+      "@id": "#y6n3xq",
+      "name": "Contrasted with appearance, dreams and fiction",
+      "x": -401,
+      "y": -163,
+      "parent": "#tbsyat"
+    },
+    {
+      "@id": "#u86zfe",
+      "name": "Can we know it?",
+      "x": -71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#phai3y",
+      "name": "Plato's cave: shadows mistaken for reality",
+      "x": -318,
+      "y": -255,
+      "link": "https://en.wikipedia.org/wiki/Allegory_of_the_cave",
+      "parent": "#u86zfe"
+    },
+    {
+      "@id": "#wdgcqc",
+      "name": "Descartes doubted all but his own thinking",
+      "x": -204,
+      "y": -321,
+      "parent": "#u86zfe"
+    },
+    {
+      "@id": "#gj9i2n",
+      "name": "Kant: things-in-themselves stay unknowable",
+      "x": -73,
+      "y": -372,
+      "parent": "#u86zfe"
+    },
+    {
+      "@id": "#jza9bv",
+      "name": "Could we be living in a simulation?",
+      "x": 82,
+      "y": -420,
+      "link": "https://en.wikipedia.org/wiki/Simulation_hypothesis",
+      "parent": "#u86zfe"
+    },
+    {
+      "@id": "#g2f99w",
+      "name": "Philosophical views",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yk4p68",
+      "name": "Realism: world exists independently of minds",
+      "x": 303,
+      "y": -475,
+      "parent": "#g2f99w"
+    },
+    {
+      "@id": "#zr9tcw",
+      "name": "Idealism: reality is fundamentally mental",
+      "x": 318,
+      "y": -255,
+      "parent": "#g2f99w"
+    },
+    {
+      "@id": "#bf7h8w",
+      "name": "Anti-realism: truth tied to what's knowable",
+      "x": 455,
+      "y": -184,
+      "parent": "#g2f99w"
+    },
+    {
+      "@id": "#v7xuj9",
+      "name": "What physics says",
+      "x": 219,
+      "y": 57,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#edi26y",
+      "name": "Atoms are mostly empty space",
+      "x": 444,
+      "y": -56,
+      "parent": "#v7xuj9"
+    },
+    {
+      "@id": "#dkr6jm",
+      "name": "Time passes differently at different speeds",
+      "x": 544,
+      "y": 66,
+      "parent": "#v7xuj9"
+    },
+    {
+      "@id": "#3jbt7m",
+      "name": "Quantum theory strains everyday intuitions",
+      "x": 401,
+      "y": 163,
+      "parent": "#v7xuj9"
+    },
+    {
+      "@id": "#9abw5r",
+      "name": "Locke: colour is a secondary quality",
+      "x": 318,
+      "y": 255,
+      "parent": "#v7xuj9"
+    },
+    {
+      "@id": "#msae56",
+      "name": "Social reality",
+      "x": 36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#eue7id",
+      "name": "Money works because we all agree",
+      "x": 204,
+      "y": 321,
+      "parent": "#msae56"
+    },
+    {
+      "@id": "#qmfx3f",
+      "name": "Borders, laws and marriages too",
+      "x": 73,
+      "y": 372,
+      "parent": "#msae56"
+    },
+    {
+      "@id": "#psd28j",
+      "name": "Searle calls these institutional facts",
+      "x": -82,
+      "y": 420,
+      "parent": "#msae56"
+    },
+    {
+      "@id": "#d23ajv",
+      "name": "Everyday tests",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yb67a9",
+      "name": "Optical illusions show perception constructs",
+      "x": -204,
+      "y": 321,
+      "parent": "#d23ajv"
+    },
+    {
+      "@id": "#p7ct3b",
+      "name": "Dreams feel real while they last",
+      "x": -318,
+      "y": 255,
+      "parent": "#d23ajv"
+    },
+    {
+      "@id": "#6hj3e9",
+      "name": "Other people confirm what we see",
+      "x": -401,
+      "y": 163,
+      "parent": "#d23ajv"
+    },
+    {
+      "@id": "#k4eva9",
+      "name": "Virtual reality builds convincing simulated worlds",
+      "x": -444,
+      "y": 56,
+      "link": "https://en.wikipedia.org/wiki/Virtual_reality",
+      "parent": "#d23ajv"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 4,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

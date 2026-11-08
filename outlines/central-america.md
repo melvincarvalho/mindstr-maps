@@ -1,0 +1,31 @@
+category: Geography
+aliases: central american countries, isthmus of central america
+- Central America
+  - Geography
+    - Isthmus joining North and South America
+    - Seven countries from Guatemala to Panama
+    - Volcanic mountain spine along the Pacific
+    - [Panama Canal links two oceans](https://en.wikipedia.org/wiki/Panama_Canal)
+  - Climate and nature
+    - Tropical, with wet and dry seasons
+    - Rainforests and cloud forests
+    - Biodiversity hotspot bridging two continents
+    - Earthquakes, volcanoes and hurricanes
+  - People and languages
+    - About 50 million people
+    - Spanish is the main language
+    - Mayan languages spoken in Guatemala
+    - English in Belize
+  - History in brief
+    - [Maya civilisation peaked about 250–900 CE](https://en.wikipedia.org/wiki/Maya_civilization)
+    - Spanish conquest in the 1500s
+    - Independence from Spain in 1821
+    - [Civil wars in the 1970s–90s](https://en.wikipedia.org/wiki/Central_American_crisis)
+  - Economy and challenges
+    - Coffee, bananas and textiles exported
+    - Tourism and canal revenue
+    - Remittances from emigrants matter
+    - Poverty and gang violence in places
+  - Regional ties
+    - [SICA integration system](https://en.wikipedia.org/wiki/Central_American_Integration_System)
+    - CAFTA-DR trade deal with US

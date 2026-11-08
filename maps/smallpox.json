@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Smallpox",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#93jcw3",
+      "name": "The disease",
+      "x": -169,
+      "y": -125,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zx2c7m",
+      "name": "Caused by the variola virus",
+      "x": -445,
+      "y": -54,
+      "link": "https://en.wikipedia.org/wiki/Variola_virus",
+      "parent": "#93jcw3"
+    },
+    {
+      "@id": "#9ne3et",
+      "name": "Spread by close face-to-face contact",
+      "x": -441,
+      "y": -170,
+      "parent": "#93jcw3"
+    },
+    {
+      "@id": "#7md4kh",
+      "name": "Fever, then a blistering pustular rash",
+      "x": -330,
+      "y": -245,
+      "parent": "#93jcw3"
+    },
+    {
+      "@id": "#jecedi",
+      "name": "Killed about 30% of those infected",
+      "x": -225,
+      "y": -312,
+      "parent": "#93jcw3"
+    },
+    {
+      "@id": "#hwdpb3",
+      "name": "Survivors often scarred or blinded",
+      "x": -104,
+      "y": -367,
+      "parent": "#93jcw3"
+    },
+    {
+      "@id": "#byfi6k",
+      "name": "History",
+      "x": 84,
+      "y": -171,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bh86jj",
+      "name": "Afflicted humans for thousands of years",
+      "x": 42,
+      "y": -423,
+      "parent": "#byfi6k"
+    },
+    {
+      "@id": "#trpjjp",
+      "name": "About 300 million deaths in 20th century",
+      "x": 234,
+      "y": -485,
+      "parent": "#byfi6k"
+    },
+    {
+      "@id": "#qwmehy",
+      "name": "Devastated Indigenous peoples of the Americas",
+      "x": 281,
+      "y": -281,
+      "parent": "#byfi6k"
+    },
+    {
+      "@id": "#hjjmu6",
+      "name": "Early prevention",
+      "x": 220,
+      "y": -54,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ahi2tv",
+      "name": "Variolation: deliberate mild infection",
+      "x": 372,
+      "y": -203,
+      "link": "https://en.wikipedia.org/wiki/Variolation",
+      "parent": "#hjjmu6"
+    },
+    {
+      "@id": "#jf4gga",
+      "name": "Jenner's cowpox vaccine, 1796",
+      "x": 430,
+      "y": -106,
+      "link": "https://en.wikipedia.org/wiki/Edward_Jenner",
+      "parent": "#hjjmu6"
+    },
+    {
+      "@id": "#ix5mut",
+      "name": "The first vaccine ever developed",
+      "x": 450,
+      "y": 0,
+      "parent": "#hjjmu6"
+    },
+    {
+      "@id": "#iwxqdy",
+      "name": "Eradication",
+      "x": 169,
+      "y": 125,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9tb9mg",
+      "name": "WHO intensified campaign from 1967",
+      "x": 430,
+      "y": 106,
+      "parent": "#iwxqdy"
+    },
+    {
+      "@id": "#5vkfwy",
+      "name": "Ring vaccination around each case",
+      "x": 372,
+      "y": 203,
+      "parent": "#iwxqdy"
+    },
+    {
+      "@id": "#sytvrr",
+      "name": "Last natural case: Somalia, 1977",
+      "x": 281,
+      "y": 281,
+      "parent": "#iwxqdy"
+    },
+    {
+      "@id": "#g57gek",
+      "name": "Declared eradicated in 1980",
+      "x": 164,
+      "y": 335,
+      "parent": "#iwxqdy"
+    },
+    {
+      "@id": "#5zm7ru",
+      "name": "Why it matters",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mhtgwt",
+      "name": "Only human disease ever eradicated",
+      "x": 38,
+      "y": 391,
+      "parent": "#5zm7ru"
+    },
+    {
+      "@id": "#wvd83x",
+      "name": "Model for polio eradication efforts",
+      "x": -124,
+      "y": 447,
+      "parent": "#5zm7ru"
+    },
+    {
+      "@id": "#v73zcd",
+      "name": "Routine vaccination could stop",
+      "x": -225,
+      "y": 312,
+      "parent": "#5zm7ru"
+    },
+    {
+      "@id": "#4d6rt7",
+      "name": "Today",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zahvwi",
+      "name": "Virus stocks kept in US and Russia",
+      "x": -330,
+      "y": 245,
+      "parent": "#4d6rt7"
+    },
+    {
+      "@id": "#vbggim",
+      "name": "Vaccines stockpiled against bioterrorism",
+      "x": -405,
+      "y": 156,
+      "parent": "#4d6rt7"
+    },
+    {
+      "@id": "#puktwm",
+      "name": "Mpox is a related virus",
+      "x": -445,
+      "y": 54,
+      "link": "https://en.wikipedia.org/wiki/Mpox",
+      "parent": "#4d6rt7"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,30 @@
+category: Science
+aliases: physical chemistry explained, phys chem
+- Physical chemistry
+  - What it is
+    - Physics applied to chemical behaviour
+    - Explains why and how fast reactions happen
+    - Founded by Ostwald, van 't Hoff, Arrhenius
+  - [Chemical thermodynamics](https://en.wikipedia.org/wiki/Chemical_thermodynamics)
+    - Energy is conserved in every reaction
+    - Entropy of the universe always increases
+    - Gibbs free energy predicts spontaneity
+    - Equilibrium constants follow from free energy
+  - [Chemical kinetics](https://en.wikipedia.org/wiki/Chemical_kinetics)
+    - Rate laws describe reaction speed
+    - Activation energy is the barrier
+    - Hotter reactions run faster (Arrhenius)
+    - Catalysts lower the barrier
+  - [Quantum chemistry](https://en.wikipedia.org/wiki/Quantum_chemistry)
+    - Electrons occupy orbitals of set energy
+    - Explains chemical bonds and shapes
+    - Computer models predict molecular properties
+  - Spectroscopy and structure
+    - [Molecules absorb light at specific energies](https://en.wikipedia.org/wiki/Spectroscopy)
+    - Infrared reveals chemical bonds
+    - NMR maps atoms in molecules
+    - X-ray crystallography reveals crystal structures
+  - [Electrochemistry](https://en.wikipedia.org/wiki/Electrochemistry)
+    - Redox reactions move electrons
+    - Batteries turn chemical energy into electricity
+    - Electrolysis drives reactions with electricity

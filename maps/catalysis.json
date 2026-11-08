@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Catalysis",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#gvsmr3",
+      "name": "What a catalyst does",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#i2u3zc",
+      "name": "Speeds up a reaction",
+      "x": -445,
+      "y": -54,
+      "parent": "#gvsmr3"
+    },
+    {
+      "@id": "#du8v4i",
+      "name": "Not used up; works again and again",
+      "x": -405,
+      "y": -156,
+      "parent": "#gvsmr3"
+    },
+    {
+      "@id": "#8tgssg",
+      "name": "Lowers the activation energy",
+      "x": -330,
+      "y": -245,
+      "link": "https://en.wikipedia.org/wiki/Activation_energy",
+      "parent": "#gvsmr3"
+    },
+    {
+      "@id": "#wjgpp8",
+      "name": "Offers an easier reaction pathway",
+      "x": -225,
+      "y": -312,
+      "parent": "#gvsmr3"
+    },
+    {
+      "@id": "#xcdu2p",
+      "name": "Kinds of catalyst",
+      "x": 17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2e9rss",
+      "name": "Homogeneous: same phase as reactants",
+      "x": -104,
+      "y": -367,
+      "parent": "#xcdu2p"
+    },
+    {
+      "@id": "#ai6e8d",
+      "name": "Heterogeneous: a solid surface",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Heterogeneous_catalysis",
+      "parent": "#xcdu2p"
+    },
+    {
+      "@id": "#9curqe",
+      "name": "Enzymes are biology's catalysts",
+      "x": 234,
+      "y": -485,
+      "link": "https://en.wikipedia.org/wiki/Enzyme",
+      "parent": "#xcdu2p"
+    },
+    {
+      "@id": "#8qnupz",
+      "name": "How surface catalysts work",
+      "x": 190,
+      "y": -104,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2zss5m",
+      "name": "Reactants stick to the surface",
+      "x": 281,
+      "y": -281,
+      "parent": "#8qnupz"
+    },
+    {
+      "@id": "#672v9n",
+      "name": "Their bonds weaken and rearrange",
+      "x": 372,
+      "y": -203,
+      "parent": "#8qnupz"
+    },
+    {
+      "@id": "#9vip6j",
+      "name": "Products detach, freeing the site",
+      "x": 506,
+      "y": -126,
+      "parent": "#8qnupz"
+    },
+    {
+      "@id": "#y678v5",
+      "name": "Everyday examples",
+      "x": 207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vxpvhg",
+      "name": "Car catalytic converters clean exhaust",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Catalytic_converter",
+      "parent": "#y678v5"
+    },
+    {
+      "@id": "#kpfvm6",
+      "name": "Amylase in saliva breaks down starch",
+      "x": 506,
+      "y": 126,
+      "parent": "#y678v5"
+    },
+    {
+      "@id": "#ska58m",
+      "name": "Yeast enzymes ferment bread and beer",
+      "x": 372,
+      "y": 203,
+      "parent": "#y678v5"
+    },
+    {
+      "@id": "#a3xvkb",
+      "name": "Biological washing powders digest stains",
+      "x": 281,
+      "y": 281,
+      "parent": "#y678v5"
+    },
+    {
+      "@id": "#sk9mj9",
+      "name": "Industry",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gzjuwk",
+      "name": "Haber process: iron catalyst makes ammonia",
+      "x": 164,
+      "y": 335,
+      "link": "https://en.wikipedia.org/wiki/Haber_process",
+      "parent": "#sk9mj9"
+    },
+    {
+      "@id": "#uzerac",
+      "name": "Zeolites crack crude oil into petrol",
+      "x": 38,
+      "y": 391,
+      "parent": "#sk9mj9"
+    },
+    {
+      "@id": "#xcfjjr",
+      "name": "Nickel hardens vegetable oils into margarine",
+      "x": -124,
+      "y": 447,
+      "parent": "#sk9mj9"
+    },
+    {
+      "@id": "#bntag9",
+      "name": "About 90% of chemical processes use catalysts",
+      "x": -365,
+      "y": 508,
+      "parent": "#sk9mj9"
+    },
+    {
+      "@id": "#ncxfcd",
+      "name": "Limits",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p9rwgq",
+      "name": "Poisoning blocks a catalyst's active sites",
+      "x": -330,
+      "y": 245,
+      "parent": "#ncxfcd"
+    },
+    {
+      "@id": "#aee26b",
+      "name": "Doesn't shift equilibrium, only reaches it faster",
+      "x": -405,
+      "y": 156,
+      "parent": "#ncxfcd"
+    },
+    {
+      "@id": "#26mpiv",
+      "name": "Precious metals like platinum are costly",
+      "x": -485,
+      "y": 58,
+      "parent": "#ncxfcd"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

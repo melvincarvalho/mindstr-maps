@@ -1,0 +1,296 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Archaea",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#599bft",
+      "name": "What they are",
+      "x": -182,
+      "y": -113,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qjuggf",
+      "name": "Single cells with no nucleus",
+      "x": -444,
+      "y": -59,
+      "parent": "#599bft"
+    },
+    {
+      "@id": "#927b4y",
+      "name": "One of life's three domains",
+      "x": -396,
+      "y": -171,
+      "parent": "#599bft"
+    },
+    {
+      "@id": "#jhahfe",
+      "name": "Look like bacteria, differ chemically",
+      "x": -305,
+      "y": -265,
+      "parent": "#599bft"
+    },
+    {
+      "@id": "#6j7edm",
+      "name": "Recognised as separate by Carl Woese, 1977",
+      "x": -181,
+      "y": -330,
+      "link": "https://en.wikipedia.org/wiki/Carl_Woese",
+      "parent": "#599bft"
+    },
+    {
+      "@id": "#i2xh5u",
+      "name": "What makes them distinct",
+      "x": 92,
+      "y": -169,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yvi8dg",
+      "name": "Unique ether-linked lipids in membranes",
+      "x": -41,
+      "y": -391,
+      "parent": "#i2xh5u"
+    },
+    {
+      "@id": "#32risq",
+      "name": "No peptidoglycan in cell walls",
+      "x": 140,
+      "y": -445,
+      "parent": "#i2xh5u"
+    },
+    {
+      "@id": "#77ims7",
+      "name": "Gene machinery closer to eukaryotes",
+      "x": 246,
+      "y": -301,
+      "parent": "#i2xh5u"
+    },
+    {
+      "@id": "#cjm862",
+      "name": "None known to cause disease",
+      "x": 355,
+      "y": -221,
+      "parent": "#i2xh5u"
+    },
+    {
+      "@id": "#4g5qm8",
+      "name": "Where they live",
+      "x": 227,
+      "y": 30,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cp72z3",
+      "name": "Hot springs and deep-sea vents",
+      "x": 426,
+      "y": -117,
+      "link": "https://en.wikipedia.org/wiki/Extremophile",
+      "parent": "#4g5qm8"
+    },
+    {
+      "@id": "#7x8thu",
+      "name": "Salt lakes so salty they're pink",
+      "x": 510,
+      "y": 0,
+      "parent": "#4g5qm8"
+    },
+    {
+      "@id": "#c33evm",
+      "name": "Common in oceans and soils too",
+      "x": 426,
+      "y": 117,
+      "parent": "#4g5qm8"
+    },
+    {
+      "@id": "#du7kpu",
+      "name": "Inside human and cow guts",
+      "x": 355,
+      "y": 221,
+      "parent": "#4g5qm8"
+    },
+    {
+      "@id": "#7vzqyu",
+      "name": "Main groups",
+      "x": 56,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5pp4d4",
+      "name": "Euryarchaeota include methane makers",
+      "x": 246,
+      "y": 301,
+      "parent": "#7vzqyu"
+    },
+    {
+      "@id": "#8tc6ar",
+      "name": "Thermoproteota love heat and acid",
+      "x": 110,
+      "y": 349,
+      "parent": "#7vzqyu"
+    },
+    {
+      "@id": "#q6bztn",
+      "name": "Asgard archaea, relatives of eukaryotes",
+      "x": -43,
+      "y": 407,
+      "link": "https://en.wikipedia.org/wiki/Asgard_%28archaea%29",
+      "parent": "#7vzqyu"
+    },
+    {
+      "@id": "#r6vwkq",
+      "name": "Why they matter",
+      "x": -182,
+      "y": 113,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8ujpfh",
+      "name": "Methanogens produce most biological methane",
+      "x": -253,
+      "y": 465,
+      "link": "https://en.wikipedia.org/wiki/Methanogen",
+      "parent": "#r6vwkq"
+    },
+    {
+      "@id": "#g8pax8",
+      "name": "Ammonia oxidisers drive the nitrogen cycle",
+      "x": -305,
+      "y": 265,
+      "parent": "#r6vwkq"
+    },
+    {
+      "@id": "#fmszth",
+      "name": "Heat-stable enzymes used in industry",
+      "x": -396,
+      "y": 171,
+      "parent": "#r6vwkq"
+    },
+    {
+      "@id": "#qq7x4b",
+      "name": "Clues to how complex cells began",
+      "x": -444,
+      "y": 59,
+      "parent": "#r6vwkq"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    }
+  ],
+  "selectedNode": 0
+}

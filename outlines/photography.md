@@ -1,0 +1,32 @@
+category: Arts and culture
+aliases: history of photography, photographs, art of photography, photographic art
+- Photography
+  - How it works
+    - Lens focuses light onto a surface
+    - Film or sensor records the image
+    - Aperture, shutter speed and ISO set exposure
+  - Invention
+    - [Niépce's first surviving photograph, 1820s](https://en.wikipedia.org/wiki/View_from_the_Window_at_Le_Gras)
+    - [Daguerreotype announced in 1839](https://en.wikipedia.org/wiki/Daguerreotype)
+    - Talbot's negatives allow many prints
+  - Becoming everyday
+    - Kodak box camera for everyone, 1888
+    - Leica makes 35 mm cameras portable
+    - Kodachrome colour film, 1935
+    - Polaroid instant pictures, 1948
+  - Kinds of photography
+    - Portraits and weddings
+    - [Photojournalism and documentary](https://en.wikipedia.org/wiki/Photojournalism)
+    - Landscape and nature
+    - Fashion and advertising
+    - Scientific and astronomical imaging
+  - Famous photographers
+    - Ansel Adams's Yosemite landscapes
+    - [Dorothea Lange's Migrant Mother, 1936](https://en.wikipedia.org/wiki/Migrant_Mother)
+    - Henri Cartier-Bresson's "decisive moment"
+    - Robert Capa's war photographs
+  - The digital age
+    - Digital cameras overtake film by 2000s
+    - Smartphones make everyone a photographer
+    - Billions shared on social media daily
+    - Editing and AI blur photographic truth

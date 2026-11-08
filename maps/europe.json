@@ -1,0 +1,352 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Europe",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#r7z8u8",
+      "name": "Land and climate",
+      "x": -178,
+      "y": -116,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#twfw93",
+      "name": "Western peninsula of Eurasia",
+      "x": -446,
+      "y": -49,
+      "parent": "#r7z8u8"
+    },
+    {
+      "@id": "#63u86e",
+      "name": "Alps, Pyrenees and Scandinavian mountains",
+      "x": -485,
+      "y": -167,
+      "link": "https://en.wikipedia.org/wiki/Alps",
+      "parent": "#r7z8u8"
+    },
+    {
+      "@id": "#ngdwmb",
+      "name": "Danube, Rhine and Volga rivers",
+      "x": -349,
+      "y": -227,
+      "parent": "#r7z8u8"
+    },
+    {
+      "@id": "#8wtcqq",
+      "name": "Gulf Stream keeps the northwest mild",
+      "x": -260,
+      "y": -294,
+      "parent": "#r7z8u8"
+    },
+    {
+      "@id": "#jrkrma",
+      "name": "Mediterranean climate in the south",
+      "x": -158,
+      "y": -354,
+      "parent": "#r7z8u8"
+    },
+    {
+      "@id": "#qr85ub",
+      "name": "Peoples and languages",
+      "x": 77,
+      "y": -173,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fnezyn",
+      "name": "About 740 million people",
+      "x": -34,
+      "y": -407,
+      "parent": "#qr85ub"
+    },
+    {
+      "@id": "#zwyunf",
+      "name": "Over 40 countries; Russia the largest",
+      "x": 120,
+      "y": -464,
+      "parent": "#qr85ub"
+    },
+    {
+      "@id": "#xqcxkb",
+      "name": "Germanic, Romance and Slavic languages",
+      "x": 216,
+      "y": -334,
+      "parent": "#qr85ub"
+    },
+    {
+      "@id": "#edqetf",
+      "name": "Ageing populations, migration from abroad",
+      "x": 307,
+      "y": -263,
+      "parent": "#qr85ub"
+    },
+    {
+      "@id": "#rmjmfx",
+      "name": "History in brief",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g4v8fd",
+      "name": "Ancient Greece and Rome",
+      "x": 384,
+      "y": -187,
+      "link": "https://en.wikipedia.org/wiki/Classical_antiquity",
+      "parent": "#rmjmfx"
+    },
+    {
+      "@id": "#ndk828",
+      "name": "Renaissance, Reformation and Enlightenment",
+      "x": 433,
+      "y": -97,
+      "parent": "#rmjmfx"
+    },
+    {
+      "@id": "#5fk5kr",
+      "name": "Industrial Revolution began in Britain",
+      "x": 550,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Industrial_Revolution",
+      "parent": "#rmjmfx"
+    },
+    {
+      "@id": "#bnv64m",
+      "name": "Colonial empires spanned the globe",
+      "x": 433,
+      "y": 97,
+      "parent": "#rmjmfx"
+    },
+    {
+      "@id": "#9n7hqe",
+      "name": "Two world wars, then Cold War",
+      "x": 384,
+      "y": 187,
+      "parent": "#rmjmfx"
+    },
+    {
+      "@id": "#a8bihg",
+      "name": "Politics and unity",
+      "x": 106,
+      "y": 163,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3w3ts6",
+      "name": "European Union of 27 countries",
+      "x": 307,
+      "y": 263,
+      "link": "https://en.wikipedia.org/wiki/European_Union",
+      "parent": "#a8bihg"
+    },
+    {
+      "@id": "#9qyg7q",
+      "name": "Euro shared by most EU members",
+      "x": 207,
+      "y": 320,
+      "parent": "#a8bihg"
+    },
+    {
+      "@id": "#ycyuaz",
+      "name": "NATO alliance and Council of Europe",
+      "x": 96,
+      "y": 368,
+      "parent": "#a8bihg"
+    },
+    {
+      "@id": "#8wi2k5",
+      "name": "Economy",
+      "x": -77,
+      "y": 173,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6ta7rs",
+      "name": "Germany, UK and France the largest",
+      "x": -35,
+      "y": 423,
+      "parent": "#8wi2k5"
+    },
+    {
+      "@id": "#cv3uz4",
+      "name": "Cars, machinery, finance, tourism",
+      "x": -214,
+      "y": 474,
+      "parent": "#8wi2k5"
+    },
+    {
+      "@id": "#za5h65",
+      "name": "Strong welfare states",
+      "x": -260,
+      "y": 294,
+      "parent": "#8wi2k5"
+    },
+    {
+      "@id": "#uec6gk",
+      "name": "Culture",
+      "x": -211,
+      "y": 73,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mxftye",
+      "name": "Christianity shaped art and calendar",
+      "x": -349,
+      "y": 227,
+      "parent": "#uec6gk"
+    },
+    {
+      "@id": "#b3ftjk",
+      "name": "Classical music, from Bach to Beethoven",
+      "x": -413,
+      "y": 143,
+      "parent": "#uec6gk"
+    },
+    {
+      "@id": "#reaj6t",
+      "name": "Football is the most popular sport",
+      "x": -466,
+      "y": 51,
+      "parent": "#uec6gk"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 7,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 12,
+      "end": 16
+    },
+    {
+      "start": 12,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    },
+    {
+      "start": 26,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

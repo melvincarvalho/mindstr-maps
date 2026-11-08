@@ -1,0 +1,29 @@
+category: People
+aliases: homer poet, homer greek poet, homeric epics
+- Homer
+  - Who he was
+    - Ancient Greek epic poet
+    - Traditionally pictured as a blind bard
+    - Probably lived around 8th century BC
+    - Ionia often named as his homeland
+  - [The Iliad](https://en.wikipedia.org/wiki/Iliad)
+    - Final year of the Trojan War
+    - Wrath of Achilles against Agamemnon
+    - Hector killed; Priam ransoms his body
+  - [The Odyssey](https://en.wikipedia.org/wiki/Odyssey)
+    - Odysseus's ten-year voyage home
+    - Cyclops, Circe, Sirens and the underworld
+    - Penelope waits; suitors are slain
+  - How the poems were made
+    - [Composed in oral tradition](https://en.wikipedia.org/wiki/Oral-formulaic_composition)
+    - Dactylic hexameter verse
+    - Stock epithets like "rosy-fingered Dawn"
+    - Written down perhaps 8th–7th century BC
+  - [The Homeric Question](https://en.wikipedia.org/wiki/Homeric_Question)
+    - Did one poet write both epics?
+    - Parry and Lord's studies of oral bards
+    - Real Troy found at Hisarlik, Turkey
+  - Legacy
+    - Foundation of Greek education and culture
+    - Model for Virgil's Aeneid
+    - Inspired Joyce's Ulysses and countless retellings

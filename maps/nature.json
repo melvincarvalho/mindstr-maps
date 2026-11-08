@@ -1,0 +1,298 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Nature",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#uxennn",
+      "name": "What we mean by nature",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sqkvmz",
+      "name": "The physical world and its life",
+      "x": -503,
+      "y": -72,
+      "parent": "#uxennn"
+    },
+    {
+      "@id": "#xie4j5",
+      "name": "Contrasted with things humans make",
+      "x": -390,
+      "y": -180,
+      "parent": "#uxennn"
+    },
+    {
+      "@id": "#988497",
+      "name": "From Latin natura, meaning birth",
+      "x": -289,
+      "y": -276,
+      "parent": "#uxennn"
+    },
+    {
+      "@id": "#bcf83r",
+      "name": "Non-living nature",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ty32ia",
+      "name": "Earth's rocks, water and air",
+      "x": -154,
+      "y": -338,
+      "parent": "#bcf83r"
+    },
+    {
+      "@id": "#p6rc64",
+      "name": "Weather and the climate system",
+      "x": 0,
+      "y": -392,
+      "parent": "#bcf83r"
+    },
+    {
+      "@id": "#vjedx8",
+      "name": "Physical laws govern all matter",
+      "x": 203,
+      "y": -443,
+      "parent": "#bcf83r"
+    },
+    {
+      "@id": "#6py8ri",
+      "name": "Living nature",
+      "x": 199,
+      "y": -92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7d4j6b",
+      "name": "Millions of species, most still unnamed",
+      "x": 289,
+      "y": -276,
+      "link": "https://en.wikipedia.org/wiki/Biodiversity",
+      "parent": "#6py8ri"
+    },
+    {
+      "@id": "#vjg4qq",
+      "name": "All life shares common ancestry",
+      "x": 390,
+      "y": -180,
+      "parent": "#6py8ri"
+    },
+    {
+      "@id": "#8w9ws6",
+      "name": "Evolution shapes life over time",
+      "x": 463,
+      "y": -66,
+      "link": "https://en.wikipedia.org/wiki/Evolution",
+      "parent": "#6py8ri"
+    },
+    {
+      "@id": "#tsz5qi",
+      "name": "Ecosystems",
+      "x": 199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d88kgg",
+      "name": "Food webs link producers and consumers",
+      "x": 483,
+      "y": 69,
+      "link": "https://en.wikipedia.org/wiki/Food_web",
+      "parent": "#tsz5qi"
+    },
+    {
+      "@id": "#r6mr6t",
+      "name": "Forests, grasslands, oceans and deserts",
+      "x": 390,
+      "y": 180,
+      "parent": "#tsz5qi"
+    },
+    {
+      "@id": "#gtf7bj",
+      "name": "Water, carbon and nitrogen cycles",
+      "x": 289,
+      "y": 276,
+      "parent": "#tsz5qi"
+    },
+    {
+      "@id": "#kruags",
+      "name": "Humans and nature",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yrpkb6",
+      "name": "Habitat loss drives species decline",
+      "x": 154,
+      "y": 338,
+      "parent": "#kruags"
+    },
+    {
+      "@id": "#ae8xn6",
+      "name": "Pollution and climate change",
+      "x": 0,
+      "y": 392,
+      "parent": "#kruags"
+    },
+    {
+      "@id": "#erjm89",
+      "name": "Protected areas conserve wild places",
+      "x": -203,
+      "y": 443,
+      "link": "https://en.wikipedia.org/wiki/Protected_area",
+      "parent": "#kruags"
+    },
+    {
+      "@id": "#ys53nz",
+      "name": "Why nature matters",
+      "x": -199,
+      "y": 92,
+      "link": "https://en.wikipedia.org/wiki/Ecosystem_service",
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#edzeun",
+      "name": "Clean air, water and food",
+      "x": -289,
+      "y": 276,
+      "parent": "#ys53nz"
+    },
+    {
+      "@id": "#7i2ry4",
+      "name": "Pollination and fertile soil",
+      "x": -390,
+      "y": 180,
+      "parent": "#ys53nz"
+    },
+    {
+      "@id": "#gtamam",
+      "name": "Time outdoors benefits wellbeing",
+      "x": -503,
+      "y": 72,
+      "parent": "#ys53nz"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    }
+  ],
+  "selectedNode": 0
+}

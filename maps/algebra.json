@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Algebra",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#qjb8uz",
+      "name": "The core idea",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nrdpae",
+      "name": "Letters stand for unknown numbers",
+      "x": -485,
+      "y": -58,
+      "parent": "#qjb8uz"
+    },
+    {
+      "@id": "#d7ug8f",
+      "name": "Rules that work for any number",
+      "x": -405,
+      "y": -156,
+      "parent": "#qjb8uz"
+    },
+    {
+      "@id": "#cagjgb",
+      "name": "Generalises arithmetic patterns",
+      "x": -330,
+      "y": -245,
+      "parent": "#qjb8uz"
+    },
+    {
+      "@id": "#jsysr3",
+      "name": "Expressions and equations",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bwm7u7",
+      "name": "Expressions like 3x + 2",
+      "x": -225,
+      "y": -312,
+      "parent": "#jsysr3"
+    },
+    {
+      "@id": "#di8bqb",
+      "name": "Equations state two things are equal",
+      "x": -104,
+      "y": -367,
+      "parent": "#jsysr3"
+    },
+    {
+      "@id": "#69evtr",
+      "name": "Simplify by collecting like terms",
+      "x": 42,
+      "y": -423,
+      "parent": "#jsysr3"
+    },
+    {
+      "@id": "#8vf4ei",
+      "name": "Expand and factorise brackets",
+      "x": 234,
+      "y": -485,
+      "parent": "#jsysr3"
+    },
+    {
+      "@id": "#gx59bw",
+      "name": "Solving equations",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sawufe",
+      "name": "Do the same to both sides",
+      "x": 281,
+      "y": -281,
+      "parent": "#gx59bw"
+    },
+    {
+      "@id": "#6ar359",
+      "name": "2x+3 = 11 gives x = 4",
+      "x": 372,
+      "y": -203,
+      "parent": "#gx59bw"
+    },
+    {
+      "@id": "#kd7iws",
+      "name": "Quadratic formula solves x² equations",
+      "x": 525,
+      "y": -131,
+      "link": "https://en.wikipedia.org/wiki/Quadratic_formula",
+      "parent": "#gx59bw"
+    },
+    {
+      "@id": "#n5vtr7",
+      "name": "Simultaneous equations with two unknowns",
+      "x": 450,
+      "y": 0,
+      "parent": "#gx59bw"
+    },
+    {
+      "@id": "#38jq7v",
+      "name": "Graphs and functions",
+      "x": 190,
+      "y": 104,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9riq84",
+      "name": "y = 2x+1 is a straight line",
+      "x": 468,
+      "y": 116,
+      "parent": "#38jq7v"
+    },
+    {
+      "@id": "#8rydej",
+      "name": "Quadratics draw parabolas",
+      "x": 372,
+      "y": 203,
+      "parent": "#38jq7v"
+    },
+    {
+      "@id": "#wbh576",
+      "name": "Functions turn inputs into outputs",
+      "x": 281,
+      "y": 281,
+      "parent": "#38jq7v"
+    },
+    {
+      "@id": "#336tv5",
+      "name": "History",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zecpm4",
+      "name": "Babylonians solved quadratics around 1800 BCE",
+      "x": 164,
+      "y": 335,
+      "parent": "#336tv5"
+    },
+    {
+      "@id": "#wuse3b",
+      "name": "Al-Khwarizmi's book named it, c. 820",
+      "x": 38,
+      "y": 391,
+      "link": "https://en.wikipedia.org/wiki/Al-Khwarizmi",
+      "parent": "#336tv5"
+    },
+    {
+      "@id": "#z9b7jx",
+      "name": "Viète introduced letters for numbers",
+      "x": -124,
+      "y": 447,
+      "parent": "#336tv5"
+    },
+    {
+      "@id": "#hhwenp",
+      "name": "Abel–Ruffini: no general quintic formula",
+      "x": -365,
+      "y": 508,
+      "link": "https://en.wikipedia.org/wiki/Abel%E2%80%93Ruffini_theorem",
+      "parent": "#336tv5"
+    },
+    {
+      "@id": "#f6yvr2",
+      "name": "Beyond school algebra",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mfz77d",
+      "name": "Linear algebra: vectors and matrices",
+      "x": -330,
+      "y": 245,
+      "link": "https://en.wikipedia.org/wiki/Linear_algebra",
+      "parent": "#f6yvr2"
+    },
+    {
+      "@id": "#evwc7r",
+      "name": "Abstract algebra: groups, rings, fields",
+      "x": -405,
+      "y": 156,
+      "link": "https://en.wikipedia.org/wiki/Abstract_algebra",
+      "parent": "#f6yvr2"
+    },
+    {
+      "@id": "#hgrhsh",
+      "name": "Used in physics, computing and economics",
+      "x": -545,
+      "y": 64,
+      "parent": "#f6yvr2"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

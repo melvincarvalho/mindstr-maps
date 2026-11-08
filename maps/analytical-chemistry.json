@@ -1,0 +1,363 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Analytical chemistry",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#qfb5vj",
+      "name": "The questions it answers",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#47jvd3",
+      "name": "Qualitative: what is in it?",
+      "x": -506,
+      "y": -53,
+      "parent": "#qfb5vj"
+    },
+    {
+      "@id": "#zx9vfm",
+      "name": "Quantitative: how much is there?",
+      "x": -416,
+      "y": -138,
+      "parent": "#qfb5vj"
+    },
+    {
+      "@id": "#8ap4s3",
+      "name": "Where, and in what form?",
+      "x": -357,
+      "y": -219,
+      "parent": "#qfb5vj"
+    },
+    {
+      "@id": "#e4qtjt",
+      "name": "Classical wet methods",
+      "x": -88,
+      "y": -170,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zzkz92",
+      "name": "Titration measures concentration with a reagent",
+      "x": -274,
+      "y": -286,
+      "link": "https://en.wikipedia.org/wiki/Titration",
+      "parent": "#e4qtjt"
+    },
+    {
+      "@id": "#epatej",
+      "name": "Gravimetric analysis weighs a precipitate",
+      "x": -180,
+      "y": -348,
+      "parent": "#e4qtjt"
+    },
+    {
+      "@id": "#kjwnk5",
+      "name": "Flame tests reveal metals by colour",
+      "x": -68,
+      "y": -405,
+      "parent": "#e4qtjt"
+    },
+    {
+      "@id": "#nnmzgq",
+      "name": "Separation techniques",
+      "x": 155,
+      "y": -215,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uix4qr",
+      "name": "Chromatography separates mixtures into components",
+      "x": 77,
+      "y": -453,
+      "link": "https://en.wikipedia.org/wiki/Chromatography",
+      "parent": "#nnmzgq"
+    },
+    {
+      "@id": "#d3tbb5",
+      "name": "Gas chromatography for volatile compounds",
+      "x": 268,
+      "y": -513,
+      "parent": "#nnmzgq"
+    },
+    {
+      "@id": "#knbzun",
+      "name": "HPLC for liquids and drugs",
+      "x": 274,
+      "y": -286,
+      "parent": "#nnmzgq"
+    },
+    {
+      "@id": "#vggmmx",
+      "name": "Electrophoresis separates by charge and size",
+      "x": 549,
+      "y": -339,
+      "parent": "#nnmzgq"
+    },
+    {
+      "@id": "#3f2hcd",
+      "name": "Spectroscopy and instruments",
+      "x": 268,
+      "y": 28,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bq2krf",
+      "name": "Mass spectrometry sorts ions by mass",
+      "x": 416,
+      "y": -138,
+      "link": "https://en.wikipedia.org/wiki/Mass_spectrometry",
+      "parent": "#3f2hcd"
+    },
+    {
+      "@id": "#ymggwz",
+      "name": "Infrared spectroscopy identifies functional groups",
+      "x": 446,
+      "y": -47,
+      "parent": "#3f2hcd"
+    },
+    {
+      "@id": "#2jvpi5",
+      "name": "NMR reveals molecular structure",
+      "x": 586,
+      "y": 61,
+      "parent": "#3f2hcd"
+    },
+    {
+      "@id": "#ckp29h",
+      "name": "UV-visible absorption measures concentration",
+      "x": 416,
+      "y": 138,
+      "parent": "#3f2hcd"
+    },
+    {
+      "@id": "#wu57fq",
+      "name": "Atomic absorption detects trace metals",
+      "x": 357,
+      "y": 219,
+      "parent": "#3f2hcd"
+    },
+    {
+      "@id": "#dpbgfi",
+      "name": "Getting reliable results",
+      "x": 90,
+      "y": 268,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kqrvxu",
+      "name": "Sample must represent the whole",
+      "x": 310,
+      "y": 325,
+      "parent": "#dpbgfi"
+    },
+    {
+      "@id": "#sqayk4",
+      "name": "Calibrate against known standards",
+      "x": 196,
+      "y": 378,
+      "parent": "#dpbgfi"
+    },
+    {
+      "@id": "#u7yvtk",
+      "name": "Accuracy versus precision",
+      "x": 74,
+      "y": 437,
+      "parent": "#dpbgfi"
+    },
+    {
+      "@id": "#sqpfui",
+      "name": "Detection limit: smallest measurable amount",
+      "x": -83,
+      "y": 485,
+      "parent": "#dpbgfi"
+    },
+    {
+      "@id": "#tt5jvz",
+      "name": "Where it is used",
+      "x": -182,
+      "y": 112,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xnmyna",
+      "name": "Drug testing in sport and medicine",
+      "x": -172,
+      "y": 333,
+      "parent": "#tt5jvz"
+    },
+    {
+      "@id": "#nj8y5w",
+      "name": "Food safety and nutrition labels",
+      "x": -370,
+      "y": 390,
+      "parent": "#tt5jvz"
+    },
+    {
+      "@id": "#a6sq2k",
+      "name": "Forensic science and crime labs",
+      "x": -357,
+      "y": 219,
+      "link": "https://en.wikipedia.org/wiki/Forensic_science",
+      "parent": "#tt5jvz"
+    },
+    {
+      "@id": "#qqnjr2",
+      "name": "Water and air pollution monitoring",
+      "x": -470,
+      "y": 156,
+      "parent": "#tt5jvz"
+    },
+    {
+      "@id": "#5ep754",
+      "name": "Hospital blood tests",
+      "x": -446,
+      "y": 47,
+      "parent": "#tt5jvz"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 14,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    },
+    {
+      "start": 25,
+      "end": 29
+    },
+    {
+      "start": 25,
+      "end": 30
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,30 @@
+category: People
+aliases: gauss, prince of mathematicians, carl gauss
+- Carl Friedrich Gauss
+  - Early life
+    - Born in Brunswick, Germany, 1777
+    - Poor family; a duke funded his studies
+    - Child prodigy, famed for quick sums
+  - Number theory
+    - Constructed a regular 17-gon, aged 18
+    - [Disquisitiones Arithmeticae published 1801](https://en.wikipedia.org/wiki/Disquisitiones_Arithmeticae)
+    - [Modular arithmetic: clock-style counting](https://en.wikipedia.org/wiki/Modular_arithmetic)
+    - Proved quadratic reciprocity
+  - Algebra and statistics
+    - Proved fundamental theorem of algebra, 1799
+    - Least squares fits curves to data
+    - [Normal distribution: the Gaussian bell curve](https://en.wikipedia.org/wiki/Normal_distribution)
+  - Astronomy and the Earth
+    - Predicted the orbit of Ceres, 1801
+    - Göttingen Observatory director from 1807
+    - Surveyed Hanover, inventing the heliotrope
+    - [Theorema Egregium: curvature is intrinsic](https://en.wikipedia.org/wiki/Theorema_Egregium)
+  - Physics
+    - Electric telegraph with Weber, 1833
+    - Mapped Earth's magnetic field
+    - Gauss's law in electromagnetism
+  - Legacy
+    - Called the "Prince of Mathematicians"
+    - Published little: "few, but ripe"
+    - Anticipated non-Euclidean geometry privately
+    - The gauss is a unit of magnetism

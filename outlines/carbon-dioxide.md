@@ -1,0 +1,29 @@
+category: Science
+aliases: co2, co2 gas, carbon dioxide gas
+- Carbon dioxide
+  - The molecule
+    - One carbon atom, two oxygen atoms
+    - Colourless gas, heavier than air
+    - [Turns solid at −78°C as dry ice](https://en.wikipedia.org/wiki/Dry_ice)
+  - Where it comes from
+    - Animals and people breathe it out
+    - Burning fuels, wood and waste
+    - Volcanoes and decaying matter
+    - Cement making and fermentation
+  - Its role in life
+    - [Plants use it in photosynthesis](https://en.wikipedia.org/wiki/Photosynthesis)
+    - Part of the carbon cycle
+    - Breathing rate controlled by blood CO₂
+  - Climate and oceans
+    - [Main greenhouse gas from human activity](https://en.wikipedia.org/wiki/Carbon_dioxide_in_Earth%27s_atmosphere)
+    - Risen from 280 to over 420 ppm
+    - Oceans absorb it and turn more acidic
+  - Everyday uses
+    - Bubbles in fizzy drinks
+    - Fire extinguishers smother flames
+    - Dry ice keeps goods frozen
+    - Greenhouses add it to boost growth
+  - Safety
+    - High levels cause headaches and drowsiness
+    - Can build up in cellars and tanks
+    - [Captured and stored underground to cut emissions](https://en.wikipedia.org/wiki/Carbon_capture_and_storage)

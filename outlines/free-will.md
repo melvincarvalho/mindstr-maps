@@ -1,0 +1,28 @@
+category: Philosophy and religion
+aliases: free will vs determinism, do we have free will, free will debate, freedom of the will
+- Free will
+  - The question
+    - Could you have chosen otherwise?
+    - We feel free when deciding
+    - Matters for blame, praise and punishment
+  - Determinism
+    - [Every event fixed by prior causes](https://en.wikipedia.org/wiki/Determinism)
+    - Laplace's demon could predict everything
+    - Quantum randomness adds chance, not control
+  - Main positions
+    - [Compatibilism: free if acting uncoerced](https://en.wikipedia.org/wiki/Compatibilism)
+    - Hard determinism: free will is illusion
+    - [Libertarian free will: choices aren't predetermined](https://en.wikipedia.org/wiki/Libertarianism_%28metaphysics%29)
+    - Most philosophers today are compatibilists
+  - Evidence from science
+    - [Libet: brain activity precedes felt decision](https://en.wikipedia.org/wiki/Benjamin_Libet)
+    - Critics dispute what Libet showed
+    - Choices shaped by genes and upbringing
+  - Religious debates
+    - Augustine: free will explains evil
+    - Calvin: God predestines who is saved
+    - Does God's foreknowledge rule out freedom?
+  - Why it matters day to day
+    - Holding people responsible in law
+    - Excuses: insanity, coercion, addiction
+    - Regret and pride assume real choice

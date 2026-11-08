@@ -1,0 +1,29 @@
+category: Technology
+aliases: gardening, back garden, garden design
+- Garden
+  - Planned space for growing plants
+    - Ornamental gardens for beauty
+    - Vegetable and kitchen gardens for food
+    - [Botanical gardens for science and conservation](https://en.wikipedia.org/wiki/Botanical_garden)
+  - Famous garden traditions
+    - [Hanging Gardens of Babylon, ancient wonder](https://en.wikipedia.org/wiki/Hanging_Gardens_of_Babylon)
+    - Persian and Islamic courtyard gardens
+    - [Japanese gardens of rock, moss, water](https://en.wikipedia.org/wiki/Japanese_garden)
+    - French formal gardens like Versailles
+    - English landscape gardens
+  - Planning a garden
+    - Track sun, shade and frost
+    - Test soil type and pH
+    - Choose plants suited to your climate
+  - Growing well
+    - [Compost feeds the soil](https://en.wikipedia.org/wiki/Compost)
+    - Water deeply, less often
+    - Mulch holds moisture and blocks weeds
+    - Prune and deadhead to encourage growth
+  - Common garden tools
+    - Spade, fork, trowel and rake
+    - Pruning shears and hoe
+  - Benefits
+    - Fresh food and lower costs
+    - Exercise and mental wellbeing
+    - Habitat for pollinators and wildlife

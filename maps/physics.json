@@ -1,0 +1,342 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Physics",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#x6py7y",
+      "name": "What physics studies",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ktpjac",
+      "name": "Matter, energy, space and time",
+      "x": -485,
+      "y": -58,
+      "parent": "#x6py7y"
+    },
+    {
+      "@id": "#aep6r3",
+      "name": "Seeks laws in mathematical form",
+      "x": -405,
+      "y": -156,
+      "parent": "#x6py7y"
+    },
+    {
+      "@id": "#mtr7vc",
+      "name": "Tested by experiment and observation",
+      "x": -330,
+      "y": -245,
+      "parent": "#x6py7y"
+    },
+    {
+      "@id": "#jeqiij",
+      "name": "Classical mechanics",
+      "x": -84,
+      "y": -171,
+      "link": "https://en.wikipedia.org/wiki/Classical_mechanics",
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k9kuhw",
+      "name": "Newton's three laws of motion, 1687",
+      "x": -225,
+      "y": -312,
+      "parent": "#jeqiij"
+    },
+    {
+      "@id": "#r6asyu",
+      "name": "Energy and momentum are conserved",
+      "x": -104,
+      "y": -367,
+      "parent": "#jeqiij"
+    },
+    {
+      "@id": "#c2tf6v",
+      "name": "Fields and forces",
+      "x": 112,
+      "y": -231,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xh4jhp",
+      "name": "Maxwell unified electricity and magnetism",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Maxwell%27s_equations",
+      "parent": "#c2tf6v"
+    },
+    {
+      "@id": "#h7g23x",
+      "name": "Light is an electromagnetic wave",
+      "x": 234,
+      "y": -485,
+      "parent": "#c2tf6v"
+    },
+    {
+      "@id": "#ikq9yn",
+      "name": "Thermodynamics: heat, energy and entropy",
+      "x": 281,
+      "y": -281,
+      "parent": "#c2tf6v"
+    },
+    {
+      "@id": "#92n29v",
+      "name": "Modern physics",
+      "x": 227,
+      "y": -27,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b2qyt7",
+      "name": "Einstein's relativity: space-time bends",
+      "x": 423,
+      "y": -230,
+      "link": "https://en.wikipedia.org/wiki/Theory_of_relativity",
+      "parent": "#92n29v"
+    },
+    {
+      "@id": "#zrtwtw",
+      "name": "E = mc² links mass and energy",
+      "x": 430,
+      "y": -106,
+      "parent": "#92n29v"
+    },
+    {
+      "@id": "#pp7jg4",
+      "name": "Quantum mechanics rules atoms",
+      "x": 490,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Quantum_mechanics",
+      "parent": "#92n29v"
+    },
+    {
+      "@id": "#u6mia7",
+      "name": "Particles behave like waves too",
+      "x": 430,
+      "y": 106,
+      "parent": "#92n29v"
+    },
+    {
+      "@id": "#c7yez2",
+      "name": "Building blocks",
+      "x": 115,
+      "y": 159,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rg2zyd",
+      "name": "Atoms: nucleus plus electrons",
+      "x": 372,
+      "y": 203,
+      "parent": "#c7yez2"
+    },
+    {
+      "@id": "#xtiw7c",
+      "name": "Protons and neutrons are made of quarks",
+      "x": 281,
+      "y": 281,
+      "parent": "#c7yez2"
+    },
+    {
+      "@id": "#itx64i",
+      "name": "Standard Model's 17 elementary particles",
+      "x": 164,
+      "y": 335,
+      "parent": "#c7yez2"
+    },
+    {
+      "@id": "#v9kzvz",
+      "name": "Four fundamental forces of nature",
+      "x": 38,
+      "y": 391,
+      "parent": "#c7yez2"
+    },
+    {
+      "@id": "#ibdf88",
+      "name": "Physics in everyday life",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k5xgiv",
+      "name": "Electricity, engines and electronics",
+      "x": -124,
+      "y": 447,
+      "parent": "#ibdf88"
+    },
+    {
+      "@id": "#9sw7rd",
+      "name": "Lasers, GPS and medical scanners",
+      "x": -225,
+      "y": 312,
+      "parent": "#ibdf88"
+    },
+    {
+      "@id": "#hub9k4",
+      "name": "Nuclear power and semiconductors",
+      "x": -330,
+      "y": 245,
+      "parent": "#ibdf88"
+    },
+    {
+      "@id": "#5xs9s8",
+      "name": "Unsolved problems",
+      "x": -220,
+      "y": 54,
+      "bgColor": "#D4F1F4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#f9ch8j",
+      "name": "Uniting gravity with quantum theory",
+      "x": -441,
+      "y": 170,
+      "parent": "#5xs9s8"
+    },
+    {
+      "@id": "#8un4tz",
+      "name": "Nature of dark matter and energy",
+      "x": -505,
+      "y": 60,
+      "parent": "#5xs9s8"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 12,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

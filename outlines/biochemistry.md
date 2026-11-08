@@ -1,0 +1,29 @@
+category: Science
+aliases: biological chemistry, chemistry of life
+- Biochemistry
+  - Chemistry inside living things
+    - Studies molecules and reactions in cells
+    - Bridges chemistry, biology and medicine
+  - Four big families of molecules
+    - Proteins do most of the cell's work
+    - Carbohydrates store and supply energy
+    - Lipids form membranes and store fat
+    - Nucleic acids carry genetic information
+  - [Enzymes speed up reactions](https://en.wikipedia.org/wiki/Enzyme)
+    - Proteins that act as catalysts
+    - Substrates fit the active site
+    - Heat and pH change their activity
+  - [Metabolism turns food into energy](https://en.wikipedia.org/wiki/Metabolism)
+    - Breaking molecules down releases energy
+    - [ATP is the cell's energy currency](https://en.wikipedia.org/wiki/Adenosine_triphosphate)
+    - Cellular respiration uses glucose and oxygen
+    - Photosynthesis builds sugar using light
+  - Information and signals
+    - DNA is copied into RNA
+    - RNA is translated into protein
+    - Hormones carry signals between cells
+  - Uses and history
+    - Blood tests diagnose disease
+    - Drugs designed to target enzymes, receptors
+    - Engineered bacteria make human insulin
+    - [Buchner: cell-free fermentation, 1897](https://en.wikipedia.org/wiki/Eduard_Buchner)

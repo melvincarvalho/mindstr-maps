@@ -1,0 +1,340 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Primate",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#tx7syy",
+      "name": "What makes a primate",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#94apd4",
+      "name": "Grasping hands, most with opposable thumbs",
+      "x": -445,
+      "y": -51,
+      "parent": "#tx7syy"
+    },
+    {
+      "@id": "#3q8gb6",
+      "name": "Forward-facing eyes give depth vision",
+      "x": -409,
+      "y": -150,
+      "parent": "#tx7syy"
+    },
+    {
+      "@id": "#p96gbb",
+      "name": "Large brains for body size",
+      "x": -340,
+      "y": -236,
+      "parent": "#tx7syy"
+    },
+    {
+      "@id": "#49y2y3",
+      "name": "Long childhoods and few offspring",
+      "x": -243,
+      "y": -303,
+      "parent": "#tx7syy"
+    },
+    {
+      "@id": "#s5258k",
+      "name": "Two main groups",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#txb4t7",
+      "name": "Strepsirrhines: lemurs, lorises and galagos",
+      "x": -133,
+      "y": -360,
+      "link": "https://en.wikipedia.org/wiki/Strepsirrhini",
+      "parent": "#s5258k"
+    },
+    {
+      "@id": "#nq88t6",
+      "name": "Haplorhines: tarsiers, monkeys and apes",
+      "x": 0,
+      "y": -408,
+      "parent": "#s5258k"
+    },
+    {
+      "@id": "#k4vwiz",
+      "name": "Over 500 living species",
+      "x": 175,
+      "y": -465,
+      "parent": "#s5258k"
+    },
+    {
+      "@id": "#wq5fzm",
+      "name": "Monkeys",
+      "x": 193,
+      "y": -99,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fjeu7u",
+      "name": "New World monkeys: Central and South America",
+      "x": 243,
+      "y": -303,
+      "parent": "#wq5fzm"
+    },
+    {
+      "@id": "#q82ghx",
+      "name": "Some New World monkeys grip with tails",
+      "x": 340,
+      "y": -236,
+      "parent": "#wq5fzm"
+    },
+    {
+      "@id": "#duiucu",
+      "name": "Old World monkeys: Africa and Asia",
+      "x": 409,
+      "y": -150,
+      "parent": "#wq5fzm"
+    },
+    {
+      "@id": "#7evy27",
+      "name": "Baboons and macaques live in troops",
+      "x": 445,
+      "y": -51,
+      "parent": "#wq5fzm"
+    },
+    {
+      "@id": "#hbqe8f",
+      "name": "Apes",
+      "x": 174,
+      "y": 120,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fkfe2i",
+      "name": "Gibbons are the small, swinging apes",
+      "x": 445,
+      "y": 51,
+      "link": "https://en.wikipedia.org/wiki/Gibbon",
+      "parent": "#hbqe8f"
+    },
+    {
+      "@id": "#3rrjvc",
+      "name": "Orangutans live in Borneo and Sumatra",
+      "x": 427,
+      "y": 157,
+      "parent": "#hbqe8f"
+    },
+    {
+      "@id": "#9t44rh",
+      "name": "Gorillas are the largest primates",
+      "x": 340,
+      "y": 236,
+      "parent": "#hbqe8f"
+    },
+    {
+      "@id": "#sp7xjm",
+      "name": "Chimpanzees and bonobos: our closest relatives",
+      "x": 243,
+      "y": 303,
+      "link": "https://en.wikipedia.org/wiki/Chimpanzee",
+      "parent": "#hbqe8f"
+    },
+    {
+      "@id": "#e8s9hw",
+      "name": "Humans are apes too",
+      "x": 133,
+      "y": 360,
+      "parent": "#hbqe8f"
+    },
+    {
+      "@id": "#4u8fba",
+      "name": "Life and behaviour",
+      "x": -65,
+      "y": 177,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5y223s",
+      "name": "Complex social groups bonded by grooming",
+      "x": 0,
+      "y": 408,
+      "parent": "#4u8fba"
+    },
+    {
+      "@id": "#fk7t9a",
+      "name": "Chimps and capuchins use tools",
+      "x": -175,
+      "y": 465,
+      "parent": "#4u8fba"
+    },
+    {
+      "@id": "#hfhseq",
+      "name": "Most live in tropical forests",
+      "x": -243,
+      "y": 303,
+      "parent": "#4u8fba"
+    },
+    {
+      "@id": "#2xdqw8",
+      "name": "Conservation",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4depvw",
+      "name": "About 60% of species threatened",
+      "x": -340,
+      "y": 236,
+      "parent": "#2xdqw8"
+    },
+    {
+      "@id": "#giq3fh",
+      "name": "Habitat loss from logging and farming",
+      "x": -409,
+      "y": 150,
+      "parent": "#2xdqw8"
+    },
+    {
+      "@id": "#iz7zty",
+      "name": "Hunting for bushmeat and pet trade",
+      "x": -485,
+      "y": 55,
+      "parent": "#2xdqw8"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 15,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

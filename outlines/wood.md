@@ -1,0 +1,31 @@
+category: Technology
+aliases: timber, lumber, types of wood, hardwood and softwood
+- Wood
+  - What wood is
+    - [Xylem tissue inside tree trunks](https://en.wikipedia.org/wiki/Xylem)
+    - Cellulose fibres bound by lignin
+    - Growth rings show a tree's age
+    - Heartwood inside, sapwood near bark
+  - Hardwood and softwood
+    - [Hardwoods from broadleaf trees: oak, maple](https://en.wikipedia.org/wiki/Hardwood)
+    - Softwoods from conifers: pine, spruce
+    - Balsa is a hardwood yet very light
+  - From tree to timber
+    - Felled and sawn into planks
+    - [Seasoning dries wood to stop warping](https://en.wikipedia.org/wiki/Wood_drying)
+    - Plywood and MDF from layers and fibres
+  - Properties
+    - Strong for its weight
+    - Swells and shrinks with moisture
+    - Insulates against heat
+    - Rot, fungi and insects attack it
+  - Uses
+    - Building frames and floors
+    - Furniture and musical instruments
+    - Pulp for paper and cardboard
+    - Cooking fuel in much of the world
+  - Wood and the environment
+    - Stores carbon absorbed by the tree
+    - [Mass timber for tall buildings](https://en.wikipedia.org/wiki/Cross-laminated_timber)
+    - [FSC labels sustainably managed forests](https://en.wikipedia.org/wiki/Forest_Stewardship_Council)
+    - Illegal logging drives deforestation

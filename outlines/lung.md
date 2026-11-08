@@ -1,0 +1,33 @@
+category: Science
+aliases: lungs, human lungs, how lungs work, lung function
+- Lung
+  - Structure
+    - Two lungs either side of heart
+    - Right has three lobes, left two
+    - Protected by ribs, sit on diaphragm
+    - [Pleura: thin lining that eases movement](https://en.wikipedia.org/wiki/Pleural_cavity)
+  - Inside the lungs
+    - [Bronchial tree branches about 23 times](https://en.wikipedia.org/wiki/Bronchus)
+    - [About 480 million alveoli](https://en.wikipedia.org/wiki/Pulmonary_alveolus)
+    - Surface area roughly a tennis court
+    - Surfactant stops air sacs collapsing
+  - What lungs do
+    - Take in oxygen for the body
+    - Remove carbon dioxide waste
+    - Help balance blood acidity
+    - Filter small clots from the blood
+  - Lung capacity
+    - About 6 litres total in adults
+    - Normal breath is about 0.5 litres
+    - [Spirometry measures how well you breathe](https://en.wikipedia.org/wiki/Spirometry)
+  - Common problems
+    - Asthma and COPD block airflow
+    - Pneumonia and tuberculosis are infections
+    - [Lung cancer, strongly linked to smoking](https://en.wikipedia.org/wiki/Lung_cancer)
+    - Collapsed lung (pneumothorax)
+    - Blood clot in lungs (pulmonary embolism)
+  - Keeping lungs healthy
+    - Not smoking is the biggest factor
+    - Stay active to keep breathing strong
+    - Reduce exposure to dust and fumes
+    - See a doctor for persistent cough

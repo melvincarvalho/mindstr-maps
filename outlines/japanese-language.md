@@ -1,0 +1,32 @@
+category: Society
+aliases: japanese, learn japanese, nihongo
+- Japanese language
+  - Where it's spoken
+    - About 125 million speakers
+    - Almost all in Japan
+    - Communities in Brazil, Hawaii, US
+  - History and family
+    - [Japonic family, with Ryukyuan languages](https://en.wikipedia.org/wiki/Japonic_languages)
+    - Chinese writing adopted by 5th century
+    - Kojiki, oldest surviving book, 712
+    - Tale of Genji, around 1000
+    - Many loanwords from Chinese and English
+  - Sounds
+    - Five vowels, simple syllables
+    - Timed in morae, even beats
+    - Pitch accent distinguishes some words
+  - Writing
+    - [Kanji: characters borrowed from Chinese](https://en.wikipedia.org/wiki/Kanji)
+    - [Hiragana for grammar and native words](https://en.wikipedia.org/wiki/Hiragana)
+    - Katakana for foreign words
+    - 2,136 jōyō kanji for daily use
+  - Grammar highlights
+    - Subject, object, verb at the end
+    - Particles wa, ga, o mark roles
+    - No plurals, articles or gender
+    - Subjects often left unsaid
+    - [Honorific speech, keigo](https://en.wikipedia.org/wiki/Honorific_speech_in_Japanese)
+  - Tips for learners
+    - Learn kana in the first weeks
+    - JLPT levels run N5 to N1
+    - Polite -masu forms first

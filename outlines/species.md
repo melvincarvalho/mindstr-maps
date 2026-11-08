@@ -1,0 +1,29 @@
+category: Science
+aliases: what is a species, species concept, biological species
+- Species
+  - Defining a species
+    - [Groups that interbreed in nature](https://en.wikipedia.org/wiki/Species_concept)
+    - Offspring must be fertile
+    - Mule: horse-donkey hybrid, usually sterile
+    - Basic unit of biological classification
+  - Problems with the definition
+    - Bacteria reproduce without mating
+    - Fossil species judged by shape
+    - [Ring species blur the boundaries](https://en.wikipedia.org/wiki/Ring_species)
+    - Some species hybridise, like wolves and coyotes
+  - How new species arise
+    - [Populations split by geographic barriers](https://en.wikipedia.org/wiki/Allopatric_speciation)
+    - Isolated groups diverge over time
+    - Polyploidy creates plant species quickly
+  - How many there are
+    - About 2 million described
+    - Perhaps 8–9 million eukaryote species
+    - Beetles: about 400,000 described
+    - Many microbes still unnamed
+  - Naming species
+    - Two-part Latin names, like Panthera leo
+    - Thousands of new species named yearly
+  - Species at risk
+    - [IUCN Red List assesses extinction risk](https://en.wikipedia.org/wiki/IUCN_Red_List)
+    - Endangered species protected by law
+    - Conservation focuses on whole habitats

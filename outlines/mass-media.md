@@ -1,0 +1,31 @@
+category: Society
+aliases: mass communication, the media, news media
+- Mass media
+  - One source reaching many people
+    - Few senders, very large audiences
+    - Inform, entertain, persuade and advertise
+  - Main forms
+    - Print: newspapers, magazines, books
+    - Broadcast: radio and television
+    - Film and recorded music
+    - Internet: websites, streaming, social media
+  - How it grew
+    - [Printing press made mass copies, 1440s](https://en.wikipedia.org/wiki/Printing_press)
+    - Regular newspapers began in 1600s Europe
+    - Radio spread in the 1920s
+    - Television dominated from the 1950s
+    - Internet and smartphones from the 1990s
+  - Who pays
+    - Advertising sells audience attention
+    - Subscriptions and paywalls
+    - Public funding, e.g. licence fees
+    - Few large groups own many outlets
+  - Effects on society
+    - [Agenda-setting: shapes what people discuss](https://en.wikipedia.org/wiki/Agenda-setting_theory)
+    - Watchdog on governments and business
+    - [Misinformation spreads fast online](https://en.wikipedia.org/wiki/Misinformation)
+    - Algorithms can create filter bubbles
+  - Rules and freedoms
+    - [Freedom of the press](https://en.wikipedia.org/wiki/Freedom_of_the_press)
+    - Broadcast licensing and content rules
+    - Defamation and privacy laws limit publishing

@@ -1,0 +1,33 @@
+category: Geography
+aliases: usa, united states of america, america country
+- United States
+  - Geography
+    - 50 states plus Washington, D.C.
+    - One of the largest countries by area
+    - Appalachians in east, Rockies in west
+    - Mississippi–Missouri is the main river system
+    - Alaska and Hawaii lie beyond mainland
+  - People and languages
+    - About 340 million people, third-largest
+    - English most spoken, Spanish second
+    - A nation shaped by immigration
+    - New York, Los Angeles, Chicago largest cities
+  - History
+    - [Native American peoples for millennia](https://en.wikipedia.org/wiki/Native_Americans_in_the_United_States)
+    - Thirteen British colonies on Atlantic coast
+    - [Independence declared in 1776](https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence)
+    - [Civil War 1861–1865 ended slavery](https://en.wikipedia.org/wiki/American_Civil_War)
+    - [Civil rights movement of 1950s–60s](https://en.wikipedia.org/wiki/Civil_rights_movement)
+    - Global superpower after World War II
+  - Government
+    - [Federal republic under the 1787 Constitution](https://en.wikipedia.org/wiki/Constitution_of_the_United_States)
+    - Congress, President and Supreme Court
+    - Two main parties: Democrats and Republicans
+  - Economy
+    - Largest economy by nominal GDP
+    - Technology, finance, energy and farming
+    - US dollar is main reserve currency
+  - Culture
+    - Hollywood films and television
+    - Jazz, blues, rock and hip hop
+    - American football, baseball and basketball

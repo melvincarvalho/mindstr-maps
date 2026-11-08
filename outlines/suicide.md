@@ -1,0 +1,33 @@
+category: Health
+aliases: suicide prevention, suicidal thoughts, suicidal feelings
+- Suicide
+  - Help is available now
+    - If you're struggling, talk to someone now
+    - Call or text a local crisis line
+    - In immediate danger, call emergency services
+    - [Find a crisis line near you](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines)
+  - Suicide is preventable
+    - Suicidal feelings often pass with support
+    - Treatment for depression and distress works
+    - [Prevention saves lives](https://en.wikipedia.org/wiki/Suicide_prevention)
+  - Warning signs
+    - Talking about wanting to die
+    - Feeling hopeless or a burden
+    - Withdrawing from friends and activities
+    - Big changes in mood or sleep
+    - Giving away important possessions
+  - Risk and protective factors
+    - [Depression and other mental illness](https://en.wikipedia.org/wiki/Major_depressive_disorder)
+    - Loss, isolation and money worries
+    - Alcohol and drug misuse
+    - Connection, care and hope protect
+  - How to support someone
+    - Ask directly about suicidal thoughts
+    - Asking does not plant the idea
+    - Listen without judging
+    - Stay with them if at risk
+    - Connect them to professional help
+  - Recovery is common
+    - Most people who feel suicidal recover
+    - Therapy, medication and support help
+    - Bereaved by suicide? Support groups exist

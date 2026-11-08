@@ -1,0 +1,29 @@
+category: People
+aliases: ibn khaldoun, muqaddimah author, ibn khaldun asabiyya
+- Ibn Khaldun
+  - Who he was
+    - Arab Muslim scholar, 1332–1406
+    - Born in Tunis to an Andalusian family
+    - Historian, judge and statesman
+  - Life
+    - Served rulers across North Africa and Granada
+    - Imprisoned and exiled amid court intrigues
+    - Wrote at Qal'at Ibn Salama, 1375–1379
+    - Maliki chief judge in Cairo
+    - Met Timur outside Damascus, 1401
+  - [The Muqaddimah](https://en.wikipedia.org/wiki/Muqaddimah)
+    - Introduction to his universal history
+    - Seeks laws behind historical events
+    - Criticises uncritical repeating of sources
+    - Kitab al-Ibar: history of Arabs, Berbers
+  - Key ideas
+    - [Asabiyya: group solidarity drives power](https://en.wikipedia.org/wiki/Asabiyyah)
+    - Dynasties rise and fall over generations
+    - Nomads conquer, then soften in cities
+    - Too-high taxes shrink the economy
+    - Labour as the source of value
+  - Legacy
+    - Called a forerunner of sociology
+    - Early thinker in economics and historiography
+    - Admired by Toynbee and modern scholars
+    - Reagan and others cited his tax idea

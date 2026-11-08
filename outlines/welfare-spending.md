@@ -1,0 +1,32 @@
+category: Society
+aliases: social welfare spending, social spending, welfare state spending, social security spending
+- Welfare spending
+  - What it covers
+    - Pensions for older people
+    - Unemployment and jobseeker benefits
+    - Disability and sickness benefits
+    - Child and family support
+    - Housing help for low incomes
+  - Why governments spend it
+    - Reduce poverty and hardship
+    - Insure against job loss, illness, old age
+    - Smooth incomes across a lifetime
+  - How it is delivered
+    - [Contributory: earned through social insurance](https://en.wikipedia.org/wiki/Social_insurance)
+    - Means-tested: based on income and savings
+    - Universal: paid to everyone eligible
+    - Tax credits through the tax system
+  - How big it is
+    - [OECD average about a fifth of GDP](https://en.wikipedia.org/wiki/OECD)
+    - France among the highest spenders
+    - Pensions are usually the largest item
+    - Ageing populations push costs up
+  - Debates
+    - Work incentives versus a safety net
+    - Targeting versus universal benefits
+    - Fraud and error versus unclaimed benefits
+    - [Universal basic income proposals](https://en.wikipedia.org/wiki/Universal_basic_income)
+  - History
+    - [Bismarck's social insurance in 1880s Germany](https://en.wikipedia.org/wiki/Otto_von_Bismarck)
+    - [Beveridge Report shaped postwar Britain](https://en.wikipedia.org/wiki/Beveridge_Report)
+    - US Social Security Act of 1935

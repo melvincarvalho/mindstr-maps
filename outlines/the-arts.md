@@ -1,0 +1,29 @@
+category: Arts and culture
+aliases: the arts explained, creative arts, arts and humanities
+- The arts
+  - What counts as the arts
+    - Creative work made to be experienced
+    - [Fine arts: painting, sculpture, architecture](https://en.wikipedia.org/wiki/Fine_art)
+    - Applied arts serve a practical use
+    - Liberal arts once meant learned subjects
+  - Visual arts
+    - Painting, drawing and printmaking
+    - Sculpture and installation
+    - Photography and film
+  - Performing arts
+    - Music, from folk to symphony
+    - Theatre and opera
+    - [Dance as expressive movement](https://en.wikipedia.org/wiki/Dance)
+  - Literary arts
+    - Poetry, fiction and drama
+    - Storytelling began as oral tradition
+  - Why people make art
+    - Express feeling and ideas
+    - Worship, ritual and memory
+    - Beauty and pleasure for their own sake
+    - Question power and society
+  - How the arts are supported
+    - Patrons, from churches to princes
+    - [Museums, theatres and concert halls](https://en.wikipedia.org/wiki/Cultural_institution)
+    - Public arts funding and grants
+    - Markets, collectors and audiences

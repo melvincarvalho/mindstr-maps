@@ -1,0 +1,32 @@
+category: Society
+aliases: crime of genocide, definition of genocide, genocide convention
+- Genocide
+  - Definition in international law
+    - [1948 Genocide Convention](https://en.wikipedia.org/wiki/Genocide_Convention)
+    - Intent to destroy a group, even partly
+    - National, ethnic, racial or religious groups
+    - [Term coined by Raphael Lemkin, 1944](https://en.wikipedia.org/wiki/Raphael_Lemkin)
+  - Acts listed in the Convention
+    - Killing members of the group
+    - Causing serious bodily or mental harm
+    - Imposing conditions meant to destroy it
+    - Preventing births or transferring children
+  - Documented examples
+    - [The Holocaust: about six million Jews](https://en.wikipedia.org/wiki/The_Holocaust)
+    - Armenian genocide, Ottoman Empire, 1915–1917
+    - Cambodia under the Khmer Rouge, 1975–1979
+    - [Rwanda: Tutsi killed in 1994](https://en.wikipedia.org/wiki/Rwandan_genocide)
+    - Srebrenica, 1995, ruled genocide by courts
+  - Warning signs
+    - Dehumanising propaganda against a group
+    - Discriminatory laws and exclusion
+    - Gregory Stanton's ten stages model
+  - Justice and accountability
+    - Rwanda and Yugoslavia tribunals, 1990s
+    - International Criminal Court since 2002
+    - International Court of Justice hears state cases
+  - Prevention
+    - UN adviser on genocide prevention
+    - [Responsibility to Protect, agreed 2005](https://en.wikipedia.org/wiki/Responsibility_to_protect)
+    - Early warning and diplomatic pressure
+    - Remembrance and education

@@ -1,0 +1,31 @@
+category: Life and home
+aliases: families, family life, family structure
+- Family
+  - What a family is
+    - People linked by birth, partnership or choice
+    - Care, support and shared identity
+    - The basic unit of most societies
+  - Many family forms
+    - [Nuclear: parents and their children](https://en.wikipedia.org/wiki/Nuclear_family)
+    - [Extended: grandparents, aunts, cousins together](https://en.wikipedia.org/wiki/Extended_family)
+    - Single-parent and blended stepfamilies
+    - Adoptive, foster and same-sex parent families
+    - Chosen family of close friends
+  - What families do
+    - Raise and protect children
+    - Share money, housing and chores
+    - Care for elderly and ill relatives
+    - Pass on language, values and traditions
+  - [Kinship and relatives](https://en.wikipedia.org/wiki/Kinship)
+    - Parents, siblings and grandparents
+    - In-laws joined by marriage
+    - Family trees trace ancestry
+  - Healthy family life
+    - Regular time and meals together
+    - Listen and talk openly
+    - Handle conflict calmly and fairly
+    - Respect each person's boundaries
+  - Changing over time
+    - Smaller households in many countries
+    - People marry and have children later
+    - Help exists for abuse or crisis

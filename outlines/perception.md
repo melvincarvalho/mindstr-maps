@@ -1,0 +1,28 @@
+category: Society
+aliases: sensory perception, human perception, how we perceive
+- Perception
+  - From senses to experience
+    - Sense organs turn energy into nerve signals
+    - Brain interprets signals as a world
+    - [Balance and body position are senses too](https://en.wikipedia.org/wiki/Proprioception)
+  - Vision
+    - Lens focuses light onto the retina
+    - Rods for dim light, cones for colour
+    - [Depth from two eyes and cues](https://en.wikipedia.org/wiki/Depth_perception)
+  - The brain fills in
+    - Expectations shape what we see
+    - [Gestalt: we see wholes, not parts](https://en.wikipedia.org/wiki/Gestalt_psychology)
+    - Each eye's blind spot goes unnoticed
+    - [Optical illusions reveal the brain's shortcuts](https://en.wikipedia.org/wiki/Optical_illusion)
+  - Attention filters it
+    - We notice only a fraction
+    - [Inattentional blindness: missing the gorilla](https://en.wikipedia.org/wiki/Inattentional_blindness)
+    - Cocktail party effect: hearing your name
+  - The other senses
+    - Hearing: pitch, loudness and direction
+    - Smell and taste combine into flavour
+    - Touch, pain and temperature
+  - Differences between people
+    - About 1 in 12 men colour-blind
+    - Synaesthesia: senses blending together
+    - Culture and experience tune perception

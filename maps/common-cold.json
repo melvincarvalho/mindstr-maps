@@ -1,0 +1,328 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Common cold",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#2hn4u6",
+      "name": "What it is",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tqc7ms",
+      "name": "Viral infection of nose and throat",
+      "x": -445,
+      "y": -54,
+      "parent": "#2hn4u6"
+    },
+    {
+      "@id": "#bzzscc",
+      "name": "Rhinoviruses cause most colds",
+      "x": -405,
+      "y": -156,
+      "link": "https://en.wikipedia.org/wiki/Rhinovirus",
+      "parent": "#2hn4u6"
+    },
+    {
+      "@id": "#i79b57",
+      "name": "Over 200 viruses can cause it",
+      "x": -330,
+      "y": -245,
+      "parent": "#2hn4u6"
+    },
+    {
+      "@id": "#22wthc",
+      "name": "Adults catch two to three yearly",
+      "x": -225,
+      "y": -312,
+      "parent": "#2hn4u6"
+    },
+    {
+      "@id": "#3r6p4m",
+      "name": "How it spreads",
+      "x": 17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b4ekei",
+      "name": "Droplets from coughs and sneezes",
+      "x": -104,
+      "y": -367,
+      "parent": "#3r6p4m"
+    },
+    {
+      "@id": "#r97iet",
+      "name": "Touching contaminated hands or surfaces",
+      "x": 42,
+      "y": -423,
+      "parent": "#3r6p4m"
+    },
+    {
+      "@id": "#gd3gye",
+      "name": "Most contagious in the first days",
+      "x": 234,
+      "y": -485,
+      "parent": "#3r6p4m"
+    },
+    {
+      "@id": "#bunjdn",
+      "name": "Symptoms",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sb33py",
+      "name": "Runny or blocked nose",
+      "x": 281,
+      "y": -281,
+      "parent": "#bunjdn"
+    },
+    {
+      "@id": "#qgwvxx",
+      "name": "Sore throat and sneezing",
+      "x": 372,
+      "y": -203,
+      "parent": "#bunjdn"
+    },
+    {
+      "@id": "#xn5d8v",
+      "name": "Cough, tiredness, sometimes mild fever",
+      "x": 468,
+      "y": -116,
+      "parent": "#bunjdn"
+    },
+    {
+      "@id": "#3a2yui",
+      "name": "Usually clears in 7 to 10 days",
+      "x": 450,
+      "y": 0,
+      "parent": "#bunjdn"
+    },
+    {
+      "@id": "#h5emnj",
+      "name": "Easing symptoms",
+      "x": 169,
+      "y": 125,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qbnr8j",
+      "name": "No cure; antibiotics don't help",
+      "x": 430,
+      "y": 106,
+      "parent": "#h5emnj"
+    },
+    {
+      "@id": "#n4r8au",
+      "name": "Rest, fluids and warm drinks",
+      "x": 372,
+      "y": 203,
+      "parent": "#h5emnj"
+    },
+    {
+      "@id": "#5ye7he",
+      "name": "Paracetamol or ibuprofen for aches",
+      "x": 281,
+      "y": 281,
+      "parent": "#h5emnj"
+    },
+    {
+      "@id": "#pn4zzz",
+      "name": "Honey eases coughs, not for babies",
+      "x": 164,
+      "y": 335,
+      "parent": "#h5emnj"
+    },
+    {
+      "@id": "#qziim6",
+      "name": "When to seek help",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ag4pui",
+      "name": "Symptoms lasting over three weeks",
+      "x": 38,
+      "y": 391,
+      "parent": "#qziim6"
+    },
+    {
+      "@id": "#5i5fk7",
+      "name": "High fever or breathing difficulty",
+      "x": -124,
+      "y": 447,
+      "parent": "#qziim6"
+    },
+    {
+      "@id": "#r2egw3",
+      "name": "Babies and people with long-term conditions",
+      "x": -235,
+      "y": 326,
+      "parent": "#qziim6"
+    },
+    {
+      "@id": "#cx3chx",
+      "name": "Prevention",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z79agb",
+      "name": "Wash hands often",
+      "x": -330,
+      "y": 245,
+      "link": "https://en.wikipedia.org/wiki/Hand_washing",
+      "parent": "#cx3chx"
+    },
+    {
+      "@id": "#fp2rue",
+      "name": "Catch sneezes in a tissue",
+      "x": -405,
+      "y": 156,
+      "parent": "#cx3chx"
+    },
+    {
+      "@id": "#um9fvf",
+      "name": "No vaccine: too many viruses",
+      "x": -445,
+      "y": 54,
+      "parent": "#cx3chx"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,30 @@
+category: Science
+aliases: carbohydrates, carbs, sugars and starches
+- Carbohydrate
+  - What they are
+    - Made of carbon, hydrogen and oxygen
+    - Built from sugar units
+    - Plants make them by photosynthesis
+  - Three main kinds
+    - [Monosaccharides: glucose, fructose, galactose](https://en.wikipedia.org/wiki/Monosaccharide)
+    - Disaccharides: sucrose, lactose, maltose
+    - [Polysaccharides: starch, glycogen, cellulose](https://en.wikipedia.org/wiki/Polysaccharide)
+  - Jobs in the body
+    - Main fuel for brain and muscles
+    - Stored as glycogen in liver, muscle
+    - Provide about 4 kcal per gram
+    - Sugar tags help cells recognise each other
+  - In food
+    - Bread, rice, pasta and potatoes
+    - Fruit, milk and table sugar
+    - [Dietary fibre aids digestion](https://en.wikipedia.org/wiki/Dietary_fiber)
+    - Whole grains digest more slowly
+  - Health
+    - [Insulin moves glucose into cells](https://en.wikipedia.org/wiki/Insulin)
+    - Glycaemic index ranks blood-sugar rise
+    - Free sugars linked to tooth decay
+    - WHO: free sugars under 10% of energy
+  - Beyond food
+    - Cellulose makes plant walls and paper
+    - Chitin forms insect and crab shells
+    - Yeast ferments sugars into ethanol

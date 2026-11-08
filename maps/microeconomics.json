@@ -1,0 +1,320 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Microeconomics",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#9nzfm7",
+      "name": "What it studies",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bgr7e9",
+      "name": "Choices of households and firms",
+      "x": -484,
+      "y": -60,
+      "parent": "#9nzfm7"
+    },
+    {
+      "@id": "#7unmjb",
+      "name": "How single markets set prices",
+      "x": -401,
+      "y": -163,
+      "parent": "#9nzfm7"
+    },
+    {
+      "@id": "#i3987j",
+      "name": "Scarcity forces trade-offs",
+      "x": -318,
+      "y": -255,
+      "parent": "#9nzfm7"
+    },
+    {
+      "@id": "#6mhyq5",
+      "name": "Supply and demand",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dn8d8c",
+      "name": "Demand falls as price rises",
+      "x": -204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Supply_and_demand",
+      "parent": "#6mhyq5"
+    },
+    {
+      "@id": "#mx7a98",
+      "name": "Supply rises as price rises",
+      "x": -73,
+      "y": -372,
+      "parent": "#6mhyq5"
+    },
+    {
+      "@id": "#abrded",
+      "name": "Equilibrium where the two meet",
+      "x": 82,
+      "y": -420,
+      "parent": "#6mhyq5"
+    },
+    {
+      "@id": "#6wqrqk",
+      "name": "Elasticity: how strongly quantities respond",
+      "x": 204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Elasticity_%28economics%29",
+      "parent": "#6mhyq5"
+    },
+    {
+      "@id": "#9xcqdd",
+      "name": "Consumer choice",
+      "x": 205,
+      "y": -84,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#scumdf",
+      "name": "People maximise utility within budgets",
+      "x": 318,
+      "y": -255,
+      "parent": "#9xcqdd"
+    },
+    {
+      "@id": "#cvz3ne",
+      "name": "Diminishing marginal utility",
+      "x": 401,
+      "y": -163,
+      "parent": "#9xcqdd"
+    },
+    {
+      "@id": "#bxkcua",
+      "name": "Opportunity cost: the next best option",
+      "x": 504,
+      "y": -62,
+      "link": "https://en.wikipedia.org/wiki/Opportunity_cost",
+      "parent": "#9xcqdd"
+    },
+    {
+      "@id": "#8p3nbt",
+      "name": "Firms and costs",
+      "x": 205,
+      "y": 84,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k4bui8",
+      "name": "Profit is revenue minus costs",
+      "x": 464,
+      "y": 58,
+      "parent": "#8p3nbt"
+    },
+    {
+      "@id": "#7k8zgv",
+      "name": "Produce where marginal cost equals revenue",
+      "x": 401,
+      "y": 163,
+      "parent": "#8p3nbt"
+    },
+    {
+      "@id": "#jmdh2i",
+      "name": "Economies of scale lower unit costs",
+      "x": 318,
+      "y": 255,
+      "parent": "#8p3nbt"
+    },
+    {
+      "@id": "#jvq9xc",
+      "name": "Market structures",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3qfekx",
+      "name": "Perfect competition: many small sellers",
+      "x": 204,
+      "y": 321,
+      "parent": "#jvq9xc"
+    },
+    {
+      "@id": "#ak32ae",
+      "name": "Monopoly: one seller sets price",
+      "x": 73,
+      "y": 372,
+      "link": "https://en.wikipedia.org/wiki/Monopoly",
+      "parent": "#jvq9xc"
+    },
+    {
+      "@id": "#xrvabh",
+      "name": "Oligopoly: a few rivals, game theory",
+      "x": -82,
+      "y": 420,
+      "parent": "#jvq9xc"
+    },
+    {
+      "@id": "#ievkcx",
+      "name": "Monopolistic competition: differentiated brands",
+      "x": -303,
+      "y": 475,
+      "parent": "#jvq9xc"
+    },
+    {
+      "@id": "#3adbk2",
+      "name": "When markets fail",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wjhs7c",
+      "name": "Externalities like pollution go unpriced",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wikipedia.org/wiki/Externality",
+      "parent": "#3adbk2"
+    },
+    {
+      "@id": "#z3nepb",
+      "name": "Information gaps between buyers and sellers",
+      "x": -401,
+      "y": 163,
+      "parent": "#3adbk2"
+    },
+    {
+      "@id": "#r9dy3a",
+      "name": "Taxes, subsidies and regulation respond",
+      "x": -524,
+      "y": 64,
+      "parent": "#3adbk2"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

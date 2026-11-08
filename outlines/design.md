@@ -1,0 +1,33 @@
+category: Arts and culture
+aliases: history of design, design principles, visual design, design movements
+- Design
+  - What design is
+    - Planning things to serve a purpose
+    - Balances function, looks and cost
+    - Form follows function, said Louis Sullivan
+  - Main fields
+    - [Graphic design: type, image, layout](https://en.wikipedia.org/wiki/Graphic_design)
+    - [Industrial design of everyday products](https://en.wikipedia.org/wiki/Industrial_design)
+    - Architecture and interior design
+    - Fashion and textile design
+    - Interaction design for screens and apps
+  - Core principles
+    - Contrast, alignment, repetition, proximity
+    - Grids and white space bring order
+    - Colour and typography set the tone
+    - Usability: easy to understand and use
+  - Key movements
+    - Arts and Crafts champions handmade quality
+    - Art Nouveau's flowing natural lines
+    - [Bauhaus school founded in 1919](https://en.wikipedia.org/wiki/Bauhaus)
+    - Swiss Style: clean grids, sans-serif type
+    - Mid-century modern furniture and products
+  - Influential designers
+    - William Morris's patterned textiles and books
+    - Charles and Ray Eames's chairs
+    - Dieter Rams's ten principles of design
+    - Paul Rand's IBM and ABC logos
+  - The design process
+    - Research users and their needs
+    - Sketch, prototype, test, refine
+    - [Design thinking puts people first](https://en.wikipedia.org/wiki/Design_thinking)

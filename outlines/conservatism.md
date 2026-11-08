@@ -1,0 +1,32 @@
+category: Society
+aliases: conservative ideology, political conservatism, what is conservatism
+- Conservatism
+  - Core beliefs
+    - Change gradually, not by revolution
+    - Tradition carries tested wisdom
+    - Order, family and community matter
+    - Human nature is imperfect, limiting utopias
+  - Key thinkers
+    - [Edmund Burke criticised the French Revolution](https://en.wikipedia.org/wiki/Edmund_Burke)
+    - Michael Oakeshott on practical experience
+    - Russell Kirk revived it in America
+    - Roger Scruton defended national culture
+  - History
+    - Reaction to the French Revolution, 1790s
+    - Disraeli's one-nation Toryism in Britain
+    - Bismarck's state welfare in Germany
+    - Post-war Christian democracy in Europe
+  - Main strands
+    - [Traditionalist: religion, custom, authority](https://en.wikipedia.org/wiki/Traditionalist_conservatism)
+    - Fiscal: low taxes, limited spending
+    - [Liberal conservatism embraces free markets](https://en.wikipedia.org/wiki/Liberal_conservatism)
+    - Social conservatism on family and morality
+  - Real-world examples
+    - UK Conservative Party since 1834
+    - US Republican Party's modern right
+    - Thatcher and Reagan in the 1980s
+    - Germany's Christian Democratic Union
+  - Main criticisms
+    - Can defend unfair hierarchies
+    - Slow to extend rights to minorities
+    - Tension between markets and tradition

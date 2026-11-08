@@ -1,0 +1,34 @@
+category: Geography
+aliases: state of israel
+- Israel
+  - Geography
+    - Eastern Mediterranean, about 22,000 km²
+    - Negev Desert covers the south
+    - Dead Sea, lowest point on land
+    - [Jerusalem: claimed capital, status disputed](https://en.wikipedia.org/wiki/Status_of_Jerusalem)
+    - Tel Aviv is the economic centre
+  - People and languages
+    - About 10 million people
+    - Hebrew official; Arabic has special status
+    - About three-quarters Jewish, a fifth Arab
+    - Immigrants from Jewish communities worldwide
+  - History in brief
+    - Ancient Israelite kingdoms, about 1000 BC
+    - Zionist movement and British Mandate rule
+    - [Independence 1948, followed by Arab–Israeli war](https://en.wikipedia.org/wiki/1948_Arab%E2%80%93Israeli_War)
+    - About 700,000 Palestinians fled or were expelled
+    - [Six-Day War 1967: West Bank, Gaza captured](https://en.wikipedia.org/wiki/Six-Day_War)
+  - Government
+    - Parliamentary democracy with 120-seat Knesset
+    - Prime minister leads coalition governments
+    - No written constitution; Basic Laws instead
+  - Conflict and peace
+    - [Israeli–Palestinian conflict remains unresolved](https://en.wikipedia.org/wiki/Israeli%E2%80%93Palestinian_conflict)
+    - Settlements: most states say illegal, Israel disagrees
+    - Gaza war began October 2023
+    - Peace treaties with Egypt and Jordan
+  - Economy and culture
+    - High-tech and start-up hub
+    - Currency is the new shekel
+    - Holy sites of Judaism, Christianity, Islam
+    - Shabbat and Jewish holidays shape calendar

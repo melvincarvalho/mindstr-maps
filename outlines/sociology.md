@@ -1,0 +1,30 @@
+category: Society
+aliases: study of society, sociology explained, what is sociology
+- Sociology
+  - What it studies
+    - Social relationships and institutions
+    - How society shapes individuals
+    - Groups from families to nations
+  - Founders
+    - [Comte named the field in 1838](https://en.wikipedia.org/wiki/Auguste_Comte)
+    - [Durkheim studied social facts and suicide](https://en.wikipedia.org/wiki/%C3%89mile_Durkheim)
+    - Marx analysed class and capitalism
+    - [Weber studied bureaucracy and the Protestant ethic](https://en.wikipedia.org/wiki/Max_Weber)
+  - Major perspectives
+    - Functionalism: parts keep society stable
+    - Conflict theory: groups compete for power
+    - Symbolic interactionism: meaning in interaction
+  - Core topics
+    - Social class and inequality
+    - Race, ethnicity and gender
+    - Family, religion and education
+    - Crime and deviance
+    - Urbanisation and globalisation
+  - Key concepts
+    - Socialisation teaches norms and values
+    - Social mobility between classes
+    - Roles, status and identity
+  - Methods
+    - Surveys and social statistics
+    - Interviews and ethnography
+    - Comparing societies and history

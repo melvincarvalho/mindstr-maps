@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Spaceflight",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#n45kwp",
+      "name": "Reaching space",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2rzb75",
+      "name": "Kármán line at 100 km up",
+      "x": -445,
+      "y": -54,
+      "link": "https://en.wikipedia.org/wiki/K%C3%A1rm%C3%A1n_line",
+      "parent": "#n45kwp"
+    },
+    {
+      "@id": "#rbsqif",
+      "name": "Suborbital hops go up and fall back",
+      "x": -405,
+      "y": -156,
+      "parent": "#n45kwp"
+    },
+    {
+      "@id": "#is8sw8",
+      "name": "Orbit needs about 7.8 km/s sideways",
+      "x": -330,
+      "y": -245,
+      "parent": "#n45kwp"
+    },
+    {
+      "@id": "#u8iwrx",
+      "name": "Phases of a mission",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xwqver",
+      "name": "Launch on a multi-stage rocket",
+      "x": -225,
+      "y": -312,
+      "parent": "#u8iwrx"
+    },
+    {
+      "@id": "#eyc377",
+      "name": "Orbit or coast to destination",
+      "x": -104,
+      "y": -367,
+      "parent": "#u8iwrx"
+    },
+    {
+      "@id": "#qu9yzy",
+      "name": "Docking and rendezvous with stations",
+      "x": 42,
+      "y": -423,
+      "parent": "#u8iwrx"
+    },
+    {
+      "@id": "#p9qbse",
+      "name": "Re-entry heat shields survive 1,500°C+",
+      "x": 234,
+      "y": -485,
+      "link": "https://en.wikipedia.org/wiki/Atmospheric_entry",
+      "parent": "#u8iwrx"
+    },
+    {
+      "@id": "#habgi4",
+      "name": "Moving between worlds",
+      "x": 190,
+      "y": -104,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kmp7ye",
+      "name": "Hohmann transfer: fuel-efficient orbit change",
+      "x": 281,
+      "y": -281,
+      "link": "https://en.wikipedia.org/wiki/Hohmann_transfer_orbit",
+      "parent": "#habgi4"
+    },
+    {
+      "@id": "#26wea2",
+      "name": "Gravity assists borrow planets' speed",
+      "x": 372,
+      "y": -203,
+      "parent": "#habgi4"
+    },
+    {
+      "@id": "#65kepm",
+      "name": "Mars trips take about seven months",
+      "x": 506,
+      "y": -126,
+      "parent": "#habgi4"
+    },
+    {
+      "@id": "#2rgebf",
+      "name": "Keeping people alive",
+      "x": 220,
+      "y": 54,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a8fzuc",
+      "name": "Spacesuits supply air and pressure",
+      "x": 450,
+      "y": 0,
+      "parent": "#2rgebf"
+    },
+    {
+      "@id": "#bzdeic",
+      "name": "Life support recycles water and air",
+      "x": 430,
+      "y": 106,
+      "parent": "#2rgebf"
+    },
+    {
+      "@id": "#x824y6",
+      "name": "Radiation and microgravity harm the body",
+      "x": 372,
+      "y": 203,
+      "parent": "#2rgebf"
+    },
+    {
+      "@id": "#e3aktj",
+      "name": "Milestones",
+      "x": 51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gwagyd",
+      "name": "Gagarin orbits Earth, 1961",
+      "x": 281,
+      "y": 281,
+      "parent": "#e3aktj"
+    },
+    {
+      "@id": "#6yape2",
+      "name": "Humans walk on the Moon, 1969–1972",
+      "x": 164,
+      "y": 335,
+      "parent": "#e3aktj"
+    },
+    {
+      "@id": "#k8dr62",
+      "name": "Space Shuttle, a reusable spaceplane",
+      "x": 38,
+      "y": 391,
+      "link": "https://en.wikipedia.org/wiki/Space_Shuttle",
+      "parent": "#e3aktj"
+    },
+    {
+      "@id": "#v6gwqt",
+      "name": "SpaceX Crew Dragon flies astronauts, 2020",
+      "x": -124,
+      "y": 447,
+      "parent": "#e3aktj"
+    },
+    {
+      "@id": "#dyarp8",
+      "name": "Risks and costs",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rmii7k",
+      "name": "Challenger and Columbia disasters",
+      "x": -225,
+      "y": 312,
+      "parent": "#dyarp8"
+    },
+    {
+      "@id": "#8465ga",
+      "name": "Launches cost tens of millions or more",
+      "x": -330,
+      "y": 245,
+      "parent": "#dyarp8"
+    },
+    {
+      "@id": "#ug4uux",
+      "name": "Reusable rockets cutting launch prices",
+      "x": -405,
+      "y": 156,
+      "parent": "#dyarp8"
+    },
+    {
+      "@id": "#5dsrpr",
+      "name": "Space tourism flights began in 2001",
+      "x": -445,
+      "y": 54,
+      "parent": "#dyarp8"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

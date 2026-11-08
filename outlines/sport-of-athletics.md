@@ -1,0 +1,30 @@
+category: Life and home
+aliases: track and field, track and field athletics, athletics track and field
+- Sport of athletics
+  - Origins and governance
+    - [Ancient Olympic stadion race, 776 BC](https://en.wikipedia.org/wiki/Ancient_Olympic_Games)
+    - [World Athletics, founded 1912, governs it](https://en.wikipedia.org/wiki/World_Athletics)
+    - World Championships held since 1983
+    - Centrepiece of the Summer Olympics
+  - Track: sprints and hurdles
+    - 100 m, 200 m and 400 m
+    - Usain Bolt ran 9.58 s in 2009
+    - 110 m hurdles men, 100 m women
+    - 4×100 m and 4×400 m relays
+  - Track: middle and long distance
+    - 800 m and 1500 m reward tactics
+    - 5000 m and 10,000 m test endurance
+    - [3000 m steeplechase with water jump](https://en.wikipedia.org/wiki/Steeplechase_%28athletics%29)
+  - Field: jumps and throws
+    - High jump and pole vault for height
+    - Long jump and triple jump
+    - Shot put, discus, hammer, javelin
+    - Three failed attempts end height events
+  - Combined events
+    - [Decathlon: ten events over two days](https://en.wikipedia.org/wiki/Decathlon)
+    - Heptathlon: seven events for women
+    - Points tables score each event
+  - Road and cross country
+    - [Marathon: 42.195 km on roads](https://en.wikipedia.org/wiki/Marathon)
+    - Race walking: one foot always grounded
+    - Cross country over open terrain

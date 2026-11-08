@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Lightning",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#h3fitu",
+      "name": "How it forms",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tkz3f6",
+      "name": "Charge builds up in thunderclouds",
+      "x": -485,
+      "y": -58,
+      "link": "https://en.wikipedia.org/wiki/Cumulonimbus_cloud",
+      "parent": "#h3fitu"
+    },
+    {
+      "@id": "#mk8bav",
+      "name": "Colliding ice particles separate charges",
+      "x": -405,
+      "y": -156,
+      "parent": "#h3fitu"
+    },
+    {
+      "@id": "#2peam5",
+      "name": "Discharge balances the charge",
+      "x": -330,
+      "y": -245,
+      "parent": "#h3fitu"
+    },
+    {
+      "@id": "#ijjj7z",
+      "name": "Types",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3pwsp8",
+      "name": "Cloud-to-ground strikes",
+      "x": -225,
+      "y": -312,
+      "parent": "#ijjj7z"
+    },
+    {
+      "@id": "#q73da9",
+      "name": "Most flashes stay inside clouds",
+      "x": -104,
+      "y": -367,
+      "parent": "#ijjj7z"
+    },
+    {
+      "@id": "#btfy6x",
+      "name": "Cloud-to-cloud lightning",
+      "x": 42,
+      "y": -423,
+      "parent": "#ijjj7z"
+    },
+    {
+      "@id": "#bkap8e",
+      "name": "Rare ball lightning",
+      "x": 234,
+      "y": -485,
+      "link": "https://en.wikipedia.org/wiki/Ball_lightning",
+      "parent": "#ijjj7z"
+    },
+    {
+      "@id": "#faeyku",
+      "name": "The numbers",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#reqn57",
+      "name": "Channel about 30,000°C, hotter than Sun's surface",
+      "x": 281,
+      "y": -281,
+      "parent": "#faeyku"
+    },
+    {
+      "@id": "#mnhn6r",
+      "name": "Roughly 40–50 flashes per second worldwide",
+      "x": 372,
+      "y": -203,
+      "parent": "#faeyku"
+    },
+    {
+      "@id": "#amiq3z",
+      "name": "Thunder is air expanding explosively",
+      "x": 487,
+      "y": -121,
+      "link": "https://en.wikipedia.org/wiki/Thunder",
+      "parent": "#faeyku"
+    },
+    {
+      "@id": "#eixuav",
+      "name": "3 seconds to thunder ≈ 1 km",
+      "x": 450,
+      "y": 0,
+      "parent": "#faeyku"
+    },
+    {
+      "@id": "#z6efds",
+      "name": "Effects",
+      "x": 190,
+      "y": 104,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vjiics",
+      "name": "Starts many wildfires",
+      "x": 430,
+      "y": 106,
+      "parent": "#z6efds"
+    },
+    {
+      "@id": "#zry9dc",
+      "name": "Damages power lines and electronics",
+      "x": 372,
+      "y": 203,
+      "parent": "#z6efds"
+    },
+    {
+      "@id": "#upw6di",
+      "name": "Helps make nitrogen compounds for plants",
+      "x": 281,
+      "y": 281,
+      "parent": "#z6efds"
+    },
+    {
+      "@id": "#sb7rrv",
+      "name": "Staying safe",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rgf8ja",
+      "name": "When thunder roars, go indoors",
+      "x": 164,
+      "y": 335,
+      "parent": "#sb7rrv"
+    },
+    {
+      "@id": "#qbri7m",
+      "name": "Shelter in buildings or hard-topped cars",
+      "x": 38,
+      "y": 391,
+      "parent": "#sb7rrv"
+    },
+    {
+      "@id": "#c3firk",
+      "name": "Avoid open ground, water and lone trees",
+      "x": -124,
+      "y": 447,
+      "parent": "#sb7rrv"
+    },
+    {
+      "@id": "#apuea8",
+      "name": "Wait 30 minutes after last thunder",
+      "x": -225,
+      "y": 312,
+      "parent": "#sb7rrv"
+    },
+    {
+      "@id": "#gthbkr",
+      "name": "Victims are safe to touch: give CPR",
+      "x": -330,
+      "y": 245,
+      "parent": "#sb7rrv"
+    },
+    {
+      "@id": "#bi6sfd",
+      "name": "Protecting buildings",
+      "x": -220,
+      "y": 54,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mucuxh",
+      "name": "Lightning rods guide strikes to ground",
+      "x": -405,
+      "y": 156,
+      "link": "https://en.wikipedia.org/wiki/Lightning_rod",
+      "parent": "#bi6sfd"
+    },
+    {
+      "@id": "#vbuzia",
+      "name": "Surge protectors for electronics",
+      "x": -505,
+      "y": 60,
+      "parent": "#bi6sfd"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 19,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Eastern philosophy",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#awqp8m",
+      "name": "Broad traditions",
+      "x": -219,
+      "y": -57,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nfqykj",
+      "name": "Mainly Indian and Chinese, then Japanese",
+      "x": -524,
+      "y": -64,
+      "parent": "#awqp8m"
+    },
+    {
+      "@id": "#ek394u",
+      "name": "Thought tied to a way of life",
+      "x": -401,
+      "y": -163,
+      "parent": "#awqp8m"
+    },
+    {
+      "@id": "#n83cci",
+      "name": "Indian philosophy",
+      "x": -71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#58dwm6",
+      "name": "Upanishads: the self (Atman) is Brahman",
+      "x": -318,
+      "y": -255,
+      "link": "https://en.wikipedia.org/wiki/Upanishads",
+      "parent": "#n83cci"
+    },
+    {
+      "@id": "#9injmz",
+      "name": "Karma, rebirth and liberation (moksha)",
+      "x": -204,
+      "y": -321,
+      "parent": "#n83cci"
+    },
+    {
+      "@id": "#by4qrr",
+      "name": "Six orthodox schools, including Vedanta, Yoga",
+      "x": -73,
+      "y": -372,
+      "parent": "#n83cci"
+    },
+    {
+      "@id": "#x62zaw",
+      "name": "Jainism: non-violence toward all life",
+      "x": 82,
+      "y": -420,
+      "parent": "#n83cci"
+    },
+    {
+      "@id": "#6m7ryc",
+      "name": "Buddhism",
+      "x": 186,
+      "y": -108,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fzjnku",
+      "name": "Buddha taught around the 5th century BCE",
+      "x": 204,
+      "y": -321,
+      "parent": "#6m7ryc"
+    },
+    {
+      "@id": "#yvipr3",
+      "name": "Four Noble Truths: suffering and its end",
+      "x": 318,
+      "y": -255,
+      "link": "https://en.wikipedia.org/wiki/Four_Noble_Truths",
+      "parent": "#6m7ryc"
+    },
+    {
+      "@id": "#9atur7",
+      "name": "No permanent, unchanging self (anatta)",
+      "x": 401,
+      "y": -163,
+      "parent": "#6m7ryc"
+    },
+    {
+      "@id": "#ej452g",
+      "name": "Zen and Tibetan schools developed later",
+      "x": 444,
+      "y": -56,
+      "parent": "#6m7ryc"
+    },
+    {
+      "@id": "#b85cvj",
+      "name": "Chinese philosophy",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yk7upi",
+      "name": "Confucius: virtue, ritual and family",
+      "x": 444,
+      "y": 56,
+      "link": "https://en.wikipedia.org/wiki/Confucius",
+      "parent": "#b85cvj"
+    },
+    {
+      "@id": "#w4gqsw",
+      "name": "Laozi's Daoism: follow the natural Way",
+      "x": 401,
+      "y": 163,
+      "link": "https://en.wikipedia.org/wiki/Taoism",
+      "parent": "#b85cvj"
+    },
+    {
+      "@id": "#48zbjr",
+      "name": "Yin and yang: complementary opposites",
+      "x": 318,
+      "y": 255,
+      "parent": "#b85cvj"
+    },
+    {
+      "@id": "#iftzvy",
+      "name": "Mohists and Legalists debated Confucians",
+      "x": 204,
+      "y": 321,
+      "parent": "#b85cvj"
+    },
+    {
+      "@id": "#jqbwqu",
+      "name": "Shared themes",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5h8c6i",
+      "name": "Harmony between people and nature",
+      "x": 73,
+      "y": 372,
+      "parent": "#jqbwqu"
+    },
+    {
+      "@id": "#z2wykk",
+      "name": "Inner cultivation through meditation",
+      "x": -82,
+      "y": 420,
+      "parent": "#jqbwqu"
+    },
+    {
+      "@id": "#tzvqkv",
+      "name": "Wisdom lived daily, not just argued",
+      "x": -204,
+      "y": 321,
+      "parent": "#jqbwqu"
+    },
+    {
+      "@id": "#egm9wb",
+      "name": "Influence today",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c4yxzr",
+      "name": "Mindfulness meditation spread to the West",
+      "x": -318,
+      "y": 255,
+      "parent": "#egm9wb"
+    },
+    {
+      "@id": "#qmqzyw",
+      "name": "Yoga practised worldwide",
+      "x": -401,
+      "y": 163,
+      "parent": "#egm9wb"
+    },
+    {
+      "@id": "#7kk5j9",
+      "name": "Gandhi drew on ahimsa (non-violence)",
+      "x": -504,
+      "y": 62,
+      "parent": "#egm9wb"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 4,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,27 @@
+category: Science
+aliases: relativity, einstein relativity, einsteins theory of relativity, relativity theory
+- Theory of relativity
+  - Einstein's two theories
+    - [Special relativity, 1905](https://en.wikipedia.org/wiki/Special_relativity)
+    - [General relativity, 1915](https://en.wikipedia.org/wiki/General_relativity)
+    - Replaced Newton's absolute space and time
+  - Special relativity's two rules
+    - Physics is the same at steady speeds
+    - Light's speed is the same for everyone
+  - Strange results of high speed
+    - [Moving clocks tick slower](https://en.wikipedia.org/wiki/Time_dilation)
+    - Moving objects shrink along their motion
+    - Nothing with mass reaches light speed
+    - [E = mc²: mass is energy](https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence)
+  - General relativity: gravity as curvature
+    - Mass bends space and time
+    - Falling feels the same as floating
+    - Clocks run slower near heavy objects
+  - Evidence that confirmed it
+    - Starlight bent by the Sun, 1919
+    - Explains Mercury's odd orbit
+    - Gravitational waves detected in 2015
+    - Black holes photographed in 2019
+  - Relativity in daily life
+    - GPS satellites correct for both effects
+    - Nuclear power releases mass as energy

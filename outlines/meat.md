@@ -1,0 +1,31 @@
+category: Life and home
+aliases: types of meat, meat production, eating meat
+- Meat
+  - What meat is
+    - Animal flesh eaten as food
+    - Mostly muscle, with fat and connective tissue
+    - Red meat from mammals, white from poultry
+  - Main sources
+    - [Poultry, now the most produced meat](https://en.wikipedia.org/wiki/Poultry)
+    - Pork, popular in China and Europe
+    - Beef from cattle
+    - Lamb, mutton and goat
+  - Production
+    - Most from intensive farming
+    - Slaughter and butchery into cuts
+    - [Curing, smoking and salting preserve meat](https://en.wikipedia.org/wiki/Curing_%28food_preservation%29)
+    - Religious rules: halal and kosher slaughter
+  - Nutrition and health
+    - Good source of protein, iron and B12
+    - [Processed meat linked to bowel cancer](https://en.wikipedia.org/wiki/Processed_meat)
+    - Guidelines advise limiting red meat
+  - Cooking safely
+    - Cook poultry and mince thoroughly
+    - Use a thermometer to check doneness
+    - Keep raw meat away from other foods
+    - Rest meat after cooking
+  - Wider impact
+    - [Livestock a major greenhouse gas source](https://en.wikipedia.org/wiki/Environmental_impact_of_meat_production)
+    - Uses much farmland and water
+    - Animal welfare debates
+    - Plant-based and cultivated meat alternatives

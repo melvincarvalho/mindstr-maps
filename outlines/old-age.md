@@ -1,0 +1,30 @@
+category: Life and home
+aliases: elderly people, later life, senior citizens, older people
+- Old age
+  - When old age begins
+    - Often counted from 60 or 65
+    - Linked to state pension ages
+    - [World population is rapidly ageing](https://en.wikipedia.org/wiki/Population_ageing)
+  - How the body changes
+    - [Cells and tissues gradually wear out](https://en.wikipedia.org/wiki/Ageing)
+    - Weaker muscles and thinner bones
+    - Hearing and eyesight decline
+    - Higher risk of heart disease and cancer
+  - The ageing mind
+    - Knowledge and wisdom often grow
+    - Processing speed and recall slow
+    - [Dementia is a disease, not normal ageing](https://en.wikipedia.org/wiki/Dementia)
+  - Staying healthy for longer
+    - Exercise, including strength and balance
+    - Loneliness harms health; stay connected
+    - Check-ups, vaccines and medication reviews
+    - Preventing falls at home
+  - Money and care
+    - [Pensions replace income after retirement](https://en.wikipedia.org/wiki/Pension)
+    - Care at home or in care homes
+    - Family carers provide much support
+  - Society and meaning
+    - Life expectancy has doubled since 1900
+    - Many cultures honour their elders
+    - Grandparenting, volunteering, passing on experience
+    - Ageism: discrimination based on age

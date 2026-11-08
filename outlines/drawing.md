@@ -1,0 +1,32 @@
+category: Arts and culture
+aliases: art of drawing, history of drawing, types of drawing, drawing as an art form
+- Drawing
+  - What drawing is
+    - Marks made on a surface
+    - Line, tone and texture describe form
+    - Groundwork for painting, design and architecture
+  - Tools and media
+    - [Graphite pencils, common since the 1800s](https://en.wikipedia.org/wiki/Pencil)
+    - Charcoal for bold, smudgy tones
+    - Pen and ink for crisp lines
+    - Chalk, pastel and silverpoint
+    - Digital drawing on tablets
+  - Kinds of drawing
+    - Sketches and quick studies
+    - [Life drawing from the human figure](https://en.wikipedia.org/wiki/Figure_drawing)
+    - Technical drawings and architectural plans
+    - Cartoons and illustration
+  - History
+    - [Cave drawings over 30,000 years old](https://en.wikipedia.org/wiki/Cave_painting)
+    - [Linear perspective worked out in 1400s Italy](https://en.wikipedia.org/wiki/Perspective_%28graphical%29)
+    - Cheaper paper spreads drawing in Renaissance
+    - Art academies make drawing core training
+  - Famous draughtsmen
+    - [Leonardo's notebooks and Vitruvian Man](https://en.wikipedia.org/wiki/Vitruvian_Man)
+    - Albrecht Dürer's precise studies
+    - Rembrandt's quick ink sketches
+    - Hokusai's Manga sketchbooks
+    - Picasso's single-line drawings
+  - Why it matters
+    - Helps you see and think
+    - Records ideas in science and engineering

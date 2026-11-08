@@ -1,0 +1,28 @@
+category: Technology
+aliases: how glass is made, glassmaking
+- Glass
+  - What glass is
+    - Solid without a crystal structure
+    - Mostly silica from sand
+    - Soda and lime lower melting point
+    - Old panes don't flow; that's myth
+  - How it's made
+    - Melted at about 1,500°C
+    - [Float glass spread on molten tin](https://en.wikipedia.org/wiki/Float_glass)
+    - Pressed or blown into moulds
+    - Annealing cools slowly to avoid cracks
+  - History
+    - First made in Mesopotamia, before 2000 BC
+    - [Glassblowing spread under the Romans](https://en.wikipedia.org/wiki/Glassblowing)
+    - Medieval stained glass windows
+    - Pilkington float process, 1950s
+  - Special glasses
+    - [Toughened glass breaks into small pieces](https://en.wikipedia.org/wiki/Tempered_glass)
+    - Laminated windscreens hold together
+    - Borosilicate resists heat in ovenware
+    - [Optical fibres carry light signals](https://en.wikipedia.org/wiki/Optical_fiber)
+  - Everyday uses
+    - Windows and glass skyscrapers
+    - Bottles and jars, endlessly recyclable
+    - Lenses for glasses, cameras, microscopes
+    - Phone and computer screens

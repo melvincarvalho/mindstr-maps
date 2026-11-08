@@ -1,0 +1,29 @@
+category: Science
+aliases: liquids, liquid state, properties of liquids
+- Liquid
+  - What makes a liquid
+    - Fixed volume, takes container's shape
+    - Particles close but free to slide
+    - Hardly compresses under pressure
+  - Flow and thickness
+    - [Viscosity: honey flows slower than water](https://en.wikipedia.org/wiki/Viscosity)
+    - Most liquids thin out when warmed
+    - Non-Newtonian fluids like cornflour slime
+  - Surface effects
+    - [Surface tension lets insects walk on water](https://en.wikipedia.org/wiki/Surface_tension)
+    - Droplets pull into round shapes
+    - [Capillary action draws water up plants](https://en.wikipedia.org/wiki/Capillary_action)
+  - Changing state
+    - Evaporation happens at any temperature
+    - Boils when vapour pressure meets air pressure
+    - Boils at lower temperature on mountains
+    - Freezes into a solid when cooled
+  - Liquids as mixers
+    - Dissolve solids, like sugar in tea
+    - Water is the universal solvent
+    - Oil and water don't mix
+  - Notable liquids
+    - Water covers about 71% of Earth
+    - Mercury: only metal liquid at room temperature
+    - Blood carries oxygen around the body
+    - Liquid nitrogen boils at −196°C

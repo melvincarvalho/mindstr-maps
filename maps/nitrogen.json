@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Nitrogen",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#bqbyyu",
+      "name": "Basics",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#66ww6j",
+      "name": "Atomic number 7, symbol N",
+      "x": -444,
+      "y": -56,
+      "parent": "#bqbyyu"
+    },
+    {
+      "@id": "#ykzk2d",
+      "name": "Colourless, odourless, unreactive gas",
+      "x": -401,
+      "y": -163,
+      "parent": "#bqbyyu"
+    },
+    {
+      "@id": "#vthksa",
+      "name": "N₂ triple bond is very strong",
+      "x": -318,
+      "y": -255,
+      "parent": "#bqbyyu"
+    },
+    {
+      "@id": "#whdhu7",
+      "name": "Discovered by Daniel Rutherford, 1772",
+      "x": -204,
+      "y": -321,
+      "parent": "#bqbyyu"
+    },
+    {
+      "@id": "#cxhvsz",
+      "name": "Where it's found",
+      "x": 36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9c8ndv",
+      "name": "About 78% of Earth's air",
+      "x": -73,
+      "y": -372,
+      "parent": "#cxhvsz"
+    },
+    {
+      "@id": "#s5psjq",
+      "name": "Soils as nitrates and ammonium",
+      "x": 82,
+      "y": -420,
+      "parent": "#cxhvsz"
+    },
+    {
+      "@id": "#ttbim5",
+      "name": "All living things",
+      "x": 204,
+      "y": -321,
+      "parent": "#cxhvsz"
+    },
+    {
+      "@id": "#s8gzus",
+      "name": "Role in life",
+      "x": 205,
+      "y": -84,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#x7q5ja",
+      "name": "In every amino acid and protein",
+      "x": 318,
+      "y": -255,
+      "parent": "#s8gzus"
+    },
+    {
+      "@id": "#f2jx9n",
+      "name": "In DNA and RNA bases",
+      "x": 401,
+      "y": -163,
+      "parent": "#s8gzus"
+    },
+    {
+      "@id": "#gs2mnh",
+      "name": "Plants can't use N₂ directly",
+      "x": 444,
+      "y": -56,
+      "parent": "#s8gzus"
+    },
+    {
+      "@id": "#y8a87b",
+      "name": "The nitrogen cycle",
+      "x": 205,
+      "y": 84,
+      "link": "https://en.wikipedia.org/wiki/Nitrogen_cycle",
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9nihxw",
+      "name": "Bacteria fix nitrogen in legume roots",
+      "x": 524,
+      "y": 64,
+      "link": "https://en.wikipedia.org/wiki/Nitrogen_fixation",
+      "parent": "#y8a87b"
+    },
+    {
+      "@id": "#vx4i9i",
+      "name": "Lightning also fixes some nitrogen",
+      "x": 401,
+      "y": 163,
+      "parent": "#y8a87b"
+    },
+    {
+      "@id": "#ig5udr",
+      "name": "Denitrifying bacteria return it to air",
+      "x": 318,
+      "y": 255,
+      "parent": "#y8a87b"
+    },
+    {
+      "@id": "#di9jer",
+      "name": "Uses",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#erf739",
+      "name": "Haber–Bosch ammonia feeds billions",
+      "x": 204,
+      "y": 321,
+      "link": "https://en.wikipedia.org/wiki/Haber_process",
+      "parent": "#di9jer"
+    },
+    {
+      "@id": "#z6pb56",
+      "name": "Explosives like TNT and nitroglycerin",
+      "x": 73,
+      "y": 372,
+      "parent": "#di9jer"
+    },
+    {
+      "@id": "#pp2ejc",
+      "name": "Liquid nitrogen freezes at −196°C",
+      "x": -82,
+      "y": 420,
+      "parent": "#di9jer"
+    },
+    {
+      "@id": "#aje9ii",
+      "name": "Keeps packaged food fresh",
+      "x": -204,
+      "y": 321,
+      "parent": "#di9jer"
+    },
+    {
+      "@id": "#sjbdjc",
+      "name": "Problems",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gipcep",
+      "name": "Fertiliser runoff causes algal blooms",
+      "x": -318,
+      "y": 255,
+      "parent": "#sjbdjc"
+    },
+    {
+      "@id": "#uv5vy6",
+      "name": "Nitrous oxide is a greenhouse gas",
+      "x": -401,
+      "y": 163,
+      "parent": "#sjbdjc"
+    },
+    {
+      "@id": "#rcfbzj",
+      "name": "Nitrogen oxides cause smog",
+      "x": -444,
+      "y": 56,
+      "link": "https://en.wikipedia.org/wiki/Nitrogen_oxide",
+      "parent": "#sjbdjc"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

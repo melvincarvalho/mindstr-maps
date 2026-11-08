@@ -1,0 +1,33 @@
+category: Health
+aliases: types of vaccines, vaccine safety, vaccination schedule, immunisation, history of vaccines
+- Vaccine
+  - What a vaccine is
+    - Trains immunity without causing disease
+    - Given by injection, mouth or nose
+    - Some need boosters to stay effective
+  - Main types
+    - Live attenuated: measles, MMR
+    - Inactivated: injected polio vaccine
+    - Subunit or protein: hepatitis B, HPV
+    - Toxoid: tetanus and diphtheria
+    - [mRNA: some COVID-19 vaccines](https://en.wikipedia.org/wiki/MRNA_vaccine)
+    - Viral vector: some Ebola vaccines
+  - History
+    - [Jenner's smallpox vaccine in 1796](https://en.wikipedia.org/wiki/Edward_Jenner)
+    - Pasteur's rabies vaccine in 1885
+    - Salk's polio vaccine in 1955
+    - [Smallpox declared eradicated in 1980](https://en.wikipedia.org/wiki/Smallpox)
+  - Schedules
+    - Most doses given in childhood
+    - Teen doses like HPV and boosters
+    - Yearly flu shots for many adults
+    - Travel vaccines for some destinations
+  - Safety
+    - Tested in staged clinical trials
+    - Sore arm or mild fever common
+    - Serious reactions are rare
+    - Monitored after approval for side effects
+  - Impact
+    - [Herd immunity protects the unvaccinated](https://en.wikipedia.org/wiki/Herd_immunity)
+    - Saves millions of lives each year
+    - Measles returns when coverage falls

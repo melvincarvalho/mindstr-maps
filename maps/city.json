@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "City",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#yztj34",
+      "name": "What makes a city",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ky3hra",
+      "name": "Large, dense, permanent settlement",
+      "x": -444,
+      "y": -56,
+      "parent": "#yztj34"
+    },
+    {
+      "@id": "#bdaraa",
+      "name": "Most people work outside farming",
+      "x": -401,
+      "y": -163,
+      "parent": "#yztj34"
+    },
+    {
+      "@id": "#nzug54",
+      "name": "Definitions and thresholds vary by country",
+      "x": -318,
+      "y": -255,
+      "parent": "#yztj34"
+    },
+    {
+      "@id": "#grzr9k",
+      "name": "Some titles granted by charter",
+      "x": -204,
+      "y": -321,
+      "parent": "#yztj34"
+    },
+    {
+      "@id": "#iv284y",
+      "name": "First cities",
+      "x": 71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mqv36v",
+      "name": "Uruk in Mesopotamia, about 4000 BCE",
+      "x": -73,
+      "y": -372,
+      "link": "https://en.wikipedia.org/wiki/Uruk",
+      "parent": "#iv284y"
+    },
+    {
+      "@id": "#eqd8wz",
+      "name": "Grew from farming surpluses",
+      "x": 82,
+      "y": -420,
+      "parent": "#iv284y"
+    },
+    {
+      "@id": "#kakhkw",
+      "name": "Mohenjo-daro and the Indus cities",
+      "x": 204,
+      "y": -321,
+      "parent": "#iv284y"
+    },
+    {
+      "@id": "#3ebrx3",
+      "name": "Rome reached about a million people",
+      "x": 318,
+      "y": -255,
+      "parent": "#iv284y"
+    },
+    {
+      "@id": "#hkbr9x",
+      "name": "Types",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gvfcdw",
+      "name": "Capital and administrative cities",
+      "x": 401,
+      "y": -163,
+      "parent": "#hkbr9x"
+    },
+    {
+      "@id": "#vvhawu",
+      "name": "Port and trading cities",
+      "x": 444,
+      "y": -56,
+      "parent": "#hkbr9x"
+    },
+    {
+      "@id": "#axpp89",
+      "name": "Industrial cities of the 1800s",
+      "x": 444,
+      "y": 56,
+      "parent": "#hkbr9x"
+    },
+    {
+      "@id": "#4qnz3h",
+      "name": "Global cities like London and New York",
+      "x": 401,
+      "y": 163,
+      "link": "https://en.wikipedia.org/wiki/Global_city",
+      "parent": "#hkbr9x"
+    },
+    {
+      "@id": "#hzd5s4",
+      "name": "Measuring size",
+      "x": 104,
+      "y": 164,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xjkg9b",
+      "name": "City proper within legal limits",
+      "x": 318,
+      "y": 255,
+      "parent": "#hzd5s4"
+    },
+    {
+      "@id": "#euggxu",
+      "name": "Urban area of continuous buildup",
+      "x": 204,
+      "y": 321,
+      "parent": "#hzd5s4"
+    },
+    {
+      "@id": "#wh2g6j",
+      "name": "Metropolitan area includes commuter belt",
+      "x": 73,
+      "y": 372,
+      "parent": "#hzd5s4"
+    },
+    {
+      "@id": "#7x9q3s",
+      "name": "Largest cities",
+      "x": -104,
+      "y": 164,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nrhhwp",
+      "name": "Tokyo, Delhi, Shanghai top rankings",
+      "x": -82,
+      "y": 420,
+      "link": "https://en.wikipedia.org/wiki/List_of_largest_cities",
+      "parent": "#7x9q3s"
+    },
+    {
+      "@id": "#zqtrt7",
+      "name": "Megacities have over 10 million",
+      "x": -204,
+      "y": 321,
+      "link": "https://en.wikipedia.org/wiki/Megacity",
+      "parent": "#7x9q3s"
+    },
+    {
+      "@id": "#eu53as",
+      "name": "Most fast growth in Asia and Africa",
+      "x": -318,
+      "y": 255,
+      "parent": "#7x9q3s"
+    },
+    {
+      "@id": "#4ts7yu",
+      "name": "Upsides and downsides",
+      "x": -219,
+      "y": 57,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2yz432",
+      "name": "Jobs, ideas and culture concentrate",
+      "x": -401,
+      "y": 163,
+      "parent": "#4ts7yu"
+    },
+    {
+      "@id": "#jhj2va",
+      "name": "Congestion, pollution and high rents",
+      "x": -544,
+      "y": 66,
+      "parent": "#4ts7yu"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,31 @@
+category: Science
+aliases: high energy physics, high-energy physics, elementary particle physics
+- Particle physics
+  - What it studies
+    - The smallest building blocks of matter
+    - The forces acting between them
+    - Why the universe looks as it does
+  - The particles found so far
+    - Quarks build protons and neutrons
+    - Leptons include electrons and neutrinos
+    - Force carriers like photons and gluons
+    - [Higgs boson confirmed in 2012](https://en.wikipedia.org/wiki/Higgs_boson)
+    - Every particle has an antimatter partner
+  - How physicists find them
+    - [Particle accelerators smash beams together](https://en.wikipedia.org/wiki/Particle_accelerator)
+    - [Large Hadron Collider: 27 km ring](https://en.wikipedia.org/wiki/Large_Hadron_Collider)
+    - Detectors track debris from collisions
+    - Cosmic rays brought early discoveries
+  - Key moments
+    - Electron discovered, 1897
+    - Positron, the first antiparticle, 1932
+    - Quark model proposed, 1964
+    - [Standard Model assembled in the 1970s](https://en.wikipedia.org/wiki/Standard_Model)
+  - Open questions
+    - [What is dark matter?](https://en.wikipedia.org/wiki/Dark_matter)
+    - Why matter outnumbers antimatter
+    - Why neutrinos have tiny masses
+    - How gravity fits in
+  - Spin-offs in daily life
+    - The World Wide Web, born at CERN
+    - PET scans and cancer proton therapy

@@ -1,0 +1,31 @@
+category: Health
+aliases: physical exercise, physical activity, benefits of exercise, how much exercise
+- Exercise
+  - Why it matters
+    - Strengthens heart and lungs
+    - Lowers risk of diabetes and some cancers
+    - Lifts mood and eases anxiety
+    - Keeps bones and muscles strong
+  - How much adults need
+    - 150 minutes moderate activity weekly
+    - Or 75 minutes of vigorous activity
+    - Muscle strengthening on two days
+    - Sit less, move more through the day
+  - Main types
+    - [Aerobic: walking, cycling, swimming](https://en.wikipedia.org/wiki/Aerobic_exercise)
+    - [Strength: weights or bodyweight moves](https://en.wikipedia.org/wiki/Strength_training)
+    - Flexibility: stretching and yoga
+    - Balance work, important with age
+  - Getting started
+    - Begin gently and build up slowly
+    - Choose something you enjoy
+    - Fit it into daily routines
+    - Check with a doctor if unwell
+  - Staying safe
+    - Warm up and cool down
+    - Drink water and rest between sessions
+    - Stop if you feel chest pain
+  - What happens in the body
+    - Muscles use oxygen to release energy
+    - [Endorphins and better sleep](https://en.wikipedia.org/wiki/Endorphins)
+    - The body adapts and gets fitter

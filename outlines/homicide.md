@@ -1,0 +1,30 @@
+category: Society
+aliases: murder and manslaughter, killing in law, homicide law
+- Homicide
+  - What it means
+    - One person causing another's death
+    - Not every homicide is a crime
+    - Categories differ between legal systems
+  - Unlawful homicide
+    - [Murder: killing with intent](https://en.wikipedia.org/wiki/Murder)
+    - [Manslaughter: less culpable killing](https://en.wikipedia.org/wiki/Manslaughter)
+    - Causing death by dangerous driving
+    - Infanticide in some legal systems
+  - Lawful homicide
+    - Self-defence with reasonable force
+    - Killing in lawful war
+    - Lawful executions where retained
+  - Global picture
+    - About 400,000 to 450,000 victims yearly
+    - [Highest rates in Latin America, southern Africa](https://en.wikipedia.org/wiki/List_of_countries_by_intentional_homicide_rate)
+    - Most victims and offenders are men
+    - Many victims know their killer
+  - Risk factors
+    - Gang and organised crime conflict
+    - Access to firearms
+    - Domestic and intimate partner violence
+    - Weak rule of law and inequality
+  - Investigation and justice
+    - Coroners or medical examiners certify deaths
+    - Forensic science and detective work
+    - Usually the heaviest sentences in law

@@ -1,0 +1,352 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Poetry",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#gg98hy",
+      "name": "What poetry is",
+      "x": -211,
+      "y": -73,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yrcfif",
+      "name": "Language shaped by sound and rhythm",
+      "x": -486,
+      "y": -53,
+      "parent": "#gg98hy"
+    },
+    {
+      "@id": "#adttwq",
+      "name": "Compresses meaning into few words",
+      "x": -413,
+      "y": -143,
+      "parent": "#gg98hy"
+    },
+    {
+      "@id": "#na6vd5",
+      "name": "Lines and stanzas, not paragraphs",
+      "x": -349,
+      "y": -227,
+      "parent": "#gg98hy"
+    },
+    {
+      "@id": "#6utvp3",
+      "name": "Sound",
+      "x": -47,
+      "y": -180,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fgnszs",
+      "name": "Metre: patterns of stressed syllables",
+      "x": -260,
+      "y": -294,
+      "link": "https://en.wikipedia.org/wiki/Metre_%28poetry%29",
+      "parent": "#6utvp3"
+    },
+    {
+      "@id": "#hsj7b6",
+      "name": "Rhyme links line endings",
+      "x": -158,
+      "y": -354,
+      "parent": "#6utvp3"
+    },
+    {
+      "@id": "#egc6wt",
+      "name": "Alliteration repeats opening sounds",
+      "x": -34,
+      "y": -407,
+      "parent": "#6utvp3"
+    },
+    {
+      "@id": "#qrmg6p",
+      "name": "Free verse drops fixed metre",
+      "x": 120,
+      "y": -464,
+      "parent": "#6utvp3"
+    },
+    {
+      "@id": "#st57q5",
+      "name": "Imagery and figures",
+      "x": 157,
+      "y": -134,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#34qch4",
+      "name": "Metaphor and simile compare things",
+      "x": 207,
+      "y": -320,
+      "parent": "#st57q5"
+    },
+    {
+      "@id": "#m7fm4g",
+      "name": "Concrete images appeal to senses",
+      "x": 307,
+      "y": -263,
+      "parent": "#st57q5"
+    },
+    {
+      "@id": "#nrvhwj",
+      "name": "Symbols carry layered meanings",
+      "x": 384,
+      "y": -187,
+      "parent": "#st57q5"
+    },
+    {
+      "@id": "#m4jp59",
+      "name": "Forms",
+      "x": 221,
+      "y": 50,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#un6ii5",
+      "name": "Sonnet: 14 rhymed lines",
+      "x": 433,
+      "y": -97,
+      "link": "https://en.wikipedia.org/wiki/Sonnet",
+      "parent": "#m4jp59"
+    },
+    {
+      "@id": "#3qqi74",
+      "name": "Haiku: three short lines, from Japan",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Haiku",
+      "parent": "#m4jp59"
+    },
+    {
+      "@id": "#xdkrv8",
+      "name": "Epic: long heroic narrative",
+      "x": 433,
+      "y": 97,
+      "parent": "#m4jp59"
+    },
+    {
+      "@id": "#r93yew",
+      "name": "Ballad tells a story in song",
+      "x": 384,
+      "y": 187,
+      "parent": "#m4jp59"
+    },
+    {
+      "@id": "#gv5xxb",
+      "name": "Ode praises, elegy mourns",
+      "x": 307,
+      "y": 263,
+      "parent": "#m4jp59"
+    },
+    {
+      "@id": "#24c72m",
+      "name": "History",
+      "x": -16,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ha8rgx",
+      "name": "Oral epics: Gilgamesh, Homer's Iliad",
+      "x": 207,
+      "y": 320,
+      "link": "https://en.wikipedia.org/wiki/Iliad",
+      "parent": "#24c72m"
+    },
+    {
+      "@id": "#q7fx2q",
+      "name": "China's ancient Classic of Poetry",
+      "x": 96,
+      "y": 368,
+      "parent": "#24c72m"
+    },
+    {
+      "@id": "#r9xp8n",
+      "name": "Persian masters Rumi and Hafez",
+      "x": -35,
+      "y": 423,
+      "parent": "#24c72m"
+    },
+    {
+      "@id": "#5ebqzy",
+      "name": "Romantics: Wordsworth, Keats, Shelley",
+      "x": -214,
+      "y": 474,
+      "parent": "#24c72m"
+    },
+    {
+      "@id": "#42j6yu",
+      "name": "Modernists: T. S. Eliot, Ezra Pound",
+      "x": -260,
+      "y": 294,
+      "parent": "#24c72m"
+    },
+    {
+      "@id": "#snqmga",
+      "name": "Reading a poem",
+      "x": -211,
+      "y": 73,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3sza6v",
+      "name": "Read it aloud, slowly",
+      "x": -349,
+      "y": 227,
+      "parent": "#snqmga"
+    },
+    {
+      "@id": "#a8jb5g",
+      "name": "Notice line breaks and pauses",
+      "x": -413,
+      "y": 143,
+      "parent": "#snqmga"
+    },
+    {
+      "@id": "#rjb772",
+      "name": "Ask who speaks, and to whom",
+      "x": -466,
+      "y": 51,
+      "parent": "#snqmga"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 14,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 20,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    },
+    {
+      "start": 26,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

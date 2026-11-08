@@ -1,0 +1,30 @@
+category: Philosophy and religion
+aliases: mahayana buddhism, great vehicle buddhism, mahayana tradition
+- Mahayana
+  - What it is
+    - "Great Vehicle" branch of Buddhism
+    - Emerged in India around 1st century BCE
+    - Largest Buddhist tradition today
+  - Key ideas
+    - [Bodhisattva path to free all beings](https://en.wikipedia.org/wiki/Bodhisattva)
+    - [Emptiness: nothing has fixed essence](https://en.wikipedia.org/wiki/%C5%9A%C5%AB%C3%B1yat%C4%81)
+    - Buddha-nature present in all beings
+    - Compassion joined with wisdom
+    - Many buddhas in many worlds
+  - Scriptures
+    - Perfection of Wisdom sutras
+    - Heart Sutra and Diamond Sutra
+    - [Lotus Sutra](https://en.wikipedia.org/wiki/Lotus_Sutra)
+    - Written in Sanskrit, translated to Chinese
+  - Philosophers
+    - [Nagarjuna founded Madhyamaka](https://en.wikipedia.org/wiki/Nagarjuna)
+    - Asanga and Vasubandhu founded Yogacara
+  - Schools in East Asia
+    - [Zen (Chan) stresses meditation](https://en.wikipedia.org/wiki/Zen)
+    - Pure Land relies on Amitabha Buddha
+    - Tiantai and Huayan systems
+    - Nichiren centres on the Lotus Sutra
+  - Where it spread
+    - China, Korea, Japan, Vietnam
+    - Tibet's Vajrayana grew from Mahayana
+    - Silk Road carried it east

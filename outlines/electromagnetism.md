@@ -1,0 +1,27 @@
+category: Science
+aliases: electromagnetic force, electromagnetism explained, electromagnetic theory
+- Electromagnetism
+  - One force behind electricity and magnetism
+    - [One of four fundamental forces](https://en.wikipedia.org/wiki/Fundamental_interaction)
+    - Acts between electrically charged particles
+    - Like charges repel, opposite charges attract
+    - Holds atoms and molecules together
+  - Moving charges make magnetism
+    - Electric current creates a magnetic field
+    - Magnetic force pushes on moving charges
+    - Coiled wire becomes an electromagnet
+    - [Ørsted saw a compass needle twitch, 1820](https://en.wikipedia.org/wiki/Hans_Christian_%C3%98rsted)
+  - Changing magnetism makes electricity
+    - [Faraday discovered induction in 1831](https://en.wikipedia.org/wiki/Electromagnetic_induction)
+    - Spinning magnets in generators make power
+    - Transformers change voltage for power lines
+  - Light is an electromagnetic wave
+    - [Maxwell's equations unified it, 1860s](https://en.wikipedia.org/wiki/Maxwell%27s_equations)
+    - Travels at about 300,000 km per second
+    - [Spectrum from radio waves to gamma rays](https://en.wikipedia.org/wiki/Electromagnetic_spectrum)
+    - Visible light is a narrow slice
+  - Everyday uses
+    - Electric motors in fans and cars
+    - Speakers, MRI scanners and maglev trains
+    - Radio, Wi-Fi and phones send signals
+    - Microwave ovens heat food with waves

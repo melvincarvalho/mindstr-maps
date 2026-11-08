@@ -1,0 +1,29 @@
+category: Mathematics
+aliases: mathematical variable, variables in maths, algebraic variable
+- Variable (mathematics)
+  - What a variable is
+    - A symbol standing for a number
+    - Usually a letter like x or n
+    - Its value can change or be unknown
+  - Roles a variable plays
+    - Unknown to find: x+5 = 9
+    - General rule: a+b = b+a
+    - Quantity that varies, like time
+  - Variables in functions
+    - [Independent variable is the input](https://en.wikipedia.org/wiki/Dependent_and_independent_variables)
+    - Dependent variable is the output
+    - y = 2x: y depends on x
+  - Variables versus constants
+    - [Constants stay fixed, like π](https://en.wikipedia.org/wiki/Constant_%28mathematics%29)
+    - Parameters are fixed per problem
+    - Coefficients multiply variables, as in 3x
+  - Naming conventions
+    - Descartes: x, y, z for unknowns
+    - Early alphabet letters for known values
+    - Viète first used letters, 1590s
+    - Greek letters for angles: θ
+  - Variables elsewhere
+    - [Random variables in probability](https://en.wikipedia.org/wiki/Random_variable)
+    - Free and bound variables in logic
+    - [Programming variables store changing values](https://en.wikipedia.org/wiki/Variable_%28computer_science%29)
+    - Variables measured in experiments

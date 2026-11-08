@@ -1,0 +1,31 @@
+category: Philosophy and religion
+aliases: world religions, religions of the world, major religions
+- Religion
+  - What religions usually involve
+    - Beliefs about the sacred or divine
+    - Worship, prayer and ritual
+    - Moral codes for how to live
+    - Communities, clergy and sacred texts
+  - Largest traditions today
+    - Christianity: about 2.3 billion people
+    - Islam: about 2 billion people
+    - Hinduism: about 1.2 billion people
+    - Buddhism, Sikhism, Judaism and many more
+  - Families of traditions
+    - [Abrahamic: Judaism, Christianity, Islam](https://en.wikipedia.org/wiki/Abrahamic_religions)
+    - Indian: Hinduism, Buddhism, Jainism, Sikhism
+    - East Asian: Taoism, Confucianism, Shinto
+    - Indigenous and folk religions worldwide
+  - Through history
+    - Prehistoric burials hint at early beliefs
+    - [Axial Age: new teachings, c. 800–200 BCE](https://en.wikipedia.org/wiki/Axial_Age)
+    - Founders and scriptures shaped lasting faiths
+    - Trade, missions and empires spread religions
+  - Non-religious views
+    - [Nearly a quarter of people are unaffiliated](https://en.wikipedia.org/wiki/Irreligion)
+    - Atheism, agnosticism and secular humanism
+    - [Secularism separates religion and state](https://en.wikipedia.org/wiki/Secularism)
+  - Studying religion
+    - [Comparative religion looks across traditions](https://en.wikipedia.org/wiki/Comparative_religion)
+    - Sociology examines religion's role in society
+    - Theology reasons from within a faith

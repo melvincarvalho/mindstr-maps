@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Sheep",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#c9p2qc",
+      "name": "The animal",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m4qwwi",
+      "name": "Domestic sheep: Ovis aries",
+      "x": -445,
+      "y": -54,
+      "parent": "#c9p2qc"
+    },
+    {
+      "@id": "#fmq5hc",
+      "name": "Ruminant with four-chambered stomach",
+      "x": -405,
+      "y": -156,
+      "parent": "#c9p2qc"
+    },
+    {
+      "@id": "#hb3p88",
+      "name": "Flock animals that follow a leader",
+      "x": -330,
+      "y": -245,
+      "parent": "#c9p2qc"
+    },
+    {
+      "@id": "#mdm5ia",
+      "name": "Male ram, female ewe, young lamb",
+      "x": -225,
+      "y": -312,
+      "parent": "#c9p2qc"
+    },
+    {
+      "@id": "#bdbc7j",
+      "name": "Origins",
+      "x": 17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fhzwcy",
+      "name": "Domesticated from mouflon about 10,000 years ago",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Mouflon",
+      "parent": "#bdbc7j"
+    },
+    {
+      "@id": "#54nh4r",
+      "name": "First kept in the Fertile Crescent",
+      "x": 42,
+      "y": -423,
+      "parent": "#bdbc7j"
+    },
+    {
+      "@id": "#eb537k",
+      "name": "Among the earliest domesticated livestock",
+      "x": 234,
+      "y": -485,
+      "parent": "#bdbc7j"
+    },
+    {
+      "@id": "#r8vdm8",
+      "name": "Products",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2phuze",
+      "name": "Wool shorn about once a year",
+      "x": 281,
+      "y": -281,
+      "link": "https://en.wikipedia.org/wiki/Wool",
+      "parent": "#r8vdm8"
+    },
+    {
+      "@id": "#uhn4ts",
+      "name": "Meat: lamb and mutton",
+      "x": 372,
+      "y": -203,
+      "parent": "#r8vdm8"
+    },
+    {
+      "@id": "#v3ubcn",
+      "name": "Milk for cheeses like feta, Roquefort",
+      "x": 468,
+      "y": -116,
+      "parent": "#r8vdm8"
+    },
+    {
+      "@id": "#7dmu2r",
+      "name": "Sheepskin and lanolin",
+      "x": 450,
+      "y": 0,
+      "parent": "#r8vdm8"
+    },
+    {
+      "@id": "#pvqnfh",
+      "name": "Breeds",
+      "x": 190,
+      "y": 104,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gpi4bg",
+      "name": "Over 1,000 breeds worldwide",
+      "x": 430,
+      "y": 106,
+      "parent": "#pvqnfh"
+    },
+    {
+      "@id": "#953zih",
+      "name": "Merino prized for fine wool",
+      "x": 372,
+      "y": 203,
+      "link": "https://en.wikipedia.org/wiki/Merino",
+      "parent": "#pvqnfh"
+    },
+    {
+      "@id": "#5pybrm",
+      "name": "Hair sheep need no shearing",
+      "x": 281,
+      "y": 281,
+      "parent": "#pvqnfh"
+    },
+    {
+      "@id": "#zxzi75",
+      "name": "Farming year",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r96an4",
+      "name": "Autumn mating, spring lambing in temperate areas",
+      "x": 164,
+      "y": 335,
+      "parent": "#zxzi75"
+    },
+    {
+      "@id": "#7ga64h",
+      "name": "Grazing on grass and hill pasture",
+      "x": 38,
+      "y": 391,
+      "parent": "#zxzi75"
+    },
+    {
+      "@id": "#m7cqjm",
+      "name": "Herding with sheepdogs like border collies",
+      "x": -124,
+      "y": 447,
+      "parent": "#zxzi75"
+    },
+    {
+      "@id": "#gz9w8u",
+      "name": "Watch for worms, foot rot, flystrike",
+      "x": -365,
+      "y": 508,
+      "parent": "#zxzi75"
+    },
+    {
+      "@id": "#gsqre4",
+      "name": "Sheep in culture and science",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6rkv6g",
+      "name": "Dolly: first mammal cloned from adult cell",
+      "x": -330,
+      "y": 245,
+      "link": "https://en.wikipedia.org/wiki/Dolly_%28sheep%29",
+      "parent": "#gsqre4"
+    },
+    {
+      "@id": "#fa8hbr",
+      "name": "About 1.2 billion sheep worldwide",
+      "x": -405,
+      "y": 156,
+      "parent": "#gsqre4"
+    },
+    {
+      "@id": "#utjk7z",
+      "name": "Lamb a symbol in many religions",
+      "x": -525,
+      "y": 62,
+      "parent": "#gsqre4"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

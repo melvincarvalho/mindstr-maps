@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Inorganic chemistry",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#c6a84t",
+      "name": "What it covers",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#87pip4",
+      "name": "Compounds mostly not built on carbon",
+      "x": -484,
+      "y": -60,
+      "parent": "#c6a84t"
+    },
+    {
+      "@id": "#gf68jg",
+      "name": "Metals, minerals, salts and gases",
+      "x": -401,
+      "y": -163,
+      "parent": "#c6a84t"
+    },
+    {
+      "@id": "#hgxwu8",
+      "name": "Some carbon too: CO₂, carbonates",
+      "x": -318,
+      "y": -255,
+      "parent": "#c6a84t"
+    },
+    {
+      "@id": "#729kid",
+      "name": "Metals and transition metals",
+      "x": -36,
+      "y": -182,
+      "link": "https://en.wikipedia.org/wiki/Transition_metal",
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#szwf9v",
+      "name": "Iron, copper and gold in daily use",
+      "x": -204,
+      "y": -321,
+      "parent": "#729kid"
+    },
+    {
+      "@id": "#xabz35",
+      "name": "Transition metals form coloured compounds",
+      "x": -73,
+      "y": -372,
+      "parent": "#729kid"
+    },
+    {
+      "@id": "#kbq4u2",
+      "name": "Coordination complexes: ligands around metals",
+      "x": 82,
+      "y": -420,
+      "link": "https://en.wikipedia.org/wiki/Coordination_complex",
+      "parent": "#729kid"
+    },
+    {
+      "@id": "#9iqf4z",
+      "name": "Salts, acids and bases",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mvf7g5",
+      "name": "Table salt is sodium chloride",
+      "x": 204,
+      "y": -321,
+      "parent": "#9iqf4z"
+    },
+    {
+      "@id": "#gczt39",
+      "name": "Sulfuric acid, a top industrial chemical",
+      "x": 318,
+      "y": -255,
+      "parent": "#9iqf4z"
+    },
+    {
+      "@id": "#2vq8f6",
+      "name": "Limestone, lime and soda for glass",
+      "x": 455,
+      "y": -184,
+      "parent": "#9iqf4z"
+    },
+    {
+      "@id": "#vhs3vd",
+      "name": "Main group elements",
+      "x": 227,
+      "y": 29,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#se5xic",
+      "name": "Silicon in sand, glass and chips",
+      "x": 444,
+      "y": -56,
+      "parent": "#vhs3vd"
+    },
+    {
+      "@id": "#dinq9a",
+      "name": "Nitrogen and phosphorus in fertilisers",
+      "x": 544,
+      "y": 66,
+      "parent": "#vhs3vd"
+    },
+    {
+      "@id": "#7cruwf",
+      "name": "Noble gases rarely react",
+      "x": 401,
+      "y": 163,
+      "parent": "#vhs3vd"
+    },
+    {
+      "@id": "#evrmfm",
+      "name": "Industry and materials",
+      "x": 71,
+      "y": 175,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rnd9bs",
+      "name": "Haber process makes ammonia",
+      "x": 318,
+      "y": 255,
+      "link": "https://en.wikipedia.org/wiki/Haber_process",
+      "parent": "#evrmfm"
+    },
+    {
+      "@id": "#kqg782",
+      "name": "Catalytic converters use platinum metals",
+      "x": 204,
+      "y": 321,
+      "parent": "#evrmfm"
+    },
+    {
+      "@id": "#3rdf6r",
+      "name": "Cement, ceramics and glass",
+      "x": 73,
+      "y": 372,
+      "parent": "#evrmfm"
+    },
+    {
+      "@id": "#dnfevh",
+      "name": "Lithium-ion batteries power phones",
+      "x": -82,
+      "y": 420,
+      "parent": "#evrmfm"
+    },
+    {
+      "@id": "#fmqqh8",
+      "name": "Life and medicine",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#39zd42",
+      "name": "Iron in haemoglobin carries oxygen",
+      "x": -204,
+      "y": 321,
+      "parent": "#fmqqh8"
+    },
+    {
+      "@id": "#vz2jnb",
+      "name": "Calcium phosphate builds bones",
+      "x": -318,
+      "y": 255,
+      "parent": "#fmqqh8"
+    },
+    {
+      "@id": "#fas7f8",
+      "name": "Cisplatin treats some cancers",
+      "x": -401,
+      "y": 163,
+      "link": "https://en.wikipedia.org/wiki/Cisplatin",
+      "parent": "#fmqqh8"
+    },
+    {
+      "@id": "#s7rthy",
+      "name": "Lithium salts treat bipolar disorder",
+      "x": -444,
+      "y": 56,
+      "parent": "#fmqqh8"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

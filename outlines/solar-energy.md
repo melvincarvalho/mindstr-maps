@@ -1,0 +1,31 @@
+category: Technology
+aliases: solar power, solar panels, photovoltaics, solar electricity
+- Solar energy
+  - How it works
+    - [Photovoltaic cells turn light into electricity](https://en.wikipedia.org/wiki/Photovoltaics)
+    - Silicon cells free electrons when lit
+    - Inverters convert DC to AC
+    - [Concentrated solar uses mirrors to make steam](https://en.wikipedia.org/wiki/Concentrated_solar_power)
+    - Solar water heaters warm water directly
+  - Where it is used
+    - Rooftop panels on homes and businesses
+    - Large solar farms feed the grid
+    - Off-grid power for remote areas
+  - Share of world energy
+    - About 2% of primary energy
+    - About 7% of world electricity
+    - Fastest-growing source of electricity
+    - China installs the most by far
+  - Pros
+    - No emissions while generating
+    - Panel costs fell about 90% since 2010
+    - Quick to build at any scale
+    - Little maintenance, no fuel needed
+  - Cons
+    - Only generates in daylight
+    - Output varies with weather and season
+    - Needs batteries or backup for night
+    - Large farms use a lot of land
+  - Storage and grids
+    - [Batteries shift solar power into evening](https://en.wikipedia.org/wiki/Battery_storage_power_station)
+    - Wider grids smooth out local clouds

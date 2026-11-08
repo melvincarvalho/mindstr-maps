@@ -1,0 +1,28 @@
+category: Technology
+aliases: cell phone, cellphone, cellular phone, mobile phones, history of mobile phones
+- Mobile phone
+  - What it is
+    - Portable phone using radio, not wires
+    - [Talks to nearby cell towers](https://en.wikipedia.org/wiki/Cellular_network)
+    - Calls hand over as you move
+  - Early history
+    - Car radiotelephones from the 1940s
+    - First cellular network, Japan, 1979
+    - [Motorola DynaTAC on sale, 1983](https://en.wikipedia.org/wiki/Motorola_DynaTAC)
+  - Generations of networks
+    - 1G: analogue voice, 1980s
+    - [2G GSM brought text messages](https://en.wikipedia.org/wiki/GSM)
+    - 3G: mobile internet, 2000s
+    - 4G and 5G: fast data, video
+  - Kinds of phones
+    - Brick phones, then flip phones
+    - Feature phones with keypads
+    - [Touchscreen smartphones since 2007](https://en.wikipedia.org/wiki/Smartphone)
+  - Everyday uses
+    - Calls, texts and messaging apps
+    - Maps, photos and payments
+    - [Mobile money like M-Pesa in Kenya](https://en.wikipedia.org/wiki/M-Pesa)
+  - Impact
+    - Billions of people own one
+    - Many countries skipped landlines entirely
+    - Worries: distraction, screen time, privacy

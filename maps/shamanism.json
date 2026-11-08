@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Shamanism",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#hmhiud",
+      "name": "What it is",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#meqxzf",
+      "name": "A practitioner contacts the spirit world",
+      "x": -485,
+      "y": -58,
+      "parent": "#hmhiud"
+    },
+    {
+      "@id": "#sxeezv",
+      "name": "Healer and guide for the community",
+      "x": -405,
+      "y": -156,
+      "parent": "#hmhiud"
+    },
+    {
+      "@id": "#hwrbd6",
+      "name": "Found among many hunting and herding peoples",
+      "x": -330,
+      "y": -245,
+      "parent": "#hmhiud"
+    },
+    {
+      "@id": "#kyq3b5",
+      "name": "Origin of the word",
+      "x": -51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k8k3if",
+      "name": "From Evenki, a Siberian Tungusic language",
+      "x": -225,
+      "y": -312,
+      "parent": "#kyq3b5"
+    },
+    {
+      "@id": "#ftsufq",
+      "name": "Reached European languages in the 1600s",
+      "x": -104,
+      "y": -367,
+      "parent": "#kyq3b5"
+    },
+    {
+      "@id": "#z8c8tt",
+      "name": "Scholars debate applying it worldwide",
+      "x": 42,
+      "y": -423,
+      "parent": "#kyq3b5"
+    },
+    {
+      "@id": "#sq799z",
+      "name": "Core practices",
+      "x": 190,
+      "y": -104,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2sjuf4",
+      "name": "Trance and altered states of consciousness",
+      "x": 234,
+      "y": -485,
+      "link": "https://en.wikipedia.org/wiki/Altered_state_of_consciousness",
+      "parent": "#sq799z"
+    },
+    {
+      "@id": "#va3f8x",
+      "name": "Drumming, chanting and dancing",
+      "x": 281,
+      "y": -281,
+      "parent": "#sq799z"
+    },
+    {
+      "@id": "#mkv3xk",
+      "name": "Spirit journeys to other worlds",
+      "x": 372,
+      "y": -203,
+      "parent": "#sq799z"
+    },
+    {
+      "@id": "#3n52ct",
+      "name": "Healing by retrieving lost souls",
+      "x": 468,
+      "y": -116,
+      "parent": "#sq799z"
+    },
+    {
+      "@id": "#svffsy",
+      "name": "Some use plants like ayahuasca",
+      "x": 450,
+      "y": 0,
+      "parent": "#sq799z"
+    },
+    {
+      "@id": "#b3kenz",
+      "name": "Beliefs about the world",
+      "x": 190,
+      "y": 104,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wgtn7f",
+      "name": "Spirits in animals, plants and places",
+      "x": 525,
+      "y": 131,
+      "parent": "#b3kenz"
+    },
+    {
+      "@id": "#3gqyhq",
+      "name": "Layered cosmos: upper, middle, lower worlds",
+      "x": 372,
+      "y": 203,
+      "parent": "#b3kenz"
+    },
+    {
+      "@id": "#sxtgf4",
+      "name": "Animal spirit helpers and guardians",
+      "x": 281,
+      "y": 281,
+      "parent": "#b3kenz"
+    },
+    {
+      "@id": "#3nef25",
+      "name": "Where it is found",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#umztvy",
+      "name": "Siberia and Central Asia",
+      "x": 164,
+      "y": 335,
+      "parent": "#3nef25"
+    },
+    {
+      "@id": "#3deafz",
+      "name": "Indigenous Americas, including Amazonia",
+      "x": 38,
+      "y": 391,
+      "parent": "#3nef25"
+    },
+    {
+      "@id": "#h7waw8",
+      "name": "Korea's mudang, mostly women",
+      "x": -124,
+      "y": 447,
+      "link": "https://en.wikipedia.org/wiki/Korean_shamanism",
+      "parent": "#3nef25"
+    },
+    {
+      "@id": "#q8f3zs",
+      "name": "Sámi noaidi in northern Scandinavia",
+      "x": -225,
+      "y": 312,
+      "parent": "#3nef25"
+    },
+    {
+      "@id": "#r43i4g",
+      "name": "Study and revival",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vcsx3p",
+      "name": "Mircea Eliade: \"archaic techniques of ecstasy\"",
+      "x": -330,
+      "y": 245,
+      "link": "https://en.wikipedia.org/wiki/Mircea_Eliade",
+      "parent": "#r43i4g"
+    },
+    {
+      "@id": "#wdnbn3",
+      "name": "Neoshamanism in Western spirituality",
+      "x": -405,
+      "y": 156,
+      "link": "https://en.wikipedia.org/wiki/Neoshamanism",
+      "parent": "#r43i4g"
+    },
+    {
+      "@id": "#hhpaa9",
+      "name": "Debate over cultural appropriation",
+      "x": -505,
+      "y": 60,
+      "parent": "#r43i4g"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 9,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

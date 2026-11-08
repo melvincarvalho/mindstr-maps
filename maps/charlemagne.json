@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Charlemagne",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#79fgtv",
+      "name": "Who he was",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#69gwjt",
+      "name": "King of the Franks from 768",
+      "x": -445,
+      "y": -54,
+      "parent": "#79fgtv"
+    },
+    {
+      "@id": "#v9diaj",
+      "name": "Born about 747, died 814",
+      "x": -405,
+      "y": -156,
+      "parent": "#79fgtv"
+    },
+    {
+      "@id": "#fb8ray",
+      "name": "Leading ruler of the Carolingian dynasty",
+      "x": -330,
+      "y": -245,
+      "link": "https://en.wikipedia.org/wiki/Carolingian_dynasty",
+      "parent": "#79fgtv"
+    },
+    {
+      "@id": "#g86njc",
+      "name": "Capital and palace at Aachen",
+      "x": -225,
+      "y": -312,
+      "parent": "#79fgtv"
+    },
+    {
+      "@id": "#jkpjbg",
+      "name": "Conquests",
+      "x": 51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#auxm99",
+      "name": "Took the Lombard crown in 774",
+      "x": -104,
+      "y": -367,
+      "parent": "#jkpjbg"
+    },
+    {
+      "@id": "#mtf7pb",
+      "name": "Saxon Wars, about 30 years",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Saxon_Wars",
+      "parent": "#jkpjbg"
+    },
+    {
+      "@id": "#frxu5a",
+      "name": "Forced Saxons' conversion, Verden massacre",
+      "x": 234,
+      "y": -485,
+      "parent": "#jkpjbg"
+    },
+    {
+      "@id": "#w6bpg4",
+      "name": "Ambush at Roncevaux inspired Song of Roland",
+      "x": 281,
+      "y": -281,
+      "parent": "#jkpjbg"
+    },
+    {
+      "@id": "#eastem",
+      "name": "Emperor",
+      "x": 220,
+      "y": -54,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8gejzn",
+      "name": "Crowned by Pope Leo III, 800",
+      "x": 372,
+      "y": -203,
+      "link": "https://en.wikipedia.org/wiki/Coronation_of_Charlemagne",
+      "parent": "#eastem"
+    },
+    {
+      "@id": "#6ey4rt",
+      "name": "First western emperor in three centuries",
+      "x": 430,
+      "y": -106,
+      "parent": "#eastem"
+    },
+    {
+      "@id": "#6kcgaf",
+      "name": "Ruled much of Western Europe",
+      "x": 450,
+      "y": 0,
+      "parent": "#eastem"
+    },
+    {
+      "@id": "#9pdwr2",
+      "name": "Government",
+      "x": 190,
+      "y": 104,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4bh8nh",
+      "name": "Counts ran local districts",
+      "x": 430,
+      "y": 106,
+      "parent": "#9pdwr2"
+    },
+    {
+      "@id": "#ujxym8",
+      "name": "Missi dominici inspected for the king",
+      "x": 372,
+      "y": 203,
+      "parent": "#9pdwr2"
+    },
+    {
+      "@id": "#nqzeh4",
+      "name": "Pound, shilling and penny coinage",
+      "x": 281,
+      "y": 281,
+      "parent": "#9pdwr2"
+    },
+    {
+      "@id": "#mvgihc",
+      "name": "Carolingian Renaissance",
+      "x": -17,
+      "y": 183,
+      "link": "https://en.wikipedia.org/wiki/Carolingian_Renaissance",
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6tc6gg",
+      "name": "Scholars like Alcuin of York",
+      "x": 164,
+      "y": 335,
+      "parent": "#mvgihc"
+    },
+    {
+      "@id": "#6rcnes",
+      "name": "Monks copied classical texts",
+      "x": 38,
+      "y": 391,
+      "parent": "#mvgihc"
+    },
+    {
+      "@id": "#9mm9in",
+      "name": "Carolingian minuscule, clearer handwriting",
+      "x": -124,
+      "y": 447,
+      "parent": "#mvgihc"
+    },
+    {
+      "@id": "#jhbiqu",
+      "name": "Schools at monasteries and cathedrals",
+      "x": -225,
+      "y": 312,
+      "parent": "#mvgihc"
+    },
+    {
+      "@id": "#zbwpki",
+      "name": "Legacy",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9tj44g",
+      "name": "Son Louis the Pious succeeded",
+      "x": -330,
+      "y": 245,
+      "parent": "#zbwpki"
+    },
+    {
+      "@id": "#8pktt7",
+      "name": "Treaty of Verdun split empire, 843",
+      "x": -405,
+      "y": 156,
+      "parent": "#zbwpki"
+    },
+    {
+      "@id": "#aibisu",
+      "name": "Called the Father of Europe",
+      "x": -445,
+      "y": 54,
+      "parent": "#zbwpki"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Acid",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#5kr7gs",
+      "name": "What makes an acid",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tj7qzb",
+      "name": "Releases hydrogen ions in water",
+      "x": -485,
+      "y": -55,
+      "parent": "#5kr7gs"
+    },
+    {
+      "@id": "#t3dtdj",
+      "name": "Brønsted–Lowry: donates a proton",
+      "x": -409,
+      "y": -150,
+      "link": "https://en.wikipedia.org/wiki/Br%C3%B8nsted%E2%80%93Lowry_acid%E2%80%93base_theory",
+      "parent": "#5kr7gs"
+    },
+    {
+      "@id": "#krceaz",
+      "name": "Lewis: accepts a pair of electrons",
+      "x": -340,
+      "y": -236,
+      "parent": "#5kr7gs"
+    },
+    {
+      "@id": "#7trnqg",
+      "name": "Measuring acidity",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zdtyph",
+      "name": "pH below 7 is acidic",
+      "x": -243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/PH",
+      "parent": "#7trnqg"
+    },
+    {
+      "@id": "#ew46tn",
+      "name": "Each pH step is tenfold stronger",
+      "x": -133,
+      "y": -360,
+      "parent": "#7trnqg"
+    },
+    {
+      "@id": "#8mbzay",
+      "name": "Litmus paper turns red",
+      "x": 0,
+      "y": -408,
+      "parent": "#7trnqg"
+    },
+    {
+      "@id": "#8gjvw9",
+      "name": "Universal indicator shows colour by pH",
+      "x": 175,
+      "y": -465,
+      "parent": "#7trnqg"
+    },
+    {
+      "@id": "#jji78v",
+      "name": "Strong and weak acids",
+      "x": 174,
+      "y": -120,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#f8hnv7",
+      "name": "Strong acids split up completely",
+      "x": 243,
+      "y": -303,
+      "parent": "#jji78v"
+    },
+    {
+      "@id": "#nt4hvr",
+      "name": "Weak acids only partly ionise",
+      "x": 340,
+      "y": -236,
+      "parent": "#jji78v"
+    },
+    {
+      "@id": "#fm7vt6",
+      "name": "Concentration is different from strength",
+      "x": 463,
+      "y": -171,
+      "parent": "#jji78v"
+    },
+    {
+      "@id": "#vfya8k",
+      "name": "How acids behave",
+      "x": 221,
+      "y": 52,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uyyvvu",
+      "name": "Taste sour, like lemons",
+      "x": 445,
+      "y": -51,
+      "parent": "#vfya8k"
+    },
+    {
+      "@id": "#b794eb",
+      "name": "React with metals releasing hydrogen",
+      "x": 525,
+      "y": 59,
+      "parent": "#vfya8k"
+    },
+    {
+      "@id": "#97uie9",
+      "name": "Fizz with carbonates, giving carbon dioxide",
+      "x": 409,
+      "y": 150,
+      "parent": "#vfya8k"
+    },
+    {
+      "@id": "#hky2we",
+      "name": "Neutralised by bases into salt and water",
+      "x": 340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/Neutralization_%28chemistry%29",
+      "parent": "#vfya8k"
+    },
+    {
+      "@id": "#xn2upd",
+      "name": "Acids around us",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e7ds5c",
+      "name": "Citric acid in citrus fruit",
+      "x": 243,
+      "y": 303,
+      "parent": "#xn2upd"
+    },
+    {
+      "@id": "#e2uium",
+      "name": "Acetic acid makes vinegar sour",
+      "x": 133,
+      "y": 360,
+      "parent": "#xn2upd"
+    },
+    {
+      "@id": "#zegn2k",
+      "name": "Stomach acid is hydrochloric acid",
+      "x": 0,
+      "y": 408,
+      "parent": "#xn2upd"
+    },
+    {
+      "@id": "#h9t3vd",
+      "name": "Sulfuric acid: most-produced industrial chemical",
+      "x": -175,
+      "y": 465,
+      "link": "https://en.wikipedia.org/wiki/Sulfuric_acid",
+      "parent": "#xn2upd"
+    },
+    {
+      "@id": "#cqhrcp",
+      "name": "Carbonic acid gives fizzy drinks bite",
+      "x": -243,
+      "y": 303,
+      "parent": "#xn2upd"
+    },
+    {
+      "@id": "#est3xq",
+      "name": "Safety",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rqakby",
+      "name": "Strong acids burn skin and eyes",
+      "x": -340,
+      "y": 236,
+      "parent": "#est3xq"
+    },
+    {
+      "@id": "#3r94rc",
+      "name": "Wear goggles and gloves",
+      "x": -409,
+      "y": 150,
+      "parent": "#est3xq"
+    },
+    {
+      "@id": "#xmct25",
+      "name": "Add acid to water, never reverse",
+      "x": -445,
+      "y": 51,
+      "parent": "#est3xq"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 19,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

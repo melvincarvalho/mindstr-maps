@@ -1,0 +1,30 @@
+category: Science
+aliases: mammals, mammalia, what is a mammal
+- Mammal
+  - What makes a mammal
+    - [Mothers feed young with milk](https://en.wikipedia.org/wiki/Mammary_gland)
+    - Hair or fur at some life stage
+    - Warm-blooded with a large brain
+    - Three tiny middle-ear bones
+  - Three groups
+    - [Monotremes lay eggs: platypus, echidnas](https://en.wikipedia.org/wiki/Monotreme)
+    - [Marsupials raise young in pouches](https://en.wikipedia.org/wiki/Marsupial)
+    - Placentals: nearly all other mammals
+  - Diversity
+    - About 6,500 living species
+    - Rodents and bats are most of them
+    - Blue whale is largest animal ever
+    - Bats are the only flying mammals
+  - History
+    - First mammals, about 200 million years ago
+    - Small and nocturnal alongside dinosaurs
+    - Spread out after dinosaurs died out
+    - Humans are primates, a mammal order
+  - Behaviour
+    - Long parental care of young
+    - Many live in social groups
+    - Some hibernate through winter
+  - Mammals and humans
+    - Dogs, cattle, horses and others domesticated
+    - Livestock provide meat, milk and labour
+    - Many large mammals hunted to extinction

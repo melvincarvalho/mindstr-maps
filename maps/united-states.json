@@ -1,0 +1,364 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "United States",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#6ampb2",
+      "name": "Geography",
+      "x": -182,
+      "y": -112,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8h3vj6",
+      "name": "50 states plus Washington, D.C.",
+      "x": -446,
+      "y": -47,
+      "parent": "#6ampb2"
+    },
+    {
+      "@id": "#hc7giy",
+      "name": "One of the largest countries by area",
+      "x": -452,
+      "y": -150,
+      "parent": "#6ampb2"
+    },
+    {
+      "@id": "#bygjdn",
+      "name": "Appalachians in east, Rockies in west",
+      "x": -357,
+      "y": -219,
+      "parent": "#6ampb2"
+    },
+    {
+      "@id": "#hhfhbe",
+      "name": "Mississippi–Missouri is the main river system",
+      "x": -274,
+      "y": -286,
+      "parent": "#6ampb2"
+    },
+    {
+      "@id": "#w5sg2v",
+      "name": "Alaska and Hawaii lie beyond mainland",
+      "x": -180,
+      "y": -348,
+      "parent": "#6ampb2"
+    },
+    {
+      "@id": "#f3uiaz",
+      "name": "People and languages",
+      "x": 60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wnwc7i",
+      "name": "About 340 million people, third-largest",
+      "x": -68,
+      "y": -405,
+      "parent": "#f3uiaz"
+    },
+    {
+      "@id": "#w8vm2m",
+      "name": "English most spoken, Spanish second",
+      "x": 77,
+      "y": -453,
+      "parent": "#f3uiaz"
+    },
+    {
+      "@id": "#3yq5hf",
+      "name": "A nation shaped by immigration",
+      "x": 172,
+      "y": -333,
+      "parent": "#f3uiaz"
+    },
+    {
+      "@id": "#bwjx2t",
+      "name": "New York, Los Angeles, Chicago largest cities",
+      "x": 370,
+      "y": -390,
+      "parent": "#f3uiaz"
+    },
+    {
+      "@id": "#uznbw2",
+      "name": "History",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tsgvxs",
+      "name": "Native American peoples for millennia",
+      "x": 373,
+      "y": -229,
+      "link": "https://en.wikipedia.org/wiki/Native_Americans_in_the_United_States",
+      "parent": "#uznbw2"
+    },
+    {
+      "@id": "#ctgtgc",
+      "name": "Thirteen British colonies on Atlantic coast",
+      "x": 416,
+      "y": -138,
+      "parent": "#uznbw2"
+    },
+    {
+      "@id": "#mfkiim",
+      "name": "Independence declared in 1776",
+      "x": 466,
+      "y": -49,
+      "link": "https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence",
+      "parent": "#uznbw2"
+    },
+    {
+      "@id": "#9sxbmr",
+      "name": "Civil War 1861–1865 ended slavery",
+      "x": 466,
+      "y": 49,
+      "link": "https://en.wikipedia.org/wiki/American_Civil_War",
+      "parent": "#uznbw2"
+    },
+    {
+      "@id": "#bauec5",
+      "name": "Civil rights movement of 1950s–60s",
+      "x": 416,
+      "y": 138,
+      "link": "https://en.wikipedia.org/wiki/Civil_rights_movement",
+      "parent": "#uznbw2"
+    },
+    {
+      "@id": "#v2yiu2",
+      "name": "Global superpower after World War II",
+      "x": 357,
+      "y": 219,
+      "parent": "#uznbw2"
+    },
+    {
+      "@id": "#v7jxvm",
+      "name": "Government",
+      "x": 88,
+      "y": 170,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5fpgas",
+      "name": "Federal republic under the 1787 Constitution",
+      "x": 274,
+      "y": 286,
+      "link": "https://en.wikipedia.org/wiki/Constitution_of_the_United_States",
+      "parent": "#v7jxvm"
+    },
+    {
+      "@id": "#bucfxf",
+      "name": "Congress, President and Supreme Court",
+      "x": 180,
+      "y": 348,
+      "parent": "#v7jxvm"
+    },
+    {
+      "@id": "#gjcn5k",
+      "name": "Two main parties: Democrats and Republicans",
+      "x": 68,
+      "y": 405,
+      "parent": "#v7jxvm"
+    },
+    {
+      "@id": "#63rhji",
+      "name": "Economy",
+      "x": -88,
+      "y": 170,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bm7dkd",
+      "name": "Largest economy by nominal GDP",
+      "x": -77,
+      "y": 453,
+      "parent": "#63rhji"
+    },
+    {
+      "@id": "#e4j8jr",
+      "name": "Technology, finance, energy and farming",
+      "x": -268,
+      "y": 513,
+      "parent": "#63rhji"
+    },
+    {
+      "@id": "#wu7zbp",
+      "name": "US dollar is main reserve currency",
+      "x": -274,
+      "y": 286,
+      "parent": "#63rhji"
+    },
+    {
+      "@id": "#s3m5di",
+      "name": "Culture",
+      "x": -212,
+      "y": 70,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qke2jp",
+      "name": "Hollywood films and television",
+      "x": -357,
+      "y": 219,
+      "parent": "#s3m5di"
+    },
+    {
+      "@id": "#z442it",
+      "name": "Jazz, blues, rock and hip hop",
+      "x": -416,
+      "y": 138,
+      "parent": "#s3m5di"
+    },
+    {
+      "@id": "#pf6y32",
+      "name": "American football, baseball and basketball",
+      "x": -486,
+      "y": 51,
+      "parent": "#s3m5di"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 7,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 12,
+      "end": 16
+    },
+    {
+      "start": 12,
+      "end": 17
+    },
+    {
+      "start": 12,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 0,
+      "end": 27
+    },
+    {
+      "start": 27,
+      "end": 28
+    },
+    {
+      "start": 27,
+      "end": 29
+    },
+    {
+      "start": 27,
+      "end": 30
+    }
+  ],
+  "selectedNode": 0
+}

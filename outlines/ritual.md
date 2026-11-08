@@ -1,0 +1,31 @@
+category: Philosophy and religion
+aliases: rituals, religious rituals
+- Ritual
+  - What a ritual is
+    - Set actions repeated in a fixed way
+    - Symbolic rather than practical meaning
+    - Religious or secular, public or private
+  - Rites of passage
+    - [Separation, transition, then incorporation](https://en.wikipedia.org/wiki/Rite_of_passage)
+    - Birth and naming ceremonies
+    - Coming of age: bar mitzvah, confirmation
+    - Weddings join couples and families
+    - Funerals mark death and mourning
+  - Religious rituals
+    - Christian sacraments like baptism, Eucharist
+    - [Hajj pilgrimage to Mecca](https://en.wikipedia.org/wiki/Hajj)
+    - Hindu puja offerings to deities
+    - Fasting seasons like Ramadan and Lent
+  - Seasonal and civic rituals
+    - Harvest and new year festivals
+    - National days and parades
+    - Graduations, oaths and inaugurations
+  - Why rituals matter
+    - [Durkheim: they bind communities together](https://en.wikipedia.org/wiki/%C3%89mile_Durkheim)
+    - Mark changes in social status
+    - Ease anxiety in uncertain times
+    - Pass on values across generations
+  - Everyday rituals
+    - Greetings, handshakes and toasts
+    - Birthday cakes and candles
+    - Personal routines before big events

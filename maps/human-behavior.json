@@ -1,0 +1,342 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Human behavior",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#4ipfuq",
+      "name": "What shapes behavior",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#amihj9",
+      "name": "Genes and heredity",
+      "x": -445,
+      "y": -51,
+      "parent": "#4ipfuq"
+    },
+    {
+      "@id": "#2xwgi9",
+      "name": "Upbringing and environment",
+      "x": -409,
+      "y": -150,
+      "parent": "#4ipfuq"
+    },
+    {
+      "@id": "#zis5z4",
+      "name": "Nature and nurture work together",
+      "x": -340,
+      "y": -236,
+      "link": "https://en.wikipedia.org/wiki/Nature_versus_nurture",
+      "parent": "#4ipfuq"
+    },
+    {
+      "@id": "#fwrtjc",
+      "name": "Culture sets norms and expectations",
+      "x": -243,
+      "y": -303,
+      "parent": "#4ipfuq"
+    },
+    {
+      "@id": "#axfbnn",
+      "name": "Motives and drives",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ez3aii",
+      "name": "Basic needs: food, safety, sleep",
+      "x": -133,
+      "y": -360,
+      "parent": "#axfbnn"
+    },
+    {
+      "@id": "#tnpbj7",
+      "name": "Belonging and social connection",
+      "x": 0,
+      "y": -408,
+      "parent": "#axfbnn"
+    },
+    {
+      "@id": "#znsa4g",
+      "name": "Maslow's hierarchy: popular but debated",
+      "x": 175,
+      "y": -465,
+      "link": "https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs",
+      "parent": "#axfbnn"
+    },
+    {
+      "@id": "#6jkibi",
+      "name": "Emotions push us to act",
+      "x": 243,
+      "y": -303,
+      "parent": "#axfbnn"
+    },
+    {
+      "@id": "#hqxftn",
+      "name": "Learning shapes behavior",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#58jxvy",
+      "name": "Classical conditioning: Pavlov's dogs",
+      "x": 340,
+      "y": -236,
+      "link": "https://en.wikipedia.org/wiki/Classical_conditioning",
+      "parent": "#hqxftn"
+    },
+    {
+      "@id": "#6sypfm",
+      "name": "Operant conditioning: rewards and punishments",
+      "x": 409,
+      "y": -150,
+      "parent": "#hqxftn"
+    },
+    {
+      "@id": "#u625ug",
+      "name": "Copying others: observational learning",
+      "x": 565,
+      "y": -63,
+      "parent": "#hqxftn"
+    },
+    {
+      "@id": "#4inj47",
+      "name": "Habits form through repetition",
+      "x": 445,
+      "y": 51,
+      "parent": "#hqxftn"
+    },
+    {
+      "@id": "#jpctxb",
+      "name": "Social behavior",
+      "x": 151,
+      "y": 139,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rc9w24",
+      "name": "Conformity to group pressure",
+      "x": 409,
+      "y": 150,
+      "parent": "#jpctxb"
+    },
+    {
+      "@id": "#7njqnj",
+      "name": "Obedience to authority",
+      "x": 340,
+      "y": 236,
+      "parent": "#jpctxb"
+    },
+    {
+      "@id": "#ujwebf",
+      "name": "Cooperation, altruism and reciprocity",
+      "x": 243,
+      "y": 303,
+      "parent": "#jpctxb"
+    },
+    {
+      "@id": "#65kjuq",
+      "name": "Aggression and conflict",
+      "x": 133,
+      "y": 360,
+      "parent": "#jpctxb"
+    },
+    {
+      "@id": "#wjsds8",
+      "name": "Decision-making quirks",
+      "x": -71,
+      "y": 192,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dv8ixb",
+      "name": "Losses feel bigger than equal gains",
+      "x": 0,
+      "y": 408,
+      "parent": "#wjsds8"
+    },
+    {
+      "@id": "#q75y4a",
+      "name": "Defaults and framing steer choices",
+      "x": -175,
+      "y": 465,
+      "parent": "#wjsds8"
+    },
+    {
+      "@id": "#4d32jg",
+      "name": "Present bias: now over later",
+      "x": -243,
+      "y": 303,
+      "parent": "#wjsds8"
+    },
+    {
+      "@id": "#m326jh",
+      "name": "Studying behavior",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bk8cbh",
+      "name": "Psychology, sociology and anthropology",
+      "x": -355,
+      "y": 246,
+      "parent": "#m326jh"
+    },
+    {
+      "@id": "#75xcgf",
+      "name": "Behavioral economics tests real choices",
+      "x": -409,
+      "y": 150,
+      "link": "https://en.wikipedia.org/wiki/Behavioral_economics",
+      "parent": "#m326jh"
+    },
+    {
+      "@id": "#tfjwgr",
+      "name": "Some famous findings failed to replicate",
+      "x": -525,
+      "y": 59,
+      "link": "https://en.wikipedia.org/wiki/Replication_crisis",
+      "parent": "#m326jh"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

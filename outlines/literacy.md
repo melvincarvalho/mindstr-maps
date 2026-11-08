@@ -1,0 +1,30 @@
+category: Society
+aliases: reading and writing skills, adult literacy, literacy rate
+- Literacy
+  - Reading and writing with understanding
+    - Functional literacy: coping with everyday texts
+    - Often paired with numeracy
+    - Digital and media literacy extend it
+  - History
+    - [Writing invented about 3200 BC](https://en.wikipedia.org/wiki/History_of_writing)
+    - For millennia only scribes and elites read
+    - [Printing press around 1440 spread books](https://en.wikipedia.org/wiki/Printing_press)
+    - Mass schooling made reading common after 1800
+  - The world today
+    - About 87% of adults can read
+    - [About 750 million adults cannot](https://en.wikipedia.org/wiki/Literacy)
+    - Nearly two-thirds of them are women
+    - Lowest rates in sub-Saharan Africa, South Asia
+  - How children learn to read
+    - Hearing sounds in words comes first
+    - [Phonics links letters to sounds](https://en.wikipedia.org/wiki/Phonics)
+    - Vocabulary and fluency build comprehension
+    - Reading aloud at home helps
+  - Barriers
+    - [Dyslexia affects roughly 5–10% of people](https://en.wikipedia.org/wiki/Dyslexia)
+    - Poverty and lack of schooling
+    - Little reading material in home language
+  - Why it matters
+    - Higher earnings and employment
+    - Better health for families
+    - Access to news, rights and voting

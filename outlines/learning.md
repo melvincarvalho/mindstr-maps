@@ -1,0 +1,30 @@
+category: Society
+aliases: how we learn, how learning works, psychology of learning, science of learning
+- Learning
+  - What learning is
+    - A lasting change from experience
+    - [Synapses strengthen with use: neuroplasticity](https://en.wikipedia.org/wiki/Neuroplasticity)
+  - Ways we learn
+    - Association: linking events, like Pavlov's dogs
+    - Reinforcement: rewards and consequences
+    - [Watching and copying others](https://en.wikipedia.org/wiki/Observational_learning)
+    - Practice makes skills automatic
+    - Language and teaching pass on knowledge
+  - Across life
+    - Infants learn by exploring and playing
+    - [Piaget's stages of child development](https://en.wikipedia.org/wiki/Piaget%27s_theory_of_cognitive_development)
+    - Adults keep learning throughout life
+  - What works, per the evidence
+    - Space study out over days
+    - [Retrieval practice: test yourself](https://en.wikipedia.org/wiki/Testing_effect)
+    - Mix problem types: interleaving
+    - Explain ideas in your own words
+    - Sleep consolidates what you learned
+  - Popular myths
+    - [Learning styles: no good evidence](https://en.wikipedia.org/wiki/Learning_styles)
+    - Rereading and highlighting feel effective, aren't
+    - No "left-brained" or "right-brained" learners
+  - Motivation and mindset
+    - Curiosity and interest aid memory
+    - Feedback shows what to fix
+    - Growth mindset: effects smaller than claimed

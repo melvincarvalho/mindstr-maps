@@ -1,0 +1,31 @@
+category: Mathematics
+aliases: proofs in maths, how to write a proof, math proof
+- Mathematical proof
+  - What a proof is
+    - Argument showing a statement must be true
+    - Built from axioms and earlier results
+    - Covers every case, not just tests
+  - Common methods
+    - [Direct proof: step by step](https://en.wikipedia.org/wiki/Direct_proof)
+    - [Contradiction: assume false, reach absurdity](https://en.wikipedia.org/wiki/Proof_by_contradiction)
+    - [Induction: first case, then next](https://en.wikipedia.org/wiki/Mathematical_induction)
+    - Contrapositive: prove "not B, so not A"
+    - Counterexample disproves a general claim
+  - Famous examples
+    - Infinitely many primes, by Euclid
+    - Root 2 is not a fraction
+    - Pythagoras' theorem, hundreds of proofs
+    - Fermat's Last Theorem, Wiles 1994
+  - Writing a proof
+    - State exactly what you assume
+    - Try small examples first
+    - Each step follows from previous ones
+    - Finish by stating what was shown
+  - History
+    - Greek geometers made proof central
+    - Euclid's Elements, about 300 BC
+    - Gödel: some truths cannot be proved
+  - Proof today
+    - [Computers check proofs formally](https://en.wikipedia.org/wiki/Proof_assistant)
+    - Four colour theorem used computers, 1976
+    - Peer review checks new proofs

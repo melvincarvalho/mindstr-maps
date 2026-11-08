@@ -1,0 +1,309 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Perception",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#z6ycqz",
+      "name": "From senses to experience",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#35kq6p",
+      "name": "Sense organs turn energy into nerve signals",
+      "x": -564,
+      "y": -77,
+      "parent": "#z6ycqz"
+    },
+    {
+      "@id": "#icg453",
+      "name": "Brain interprets signals as a world",
+      "x": -396,
+      "y": -171,
+      "parent": "#z6ycqz"
+    },
+    {
+      "@id": "#xxrvkm",
+      "name": "Balance and body position are senses too",
+      "x": -305,
+      "y": -265,
+      "link": "https://en.wikipedia.org/wiki/Proprioception",
+      "parent": "#z6ycqz"
+    },
+    {
+      "@id": "#i2r4si",
+      "name": "Vision",
+      "x": -19,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#s4kfgp",
+      "name": "Lens focuses light onto the retina",
+      "x": -181,
+      "y": -330,
+      "parent": "#i2r4si"
+    },
+    {
+      "@id": "#sn9gyp",
+      "name": "Rods for dim light, cones for colour",
+      "x": -41,
+      "y": -391,
+      "parent": "#i2r4si"
+    },
+    {
+      "@id": "#35acxu",
+      "name": "Depth from two eyes and cues",
+      "x": 140,
+      "y": -445,
+      "link": "https://en.wikipedia.org/wiki/Depth_perception",
+      "parent": "#i2r4si"
+    },
+    {
+      "@id": "#3ywgz8",
+      "name": "The brain fills in",
+      "x": 202,
+      "y": -88,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#deswz6",
+      "name": "Expectations shape what we see",
+      "x": 246,
+      "y": -301,
+      "parent": "#3ywgz8"
+    },
+    {
+      "@id": "#maidce",
+      "name": "Gestalt: we see wholes, not parts",
+      "x": 355,
+      "y": -221,
+      "link": "https://en.wikipedia.org/wiki/Gestalt_psychology",
+      "parent": "#3ywgz8"
+    },
+    {
+      "@id": "#hj2xiq",
+      "name": "Each eye's blind spot goes unnoticed",
+      "x": 502,
+      "y": -137,
+      "parent": "#3ywgz8"
+    },
+    {
+      "@id": "#isjt8m",
+      "name": "Optical illusions reveal the brain's shortcuts",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Optical_illusion",
+      "parent": "#3ywgz8"
+    },
+    {
+      "@id": "#xyv7xv",
+      "name": "Attention filters it",
+      "x": 182,
+      "y": 113,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e6ngj4",
+      "name": "We notice only a fraction",
+      "x": 445,
+      "y": 122,
+      "parent": "#xyv7xv"
+    },
+    {
+      "@id": "#tbdn2u",
+      "name": "Inattentional blindness: missing the gorilla",
+      "x": 355,
+      "y": 221,
+      "link": "https://en.wikipedia.org/wiki/Inattentional_blindness",
+      "parent": "#xyv7xv"
+    },
+    {
+      "@id": "#ytv7as",
+      "name": "Cocktail party effect: hearing your name",
+      "x": 246,
+      "y": 301,
+      "parent": "#xyv7xv"
+    },
+    {
+      "@id": "#9x33av",
+      "name": "The other senses",
+      "x": -19,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xn6p79",
+      "name": "Hearing: pitch, loudness and direction",
+      "x": 110,
+      "y": 349,
+      "parent": "#9x33av"
+    },
+    {
+      "@id": "#aqpvxg",
+      "name": "Smell and taste combine into flavour",
+      "x": -43,
+      "y": 407,
+      "parent": "#9x33av"
+    },
+    {
+      "@id": "#3wpihb",
+      "name": "Touch, pain and temperature",
+      "x": -253,
+      "y": 465,
+      "parent": "#9x33av"
+    },
+    {
+      "@id": "#3sb7iu",
+      "name": "Differences between people",
+      "x": -202,
+      "y": 88,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nerehi",
+      "name": "About 1 in 12 men colour-blind",
+      "x": -305,
+      "y": 265,
+      "parent": "#3sb7iu"
+    },
+    {
+      "@id": "#kp99k8",
+      "name": "Synaesthesia: senses blending together",
+      "x": -396,
+      "y": 171,
+      "parent": "#3sb7iu"
+    },
+    {
+      "@id": "#twipzs",
+      "name": "Culture and experience tune perception",
+      "x": -544,
+      "y": 74,
+      "parent": "#3sb7iu"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

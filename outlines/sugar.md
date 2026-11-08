@@ -1,0 +1,30 @@
+category: Life and home
+aliases: table sugar, sucrose, cane sugar, added sugar
+- Sugar
+  - What sugar is
+    - Sweet carbohydrates made by plants
+    - [Table sugar is sucrose](https://en.wikipedia.org/wiki/Sucrose)
+    - Sucrose splits into glucose and fructose
+    - Lactose in milk, fructose in fruit
+  - Where it comes from
+    - [Sugarcane grown in warm tropics](https://en.wikipedia.org/wiki/Sugarcane)
+    - Sugar beet grown in cooler climates
+    - Juice is boiled, crystallised, refined
+    - Brazil and India grow the most
+  - A brief history
+    - Sugarcane first domesticated in New Guinea
+    - Crystallised sugar developed in India
+    - [Caribbean plantations relied on enslaved labour](https://en.wikipedia.org/wiki/Atlantic_slave_trade)
+    - Once a luxury, now cheap everywhere
+  - Sugar and health
+    - Excess linked to weight gain
+    - [Feeds bacteria that cause tooth decay](https://en.wikipedia.org/wiki/Tooth_decay)
+    - WHO: free sugars under 10% of energy
+    - Sugary drinks are a major source
+  - In the kitchen
+    - Browns and caramelises when heated
+    - Preserves jam by binding water
+    - Feeds yeast so bread rises
+  - Alternatives
+    - Honey and syrups are still sugars
+    - [Sweeteners give sweetness with few calories](https://en.wikipedia.org/wiki/Sugar_substitute)

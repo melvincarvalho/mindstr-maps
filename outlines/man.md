@@ -1,0 +1,31 @@
+category: Life and home
+aliases: men, adult male, human male, manhood
+- Man
+  - Definition
+    - An adult human male
+    - "Boy" is used before adulthood
+    - Can also refer to gender identity
+    - About half the world's population
+  - Biology
+    - [Usually one X and one Y chromosome](https://en.wikipedia.org/wiki/Y_chromosome)
+    - [Testosterone drives male puberty](https://en.wikipedia.org/wiki/Testosterone)
+    - Taller and more muscular on average
+    - Deeper voice and facial hair
+  - Health
+    - Live about 5 years less than women
+    - Heart disease tends to strike earlier
+    - [Prostate cancer common in older men](https://en.wikipedia.org/wiki/Prostate_cancer)
+    - Men seek medical help less often
+    - Suicide rates higher than women's
+  - Roles in society
+    - Traditional roles: provider and protector
+    - Roles shifting as more women work
+    - Fathers more involved in childcare
+  - Masculinity
+    - [Ideas of manliness vary by culture](https://en.wikipedia.org/wiki/Masculinity)
+    - Rites of passage into manhood
+    - Debates over what healthy masculinity means
+  - History and culture
+    - Men held most formal power historically
+    - Men's Sheds support friendship and wellbeing
+    - [Mars symbol ♂ represents male](https://en.wikipedia.org/wiki/Gender_symbol)

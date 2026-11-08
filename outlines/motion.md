@@ -1,0 +1,29 @@
+category: Science
+aliases: physics of motion, kinematics, motion in physics
+- Motion
+  - Describing motion
+    - Position: where something is
+    - Speed: distance per unit time
+    - [Velocity: speed with a direction](https://en.wikipedia.org/wiki/Velocity)
+    - [Acceleration: how fast velocity changes](https://en.wikipedia.org/wiki/Acceleration)
+  - Motion is relative
+    - Always measured against a reference frame
+    - On a train, your coffee seems still
+    - Earth spins and orbits as we sit
+  - Kinds of motion
+    - Straight-line, like a sliding puck
+    - Projectile arcs, like a thrown ball
+    - Circular, like a car on a roundabout
+    - Oscillation, like a swinging pendulum
+    - Rotation, like a spinning top
+  - What changes motion
+    - Forces change motion; they don't sustain it
+    - Galileo: without friction, objects keep moving
+    - [Newton's laws explain how forces act](https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion)
+  - Equations of motion in words
+    - Distance equals speed times time
+    - Falling speed grows 9.8 m/s each second
+    - Momentum is mass times velocity
+  - Beyond everyday motion
+    - Near light speed, relativity takes over
+    - [Brownian motion: particles jostled by molecules](https://en.wikipedia.org/wiki/Brownian_motion)

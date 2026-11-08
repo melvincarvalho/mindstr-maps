@@ -1,0 +1,32 @@
+category: People
+aliases: picasso, picasso paintings, picasso artist
+- Pablo Picasso
+  - Who he was
+    - Spanish artist, born Málaga 1881
+    - Died 1973 in France, aged 91
+    - Lived mostly in France from 1904
+    - Painter, sculptor, printmaker, ceramicist
+  - Early periods
+    - Child prodigy trained by his father
+    - Blue Period 1901–04: poverty and grief
+    - Rose Period 1904–06: circus performers
+  - [Cubism](https://en.wikipedia.org/wiki/Cubism)
+    - [Les Demoiselles d'Avignon, 1907](https://en.wikipedia.org/wiki/Les_Demoiselles_d%27Avignon)
+    - Developed with Georges Braque
+    - Objects shown from many viewpoints
+    - Collage and papier collé, from 1912
+  - Later directions
+    - Neoclassical figures after World War I
+    - Close to the Surrealists
+    - [Guernica, 1937, protests bombing](https://en.wikipedia.org/wiki/Guernica_%28Picasso%29)
+    - Joined the French Communist Party, 1944
+  - Life
+    - Many relationships, often mirrored in art
+    - Muses included Dora Maar, Marie-Thérèse Walter
+    - Treatment of partners now widely criticised
+    - Four children with three women
+  - Legacy
+    - Tens of thousands of works overall
+    - Among the most influential 20th-century artists
+    - Museums in Barcelona, Paris and Málaga
+    - Paintings sell for over $100 million

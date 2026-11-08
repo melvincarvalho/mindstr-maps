@@ -1,0 +1,31 @@
+category: Society
+aliases: how politics works, politics explained, what is politics
+- Politics
+  - What it is
+    - How groups make collective decisions
+    - Who gets power and resources
+    - Resolving disagreements without violence
+  - Systems of government
+    - [Democracy: rule by the people](https://en.wikipedia.org/wiki/Democracy)
+    - Monarchy: rule by a hereditary sovereign
+    - Authoritarianism concentrates power
+    - Presidential and parliamentary systems
+  - How power is organised
+    - [Separation of powers](https://en.wikipedia.org/wiki/Separation_of_powers)
+    - Legislature makes laws
+    - Executive carries them out
+    - Courts interpret laws
+    - Constitutions set the rules
+  - Political participation
+    - Voting in elections
+    - [Political parties compete for office](https://en.wikipedia.org/wiki/Political_party)
+    - Interest groups and lobbying
+    - Protests and civil society
+  - Ideologies
+    - [Left–right political spectrum](https://en.wikipedia.org/wiki/Left%E2%80%93right_political_spectrum)
+    - Liberalism, conservatism, socialism
+    - Nationalism and environmentalism
+  - Levels of politics
+    - Local councils and mayors
+    - National governments
+    - International bodies like the UN

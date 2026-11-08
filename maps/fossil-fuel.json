@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Fossil fuel",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#7jvjn5",
+      "name": "How they formed",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wbwmf7",
+      "name": "Ancient plants and plankton buried",
+      "x": -484,
+      "y": -60,
+      "parent": "#7jvjn5"
+    },
+    {
+      "@id": "#rsu229",
+      "name": "Heat and pressure over millions of years",
+      "x": -401,
+      "y": -163,
+      "parent": "#7jvjn5"
+    },
+    {
+      "@id": "#zyki95",
+      "name": "Much coal from Carboniferous swamps",
+      "x": -318,
+      "y": -255,
+      "parent": "#7jvjn5"
+    },
+    {
+      "@id": "#ne9a5i",
+      "name": "The three main fuels",
+      "x": -36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#en45tq",
+      "name": "Coal: power stations and steel",
+      "x": -204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Coal",
+      "parent": "#ne9a5i"
+    },
+    {
+      "@id": "#6iijjh",
+      "name": "Oil: transport fuels and plastics",
+      "x": -73,
+      "y": -372,
+      "link": "https://en.wikipedia.org/wiki/Petroleum",
+      "parent": "#ne9a5i"
+    },
+    {
+      "@id": "#cbhmp6",
+      "name": "Natural gas: heating and electricity",
+      "x": 82,
+      "y": -420,
+      "link": "https://en.wikipedia.org/wiki/Natural_gas",
+      "parent": "#ne9a5i"
+    },
+    {
+      "@id": "#kphbqi",
+      "name": "Role in the world",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bjhw84",
+      "name": "About 80% of global energy supply",
+      "x": 204,
+      "y": -321,
+      "parent": "#kphbqi"
+    },
+    {
+      "@id": "#gjim8k",
+      "name": "Powered the Industrial Revolution",
+      "x": 318,
+      "y": -255,
+      "parent": "#kphbqi"
+    },
+    {
+      "@id": "#6qrvi6",
+      "name": "Feedstock for plastics and fertiliser",
+      "x": 455,
+      "y": -184,
+      "parent": "#kphbqi"
+    },
+    {
+      "@id": "#xhj2kq",
+      "name": "Extraction",
+      "x": 227,
+      "y": 29,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ttay7n",
+      "name": "Underground and open-pit coal mines",
+      "x": 444,
+      "y": -56,
+      "parent": "#xhj2kq"
+    },
+    {
+      "@id": "#iptgjh",
+      "name": "Oil and gas wells, onshore and offshore",
+      "x": 504,
+      "y": 62,
+      "parent": "#xhj2kq"
+    },
+    {
+      "@id": "#ymtiwi",
+      "name": "Fracking unlocks shale oil and gas",
+      "x": 401,
+      "y": 163,
+      "link": "https://en.wikipedia.org/wiki/Hydraulic_fracturing",
+      "parent": "#xhj2kq"
+    },
+    {
+      "@id": "#ns9xww",
+      "name": "Problems",
+      "x": 71,
+      "y": 175,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hmfngw",
+      "name": "Biggest source of CO₂ emissions",
+      "x": 318,
+      "y": 255,
+      "parent": "#ns9xww"
+    },
+    {
+      "@id": "#pp8qif",
+      "name": "Air pollution harms health",
+      "x": 204,
+      "y": 321,
+      "parent": "#ns9xww"
+    },
+    {
+      "@id": "#grugp9",
+      "name": "Oil spills and mining damage",
+      "x": 73,
+      "y": 372,
+      "parent": "#ns9xww"
+    },
+    {
+      "@id": "#bdiizh",
+      "name": "Finite: not replaced on human timescales",
+      "x": -82,
+      "y": 420,
+      "parent": "#ns9xww"
+    },
+    {
+      "@id": "#bj6r3p",
+      "name": "Moving away",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9qhpgx",
+      "name": "Renewables often cheapest new power",
+      "x": -204,
+      "y": 321,
+      "parent": "#bj6r3p"
+    },
+    {
+      "@id": "#q2cdg8",
+      "name": "Paris Agreement and net-zero targets",
+      "x": -318,
+      "y": 255,
+      "parent": "#bj6r3p"
+    },
+    {
+      "@id": "#7byy5u",
+      "name": "Carbon capture for remaining emissions",
+      "x": -401,
+      "y": 163,
+      "parent": "#bj6r3p"
+    },
+    {
+      "@id": "#8jnpig",
+      "name": "COP28 agreed transitioning away, 2023",
+      "x": -444,
+      "y": 56,
+      "parent": "#bj6r3p"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

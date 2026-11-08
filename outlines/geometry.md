@@ -1,0 +1,30 @@
+category: Mathematics
+aliases: euclidean geometry, geometry basics, plane geometry
+- Geometry
+  - What geometry studies
+    - Shape, size, position and space
+    - Name means "earth measuring" in Greek
+    - Points, lines and planes as building blocks
+  - Euclid's approach
+    - [Euclid's Elements, about 300 BC](https://en.wikipedia.org/wiki/Euclid%27s_Elements)
+    - Five axioms, everything else proved
+    - Parallel postulate sparked centuries of debate
+  - Core shapes and facts
+    - Triangle angles always sum to 180°
+    - [Pythagoras: a² + b² = c²](https://en.wikipedia.org/wiki/Pythagorean_theorem)
+    - Circle area is pi times radius squared
+    - Similar shapes share angles, differ in size
+  - Measuring things
+    - Length, area and volume
+    - Angles measured in degrees or radians
+    - Scale a shape by 2, area ×4
+  - Newer kinds of geometry
+    - [Coordinates turn shapes into equations](https://en.wikipedia.org/wiki/Analytic_geometry)
+    - [Non-Euclidean: curved spaces, parallels meet](https://en.wikipedia.org/wiki/Non-Euclidean_geometry)
+    - Topology ignores stretching, keeps connections
+    - Fractals have detail at every scale
+  - Where it is used
+    - Architecture, engineering and surveying
+    - GPS and maps of the Earth
+    - Computer graphics and video games
+    - Einstein's gravity is curved spacetime

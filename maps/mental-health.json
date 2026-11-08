@@ -1,0 +1,340 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Mental health",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#2gnpmc",
+      "name": "What it means",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vsae8d",
+      "name": "Wellbeing, not just absence of illness",
+      "x": -505,
+      "y": -57,
+      "parent": "#2gnpmc"
+    },
+    {
+      "@id": "#qts44d",
+      "name": "Shapes how we think, feel, cope",
+      "x": -409,
+      "y": -150,
+      "parent": "#2gnpmc"
+    },
+    {
+      "@id": "#ydmkqh",
+      "name": "About 1 in 8 people affected worldwide",
+      "x": -340,
+      "y": -236,
+      "parent": "#2gnpmc"
+    },
+    {
+      "@id": "#wjh6x9",
+      "name": "Common conditions",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#s96w2v",
+      "name": "Depression: lasting low mood, lost interest",
+      "x": -243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Major_depressive_disorder",
+      "parent": "#wjh6x9"
+    },
+    {
+      "@id": "#p8dj3y",
+      "name": "Anxiety disorders: persistent, excessive worry",
+      "x": -133,
+      "y": -360,
+      "link": "https://en.wikipedia.org/wiki/Anxiety_disorder",
+      "parent": "#wjh6x9"
+    },
+    {
+      "@id": "#yxxfs6",
+      "name": "Eating disorders, OCD and PTSD",
+      "x": 0,
+      "y": -408,
+      "parent": "#wjh6x9"
+    },
+    {
+      "@id": "#d7eaad",
+      "name": "Bipolar disorder and schizophrenia, less common",
+      "x": 175,
+      "y": -465,
+      "parent": "#wjh6x9"
+    },
+    {
+      "@id": "#uerchp",
+      "name": "Causes and risk factors",
+      "x": 193,
+      "y": -99,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m7ud6i",
+      "name": "Genes and brain biology play a part",
+      "x": 243,
+      "y": -303,
+      "parent": "#uerchp"
+    },
+    {
+      "@id": "#474p98",
+      "name": "Trauma, abuse and long-term stress",
+      "x": 340,
+      "y": -236,
+      "parent": "#uerchp"
+    },
+    {
+      "@id": "#scbzjv",
+      "name": "Poverty, isolation and discrimination",
+      "x": 409,
+      "y": -150,
+      "parent": "#uerchp"
+    },
+    {
+      "@id": "#2imjge",
+      "name": "Long-term physical illness",
+      "x": 445,
+      "y": -51,
+      "parent": "#uerchp"
+    },
+    {
+      "@id": "#vhvtiu",
+      "name": "Looking after yourself",
+      "x": 193,
+      "y": 99,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pxrxza",
+      "name": "Sleep, exercise and regular meals",
+      "x": 445,
+      "y": 51,
+      "parent": "#vhvtiu"
+    },
+    {
+      "@id": "#yr35zs",
+      "name": "Stay connected with people",
+      "x": 409,
+      "y": 150,
+      "parent": "#vhvtiu"
+    },
+    {
+      "@id": "#a3dhnr",
+      "name": "Limit alcohol and drugs",
+      "x": 340,
+      "y": 236,
+      "parent": "#vhvtiu"
+    },
+    {
+      "@id": "#cphmbj",
+      "name": "Talk about how you feel",
+      "x": 243,
+      "y": 303,
+      "parent": "#vhvtiu"
+    },
+    {
+      "@id": "#bgq75e",
+      "name": "Treatment works",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uq78uh",
+      "name": "Talking therapies such as CBT",
+      "x": 133,
+      "y": 360,
+      "link": "https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy",
+      "parent": "#bgq75e"
+    },
+    {
+      "@id": "#frfzbp",
+      "name": "Medicines such as antidepressants",
+      "x": 0,
+      "y": 408,
+      "parent": "#bgq75e"
+    },
+    {
+      "@id": "#u7yktm",
+      "name": "Many people recover or manage well",
+      "x": -175,
+      "y": 465,
+      "parent": "#bgq75e"
+    },
+    {
+      "@id": "#ph4saw",
+      "name": "Where to get help",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pvprvc",
+      "name": "A family doctor or GP",
+      "x": -243,
+      "y": 303,
+      "parent": "#ph4saw"
+    },
+    {
+      "@id": "#6bpgk9",
+      "name": "Helplines and crisis lines, often 24/7",
+      "x": -340,
+      "y": 236,
+      "parent": "#ph4saw"
+    },
+    {
+      "@id": "#gas86k",
+      "name": "Emergency services if life is at risk",
+      "x": -409,
+      "y": 150,
+      "parent": "#ph4saw"
+    },
+    {
+      "@id": "#fppdcw",
+      "name": "School, college or workplace support",
+      "x": -445,
+      "y": 51,
+      "parent": "#ph4saw"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

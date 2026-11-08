@@ -1,0 +1,31 @@
+category: Science
+aliases: what is soil, soil types, soil science, topsoil
+- Soil
+  - What's in it
+    - Minerals: about half its volume
+    - Water and air fill the pores
+    - [Humus: decayed plant and animal matter](https://en.wikipedia.org/wiki/Humus)
+    - Teeming with bacteria, fungi, worms
+  - How it forms
+    - Weathering of underlying bedrock
+    - Plants and organisms add organic matter
+    - One centimetre can take centuries
+  - [Layers, or horizons](https://en.wikipedia.org/wiki/Soil_horizon)
+    - O: leaf litter on top
+    - A: dark topsoil, richest life
+    - B: subsoil gathers washed-down minerals
+    - C: broken-up parent rock
+  - Texture and type
+    - Sand: gritty, drains fast
+    - Silt: smooth and floury
+    - Clay: sticky, holds water
+    - [Loam: balanced mix, ideal for growing](https://en.wikipedia.org/wiki/Loam)
+    - [pH runs from acidic to alkaline](https://en.wikipedia.org/wiki/Soil_pH)
+  - What soil does
+    - Grows about 95% of our food
+    - Filters and stores water
+    - Stores more carbon than all plants
+  - Threats and care
+    - Erosion strips fertile topsoil
+    - Compaction, salt build-up and pollution
+    - Cover crops and compost rebuild it

@@ -1,0 +1,320 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Sexual orientation",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#92q96d",
+      "name": "What it means",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#i685rt",
+      "name": "Pattern of romantic and sexual attraction",
+      "x": -504,
+      "y": -62,
+      "parent": "#92q96d"
+    },
+    {
+      "@id": "#zptiqr",
+      "name": "Different from gender identity",
+      "x": -401,
+      "y": -163,
+      "parent": "#92q96d"
+    },
+    {
+      "@id": "#7jsawe",
+      "name": "Separate from behaviour and labels",
+      "x": -318,
+      "y": -255,
+      "parent": "#92q96d"
+    },
+    {
+      "@id": "#grr9v4",
+      "name": "Common orientations",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rcsr27",
+      "name": "Heterosexual: attracted to the other sex",
+      "x": -204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Heterosexuality",
+      "parent": "#grr9v4"
+    },
+    {
+      "@id": "#ryp5td",
+      "name": "Homosexual: gay or lesbian",
+      "x": -73,
+      "y": -372,
+      "link": "https://en.wikipedia.org/wiki/Homosexuality",
+      "parent": "#grr9v4"
+    },
+    {
+      "@id": "#5ujnz2",
+      "name": "Bisexual: attracted to more than one gender",
+      "x": 82,
+      "y": -420,
+      "link": "https://en.wikipedia.org/wiki/Bisexuality",
+      "parent": "#grr9v4"
+    },
+    {
+      "@id": "#mqt52w",
+      "name": "Asexual: little or no sexual attraction",
+      "x": 303,
+      "y": -475,
+      "parent": "#grr9v4"
+    },
+    {
+      "@id": "#f56xsr",
+      "name": "What research says",
+      "x": 219,
+      "y": -57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nkamwz",
+      "name": "Likely shaped by genes, hormones, environment",
+      "x": 318,
+      "y": -255,
+      "parent": "#f56xsr"
+    },
+    {
+      "@id": "#qu5m8i",
+      "name": "No single \"gay gene\" found",
+      "x": 401,
+      "y": -163,
+      "parent": "#f56xsr"
+    },
+    {
+      "@id": "#ygq7j4",
+      "name": "Usually emerges by early adolescence",
+      "x": 524,
+      "y": -64,
+      "parent": "#f56xsr"
+    },
+    {
+      "@id": "#77zk8j",
+      "name": "Conversion therapy is widely discredited",
+      "x": 444,
+      "y": 56,
+      "link": "https://en.wikipedia.org/wiki/Conversion_therapy",
+      "parent": "#f56xsr"
+    },
+    {
+      "@id": "#hnneu3",
+      "name": "Measuring and history",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#99z38m",
+      "name": "Kinsey scale rates attraction 0 to 6",
+      "x": 455,
+      "y": 184,
+      "link": "https://en.wikipedia.org/wiki/Kinsey_scale",
+      "parent": "#hnneu3"
+    },
+    {
+      "@id": "#4t7jkz",
+      "name": "US psychiatrists declassified homosexuality as illness, 1973",
+      "x": 318,
+      "y": 255,
+      "parent": "#hnneu3"
+    },
+    {
+      "@id": "#5h8wry",
+      "name": "World Health Organization followed in 1990",
+      "x": 204,
+      "y": 321,
+      "parent": "#hnneu3"
+    },
+    {
+      "@id": "#9wgu97",
+      "name": "Coming out and wellbeing",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wv8bir",
+      "name": "Coming out is a personal choice",
+      "x": 73,
+      "y": 372,
+      "parent": "#9wgu97"
+    },
+    {
+      "@id": "#qkzbms",
+      "name": "Acceptance supports mental health",
+      "x": -82,
+      "y": 420,
+      "parent": "#9wgu97"
+    },
+    {
+      "@id": "#5zcwhf",
+      "name": "Discrimination raises stress and health risks",
+      "x": -303,
+      "y": 475,
+      "parent": "#9wgu97"
+    },
+    {
+      "@id": "#ef7p77",
+      "name": "Law and society",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#syv5s8",
+      "name": "Same-sex marriage legal in 30+ countries",
+      "x": -318,
+      "y": 255,
+      "parent": "#ef7p77"
+    },
+    {
+      "@id": "#tndfdb",
+      "name": "Same-sex relations illegal in about 60",
+      "x": -401,
+      "y": 163,
+      "parent": "#ef7p77"
+    },
+    {
+      "@id": "#chwbht",
+      "name": "Views differ widely by country and religion",
+      "x": -524,
+      "y": 64,
+      "parent": "#ef7p77"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,28 @@
+category: Society
+aliases: what is a bank, how banks work, banking explained, commercial bank
+- Bank
+  - Taking deposits
+    - Current accounts for everyday payments
+    - Savings accounts pay interest
+    - [Deposit insurance protects savers](https://en.wikipedia.org/wiki/Deposit_insurance)
+  - Lending
+    - Mortgages, loans and credit cards
+    - Business loans fund growth
+    - Credit checks judge ability to repay
+  - How banks make money
+    - Charge more interest than they pay
+    - Fees for services and accounts
+    - [Lending creates new deposits](https://en.wikipedia.org/wiki/Money_creation)
+  - Types of bank
+    - Retail banks serve the public
+    - Investment banks advise and trade
+    - Building societies and credit unions
+    - [Central bank: the banks' bank](https://en.wikipedia.org/wiki/Central_bank)
+  - Risks and rules
+    - [Bank runs when depositors panic](https://en.wikipedia.org/wiki/Bank_run)
+    - Capital and liquidity requirements
+    - Checks against money laundering
+  - History
+    - Medieval Italian bankers in Florence
+    - Goldsmiths' receipts became banknotes
+    - Online and mobile banking today

@@ -1,0 +1,30 @@
+category: Society
+aliases: what is famine, famines in history, causes of famine
+- Famine
+  - What famine is
+    - Widespread food shortage causing mass deaths
+    - [IPC Phase 5 is the formal threshold](https://en.wikipedia.org/wiki/Integrated_Food_Security_Phase_Classification)
+    - Deaths often from disease, not starvation alone
+  - Causes
+    - Drought, floods and crop failure
+    - Crop pests and plant diseases
+    - War, sieges and blockades
+    - Government policy and mismanagement
+    - [Lost income: Sen's entitlement theory](https://en.wikipedia.org/wiki/Amartya_Sen)
+  - Major famines in history
+    - [Great Irish Famine, 1845–1852](https://en.wikipedia.org/wiki/Great_Famine_%28Ireland%29)
+    - Bengal famine of 1943
+    - [Great Chinese Famine, 1959–1961](https://en.wikipedia.org/wiki/Great_Chinese_Famine)
+    - Ethiopian famine, 1983–1985
+  - Human effects
+    - Child malnutrition and stunted growth
+    - Cholera and measles outbreaks spread
+    - People flee to camps and cities
+  - Prevention and relief
+    - Early warning systems track rainfall, prices
+    - [World Food Programme delivers emergency aid](https://en.wikipedia.org/wiki/World_Food_Programme)
+    - Cash transfers keep markets working
+    - Free press exposes looming crises
+  - Today
+    - Famine deaths fell sharply since 1970s
+    - Recent famines tied mainly to conflict

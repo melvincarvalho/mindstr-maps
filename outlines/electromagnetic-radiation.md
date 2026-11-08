@@ -1,0 +1,30 @@
+category: Science
+aliases: electromagnetic waves, em radiation, electromagnetic spectrum
+- Electromagnetic radiation
+  - What it is
+    - Linked electric and magnetic fields
+    - Travels at the speed of light
+    - Needs no medium, crosses empty space
+    - [Also comes as particles called photons](https://en.wikipedia.org/wiki/Photon)
+  - How it was discovered
+    - [Maxwell's equations predicted it, 1860s](https://en.wikipedia.org/wiki/Maxwell%27s_equations)
+    - Hertz made radio waves, 1880s
+    - Röntgen discovered X-rays, 1895
+  - The spectrum, longest to shortest
+    - [Radio waves and microwaves](https://en.wikipedia.org/wiki/Electromagnetic_spectrum)
+    - Infrared felt as warmth
+    - Visible light, a tiny slice
+    - Ultraviolet, X-rays and gamma rays
+  - Energy depends on wavelength
+    - Shorter waves carry more energy
+    - [UV and above are ionizing](https://en.wikipedia.org/wiki/Ionizing_radiation)
+    - Radio and visible light are non-ionizing
+  - Where it comes from
+    - Accelerating electric charges
+    - Hot objects glow in infrared
+    - Electrons jumping between atomic levels
+  - Everyday uses
+    - Radio, TV, wifi and phones
+    - Microwave ovens heat water
+    - X-ray and CT scans in medicine
+    - Telescopes see the whole spectrum

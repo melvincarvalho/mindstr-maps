@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Domestication",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#rg9pz5",
+      "name": "What it means",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#runz22",
+      "name": "Humans shape species over generations",
+      "x": -485,
+      "y": -58,
+      "parent": "#rg9pz5"
+    },
+    {
+      "@id": "#jbs8y6",
+      "name": "Wild traits replaced by useful ones",
+      "x": -405,
+      "y": -156,
+      "parent": "#rg9pz5"
+    },
+    {
+      "@id": "#b8jp2h",
+      "name": "Species come to depend on people",
+      "x": -330,
+      "y": -245,
+      "parent": "#rg9pz5"
+    },
+    {
+      "@id": "#qcc5vz",
+      "name": "First animals",
+      "x": 17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#96xbbn",
+      "name": "Dogs from wolves, over 15,000 years ago",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Domestication_of_the_dog",
+      "parent": "#qcc5vz"
+    },
+    {
+      "@id": "#wu9egf",
+      "name": "Sheep and goats, about 11,000 years ago",
+      "x": -104,
+      "y": -367,
+      "parent": "#qcc5vz"
+    },
+    {
+      "@id": "#ck9e9b",
+      "name": "Cattle and pigs soon after",
+      "x": 42,
+      "y": -423,
+      "parent": "#qcc5vz"
+    },
+    {
+      "@id": "#u3ugk2",
+      "name": "Horses on the steppe, 5,500 years ago",
+      "x": 234,
+      "y": -485,
+      "link": "https://en.wikipedia.org/wiki/Domestication_of_the_horse",
+      "parent": "#qcc5vz"
+    },
+    {
+      "@id": "#7ykjki",
+      "name": "Cats drawn to grain stores",
+      "x": 281,
+      "y": -281,
+      "parent": "#qcc5vz"
+    },
+    {
+      "@id": "#ez5xjn",
+      "name": "First crops",
+      "x": 227,
+      "y": -27,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mpgtyz",
+      "name": "Wheat and barley in the Fertile Crescent",
+      "x": 372,
+      "y": -203,
+      "link": "https://en.wikipedia.org/wiki/Fertile_Crescent",
+      "parent": "#ez5xjn"
+    },
+    {
+      "@id": "#ienrw2",
+      "name": "Rice in China",
+      "x": 430,
+      "y": -106,
+      "parent": "#ez5xjn"
+    },
+    {
+      "@id": "#agpwxi",
+      "name": "Maize from teosinte in Mexico",
+      "x": 470,
+      "y": 0,
+      "parent": "#ez5xjn"
+    },
+    {
+      "@id": "#4h2kex",
+      "name": "Potatoes in the Andes",
+      "x": 430,
+      "y": 106,
+      "parent": "#ez5xjn"
+    },
+    {
+      "@id": "#zv8vuz",
+      "name": "Domestication syndrome",
+      "x": 115,
+      "y": 159,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#up6g3x",
+      "name": "Tamer, less fearful animals",
+      "x": 389,
+      "y": 212,
+      "parent": "#zv8vuz"
+    },
+    {
+      "@id": "#tiphhy",
+      "name": "Floppy ears and patchy coats",
+      "x": 281,
+      "y": 281,
+      "parent": "#zv8vuz"
+    },
+    {
+      "@id": "#va48p9",
+      "name": "Seeds that stay on the plant",
+      "x": 164,
+      "y": 335,
+      "parent": "#zv8vuz"
+    },
+    {
+      "@id": "#i43hx2",
+      "name": "Bigger fruits and grains",
+      "x": 38,
+      "y": 391,
+      "parent": "#zv8vuz"
+    },
+    {
+      "@id": "#f5eqkn",
+      "name": "Consequences",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ayp7uu",
+      "name": "Made farming and settled villages possible",
+      "x": -124,
+      "y": 447,
+      "link": "https://en.wikipedia.org/wiki/Neolithic_Revolution",
+      "parent": "#f5eqkn"
+    },
+    {
+      "@id": "#uwcxbi",
+      "name": "Food surpluses fed cities and states",
+      "x": -225,
+      "y": 312,
+      "parent": "#f5eqkn"
+    },
+    {
+      "@id": "#xsdb3g",
+      "name": "Diseases jumped from animals to humans",
+      "x": -330,
+      "y": 245,
+      "parent": "#f5eqkn"
+    },
+    {
+      "@id": "#8kkvmt",
+      "name": "Still happening",
+      "x": -220,
+      "y": 54,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#stjjvq",
+      "name": "Silver fox experiment in Russia",
+      "x": -405,
+      "y": 156,
+      "parent": "#8kkvmt"
+    },
+    {
+      "@id": "#5wdu5b",
+      "name": "Fish and new crops being domesticated",
+      "x": -505,
+      "y": 60,
+      "parent": "#8kkvmt"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

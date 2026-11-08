@@ -1,0 +1,29 @@
+category: Health
+aliases: human nutrition, nutrition basics, nutrients in food
+- Nutrition
+  - [Macronutrients provide energy](https://en.wikipedia.org/wiki/Nutrient)
+    - Carbohydrates: 4 kcal per gram
+    - Protein: 4 kcal, builds and repairs
+    - Fat: 9 kcal, stores energy
+    - Alcohol adds 7 kcal per gram
+  - Micronutrients
+    - [Vitamins regulate body processes](https://en.wikipedia.org/wiki/Vitamin)
+    - Minerals such as iron, calcium, iodine
+    - Needed only in tiny amounts
+  - Other essentials
+    - Water makes up about 60% of body
+    - [Dietary fibre aids digestion](https://en.wikipedia.org/wiki/Dietary_fiber)
+    - Essential amino acids and fatty acids
+  - Digestion and metabolism
+    - Enzymes break food into small molecules
+    - Absorbed mainly in the small intestine
+    - [Metabolism turns nutrients into energy](https://en.wikipedia.org/wiki/Metabolism)
+    - Gut bacteria ferment fibre
+  - Energy balance
+    - Calories measure food energy
+    - Needs vary with age, size, activity
+    - Surplus energy is stored as fat
+  - [Malnutrition](https://en.wikipedia.org/wiki/Malnutrition)
+    - Undernutrition: stunting and wasting
+    - Deficiencies: anaemia, goitre, scurvy
+    - Overnutrition: obesity, type 2 diabetes

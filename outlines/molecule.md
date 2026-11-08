@@ -1,0 +1,29 @@
+category: Science
+aliases: molecules, what is a molecule, molecules explained
+- Molecule
+  - What a molecule is
+    - Two or more atoms bonded together
+    - Smallest unit keeping a substance's properties
+    - Held by covalent bonds
+  - Molecules of one element
+    - Oxygen gas is O₂
+    - Nitrogen, about 78% of air, is N₂
+    - Ozone is O₃
+  - Molecules of compounds
+    - Water: H₂O
+    - Carbon dioxide: CO₂
+    - Methane: CH₄, main part of natural gas
+  - Shape and size
+    - [Shape set by electron pair repulsion](https://en.wikipedia.org/wiki/VSEPR_theory)
+    - Water is bent; CO₂ is straight
+    - Shape decides how molecules interact
+    - Mass measured in daltons
+  - Molecules of life
+    - [Proteins fold into precise shapes](https://en.wikipedia.org/wiki/Protein_folding)
+    - [DNA is a double helix](https://en.wikipedia.org/wiki/DNA)
+    - Sugars and fats store energy
+    - Polymers can hold millions of atoms
+  - Seeing and counting molecules
+    - [One mole is 6.022 × 10²³ particles](https://en.wikipedia.org/wiki/Mole_%28unit%29)
+    - A sip of water: about 10²¹ molecules
+    - [X-ray crystallography reveals structures](https://en.wikipedia.org/wiki/X-ray_crystallography)

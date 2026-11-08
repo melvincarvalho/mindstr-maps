@@ -1,0 +1,30 @@
+category: Mathematics
+aliases: theory of numbers, elementary number theory, arithmetic of integers
+- Number theory
+  - What it studies
+    - Properties of whole numbers
+    - Gauss called it "queen of mathematics"
+    - Simple questions, often fiendish answers
+  - Prime numbers
+    - Divisible only by 1 and themselves
+    - [Euclid: infinitely many primes](https://en.wikipedia.org/wiki/Euclid%27s_theorem)
+    - [Every whole number factors uniquely](https://en.wikipedia.org/wiki/Fundamental_theorem_of_arithmetic)
+    - Sieve of Eratosthenes finds them
+  - Divisibility and remainders
+    - Greatest common divisor via Euclid's algorithm
+    - [Clock arithmetic: modular arithmetic](https://en.wikipedia.org/wiki/Modular_arithmetic)
+    - Fermat's little theorem
+  - Famous problems
+    - [Fermat's Last Theorem, proved 1994](https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem)
+    - Goldbach: evens as two primes
+    - Twin primes: infinitely many pairs?
+    - [Riemann hypothesis on prime distribution](https://en.wikipedia.org/wiki/Riemann_hypothesis)
+  - Key figures
+    - Euclid and Diophantus in antiquity
+    - Fermat and Euler, 17th–18th centuries
+    - Gauss's Disquisitiones Arithmeticae, 1801
+    - Ramanujan's partitions and series
+  - Modern uses
+    - RSA encryption relies on factoring
+    - Error-correcting codes and checksums
+    - Random number generators

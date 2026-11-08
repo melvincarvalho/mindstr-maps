@@ -1,0 +1,29 @@
+category: Science
+aliases: history of life on earth, evolutionary history of life, timeline of life
+- History of life
+  - Origins
+    - Earth formed about 4.5 billion years ago
+    - [Earliest life about 3.7 billion years ago](https://en.wikipedia.org/wiki/Abiogenesis)
+    - Single-celled microbes ruled for billions of years
+  - Oxygen and complex cells
+    - Cyanobacteria released oxygen by photosynthesis
+    - [Great Oxidation Event, 2.4 billion years ago](https://en.wikipedia.org/wiki/Great_Oxidation_Event)
+    - Complex cells with nuclei appear
+    - Multicellular life, about 1.5 billion years ago
+  - Animals arrive
+    - Ediacaran soft-bodied life, about 570 million
+    - [Cambrian explosion, about 538 million years ago](https://en.wikipedia.org/wiki/Cambrian_explosion)
+    - First fish and vertebrates
+  - Life moves onto land
+    - Plants colonise land, about 470 million
+    - Insects and first forests
+    - Four-legged animals leave the water
+  - Age of reptiles
+    - Great Dying ends the Permian, 252 million
+    - [Dinosaurs dominate for 165 million years](https://en.wikipedia.org/wiki/Dinosaur)
+    - First mammals and flowering plants
+    - Birds evolve from dinosaurs
+  - Age of mammals
+    - Asteroid strike 66 million years ago
+    - Mammals diversify into empty niches
+    - [Homo sapiens about 300,000 years ago](https://en.wikipedia.org/wiki/Homo_sapiens)

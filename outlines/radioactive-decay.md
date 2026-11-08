@@ -1,0 +1,31 @@
+category: Science
+aliases: radioactivity, nuclear decay, radioactive decay explained
+- Radioactive decay
+  - What happens
+    - Unstable nuclei release energy spontaneously
+    - Often turns one element into another
+    - Timing of each atom is random
+  - Main types
+    - [Alpha: emits a helium nucleus](https://en.wikipedia.org/wiki/Alpha_decay)
+    - [Beta: neutron becomes proton, emits electron](https://en.wikipedia.org/wiki/Beta_decay)
+    - Gamma: nucleus sheds high-energy light
+    - Paper stops alpha, lead slows gamma
+  - Half-life
+    - [Time for half the atoms to decay](https://en.wikipedia.org/wiki/Half-life)
+    - Iodine-131: about 8 days
+    - Carbon-14: about 5,730 years
+    - Uranium-238: about 4.5 billion years
+  - Discovery
+    - Becquerel finds uranium rays, 1896
+    - Marie and Pierre Curie find polonium, radium
+    - Rutherford names alpha and beta rays
+  - Uses
+    - [Radiocarbon dating ages ancient remains](https://en.wikipedia.org/wiki/Radiocarbon_dating)
+    - Smoke detectors use americium-241
+    - Radiotherapy and medical tracers
+    - Decay heat warms Earth's interior
+  - Health and safety
+    - Radiation can damage DNA
+    - Dose depends on time, distance, shielding
+    - Background radiation is all around us
+    - Radon gas is a common home risk

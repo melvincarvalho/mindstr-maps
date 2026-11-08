@@ -1,0 +1,33 @@
+category: Life and home
+aliases: video games, computer games, gaming
+- Video game
+  - What it is
+    - Interactive game played on a screen
+    - On console, PC or phone
+    - Controller, keyboard, mouse or touch
+  - History
+    - [Pong (1972) launched arcade gaming](https://en.wikipedia.org/wiki/Pong)
+    - Atari home consoles, late 1970s
+    - 1983 US crash, then Nintendo's NES
+    - 3D graphics arrived in the 1990s
+    - Smartphones made mobile gaming huge
+  - Genres
+    - Action and shooters
+    - Role-playing games
+    - Strategy and simulation
+    - Sports and racing
+    - Puzzle and casual
+  - Platforms
+    - Sony PlayStation and Microsoft Xbox
+    - Nintendo Switch handheld-hybrid
+    - PC games through stores like Steam
+  - Industry and culture
+    - Roughly $180 billion a year
+    - [Minecraft is the best-selling game ever](https://en.wikipedia.org/wiki/Minecraft)
+    - [Esports fill arenas](https://en.wikipedia.org/wiki/Esports)
+    - Streaming on Twitch and YouTube
+  - Effects and debates
+    - Some evidence of sharper visual attention
+    - [WHO recognised gaming disorder in 2019](https://en.wikipedia.org/wiki/Video_game_addiction)
+    - Loot boxes criticised as gambling-like
+    - Age ratings: PEGI and ESRB

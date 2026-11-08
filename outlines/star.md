@@ -1,0 +1,29 @@
+category: Science
+aliases: stars, what is a star, how stars work, stellar evolution
+- Star
+  - What a star is
+    - Glowing ball of hydrogen and helium plasma
+    - Held together by its own gravity
+    - [Nuclear fusion in the core](https://en.wikipedia.org/wiki/Stellar_nucleosynthesis)
+    - Sun is the nearest star
+  - How stars are born
+    - Gas clouds collapse under gravity
+    - Core heats until hydrogen fuses
+    - Often form in clusters
+  - Properties
+    - Colour shows temperature: blue hot, red cool
+    - [Spectral classes OBAFGKM, hot to cool](https://en.wikipedia.org/wiki/Stellar_classification)
+    - Mass sets brightness and lifespan
+    - [Hertzsprung–Russell diagram](https://en.wikipedia.org/wiki/Hertzsprung%E2%80%93Russell_diagram)
+  - Life of a Sun-like star
+    - About 10 billion years fusing hydrogen
+    - Swells into a red giant
+    - Sheds outer layers as planetary nebula
+    - Ends as a white dwarf
+  - Death of massive stars
+    - Explode as supernovae
+    - Leave neutron stars or black holes
+    - Scatter heavy elements into space
+  - Stars and us
+    - Our bodies' elements were forged in stars
+    - Nearest beyond Sun: Proxima Centauri, 4.2 light-years

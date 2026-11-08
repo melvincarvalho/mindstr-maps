@@ -1,0 +1,31 @@
+category: History
+aliases: history of warfare, history of war, warfare through history
+- Military history
+  - Ancient warfare
+    - Bronze Age chariots and city walls
+    - [Greek hoplites fought in phalanxes](https://en.wikipedia.org/wiki/Phalanx)
+    - Roman legions: drilled, paid, professional
+    - Sun Tzu's The Art of War
+  - Medieval warfare
+    - Armoured knights and castles in Europe
+    - Mongol mounted archers built vast empire
+    - English longbow at Crécy and Agincourt
+  - The gunpowder age
+    - Gunpowder spread from China
+    - Cannon made old castle walls obsolete
+    - Muskets and pikes, then bayonets
+    - Napoleon's mass conscript armies
+  - Industrial and world wars
+    - Railways and telegraph moved armies faster
+    - Machine guns and trenches in WWI
+    - [World War II: about 70–85 million dead](https://en.wikipedia.org/wiki/World_War_II)
+    - Tanks, aircraft carriers and air power
+  - Nuclear and modern era
+    - [Atomic bombs on Hiroshima and Nagasaki](https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki)
+    - Cold War deterrence and proxy wars
+    - Guerrilla wars and insurgencies
+    - Drones, missiles and cyber warfare
+  - How historians study war
+    - Strategy, tactics and logistics
+    - [Clausewitz: war continues politics](https://en.wikipedia.org/wiki/On_War)
+    - Laws of war: Geneva Conventions

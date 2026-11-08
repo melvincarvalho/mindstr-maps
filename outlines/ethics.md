@@ -1,0 +1,31 @@
+category: Philosophy and religion
+aliases: moral philosophy, ethical theories, philosophy of morality
+- Ethics
+  - Key questions
+    - What makes actions right or wrong?
+    - What is a good life?
+    - Are morals universal or cultural?
+  - Main theories
+    - [Consequentialism: judge by outcomes](https://en.wikipedia.org/wiki/Consequentialism)
+    - Utilitarianism: greatest happiness (Bentham, Mill)
+    - [Deontology: duties and rules (Kant)](https://en.wikipedia.org/wiki/Deontology)
+    - [Virtue ethics: good character (Aristotle)](https://en.wikipedia.org/wiki/Virtue_ethics)
+    - Contractualism: rules all could accept
+    - Care ethics: relationships and empathy
+  - Levels of ethics
+    - Metaethics: are moral facts real?
+    - Normative ethics: what should we do?
+    - Applied ethics: real-world cases
+  - Applied debates
+    - Euthanasia and end-of-life care
+    - Animal welfare and eating meat
+    - AI, privacy and technology
+    - Duties to future generations
+  - Everyday dilemmas
+    - [Trolley problem: divert to save five?](https://en.wikipedia.org/wiki/Trolley_problem)
+    - Lying to protect a friend
+    - Keeping inconvenient promises
+  - Where morality comes from
+    - Religion and divine commands
+    - Reason and impartiality
+    - Evolved empathy and cooperation

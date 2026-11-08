@@ -1,0 +1,351 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Dementia",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#8q4nwr",
+      "name": "What it is",
+      "x": -197,
+      "y": -96,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3n7nwe",
+      "name": "Progressive decline in memory and thinking",
+      "x": -486,
+      "y": -53,
+      "parent": "#8q4nwr"
+    },
+    {
+      "@id": "#fhdjpn",
+      "name": "Severe enough to affect daily life",
+      "x": -431,
+      "y": -149,
+      "parent": "#8q4nwr"
+    },
+    {
+      "@id": "#96vn3n",
+      "name": "Not a normal part of ageing",
+      "x": -349,
+      "y": -227,
+      "parent": "#8q4nwr"
+    },
+    {
+      "@id": "#r44wmb",
+      "name": "About 55 million people worldwide",
+      "x": -260,
+      "y": -294,
+      "parent": "#8q4nwr"
+    },
+    {
+      "@id": "#vpfck4",
+      "name": "Main types",
+      "x": 16,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pyjc4u",
+      "name": "Alzheimer's disease, the most common",
+      "x": -158,
+      "y": -354,
+      "link": "https://en.wikipedia.org/wiki/Alzheimer%27s_disease",
+      "parent": "#vpfck4"
+    },
+    {
+      "@id": "#vsp75k",
+      "name": "Vascular dementia after reduced blood flow",
+      "x": -34,
+      "y": -407,
+      "link": "https://en.wikipedia.org/wiki/Vascular_dementia",
+      "parent": "#vpfck4"
+    },
+    {
+      "@id": "#zbpcia",
+      "name": "Dementia with Lewy bodies",
+      "x": 120,
+      "y": -464,
+      "link": "https://en.wikipedia.org/wiki/Dementia_with_Lewy_bodies",
+      "parent": "#vpfck4"
+    },
+    {
+      "@id": "#2mepa9",
+      "name": "Frontotemporal dementia changes personality",
+      "x": 333,
+      "y": -516,
+      "parent": "#vpfck4"
+    },
+    {
+      "@id": "#ikgujz",
+      "name": "Early signs",
+      "x": 211,
+      "y": -73,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#q2ze9r",
+      "name": "Forgetting recent events and conversations",
+      "x": 307,
+      "y": -263,
+      "parent": "#ikgujz"
+    },
+    {
+      "@id": "#xn3zv6",
+      "name": "Trouble finding words",
+      "x": 384,
+      "y": -187,
+      "parent": "#ikgujz"
+    },
+    {
+      "@id": "#fua9zg",
+      "name": "Getting lost in familiar places",
+      "x": 471,
+      "y": -105,
+      "parent": "#ikgujz"
+    },
+    {
+      "@id": "#6jsu7q",
+      "name": "Mood and personality changes",
+      "x": 450,
+      "y": 0,
+      "parent": "#ikgujz"
+    },
+    {
+      "@id": "#aryker",
+      "name": "Risk factors",
+      "x": 178,
+      "y": 116,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bnhxxc",
+      "name": "Age is the biggest risk",
+      "x": 433,
+      "y": 97,
+      "parent": "#aryker"
+    },
+    {
+      "@id": "#jjm64e",
+      "name": "High blood pressure, diabetes, smoking",
+      "x": 384,
+      "y": 187,
+      "parent": "#aryker"
+    },
+    {
+      "@id": "#3y5idq",
+      "name": "Hearing loss and social isolation",
+      "x": 307,
+      "y": 263,
+      "parent": "#aryker"
+    },
+    {
+      "@id": "#3xpm2r",
+      "name": "Physical inactivity",
+      "x": 207,
+      "y": 320,
+      "parent": "#aryker"
+    },
+    {
+      "@id": "#x7iy5r",
+      "name": "Diagnosis",
+      "x": -16,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mhh2e6",
+      "name": "Memory and thinking tests",
+      "x": 96,
+      "y": 368,
+      "parent": "#x7iy5r"
+    },
+    {
+      "@id": "#5tnh4b",
+      "name": "Blood tests rule out other causes",
+      "x": -35,
+      "y": 423,
+      "parent": "#x7iy5r"
+    },
+    {
+      "@id": "#y2rbuy",
+      "name": "Brain scans show changes",
+      "x": -214,
+      "y": 474,
+      "parent": "#x7iy5r"
+    },
+    {
+      "@id": "#f5vj6d",
+      "name": "Treatment and care",
+      "x": -197,
+      "y": 96,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4x2ynj",
+      "name": "Drugs can ease some symptoms",
+      "x": -260,
+      "y": 294,
+      "parent": "#f5vj6d"
+    },
+    {
+      "@id": "#42fkrd",
+      "name": "Newer drugs target amyloid in Alzheimer's",
+      "x": -349,
+      "y": 227,
+      "parent": "#f5vj6d"
+    },
+    {
+      "@id": "#fqhkw3",
+      "name": "Routines, activity and social contact",
+      "x": -431,
+      "y": 149,
+      "parent": "#f5vj6d"
+    },
+    {
+      "@id": "#7rsk62",
+      "name": "Support for carers matters",
+      "x": -466,
+      "y": 51,
+      "parent": "#f5vj6d"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    },
+    {
+      "start": 25,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

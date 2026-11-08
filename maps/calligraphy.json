@@ -1,0 +1,340 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Calligraphy",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ck3ku3",
+      "name": "What it is",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xu9z68",
+      "name": "The art of beautiful handwriting",
+      "x": -465,
+      "y": -53,
+      "parent": "#ck3ku3"
+    },
+    {
+      "@id": "#6qyssz",
+      "name": "From Greek for beautiful writing",
+      "x": -409,
+      "y": -150,
+      "parent": "#ck3ku3"
+    },
+    {
+      "@id": "#nij7mx",
+      "name": "Letters shaped with controlled strokes",
+      "x": -340,
+      "y": -236,
+      "parent": "#ck3ku3"
+    },
+    {
+      "@id": "#cd3bd3",
+      "name": "Major traditions",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8xzqkt",
+      "name": "Chinese calligraphy with brush and ink",
+      "x": -243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Chinese_calligraphy",
+      "parent": "#cd3bd3"
+    },
+    {
+      "@id": "#is58fx",
+      "name": "Japanese shodō and Korean seoye",
+      "x": -133,
+      "y": -360,
+      "parent": "#cd3bd3"
+    },
+    {
+      "@id": "#2bvwc8",
+      "name": "Islamic calligraphy in Arabic script",
+      "x": 0,
+      "y": -408,
+      "link": "https://en.wikipedia.org/wiki/Islamic_calligraphy",
+      "parent": "#cd3bd3"
+    },
+    {
+      "@id": "#iff6bk",
+      "name": "Western scripts: uncial, Gothic, italic",
+      "x": 175,
+      "y": -465,
+      "parent": "#cd3bd3"
+    },
+    {
+      "@id": "#d5w2dk",
+      "name": "Devanagari and Indian scripts",
+      "x": 243,
+      "y": -303,
+      "parent": "#cd3bd3"
+    },
+    {
+      "@id": "#gkrvvm",
+      "name": "Tools",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vu2g8f",
+      "name": "Broad-edged and pointed nib pens",
+      "x": 340,
+      "y": -236,
+      "parent": "#gkrvvm"
+    },
+    {
+      "@id": "#36d93j",
+      "name": "Brushes, ink sticks and inkstones",
+      "x": 409,
+      "y": -150,
+      "parent": "#gkrvvm"
+    },
+    {
+      "@id": "#xkiwuz",
+      "name": "Reed and quill pens",
+      "x": 445,
+      "y": -51,
+      "parent": "#gkrvvm"
+    },
+    {
+      "@id": "#zfsyy4",
+      "name": "Smooth paper, vellum or parchment",
+      "x": 445,
+      "y": 51,
+      "parent": "#gkrvvm"
+    },
+    {
+      "@id": "#qqw2y6",
+      "name": "History",
+      "x": 151,
+      "y": 139,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m2s9ra",
+      "name": "Medieval monks copied illuminated manuscripts",
+      "x": 445,
+      "y": 164,
+      "parent": "#qqw2y6"
+    },
+    {
+      "@id": "#nartg6",
+      "name": "Book of Kells, about 800 AD",
+      "x": 340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/Book_of_Kells",
+      "parent": "#qqw2y6"
+    },
+    {
+      "@id": "#kfa6dt",
+      "name": "Printing press reduced everyday need",
+      "x": 243,
+      "y": 303,
+      "parent": "#qqw2y6"
+    },
+    {
+      "@id": "#e8c9m5",
+      "name": "Edward Johnston's 1900s revival",
+      "x": 133,
+      "y": 360,
+      "parent": "#qqw2y6"
+    },
+    {
+      "@id": "#3py4f2",
+      "name": "Getting started",
+      "x": -96,
+      "y": 167,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hd44np",
+      "name": "Learn basic strokes before letters",
+      "x": 0,
+      "y": 408,
+      "parent": "#3py4f2"
+    },
+    {
+      "@id": "#cb8vbn",
+      "name": "Keep a consistent pen angle",
+      "x": -175,
+      "y": 465,
+      "parent": "#3py4f2"
+    },
+    {
+      "@id": "#t5tih2",
+      "name": "Use guidelines for letter height",
+      "x": -243,
+      "y": 303,
+      "parent": "#3py4f2"
+    },
+    {
+      "@id": "#2umf2h",
+      "name": "Copy model alphabets daily",
+      "x": -340,
+      "y": 236,
+      "parent": "#3py4f2"
+    },
+    {
+      "@id": "#qjngyj",
+      "name": "Today",
+      "x": -221,
+      "y": 52,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#f4pan6",
+      "name": "Wedding invitations and lettering",
+      "x": -409,
+      "y": 150,
+      "parent": "#qjngyj"
+    },
+    {
+      "@id": "#6gbpp9",
+      "name": "Brush lettering and modern styles",
+      "x": -465,
+      "y": 53,
+      "parent": "#qjngyj"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

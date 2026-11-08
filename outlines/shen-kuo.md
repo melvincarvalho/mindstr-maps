@@ -1,0 +1,30 @@
+category: People
+aliases: shen kua, shen kuo scientist, shen kuo polymath
+- Shen Kuo
+  - Life
+    - Born 1031 in Hangzhou
+    - Song dynasty scholar-official
+    - Passed the imperial exams, 1063
+    - Died 1095 in Zhenjiang
+  - Statesman
+    - Backed Wang Anshi's New Policies
+    - Headed the Bureau of Astronomy
+    - Envoy to the Liao dynasty, 1075
+    - Disgraced after a military defeat, 1082
+  - [Dream Pool Essays](https://en.wikipedia.org/wiki/Dream_Pool_Essays)
+    - Written in retirement, about 1088
+    - Hundreds of notes on many subjects
+    - [Records Bi Sheng's movable type](https://en.wikipedia.org/wiki/Bi_Sheng)
+  - Discoveries
+    - [First clear account of magnetic compass](https://en.wikipedia.org/wiki/Compass)
+    - Noted magnetic declination from true north
+    - Land formed by erosion and silt
+    - Fossil bamboo showed past climate change
+  - Other fields
+    - Planetary motion and calendar reform
+    - Mathematics, optics and camera obscura
+    - Mapmaking and raised-relief models
+    - Medicine and pharmacology
+  - Legacy
+    - [Praised by historian Joseph Needham](https://en.wikipedia.org/wiki/Joseph_Needham)
+    - Asteroid 2027 Shen Kuo named after him

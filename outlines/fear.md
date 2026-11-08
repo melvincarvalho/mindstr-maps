@@ -1,0 +1,29 @@
+category: Society
+aliases: what is fear, overcoming fear, dealing with fear
+- Fear
+  - What fear is
+    - Reaction to danger, real or imagined
+    - Anxiety is fear of future threats
+    - Ranges from unease to terror
+  - Why we have it
+    - Keeps us away from danger
+    - Some fears are inborn, like heights
+    - Others are learned from experience
+  - What happens in the body
+    - [The amygdala sounds the alarm](https://en.wikipedia.org/wiki/Amygdala)
+    - [Fight, flight or freeze responses](https://en.wikipedia.org/wiki/Fight-or-flight_response)
+    - Pounding heart, sweating, fast breathing
+    - Senses sharpen as adrenaline flows
+  - When fear goes wrong
+    - [Phobias: intense fear of specific things](https://en.wikipedia.org/wiki/Phobia)
+    - Panic attacks strike without real danger
+    - Anxiety disorders affect daily life
+    - Trauma can leave lasting fear responses
+  - Facing fear healthily
+    - Gradual exposure shrinks fears over time
+    - Slow breathing calms the alarm
+    - Question catastrophic thoughts
+    - Avoidance makes fears grow stronger
+  - Getting help
+    - Seek help if fear limits daily life
+    - [Cognitive behavioral therapy works well](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy)

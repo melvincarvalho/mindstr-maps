@@ -1,0 +1,31 @@
+category: Society
+aliases: prejudice and discrimination, unfair treatment, anti-discrimination
+- Discrimination
+  - What it is
+    - Unfair treatment for belonging to a group
+    - Prejudice is the attitude behind it
+    - Stereotypes are oversimplified group beliefs
+  - Common grounds
+    - Race and ethnicity
+    - Sex and gender
+    - Disability
+    - Age
+    - Religion or belief
+    - Sexual orientation
+  - Forms it takes
+    - Direct: openly treated worse
+    - Indirect: neutral rules with unequal effects
+    - [Institutional discrimination built into systems](https://en.wikipedia.org/wiki/Institutional_racism)
+    - Harassment and victimisation
+  - Where it happens
+    - Hiring, pay and promotion
+    - Housing and lending
+    - Education and healthcare
+    - Policing and justice
+  - Laws against it
+    - [Universal Declaration of Human Rights, 1948](https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights)
+    - [US Civil Rights Act, 1964](https://en.wikipedia.org/wiki/Civil_Rights_Act_of_1964)
+    - [UK Equality Act, 2010](https://en.wikipedia.org/wiki/Equality_Act_2010)
+  - How it is measured
+    - Audit studies send matched job applications
+    - Pay and outcome gap statistics

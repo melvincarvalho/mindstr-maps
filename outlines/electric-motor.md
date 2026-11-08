@@ -1,0 +1,31 @@
+category: Technology
+aliases: electric motors, how electric motors work, how does an electric motor work
+- Electric motor
+  - The basic idea
+    - Current in a magnetic field feels force
+    - Magnets push and pull a rotor
+    - Turns electrical energy into rotation
+  - Main parts
+    - Stator: the fixed outer part
+    - Rotor: the spinning inner part
+    - Copper coils make electromagnets
+    - [Commutator flips current each half-turn](https://en.wikipedia.org/wiki/Commutator_%28electric%29)
+  - Types
+    - Brushed DC motors in toys and tools
+    - [Brushless motors in drones and fans](https://en.wikipedia.org/wiki/Brushless_DC_electric_motor)
+    - [Induction motors run most factories](https://en.wikipedia.org/wiki/Induction_motor)
+    - Stepper motors move in precise steps
+  - History
+    - [Faraday showed electromagnetic rotation, 1821](https://en.wikipedia.org/wiki/Michael_Faraday)
+    - First practical DC motors, 1830s
+    - Tesla and Ferraris: AC motors, 1880s
+  - Strengths
+    - Often over 90% efficient
+    - Full torque from standstill
+    - Quiet, with no exhaust
+    - Run backwards as generators
+  - Everywhere you look
+    - Electric cars and trains
+    - Fridges, washing machines and fans
+    - Phone vibration and hard drives
+    - Use about 45% of world electricity

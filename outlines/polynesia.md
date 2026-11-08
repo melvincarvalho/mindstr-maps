@@ -1,0 +1,32 @@
+category: Geography
+aliases: polynesian triangle, polynesian islands
+- Polynesia
+  - Geography
+    - [Polynesian Triangle in the Pacific](https://en.wikipedia.org/wiki/Polynesian_Triangle)
+    - Corners: Hawaii, New Zealand, Easter Island
+    - Over 1,000 islands
+    - Volcanic high islands and coral atolls
+  - Countries and territories
+    - Samoa, Tonga and Tuvalu independent
+    - New Zealand is the largest
+    - French Polynesia, including Tahiti
+    - Hawaii is a US state
+    - Cook Islands and Niue tied to NZ
+  - People and languages
+    - About 2 million Polynesians
+    - Related Polynesian languages
+    - Māori, Samoan, Tongan, Hawaiian, Tahitian
+  - Settlement and history
+    - Ancestors came from Taiwan via Southeast Asia
+    - [Lapita culture reached Tonga, Samoa](https://en.wikipedia.org/wiki/Lapita_culture)
+    - [Wayfinding by stars, swells and birds](https://en.wikipedia.org/wiki/Polynesian_navigation)
+    - New Zealand settled about 1250–1300
+    - European contact from the 1500s–1700s
+  - Culture
+    - Chiefly societies and kinship
+    - [Mana and tapu as sacred concepts](https://en.wikipedia.org/wiki/Mana)
+    - Tattoo traditions, a Polynesian word
+    - [Moai statues on Easter Island](https://en.wikipedia.org/wiki/Moai)
+  - Modern life
+    - Tourism, fishing and remittances
+    - Rising seas threaten atolls

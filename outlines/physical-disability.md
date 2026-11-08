@@ -1,0 +1,30 @@
+category: Society
+aliases: physical disabilities, mobility impairment, physical impairment
+- Physical disability
+  - What it covers
+    - Limits movement, stamina or dexterity
+    - Present from birth or acquired
+    - Ranges from mild to severe
+  - Common causes
+    - [Cerebral palsy, from early brain injury](https://en.wikipedia.org/wiki/Cerebral_palsy)
+    - [Spinal cord injury](https://en.wikipedia.org/wiki/Spinal_cord_injury)
+    - Amputation and limb difference
+    - Muscular dystrophy and multiple sclerosis
+    - Stroke and arthritis in later life
+  - Mobility aids
+    - Manual and powered wheelchairs
+    - Crutches, walkers and canes
+    - Prosthetic limbs and orthoses
+  - Accessible environments
+    - Ramps, lifts and level entrances
+    - Accessible toilets and parking
+    - Step-free public transport
+    - Adapted homes and vehicles
+  - Health and rehabilitation
+    - Physiotherapy builds strength and movement
+    - Occupational therapy adapts daily tasks
+    - Pain and fatigue management
+  - Rights and participation
+    - Anti-discrimination laws require access
+    - Reasonable adjustments at work
+    - [Paralympic Games, first held 1960](https://en.wikipedia.org/wiki/Paralympic_Games)

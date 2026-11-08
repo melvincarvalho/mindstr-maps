@@ -1,0 +1,31 @@
+category: Mathematics
+aliases: real numbers, the real number line, set of real numbers
+- Real number
+  - What real numbers are
+    - Every point on the number line
+    - Any length or measurement
+    - Written as possibly endless decimals
+  - Rational numbers
+    - Fractions of whole numbers, like 3/4
+    - Decimals that stop or repeat
+    - Integers are rationals too
+  - Irrational numbers
+    - [Square root of 2 isn't a fraction](https://en.wikipedia.org/wiki/Square_root_of_2)
+    - Pi and e never repeat
+    - Greeks found irrationals about 500 BCE
+  - Key properties
+    - Ordered: any two can be compared
+    - [Completeness: no gaps in the line](https://en.wikipedia.org/wiki/Completeness_of_the_real_numbers)
+    - Between any two lies another
+    - Closed under the four operations
+  - Building the reals rigorously
+    - [Dedekind cuts split the rationals](https://en.wikipedia.org/wiki/Dedekind_cut)
+    - Cauchy sequences of rationals converge
+    - Formalised in the 1870s
+  - Size and surprises
+    - [Uncountable: more reals than integers](https://en.wikipedia.org/wiki/Cantor%27s_diagonal_argument)
+    - Almost all reals are irrational
+    - 0.999… equals exactly 1
+  - Beyond the reals
+    - Square of a real is never negative
+    - Complex numbers add √−1

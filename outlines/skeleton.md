@@ -1,0 +1,32 @@
+category: Science
+aliases: human skeleton, skeletal system, bones of the body
+- Skeleton
+  - What it does
+    - Supports the body's shape
+    - Protects brain, heart and lungs
+    - Anchors muscles so we can move
+    - Makes blood cells in marrow
+    - Stores calcium and phosphate
+  - Main divisions
+    - [Axial: skull, spine and ribcage](https://en.wikipedia.org/wiki/Axial_skeleton)
+    - [Appendicular: limbs, shoulders and pelvis](https://en.wikipedia.org/wiki/Appendicular_skeleton)
+  - Key numbers
+    - Adults have 206 bones
+    - Babies have around 300, some fuse
+    - Femur is the longest bone
+    - Stapes in the ear is smallest
+  - Notable parts
+    - [Spine has 33 vertebrae](https://en.wikipedia.org/wiki/Vertebral_column)
+    - 12 pairs of ribs
+    - Skull: cranium plus facial bones
+    - Pelvis differs between men and women
+  - Joints
+    - Hinge joints: knee and elbow
+    - Ball-and-socket: hip and shoulder
+    - Cartilage cushions bone ends
+    - Ligaments hold bones together
+  - Common problems
+    - Fractures from falls and impacts
+    - [Osteoporosis makes bones fragile](https://en.wikipedia.org/wiki/Osteoporosis)
+    - Osteoarthritis wears joint cartilage
+    - Scoliosis: sideways curve of spine

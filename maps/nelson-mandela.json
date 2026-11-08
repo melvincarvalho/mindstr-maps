@@ -1,0 +1,298 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Nelson Mandela",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#7q3mgx",
+      "name": "Early life",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3ht7qw",
+      "name": "Born 1918 in Mvezo, Eastern Cape",
+      "x": -443,
+      "y": -63,
+      "parent": "#7q3mgx"
+    },
+    {
+      "@id": "#y7qiyt",
+      "name": "From the Thembu royal family",
+      "x": -390,
+      "y": -180,
+      "parent": "#7q3mgx"
+    },
+    {
+      "@id": "#j76rzr",
+      "name": "Studied law; joined the ANC, 1944",
+      "x": -289,
+      "y": -276,
+      "link": "https://en.wikipedia.org/wiki/African_National_Congress",
+      "parent": "#7q3mgx"
+    },
+    {
+      "@id": "#umgxf2",
+      "name": "Fighting apartheid",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gubt3r",
+      "name": "Apartheid: legal racial segregation from 1948",
+      "x": -154,
+      "y": -338,
+      "link": "https://en.wikipedia.org/wiki/Apartheid",
+      "parent": "#umgxf2"
+    },
+    {
+      "@id": "#befpwz",
+      "name": "Led the 1952 Defiance Campaign",
+      "x": 0,
+      "y": -392,
+      "parent": "#umgxf2"
+    },
+    {
+      "@id": "#2qickt",
+      "name": "Co-founded armed wing Umkhonto we Sizwe, 1961",
+      "x": 203,
+      "y": -443,
+      "parent": "#umgxf2"
+    },
+    {
+      "@id": "#ius5wf",
+      "name": "Prisoner",
+      "x": 199,
+      "y": -92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ugces3",
+      "name": "Rivonia Trial: life sentence, 1964",
+      "x": 289,
+      "y": -276,
+      "link": "https://en.wikipedia.org/wiki/Rivonia_Trial",
+      "parent": "#ius5wf"
+    },
+    {
+      "@id": "#zvjnzd",
+      "name": "27 years in prison, mostly Robben Island",
+      "x": 390,
+      "y": -180,
+      "link": "https://en.wikipedia.org/wiki/Robben_Island",
+      "parent": "#ius5wf"
+    },
+    {
+      "@id": "#x62cs7",
+      "name": "Global \"Free Mandela\" campaigns",
+      "x": 443,
+      "y": -63,
+      "parent": "#ius5wf"
+    },
+    {
+      "@id": "#wm7vq8",
+      "name": "Release and transition",
+      "x": 199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#exkv4q",
+      "name": "Freed in February 1990",
+      "x": 463,
+      "y": 66,
+      "parent": "#wm7vq8"
+    },
+    {
+      "@id": "#u84fib",
+      "name": "Negotiated end of apartheid with de Klerk",
+      "x": 390,
+      "y": 180,
+      "parent": "#wm7vq8"
+    },
+    {
+      "@id": "#qzc4gs",
+      "name": "Shared Nobel Peace Prize, 1993",
+      "x": 289,
+      "y": 276,
+      "parent": "#wm7vq8"
+    },
+    {
+      "@id": "#8jyw8j",
+      "name": "President, 1994–1999",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uwxpya",
+      "name": "Elected in South Africa's first democratic election",
+      "x": 154,
+      "y": 338,
+      "parent": "#8jyw8j"
+    },
+    {
+      "@id": "#grjmzs",
+      "name": "Truth and Reconciliation Commission",
+      "x": 0,
+      "y": 392,
+      "link": "https://en.wikipedia.org/wiki/Truth_and_Reconciliation_Commission_%28South_Africa%29",
+      "parent": "#8jyw8j"
+    },
+    {
+      "@id": "#aez7b5",
+      "name": "Served one term, then stepped down",
+      "x": -203,
+      "y": 443,
+      "parent": "#8jyw8j"
+    },
+    {
+      "@id": "#8qgku6",
+      "name": "Legacy",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3nnnbt",
+      "name": "Died December 2013, aged 95",
+      "x": -289,
+      "y": 276,
+      "parent": "#8qgku6"
+    },
+    {
+      "@id": "#4qyqbp",
+      "name": "Mandela Day marked every 18 July",
+      "x": -390,
+      "y": 180,
+      "parent": "#8qgku6"
+    },
+    {
+      "@id": "#wxwc23",
+      "name": "Icon of reconciliation and forgiveness",
+      "x": -463,
+      "y": 66,
+      "parent": "#8qgku6"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,28 @@
+category: Science
+aliases: how fast is light, light speed, speed of light in vacuum
+- Speed of light
+  - How fast it is
+    - Exactly 299,792,458 metres per second
+    - About 300,000 km each second
+    - Written as c in physics
+  - Light takes time to arrive
+    - About 1.3 seconds from the Moon
+    - About 8 minutes from the Sun
+    - [A light-year is about 9.5 trillion km](https://en.wikipedia.org/wiki/Light-year)
+    - Looking far away means seeing the past
+  - How it was measured
+    - Galileo's lantern test was too crude
+    - [Rømer used Jupiter's moon Io, 1676](https://en.wikipedia.org/wiki/R%C3%B8mer%27s_determination_of_the_speed_of_light)
+    - Fizeau's spinning toothed wheel, 1849
+    - Michelson's precise mirror measurements
+  - Slowing down in materials
+    - About 25% slower in water
+    - [Bending at boundaries causes refraction](https://en.wikipedia.org/wiki/Refraction)
+  - The cosmic speed limit
+    - Same for every observer
+    - [Key to Einstein's relativity](https://en.wikipedia.org/wiki/Special_relativity)
+    - Nothing with mass can reach it
+  - Why it matters today
+    - The metre is defined by it
+    - Delays in satellite and space messages
+    - Fibre-optic internet runs near it

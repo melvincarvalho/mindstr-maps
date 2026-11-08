@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Animation",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#p4yznr",
+      "name": "How it works",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fmrvr6",
+      "name": "Still images shown in quick sequence",
+      "x": -485,
+      "y": -55,
+      "parent": "#p4yznr"
+    },
+    {
+      "@id": "#zyzbj9",
+      "name": "Usually 12 to 24 frames per second",
+      "x": -409,
+      "y": -150,
+      "parent": "#p4yznr"
+    },
+    {
+      "@id": "#d67q76",
+      "name": "Persistence of vision creates motion",
+      "x": -340,
+      "y": -236,
+      "link": "https://en.wikipedia.org/wiki/Persistence_of_vision",
+      "parent": "#p4yznr"
+    },
+    {
+      "@id": "#2t2n69",
+      "name": "Techniques",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pfhybb",
+      "name": "Hand-drawn cel animation",
+      "x": -243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Traditional_animation",
+      "parent": "#2t2n69"
+    },
+    {
+      "@id": "#9m9qnp",
+      "name": "Stop motion with puppets or clay",
+      "x": -133,
+      "y": -360,
+      "parent": "#2t2n69"
+    },
+    {
+      "@id": "#mv6ef9",
+      "name": "3D computer-generated animation",
+      "x": 0,
+      "y": -408,
+      "parent": "#2t2n69"
+    },
+    {
+      "@id": "#ejdnsn",
+      "name": "2D digital and vector animation",
+      "x": 175,
+      "y": -465,
+      "parent": "#2t2n69"
+    },
+    {
+      "@id": "#9zv9q8",
+      "name": "Motion capture of real actors",
+      "x": 243,
+      "y": -303,
+      "parent": "#2t2n69"
+    },
+    {
+      "@id": "#dc7bcj",
+      "name": "Making an animated film",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#exfgvk",
+      "name": "Script and storyboard",
+      "x": 340,
+      "y": -236,
+      "parent": "#dc7bcj"
+    },
+    {
+      "@id": "#cvjpwn",
+      "name": "Voice recording before animating",
+      "x": 409,
+      "y": -150,
+      "parent": "#dc7bcj"
+    },
+    {
+      "@id": "#dkq7g7",
+      "name": "Keyframes, then in-betweens",
+      "x": 505,
+      "y": -57,
+      "parent": "#dc7bcj"
+    },
+    {
+      "@id": "#k7x6ix",
+      "name": "Rendering, compositing and sound",
+      "x": 445,
+      "y": 51,
+      "parent": "#dc7bcj"
+    },
+    {
+      "@id": "#uzd5nj",
+      "name": "Milestones",
+      "x": 151,
+      "y": 139,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pb9jdy",
+      "name": "Gertie the Dinosaur, 1914",
+      "x": 409,
+      "y": 150,
+      "parent": "#uzd5nj"
+    },
+    {
+      "@id": "#82yxig",
+      "name": "Snow White, first Disney feature, 1937",
+      "x": 340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/Snow_White_and_the_Seven_Dwarfs_%281937_film%29",
+      "parent": "#uzd5nj"
+    },
+    {
+      "@id": "#icr4ni",
+      "name": "Toy Story, first CGI feature, 1995",
+      "x": 243,
+      "y": 303,
+      "link": "https://en.wikipedia.org/wiki/Toy_Story",
+      "parent": "#uzd5nj"
+    },
+    {
+      "@id": "#uq296f",
+      "name": "Spirited Away wins Oscar, 2003",
+      "x": 133,
+      "y": 360,
+      "parent": "#uzd5nj"
+    },
+    {
+      "@id": "#bfathn",
+      "name": "Major studios and traditions",
+      "x": -71,
+      "y": 192,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2g7q44",
+      "name": "Disney and Pixar",
+      "x": 0,
+      "y": 408,
+      "parent": "#bfathn"
+    },
+    {
+      "@id": "#57qkf9",
+      "name": "Studio Ghibli and Japanese anime",
+      "x": -175,
+      "y": 465,
+      "parent": "#bfathn"
+    },
+    {
+      "@id": "#2eeupb",
+      "name": "Aardman's claymation",
+      "x": -243,
+      "y": 303,
+      "parent": "#bfathn"
+    },
+    {
+      "@id": "#6c7mnu",
+      "name": "Where it's used",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#upe2dh",
+      "name": "Feature films and TV series",
+      "x": -355,
+      "y": 246,
+      "parent": "#6c7mnu"
+    },
+    {
+      "@id": "#w435yc",
+      "name": "Video games and advertising",
+      "x": -409,
+      "y": 150,
+      "parent": "#6c7mnu"
+    },
+    {
+      "@id": "#fq7trj",
+      "name": "Visual effects in live-action films",
+      "x": -505,
+      "y": 57,
+      "parent": "#6c7mnu"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

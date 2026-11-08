@@ -1,0 +1,30 @@
+category: Geography
+aliases: urbanisation, rural to urban migration, growth of cities
+- Urbanization
+  - What it is
+    - Growing share of people in towns
+    - Measured as percent of population urban
+    - Cities also spread outward
+  - History
+    - Under 10% urban in 1800
+    - [Industrial Revolution drew workers to cities](https://en.wikipedia.org/wiki/Industrial_Revolution)
+    - Britain majority urban by 1851
+    - World passed 50% urban around 2007
+  - Causes
+    - Jobs and higher wages in cities
+    - Farm mechanisation needs fewer workers
+    - Better schools and health care
+    - Natural growth of city populations
+  - Where it's happening now
+    - Fastest in Africa and South Asia
+    - [China's huge rural-to-urban migration](https://en.wikipedia.org/wiki/Urbanization_in_China)
+    - UN expects about 68% urban by 2050
+  - Effects
+    - Higher productivity and incomes
+    - [Informal settlements and slums grow](https://en.wikipedia.org/wiki/Informal_settlement)
+    - [Urban sprawl eats farmland](https://en.wikipedia.org/wiki/Urban_sprawl)
+    - Smaller families as people move
+  - Managing it
+    - Planning housing, transport and water
+    - Upgrading slums rather than clearing
+    - Denser, greener city design

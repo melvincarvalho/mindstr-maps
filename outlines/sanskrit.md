@@ -1,0 +1,31 @@
+category: Society
+aliases: sanskrit language, learn sanskrit, saṃskṛta
+- Sanskrit
+  - What it is
+    - Classical language of South Asia
+    - Name means "refined" or "perfected"
+    - Indo-Aryan branch of Indo-European
+    - One of India's 22 scheduled languages
+  - History
+    - [Rigveda in Vedic Sanskrit, c. 1500 BCE](https://en.wikipedia.org/wiki/Vedic_Sanskrit)
+    - Pāṇini's grammar fixed it, c. 400 BCE
+    - Mahabharata and Ramayana epics
+    - Kalidasa's classical poetry and drama
+  - Influence
+    - Sacred in Hinduism, Buddhism, Jainism
+    - Source of vocabulary across India, Southeast Asia
+    - Gave rise to Prakrits, then modern languages
+    - [Comparison with Latin revealed Indo-European](https://en.wikipedia.org/wiki/Indo-European_languages)
+  - Sounds and writing
+    - Mostly written today in Devanagari
+    - Historically in many regional scripts
+    - [Sandhi joins sounds across words](https://en.wikipedia.org/wiki/Sandhi)
+    - Precise phonetic order of the alphabet
+  - Grammar highlights
+    - Eight noun cases
+    - Singular, dual and plural
+    - Three genders
+    - Heavy use of compound words
+  - Today
+    - About 25,000 named it mother tongue, 2011
+    - Studied for yoga, ritual, philosophy

@@ -1,0 +1,363 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Vaccine",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#q96fsq",
+      "name": "What a vaccine is",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sst9m5",
+      "name": "Trains immunity without causing disease",
+      "x": -526,
+      "y": -55,
+      "parent": "#q96fsq"
+    },
+    {
+      "@id": "#h9wvr8",
+      "name": "Given by injection, mouth or nose",
+      "x": -416,
+      "y": -138,
+      "parent": "#q96fsq"
+    },
+    {
+      "@id": "#h8f4a6",
+      "name": "Some need boosters to stay effective",
+      "x": -357,
+      "y": -219,
+      "parent": "#q96fsq"
+    },
+    {
+      "@id": "#sdhk2h",
+      "name": "Main types",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#72a765",
+      "name": "Live attenuated: measles, MMR",
+      "x": -274,
+      "y": -286,
+      "parent": "#sdhk2h"
+    },
+    {
+      "@id": "#s9qchm",
+      "name": "Inactivated: injected polio vaccine",
+      "x": -180,
+      "y": -348,
+      "parent": "#sdhk2h"
+    },
+    {
+      "@id": "#4bhg3k",
+      "name": "Subunit or protein: hepatitis B, HPV",
+      "x": -68,
+      "y": -405,
+      "parent": "#sdhk2h"
+    },
+    {
+      "@id": "#8bfydt",
+      "name": "Toxoid: tetanus and diphtheria",
+      "x": 77,
+      "y": -453,
+      "parent": "#sdhk2h"
+    },
+    {
+      "@id": "#6rxrjf",
+      "name": "mRNA: some COVID-19 vaccines",
+      "x": 172,
+      "y": -333,
+      "link": "https://en.wikipedia.org/wiki/MRNA_vaccine",
+      "parent": "#sdhk2h"
+    },
+    {
+      "@id": "#mrdasw",
+      "name": "Viral vector: some Ebola vaccines",
+      "x": 370,
+      "y": -390,
+      "parent": "#sdhk2h"
+    },
+    {
+      "@id": "#ueiyu4",
+      "name": "History",
+      "x": 222,
+      "y": -48,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5ses3n",
+      "name": "Jenner's smallpox vaccine in 1796",
+      "x": 357,
+      "y": -219,
+      "link": "https://en.wikipedia.org/wiki/Edward_Jenner",
+      "parent": "#ueiyu4"
+    },
+    {
+      "@id": "#e8ujda",
+      "name": "Pasteur's rabies vaccine in 1885",
+      "x": 416,
+      "y": -138,
+      "parent": "#ueiyu4"
+    },
+    {
+      "@id": "#5i5fx7",
+      "name": "Salk's polio vaccine in 1955",
+      "x": 446,
+      "y": -47,
+      "parent": "#ueiyu4"
+    },
+    {
+      "@id": "#ykencr",
+      "name": "Smallpox declared eradicated in 1980",
+      "x": 446,
+      "y": 47,
+      "link": "https://en.wikipedia.org/wiki/Smallpox",
+      "parent": "#ueiyu4"
+    },
+    {
+      "@id": "#f9ju6x",
+      "name": "Schedules",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3vzy98",
+      "name": "Most doses given in childhood",
+      "x": 416,
+      "y": 138,
+      "parent": "#f9ju6x"
+    },
+    {
+      "@id": "#kyvh24",
+      "name": "Teen doses like HPV and boosters",
+      "x": 357,
+      "y": 219,
+      "parent": "#f9ju6x"
+    },
+    {
+      "@id": "#6qnj83",
+      "name": "Yearly flu shots for many adults",
+      "x": 274,
+      "y": 286,
+      "parent": "#f9ju6x"
+    },
+    {
+      "@id": "#fxre9j",
+      "name": "Travel vaccines for some destinations",
+      "x": 180,
+      "y": 348,
+      "parent": "#f9ju6x"
+    },
+    {
+      "@id": "#wgatvu",
+      "name": "Safety",
+      "x": -60,
+      "y": 178,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#85wj5k",
+      "name": "Tested in staged clinical trials",
+      "x": 68,
+      "y": 405,
+      "parent": "#wgatvu"
+    },
+    {
+      "@id": "#7w45ay",
+      "name": "Sore arm or mild fever common",
+      "x": -77,
+      "y": 453,
+      "parent": "#wgatvu"
+    },
+    {
+      "@id": "#kqph6t",
+      "name": "Serious reactions are rare",
+      "x": -172,
+      "y": 333,
+      "parent": "#wgatvu"
+    },
+    {
+      "@id": "#8m7ark",
+      "name": "Monitored after approval for side effects",
+      "x": -370,
+      "y": 390,
+      "parent": "#wgatvu"
+    },
+    {
+      "@id": "#h65534",
+      "name": "Impact",
+      "x": -212,
+      "y": 70,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9b39k4",
+      "name": "Herd immunity protects the unvaccinated",
+      "x": -357,
+      "y": 219,
+      "link": "https://en.wikipedia.org/wiki/Herd_immunity",
+      "parent": "#h65534"
+    },
+    {
+      "@id": "#59fqpt",
+      "name": "Saves millions of lives each year",
+      "x": -416,
+      "y": 138,
+      "parent": "#h65534"
+    },
+    {
+      "@id": "#hmx8ua",
+      "name": "Measles returns when coverage falls",
+      "x": -466,
+      "y": 49,
+      "parent": "#h65534"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 5,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 12,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    },
+    {
+      "start": 0,
+      "end": 27
+    },
+    {
+      "start": 27,
+      "end": 28
+    },
+    {
+      "start": 27,
+      "end": 29
+    },
+    {
+      "start": 27,
+      "end": 30
+    }
+  ],
+  "selectedNode": 0
+}

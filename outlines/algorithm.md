@@ -1,0 +1,30 @@
+category: Mathematics
+aliases: algorithms, what is an algorithm, algorithm definition
+- Algorithm
+  - A precise recipe for a task
+    - Finite list of clear steps
+    - Takes input, produces output
+    - Always finishes with an answer
+  - Everyday examples
+    - Long division taught at school
+    - Following a cooking recipe
+    - Sat nav finding the shortest route
+  - Classic algorithms
+    - [Euclid's method for greatest common divisor](https://en.wikipedia.org/wiki/Euclidean_algorithm)
+    - [Binary search halves the list](https://en.wikipedia.org/wiki/Binary_search)
+    - Sorting: merge sort and quicksort
+    - [Dijkstra's shortest path in graphs](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
+  - Measuring how good it is
+    - Correct for every possible input
+    - Speed grows with input size
+    - [Big O notation compares growth](https://en.wikipedia.org/wiki/Big_O_notation)
+    - Memory used matters too
+  - Design strategies
+    - Divide and conquer
+    - Greedy: best choice each step
+    - Dynamic programming reuses solved subproblems
+    - Brute force tries everything
+  - History and limits
+    - Named after al-Khwarizmi, 9th century
+    - Turing defined computation in 1936
+    - [Some problems have no algorithm](https://en.wikipedia.org/wiki/Halting_problem)

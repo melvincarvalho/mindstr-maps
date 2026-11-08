@@ -1,0 +1,31 @@
+category: Philosophy and religion
+aliases: traditional african religions, african traditional religion, african indigenous religions
+- African traditional religions
+  - Overview
+    - Indigenous beliefs of sub-Saharan Africa
+    - Many ethnic traditions, no single creed
+    - Passed down orally, not in scripture
+    - Often practised alongside Christianity or Islam
+  - Common beliefs
+    - A supreme creator, often seen as distant
+    - Lesser deities and spirits active daily
+    - [Ancestors guide and protect the living](https://en.wikipedia.org/wiki/Veneration_of_the_dead)
+    - Harmony between people, nature and spirits
+  - Examples
+    - [Yoruba religion and the Orishas](https://en.wikipedia.org/wiki/Yoruba_religion)
+    - Akan religion of Ghana
+    - Zulu traditional religion
+    - Odinani, the Igbo tradition
+  - Practices
+    - [Ifá divination of the Yoruba](https://en.wikipedia.org/wiki/If%C3%A1)
+    - Offerings and libations
+    - Music, drumming and masked dance
+    - Rites of passage mark life stages
+  - Religious specialists
+    - Diviners interpret the spirit world
+    - Herbalists and traditional healers
+    - Priests serve shrines of deities
+  - In the Americas
+    - [Vodou in Haiti](https://en.wikipedia.org/wiki/Haitian_Vodou)
+    - Santería in Cuba
+    - Candomblé in Brazil

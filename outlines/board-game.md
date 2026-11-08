@@ -1,0 +1,31 @@
+category: Life and home
+aliases: board games, tabletop games
+- Board game
+  - The basics
+    - Pieces moved on a marked board
+    - Turns, rules and a way to win
+    - Dice add chance; some are pure strategy
+  - Ancient classics
+    - Senet, played in ancient Egypt
+    - Go, played in China for millennia
+    - [Chess grew from India's chaturanga](https://en.wikipedia.org/wiki/Chaturanga)
+    - Mancala counting games across Africa
+  - Families of games
+    - Race games: Ludo, backgammon
+    - Abstract strategy: chess, draughts, Go
+    - [Property trading: Monopoly (1935)](https://en.wikipedia.org/wiki/Monopoly_%28game%29)
+    - Word games: Scrabble
+    - Deduction: Cluedo (Clue)
+  - The modern hobby boom
+    - [Catan (1995) went worldwide](https://en.wikipedia.org/wiki/Catan)
+    - [Eurogames favour strategy over luck](https://en.wikipedia.org/wiki/Eurogame)
+    - Cooperative games like Pandemic
+    - Legacy games change as you play
+  - Choosing and playing
+    - Check player count and length
+    - Light "gateway" games for beginners
+    - Read the rules or watch a teach
+  - Machines and meetups
+    - [Deep Blue beat Kasparov in 1997](https://en.wikipedia.org/wiki/Deep_Blue_%28chess_computer%29)
+    - AlphaGo beat Lee Sedol in 2016
+    - Board game cafés and conventions

@@ -1,0 +1,29 @@
+category: Science
+aliases: what is metabolism, cellular metabolism, metabolic pathways
+- Metabolism
+  - Two sides
+    - [Catabolism breaks molecules down for energy](https://en.wikipedia.org/wiki/Catabolism)
+    - Anabolism builds molecules using energy
+    - Enzymes speed up every step
+  - Energy currency
+    - [ATP stores and delivers energy](https://en.wikipedia.org/wiki/Adenosine_triphosphate)
+    - Made mostly in mitochondria
+    - Oxygen allows far more ATP
+  - Main pathways
+    - Glycolysis splits glucose in the cytoplasm
+    - [Citric acid cycle in mitochondria](https://en.wikipedia.org/wiki/Citric_acid_cycle)
+    - Electron transport chain makes most ATP
+    - Without oxygen: lactic acid fermentation
+  - Fuels
+    - Carbohydrates: quick, stored as glycogen
+    - Fats: dense store, 9 kcal per gram
+    - Proteins: mainly for building tissue
+  - Metabolic rate
+    - [Basal metabolic rate: energy at rest](https://en.wikipedia.org/wiki/Basal_metabolic_rate)
+    - Resting needs are most daily energy
+    - Rises with muscle mass and activity
+    - Thyroid hormones set the pace
+  - Health
+    - Insulin moves glucose into cells
+    - Diabetes: blood sugar control fails
+    - Inherited disorders like phenylketonuria

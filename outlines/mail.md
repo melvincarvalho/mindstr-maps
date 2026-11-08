@@ -1,0 +1,28 @@
+category: Technology
+aliases: postal service, postal system, snail mail, postal mail
+- Mail
+  - How a letter travels
+    - A stamp pays the postage
+    - Postbox or post office collects it
+    - Sorting centre reads the address
+    - Postal worker delivers to the door
+  - Addresses and postcodes
+    - Postcodes group addresses for faster sorting
+    - [US ZIP codes introduced 1963](https://en.wikipedia.org/wiki/ZIP_Code)
+    - Machines read handwritten addresses automatically
+  - History
+    - Persian and Roman relay couriers
+    - [Penny Black: first adhesive stamp, 1840](https://en.wikipedia.org/wiki/Penny_Black)
+    - [Pony Express rode 1860 to 1861](https://en.wikipedia.org/wiki/Pony_Express)
+    - Airmail flights from the 1910s
+  - What gets sent
+    - Letters, postcards and greeting cards
+    - Bills and official documents
+    - Parcels from online shopping
+  - Around the world
+    - [Universal Postal Union founded 1874](https://en.wikipedia.org/wiki/Universal_Postal_Union)
+    - Lets mail cross borders with one stamp
+  - Mail today
+    - Email cut letter volumes sharply
+    - E-commerce made parcels boom
+    - Tracking numbers follow each parcel

@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Weather",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#tzmt5w",
+      "name": "What weather is",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r9mpvs",
+      "name": "Atmosphere's state over hours to days",
+      "x": -505,
+      "y": -57,
+      "parent": "#tzmt5w"
+    },
+    {
+      "@id": "#hiwyjz",
+      "name": "Climate is the long-term average",
+      "x": -409,
+      "y": -150,
+      "parent": "#tzmt5w"
+    },
+    {
+      "@id": "#ax8wwf",
+      "name": "Happens mostly in the troposphere",
+      "x": -340,
+      "y": -236,
+      "parent": "#tzmt5w"
+    },
+    {
+      "@id": "#cex3vg",
+      "name": "What drives it",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bm6pnu",
+      "name": "Sun heats Earth unevenly",
+      "x": -243,
+      "y": -303,
+      "parent": "#cex3vg"
+    },
+    {
+      "@id": "#hcsgk6",
+      "name": "Air pressure differences make wind",
+      "x": -133,
+      "y": -360,
+      "link": "https://en.wikipedia.org/wiki/Atmospheric_pressure",
+      "parent": "#cex3vg"
+    },
+    {
+      "@id": "#q5qxxg",
+      "name": "Water evaporates, condenses into clouds",
+      "x": 0,
+      "y": -408,
+      "parent": "#cex3vg"
+    },
+    {
+      "@id": "#75xfja",
+      "name": "Earth's spin curves winds and storms",
+      "x": 175,
+      "y": -465,
+      "parent": "#cex3vg"
+    },
+    {
+      "@id": "#bdrc2h",
+      "name": "Main ingredients",
+      "x": 193,
+      "y": -99,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c6ftkv",
+      "name": "Temperature: how warm the air is",
+      "x": 243,
+      "y": -303,
+      "parent": "#bdrc2h"
+    },
+    {
+      "@id": "#j79gf8",
+      "name": "Humidity: water vapour in air",
+      "x": 340,
+      "y": -236,
+      "parent": "#bdrc2h"
+    },
+    {
+      "@id": "#q523ei",
+      "name": "Cloud cover and precipitation",
+      "x": 409,
+      "y": -150,
+      "parent": "#bdrc2h"
+    },
+    {
+      "@id": "#3be8z3",
+      "name": "Wind speed and direction",
+      "x": 445,
+      "y": -51,
+      "parent": "#bdrc2h"
+    },
+    {
+      "@id": "#4d6jni",
+      "name": "Weather systems",
+      "x": 193,
+      "y": 99,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d8bmh6",
+      "name": "High pressure brings settled weather",
+      "x": 445,
+      "y": 51,
+      "parent": "#4d6jni"
+    },
+    {
+      "@id": "#sy8w6r",
+      "name": "Low pressure brings cloud and rain",
+      "x": 409,
+      "y": 150,
+      "parent": "#4d6jni"
+    },
+    {
+      "@id": "#22rn8e",
+      "name": "Fronts: where air masses meet",
+      "x": 340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/Weather_front",
+      "parent": "#4d6jni"
+    },
+    {
+      "@id": "#gceui8",
+      "name": "Jet stream steers weather systems",
+      "x": 243,
+      "y": 303,
+      "link": "https://en.wikipedia.org/wiki/Jet_stream",
+      "parent": "#4d6jni"
+    },
+    {
+      "@id": "#hhakit",
+      "name": "Forecasting",
+      "x": -33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a5ss38",
+      "name": "Satellites, radar and weather balloons",
+      "x": 133,
+      "y": 360,
+      "parent": "#hhakit"
+    },
+    {
+      "@id": "#gsuu36",
+      "name": "Computer models simulate the atmosphere",
+      "x": 0,
+      "y": 408,
+      "link": "https://en.wikipedia.org/wiki/Numerical_weather_prediction",
+      "parent": "#hhakit"
+    },
+    {
+      "@id": "#ywu6zc",
+      "name": "Reliable about a week ahead",
+      "x": -175,
+      "y": 465,
+      "parent": "#hhakit"
+    },
+    {
+      "@id": "#m345u5",
+      "name": "Percent chance of rain explained",
+      "x": -243,
+      "y": 303,
+      "parent": "#hhakit"
+    },
+    {
+      "@id": "#pequdp",
+      "name": "Using forecasts safely",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bzirit",
+      "name": "Follow official weather warnings",
+      "x": -340,
+      "y": 236,
+      "parent": "#pequdp"
+    },
+    {
+      "@id": "#i7njp9",
+      "name": "Check before travel or outdoor plans",
+      "x": -409,
+      "y": 150,
+      "parent": "#pequdp"
+    },
+    {
+      "@id": "#pceys7",
+      "name": "Dress for heat, cold and wet",
+      "x": -505,
+      "y": 57,
+      "parent": "#pequdp"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,30 @@
+category: Society
+aliases: dictator, dictatorships, autocratic rule, military dictatorship
+- Dictatorship
+  - Definition
+    - Rule by one person or small group
+    - No free elections or real limits
+    - Roman dictators held temporary emergency power
+  - Kinds
+    - [Military juntas, as Pinochet's Chile](https://en.wikipedia.org/wiki/Military_dictatorship)
+    - Single-party states
+    - Personalist rule around one leader
+    - [Totalitarian regimes control all of life](https://en.wikipedia.org/wiki/Totalitarianism)
+  - How power is taken
+    - Coups by the armed forces
+    - Revolutions and civil wars
+    - Elected leaders dismantling checks gradually
+  - How power is kept
+    - Secret police and surveillance
+    - Censorship and propaganda
+    - Personality cults and loyal elites
+    - Rigged or show elections
+  - 20th-century examples
+    - Hitler: Holocaust killed six million Jews
+    - [Stalin: Gulag, purges and famine](https://en.wikipedia.org/wiki/Great_Purge)
+    - Mao: Great Leap famine, tens of millions
+    - [Khmer Rouge killed about 1.5–2 million](https://en.wikipedia.org/wiki/Cambodian_genocide)
+  - Why and how they end
+    - Supporters cite order, speed, stability
+    - Critics: abuses, corruption, succession crises
+    - End by protest, defeat or negotiated transition

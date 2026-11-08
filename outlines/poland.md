@@ -1,0 +1,34 @@
+category: Geography
+aliases: republic of poland, polska
+- Poland
+  - Geography
+    - Central Europe, about 313,000 km²
+    - Mostly lowland plains; Tatra Mountains south
+    - Vistula is the longest river
+    - Warsaw is the capital
+  - People and languages
+    - About 37 million people
+    - Polish is the official language
+    - Mostly Roman Catholic
+    - Many Ukrainians arrived since 2022
+  - History in brief
+    - Mieszko I baptised in 966
+    - Polish–Lithuanian Commonwealth formed 1569
+    - [Partitioned 1795; independence regained 1918](https://en.wikipedia.org/wiki/Partitions_of_Poland)
+    - Invaded 1939; about 6 million citizens killed
+    - [Solidarity movement led to 1989 transition](https://en.wikipedia.org/wiki/Solidarity_%28Polish_trade_union%29)
+  - Government
+    - Parliamentary republic
+    - Directly elected president
+    - Sejm and Senate form parliament
+    - Joined NATO 1999, EU 2004
+  - Economy
+    - Currency is the złoty
+    - Fast growth since the 1990s
+    - Manufacturing, car parts and IT services
+    - Shifting from coal toward other energy
+  - Culture
+    - [Composer Frédéric Chopin](https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin)
+    - Copernicus and Marie Skłodowska-Curie
+    - Pope John Paul II
+    - Pierogi and Kraków's medieval old town

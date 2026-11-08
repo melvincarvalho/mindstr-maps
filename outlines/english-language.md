@@ -1,0 +1,32 @@
+category: Society
+aliases: english, learn english, english speakers
+- English language
+  - Where it's spoken
+    - About 1.5 billion speakers in total
+    - About 380 million native speakers
+    - UK, US, Canada, Australia, Ireland, New Zealand
+    - Official in over 50 countries
+    - Global language of science and business
+  - Family
+    - Indo-European, West Germanic branch
+    - Closest relatives: Frisian, Dutch, German
+    - Over half its vocabulary from French, Latin
+  - History
+    - [Old English arrived with Anglo-Saxons](https://en.wikipedia.org/wiki/Old_English)
+    - Norman Conquest of 1066 brought French
+    - [Great Vowel Shift changed pronunciation](https://en.wikipedia.org/wiki/Great_Vowel_Shift)
+    - Empire and America spread it worldwide
+  - Sounds and writing
+    - 26-letter Latin alphabet
+    - About 44 sounds in most accents
+    - Spelling is famously irregular
+    - "Th" sounds are rare worldwide
+  - Grammar highlights
+    - No grammatical gender for nouns
+    - Fixed subject–verb–object order
+    - Many tenses built with helper verbs
+    - [Phrasal verbs: give up, look after](https://en.wikipedia.org/wiki/Phrasal_verb)
+  - Tips for learners
+    - The world's most studied foreign language
+    - Learn spelling patterns, not rules
+    - [Word stress changes meaning](https://en.wikipedia.org/wiki/Stress_%28linguistics%29)

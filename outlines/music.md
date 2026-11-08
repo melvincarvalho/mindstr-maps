@@ -1,0 +1,33 @@
+category: Arts and culture
+aliases: what is music, musical art
+- Music
+  - Building blocks
+    - [Pitch: how high or low](https://en.wikipedia.org/wiki/Pitch_%28music%29)
+    - Rhythm: patterns in time
+    - Melody: notes in sequence
+    - Harmony: notes sounding together
+    - Timbre: the colour of a sound
+    - Dynamics: loud and soft
+  - How it's made
+    - Voice, humanity's first instrument
+    - Strings, wind, percussion and keyboards
+    - Electronic synthesis and sampling
+    - Written in notation or learned by ear
+  - History
+    - [Bone flutes over 40,000 years old](https://en.wikipedia.org/wiki/Prehistoric_music)
+    - Medieval chant and early polyphony
+    - Classical tradition: Bach, Mozart, Beethoven
+    - Edison's phonograph, 1877, enabled recording
+  - Traditions and genres
+    - Folk music in every culture
+    - Indian classical ragas and talas
+    - Jazz, blues and rock from America
+    - Pop, hip hop, electronic dance
+  - Why humans make music
+    - Ritual, worship and celebration
+    - Moves emotions and memory
+    - Bonds groups through shared rhythm
+    - [Music therapy supports health](https://en.wikipedia.org/wiki/Music_therapy)
+  - Getting involved
+    - Learn an instrument or sing
+    - Listen actively across genres

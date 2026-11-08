@@ -1,0 +1,30 @@
+category: Arts and culture
+aliases: museums, art museum, history museum, art gallery
+- Museum
+  - What a museum does
+    - Collects and preserves objects
+    - Researches and documents its collection
+    - Displays and explains to the public
+  - Origins
+    - Named after the Greek Muses
+    - Renaissance cabinets of curiosities
+    - [Ashmolean opened to the public 1683](https://en.wikipedia.org/wiki/Ashmolean_Museum)
+    - Louvre opened in 1793 after the Revolution
+  - Main types
+    - Art museums and galleries
+    - Natural history and science museums
+    - History, archaeology and local museums
+    - Open-air and living history museums
+  - Famous museums
+    - [Louvre, Paris: the most visited](https://en.wikipedia.org/wiki/Louvre)
+    - British Museum, London, founded 1753
+    - Metropolitan Museum of Art, New York
+    - Palace Museum in Beijing's Forbidden City
+  - Behind the scenes
+    - Curators choose and interpret objects
+    - Conservators repair and protect
+    - Registrars track loans and storage
+  - Debates today
+    - [Returning objects taken in colonial times](https://en.wikipedia.org/wiki/Repatriation_%28cultural_property%29)
+    - Free entry versus ticket charges
+    - Digital collections open to all

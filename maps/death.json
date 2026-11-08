@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Death",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#mmjn87",
+      "name": "What death is",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xy8q3s",
+      "name": "Permanent end of life's processes",
+      "x": -485,
+      "y": -58,
+      "parent": "#mmjn87"
+    },
+    {
+      "@id": "#89rrtq",
+      "name": "Heart and breathing stop",
+      "x": -405,
+      "y": -156,
+      "parent": "#mmjn87"
+    },
+    {
+      "@id": "#9d7w7j",
+      "name": "Brain death is a legal definition",
+      "x": -330,
+      "y": -245,
+      "link": "https://en.wikipedia.org/wiki/Brain_death",
+      "parent": "#mmjn87"
+    },
+    {
+      "@id": "#yznmwk",
+      "name": "Why living things die",
+      "x": -51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kr3xiv",
+      "name": "Aging gradually wears the body down",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Ageing",
+      "parent": "#yznmwk"
+    },
+    {
+      "@id": "#9bpjwm",
+      "name": "Disease, injury and infection",
+      "x": -104,
+      "y": -367,
+      "parent": "#yznmwk"
+    },
+    {
+      "@id": "#qfmyxp",
+      "name": "Most deaths worldwide are from illness",
+      "x": 42,
+      "y": -423,
+      "parent": "#yznmwk"
+    },
+    {
+      "@id": "#2yshmh",
+      "name": "After death",
+      "x": 155,
+      "y": -157,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8prp6f",
+      "name": "Body cools and muscles stiffen",
+      "x": 234,
+      "y": -485,
+      "parent": "#2yshmh"
+    },
+    {
+      "@id": "#mryjd8",
+      "name": "Decomposition returns nutrients to soil",
+      "x": 281,
+      "y": -281,
+      "parent": "#2yshmh"
+    },
+    {
+      "@id": "#yq8y6d",
+      "name": "Organ donation can save other lives",
+      "x": 389,
+      "y": -212,
+      "parent": "#2yshmh"
+    },
+    {
+      "@id": "#i3z4zz",
+      "name": "Grief",
+      "x": 227,
+      "y": 27,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qhasq3",
+      "name": "Grief is a natural response",
+      "x": 430,
+      "y": -106,
+      "link": "https://en.wikipedia.org/wiki/Grief",
+      "parent": "#i3z4zz"
+    },
+    {
+      "@id": "#mcp632",
+      "name": "It comes in waves, not stages",
+      "x": 450,
+      "y": 0,
+      "parent": "#i3z4zz"
+    },
+    {
+      "@id": "#7hr47r",
+      "name": "Talking and support help healing",
+      "x": 430,
+      "y": 106,
+      "parent": "#i3z4zz"
+    },
+    {
+      "@id": "#qypu4h",
+      "name": "Bereavement support services can help",
+      "x": 372,
+      "y": 203,
+      "parent": "#i3z4zz"
+    },
+    {
+      "@id": "#6vgp2v",
+      "name": "Rituals and customs",
+      "x": 51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#86as47",
+      "name": "Burial and cremation are most common",
+      "x": 281,
+      "y": 281,
+      "parent": "#6vgp2v"
+    },
+    {
+      "@id": "#fmjus2",
+      "name": "Funerals, wakes and memorials",
+      "x": 164,
+      "y": 335,
+      "parent": "#6vgp2v"
+    },
+    {
+      "@id": "#qrppn5",
+      "name": "Day of the Dead honours ancestors",
+      "x": 38,
+      "y": 391,
+      "link": "https://en.wikipedia.org/wiki/Day_of_the_Dead",
+      "parent": "#6vgp2v"
+    },
+    {
+      "@id": "#nskmfe",
+      "name": "Mourning periods vary across cultures",
+      "x": -124,
+      "y": 447,
+      "parent": "#6vgp2v"
+    },
+    {
+      "@id": "#8cvyce",
+      "name": "Meaning and preparation",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xj4iya",
+      "name": "Religions offer beliefs about afterlife",
+      "x": -225,
+      "y": 312,
+      "parent": "#8cvyce"
+    },
+    {
+      "@id": "#ic2epj",
+      "name": "Philosophers ask why death matters",
+      "x": -330,
+      "y": 245,
+      "parent": "#8cvyce"
+    },
+    {
+      "@id": "#m27c24",
+      "name": "Palliative care eases final months",
+      "x": -405,
+      "y": 156,
+      "link": "https://en.wikipedia.org/wiki/Palliative_care",
+      "parent": "#8cvyce"
+    },
+    {
+      "@id": "#cccpnw",
+      "name": "Wills and advance care plans",
+      "x": -445,
+      "y": 54,
+      "parent": "#8cvyce"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,309 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Tradition",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#tnd296",
+      "name": "What a tradition is",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tghjrn",
+      "name": "Belief or custom handed down",
+      "x": -484,
+      "y": -65,
+      "parent": "#tnd296"
+    },
+    {
+      "@id": "#9eksq6",
+      "name": "From Latin tradere, \"to hand over\"",
+      "x": -396,
+      "y": -171,
+      "parent": "#tnd296"
+    },
+    {
+      "@id": "#2wp8eu",
+      "name": "Gives continuity between generations",
+      "x": -305,
+      "y": -265,
+      "parent": "#tnd296"
+    },
+    {
+      "@id": "#327xe7",
+      "name": "Kinds of tradition",
+      "x": 19,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gsc4p9",
+      "name": "Religious rites and holy days",
+      "x": -181,
+      "y": -330,
+      "parent": "#327xe7"
+    },
+    {
+      "@id": "#pgit4x",
+      "name": "Family customs and recipes",
+      "x": -41,
+      "y": -391,
+      "parent": "#327xe7"
+    },
+    {
+      "@id": "#kmvdnf",
+      "name": "National ceremonies and symbols",
+      "x": 140,
+      "y": -445,
+      "parent": "#327xe7"
+    },
+    {
+      "@id": "#ei44nc",
+      "name": "Crafts, skills and trade practices",
+      "x": 246,
+      "y": -301,
+      "parent": "#327xe7"
+    },
+    {
+      "@id": "#5eeq9n",
+      "name": "How traditions pass on",
+      "x": 218,
+      "y": -60,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ghfccb",
+      "name": "Storytelling and oral tradition",
+      "x": 355,
+      "y": -221,
+      "link": "https://en.wikipedia.org/wiki/Oral_tradition",
+      "parent": "#5eeq9n"
+    },
+    {
+      "@id": "#exnkcn",
+      "name": "Imitation, practice and apprenticeship",
+      "x": 426,
+      "y": -117,
+      "parent": "#5eeq9n"
+    },
+    {
+      "@id": "#ex6ziv",
+      "name": "Writing, records and institutions",
+      "x": 450,
+      "y": 0,
+      "parent": "#5eeq9n"
+    },
+    {
+      "@id": "#iqbfmd",
+      "name": "Why traditions matter",
+      "x": 182,
+      "y": 113,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tqgwj2",
+      "name": "Build identity and belonging",
+      "x": 464,
+      "y": 127,
+      "parent": "#iqbfmd"
+    },
+    {
+      "@id": "#kke69z",
+      "name": "Mark life stages and seasons",
+      "x": 355,
+      "y": 221,
+      "parent": "#iqbfmd"
+    },
+    {
+      "@id": "#wdrtsv",
+      "name": "Carry accumulated practical knowledge",
+      "x": 246,
+      "y": 301,
+      "parent": "#iqbfmd"
+    },
+    {
+      "@id": "#5k5buc",
+      "name": "Change and invention",
+      "x": -19,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#efqz9u",
+      "name": "Some \"ancient\" traditions are recent inventions",
+      "x": 110,
+      "y": 349,
+      "link": "https://en.wikipedia.org/wiki/Invented_tradition",
+      "parent": "#5k5buc"
+    },
+    {
+      "@id": "#ucqh3c",
+      "name": "Traditions adapt to new circumstances",
+      "x": -43,
+      "y": 407,
+      "parent": "#5k5buc"
+    },
+    {
+      "@id": "#4pbkum",
+      "name": "Modernization challenges older customs",
+      "x": -253,
+      "y": 465,
+      "link": "https://en.wikipedia.org/wiki/Modernization_theory",
+      "parent": "#5k5buc"
+    },
+    {
+      "@id": "#xxhsuf",
+      "name": "Debates",
+      "x": -202,
+      "y": 88,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6sus7c",
+      "name": "Conservatism values inherited institutions",
+      "x": -305,
+      "y": 265,
+      "link": "https://en.wikipedia.org/wiki/Conservatism",
+      "parent": "#xxhsuf"
+    },
+    {
+      "@id": "#kbxp53",
+      "name": "Criticized when it justifies inequality",
+      "x": -396,
+      "y": 171,
+      "parent": "#xxhsuf"
+    },
+    {
+      "@id": "#89nm4v",
+      "name": "UNESCO safeguards living heritage",
+      "x": -464,
+      "y": 62,
+      "link": "https://en.wikipedia.org/wiki/Intangible_cultural_heritage",
+      "parent": "#xxhsuf"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

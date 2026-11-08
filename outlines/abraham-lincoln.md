@@ -1,0 +1,29 @@
+category: People
+aliases: president lincoln, honest abe, abe lincoln
+- Abraham Lincoln
+  - Early life
+    - Born 1809 in a Kentucky log cabin
+    - Largely self-taught on the frontier
+    - Lawyer and state legislator in Illinois
+  - Road to the presidency
+    - [Lincoln–Douglas debates of 1858](https://en.wikipedia.org/wiki/Lincoln%E2%80%93Douglas_debates)
+    - Opposed the spread of slavery westward
+    - Elected 16th US president in 1860
+  - Civil War leader
+    - Southern states seceded; war began 1861
+    - Held the Union together for four years
+    - [Gettysburg Address, November 1863](https://en.wikipedia.org/wiki/Gettysburg_Address)
+    - Re-elected in 1864
+  - Ending slavery
+    - [Emancipation Proclamation took effect 1863](https://en.wikipedia.org/wiki/Emancipation_Proclamation)
+    - Freed enslaved people in Confederate areas
+    - [13th Amendment abolished slavery, 1865](https://en.wikipedia.org/wiki/Thirteenth_Amendment_to_the_United_States_Constitution)
+  - Assassination
+    - [Shot by John Wilkes Booth, April 1865](https://en.wikipedia.org/wiki/Assassination_of_Abraham_Lincoln)
+    - Died days after Lee surrendered
+    - First US president to be assassinated
+  - Legacy
+    - Often ranked among the greatest presidents
+    - Lincoln Memorial in Washington, D.C.
+    - Face on the penny and $5 bill
+    - Symbol of democracy and national unity

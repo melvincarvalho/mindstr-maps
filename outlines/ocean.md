@@ -1,0 +1,30 @@
+category: Geography
+aliases: world ocean, the oceans, oceans of the world, five oceans
+- Ocean
+  - The world ocean
+    - Covers about 71% of Earth
+    - Holds about 97% of Earth's water
+    - Average depth about 3,700 metres
+  - Five named oceans
+    - Pacific, the largest and deepest
+    - Atlantic, widening between the Americas and Europe
+    - Indian, the warmest
+    - Southern, circling Antarctica
+    - Arctic, the smallest and shallowest
+  - The ocean floor
+    - Continental shelves fringe the land
+    - [Mid-ocean ridges make new crust](https://en.wikipedia.org/wiki/Mid-ocean_ridge)
+    - Vast flat abyssal plains
+    - [Challenger Deep, about 10,900 m](https://en.wikipedia.org/wiki/Challenger_Deep)
+  - Circulation
+    - Surface currents driven by wind
+    - [Deep conveyor driven by temperature and salt](https://en.wikipedia.org/wiki/Thermohaline_circulation)
+    - Moves heat from tropics to poles
+  - Role in climate
+    - Phytoplankton make about half our oxygen
+    - Absorbs about a quarter of CO₂ emissions
+    - Stores over 90% of extra heat
+  - Exploring and protecting
+    - Most of the deep sea is unexplored
+    - [Law of the Sea sets national zones](https://en.wikipedia.org/wiki/United_Nations_Convention_on_the_Law_of_the_Sea)
+    - Marine protected areas limit fishing

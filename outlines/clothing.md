@@ -1,0 +1,31 @@
+category: Life and home
+aliases: clothes, apparel, garments
+- Clothing
+  - Why people wear clothes
+    - Protection from cold, sun and injury
+    - Modesty norms differ between cultures
+    - Signals identity, status and role
+    - Uniforms mark jobs and teams
+  - A long history
+    - [Hides and furs worn in prehistory](https://en.wikipedia.org/wiki/History_of_clothing_and_textiles)
+    - Sewing needles over 40,000 years old
+    - Weaving spread with early farming
+    - Factory-made clothes since the 1800s
+  - What clothes are made of
+    - Plant fibres: cotton and linen
+    - Animal fibres: wool, silk, leather
+    - [Synthetics like polyester and nylon](https://en.wikipedia.org/wiki/Synthetic_fiber)
+    - Fabric is woven or knitted yarn
+  - Main garment types
+    - Tops: shirts, blouses, jumpers
+    - Bottoms: trousers, skirts, shorts
+    - Wraps and robes like sari, kimono
+    - Outerwear, underwear and footwear
+  - Fashion and industry
+    - [Trends cycle through seasons and decades](https://en.wikipedia.org/wiki/Fashion)
+    - [Fast fashion makes cheap clothes quickly](https://en.wikipedia.org/wiki/Fast_fashion)
+    - Large water use and textile waste
+  - Caring for clothes
+    - Follow the care label symbols
+    - Wash cooler, line-dry when possible
+    - Repair, swap or buy second-hand

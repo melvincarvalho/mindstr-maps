@@ -1,0 +1,31 @@
+category: Arts and culture
+aliases: how singing works, vocal music, learn to sing
+- Singing
+  - How the voice works
+    - Breath from the lungs powers sound
+    - [Vocal folds vibrate in the larynx](https://en.wikipedia.org/wiki/Vocal_folds)
+    - Throat, mouth and nose shape tone
+  - Voice types
+    - Soprano, mezzo-soprano and alto
+    - Tenor, baritone and bass
+    - [Range and timbre define each type](https://en.wikipedia.org/wiki/Voice_type)
+  - Technique
+    - Diaphragm-supported breathing
+    - Good posture frees the voice
+    - Clear vowels and diction
+    - Chest, head and mixed registers
+  - Styles and traditions
+    - [Opera and classical bel canto](https://en.wikipedia.org/wiki/Bel_canto)
+    - Choral and a cappella singing
+    - Gospel, soul and blues
+    - Pop, rock and musical theatre
+    - Throat singing and yodelling
+  - Practice and care
+    - Warm up with scales and hums
+    - Stay hydrated and rest the voice
+    - Avoid shouting and straining
+    - Lessons and recording yourself help
+  - Why people sing
+    - Oldest musical instrument is the voice
+    - Worship, work songs and lullabies
+    - [Group singing builds social bonds](https://en.wikipedia.org/wiki/Choir)

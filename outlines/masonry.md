@@ -1,0 +1,29 @@
+category: Technology
+aliases: bricklaying, stonemasonry, brickwork
+- Masonry
+  - What masonry is
+    - Units laid and bonded by hand
+    - Brick, stone or concrete blocks
+    - [Mortar binds and beds the units](https://en.wikipedia.org/wiki/Mortar_%28masonry%29)
+  - Materials
+    - Fired clay bricks
+    - Natural stone, cut or rubble
+    - Concrete blocks, cheap and large
+    - Lime mortar, later cement mortar
+  - Bonds and techniques
+    - Overlapping joints spread the load
+    - Stretcher, English and Flemish bonds
+    - Cavity walls keep rain out
+    - [Arches turn loads into compression](https://en.wikipedia.org/wiki/Arch)
+  - Strengths and weaknesses
+    - Very strong when squeezed
+    - Weak when pulled or bent
+    - Fireproof, durable and holds heat
+    - Unreinforced walls fail in earthquakes
+  - Landmarks
+    - [Great Pyramid of Giza, about 2560 BC](https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza)
+    - Gothic cathedrals with flying buttresses
+    - [Dry-stone walls use no mortar](https://en.wikipedia.org/wiki/Dry_stone)
+  - The trade
+    - Bricklayers and stonemasons
+    - Freemasonry grew from medieval masons' guilds

@@ -1,0 +1,340 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Coal",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#wzarqj",
+      "name": "What coal is",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#48ytg4",
+      "name": "Fossilised plants from ancient swamps",
+      "x": -445,
+      "y": -51,
+      "link": "https://en.wikipedia.org/wiki/Coal_forest",
+      "parent": "#wzarqj"
+    },
+    {
+      "@id": "#e6raue",
+      "name": "Buried peat hardens over millions of years",
+      "x": -409,
+      "y": -150,
+      "parent": "#wzarqj"
+    },
+    {
+      "@id": "#2g9vzm",
+      "name": "Grades: lignite, bituminous, anthracite",
+      "x": -340,
+      "y": -236,
+      "parent": "#wzarqj"
+    },
+    {
+      "@id": "#z6c4nw",
+      "name": "Higher grades hold more carbon and energy",
+      "x": -243,
+      "y": -303,
+      "parent": "#wzarqj"
+    },
+    {
+      "@id": "#ejc2yb",
+      "name": "How it is used",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ce6h8a",
+      "name": "Burned to boil water for steam",
+      "x": -133,
+      "y": -360,
+      "parent": "#ejc2yb"
+    },
+    {
+      "@id": "#njc4f3",
+      "name": "Steam spins turbines that generate electricity",
+      "x": 0,
+      "y": -408,
+      "parent": "#ejc2yb"
+    },
+    {
+      "@id": "#cxgptv",
+      "name": "Coking coal makes steel from iron ore",
+      "x": 175,
+      "y": -465,
+      "link": "https://en.wikipedia.org/wiki/Coke_%28fuel%29",
+      "parent": "#ejc2yb"
+    },
+    {
+      "@id": "#85u5n6",
+      "name": "Heat for cement and industry",
+      "x": 243,
+      "y": -303,
+      "parent": "#ejc2yb"
+    },
+    {
+      "@id": "#xejrfi",
+      "name": "Share of world energy",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2xqvuw",
+      "name": "About a quarter of primary energy",
+      "x": 340,
+      "y": -236,
+      "parent": "#xejrfi"
+    },
+    {
+      "@id": "#rryrhk",
+      "name": "About a third of world electricity",
+      "x": 409,
+      "y": -150,
+      "parent": "#xejrfi"
+    },
+    {
+      "@id": "#fzqv2w",
+      "name": "China burns over half the world's coal",
+      "x": 545,
+      "y": -61,
+      "parent": "#xejrfi"
+    },
+    {
+      "@id": "#3akwuy",
+      "name": "Use falling in Europe and the US",
+      "x": 445,
+      "y": 51,
+      "parent": "#xejrfi"
+    },
+    {
+      "@id": "#g8jwyc",
+      "name": "Mining",
+      "x": 174,
+      "y": 120,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#debfiy",
+      "name": "Surface mining strips off overlying rock",
+      "x": 445,
+      "y": 164,
+      "parent": "#g8jwyc"
+    },
+    {
+      "@id": "#v7kvvf",
+      "name": "Underground mining follows deep seams",
+      "x": 340,
+      "y": 236,
+      "parent": "#g8jwyc"
+    },
+    {
+      "@id": "#t3ytv5",
+      "name": "Biggest producers: China, India, Indonesia",
+      "x": 243,
+      "y": 303,
+      "parent": "#g8jwyc"
+    },
+    {
+      "@id": "#gg2239",
+      "name": "Pros",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uc3axr",
+      "name": "Abundant and widely distributed reserves",
+      "x": 133,
+      "y": 360,
+      "parent": "#gg2239"
+    },
+    {
+      "@id": "#8xyyqw",
+      "name": "Cheap, steady power on demand",
+      "x": 0,
+      "y": 408,
+      "parent": "#gg2239"
+    },
+    {
+      "@id": "#5f3tgp",
+      "name": "Easy to store and transport",
+      "x": -175,
+      "y": 465,
+      "parent": "#gg2239"
+    },
+    {
+      "@id": "#zbzw7g",
+      "name": "Cons",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9cwh9y",
+      "name": "Largest single source of CO₂ emissions",
+      "x": -243,
+      "y": 303,
+      "link": "https://en.wikipedia.org/wiki/Environmental_impact_of_the_coal_industry",
+      "parent": "#zbzw7g"
+    },
+    {
+      "@id": "#y5a5ys",
+      "name": "Air pollution harms lungs and hearts",
+      "x": -340,
+      "y": 236,
+      "parent": "#zbzw7g"
+    },
+    {
+      "@id": "#8pbjef",
+      "name": "Mining accidents and black lung disease",
+      "x": -409,
+      "y": 150,
+      "parent": "#zbzw7g"
+    },
+    {
+      "@id": "#m6kjvr",
+      "name": "Ash, acid rain and scarred landscapes",
+      "x": -445,
+      "y": 51,
+      "parent": "#zbzw7g"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

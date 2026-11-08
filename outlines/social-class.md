@@ -1,0 +1,28 @@
+category: Society
+aliases: class system, socioeconomic class, class structure
+- Social class
+  - What social class is
+    - Groups ranked by economic position
+    - Shapes life chances and opportunities
+    - Combines income, wealth, education, occupation
+  - Major theories
+    - [Marx: bourgeoisie versus proletariat](https://en.wikipedia.org/wiki/Marxian_class_theory)
+    - Weber: class, status and party
+    - [Bourdieu: economic, cultural, social capital](https://en.wikipedia.org/wiki/Pierre_Bourdieu)
+  - Common class categories
+    - Upper class: inherited wealth and elites
+    - Middle class: professionals and managers
+    - Working class: manual and routine jobs
+    - Precariat in insecure, low-paid work
+  - How class is measured
+    - Occupation-based schemes like NS-SEC
+    - Income and wealth distribution
+    - Education and cultural tastes
+  - Mobility and inequality
+    - [Social mobility between generations](https://en.wikipedia.org/wiki/Social_mobility)
+    - [Caste systems fix status by birth](https://en.wikipedia.org/wiki/Caste)
+    - Class gaps in health and lifespan
+  - Class in daily life
+    - Accent, dress and leisure choices
+    - Class consciousness and identity
+    - Voting often follows class lines

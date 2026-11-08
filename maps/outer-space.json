@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Outer space",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#wrcrbw",
+      "name": "Where space begins",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7htjid",
+      "name": "Kármán line, 100 km up",
+      "x": -465,
+      "y": -56,
+      "link": "https://en.wikipedia.org/wiki/K%C3%A1rm%C3%A1n_line",
+      "parent": "#wrcrbw"
+    },
+    {
+      "@id": "#vptf23",
+      "name": "US uses 50 miles (80 km)",
+      "x": -405,
+      "y": -156,
+      "parent": "#wrcrbw"
+    },
+    {
+      "@id": "#9u2ki7",
+      "name": "Atmosphere thins out gradually",
+      "x": -330,
+      "y": -245,
+      "parent": "#wrcrbw"
+    },
+    {
+      "@id": "#5hvqte",
+      "name": "What it's like",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#spdz7e",
+      "name": "Near-perfect vacuum",
+      "x": -225,
+      "y": -312,
+      "parent": "#5hvqte"
+    },
+    {
+      "@id": "#4rnsyi",
+      "name": "Background temperature about −270°C",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Cosmic_microwave_background",
+      "parent": "#5hvqte"
+    },
+    {
+      "@id": "#wh4wz5",
+      "name": "Silent: sound needs a medium",
+      "x": 42,
+      "y": -423,
+      "parent": "#5hvqte"
+    },
+    {
+      "@id": "#p6vgr4",
+      "name": "Filled with radiation and cosmic rays",
+      "x": 234,
+      "y": -485,
+      "parent": "#5hvqte"
+    },
+    {
+      "@id": "#kijn5n",
+      "name": "What's out there",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a69nbu",
+      "name": "Sparse gas and dust between stars",
+      "x": 281,
+      "y": -281,
+      "parent": "#kijn5n"
+    },
+    {
+      "@id": "#ac69pc",
+      "name": "Planets, stars and galaxies",
+      "x": 372,
+      "y": -203,
+      "parent": "#kijn5n"
+    },
+    {
+      "@id": "#qr6qk3",
+      "name": "Vast empty voids between galaxies",
+      "x": 487,
+      "y": -121,
+      "parent": "#kijn5n"
+    },
+    {
+      "@id": "#eksi9f",
+      "name": "Dark matter and dark energy",
+      "x": 450,
+      "y": 0,
+      "parent": "#kijn5n"
+    },
+    {
+      "@id": "#62y4h5",
+      "name": "Dangers to humans",
+      "x": 169,
+      "y": 125,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qu9ub3",
+      "name": "Unconsciousness within about 15 seconds",
+      "x": 487,
+      "y": 121,
+      "parent": "#62y4h5"
+    },
+    {
+      "@id": "#fnef8d",
+      "name": "Radiation raises cancer risk",
+      "x": 372,
+      "y": 203,
+      "parent": "#62y4h5"
+    },
+    {
+      "@id": "#h2p6ke",
+      "name": "Microgravity weakens bones and muscles",
+      "x": 281,
+      "y": 281,
+      "parent": "#62y4h5"
+    },
+    {
+      "@id": "#962gzd",
+      "name": "Space debris travels faster than bullets",
+      "x": 164,
+      "y": 335,
+      "link": "https://en.wikipedia.org/wiki/Space_debris",
+      "parent": "#62y4h5"
+    },
+    {
+      "@id": "#zfuzeg",
+      "name": "Exploring space",
+      "x": -84,
+      "y": 171,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3bcyqp",
+      "name": "Sputnik 1, first satellite, 1957",
+      "x": 38,
+      "y": 391,
+      "parent": "#zfuzeg"
+    },
+    {
+      "@id": "#yb5cvm",
+      "name": "Yuri Gagarin, first human, 1961",
+      "x": -124,
+      "y": 447,
+      "parent": "#zfuzeg"
+    },
+    {
+      "@id": "#upmxtc",
+      "name": "Apollo 11 Moon landing, 1969",
+      "x": -225,
+      "y": 312,
+      "parent": "#zfuzeg"
+    },
+    {
+      "@id": "#kbcfzd",
+      "name": "International Space Station crewed since 2000",
+      "x": -330,
+      "y": 245,
+      "link": "https://en.wikipedia.org/wiki/International_Space_Station",
+      "parent": "#zfuzeg"
+    },
+    {
+      "@id": "#8fyjgd",
+      "name": "Law of space",
+      "x": -220,
+      "y": 54,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#czinag",
+      "name": "Outer Space Treaty, 1967",
+      "x": -405,
+      "y": 156,
+      "link": "https://en.wikipedia.org/wiki/Outer_Space_Treaty",
+      "parent": "#8fyjgd"
+    },
+    {
+      "@id": "#894qsg",
+      "name": "No nation can claim celestial bodies",
+      "x": -505,
+      "y": 60,
+      "parent": "#8fyjgd"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

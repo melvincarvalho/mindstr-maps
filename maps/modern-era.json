@@ -1,0 +1,375 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Modern era",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ftsqg4",
+      "name": "Its main periods",
+      "x": -202,
+      "y": -89,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dg8mys",
+      "name": "Begins around 1500",
+      "x": -446,
+      "y": -45,
+      "parent": "#ftsqg4"
+    },
+    {
+      "@id": "#9dig7n",
+      "name": "Early modern period, about 1500–1800",
+      "x": -437,
+      "y": -139,
+      "link": "https://en.wikipedia.org/wiki/Early_modern_period",
+      "parent": "#ftsqg4"
+    },
+    {
+      "@id": "#q3u9ye",
+      "name": "Late modern period, about 1800–1945",
+      "x": -364,
+      "y": -212,
+      "parent": "#ftsqg4"
+    },
+    {
+      "@id": "#dukpmt",
+      "name": "Contemporary history since 1945",
+      "x": -287,
+      "y": -277,
+      "parent": "#ftsqg4"
+    },
+    {
+      "@id": "#tmca5c",
+      "name": "Europe reaches the world",
+      "x": 14,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7ai8t7",
+      "name": "Columbus reaches the Americas 1492",
+      "x": -192,
+      "y": -326,
+      "parent": "#tmca5c"
+    },
+    {
+      "@id": "#pj9evy",
+      "name": "Printing press spreads new ideas",
+      "x": -92,
+      "y": -386,
+      "parent": "#tmca5c"
+    },
+    {
+      "@id": "#vjhw86",
+      "name": "Protestant Reformation begins 1517",
+      "x": 33,
+      "y": -439,
+      "parent": "#tmca5c"
+    },
+    {
+      "@id": "#8zm2da",
+      "name": "Scientific Revolution changes how we know",
+      "x": 199,
+      "y": -492,
+      "link": "https://en.wikipedia.org/wiki/Scientific_Revolution",
+      "parent": "#tmca5c"
+    },
+    {
+      "@id": "#3375cc",
+      "name": "Atlantic slave trade enslaves millions",
+      "x": 241,
+      "y": -304,
+      "parent": "#tmca5c"
+    },
+    {
+      "@id": "#vhkza7",
+      "name": "Age of revolutions",
+      "x": 214,
+      "y": -68,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9qw959",
+      "name": "Enlightenment champions reason and rights",
+      "x": 328,
+      "y": -246,
+      "parent": "#vhkza7"
+    },
+    {
+      "@id": "#qjksap",
+      "name": "American Revolution, 1775–1783",
+      "x": 394,
+      "y": -173,
+      "parent": "#vhkza7"
+    },
+    {
+      "@id": "#wsds7t",
+      "name": "French Revolution begins 1789",
+      "x": 493,
+      "y": -102,
+      "link": "https://en.wikipedia.org/wiki/French_Revolution",
+      "parent": "#vhkza7"
+    },
+    {
+      "@id": "#qnc3us",
+      "name": "Nationalism reshapes states and borders",
+      "x": 450,
+      "y": 0,
+      "parent": "#vhkza7"
+    },
+    {
+      "@id": "#tx856v",
+      "name": "Industry and empire",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5uzezc",
+      "name": "Industrial Revolution starts in Britain",
+      "x": 512,
+      "y": 106,
+      "link": "https://en.wikipedia.org/wiki/Industrial_Revolution",
+      "parent": "#tx856v"
+    },
+    {
+      "@id": "#ex95zj",
+      "name": "Steam power, railways and factories",
+      "x": 394,
+      "y": 173,
+      "parent": "#tx856v"
+    },
+    {
+      "@id": "#945bct",
+      "name": "European empires rule much of world",
+      "x": 328,
+      "y": 246,
+      "parent": "#tx856v"
+    },
+    {
+      "@id": "#vib9sk",
+      "name": "Population grows from 0.5 to 8 billion",
+      "x": 241,
+      "y": 304,
+      "parent": "#tx856v"
+    },
+    {
+      "@id": "#78iu8r",
+      "name": "World wars and ideologies",
+      "x": -14,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jbd6xg",
+      "name": "World War I, 1914–1918",
+      "x": 145,
+      "y": 357,
+      "parent": "#78iu8r"
+    },
+    {
+      "@id": "#geddbs",
+      "name": "World War II, 1939–1945",
+      "x": 31,
+      "y": 407,
+      "parent": "#78iu8r"
+    },
+    {
+      "@id": "#mv9jxn",
+      "name": "Democracy, fascism and communism compete",
+      "x": -112,
+      "y": 466,
+      "parent": "#78iu8r"
+    },
+    {
+      "@id": "#sr824q",
+      "name": "Cold War divides the world",
+      "x": -192,
+      "y": 326,
+      "link": "https://en.wikipedia.org/wiki/Cold_War",
+      "parent": "#78iu8r"
+    },
+    {
+      "@id": "#2tt847",
+      "name": "Since 1945",
+      "x": -202,
+      "y": 89,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qpseng",
+      "name": "United Nations founded 1945",
+      "x": -287,
+      "y": 277,
+      "parent": "#2tt847"
+    },
+    {
+      "@id": "#nysj5c",
+      "name": "Decolonization creates dozens of nations",
+      "x": -364,
+      "y": 212,
+      "parent": "#2tt847"
+    },
+    {
+      "@id": "#f5zj9b",
+      "name": "Internet and globalization connect people",
+      "x": -437,
+      "y": 139,
+      "parent": "#2tt847"
+    },
+    {
+      "@id": "#iamwbc",
+      "name": "Climate change becomes a global challenge",
+      "x": -486,
+      "y": 49,
+      "parent": "#2tt847"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 6,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 12,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    },
+    {
+      "start": 0,
+      "end": 27
+    },
+    {
+      "start": 27,
+      "end": 28
+    },
+    {
+      "start": 27,
+      "end": 29
+    },
+    {
+      "start": 27,
+      "end": 30
+    },
+    {
+      "start": 27,
+      "end": 31
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,29 @@
+category: Science
+aliases: electrons, what is an electron
+- Electron
+  - Basic facts
+    - Negative charge of one unit
+    - About 1/1836 the mass of a proton
+    - An elementary particle with no parts
+    - Stable: it never decays
+  - Discovery
+    - [J. J. Thomson, cathode rays, 1897](https://en.wikipedia.org/wiki/J._J._Thomson)
+    - [Millikan measured its charge, 1909](https://en.wikipedia.org/wiki/Oil_drop_experiment)
+  - In the atom
+    - [Fills orbitals around the nucleus](https://en.wikipedia.org/wiki/Atomic_orbital)
+    - Outer electrons form chemical bonds
+    - Jumping levels emits or absorbs light
+  - Quantum behaviour
+    - Acts as both particle and wave
+    - Spin makes it a tiny magnet
+    - [Pauli exclusion keeps electrons apart](https://en.wikipedia.org/wiki/Pauli_exclusion_principle)
+    - Positron is its antimatter twin
+  - Electricity
+    - Current is electrons drifting along wires
+    - Metals have free-moving electrons
+    - Static shocks are jumping electrons
+  - Everyday uses
+    - Old TV tubes fired electron beams
+    - [Electron microscopes see single atoms](https://en.wikipedia.org/wiki/Electron_microscope)
+    - Transistors steer electrons in every chip
+    - X-ray machines fire electrons at metal

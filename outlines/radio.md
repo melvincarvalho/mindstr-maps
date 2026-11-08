@@ -1,0 +1,29 @@
+category: Technology
+aliases: radio broadcasting, history of radio, wireless radio
+- Radio
+  - How radio works
+    - [Invisible waves travel at light speed](https://en.wikipedia.org/wiki/Radio_wave)
+    - Transmitter turns sound into waves
+    - Antennas send and catch signals
+    - Receiver tunes to one frequency
+  - AM, FM and digital
+    - AM varies the wave's strength
+    - FM varies frequency, with less static
+    - [DAB and internet radio are digital](https://en.wikipedia.org/wiki/Digital_audio_broadcasting)
+  - Inventors
+    - Maxwell predicted the waves, 1860s
+    - [Hertz produced them in the lab, 1880s](https://en.wikipedia.org/wiki/Heinrich_Hertz)
+    - [Marconi's transatlantic signal, 1901](https://en.wikipedia.org/wiki/Guglielmo_Marconi)
+  - The broadcasting era
+    - Regular broadcasts began around 1920
+    - BBC founded in 1922
+    - Radio drama and news, 1930s–40s
+    - Transistor radios went portable, 1950s
+  - Beyond broadcasting
+    - Two-way radio for police and pilots
+    - Radar bounces radio waves off objects
+    - Wi-Fi, Bluetooth and GPS use radio
+    - [Amateur ham radio operators](https://en.wikipedia.org/wiki/Amateur_radio)
+  - Radio today
+    - Music and talk in the car
+    - Podcasts borrow radio's formats

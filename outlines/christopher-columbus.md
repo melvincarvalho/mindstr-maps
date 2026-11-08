@@ -1,0 +1,29 @@
+category: People
+aliases: cristoforo colombo, cristobal colon, columbus voyages
+- Christopher Columbus
+  - Background
+    - Born in Genoa around 1451
+    - Experienced Atlantic sailor and mapmaker
+    - Planned to reach Asia by sailing west
+  - Funding the voyage
+    - Portugal and others turned him down
+    - Ferdinand and Isabella of Spain backed him
+    - Badly underestimated Earth's size
+  - [First voyage, 1492](https://en.wikipedia.org/wiki/Voyages_of_Christopher_Columbus)
+    - Niña, Pinta and Santa María
+    - Landed in the Bahamas, 12 October 1492
+    - Reached Cuba and Hispaniola
+    - Believed he had reached the Indies
+  - Later voyages
+    - Four Atlantic voyages in all, 1492–1504
+    - Ruled Hispaniola harshly; arrested in 1500
+    - Reached South and Central American coasts
+  - Impact on the Americas
+    - [Columbian exchange of crops, animals, diseases](https://en.wikipedia.org/wiki/Columbian_exchange)
+    - [Enslavement and forced labour of the Taíno](https://en.wikipedia.org/wiki/Ta%C3%ADno)
+    - Disease and violence devastated Indigenous peoples
+    - Opened lasting European colonisation
+  - Legacy and debate
+    - Died 1506 in Valladolid, Spain
+    - Norse sailors reached America about 1000
+    - [Columbus Day increasingly Indigenous Peoples' Day](https://en.wikipedia.org/wiki/Columbus_Day)

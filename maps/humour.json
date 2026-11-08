@@ -1,0 +1,340 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Humour",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#qzqke7",
+      "name": "What humour is",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8fbdcj",
+      "name": "The ability to find things funny",
+      "x": -485,
+      "y": -55,
+      "parent": "#qzqke7"
+    },
+    {
+      "@id": "#epg56m",
+      "name": "Laughter is its usual sign",
+      "x": -409,
+      "y": -150,
+      "parent": "#qzqke7"
+    },
+    {
+      "@id": "#7ynhm9",
+      "name": "Tastes vary by person and culture",
+      "x": -340,
+      "y": -236,
+      "parent": "#qzqke7"
+    },
+    {
+      "@id": "#ze9aab",
+      "name": "Why things are funny",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tsgpcq",
+      "name": "Incongruity: surprise that suddenly makes sense",
+      "x": -243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Theories_of_humor",
+      "parent": "#ze9aab"
+    },
+    {
+      "@id": "#k69f8e",
+      "name": "Superiority: laughing at others' mistakes",
+      "x": -133,
+      "y": -360,
+      "parent": "#ze9aab"
+    },
+    {
+      "@id": "#s2n3j6",
+      "name": "Relief: releasing built-up tension",
+      "x": 0,
+      "y": -408,
+      "parent": "#ze9aab"
+    },
+    {
+      "@id": "#s36dnz",
+      "name": "Benign violation: wrong but harmless",
+      "x": 175,
+      "y": -465,
+      "parent": "#ze9aab"
+    },
+    {
+      "@id": "#mtaz7t",
+      "name": "Why we laugh",
+      "x": 193,
+      "y": -99,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#75df7r",
+      "name": "Laughter predates language",
+      "x": 243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Laughter",
+      "parent": "#mtaz7t"
+    },
+    {
+      "@id": "#m42j3e",
+      "name": "Apes laugh during play too",
+      "x": 340,
+      "y": -236,
+      "parent": "#mtaz7t"
+    },
+    {
+      "@id": "#52ne8g",
+      "name": "Bonds groups and signals safety",
+      "x": 409,
+      "y": -150,
+      "parent": "#mtaz7t"
+    },
+    {
+      "@id": "#p9qswj",
+      "name": "Contagious: we laugh more together",
+      "x": 445,
+      "y": -51,
+      "parent": "#mtaz7t"
+    },
+    {
+      "@id": "#ipd4yx",
+      "name": "Forms of humour",
+      "x": 174,
+      "y": 120,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mfdhsk",
+      "name": "Puns and wordplay",
+      "x": 445,
+      "y": 51,
+      "parent": "#ipd4yx"
+    },
+    {
+      "@id": "#8g7bga",
+      "name": "Irony and sarcasm",
+      "x": 409,
+      "y": 150,
+      "link": "https://en.wikipedia.org/wiki/Irony",
+      "parent": "#ipd4yx"
+    },
+    {
+      "@id": "#uibrg6",
+      "name": "Slapstick and physical comedy",
+      "x": 340,
+      "y": 236,
+      "parent": "#ipd4yx"
+    },
+    {
+      "@id": "#6e4n5b",
+      "name": "Satire mocks the powerful",
+      "x": 243,
+      "y": 303,
+      "parent": "#ipd4yx"
+    },
+    {
+      "@id": "#tantre",
+      "name": "Self-deprecating jokes about yourself",
+      "x": 133,
+      "y": 360,
+      "parent": "#ipd4yx"
+    },
+    {
+      "@id": "#8uvb6j",
+      "name": "Benefits of humour",
+      "x": -65,
+      "y": 177,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4wj69d",
+      "name": "Eases stress and tension",
+      "x": 0,
+      "y": 408,
+      "parent": "#8uvb6j"
+    },
+    {
+      "@id": "#6ty69a",
+      "name": "Helps people cope with hardship",
+      "x": -175,
+      "y": 465,
+      "parent": "#8uvb6j"
+    },
+    {
+      "@id": "#c58qns",
+      "name": "Makes people more likeable",
+      "x": -243,
+      "y": 303,
+      "parent": "#8uvb6j"
+    },
+    {
+      "@id": "#86p8nq",
+      "name": "Styles that help or hurt",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mg3pke",
+      "name": "Shared, affiliative humour builds closeness",
+      "x": -340,
+      "y": 236,
+      "parent": "#86p8nq"
+    },
+    {
+      "@id": "#nn9u3a",
+      "name": "Mocking humour can wound others",
+      "x": -409,
+      "y": 150,
+      "parent": "#86p8nq"
+    },
+    {
+      "@id": "#9qz48u",
+      "name": "Timing and audience matter",
+      "x": -505,
+      "y": 57,
+      "parent": "#86p8nq"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 15,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

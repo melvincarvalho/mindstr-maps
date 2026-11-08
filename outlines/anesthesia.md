@@ -1,0 +1,30 @@
+category: Health
+aliases: anaesthesia, anesthetic, anaesthetic, general anesthesia
+- Anesthesia
+  - What it does
+    - Blocks pain during procedures
+    - May add unconsciousness and muscle relaxation
+    - Effects wear off and are reversible
+  - Types
+    - [General: fully unconscious](https://en.wikipedia.org/wiki/General_anaesthesia)
+    - [Local: numbs a small area](https://en.wikipedia.org/wiki/Local_anesthesia)
+    - [Regional: spinal, epidural, nerve blocks](https://en.wikipedia.org/wiki/Epidural_administration)
+    - Sedation: relaxed, drowsy, still breathing
+  - Common drugs
+    - [Propofol to start general anesthesia](https://en.wikipedia.org/wiki/Propofol)
+    - Inhaled gases such as sevoflurane
+    - Lidocaine for local numbing
+    - Opioids for pain control
+  - Before, during, after
+    - Fasting beforehand protects the lungs
+    - Anesthetist monitors breathing, heart, oxygen
+    - Breathing tube or airway device
+    - Afterwards: nausea, sore throat, drowsiness
+  - Safety
+    - Serious complications are rare
+    - Risk depends on health and procedure
+    - Tell the team your medicines, allergies
+  - History
+    - Before this, surgery was done awake
+    - [1846: ether demonstrated in Boston](https://en.wikipedia.org/wiki/William_T._G._Morton)
+    - Chloroform used from 1847

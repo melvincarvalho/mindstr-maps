@@ -1,0 +1,34 @@
+category: Geography
+aliases: people's democratic republic of algeria, algerie
+- Algeria
+  - Geography
+    - Largest country in Africa by area
+    - About 2.4 million km² in North Africa
+    - Sahara covers over 80% of land
+    - Mediterranean coast and Atlas Mountains
+    - Capital and largest city: Algiers
+  - People and languages
+    - About 46 million people
+    - Arabic and Tamazight are official
+    - [Berbers (Amazigh) are the Indigenous people](https://en.wikipedia.org/wiki/Berbers)
+    - Sunni Islam is the state religion
+  - History in brief
+    - Numidian kingdoms and Roman rule
+    - Arab conquest brought Islam, 7th century
+    - Ottoman rule from the 1500s
+    - French colony from 1830
+    - [Independence war 1954–1962](https://en.wikipedia.org/wiki/Algerian_War)
+    - [Civil war in the 1990s](https://en.wikipedia.org/wiki/Algerian_Civil_War)
+  - Government
+    - Semi-presidential republic
+    - Military holds strong influence
+    - [Hirak protests from 2019](https://en.wikipedia.org/wiki/2019%E2%80%932021_Algerian_protests)
+    - Backs Western Sahara independence; Morocco disagrees
+  - Economy
+    - Oil and gas earn most exports
+    - Major gas supplier to Europe
+    - State-led, efforts to diversify
+  - Culture
+    - Raï music from Oran
+    - Couscous is the national dish
+    - Writers Albert Camus and Kateb Yacine

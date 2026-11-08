@@ -1,0 +1,30 @@
+category: Philosophy and religion
+aliases: european philosophy, western philosophers
+- Western philosophy
+  - Ancient Greece
+    - Thales: everything is made of water
+    - [Socrates questioned everyone, executed 399 BCE](https://en.wikipedia.org/wiki/Socrates)
+    - Plato's Academy and theory of Forms
+    - Aristotle systematised logic and science
+  - Hellenistic and Roman
+    - Stoics: master your reactions, not events
+    - Epicureans: simple pleasures, no fear of death
+  - Medieval
+    - Augustine blended Plato with Christianity
+    - Avicenna and Averroes transmitted Aristotle
+    - [Aquinas reconciled Aristotle and Christian faith](https://en.wikipedia.org/wiki/Thomas_Aquinas)
+  - Early modern
+    - [Descartes: I think, therefore I am](https://en.wikipedia.org/wiki/Cogito,_ergo_sum)
+    - Rationalists: Descartes, Spinoza, Leibniz
+    - Empiricists: Locke, Berkeley, Hume
+    - Kant joined reason and experience
+    - Social contract: Hobbes, Locke, Rousseau
+  - 19th century
+    - Hegel: history as dialectical progress
+    - Marx: economics drives history
+    - Mill: utilitarianism and individual liberty
+    - Nietzsche: "God is dead"
+  - 20th century onward
+    - [Analytic philosophy: logic and language](https://en.wikipedia.org/wiki/Analytic_philosophy)
+    - Sartre: existence comes before essence
+    - Wittgenstein: meaning is use

@@ -1,0 +1,30 @@
+category: Philosophy and religion
+aliases: shaman, shamans
+- Shamanism
+  - What it is
+    - A practitioner contacts the spirit world
+    - Healer and guide for the community
+    - Found among many hunting and herding peoples
+  - Origin of the word
+    - From Evenki, a Siberian Tungusic language
+    - Reached European languages in the 1600s
+    - Scholars debate applying it worldwide
+  - Core practices
+    - [Trance and altered states of consciousness](https://en.wikipedia.org/wiki/Altered_state_of_consciousness)
+    - Drumming, chanting and dancing
+    - Spirit journeys to other worlds
+    - Healing by retrieving lost souls
+    - Some use plants like ayahuasca
+  - Beliefs about the world
+    - Spirits in animals, plants and places
+    - Layered cosmos: upper, middle, lower worlds
+    - Animal spirit helpers and guardians
+  - Where it is found
+    - Siberia and Central Asia
+    - Indigenous Americas, including Amazonia
+    - [Korea's mudang, mostly women](https://en.wikipedia.org/wiki/Korean_shamanism)
+    - Sámi noaidi in northern Scandinavia
+  - Study and revival
+    - [Mircea Eliade: "archaic techniques of ecstasy"](https://en.wikipedia.org/wiki/Mircea_Eliade)
+    - [Neoshamanism in Western spirituality](https://en.wikipedia.org/wiki/Neoshamanism)
+    - Debate over cultural appropriation

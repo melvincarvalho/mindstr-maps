@@ -1,0 +1,28 @@
+category: Science
+aliases: silver metal, silver element, element ag
+- Silver
+  - The element
+    - Symbol Ag, atomic number 47
+    - Best conductor of electricity and heat
+    - Most reflective metal when polished
+    - Soft, so usually alloyed for strength
+  - Where it comes from
+    - Mostly a by-product of lead, zinc, copper
+    - Mexico, Peru and China mine the most
+    - [Recycled from old jewellery and electronics](https://en.wikipedia.org/wiki/Silver_mining)
+  - Uses today
+    - Solar panels and electrical contacts
+    - [Sterling silver is 92.5% pure](https://en.wikipedia.org/wiki/Sterling_silver)
+    - Mirrors, cutlery and tableware
+    - Wound dressings that slow bacteria
+  - Silver in history
+    - Coins for over 2,500 years
+    - [Photography relied on light-sensitive silver salts](https://en.wikipedia.org/wiki/Silver_halide)
+    - Spanish American mines flooded world trade
+  - Tarnish and care
+    - [Sulfur in air forms black tarnish](https://en.wikipedia.org/wiki/Tarnish)
+    - Polish gently or store in airtight bags
+    - Large silver intake can turn skin blue-grey
+  - Silver as an investment
+    - Traded in troy ounces
+    - Prices swing more than gold

@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Marriage",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#85pn4m",
+      "name": "What marriage is",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tyvsjy",
+      "name": "A recognised union between spouses",
+      "x": -485,
+      "y": -58,
+      "parent": "#85pn4m"
+    },
+    {
+      "@id": "#jzpssm",
+      "name": "Creates legal, social and family ties",
+      "x": -405,
+      "y": -156,
+      "parent": "#85pn4m"
+    },
+    {
+      "@id": "#2mti9p",
+      "name": "Found in almost every culture",
+      "x": -330,
+      "y": -245,
+      "parent": "#85pn4m"
+    },
+    {
+      "@id": "#q362jw",
+      "name": "Forms of marriage",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2wvrcv",
+      "name": "Monogamy: two spouses",
+      "x": -225,
+      "y": -312,
+      "parent": "#q362jw"
+    },
+    {
+      "@id": "#ixwi9x",
+      "name": "Polygamy is legal in some countries",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Polygamy",
+      "parent": "#q362jw"
+    },
+    {
+      "@id": "#zruin3",
+      "name": "Arranged and love marriages",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Arranged_marriage",
+      "parent": "#q362jw"
+    },
+    {
+      "@id": "#av2iig",
+      "name": "Same-sex marriage legal in 30+ countries",
+      "x": 234,
+      "y": -485,
+      "link": "https://en.wikipedia.org/wiki/Same-sex_marriage",
+      "parent": "#q362jw"
+    },
+    {
+      "@id": "#ezhid4",
+      "name": "Civil and religious sides",
+      "x": 190,
+      "y": -104,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z7rrm3",
+      "name": "Civil marriage registered by the state",
+      "x": 281,
+      "y": -281,
+      "parent": "#ezhid4"
+    },
+    {
+      "@id": "#ihm5jr",
+      "name": "Religious ceremonies follow faith traditions",
+      "x": 372,
+      "y": -203,
+      "parent": "#ezhid4"
+    },
+    {
+      "@id": "#gxrznb",
+      "name": "Cohabitation and civil partnerships as alternatives",
+      "x": 601,
+      "y": -151,
+      "link": "https://en.wikipedia.org/wiki/Civil_union",
+      "parent": "#ezhid4"
+    },
+    {
+      "@id": "#433bdx",
+      "name": "Legal effects",
+      "x": 207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ys5qn7",
+      "name": "Shared property and inheritance rights",
+      "x": 450,
+      "y": 0,
+      "parent": "#433bdx"
+    },
+    {
+      "@id": "#6cm2a6",
+      "name": "Tax, pension and immigration rules",
+      "x": 487,
+      "y": 121,
+      "parent": "#433bdx"
+    },
+    {
+      "@id": "#mm5jtf",
+      "name": "Spouses usually become next of kin",
+      "x": 372,
+      "y": 203,
+      "parent": "#433bdx"
+    },
+    {
+      "@id": "#8qagph",
+      "name": "Minimum ages and consent required",
+      "x": 281,
+      "y": 281,
+      "parent": "#433bdx"
+    },
+    {
+      "@id": "#7ctzxv",
+      "name": "Making it work",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mtiek3",
+      "name": "Communicate honestly and often",
+      "x": 164,
+      "y": 335,
+      "parent": "#7ctzxv"
+    },
+    {
+      "@id": "#ca5yhv",
+      "name": "Agree on money, chores and children",
+      "x": 38,
+      "y": 391,
+      "parent": "#7ctzxv"
+    },
+    {
+      "@id": "#wt54gw",
+      "name": "Keep time for each other",
+      "x": -124,
+      "y": 447,
+      "parent": "#7ctzxv"
+    },
+    {
+      "@id": "#hdm6vk",
+      "name": "Couples counselling can help",
+      "x": -225,
+      "y": 312,
+      "parent": "#7ctzxv"
+    },
+    {
+      "@id": "#2mi7z7",
+      "name": "Ending a marriage",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ntgzen",
+      "name": "Divorce legally dissolves the marriage",
+      "x": -330,
+      "y": 245,
+      "link": "https://en.wikipedia.org/wiki/Divorce",
+      "parent": "#2mi7z7"
+    },
+    {
+      "@id": "#ybebz8",
+      "name": "Courts divide assets and arrange childcare",
+      "x": -405,
+      "y": 156,
+      "parent": "#2mi7z7"
+    },
+    {
+      "@id": "#cdd759",
+      "name": "Widowhood when a spouse dies",
+      "x": -465,
+      "y": 56,
+      "parent": "#2mi7z7"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

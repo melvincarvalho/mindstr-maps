@@ -1,0 +1,30 @@
+category: Geography
+aliases: london england, london city, greater london
+- London
+  - Setting
+    - Capital of England and the UK
+    - Built on the River Thames
+    - 32 boroughs plus the City
+  - History
+    - [Romans founded Londinium about AD 47](https://en.wikipedia.org/wiki/Londinium)
+    - [Great Fire of London, 1666](https://en.wikipedia.org/wiki/Great_Fire_of_London)
+    - Heart of the British Empire
+    - Survived the Blitz in WWII
+  - People
+    - About 9 million residents
+    - Over 300 languages spoken
+    - Mayor and Greater London Authority
+  - Economy
+    - [Global finance hub: City and Canary Wharf](https://en.wikipedia.org/wiki/City_of_London)
+    - Law, insurance, media and tech
+    - Heathrow among world's busiest airports
+    - Very high housing costs
+  - Landmarks
+    - Tower of London and Tower Bridge
+    - Big Ben and Houses of Parliament
+    - Buckingham Palace and royal parks
+    - St Paul's Cathedral by Christopher Wren
+  - Culture
+    - [West End theatre](https://en.wikipedia.org/wiki/West_End_theatre)
+    - Free British Museum and National Gallery
+    - Underground, oldest metro, opened 1863

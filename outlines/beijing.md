@@ -1,0 +1,30 @@
+category: Geography
+aliases: peking, beijing china, beijing city
+- Beijing
+  - Setting
+    - Capital of the People's Republic of China
+    - Northern edge of the North China Plain
+    - About 22 million people
+    - Hot summers, cold dry winters
+  - History
+    - Yuan dynasty capital Khanbaliq, 1270s
+    - Ming and Qing imperial capital
+    - Mao proclaimed the PRC here, 1949
+    - [1989 Tiananmen protests and crackdown](https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre)
+    - Hosted 2008 Summer, 2022 Winter Olympics
+  - Economy
+    - China's political and administrative centre
+    - Headquarters of many state-owned firms
+    - Zhongguancun tech district
+    - Daxing airport opened 2019
+  - Landmarks
+    - [Forbidden City, the imperial palace](https://en.wikipedia.org/wiki/Forbidden_City)
+    - [Temple of Heaven](https://en.wikipedia.org/wiki/Temple_of_Heaven)
+    - Tiananmen Square
+    - Summer Palace and its lake
+    - Great Wall at Badaling and Mutianyu
+  - Culture
+    - [Old hutong alleys and courtyard homes](https://en.wikipedia.org/wiki/Hutong)
+    - Peking opera
+    - Peking duck
+    - Peking and Tsinghua universities

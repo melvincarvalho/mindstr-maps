@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Government",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#v2f239",
+      "name": "What governments do",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9msedv",
+      "name": "Make and enforce laws",
+      "x": -444,
+      "y": -56,
+      "parent": "#v2f239"
+    },
+    {
+      "@id": "#q3ipdv",
+      "name": "Defend territory and keep order",
+      "x": -401,
+      "y": -163,
+      "parent": "#v2f239"
+    },
+    {
+      "@id": "#a5izae",
+      "name": "Collect taxes and provide services",
+      "x": -318,
+      "y": -255,
+      "parent": "#v2f239"
+    },
+    {
+      "@id": "#rwzam7",
+      "name": "Monopoly on legitimate force (Weber)",
+      "x": -204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Monopoly_on_violence",
+      "parent": "#v2f239"
+    },
+    {
+      "@id": "#njbvth",
+      "name": "Who holds power",
+      "x": 71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u7ctjw",
+      "name": "Democracy: rule by elected representatives",
+      "x": -73,
+      "y": -372,
+      "parent": "#njbvth"
+    },
+    {
+      "@id": "#rhs43f",
+      "name": "Monarchy: a hereditary ruler",
+      "x": 82,
+      "y": -420,
+      "parent": "#njbvth"
+    },
+    {
+      "@id": "#8srdix",
+      "name": "Dictatorship: one unaccountable leader or party",
+      "x": 303,
+      "y": -475,
+      "parent": "#njbvth"
+    },
+    {
+      "@id": "#tyd983",
+      "name": "Oligarchy and theocracy",
+      "x": 318,
+      "y": -255,
+      "parent": "#njbvth"
+    },
+    {
+      "@id": "#t2hhqd",
+      "name": "Separation of powers",
+      "x": 227,
+      "y": -29,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4ch56n",
+      "name": "Legislature makes the laws",
+      "x": 401,
+      "y": -163,
+      "parent": "#t2hhqd"
+    },
+    {
+      "@id": "#6sucgn",
+      "name": "Executive carries them out",
+      "x": 504,
+      "y": -62,
+      "parent": "#t2hhqd"
+    },
+    {
+      "@id": "#g8snts",
+      "name": "Judiciary interprets and checks them",
+      "x": 444,
+      "y": 56,
+      "parent": "#t2hhqd"
+    },
+    {
+      "@id": "#bpkm4i",
+      "name": "How power is divided",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qf3ube",
+      "name": "Unitary states centralise authority",
+      "x": 455,
+      "y": 184,
+      "parent": "#bpkm4i"
+    },
+    {
+      "@id": "#ecj6nh",
+      "name": "Federal systems share power with regions",
+      "x": 318,
+      "y": 255,
+      "link": "https://en.wikipedia.org/wiki/Federalism",
+      "parent": "#bpkm4i"
+    },
+    {
+      "@id": "#rhq3nn",
+      "name": "Local councils run everyday services",
+      "x": 204,
+      "y": 321,
+      "parent": "#bpkm4i"
+    },
+    {
+      "@id": "#3bpnfr",
+      "name": "Executive models",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kniagi",
+      "name": "Parliamentary: PM answers to parliament",
+      "x": 73,
+      "y": 372,
+      "link": "https://en.wikipedia.org/wiki/Parliamentary_system",
+      "parent": "#3bpnfr"
+    },
+    {
+      "@id": "#7ekbfp",
+      "name": "Presidential: separately elected head",
+      "x": -82,
+      "y": 420,
+      "parent": "#3bpnfr"
+    },
+    {
+      "@id": "#khag5f",
+      "name": "Semi-presidential mixes both, as France",
+      "x": -204,
+      "y": 321,
+      "parent": "#3bpnfr"
+    },
+    {
+      "@id": "#zv4j45",
+      "name": "Legitimacy",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#higumg",
+      "name": "Social contract: Hobbes, Locke, Rousseau",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wikipedia.org/wiki/Social_contract",
+      "parent": "#zv4j45"
+    },
+    {
+      "@id": "#e2cmyt",
+      "name": "Constitutions set rules and rights",
+      "x": -401,
+      "y": 163,
+      "parent": "#zv4j45"
+    },
+    {
+      "@id": "#s59ke3",
+      "name": "Rule of law binds rulers too",
+      "x": -444,
+      "y": 56,
+      "parent": "#zv4j45"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

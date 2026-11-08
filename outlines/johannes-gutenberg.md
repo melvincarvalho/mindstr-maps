@@ -1,0 +1,29 @@
+category: People
+aliases: gutenberg, johann gutenberg, inventor of the printing press
+- Johannes Gutenberg
+  - Life
+    - Born about 1400 in Mainz
+    - Goldsmith and metalworker by trade
+    - Early experiments in Strasbourg
+    - Died 1468 in Mainz
+  - The printing system
+    - [Hand mould for casting metal type](https://en.wikipedia.org/wiki/Movable_type)
+    - Lead, tin and antimony type alloy
+    - Oil-based ink that stuck to metal
+    - [Screw press adapted from wine presses](https://en.wikipedia.org/wiki/Printing_press)
+  - [The Gutenberg Bible](https://en.wikipedia.org/wiki/Gutenberg_Bible)
+    - Printed about 1454–55
+    - 42 lines per page
+    - About 180 copies, about 49 survive
+  - Business troubles
+    - Borrowed heavily from Johann Fust
+    - Lost lawsuit and workshop, 1455
+    - Fust and Schöffer continued printing
+    - Pensioned by the Archbishop of Mainz, 1465
+  - Impact
+    - Printing spread across Europe by 1500
+    - Cheaper books boosted literacy
+    - Fuelled the Reformation and Scientific Revolution
+  - Legacy
+    - Earlier movable type in China and Korea
+    - Gutenberg Museum in Mainz

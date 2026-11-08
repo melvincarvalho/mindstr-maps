@@ -1,0 +1,32 @@
+category: Society
+aliases: french, francais, learn french
+- French language
+  - Where it's spoken
+    - About 80 million native speakers
+    - About 320 million speakers in total
+    - France, Belgium, Switzerland, Quebec
+    - Widely used across West and Central Africa
+    - [Francophonie unites about 90 states and governments](https://en.wikipedia.org/wiki/Organisation_internationale_de_la_Francophonie)
+  - Family
+    - Indo-European, Romance branch
+    - Grew from the Latin spoken in Gaul
+    - Close kin: Italian, Spanish, Catalan
+  - History
+    - Strasbourg Oaths of 842: earliest text
+    - Paris dialect became the standard
+    - 1539 law replaced Latin in official use
+    - [Académie française founded 1635](https://en.wikipedia.org/wiki/Acad%C3%A9mie_fran%C3%A7aise)
+  - Sounds and writing
+    - [Nasal vowels as in "bon", "vin"](https://en.wikipedia.org/wiki/Nasal_vowel)
+    - R pronounced at the back of throat
+    - Many final letters are silent
+    - Liaison links words: "les amis"
+    - Accents: é, è, ê, ç
+  - Grammar highlights
+    - Two genders: le and la
+    - Rich verb conjugations by person
+    - Most adjectives follow the noun
+    - Negation wraps the verb: ne … pas
+  - Tips for learners
+    - Formal "vous" versus friendly "tu"
+    - Thousands of English words share roots

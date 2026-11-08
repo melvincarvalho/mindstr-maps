@@ -1,0 +1,31 @@
+category: People
+aliases: cervantes, miguel cervantes, author of don quixote
+- Miguel de Cervantes
+  - Spanish writer, 1547–1616
+    - Born in Alcalá de Henares
+    - Spain's Golden Age of literature
+    - Died in Madrid, 22 April 1616
+  - A soldier's life
+    - [Fought at the Battle of Lepanto, 1571](https://en.wikipedia.org/wiki/Battle_of_Lepanto)
+    - Wounds cost him use of left hand
+    - Captured by Barbary corsairs, 1575
+    - Five years captive in Algiers, then ransomed
+  - Struggles back home
+    - Supply officer for the Spanish Armada
+    - Tax collector, jailed over accounts
+    - Early pastoral novel La Galatea, 1585
+  - [Don Quixote](https://en.wikipedia.org/wiki/Don_Quixote)
+    - Part One 1605, Part Two 1615
+    - A gentleman driven mad by chivalric romances
+    - Sancho Panza, his down-to-earth squire
+    - Tilting at windmills he thinks are giants
+    - A rival fake sequel appeared, 1614
+  - Other works
+    - [Exemplary Novels: twelve short tales](https://en.wikipedia.org/wiki/Exemplary_Novels)
+    - Plays and interludes for the stage
+    - Persiles, published after his death
+  - Legacy
+    - Often called the first modern novel
+    - Spanish is "the language of Cervantes"
+    - "Quixotic" means idealistic and impractical
+    - [Cervantes Prize honours Spanish-language writers](https://en.wikipedia.org/wiki/Miguel_de_Cervantes_Prize)

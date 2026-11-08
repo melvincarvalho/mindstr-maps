@@ -1,0 +1,30 @@
+category: Arts and culture
+aliases: ceramics, ceramic art, history of pottery, studio pottery
+- Pottery
+  - What pottery is
+    - Clay shaped, then hardened by fire
+    - One of humanity's oldest crafts
+    - Shards help archaeologists date sites
+  - Making pots
+    - Hand-building: pinch, coil and slab
+    - [Potter's wheel used for 5,000+ years](https://en.wikipedia.org/wiki/Potter%27s_wheel)
+    - Glazes form a glassy coating
+    - Fired in a kiln
+  - Types of ware
+    - [Earthenware: porous and low-fired](https://en.wikipedia.org/wiki/Earthenware)
+    - Stoneware: dense and fired hotter
+    - [Porcelain: white, translucent, from China](https://en.wikipedia.org/wiki/Porcelain)
+  - Ancient pottery
+    - Oldest pots, China, about 20,000 years
+    - Japan's cord-marked Jōmon pots
+    - [Greek black- and red-figure vases](https://en.wikipedia.org/wiki/Pottery_of_ancient_Greece)
+  - Great traditions
+    - Ming dynasty blue-and-white porcelain
+    - Islamic lustreware and Iznik tiles
+    - Italian maiolica and Dutch Delftware
+    - Josiah Wedgwood industrialises pottery, 1700s
+    - Japanese raku tea bowls
+  - Studio pottery
+    - [Bernard Leach blends East and West](https://en.wikipedia.org/wiki/Bernard_Leach)
+    - Lucie Rie's modernist bowls
+    - Grayson Perry's provocative vases

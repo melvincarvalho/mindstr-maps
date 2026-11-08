@@ -1,0 +1,297 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Theory of relativity",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#nhgvuw",
+      "name": "Einstein's two theories",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8cbtia",
+      "name": "Special relativity, 1905",
+      "x": -483,
+      "y": -69,
+      "link": "https://en.wikipedia.org/wiki/Special_relativity",
+      "parent": "#nhgvuw"
+    },
+    {
+      "@id": "#76a4te",
+      "name": "General relativity, 1915",
+      "x": -390,
+      "y": -180,
+      "link": "https://en.wikipedia.org/wiki/General_relativity",
+      "parent": "#nhgvuw"
+    },
+    {
+      "@id": "#f766fu",
+      "name": "Replaced Newton's absolute space and time",
+      "x": -289,
+      "y": -276,
+      "parent": "#nhgvuw"
+    },
+    {
+      "@id": "#zmipc9",
+      "name": "Special relativity's two rules",
+      "x": -40,
+      "y": -181,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vrurnt",
+      "name": "Physics is the same at steady speeds",
+      "x": -154,
+      "y": -338,
+      "parent": "#zmipc9"
+    },
+    {
+      "@id": "#ridpiv",
+      "name": "Light's speed is the same for everyone",
+      "x": 0,
+      "y": -392,
+      "parent": "#zmipc9"
+    },
+    {
+      "@id": "#bnehaw",
+      "name": "Strange results of high speed",
+      "x": 176,
+      "y": -118,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wh848r",
+      "name": "Moving clocks tick slower",
+      "x": 203,
+      "y": -443,
+      "link": "https://en.wikipedia.org/wiki/Time_dilation",
+      "parent": "#bnehaw"
+    },
+    {
+      "@id": "#hmkqmm",
+      "name": "Moving objects shrink along their motion",
+      "x": 289,
+      "y": -276,
+      "parent": "#bnehaw"
+    },
+    {
+      "@id": "#gvwhjn",
+      "name": "Nothing with mass reaches light speed",
+      "x": 390,
+      "y": -180,
+      "parent": "#bnehaw"
+    },
+    {
+      "@id": "#7rptmv",
+      "name": "E = mc²: mass is energy",
+      "x": 443,
+      "y": -63,
+      "link": "https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence",
+      "parent": "#bnehaw"
+    },
+    {
+      "@id": "#g7esdh",
+      "name": "General relativity: gravity as curvature",
+      "x": 199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ttined",
+      "name": "Mass bends space and time",
+      "x": 543,
+      "y": 78,
+      "parent": "#g7esdh"
+    },
+    {
+      "@id": "#sbe8sa",
+      "name": "Falling feels the same as floating",
+      "x": 390,
+      "y": 180,
+      "parent": "#g7esdh"
+    },
+    {
+      "@id": "#hj275g",
+      "name": "Clocks run slower near heavy objects",
+      "x": 289,
+      "y": 276,
+      "parent": "#g7esdh"
+    },
+    {
+      "@id": "#5xambz",
+      "name": "Evidence that confirmed it",
+      "x": -40,
+      "y": 181,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4a2bhv",
+      "name": "Starlight bent by the Sun, 1919",
+      "x": 154,
+      "y": 338,
+      "parent": "#5xambz"
+    },
+    {
+      "@id": "#sw8p7m",
+      "name": "Explains Mercury's odd orbit",
+      "x": 0,
+      "y": 392,
+      "parent": "#5xambz"
+    },
+    {
+      "@id": "#myvdav",
+      "name": "Gravitational waves detected in 2015",
+      "x": -203,
+      "y": 443,
+      "parent": "#5xambz"
+    },
+    {
+      "@id": "#35kvzd",
+      "name": "Black holes photographed in 2019",
+      "x": -289,
+      "y": 276,
+      "parent": "#5xambz"
+    },
+    {
+      "@id": "#xsh67b",
+      "name": "Relativity in daily life",
+      "x": -216,
+      "y": 63,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aexxrz",
+      "name": "GPS satellites correct for both effects",
+      "x": -390,
+      "y": 180,
+      "parent": "#xsh67b"
+    },
+    {
+      "@id": "#sj44zm",
+      "name": "Nuclear power releases mass as energy",
+      "x": -543,
+      "y": 78,
+      "parent": "#xsh67b"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 8,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    }
+  ],
+  "selectedNode": 0
+}

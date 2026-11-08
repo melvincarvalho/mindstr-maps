@@ -1,0 +1,31 @@
+category: Science
+aliases: what is chemistry, chemistry basics, chemistry explained
+- Chemistry
+  - Matter is made of atoms
+    - [About 118 known chemical elements](https://en.wikipedia.org/wiki/Chemical_element)
+    - Protons, neutrons and surrounding electrons
+    - [Periodic table groups similar elements](https://en.wikipedia.org/wiki/Periodic_table)
+  - Atoms bond into molecules
+    - Ionic bonds: table salt, NaCl
+    - Covalent bonds: water, H₂O
+    - Metallic bonds let metals conduct
+  - Chemical reactions
+    - Old bonds break, new ones form
+    - Mass is conserved in reactions
+    - Burning, rusting and cooking are reactions
+    - Catalysts speed reactions without being used
+  - Acids, bases and solutions
+    - [pH scale usually runs 0 to 14](https://en.wikipedia.org/wiki/PH)
+    - Lemon juice is acidic, soap basic
+    - Water dissolves many substances
+  - Main branches
+    - Organic: carbon compounds
+    - Inorganic: metals, minerals and salts
+    - Physical: energy and reaction rates
+    - Analytical: what is in a sample
+    - Biochemistry: chemistry of living things
+  - Why it matters
+    - Medicines are designed and made chemically
+    - Fertilisers help feed billions
+    - Plastics, fuels and batteries
+    - [Lavoisier helped found modern chemistry](https://en.wikipedia.org/wiki/Antoine_Lavoisier)

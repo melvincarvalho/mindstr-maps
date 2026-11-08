@@ -1,0 +1,31 @@
+category: History
+aliases: the black death, black plague, great plague of 1348, great mortality
+- Black Death
+  - What it was
+    - Deadliest pandemic in recorded history
+    - Peaked in Europe 1347–1351
+    - [Caused by bacterium Yersinia pestis](https://en.wikipedia.org/wiki/Yersinia_pestis)
+  - How it spread
+    - Likely began in Central Asia
+    - Reached Crimea at Caffa in 1346
+    - Genoese ships carried it to Sicily
+    - Fleas on rats, plus person-to-person
+    - Followed trade routes across Europe
+  - Symptoms
+    - [Bubonic: swollen lymph nodes, called buboes](https://en.wikipedia.org/wiki/Bubonic_plague)
+    - Pneumonic form spread by coughing
+    - Most victims died within days
+  - Death toll
+    - Perhaps a third to half of Europeans
+    - Roughly 25 to 50 million in Europe
+    - Also ravaged Middle East and North Africa
+  - How people responded
+    - Seen as God's punishment for sin
+    - [Flagellants whipped themselves in procession](https://en.wikipedia.org/wiki/Flagellant)
+    - Jews falsely blamed and massacred
+    - Venice and Ragusa introduced quarantine
+  - Long-term effects
+    - Labour shortage raised peasants' wages
+    - Serfdom weakened in Western Europe
+    - Revolts like England's 1381 Peasants' Revolt
+    - Plague returned in waves for centuries

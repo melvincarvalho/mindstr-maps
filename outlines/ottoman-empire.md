@@ -1,0 +1,32 @@
+category: History
+aliases: ottoman turks, ottomans, ottoman sultanate, ottoman history
+- Ottoman Empire
+  - Origins and rise
+    - Founded by Osman I around 1299
+    - Anatolian frontier state of Turkic warriors
+    - [Conquered Constantinople in 1453](https://en.wikipedia.org/wiki/Fall_of_Constantinople)
+    - Constantinople renamed capital, later Istanbul
+  - Height of power
+    - [Suleiman the Magnificent ruled 1520–1566](https://en.wikipedia.org/wiki/Suleiman_the_Magnificent)
+    - Spanned southeast Europe, Middle East, North Africa
+    - Besieged Vienna in 1529 and 1683
+    - Controlled key trade routes and holy cities
+  - Government and society
+    - Sultan ruled with grand vizier and divan
+    - [Janissaries: elite infantry from devshirme levy](https://en.wikipedia.org/wiki/Janissary)
+    - Millet system let religious communities self-govern
+    - Sunni Islam; sultans claimed the caliphate
+  - Culture
+    - Architect Sinan built great imperial mosques
+    - Topkapı Palace was the seat of power
+    - Ottoman Turkish blended Arabic and Persian
+  - Decline and reform
+    - Lost wars and territory from 1699
+    - Tanzimat reforms modernised from 1839
+    - Nationalist revolts in the Balkans
+    - Called the "sick man of Europe"
+  - The end
+    - Joined Central Powers in World War I
+    - [Armenian genocide of 1915–1917](https://en.wikipedia.org/wiki/Armenian_genocide)
+    - Sultanate abolished in 1922
+    - Republic of Turkey founded in 1923

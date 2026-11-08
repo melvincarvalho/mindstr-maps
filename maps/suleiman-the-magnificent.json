@@ -1,0 +1,329 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Suleiman the Magnificent",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#6jiifg",
+      "name": "Who he was",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5j3rt9",
+      "name": "Tenth sultan of the Ottoman Empire",
+      "x": -465,
+      "y": -56,
+      "parent": "#6jiifg"
+    },
+    {
+      "@id": "#eewuqy",
+      "name": "Born 1494 in Trabzon",
+      "x": -405,
+      "y": -156,
+      "parent": "#6jiifg"
+    },
+    {
+      "@id": "#4dihpe",
+      "name": "Reigned 1520 to 1566, the longest",
+      "x": -330,
+      "y": -245,
+      "parent": "#6jiifg"
+    },
+    {
+      "@id": "#8rxd5x",
+      "name": "Military campaigns",
+      "x": 17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gjm6j3",
+      "name": "Captured Belgrade in 1521",
+      "x": -225,
+      "y": -312,
+      "parent": "#8rxd5x"
+    },
+    {
+      "@id": "#hyczn8",
+      "name": "Took Rhodes from the Knights, 1522",
+      "x": -104,
+      "y": -367,
+      "parent": "#8rxd5x"
+    },
+    {
+      "@id": "#9n4ifu",
+      "name": "Crushed Hungary at Mohács, 1526",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Battle_of_Moh%C3%A1cs",
+      "parent": "#8rxd5x"
+    },
+    {
+      "@id": "#3pdy8y",
+      "name": "Siege of Vienna failed in 1529",
+      "x": 234,
+      "y": -485,
+      "link": "https://en.wikipedia.org/wiki/Siege_of_Vienna_%281529%29",
+      "parent": "#8rxd5x"
+    },
+    {
+      "@id": "#fm8zqs",
+      "name": "Took Baghdad from Safavid Persia",
+      "x": 281,
+      "y": -281,
+      "parent": "#8rxd5x"
+    },
+    {
+      "@id": "#tcz2vd",
+      "name": "Power at sea",
+      "x": 220,
+      "y": -54,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9fnypx",
+      "name": "Admiral Hayreddin Barbarossa led the fleet",
+      "x": 372,
+      "y": -203,
+      "parent": "#tcz2vd"
+    },
+    {
+      "@id": "#kn3yss",
+      "name": "Won the Battle of Preveza, 1538",
+      "x": 430,
+      "y": -106,
+      "parent": "#tcz2vd"
+    },
+    {
+      "@id": "#mdkr5f",
+      "name": "Dominated the eastern Mediterranean",
+      "x": 450,
+      "y": 0,
+      "parent": "#tcz2vd"
+    },
+    {
+      "@id": "#z29w49",
+      "name": "The Lawgiver",
+      "x": 190,
+      "y": 104,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u3we8e",
+      "name": "Known in Turkey as Kanuni",
+      "x": 430,
+      "y": 106,
+      "parent": "#z29w49"
+    },
+    {
+      "@id": "#htdehp",
+      "name": "Codified Ottoman administrative and criminal law",
+      "x": 372,
+      "y": 203,
+      "parent": "#z29w49"
+    },
+    {
+      "@id": "#9br4b7",
+      "name": "Balanced sultan's law with sharia",
+      "x": 281,
+      "y": 281,
+      "parent": "#z29w49"
+    },
+    {
+      "@id": "#g4vr25",
+      "name": "Culture and court",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5hb2hr",
+      "name": "Architect Mimar Sinan built Süleymaniye Mosque",
+      "x": 164,
+      "y": 335,
+      "parent": "#g4vr25"
+    },
+    {
+      "@id": "#ye7x2q",
+      "name": "Wrote poetry under the name Muhibbi",
+      "x": 38,
+      "y": 391,
+      "parent": "#g4vr25"
+    },
+    {
+      "@id": "#evuig5",
+      "name": "Married Hürrem Sultan, a former concubine",
+      "x": -124,
+      "y": 447,
+      "link": "https://en.wikipedia.org/wiki/H%C3%BCrrem_Sultan",
+      "parent": "#g4vr25"
+    },
+    {
+      "@id": "#hrih6k",
+      "name": "Executed sons Mustafa and Bayezid",
+      "x": -245,
+      "y": 340,
+      "parent": "#g4vr25"
+    },
+    {
+      "@id": "#5sinax",
+      "name": "Death and legacy",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jp7ctv",
+      "name": "Died 1566 besieging Szigetvár",
+      "x": -330,
+      "y": 245,
+      "parent": "#5sinax"
+    },
+    {
+      "@id": "#avk6fv",
+      "name": "Son Selim II succeeded him",
+      "x": -405,
+      "y": 156,
+      "parent": "#5sinax"
+    },
+    {
+      "@id": "#xnjshu",
+      "name": "Empire at its height of power",
+      "x": -465,
+      "y": 56,
+      "parent": "#5sinax"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

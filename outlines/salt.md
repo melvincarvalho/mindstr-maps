@@ -1,0 +1,28 @@
+category: Life and home
+aliases: table salt, sodium chloride, salt in food
+- Salt
+  - What salt is
+    - [Sodium chloride, NaCl](https://en.wikipedia.org/wiki/Sodium_chloride)
+    - Forms cube-shaped crystals
+    - Iodised salt prevents iodine deficiency
+  - Where it comes from
+    - Evaporating seawater in salt pans
+    - Mining underground rock salt
+    - Pumping brine from deposits
+    - Sea salt and rock salt differ little
+  - Uses
+    - Seasons and enhances flavour
+    - [Preserves food by drawing out water](https://en.wikipedia.org/wiki/Salting_%28food%29)
+    - De-icing roads in winter
+    - Chemical industry makes chlorine and soda
+  - Salt and health
+    - Body needs sodium for nerves and fluids
+    - [Too much raises blood pressure](https://en.wikipedia.org/wiki/Hypertension)
+    - WHO advises under 5 g a day
+    - Most comes from processed foods
+    - Check labels for sodium content
+  - Salt in history
+    - Valued enough to be taxed and traded
+    - Ancient salt roads crossed the Sahara
+    - French salt tax fuelled resentment
+    - [Gandhi's Salt March in 1930](https://en.wikipedia.org/wiki/Salt_March)

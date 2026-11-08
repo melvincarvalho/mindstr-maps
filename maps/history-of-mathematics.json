@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "History of mathematics",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#zq28wv",
+      "name": "Ancient beginnings",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ifcigf",
+      "name": "Babylonian base-60 numbers and tables",
+      "x": -525,
+      "y": -59,
+      "parent": "#zq28wv"
+    },
+    {
+      "@id": "#98kiie",
+      "name": "Egyptian geometry for land and pyramids",
+      "x": -409,
+      "y": -150,
+      "parent": "#zq28wv"
+    },
+    {
+      "@id": "#3yuara",
+      "name": "Rhind Papyrus, about 1550 BC",
+      "x": -340,
+      "y": -236,
+      "link": "https://en.wikipedia.org/wiki/Rhind_Mathematical_Papyrus",
+      "parent": "#zq28wv"
+    },
+    {
+      "@id": "#f697tz",
+      "name": "Greek mathematics",
+      "x": -65,
+      "y": -177,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xw93wp",
+      "name": "Pythagoras and his famous theorem",
+      "x": -243,
+      "y": -303,
+      "parent": "#f697tz"
+    },
+    {
+      "@id": "#kx5xy5",
+      "name": "Euclid's Elements built geometry from axioms",
+      "x": -133,
+      "y": -360,
+      "link": "https://en.wikipedia.org/wiki/Euclid%27s_Elements",
+      "parent": "#f697tz"
+    },
+    {
+      "@id": "#7fmdrh",
+      "name": "Archimedes estimated pi and areas",
+      "x": 0,
+      "y": -408,
+      "parent": "#f697tz"
+    },
+    {
+      "@id": "#nudrcw",
+      "name": "India, China and the Islamic world",
+      "x": 216,
+      "y": -199,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ejpp6b",
+      "name": "Indian place-value digits and zero",
+      "x": 175,
+      "y": -465,
+      "parent": "#nudrcw"
+    },
+    {
+      "@id": "#ybd7mc",
+      "name": "Chinese Nine Chapters on equations",
+      "x": 243,
+      "y": -303,
+      "parent": "#nudrcw"
+    },
+    {
+      "@id": "#5jitek",
+      "name": "Al-Khwarizmi founded algebra, about 820",
+      "x": 520,
+      "y": -356,
+      "parent": "#nudrcw"
+    },
+    {
+      "@id": "#yarcyg",
+      "name": "Hindu–Arabic numerals reached Europe via Fibonacci",
+      "x": 409,
+      "y": -150,
+      "parent": "#nudrcw"
+    },
+    {
+      "@id": "#kng3wc",
+      "name": "Scientific Revolution",
+      "x": 221,
+      "y": 52,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qjm2qj",
+      "name": "Descartes joined algebra and geometry",
+      "x": 445,
+      "y": -51,
+      "parent": "#kng3wc"
+    },
+    {
+      "@id": "#j5zb97",
+      "name": "Napier's logarithms sped up calculation",
+      "x": 545,
+      "y": 61,
+      "parent": "#kng3wc"
+    },
+    {
+      "@id": "#96kud9",
+      "name": "Newton and Leibniz invented calculus",
+      "x": 409,
+      "y": 150,
+      "link": "https://en.wikipedia.org/wiki/History_of_calculus",
+      "parent": "#kng3wc"
+    },
+    {
+      "@id": "#ym94bk",
+      "name": "Probability from Pascal and Fermat",
+      "x": 340,
+      "y": 236,
+      "parent": "#kng3wc"
+    },
+    {
+      "@id": "#95p6pg",
+      "name": "18th and 19th centuries",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wvw6y6",
+      "name": "Euler's prolific work across every field",
+      "x": 243,
+      "y": 303,
+      "parent": "#95p6pg"
+    },
+    {
+      "@id": "#xnkpq5",
+      "name": "Gauss on number theory and statistics",
+      "x": 133,
+      "y": 360,
+      "parent": "#95p6pg"
+    },
+    {
+      "@id": "#8zh2vn",
+      "name": "Non-Euclidean geometry of curved space",
+      "x": 0,
+      "y": 408,
+      "parent": "#95p6pg"
+    },
+    {
+      "@id": "#r5dy9m",
+      "name": "Cantor's sets and kinds of infinity",
+      "x": -175,
+      "y": 465,
+      "parent": "#95p6pg"
+    },
+    {
+      "@id": "#7c3wxh",
+      "name": "Modern mathematics",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ti5qa5",
+      "name": "Gödel's incompleteness theorems, 1931",
+      "x": -243,
+      "y": 303,
+      "link": "https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems",
+      "parent": "#7c3wxh"
+    },
+    {
+      "@id": "#ygydud",
+      "name": "Turing and the theory of computation",
+      "x": -340,
+      "y": 236,
+      "parent": "#7c3wxh"
+    },
+    {
+      "@id": "#334u9k",
+      "name": "Fermat's Last Theorem proved, 1994",
+      "x": -409,
+      "y": 150,
+      "parent": "#7c3wxh"
+    },
+    {
+      "@id": "#28y8j7",
+      "name": "Computers assist and check proofs",
+      "x": -445,
+      "y": 51,
+      "parent": "#7c3wxh"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

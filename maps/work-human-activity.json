@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Work (human activity)",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#k7ii8a",
+      "name": "What work is",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#egtcaz",
+      "name": "Effort to produce goods or services",
+      "x": -485,
+      "y": -58,
+      "parent": "#k7ii8a"
+    },
+    {
+      "@id": "#4eaafc",
+      "name": "Paid jobs and unpaid labour",
+      "x": -405,
+      "y": -156,
+      "parent": "#k7ii8a"
+    },
+    {
+      "@id": "#mjde4e",
+      "name": "Unpaid care and housework count too",
+      "x": -330,
+      "y": -245,
+      "link": "https://en.wikipedia.org/wiki/Unpaid_work",
+      "parent": "#k7ii8a"
+    },
+    {
+      "@id": "#j57rjw",
+      "name": "Why people work",
+      "x": -51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bygb6h",
+      "name": "Income to meet needs",
+      "x": -225,
+      "y": -312,
+      "parent": "#j57rjw"
+    },
+    {
+      "@id": "#c47kvr",
+      "name": "Identity, status and purpose",
+      "x": -104,
+      "y": -367,
+      "parent": "#j57rjw"
+    },
+    {
+      "@id": "#c34524",
+      "name": "Social contact and structure",
+      "x": 42,
+      "y": -423,
+      "parent": "#j57rjw"
+    },
+    {
+      "@id": "#su4rh2",
+      "name": "How work changed",
+      "x": 169,
+      "y": -125,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d48byd",
+      "name": "Hunting, gathering, then farming",
+      "x": 234,
+      "y": -485,
+      "parent": "#su4rh2"
+    },
+    {
+      "@id": "#er6539",
+      "name": "Craft guilds and apprenticeships",
+      "x": 281,
+      "y": -281,
+      "parent": "#su4rh2"
+    },
+    {
+      "@id": "#35j4q4",
+      "name": "Industrial Revolution moved work to factories",
+      "x": 372,
+      "y": -203,
+      "link": "https://en.wikipedia.org/wiki/Industrial_Revolution",
+      "parent": "#su4rh2"
+    },
+    {
+      "@id": "#6hpp2f",
+      "name": "Most rich-country jobs now in services",
+      "x": 468,
+      "y": -116,
+      "parent": "#su4rh2"
+    },
+    {
+      "@id": "#f68nxp",
+      "name": "How work is organised",
+      "x": 207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4qmp24",
+      "name": "Division of labour boosts productivity",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Division_of_labour",
+      "parent": "#f68nxp"
+    },
+    {
+      "@id": "#yreyrd",
+      "name": "Employment contracts and wages",
+      "x": 506,
+      "y": 126,
+      "parent": "#f68nxp"
+    },
+    {
+      "@id": "#xzcnaw",
+      "name": "Self-employment and the gig economy",
+      "x": 372,
+      "y": 203,
+      "parent": "#f68nxp"
+    },
+    {
+      "@id": "#cppwms",
+      "name": "Unions bargain for workers collectively",
+      "x": 281,
+      "y": 281,
+      "parent": "#f68nxp"
+    },
+    {
+      "@id": "#7z4gcn",
+      "name": "Rights and conditions",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qc5z9m",
+      "name": "Eight-hour day won in 20th century",
+      "x": 164,
+      "y": 335,
+      "parent": "#7z4gcn"
+    },
+    {
+      "@id": "#wk255u",
+      "name": "Minimum wages and safety laws",
+      "x": 38,
+      "y": 391,
+      "parent": "#7z4gcn"
+    },
+    {
+      "@id": "#nc8vtm",
+      "name": "Child and forced labour banned",
+      "x": -124,
+      "y": 447,
+      "parent": "#7z4gcn"
+    },
+    {
+      "@id": "#ha8fdd",
+      "name": "ILO sets international labour standards",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wikipedia.org/wiki/International_Labour_Organization",
+      "parent": "#7z4gcn"
+    },
+    {
+      "@id": "#jzn5tw",
+      "name": "The future of work",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cdyhf6",
+      "name": "Automation and AI reshape jobs",
+      "x": -330,
+      "y": 245,
+      "parent": "#jzn5tw"
+    },
+    {
+      "@id": "#46jrqx",
+      "name": "Hybrid and flexible working spread",
+      "x": -405,
+      "y": 156,
+      "parent": "#jzn5tw"
+    },
+    {
+      "@id": "#spqfi9",
+      "name": "Debates over a universal basic income",
+      "x": -525,
+      "y": 62,
+      "link": "https://en.wikipedia.org/wiki/Universal_basic_income",
+      "parent": "#jzn5tw"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

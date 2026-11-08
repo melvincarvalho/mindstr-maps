@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Fraction",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#m3cuz3",
+      "name": "What a fraction means",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y6s2is",
+      "name": "Equal parts of a whole",
+      "x": -464,
+      "y": -58,
+      "parent": "#m3cuz3"
+    },
+    {
+      "@id": "#ws7w54",
+      "name": "3/4: three of four parts",
+      "x": -401,
+      "y": -163,
+      "parent": "#m3cuz3"
+    },
+    {
+      "@id": "#x5kstw",
+      "name": "Also a division: 3 ÷ 4",
+      "x": -318,
+      "y": -255,
+      "parent": "#m3cuz3"
+    },
+    {
+      "@id": "#2ykg5z",
+      "name": "Parts of a fraction",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fr7ddc",
+      "name": "Numerator on top counts parts",
+      "x": -204,
+      "y": -321,
+      "parent": "#2ykg5z"
+    },
+    {
+      "@id": "#sicpkh",
+      "name": "Denominator below names part size",
+      "x": -73,
+      "y": -372,
+      "parent": "#2ykg5z"
+    },
+    {
+      "@id": "#hbhdz9",
+      "name": "Proper fractions are less than 1",
+      "x": 82,
+      "y": -420,
+      "parent": "#2ykg5z"
+    },
+    {
+      "@id": "#c4gkf9",
+      "name": "Mixed numbers like 1½",
+      "x": 204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Fraction#Mixed_numbers",
+      "parent": "#2ykg5z"
+    },
+    {
+      "@id": "#5bb5i4",
+      "name": "Equivalent fractions",
+      "x": 205,
+      "y": -84,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#snss22",
+      "name": "1/2 = 2/4 = 50/100",
+      "x": 318,
+      "y": -255,
+      "parent": "#5bb5i4"
+    },
+    {
+      "@id": "#kjdk63",
+      "name": "Simplify by dividing by common factors",
+      "x": 401,
+      "y": -163,
+      "parent": "#5bb5i4"
+    },
+    {
+      "@id": "#abym6z",
+      "name": "Greatest common divisor finds lowest terms",
+      "x": 544,
+      "y": -66,
+      "link": "https://en.wikipedia.org/wiki/Greatest_common_divisor",
+      "parent": "#5bb5i4"
+    },
+    {
+      "@id": "#2x6sua",
+      "name": "Doing arithmetic",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#x5pbn6",
+      "name": "Add with a common denominator",
+      "x": 444,
+      "y": 56,
+      "parent": "#2x6sua"
+    },
+    {
+      "@id": "#6qug6t",
+      "name": "Multiply tops, multiply bottoms",
+      "x": 401,
+      "y": 163,
+      "parent": "#2x6sua"
+    },
+    {
+      "@id": "#p6refc",
+      "name": "Divide by flipping the second fraction",
+      "x": 318,
+      "y": 255,
+      "parent": "#2x6sua"
+    },
+    {
+      "@id": "#5bfypb",
+      "name": "Compare by cross-multiplying",
+      "x": 204,
+      "y": 321,
+      "parent": "#2x6sua"
+    },
+    {
+      "@id": "#eg827c",
+      "name": "Other forms of the same number",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sdrmfn",
+      "name": "Decimals: 1/4 = 0.25",
+      "x": 73,
+      "y": 372,
+      "link": "https://en.wikipedia.org/wiki/Decimal",
+      "parent": "#eg827c"
+    },
+    {
+      "@id": "#3ejtsz",
+      "name": "Percentages: 1/4 = 25%",
+      "x": -82,
+      "y": 420,
+      "link": "https://en.wikipedia.org/wiki/Percentage",
+      "parent": "#eg827c"
+    },
+    {
+      "@id": "#atpbvi",
+      "name": "Ratios: 1 part to 3",
+      "x": -204,
+      "y": 321,
+      "parent": "#eg827c"
+    },
+    {
+      "@id": "#icm9u2",
+      "name": "History and uses",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4cbp32",
+      "name": "Egyptians used unit fractions",
+      "x": -318,
+      "y": 255,
+      "parent": "#icm9u2"
+    },
+    {
+      "@id": "#as8u64",
+      "name": "Horizontal bar came via Arabic mathematicians",
+      "x": -419,
+      "y": 170,
+      "parent": "#icm9u2"
+    },
+    {
+      "@id": "#s27ywc",
+      "name": "Recipes, money, music and measurements",
+      "x": -504,
+      "y": 62,
+      "parent": "#icm9u2"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

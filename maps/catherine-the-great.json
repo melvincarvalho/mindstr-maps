@@ -1,0 +1,329 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Catherine the Great",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#aqx6mc",
+      "name": "Early life",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d232v4",
+      "name": "Born 1729 in Stettin, Prussia",
+      "x": -445,
+      "y": -54,
+      "parent": "#aqx6mc"
+    },
+    {
+      "@id": "#uh7dev",
+      "name": "German princess Sophie of Anhalt-Zerbst",
+      "x": -405,
+      "y": -156,
+      "parent": "#aqx6mc"
+    },
+    {
+      "@id": "#i9tinn",
+      "name": "Married future Peter III in 1745",
+      "x": -330,
+      "y": -245,
+      "parent": "#aqx6mc"
+    },
+    {
+      "@id": "#jrzz3a",
+      "name": "Converted to Russian Orthodoxy",
+      "x": -225,
+      "y": -312,
+      "parent": "#aqx6mc"
+    },
+    {
+      "@id": "#is7www",
+      "name": "Seizing power",
+      "x": 51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wx59hu",
+      "name": "Peter III became emperor in 1762",
+      "x": -104,
+      "y": -367,
+      "parent": "#is7www"
+    },
+    {
+      "@id": "#hmuq34",
+      "name": "Overthrew him in a palace coup",
+      "x": 42,
+      "y": -423,
+      "parent": "#is7www"
+    },
+    {
+      "@id": "#r7p7ic",
+      "name": "Peter killed days later in custody",
+      "x": 234,
+      "y": -485,
+      "parent": "#is7www"
+    },
+    {
+      "@id": "#fsarpb",
+      "name": "Ruled Russia for 34 years",
+      "x": 281,
+      "y": -281,
+      "parent": "#is7www"
+    },
+    {
+      "@id": "#7j3jy6",
+      "name": "Expanding Russia",
+      "x": 227,
+      "y": -27,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g3ktkc",
+      "name": "Wars against the Ottoman Empire",
+      "x": 372,
+      "y": -203,
+      "parent": "#7j3jy6"
+    },
+    {
+      "@id": "#gn75vm",
+      "name": "Annexed Crimea in 1783",
+      "x": 430,
+      "y": -106,
+      "parent": "#7j3jy6"
+    },
+    {
+      "@id": "#h6saaq",
+      "name": "Shared in the partitions of Poland",
+      "x": 530,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Partitions_of_Poland",
+      "parent": "#7j3jy6"
+    },
+    {
+      "@id": "#hv3jib",
+      "name": "Grigory Potemkin governed the south",
+      "x": 430,
+      "y": 106,
+      "parent": "#7j3jy6"
+    },
+    {
+      "@id": "#s5bdqm",
+      "name": "Enlightened despot",
+      "x": 115,
+      "y": 159,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b7inj8",
+      "name": "Corresponded with Voltaire and Diderot",
+      "x": 389,
+      "y": 212,
+      "parent": "#s5bdqm"
+    },
+    {
+      "@id": "#y5axpw",
+      "name": "Drafted the Nakaz to reform laws",
+      "x": 281,
+      "y": 281,
+      "parent": "#s5bdqm"
+    },
+    {
+      "@id": "#d7w3dr",
+      "name": "Founded Smolny Institute for girls' education",
+      "x": 164,
+      "y": 335,
+      "parent": "#s5bdqm"
+    },
+    {
+      "@id": "#sm45tj",
+      "name": "Began the Hermitage art collection",
+      "x": 38,
+      "y": 391,
+      "link": "https://en.wikipedia.org/wiki/Hermitage_Museum",
+      "parent": "#s5bdqm"
+    },
+    {
+      "@id": "#eadj6b",
+      "name": "Limits and revolt",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#w5952y",
+      "name": "Serfdom extended and deepened",
+      "x": -124,
+      "y": 447,
+      "parent": "#eadj6b"
+    },
+    {
+      "@id": "#2nrixz",
+      "name": "Pugachev's Rebellion crushed, 1773–1775",
+      "x": -365,
+      "y": 508,
+      "link": "https://en.wikipedia.org/wiki/Pugachev%27s_Rebellion",
+      "parent": "#eadj6b"
+    },
+    {
+      "@id": "#8hduhy",
+      "name": "Turned conservative after French Revolution",
+      "x": -330,
+      "y": 245,
+      "parent": "#eadj6b"
+    },
+    {
+      "@id": "#z5riqb",
+      "name": "Legacy",
+      "x": -220,
+      "y": 54,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4b3g43",
+      "name": "Died 1796, son Paul I succeeded",
+      "x": -405,
+      "y": 156,
+      "parent": "#z5riqb"
+    },
+    {
+      "@id": "#9qthqq",
+      "name": "Russia a leading European power",
+      "x": -445,
+      "y": 54,
+      "parent": "#z5riqb"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

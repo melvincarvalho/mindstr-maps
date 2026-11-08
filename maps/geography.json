@@ -1,0 +1,308 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Geography",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#dk7jxd",
+      "name": "Two main branches",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#waiy8v",
+      "name": "Physical: landforms, climate, rivers",
+      "x": -504,
+      "y": -68,
+      "link": "https://en.wikipedia.org/wiki/Physical_geography",
+      "parent": "#dk7jxd"
+    },
+    {
+      "@id": "#j5n5ju",
+      "name": "Human: people, cities, economies",
+      "x": -396,
+      "y": -171,
+      "link": "https://en.wikipedia.org/wiki/Human_geography",
+      "parent": "#dk7jxd"
+    },
+    {
+      "@id": "#apnz35",
+      "name": "Environmental geography links the two",
+      "x": -305,
+      "y": -265,
+      "parent": "#dk7jxd"
+    },
+    {
+      "@id": "#6qezqv",
+      "name": "Key questions geographers ask",
+      "x": -19,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hzqy9j",
+      "name": "Where is it?",
+      "x": -181,
+      "y": -330,
+      "parent": "#6qezqv"
+    },
+    {
+      "@id": "#fsnn2q",
+      "name": "Why is it there?",
+      "x": -41,
+      "y": -391,
+      "parent": "#6qezqv"
+    },
+    {
+      "@id": "#3b77iq",
+      "name": "How does place shape life?",
+      "x": 140,
+      "y": -445,
+      "parent": "#6qezqv"
+    },
+    {
+      "@id": "#9hxgmb",
+      "name": "Shape of the land",
+      "x": 182,
+      "y": -113,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ri84c4",
+      "name": "Plate tectonics builds mountains and oceans",
+      "x": 246,
+      "y": -301,
+      "parent": "#9hxgmb"
+    },
+    {
+      "@id": "#5vixzz",
+      "name": "Erosion by water, ice and wind",
+      "x": 355,
+      "y": -221,
+      "parent": "#9hxgmb"
+    },
+    {
+      "@id": "#3b3hgk",
+      "name": "Oceans cover about 71% of Earth",
+      "x": 464,
+      "y": -127,
+      "parent": "#9hxgmb"
+    },
+    {
+      "@id": "#k85wpy",
+      "name": "Climate and living things",
+      "x": 218,
+      "y": 60,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tir6wu",
+      "name": "Latitude sets how much sunlight arrives",
+      "x": 450,
+      "y": 0,
+      "parent": "#k85wpy"
+    },
+    {
+      "@id": "#rf6tau",
+      "name": "Biomes: desert, rainforest, tundra, grassland",
+      "x": 426,
+      "y": 117,
+      "parent": "#k85wpy"
+    },
+    {
+      "@id": "#hrfgsq",
+      "name": "Ocean currents move heat around",
+      "x": 355,
+      "y": 221,
+      "parent": "#k85wpy"
+    },
+    {
+      "@id": "#7fhgx2",
+      "name": "People on the planet",
+      "x": 56,
+      "y": 178,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rdmxvc",
+      "name": "About 8 billion people, unevenly spread",
+      "x": 246,
+      "y": 301,
+      "parent": "#7fhgx2"
+    },
+    {
+      "@id": "#f77qad",
+      "name": "Over half now live in cities",
+      "x": 110,
+      "y": 349,
+      "parent": "#7fhgx2"
+    },
+    {
+      "@id": "#59k39m",
+      "name": "Migration, trade and borders connect places",
+      "x": -43,
+      "y": 407,
+      "parent": "#7fhgx2"
+    },
+    {
+      "@id": "#4bgf3t",
+      "name": "Tools of the trade",
+      "x": -182,
+      "y": 113,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g6ig7u",
+      "name": "Maps and map projections",
+      "x": -189,
+      "y": 345,
+      "link": "https://en.wikipedia.org/wiki/Map_projection",
+      "parent": "#4bgf3t"
+    },
+    {
+      "@id": "#4k3dtr",
+      "name": "Latitude and longitude locate anywhere",
+      "x": -305,
+      "y": 265,
+      "parent": "#4bgf3t"
+    },
+    {
+      "@id": "#aaahm9",
+      "name": "GIS layers data on maps",
+      "x": -396,
+      "y": 171,
+      "link": "https://en.wikipedia.org/wiki/Geographic_information_system",
+      "parent": "#4bgf3t"
+    },
+    {
+      "@id": "#pdtse9",
+      "name": "Satellites and remote sensing",
+      "x": -444,
+      "y": 59,
+      "parent": "#4bgf3t"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

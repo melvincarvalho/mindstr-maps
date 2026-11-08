@@ -1,0 +1,363 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Journalism",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#wxf7vx",
+      "name": "What journalists do",
+      "x": -222,
+      "y": -48,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rbcse2",
+      "name": "Gather, check and report news",
+      "x": -506,
+      "y": -53,
+      "parent": "#wxf7vx"
+    },
+    {
+      "@id": "#sc845t",
+      "name": "Explain events and hold power to account",
+      "x": -416,
+      "y": -138,
+      "parent": "#wxf7vx"
+    },
+    {
+      "@id": "#92nfuf",
+      "name": "Core principles",
+      "x": -88,
+      "y": -170,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xxe8tg",
+      "name": "Accuracy: verify before publishing",
+      "x": -357,
+      "y": -219,
+      "parent": "#92nfuf"
+    },
+    {
+      "@id": "#d5ykdm",
+      "name": "Independence from those being covered",
+      "x": -274,
+      "y": -286,
+      "parent": "#92nfuf"
+    },
+    {
+      "@id": "#xfmxgz",
+      "name": "Keep news separate from opinion",
+      "x": -180,
+      "y": -348,
+      "parent": "#92nfuf"
+    },
+    {
+      "@id": "#pwpmk5",
+      "name": "Correct mistakes openly",
+      "x": -68,
+      "y": -405,
+      "parent": "#92nfuf"
+    },
+    {
+      "@id": "#9m2gnk",
+      "name": "Protect confidential sources",
+      "x": 77,
+      "y": -453,
+      "parent": "#92nfuf"
+    },
+    {
+      "@id": "#k29bq5",
+      "name": "Forms",
+      "x": 182,
+      "y": -112,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tyazqk",
+      "name": "Daily news reporting",
+      "x": 172,
+      "y": -333,
+      "parent": "#k29bq5"
+    },
+    {
+      "@id": "#4xcrmv",
+      "name": "Investigative journalism uncovers hidden wrongdoing",
+      "x": 370,
+      "y": -390,
+      "link": "https://en.wikipedia.org/wiki/Investigative_journalism",
+      "parent": "#k29bq5"
+    },
+    {
+      "@id": "#u6txcs",
+      "name": "Features, profiles and long reads",
+      "x": 357,
+      "y": -219,
+      "parent": "#k29bq5"
+    },
+    {
+      "@id": "#5h4bgr",
+      "name": "Opinion columns and editorials",
+      "x": 416,
+      "y": -138,
+      "parent": "#k29bq5"
+    },
+    {
+      "@id": "#k6eu3a",
+      "name": "Photojournalism tells stories in images",
+      "x": 446,
+      "y": -47,
+      "link": "https://en.wikipedia.org/wiki/Photojournalism",
+      "parent": "#k29bq5"
+    },
+    {
+      "@id": "#hbjz8b",
+      "name": "How a story is made",
+      "x": 199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b9dipp",
+      "name": "Find a lead or tip",
+      "x": 446,
+      "y": 47,
+      "parent": "#hbjz8b"
+    },
+    {
+      "@id": "#h9yvwq",
+      "name": "Research documents and interview sources",
+      "x": 434,
+      "y": 144,
+      "parent": "#hbjz8b"
+    },
+    {
+      "@id": "#kcyewq",
+      "name": "Write with the key facts first",
+      "x": 357,
+      "y": 219,
+      "parent": "#hbjz8b"
+    },
+    {
+      "@id": "#nnykje",
+      "name": "Edit and fact-check, then publish",
+      "x": 274,
+      "y": 286,
+      "parent": "#hbjz8b"
+    },
+    {
+      "@id": "#rjj5av",
+      "name": "Milestones",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#iwk2gw",
+      "name": "First regular newspapers, early 1600s",
+      "x": 180,
+      "y": 348,
+      "parent": "#rjj5av"
+    },
+    {
+      "@id": "#65abfp",
+      "name": "Cheap penny press, 1830s",
+      "x": 68,
+      "y": 405,
+      "parent": "#rjj5av"
+    },
+    {
+      "@id": "#p35n82",
+      "name": "Pulitzer Prizes awarded since 1917",
+      "x": -77,
+      "y": 453,
+      "link": "https://en.wikipedia.org/wiki/Pulitzer_Prize",
+      "parent": "#rjj5av"
+    },
+    {
+      "@id": "#c9frnd",
+      "name": "Watergate reporting, 1972 to 1974",
+      "x": -268,
+      "y": 513,
+      "link": "https://en.wikipedia.org/wiki/Watergate_scandal",
+      "parent": "#rjj5av"
+    },
+    {
+      "@id": "#xxuj8q",
+      "name": "Challenges today",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8xhjki",
+      "name": "Print advertising revenue has collapsed",
+      "x": -274,
+      "y": 286,
+      "parent": "#xxuj8q"
+    },
+    {
+      "@id": "#vmxu34",
+      "name": "Falling public trust in news",
+      "x": -357,
+      "y": 219,
+      "parent": "#xxuj8q"
+    },
+    {
+      "@id": "#vin2iw",
+      "name": "Competing with misinformation online",
+      "x": -434,
+      "y": 144,
+      "parent": "#xxuj8q"
+    },
+    {
+      "@id": "#ffbv6h",
+      "name": "Journalists face threats and imprisonment",
+      "x": -506,
+      "y": 53,
+      "parent": "#xxuj8q"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 4,
+      "end": 8
+    },
+    {
+      "start": 4,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 10,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    },
+    {
+      "start": 26,
+      "end": 29
+    },
+    {
+      "start": 26,
+      "end": 30
+    }
+  ],
+  "selectedNode": 0
+}

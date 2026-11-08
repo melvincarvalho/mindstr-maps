@@ -1,0 +1,340 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Storm",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#bass2g",
+      "name": "What a storm is",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cy2nic",
+      "name": "Disturbed weather with wind or rain",
+      "x": -505,
+      "y": -57,
+      "parent": "#bass2g"
+    },
+    {
+      "@id": "#f5ce7c",
+      "name": "Usually around low air pressure",
+      "x": -409,
+      "y": -150,
+      "parent": "#bass2g"
+    },
+    {
+      "@id": "#hdq5jd",
+      "name": "Fed by warm, moist rising air",
+      "x": -340,
+      "y": -236,
+      "parent": "#bass2g"
+    },
+    {
+      "@id": "#fam6q3",
+      "name": "Types of storm",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3qnqkf",
+      "name": "Thunderstorms: lightning and heavy showers",
+      "x": -243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Thunderstorm",
+      "parent": "#fam6q3"
+    },
+    {
+      "@id": "#d9c6yf",
+      "name": "Tropical cyclones: hurricanes and typhoons",
+      "x": -133,
+      "y": -360,
+      "link": "https://en.wikipedia.org/wiki/Tropical_cyclone",
+      "parent": "#fam6q3"
+    },
+    {
+      "@id": "#jgh7yf",
+      "name": "Tornadoes: spinning columns of air",
+      "x": 0,
+      "y": -408,
+      "link": "https://en.wikipedia.org/wiki/Tornado",
+      "parent": "#fam6q3"
+    },
+    {
+      "@id": "#9tz89e",
+      "name": "Winter storms and blizzards",
+      "x": 175,
+      "y": -465,
+      "parent": "#fam6q3"
+    },
+    {
+      "@id": "#7s83sd",
+      "name": "Dust and sand storms",
+      "x": 243,
+      "y": -303,
+      "parent": "#fam6q3"
+    },
+    {
+      "@id": "#hii97y",
+      "name": "Dangers",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z7euuw",
+      "name": "Strong winds topple trees and buildings",
+      "x": 340,
+      "y": -236,
+      "parent": "#hii97y"
+    },
+    {
+      "@id": "#i974r6",
+      "name": "Flooding from heavy rain",
+      "x": 409,
+      "y": -150,
+      "parent": "#hii97y"
+    },
+    {
+      "@id": "#p2uy57",
+      "name": "Storm surge floods coasts",
+      "x": 445,
+      "y": -51,
+      "parent": "#hii97y"
+    },
+    {
+      "@id": "#2ac22d",
+      "name": "Lightning, hail and power cuts",
+      "x": 445,
+      "y": 51,
+      "parent": "#hii97y"
+    },
+    {
+      "@id": "#zw99sg",
+      "name": "Tracking and warnings",
+      "x": 174,
+      "y": 120,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t48a9k",
+      "name": "Satellites and radar follow storms",
+      "x": 463,
+      "y": 171,
+      "parent": "#zw99sg"
+    },
+    {
+      "@id": "#29gdn4",
+      "name": "Storms are named to aid warnings",
+      "x": 340,
+      "y": 236,
+      "parent": "#zw99sg"
+    },
+    {
+      "@id": "#8hj78d",
+      "name": "Hurricanes rated on Saffir–Simpson scale",
+      "x": 243,
+      "y": 303,
+      "parent": "#zw99sg"
+    },
+    {
+      "@id": "#ku6t6h",
+      "name": "Before a storm",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uxpa8k",
+      "name": "Follow official warnings and evacuation orders",
+      "x": 133,
+      "y": 360,
+      "parent": "#ku6t6h"
+    },
+    {
+      "@id": "#bmubpz",
+      "name": "Secure loose objects outdoors",
+      "x": 0,
+      "y": 408,
+      "parent": "#ku6t6h"
+    },
+    {
+      "@id": "#2tnwp7",
+      "name": "Charge phones, store water and torches",
+      "x": -175,
+      "y": 465,
+      "parent": "#ku6t6h"
+    },
+    {
+      "@id": "#5uy382",
+      "name": "During and after",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7kvek3",
+      "name": "Stay indoors away from windows",
+      "x": -243,
+      "y": 303,
+      "parent": "#5uy382"
+    },
+    {
+      "@id": "#i2aqzv",
+      "name": "Tornado: lowest floor, interior room",
+      "x": -340,
+      "y": 236,
+      "parent": "#5uy382"
+    },
+    {
+      "@id": "#rpvzh4",
+      "name": "Avoid fallen power lines",
+      "x": -409,
+      "y": 150,
+      "parent": "#5uy382"
+    },
+    {
+      "@id": "#d2rmnz",
+      "name": "Check on neighbours",
+      "x": -445,
+      "y": 51,
+      "parent": "#5uy382"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

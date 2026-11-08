@@ -1,0 +1,342 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Albert Einstein",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#zgg2pk",
+      "name": "Early life",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tksttb",
+      "name": "Born in Ulm, Germany, 1879",
+      "x": -445,
+      "y": -51,
+      "parent": "#zgg2pk"
+    },
+    {
+      "@id": "#mi95uu",
+      "name": "Grew up in Munich, then Switzerland",
+      "x": -409,
+      "y": -150,
+      "parent": "#zgg2pk"
+    },
+    {
+      "@id": "#3ngvfv",
+      "name": "Graduated from Zurich Polytechnic in 1900",
+      "x": -340,
+      "y": -236,
+      "parent": "#zgg2pk"
+    },
+    {
+      "@id": "#5gieni",
+      "name": "Clerk at the Bern patent office",
+      "x": -243,
+      "y": -303,
+      "parent": "#zgg2pk"
+    },
+    {
+      "@id": "#u5bmtt",
+      "name": "The miracle year, 1905",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v44cgd",
+      "name": "Light comes in quanta: photoelectric effect",
+      "x": -133,
+      "y": -360,
+      "link": "https://en.wikipedia.org/wiki/Photoelectric_effect",
+      "parent": "#u5bmtt"
+    },
+    {
+      "@id": "#dzf3ua",
+      "name": "Brownian motion showed atoms are real",
+      "x": 0,
+      "y": -408,
+      "parent": "#u5bmtt"
+    },
+    {
+      "@id": "#9jcjyv",
+      "name": "Special relativity: space and time stretch",
+      "x": 175,
+      "y": -465,
+      "link": "https://en.wikipedia.org/wiki/Special_relativity",
+      "parent": "#u5bmtt"
+    },
+    {
+      "@id": "#bx6web",
+      "name": "E = mc² links mass and energy",
+      "x": 243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence",
+      "parent": "#u5bmtt"
+    },
+    {
+      "@id": "#2avuq8",
+      "name": "General relativity",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sxgyhj",
+      "name": "Completed in 1915",
+      "x": 340,
+      "y": -236,
+      "parent": "#2avuq8"
+    },
+    {
+      "@id": "#wmfaa2",
+      "name": "Gravity is curved spacetime",
+      "x": 409,
+      "y": -150,
+      "link": "https://en.wikipedia.org/wiki/General_relativity",
+      "parent": "#2avuq8"
+    },
+    {
+      "@id": "#eayxwk",
+      "name": "1919 eclipse confirmed light bending",
+      "x": 525,
+      "y": -59,
+      "parent": "#2avuq8"
+    },
+    {
+      "@id": "#mnfggq",
+      "name": "Predicted gravitational waves, detected 2015",
+      "x": 445,
+      "y": 51,
+      "parent": "#2avuq8"
+    },
+    {
+      "@id": "#smcdrp",
+      "name": "Fame and politics",
+      "x": 151,
+      "y": 139,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#x5b9tj",
+      "name": "1921 Nobel Prize for the photoelectric effect",
+      "x": 481,
+      "y": 178,
+      "parent": "#smcdrp"
+    },
+    {
+      "@id": "#7xu5x4",
+      "name": "Left Nazi Germany for Princeton, 1933",
+      "x": 340,
+      "y": 236,
+      "parent": "#smcdrp"
+    },
+    {
+      "@id": "#bdjwfa",
+      "name": "1939 letter urged US atomic research",
+      "x": 243,
+      "y": 303,
+      "link": "https://en.wikipedia.org/wiki/Einstein%E2%80%93Szilard_letter",
+      "parent": "#smcdrp"
+    },
+    {
+      "@id": "#wkisnb",
+      "name": "Pacifist and civil rights supporter",
+      "x": 133,
+      "y": 360,
+      "parent": "#smcdrp"
+    },
+    {
+      "@id": "#pp4eei",
+      "name": "Later years",
+      "x": -65,
+      "y": 177,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kjpwm6",
+      "name": "Argued with Bohr over quantum mechanics",
+      "x": 0,
+      "y": 408,
+      "parent": "#pp4eei"
+    },
+    {
+      "@id": "#mkquhu",
+      "name": "Sought a unified field theory",
+      "x": -175,
+      "y": 465,
+      "parent": "#pp4eei"
+    },
+    {
+      "@id": "#e6fcrw",
+      "name": "Died in Princeton in 1955",
+      "x": -243,
+      "y": 303,
+      "parent": "#pp4eei"
+    },
+    {
+      "@id": "#3vzfhm",
+      "name": "Legacy",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d9nq38",
+      "name": "GPS satellites correct for relativity",
+      "x": -340,
+      "y": 236,
+      "parent": "#3vzfhm"
+    },
+    {
+      "@id": "#th2pwu",
+      "name": "Basis of cosmology and black holes",
+      "x": -409,
+      "y": 150,
+      "parent": "#3vzfhm"
+    },
+    {
+      "@id": "#mhut9k",
+      "name": "His name became shorthand for genius",
+      "x": -465,
+      "y": 53,
+      "parent": "#3vzfhm"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

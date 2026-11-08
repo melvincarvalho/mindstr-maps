@@ -1,0 +1,352 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Shinto",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#3gca3j",
+      "name": "What it is",
+      "x": -211,
+      "y": -73,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#65jwz6",
+      "name": "Indigenous religion of Japan",
+      "x": -446,
+      "y": -49,
+      "parent": "#3gca3j"
+    },
+    {
+      "@id": "#3f9m2a",
+      "name": "Name means \"way of the kami\"",
+      "x": -413,
+      "y": -143,
+      "parent": "#3gca3j"
+    },
+    {
+      "@id": "#pkx774",
+      "name": "No founder or single scripture",
+      "x": -349,
+      "y": -227,
+      "parent": "#3gca3j"
+    },
+    {
+      "@id": "#emymp5",
+      "name": "Beliefs",
+      "x": -47,
+      "y": -180,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nq5k7f",
+      "name": "Kami: spirits in nature and places",
+      "x": -260,
+      "y": -294,
+      "link": "https://en.wikipedia.org/wiki/Kami",
+      "parent": "#emymp5"
+    },
+    {
+      "@id": "#dwu76y",
+      "name": "Ancestors can become kami",
+      "x": -158,
+      "y": -354,
+      "parent": "#emymp5"
+    },
+    {
+      "@id": "#r4jd9y",
+      "name": "Purity matters; pollution is cleansed",
+      "x": -34,
+      "y": -407,
+      "parent": "#emymp5"
+    },
+    {
+      "@id": "#mq36rn",
+      "name": "Amaterasu, sun goddess",
+      "x": 120,
+      "y": -464,
+      "link": "https://en.wikipedia.org/wiki/Amaterasu",
+      "parent": "#emymp5"
+    },
+    {
+      "@id": "#ek9xn4",
+      "name": "Shrines",
+      "x": 178,
+      "y": -116,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m7gfpy",
+      "name": "About 80,000 shrines across Japan",
+      "x": 207,
+      "y": -320,
+      "link": "https://en.wikipedia.org/wiki/Shinto_shrine",
+      "parent": "#ek9xn4"
+    },
+    {
+      "@id": "#q8zuuv",
+      "name": "Torii gate marks sacred space",
+      "x": 307,
+      "y": -263,
+      "parent": "#ek9xn4"
+    },
+    {
+      "@id": "#7qg7kx",
+      "name": "Ise Grand Shrine honours Amaterasu",
+      "x": 384,
+      "y": -187,
+      "parent": "#ek9xn4"
+    },
+    {
+      "@id": "#ftn3dm",
+      "name": "Priests and miko maintain shrines",
+      "x": 433,
+      "y": -97,
+      "parent": "#ek9xn4"
+    },
+    {
+      "@id": "#enar4e",
+      "name": "Practices",
+      "x": 197,
+      "y": 96,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cfxifd",
+      "name": "Rinse hands and mouth before praying",
+      "x": 450,
+      "y": 0,
+      "parent": "#enar4e"
+    },
+    {
+      "@id": "#6u2pme",
+      "name": "Bow, clap, bow at the shrine",
+      "x": 433,
+      "y": 97,
+      "parent": "#enar4e"
+    },
+    {
+      "@id": "#cr4jpb",
+      "name": "Omamori charms and omikuji fortunes",
+      "x": 384,
+      "y": 187,
+      "parent": "#enar4e"
+    },
+    {
+      "@id": "#sfmbts",
+      "name": "Matsuri festivals carry kami in procession",
+      "x": 307,
+      "y": 263,
+      "parent": "#enar4e"
+    },
+    {
+      "@id": "#ms49c3",
+      "name": "Shrine visits at New Year",
+      "x": 207,
+      "y": 320,
+      "parent": "#enar4e"
+    },
+    {
+      "@id": "#c7z9b7",
+      "name": "History",
+      "x": -47,
+      "y": 180,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sd5m73",
+      "name": "Myths in the Kojiki, 712 CE",
+      "x": 96,
+      "y": 368,
+      "parent": "#c7z9b7"
+    },
+    {
+      "@id": "#7xgc9i",
+      "name": "Blended with Buddhism for centuries",
+      "x": -35,
+      "y": 423,
+      "parent": "#c7z9b7"
+    },
+    {
+      "@id": "#4wd2h7",
+      "name": "State Shinto, 1868 to 1945",
+      "x": -214,
+      "y": 474,
+      "link": "https://en.wikipedia.org/wiki/State_Shinto",
+      "parent": "#c7z9b7"
+    },
+    {
+      "@id": "#5mr5sf",
+      "name": "Separated from state after 1945",
+      "x": -260,
+      "y": 294,
+      "parent": "#c7z9b7"
+    },
+    {
+      "@id": "#kmb4qb",
+      "name": "Life today",
+      "x": -211,
+      "y": 73,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#enbgsg",
+      "name": "Many Japanese mix Shinto and Buddhism",
+      "x": -349,
+      "y": 227,
+      "parent": "#kmb4qb"
+    },
+    {
+      "@id": "#hqmzw5",
+      "name": "Shinto weddings, Buddhist funerals common",
+      "x": -413,
+      "y": 143,
+      "parent": "#kmb4qb"
+    },
+    {
+      "@id": "#k832us",
+      "name": "Rites for births and new buildings",
+      "x": -466,
+      "y": 51,
+      "parent": "#kmb4qb"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 15,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    },
+    {
+      "start": 26,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

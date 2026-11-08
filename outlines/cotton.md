@@ -1,0 +1,31 @@
+category: Technology
+aliases: cotton plant, cotton fibre, cotton farming, cotton fabric
+- Cotton
+  - The plant
+    - [Gossypium, a shrub of the mallow family](https://en.wikipedia.org/wiki/Gossypium)
+    - Fluffy fibre grows around the seeds
+    - Needs sun, warmth and plenty of water
+  - Growing and harvesting
+    - Bolls burst open when ripe
+    - Picked by hand or machine
+    - [Ginning separates fibre from seed](https://en.wikipedia.org/wiki/Cotton_gin)
+    - India, China, US and Brazil lead
+  - From fibre to fabric
+    - Fibre is almost pure cellulose
+    - Spun into yarn, then woven or knitted
+    - Denim, jersey, muslin and flannel
+    - Soft, breathable and absorbs water
+  - Early history
+    - Grown in Indus Valley 5,000+ years ago
+    - Domesticated separately in the Americas
+    - Indian cotton cloth traded worldwide
+    - Eli Whitney's gin, 1793
+  - Cotton and slavery
+    - Gin expanded slavery in the US South
+    - Fed Lancashire mills in Industrial Revolution
+    - ["King Cotton" and the American Civil War](https://en.wikipedia.org/wiki/King_Cotton)
+  - Uses and impact
+    - Clothes, towels and bed linen
+    - Seeds give cottonseed oil and feed
+    - Irrigation helped shrink the Aral Sea
+    - Heavy pesticide use in some regions

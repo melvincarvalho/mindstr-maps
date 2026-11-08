@@ -1,0 +1,31 @@
+category: Philosophy and religion
+aliases: being spiritual, spiritual life, spiritual practice
+- Spirituality
+  - What it means
+    - A search for meaning and the sacred
+    - Connection to something larger than oneself
+    - Can be religious or not
+  - Spiritual but not religious
+    - [A growing identity in Western countries](https://en.wikipedia.org/wiki/Spiritual_but_not_religious)
+    - Personal experience over institutions
+    - Draws on many traditions
+  - Common practices
+    - [Meditation and mindfulness](https://en.wikipedia.org/wiki/Meditation)
+    - Prayer and contemplation
+    - Yoga and breathwork
+    - Time in nature
+    - Journaling and retreats
+  - Within religions
+    - [Mysticism seeks direct union with the divine](https://en.wikipedia.org/wiki/Mysticism)
+    - [Sufism in Islam](https://en.wikipedia.org/wiki/Sufism)
+    - Christian contemplatives and monastics
+    - Kabbalah in Judaism
+    - Zen and Tibetan Buddhist practice
+  - Secular spirituality
+    - Awe at the universe and nature
+    - Humanist meaning without the supernatural
+    - Art and music as transcendence
+  - Research and debate
+    - Linked with wellbeing in many studies
+    - Critics call the term too vague
+    - Commercial "wellness" also draws criticism

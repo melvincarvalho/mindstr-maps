@@ -1,0 +1,29 @@
+category: Science
+aliases: human origins, hominin evolution, evolution of humans, evolution of man
+- Human evolution
+  - Shared ancestry with apes
+    - Chimp lineage diverged 6–7 million years ago
+    - [Hominins: species closer to us than chimps](https://en.wikipedia.org/wiki/Hominini)
+    - Evidence from fossils, DNA and tools
+  - Early hominins
+    - Sahelanthropus, about 7 million years ago
+    - [Australopithecus walked upright, ~4–2 million years ago](https://en.wikipedia.org/wiki/Australopithecus)
+    - Lucy fossil: Ethiopia, 3.2 million years
+  - Genus Homo
+    - Homo habilis linked to early tools
+    - [Homo erectus first to leave Africa](https://en.wikipedia.org/wiki/Homo_erectus)
+    - Taller bodies, longer legs, bigger brains
+  - Our close cousins
+    - [Neanderthals in Europe and western Asia](https://en.wikipedia.org/wiki/Neanderthal)
+    - Denisovans known mostly from DNA
+    - Small Homo floresiensis in Indonesia
+    - Neanderthals gone by about 40,000 years ago
+  - Modern humans
+    - Homo sapiens in Africa ~300,000 years ago
+    - [Spread out of Africa ~60,000 years ago](https://en.wikipedia.org/wiki/Recent_African_origin_of_modern_humans)
+    - Most non-Africans carry 1–2% Neanderthal DNA
+  - Key trends
+    - Upright walking came before big brains
+    - Brain size roughly tripled
+    - Smaller teeth and jaws over time
+    - A branching bush, not a ladder

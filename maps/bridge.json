@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Bridge",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#yginbs",
+      "name": "What a bridge does",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ydfze5",
+      "name": "Carries road, rail or path across gaps",
+      "x": -525,
+      "y": -62,
+      "parent": "#yginbs"
+    },
+    {
+      "@id": "#w6862z",
+      "name": "Spans rivers, valleys and other roads",
+      "x": -405,
+      "y": -156,
+      "parent": "#yginbs"
+    },
+    {
+      "@id": "#3pmwj3",
+      "name": "Balances compression and tension forces",
+      "x": -330,
+      "y": -245,
+      "parent": "#yginbs"
+    },
+    {
+      "@id": "#9aukst",
+      "name": "Main types",
+      "x": 17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nc46cn",
+      "name": "Beam bridge rests on piers",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Beam_bridge",
+      "parent": "#9aukst"
+    },
+    {
+      "@id": "#mued8f",
+      "name": "Arch pushes load out to its ends",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Arch_bridge",
+      "parent": "#9aukst"
+    },
+    {
+      "@id": "#mdjmwr",
+      "name": "Suspension deck hangs from main cables",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Suspension_bridge",
+      "parent": "#9aukst"
+    },
+    {
+      "@id": "#9ctavg",
+      "name": "Cable-stayed cables run straight to towers",
+      "x": 234,
+      "y": -485,
+      "parent": "#9aukst"
+    },
+    {
+      "@id": "#496pip",
+      "name": "Truss uses triangles for stiffness",
+      "x": 281,
+      "y": -281,
+      "parent": "#9aukst"
+    },
+    {
+      "@id": "#sgrfpm",
+      "name": "Materials",
+      "x": 220,
+      "y": -54,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cm9s25",
+      "name": "Stone and timber in ancient times",
+      "x": 372,
+      "y": -203,
+      "parent": "#sgrfpm"
+    },
+    {
+      "@id": "#r2jih6",
+      "name": "Iron arrived with the Industrial Revolution",
+      "x": 430,
+      "y": -106,
+      "parent": "#sgrfpm"
+    },
+    {
+      "@id": "#uqiuxf",
+      "name": "Steel and reinforced concrete today",
+      "x": 450,
+      "y": 0,
+      "parent": "#sgrfpm"
+    },
+    {
+      "@id": "#ci4jt4",
+      "name": "Famous bridges",
+      "x": 169,
+      "y": 125,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dkiayu",
+      "name": "Roman aqueducts like Pont du Gard",
+      "x": 449,
+      "y": 111,
+      "parent": "#ci4jt4"
+    },
+    {
+      "@id": "#7xksqd",
+      "name": "1779 Iron Bridge, Shropshire, first cast-iron",
+      "x": 372,
+      "y": 203,
+      "parent": "#ci4jt4"
+    },
+    {
+      "@id": "#ek5r8m",
+      "name": "1937 Golden Gate Bridge, San Francisco",
+      "x": 281,
+      "y": 281,
+      "parent": "#ci4jt4"
+    },
+    {
+      "@id": "#vbe5uh",
+      "name": "2022 Çanakkale 1915 Bridge, longest suspension span",
+      "x": 164,
+      "y": 335,
+      "parent": "#ci4jt4"
+    },
+    {
+      "@id": "#b2meyd",
+      "name": "Lessons from failure",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mrnk6w",
+      "name": "Tacoma Narrows twisted apart in wind, 1940",
+      "x": 38,
+      "y": 391,
+      "link": "https://en.wikipedia.org/wiki/Tacoma_Narrows_Bridge_%281940%29",
+      "parent": "#b2meyd"
+    },
+    {
+      "@id": "#p6uxrp",
+      "name": "Wind tunnel tests now shape decks",
+      "x": -124,
+      "y": 447,
+      "parent": "#b2meyd"
+    },
+    {
+      "@id": "#wfsigg",
+      "name": "Regular inspections catch corrosion and cracks",
+      "x": -365,
+      "y": 508,
+      "parent": "#b2meyd"
+    },
+    {
+      "@id": "#zsswj6",
+      "name": "Building one",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r8v3kk",
+      "name": "Survey ground and foundations first",
+      "x": -330,
+      "y": 245,
+      "parent": "#zsswj6"
+    },
+    {
+      "@id": "#nryyh4",
+      "name": "Sink piers into riverbed or rock",
+      "x": -405,
+      "y": 156,
+      "parent": "#zsswj6"
+    },
+    {
+      "@id": "#ewpw29",
+      "name": "Build deck outward or lift sections",
+      "x": -485,
+      "y": 58,
+      "parent": "#zsswj6"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

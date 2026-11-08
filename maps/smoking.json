@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Smoking",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#xs2y9a",
+      "name": "Why it's addictive",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hqb5gj",
+      "name": "Nicotine reaches the brain in seconds",
+      "x": -525,
+      "y": -59,
+      "link": "https://en.wikipedia.org/wiki/Nicotine",
+      "parent": "#xs2y9a"
+    },
+    {
+      "@id": "#2sf7rw",
+      "name": "Cravings and irritability when stopping",
+      "x": -409,
+      "y": -150,
+      "parent": "#xs2y9a"
+    },
+    {
+      "@id": "#ecu2bn",
+      "name": "Habits tied to routines and stress",
+      "x": -340,
+      "y": -236,
+      "parent": "#xs2y9a"
+    },
+    {
+      "@id": "#hg44n2",
+      "name": "Health risks",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#psn4dz",
+      "name": "Causes most lung cancer",
+      "x": -243,
+      "y": -303,
+      "parent": "#hg44n2"
+    },
+    {
+      "@id": "#9siwdb",
+      "name": "Heart disease and stroke",
+      "x": -133,
+      "y": -360,
+      "link": "https://en.wikipedia.org/wiki/Cardiovascular_disease",
+      "parent": "#hg44n2"
+    },
+    {
+      "@id": "#sajy4k",
+      "name": "COPD and emphysema",
+      "x": 0,
+      "y": -408,
+      "link": "https://en.wikipedia.org/wiki/Chronic_obstructive_pulmonary_disease",
+      "parent": "#hg44n2"
+    },
+    {
+      "@id": "#gu6exe",
+      "name": "Harms pregnancy and unborn babies",
+      "x": 175,
+      "y": -465,
+      "parent": "#hg44n2"
+    },
+    {
+      "@id": "#vsd9ps",
+      "name": "Kills up to half of long-term users",
+      "x": 243,
+      "y": -303,
+      "parent": "#hg44n2"
+    },
+    {
+      "@id": "#axgapu",
+      "name": "Second-hand smoke",
+      "x": 193,
+      "y": -99,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8dbpeg",
+      "name": "Harms people nearby, especially children",
+      "x": 340,
+      "y": -236,
+      "parent": "#axgapu"
+    },
+    {
+      "@id": "#dxbkdk",
+      "name": "Smoke-free laws in many countries",
+      "x": 409,
+      "y": -150,
+      "parent": "#axgapu"
+    },
+    {
+      "@id": "#a5gzyx",
+      "name": "Benefits of quitting",
+      "x": 221,
+      "y": 52,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zkbru4",
+      "name": "Carbon monoxide levels fall within days",
+      "x": 445,
+      "y": -51,
+      "parent": "#a5gzyx"
+    },
+    {
+      "@id": "#r4iuhy",
+      "name": "Breathing and circulation improve in months",
+      "x": 565,
+      "y": 63,
+      "parent": "#a5gzyx"
+    },
+    {
+      "@id": "#ivz5gj",
+      "name": "Heart disease risk halves after a year",
+      "x": 409,
+      "y": 150,
+      "parent": "#a5gzyx"
+    },
+    {
+      "@id": "#jkfdpy",
+      "name": "Never too late to benefit",
+      "x": 340,
+      "y": 236,
+      "parent": "#a5gzyx"
+    },
+    {
+      "@id": "#ighpaj",
+      "name": "How to quit",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ivn43m",
+      "name": "Pick a quit date and plan",
+      "x": 243,
+      "y": 303,
+      "link": "https://en.wikipedia.org/wiki/Smoking_cessation",
+      "parent": "#ighpaj"
+    },
+    {
+      "@id": "#byey4h",
+      "name": "Nicotine replacement: patches, gum, lozenges",
+      "x": 133,
+      "y": 360,
+      "parent": "#ighpaj"
+    },
+    {
+      "@id": "#kpeare",
+      "name": "Prescription medicines like varenicline",
+      "x": 0,
+      "y": 408,
+      "parent": "#ighpaj"
+    },
+    {
+      "@id": "#qxu84i",
+      "name": "Free quit services and quitlines",
+      "x": -175,
+      "y": 465,
+      "parent": "#ighpaj"
+    },
+    {
+      "@id": "#adr8ub",
+      "name": "Combining support and medication works best",
+      "x": -243,
+      "y": 303,
+      "parent": "#ighpaj"
+    },
+    {
+      "@id": "#rbmcbr",
+      "name": "Vaping",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ncq7cs",
+      "name": "Far less harmful than smoking, not harmless",
+      "x": -340,
+      "y": 236,
+      "parent": "#rbmcbr"
+    },
+    {
+      "@id": "#jxdvei",
+      "name": "Can help some smokers quit",
+      "x": -409,
+      "y": 150,
+      "parent": "#rbmcbr"
+    },
+    {
+      "@id": "#jjdzk2",
+      "name": "Not recommended for non-smokers or young people",
+      "x": -505,
+      "y": 57,
+      "parent": "#rbmcbr"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 19,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

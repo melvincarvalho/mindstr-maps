@@ -1,0 +1,298 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Community",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#5u8263",
+      "name": "What a community is",
+      "x": -216,
+      "y": -63,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mu3quu",
+      "name": "Group sharing place, identity or interest",
+      "x": -543,
+      "y": -78,
+      "parent": "#5u8263"
+    },
+    {
+      "@id": "#pi23r9",
+      "name": "Members feel belonging and mutual ties",
+      "x": -390,
+      "y": -180,
+      "parent": "#5u8263"
+    },
+    {
+      "@id": "#nr7m8f",
+      "name": "Kinds of community",
+      "x": -40,
+      "y": -181,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#if84xg",
+      "name": "Local: villages, towns and neighborhoods",
+      "x": -289,
+      "y": -276,
+      "parent": "#nr7m8f"
+    },
+    {
+      "@id": "#b5i45n",
+      "name": "Communities of faith or ethnicity",
+      "x": -154,
+      "y": -338,
+      "parent": "#nr7m8f"
+    },
+    {
+      "@id": "#kqia9t",
+      "name": "Communities of interest or profession",
+      "x": 0,
+      "y": -392,
+      "parent": "#nr7m8f"
+    },
+    {
+      "@id": "#twxqas",
+      "name": "Online communities and forums",
+      "x": 203,
+      "y": -443,
+      "link": "https://en.wikipedia.org/wiki/Online_community",
+      "parent": "#nr7m8f"
+    },
+    {
+      "@id": "#z7nbrn",
+      "name": "What holds it together",
+      "x": 199,
+      "y": -92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9qa7cg",
+      "name": "Feeling of membership and belonging",
+      "x": 289,
+      "y": -276,
+      "link": "https://en.wikipedia.org/wiki/Sense_of_community",
+      "parent": "#z7nbrn"
+    },
+    {
+      "@id": "#mma92v",
+      "name": "Social capital: trust and networks",
+      "x": 390,
+      "y": -180,
+      "link": "https://en.wikipedia.org/wiki/Social_capital",
+      "parent": "#z7nbrn"
+    },
+    {
+      "@id": "#kw7bq8",
+      "name": "Shared spaces, events and rituals",
+      "x": 503,
+      "y": -72,
+      "parent": "#z7nbrn"
+    },
+    {
+      "@id": "#e8epjm",
+      "name": "Ideas about community",
+      "x": 199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fcxq3c",
+      "name": "Tönnies: Gemeinschaft versus Gesellschaft",
+      "x": 543,
+      "y": 78,
+      "link": "https://en.wikipedia.org/wiki/Gemeinschaft_and_Gesellschaft",
+      "parent": "#e8epjm"
+    },
+    {
+      "@id": "#n28eib",
+      "name": "Putnam's Bowling Alone on declining ties",
+      "x": 390,
+      "y": 180,
+      "link": "https://en.wikipedia.org/wiki/Bowling_Alone",
+      "parent": "#e8epjm"
+    },
+    {
+      "@id": "#y782nt",
+      "name": "Anderson: nations as imagined communities",
+      "x": 289,
+      "y": 276,
+      "parent": "#e8epjm"
+    },
+    {
+      "@id": "#a2pdds",
+      "name": "Building community",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g8bwh3",
+      "name": "Volunteering and local associations",
+      "x": 154,
+      "y": 338,
+      "parent": "#a2pdds"
+    },
+    {
+      "@id": "#54hgnw",
+      "name": "Community centers, libraries and parks",
+      "x": 0,
+      "y": 392,
+      "parent": "#a2pdds"
+    },
+    {
+      "@id": "#pu5j5q",
+      "name": "Organizing together for shared goals",
+      "x": -203,
+      "y": 443,
+      "parent": "#a2pdds"
+    },
+    {
+      "@id": "#t9j6qz",
+      "name": "Challenges",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#n6agrb",
+      "name": "Loneliness and social isolation",
+      "x": -289,
+      "y": 276,
+      "parent": "#t9j6qz"
+    },
+    {
+      "@id": "#qceuqm",
+      "name": "Frequent moving weakens local ties",
+      "x": -390,
+      "y": 180,
+      "parent": "#t9j6qz"
+    },
+    {
+      "@id": "#zvmyq7",
+      "name": "Exclusion of outsiders",
+      "x": -443,
+      "y": 63,
+      "parent": "#t9j6qz"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 4,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    }
+  ],
+  "selectedNode": 0
+}

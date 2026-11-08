@@ -1,0 +1,31 @@
+category: Health
+aliases: TB, consumption disease, tuberculosis symptoms, TB treatment
+- Tuberculosis
+  - Cause
+    - [Mycobacterium tuberculosis bacteria](https://en.wikipedia.org/wiki/Mycobacterium_tuberculosis)
+    - Usually affects the lungs
+    - Can spread to other organs
+  - How it spreads
+    - Airborne when sick people cough
+    - Usually needs prolonged close contact
+    - [Latent TB: infected but not ill](https://en.wikipedia.org/wiki/Latent_tuberculosis)
+    - About a quarter of humanity infected
+  - Symptoms
+    - Cough lasting three weeks or more
+    - Coughing up blood
+    - Fever and night sweats
+    - Weight loss and tiredness
+  - Who is most at risk
+    - People living with HIV
+    - Malnutrition, diabetes, smoking
+    - Crowded living conditions
+  - Diagnosis and treatment
+    - Sputum tests and chest X-rays
+    - Skin or blood test for latent TB
+    - Several antibiotics for about six months
+    - Finishing the full course matters
+    - [Drug-resistant TB is harder to treat](https://en.wikipedia.org/wiki/Multidrug-resistant_tuberculosis)
+  - Global picture and prevention
+    - Over a million deaths each year
+    - [BCG vaccine protects young children](https://en.wikipedia.org/wiki/BCG_vaccine)
+    - Curable and preventable

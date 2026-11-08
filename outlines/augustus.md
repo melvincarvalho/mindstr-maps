@@ -1,0 +1,30 @@
+category: People
+aliases: caesar augustus, octavian, emperor augustus, gaius octavius
+- Augustus
+  - Who he was
+    - Born Gaius Octavius in 63 BC
+    - Great-nephew of Julius Caesar
+    - Adopted as heir in Caesar's will
+  - Road to power
+    - [Second Triumvirate with Antony and Lepidus](https://en.wikipedia.org/wiki/Second_Triumvirate)
+    - Beat Caesar's assassins at Philippi, 42 BC
+    - Defeated Antony and Cleopatra at Actium
+  - First Roman emperor
+    - Took the name Augustus in 27 BC
+    - Called himself princeps, first citizen
+    - Kept the Senate's outward forms
+    - Ruled 41 years, until AD 14
+  - Reforms
+    - Created a standing professional army
+    - Founded the Praetorian Guard
+    - Ran census and tax reforms
+    - Rebuilt Rome in marble
+  - [Pax Romana](https://en.wikipedia.org/wiki/Pax_Romana)
+    - About 200 years of relative peace
+    - Expanded empire to Egypt and Danube
+    - Lost three legions in Teutoburg Forest
+  - Legacy
+    - [Res Gestae lists his achievements](https://en.wikipedia.org/wiki/Res_Gestae_Divi_Augusti)
+    - Stepson Tiberius succeeded him
+    - Month of August named after him
+    - [Founded the Roman Empire](https://en.wikipedia.org/wiki/Roman_Empire)

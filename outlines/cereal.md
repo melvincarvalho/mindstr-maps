@@ -1,0 +1,29 @@
+category: Life and home
+aliases: cereal grains, cereal crops, grain crops, cereals
+- Cereal
+  - What cereals are
+    - Grasses grown for their edible grain
+    - Grain is bran, germ and starchy endosperm
+    - [Whole grains keep the bran and germ](https://en.wikipedia.org/wiki/Whole_grain)
+  - The big three
+    - [Maize, the most produced grain](https://en.wikipedia.org/wiki/Maize)
+    - [Rice, staple for half the world](https://en.wikipedia.org/wiki/Rice)
+    - [Wheat, the most widely grown](https://en.wikipedia.org/wiki/Wheat)
+  - Other cereals
+    - Barley for animal feed and malt
+    - Oats for porridge and feed
+    - Sorghum and millet in dry regions
+    - Rye for bread and whisky
+  - From field to plate
+    - Harvested with combine harvesters
+    - Milled into flour or polished grain
+    - Baked, boiled or made into pasta
+    - Fermented into beer and spirits
+  - Why they matter
+    - Supply about half of human calories
+    - Easy to store and transport
+    - Much grain feeds livestock
+  - History
+    - [First domesticated about 10,000 years ago](https://en.wikipedia.org/wiki/Neolithic_Revolution)
+    - Grain surpluses allowed the first cities
+    - Green Revolution boosted yields from 1960s

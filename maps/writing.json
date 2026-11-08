@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Writing",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#e4bhj9",
+      "name": "Invented independently several times",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#36qyxg",
+      "name": "Mesopotamian cuneiform, about 3200 BC",
+      "x": -444,
+      "y": -56,
+      "link": "https://en.wikipedia.org/wiki/Cuneiform",
+      "parent": "#e4bhj9"
+    },
+    {
+      "@id": "#x7cehz",
+      "name": "Egyptian hieroglyphs, about 3200 BC",
+      "x": -401,
+      "y": -163,
+      "link": "https://en.wikipedia.org/wiki/Egyptian_hieroglyphs",
+      "parent": "#e4bhj9"
+    },
+    {
+      "@id": "#vpwgc9",
+      "name": "Chinese oracle bone script, about 1200 BC",
+      "x": -318,
+      "y": -255,
+      "parent": "#e4bhj9"
+    },
+    {
+      "@id": "#4t9b6y",
+      "name": "Mesoamerica, first millennium BC",
+      "x": -204,
+      "y": -321,
+      "parent": "#e4bhj9"
+    },
+    {
+      "@id": "#nyi522",
+      "name": "Why it began",
+      "x": 36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g4yyv4",
+      "name": "Tallying grain, livestock and taxes",
+      "x": -73,
+      "y": -372,
+      "parent": "#nyi522"
+    },
+    {
+      "@id": "#zvm5i4",
+      "name": "Recording laws, kings and rituals",
+      "x": 82,
+      "y": -420,
+      "parent": "#nyi522"
+    },
+    {
+      "@id": "#kkdiw8",
+      "name": "Pictures slowly came to stand for sounds",
+      "x": 204,
+      "y": -321,
+      "parent": "#nyi522"
+    },
+    {
+      "@id": "#3z3y42",
+      "name": "Kinds of system",
+      "x": 205,
+      "y": -84,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#25fc3u",
+      "name": "Logograms stand for whole words",
+      "x": 318,
+      "y": -255,
+      "parent": "#3z3y42"
+    },
+    {
+      "@id": "#377ysa",
+      "name": "Syllabaries stand for syllables",
+      "x": 401,
+      "y": -163,
+      "parent": "#3z3y42"
+    },
+    {
+      "@id": "#ku3b4q",
+      "name": "Alphabets stand for single sounds",
+      "x": 484,
+      "y": -60,
+      "parent": "#3z3y42"
+    },
+    {
+      "@id": "#bcmdzv",
+      "name": "Tools and materials",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zwidmg",
+      "name": "Clay tablets pressed with a stylus",
+      "x": 444,
+      "y": 56,
+      "parent": "#bcmdzv"
+    },
+    {
+      "@id": "#ts665t",
+      "name": "Papyrus, parchment, then paper from China",
+      "x": 401,
+      "y": 163,
+      "parent": "#bcmdzv"
+    },
+    {
+      "@id": "#kwy8gx",
+      "name": "Printing press, Gutenberg about 1440",
+      "x": 318,
+      "y": 255,
+      "link": "https://en.wikipedia.org/wiki/Printing_press",
+      "parent": "#bcmdzv"
+    },
+    {
+      "@id": "#cxkbk6",
+      "name": "Keyboards, screens and Unicode text",
+      "x": 204,
+      "y": 321,
+      "parent": "#bcmdzv"
+    },
+    {
+      "@id": "#cjw2ct",
+      "name": "What writing changed",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g7ziab",
+      "name": "Knowledge outlives the people who knew it",
+      "x": 73,
+      "y": 372,
+      "parent": "#cjw2ct"
+    },
+    {
+      "@id": "#cnvce8",
+      "name": "Laws, contracts and bureaucracy at scale",
+      "x": -82,
+      "y": 420,
+      "parent": "#cjw2ct"
+    },
+    {
+      "@id": "#pyyudc",
+      "name": "Literature, history and science accumulate",
+      "x": -204,
+      "y": 321,
+      "parent": "#cjw2ct"
+    },
+    {
+      "@id": "#si3edj",
+      "name": "Literacy",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wnk5d8",
+      "name": "For most of history, few could read",
+      "x": -318,
+      "y": 255,
+      "parent": "#si3edj"
+    },
+    {
+      "@id": "#3kbasa",
+      "name": "Mass schooling spread reading after 1800",
+      "x": -401,
+      "y": 163,
+      "parent": "#si3edj"
+    },
+    {
+      "@id": "#uj2tu4",
+      "name": "About 87% of adults now literate",
+      "x": -464,
+      "y": 58,
+      "link": "https://en.wikipedia.org/wiki/Literacy",
+      "parent": "#si3edj"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

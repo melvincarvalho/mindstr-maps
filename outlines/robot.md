@@ -1,0 +1,31 @@
+category: Technology
+aliases: robots, robotics, what is a robot, how robots work
+- Robot
+  - What a robot is
+    - A machine that senses, decides, acts
+    - Programmable for different tasks
+    - [Word from Čapek's 1920 play R.U.R.](https://en.wikipedia.org/wiki/R.U.R.)
+  - How robots work
+    - Sensors: cameras, lidar, touch
+    - Computer runs the control program
+    - Actuators: motors move the joints
+    - Feedback loops correct mistakes
+  - Kinds of robots
+    - [Industrial arms weld and paint cars](https://en.wikipedia.org/wiki/Industrial_robot)
+    - Robot vacuums and lawn mowers
+    - Surgical robots assist surgeons
+    - Planetary rovers explore Mars
+    - Humanoids and walking robots
+  - History
+    - Ancient and clockwork automatons
+    - [Unimate, first industrial robot, 1961](https://en.wikipedia.org/wiki/Unimate)
+    - Shakey, first mobile reasoning robot, 1960s
+    - Asimov's Three Laws, in fiction
+  - AI and robots
+    - Machine learning helps robots see
+    - Grasping messy objects remains hard
+    - [Moravec's paradox: walking is hard](https://en.wikipedia.org/wiki/Moravec%27s_paradox)
+  - Impact
+    - Do dangerous, dirty, dull jobs
+    - Raise productivity in factories
+    - Debate over jobs and safety

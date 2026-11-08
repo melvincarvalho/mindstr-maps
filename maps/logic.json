@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Logic",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#fz2i2z",
+      "name": "What logic studies",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b6hszd",
+      "name": "Which conclusions follow from premises",
+      "x": -525,
+      "y": -62,
+      "parent": "#fz2i2z"
+    },
+    {
+      "@id": "#hvix67",
+      "name": "Arguments judged by form, not topic",
+      "x": -405,
+      "y": -156,
+      "parent": "#fz2i2z"
+    },
+    {
+      "@id": "#ske58n",
+      "name": "Aristotle built the first formal system",
+      "x": -330,
+      "y": -245,
+      "link": "https://en.wikipedia.org/wiki/Term_logic",
+      "parent": "#fz2i2z"
+    },
+    {
+      "@id": "#i2hvmm",
+      "name": "Deduction",
+      "x": -51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h9ynqd",
+      "name": "True premises guarantee a true conclusion",
+      "x": -225,
+      "y": -312,
+      "parent": "#i2hvmm"
+    },
+    {
+      "@id": "#e87b8h",
+      "name": "All men are mortal; Socrates is mortal",
+      "x": -104,
+      "y": -367,
+      "parent": "#i2hvmm"
+    },
+    {
+      "@id": "#iqhfhc",
+      "name": "Validity differs from soundness",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Validity_%28logic%29",
+      "parent": "#i2hvmm"
+    },
+    {
+      "@id": "#rji89w",
+      "name": "Induction and abduction",
+      "x": 155,
+      "y": -157,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d8v92h",
+      "name": "Induction generalises from observed cases",
+      "x": 234,
+      "y": -485,
+      "parent": "#rji89w"
+    },
+    {
+      "@id": "#5pxduf",
+      "name": "Every swan seen was white, until Australia",
+      "x": 281,
+      "y": -281,
+      "parent": "#rji89w"
+    },
+    {
+      "@id": "#uzp7iv",
+      "name": "Abduction infers the best explanation",
+      "x": 389,
+      "y": -212,
+      "parent": "#rji89w"
+    },
+    {
+      "@id": "#byceyt",
+      "name": "Modern formal logic",
+      "x": 227,
+      "y": 27,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dxp9sz",
+      "name": "Propositional logic: and, or, not, if",
+      "x": 430,
+      "y": -106,
+      "link": "https://en.wikipedia.org/wiki/Propositional_calculus",
+      "parent": "#byceyt"
+    },
+    {
+      "@id": "#p7tjut",
+      "name": "Predicate logic adds \"all\" and \"some\"",
+      "x": 530,
+      "y": 0,
+      "parent": "#byceyt"
+    },
+    {
+      "@id": "#57u2rr",
+      "name": "Truth tables test every case",
+      "x": 430,
+      "y": 106,
+      "parent": "#byceyt"
+    },
+    {
+      "@id": "#5kjgn4",
+      "name": "Frege and Russell rebuilt it around 1900",
+      "x": 372,
+      "y": 203,
+      "parent": "#byceyt"
+    },
+    {
+      "@id": "#57i5cn",
+      "name": "Common fallacies",
+      "x": 51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#28jqp2",
+      "name": "Ad hominem attacks the person",
+      "x": 281,
+      "y": 281,
+      "parent": "#57i5cn"
+    },
+    {
+      "@id": "#c2zgr3",
+      "name": "Straw man distorts the other argument",
+      "x": 164,
+      "y": 335,
+      "parent": "#57i5cn"
+    },
+    {
+      "@id": "#n6zw22",
+      "name": "A wet street doesn't prove rain",
+      "x": 38,
+      "y": 391,
+      "parent": "#57i5cn"
+    },
+    {
+      "@id": "#h6uygd",
+      "name": "Correlation is not causation",
+      "x": -124,
+      "y": 447,
+      "parent": "#57i5cn"
+    },
+    {
+      "@id": "#drru2d",
+      "name": "Where logic is used",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rr495b",
+      "name": "Computer circuits run on Boolean logic",
+      "x": -225,
+      "y": 312,
+      "parent": "#drru2d"
+    },
+    {
+      "@id": "#jsc4f3",
+      "name": "Every mathematical proof",
+      "x": -330,
+      "y": 245,
+      "parent": "#drru2d"
+    },
+    {
+      "@id": "#bkazfs",
+      "name": "Law, debate and everyday reasoning",
+      "x": -405,
+      "y": 156,
+      "parent": "#drru2d"
+    },
+    {
+      "@id": "#nivuy9",
+      "name": "Gödel: some truths can't be proved",
+      "x": -445,
+      "y": 54,
+      "link": "https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems",
+      "parent": "#drru2d"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

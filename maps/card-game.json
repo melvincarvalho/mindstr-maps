@@ -1,0 +1,352 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Card game",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#xepiw4",
+      "name": "The standard deck",
+      "x": -178,
+      "y": -116,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ea836c",
+      "name": "52 cards in four suits",
+      "x": -446,
+      "y": -49,
+      "parent": "#xepiw4"
+    },
+    {
+      "@id": "#ifwu35",
+      "name": "Hearts, diamonds, clubs and spades",
+      "x": -467,
+      "y": -161,
+      "parent": "#xepiw4"
+    },
+    {
+      "@id": "#x7ucrn",
+      "name": "Ace to king, plus jokers",
+      "x": -349,
+      "y": -227,
+      "parent": "#xepiw4"
+    },
+    {
+      "@id": "#s9q8ay",
+      "name": "Invented in China, about 9th century",
+      "x": -260,
+      "y": -294,
+      "link": "https://en.wikipedia.org/wiki/Playing_card",
+      "parent": "#xepiw4"
+    },
+    {
+      "@id": "#gazkck",
+      "name": "Reached Europe in the 1370s",
+      "x": -158,
+      "y": -354,
+      "parent": "#xepiw4"
+    },
+    {
+      "@id": "#q68efy",
+      "name": "Main families",
+      "x": 106,
+      "y": -163,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9kinyu",
+      "name": "Trick-taking: bridge, whist, spades",
+      "x": -34,
+      "y": -407,
+      "parent": "#q68efy"
+    },
+    {
+      "@id": "#6nuqmb",
+      "name": "Rummy: melding sets and runs",
+      "x": 120,
+      "y": -464,
+      "parent": "#q68efy"
+    },
+    {
+      "@id": "#trf5js",
+      "name": "Shedding: Crazy Eights, Uno",
+      "x": 207,
+      "y": -320,
+      "parent": "#q68efy"
+    },
+    {
+      "@id": "#hyq95y",
+      "name": "Patience: solitaire for one player",
+      "x": 307,
+      "y": -263,
+      "parent": "#q68efy"
+    },
+    {
+      "@id": "#4swxsk",
+      "name": "Casino: blackjack, baccarat",
+      "x": 384,
+      "y": -187,
+      "parent": "#q68efy"
+    },
+    {
+      "@id": "#nn9ag6",
+      "name": "Well-known games",
+      "x": 228,
+      "y": 25,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tify5d",
+      "name": "Bridge: partnership bidding and play",
+      "x": 433,
+      "y": -97,
+      "link": "https://en.wikipedia.org/wiki/Contract_bridge",
+      "parent": "#nn9ag6"
+    },
+    {
+      "@id": "#xyfxcb",
+      "name": "Poker: betting and bluffing",
+      "x": 490,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Poker",
+      "parent": "#nn9ag6"
+    },
+    {
+      "@id": "#ksx82y",
+      "name": "Gin rummy for two",
+      "x": 433,
+      "y": 97,
+      "parent": "#nn9ag6"
+    },
+    {
+      "@id": "#udxngy",
+      "name": "Snap and Go Fish for children",
+      "x": 384,
+      "y": 187,
+      "parent": "#nn9ag6"
+    },
+    {
+      "@id": "#vt8k23",
+      "name": "Other decks",
+      "x": 106,
+      "y": 163,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jd7g2z",
+      "name": "Tarot decks began as game cards",
+      "x": 307,
+      "y": 263,
+      "parent": "#vt8k23"
+    },
+    {
+      "@id": "#4panq8",
+      "name": "Hanafuda flower cards in Japan",
+      "x": 207,
+      "y": 320,
+      "parent": "#vt8k23"
+    },
+    {
+      "@id": "#g4vz83",
+      "name": "Spanish and Italian suited decks",
+      "x": 96,
+      "y": 368,
+      "parent": "#vt8k23"
+    },
+    {
+      "@id": "#5wpnt7",
+      "name": "Collectible card games",
+      "x": -98,
+      "y": 218,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hgkxhx",
+      "name": "Magic: The Gathering (1993)",
+      "x": -35,
+      "y": 423,
+      "link": "https://en.wikipedia.org/wiki/Magic:_The_Gathering",
+      "parent": "#5wpnt7"
+    },
+    {
+      "@id": "#r7afyq",
+      "name": "Pokémon Trading Card Game",
+      "x": -214,
+      "y": 474,
+      "parent": "#5wpnt7"
+    },
+    {
+      "@id": "#t7p9wj",
+      "name": "Players build their own decks",
+      "x": -260,
+      "y": 294,
+      "parent": "#5wpnt7"
+    },
+    {
+      "@id": "#5sdey3",
+      "name": "Skills involved",
+      "x": -211,
+      "y": 73,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z6ur5c",
+      "name": "Remembering which cards are gone",
+      "x": -541,
+      "y": 347,
+      "parent": "#5sdey3"
+    },
+    {
+      "@id": "#gckbip",
+      "name": "Probability and reading opponents",
+      "x": -413,
+      "y": 143,
+      "parent": "#5sdey3"
+    },
+    {
+      "@id": "#en8t5n",
+      "name": "Signalling to partners within rules",
+      "x": -506,
+      "y": 55,
+      "parent": "#5sdey3"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 7,
+      "end": 11
+    },
+    {
+      "start": 7,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    },
+    {
+      "start": 26,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

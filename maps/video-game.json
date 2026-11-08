@@ -1,0 +1,363 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Video game",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#rnxukk",
+      "name": "What it is",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#38gqc9",
+      "name": "Interactive game played on a screen",
+      "x": -486,
+      "y": -51,
+      "parent": "#rnxukk"
+    },
+    {
+      "@id": "#qjg244",
+      "name": "On console, PC or phone",
+      "x": -416,
+      "y": -138,
+      "parent": "#rnxukk"
+    },
+    {
+      "@id": "#dzprha",
+      "name": "Controller, keyboard, mouse or touch",
+      "x": -357,
+      "y": -219,
+      "parent": "#rnxukk"
+    },
+    {
+      "@id": "#gsvejv",
+      "name": "History",
+      "x": -30,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6pggg6",
+      "name": "Pong (1972) launched arcade gaming",
+      "x": -274,
+      "y": -286,
+      "link": "https://en.wikipedia.org/wiki/Pong",
+      "parent": "#gsvejv"
+    },
+    {
+      "@id": "#ih55ps",
+      "name": "Atari home consoles, late 1970s",
+      "x": -180,
+      "y": -348,
+      "parent": "#gsvejv"
+    },
+    {
+      "@id": "#5ye4t9",
+      "name": "1983 US crash, then Nintendo's NES",
+      "x": -68,
+      "y": -405,
+      "parent": "#gsvejv"
+    },
+    {
+      "@id": "#x929pp",
+      "name": "3D graphics arrived in the 1990s",
+      "x": 77,
+      "y": -453,
+      "parent": "#gsvejv"
+    },
+    {
+      "@id": "#ztqa9a",
+      "name": "Smartphones made mobile gaming huge",
+      "x": 172,
+      "y": -333,
+      "parent": "#gsvejv"
+    },
+    {
+      "@id": "#rir4yc",
+      "name": "Genres",
+      "x": 212,
+      "y": -70,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rmct8i",
+      "name": "Action and shooters",
+      "x": 370,
+      "y": -390,
+      "parent": "#rir4yc"
+    },
+    {
+      "@id": "#6euy36",
+      "name": "Role-playing games",
+      "x": 357,
+      "y": -219,
+      "parent": "#rir4yc"
+    },
+    {
+      "@id": "#av5wbv",
+      "name": "Strategy and simulation",
+      "x": 416,
+      "y": -138,
+      "parent": "#rir4yc"
+    },
+    {
+      "@id": "#am39du",
+      "name": "Sports and racing",
+      "x": 446,
+      "y": -47,
+      "parent": "#rir4yc"
+    },
+    {
+      "@id": "#xnc546",
+      "name": "Puzzle and casual",
+      "x": 446,
+      "y": 47,
+      "parent": "#rir4yc"
+    },
+    {
+      "@id": "#hkprws",
+      "name": "Platforms",
+      "x": 182,
+      "y": 112,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#f5ma23",
+      "name": "Sony PlayStation and Microsoft Xbox",
+      "x": 434,
+      "y": 144,
+      "parent": "#hkprws"
+    },
+    {
+      "@id": "#hqenjt",
+      "name": "Nintendo Switch handheld-hybrid",
+      "x": 357,
+      "y": 219,
+      "parent": "#hkprws"
+    },
+    {
+      "@id": "#njvntd",
+      "name": "PC games through stores like Steam",
+      "x": 274,
+      "y": 286,
+      "parent": "#hkprws"
+    },
+    {
+      "@id": "#fy3h2f",
+      "name": "Industry and culture",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cv8cvr",
+      "name": "Roughly $180 billion a year",
+      "x": 180,
+      "y": 348,
+      "parent": "#fy3h2f"
+    },
+    {
+      "@id": "#j2urim",
+      "name": "Minecraft is the best-selling game ever",
+      "x": 68,
+      "y": 405,
+      "link": "https://en.wikipedia.org/wiki/Minecraft",
+      "parent": "#fy3h2f"
+    },
+    {
+      "@id": "#dexwks",
+      "name": "Esports fill arenas",
+      "x": -77,
+      "y": 453,
+      "link": "https://en.wikipedia.org/wiki/Esports",
+      "parent": "#fy3h2f"
+    },
+    {
+      "@id": "#xq88fd",
+      "name": "Streaming on Twitch and YouTube",
+      "x": -172,
+      "y": 333,
+      "parent": "#fy3h2f"
+    },
+    {
+      "@id": "#imuqx6",
+      "name": "Effects and debates",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#td7zaa",
+      "name": "Some evidence of sharper visual attention",
+      "x": -370,
+      "y": 390,
+      "parent": "#imuqx6"
+    },
+    {
+      "@id": "#szsdg3",
+      "name": "WHO recognised gaming disorder in 2019",
+      "x": -357,
+      "y": 219,
+      "link": "https://en.wikipedia.org/wiki/Video_game_addiction",
+      "parent": "#imuqx6"
+    },
+    {
+      "@id": "#vft2jx",
+      "name": "Loot boxes criticised as gambling-like",
+      "x": -434,
+      "y": 144,
+      "parent": "#imuqx6"
+    },
+    {
+      "@id": "#esmkqk",
+      "name": "Age ratings: PEGI and ESRB",
+      "x": -466,
+      "y": 49,
+      "parent": "#imuqx6"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 11,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    },
+    {
+      "start": 26,
+      "end": 29
+    },
+    {
+      "start": 26,
+      "end": 30
+    }
+  ],
+  "selectedNode": 0
+}

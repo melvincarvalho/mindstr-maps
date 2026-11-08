@@ -1,0 +1,31 @@
+category: Health
+aliases: quit smoking, stop smoking, tobacco smoking, how to quit smoking
+- Smoking
+  - Why it's addictive
+    - [Nicotine reaches the brain in seconds](https://en.wikipedia.org/wiki/Nicotine)
+    - Cravings and irritability when stopping
+    - Habits tied to routines and stress
+  - Health risks
+    - Causes most lung cancer
+    - [Heart disease and stroke](https://en.wikipedia.org/wiki/Cardiovascular_disease)
+    - [COPD and emphysema](https://en.wikipedia.org/wiki/Chronic_obstructive_pulmonary_disease)
+    - Harms pregnancy and unborn babies
+    - Kills up to half of long-term users
+  - Second-hand smoke
+    - Harms people nearby, especially children
+    - Smoke-free laws in many countries
+  - Benefits of quitting
+    - Carbon monoxide levels fall within days
+    - Breathing and circulation improve in months
+    - Heart disease risk halves after a year
+    - Never too late to benefit
+  - How to quit
+    - [Pick a quit date and plan](https://en.wikipedia.org/wiki/Smoking_cessation)
+    - Nicotine replacement: patches, gum, lozenges
+    - Prescription medicines like varenicline
+    - Free quit services and quitlines
+    - Combining support and medication works best
+  - Vaping
+    - Far less harmful than smoking, not harmless
+    - Can help some smokers quit
+    - Not recommended for non-smokers or young people

@@ -1,0 +1,363 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Thailand",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#98y6bi",
+      "name": "Land",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#74p6kc",
+      "name": "Bangkok is the capital",
+      "x": -446,
+      "y": -47,
+      "parent": "#98y6bi"
+    },
+    {
+      "@id": "#geem4t",
+      "name": "Chao Phraya River and central plains",
+      "x": -434,
+      "y": -144,
+      "parent": "#98y6bi"
+    },
+    {
+      "@id": "#28bcpy",
+      "name": "Northern mountains around Chiang Mai",
+      "x": -357,
+      "y": -219,
+      "parent": "#98y6bi"
+    },
+    {
+      "@id": "#3q5bjc",
+      "name": "Southern beaches: Phuket and islands",
+      "x": -274,
+      "y": -286,
+      "parent": "#98y6bi"
+    },
+    {
+      "@id": "#b76xa9",
+      "name": "People and languages",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jfdrg9",
+      "name": "About 66 million people",
+      "x": -180,
+      "y": -348,
+      "parent": "#b76xa9"
+    },
+    {
+      "@id": "#qxryxc",
+      "name": "Thai, written in its own script",
+      "x": -68,
+      "y": -405,
+      "parent": "#b76xa9"
+    },
+    {
+      "@id": "#rcjk87",
+      "name": "Over 90% Theravada Buddhist",
+      "x": 77,
+      "y": -453,
+      "parent": "#b76xa9"
+    },
+    {
+      "@id": "#h7qq6h",
+      "name": "Malay Muslims in the far south",
+      "x": 172,
+      "y": -333,
+      "parent": "#b76xa9"
+    },
+    {
+      "@id": "#pw7y9n",
+      "name": "History in brief",
+      "x": 212,
+      "y": -70,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v6air4",
+      "name": "Sukhothai kingdom, 13th century",
+      "x": 370,
+      "y": -390,
+      "parent": "#pw7y9n"
+    },
+    {
+      "@id": "#bi37re",
+      "name": "Ayutthaya, capital for four centuries",
+      "x": 357,
+      "y": -219,
+      "link": "https://en.wikipedia.org/wiki/Ayutthaya_Kingdom",
+      "parent": "#pw7y9n"
+    },
+    {
+      "@id": "#gksucz",
+      "name": "Chakri dynasty and Bangkok from 1782",
+      "x": 416,
+      "y": -138,
+      "parent": "#pw7y9n"
+    },
+    {
+      "@id": "#scxpkc",
+      "name": "Never colonised by Europeans",
+      "x": 466,
+      "y": -49,
+      "parent": "#pw7y9n"
+    },
+    {
+      "@id": "#npqxym",
+      "name": "Absolute monarchy ended in 1932",
+      "x": 446,
+      "y": 47,
+      "parent": "#pw7y9n"
+    },
+    {
+      "@id": "#sf4eai",
+      "name": "Government",
+      "x": 182,
+      "y": 112,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ugqb2r",
+      "name": "Constitutional monarchy, King Vajiralongkorn",
+      "x": 488,
+      "y": 162,
+      "parent": "#sf4eai"
+    },
+    {
+      "@id": "#i299yh",
+      "name": "Many military coups, latest 2014",
+      "x": 357,
+      "y": 219,
+      "parent": "#sf4eai"
+    },
+    {
+      "@id": "#4drbys",
+      "name": "Strict lese-majeste laws protect the monarchy",
+      "x": 274,
+      "y": 286,
+      "link": "https://en.wikipedia.org/wiki/L%C3%A8se-majest%C3%A9_in_Thailand",
+      "parent": "#sf4eai"
+    },
+    {
+      "@id": "#kp7qvj",
+      "name": "Economy",
+      "x": 30,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cd9zzf",
+      "name": "Major tourism destination",
+      "x": 180,
+      "y": 348,
+      "parent": "#kp7qvj"
+    },
+    {
+      "@id": "#h44c52",
+      "name": "Car manufacturing hub",
+      "x": 68,
+      "y": 405,
+      "parent": "#kp7qvj"
+    },
+    {
+      "@id": "#vm8xyf",
+      "name": "One of the top rice exporters",
+      "x": -77,
+      "y": 453,
+      "parent": "#kp7qvj"
+    },
+    {
+      "@id": "#annm26",
+      "name": "Culture",
+      "x": -182,
+      "y": 112,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8itfzt",
+      "name": "Muay Thai, the national combat sport",
+      "x": -172,
+      "y": 333,
+      "link": "https://en.wikipedia.org/wiki/Muay_Thai",
+      "parent": "#annm26"
+    },
+    {
+      "@id": "#8jdwp2",
+      "name": "Pad thai, green curry, tom yum",
+      "x": -370,
+      "y": 390,
+      "parent": "#annm26"
+    },
+    {
+      "@id": "#y4g3hk",
+      "name": "Songkran water festival in April",
+      "x": -357,
+      "y": 219,
+      "parent": "#annm26"
+    },
+    {
+      "@id": "#exd63y",
+      "name": "Wai greeting, palms pressed together",
+      "x": -434,
+      "y": 144,
+      "parent": "#annm26"
+    },
+    {
+      "@id": "#jivkfz",
+      "name": "Grand Palace and Wat Phra Kaew",
+      "x": -446,
+      "y": 47,
+      "link": "https://en.wikipedia.org/wiki/Grand_Palace",
+      "parent": "#annm26"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 11,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    },
+    {
+      "start": 25,
+      "end": 29
+    },
+    {
+      "start": 25,
+      "end": 30
+    }
+  ],
+  "selectedNode": 0
+}

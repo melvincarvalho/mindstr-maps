@@ -1,0 +1,30 @@
+category: Geography
+aliases: jerusalem city, al-quds, holy city jerusalem
+- Jerusalem
+  - Setting
+    - Judaean Mountains, about 750 m up
+    - Walled Old City in four quarters
+    - About 1 million people
+  - History
+    - Inhabited for over 5,000 years
+    - King David's capital, about 1000 BC
+    - [Second Temple destroyed by Rome, AD 70](https://en.wikipedia.org/wiki/Siege_of_Jerusalem_%2870_CE%29)
+    - Ruled by Byzantines, Arabs, Crusaders, Ottomans
+    - Divided 1948–1967, then Israeli control
+  - Sacred to three faiths
+    - [Judaism: Temple Mount and Western Wall](https://en.wikipedia.org/wiki/Western_Wall)
+    - Christianity: Church of the Holy Sepulchre
+    - [Islam: Al-Aqsa and Dome of the Rock](https://en.wikipedia.org/wiki/Al-Aqsa)
+  - Competing claims
+    - [Israel calls it its undivided capital](https://en.wikipedia.org/wiki/Status_of_Jerusalem)
+    - Palestinians seek East Jerusalem as capital
+    - Most countries keep embassies in Tel Aviv
+    - Oslo Accords left status to talks
+  - People and economy
+    - Jewish majority, large Arab minority
+    - Secular, ultra-Orthodox and Muslim neighbourhoods
+    - Government, tourism, pilgrims and tech
+  - Culture
+    - Yad Vashem Holocaust memorial
+    - Israel Museum holds Dead Sea Scrolls
+    - Mahane Yehuda market and Old City souks

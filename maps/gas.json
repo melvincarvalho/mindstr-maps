@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Gas",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#aapw8f",
+      "name": "What makes a gas",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ztqchj",
+      "name": "No fixed shape or volume",
+      "x": -445,
+      "y": -54,
+      "parent": "#aapw8f"
+    },
+    {
+      "@id": "#7skfmj",
+      "name": "Spreads out to fill any container",
+      "x": -405,
+      "y": -156,
+      "parent": "#aapw8f"
+    },
+    {
+      "@id": "#xpd8y9",
+      "name": "Particles far apart, moving fast",
+      "x": -330,
+      "y": -245,
+      "parent": "#aapw8f"
+    },
+    {
+      "@id": "#5xyu7n",
+      "name": "Easily squashed into smaller space",
+      "x": -225,
+      "y": -312,
+      "parent": "#aapw8f"
+    },
+    {
+      "@id": "#k4fn22",
+      "name": "Pressure, volume and temperature",
+      "x": 51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kgdhf3",
+      "name": "Pressure is particles hitting walls",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Pressure",
+      "parent": "#k4fn22"
+    },
+    {
+      "@id": "#zdhkh3",
+      "name": "Squeeze a gas, pressure rises",
+      "x": 42,
+      "y": -423,
+      "parent": "#k4fn22"
+    },
+    {
+      "@id": "#cyuzti",
+      "name": "Heat a gas, it expands",
+      "x": 234,
+      "y": -485,
+      "parent": "#k4fn22"
+    },
+    {
+      "@id": "#wpuuqz",
+      "name": "Ideal gas law: PV = nRT",
+      "x": 281,
+      "y": -281,
+      "link": "https://en.wikipedia.org/wiki/Ideal_gas_law",
+      "parent": "#k4fn22"
+    },
+    {
+      "@id": "#7pm3aj",
+      "name": "Everyday behaviour",
+      "x": 227,
+      "y": -27,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9wwxew",
+      "name": "Smells spread by diffusion",
+      "x": 372,
+      "y": -203,
+      "parent": "#7pm3aj"
+    },
+    {
+      "@id": "#u6ctbn",
+      "name": "Hot-air balloons rise as air expands",
+      "x": 430,
+      "y": -106,
+      "parent": "#7pm3aj"
+    },
+    {
+      "@id": "#85skek",
+      "name": "Tyres and balloons hold compressed air",
+      "x": 530,
+      "y": 0,
+      "parent": "#7pm3aj"
+    },
+    {
+      "@id": "#sdjjb4",
+      "name": "Aerosol cans feel cold when sprayed",
+      "x": 430,
+      "y": 106,
+      "parent": "#7pm3aj"
+    },
+    {
+      "@id": "#faqj2t",
+      "name": "The air we breathe",
+      "x": 155,
+      "y": 157,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h6u8bs",
+      "name": "About 78% nitrogen, 21% oxygen",
+      "x": 389,
+      "y": 212,
+      "link": "https://en.wikipedia.org/wiki/Atmosphere_of_Earth",
+      "parent": "#faqj2t"
+    },
+    {
+      "@id": "#ybgrak",
+      "name": "Carbon dioxide and argon in small amounts",
+      "x": 281,
+      "y": 281,
+      "parent": "#faqj2t"
+    },
+    {
+      "@id": "#ssu694",
+      "name": "Water vapour varies with weather",
+      "x": 164,
+      "y": 335,
+      "parent": "#faqj2t"
+    },
+    {
+      "@id": "#f3tkc5",
+      "name": "Changing state",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wdpzhp",
+      "name": "Condenses into liquid when cooled",
+      "x": 38,
+      "y": 391,
+      "parent": "#f3tkc5"
+    },
+    {
+      "@id": "#iv8n6y",
+      "name": "Pressure can liquefy gases, like LPG",
+      "x": -124,
+      "y": 447,
+      "parent": "#f3tkc5"
+    },
+    {
+      "@id": "#48phuc",
+      "name": "Gets so hot it becomes plasma",
+      "x": -225,
+      "y": 312,
+      "parent": "#f3tkc5"
+    },
+    {
+      "@id": "#darn7c",
+      "name": "Useful gases",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qb4kmu",
+      "name": "Natural gas fuels heating and cooking",
+      "x": -330,
+      "y": 245,
+      "parent": "#darn7c"
+    },
+    {
+      "@id": "#3fbah8",
+      "name": "Helium lifts balloons and cools MRIs",
+      "x": -405,
+      "y": 156,
+      "parent": "#darn7c"
+    },
+    {
+      "@id": "#d7gsik",
+      "name": "Noble gases like neon light signs",
+      "x": -485,
+      "y": 58,
+      "link": "https://en.wikipedia.org/wiki/Noble_gas",
+      "parent": "#darn7c"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

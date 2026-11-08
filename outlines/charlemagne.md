@@ -1,0 +1,30 @@
+category: People
+aliases: charles the great, karl der grosse, emperor charlemagne, carolus magnus
+- Charlemagne
+  - Who he was
+    - King of the Franks from 768
+    - Born about 747, died 814
+    - [Leading ruler of the Carolingian dynasty](https://en.wikipedia.org/wiki/Carolingian_dynasty)
+    - Capital and palace at Aachen
+  - Conquests
+    - Took the Lombard crown in 774
+    - [Saxon Wars, about 30 years](https://en.wikipedia.org/wiki/Saxon_Wars)
+    - Forced Saxons' conversion, Verden massacre
+    - Ambush at Roncevaux inspired Song of Roland
+  - Emperor
+    - [Crowned by Pope Leo III, 800](https://en.wikipedia.org/wiki/Coronation_of_Charlemagne)
+    - First western emperor in three centuries
+    - Ruled much of Western Europe
+  - Government
+    - Counts ran local districts
+    - Missi dominici inspected for the king
+    - Pound, shilling and penny coinage
+  - [Carolingian Renaissance](https://en.wikipedia.org/wiki/Carolingian_Renaissance)
+    - Scholars like Alcuin of York
+    - Monks copied classical texts
+    - Carolingian minuscule, clearer handwriting
+    - Schools at monasteries and cathedrals
+  - Legacy
+    - Son Louis the Pious succeeded
+    - Treaty of Verdun split empire, 843
+    - Called the Father of Europe

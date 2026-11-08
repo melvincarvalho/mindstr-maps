@@ -1,0 +1,28 @@
+category: Technology
+aliases: invention of the wheel, history of the wheel, who invented the wheel
+- Wheel
+  - Why wheels work
+    - Rolling causes far less friction than sliding
+    - [An axle carries the load](https://en.wikipedia.org/wiki/Wheel_and_axle)
+    - Bearings make spinning smoother still
+  - Invention
+    - Potter's wheel probably came first
+    - First wheeled carts about 3500 BC
+    - [Oldest known wooden wheel: Slovenia](https://en.wikipedia.org/wiki/Ljubljana_Marshes_Wheel)
+    - Mesoamerica used wheels only on toys
+  - Better wheels
+    - Solid wooden discs came first
+    - [Spoked wheels lightened chariots, about 2000 BC](https://en.wikipedia.org/wiki/Spoke)
+    - Iron rims, later wire spokes
+    - [Dunlop's air-filled tyre, 1888](https://en.wikipedia.org/wiki/Tire)
+  - Wheels that do work
+    - Waterwheels ground grain
+    - Gears are toothed wheels
+    - Pulleys, flywheels and turbines
+  - Everyday wheels
+    - Bicycles, cars and trains
+    - Trolleys, office chairs and suitcases
+    - Steering wheels and ships' helms
+  - The wheel as a symbol
+    - "Don't reinvent the wheel"
+    - Wheel of fortune and Dharma wheel

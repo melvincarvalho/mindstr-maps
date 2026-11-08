@@ -1,0 +1,30 @@
+category: Geography
+aliases: dry land, land surface, earth's land
+- Land
+  - What land is
+    - Earth's solid surface above sea level
+    - About 29% of Earth's surface
+    - About 149 million km² in total
+    - [Divided into seven continents](https://en.wikipedia.org/wiki/Continent)
+  - How land is built
+    - [Plate tectonics push up mountains](https://en.wikipedia.org/wiki/Plate_tectonics)
+    - Volcanoes add new rock and islands
+    - Rivers deposit sediment into deltas
+  - How land wears down
+    - Weathering breaks rock into soil
+    - [Erosion by water, wind and ice](https://en.wikipedia.org/wiki/Erosion)
+    - Glaciers carve valleys and fjords
+  - Landforms
+    - [Mountains, plateaus and hills](https://en.wikipedia.org/wiki/Landform)
+    - Plains and river valleys
+    - Islands, peninsulas and coastlines
+  - Land cover
+    - Forests cover about 31% of land
+    - Deserts and drylands, about a third
+    - Ice sheets on Antarctica and Greenland
+    - Grasslands, tundra and wetlands
+  - Human use of land
+    - Farming uses about half of habitable land
+    - Cities cover only about 1%
+    - Ownership, borders and property rights
+    - [Degradation from overuse and deforestation](https://en.wikipedia.org/wiki/Land_degradation)

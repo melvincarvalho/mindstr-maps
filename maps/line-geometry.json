@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Line (geometry)",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ss3fv6",
+      "name": "What a line is",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pkpbvi",
+      "name": "Straight, endless in both directions",
+      "x": -484,
+      "y": -60,
+      "parent": "#ss3fv6"
+    },
+    {
+      "@id": "#73hkz3",
+      "name": "Has length but no width",
+      "x": -401,
+      "y": -163,
+      "parent": "#ss3fv6"
+    },
+    {
+      "@id": "#2phmkn",
+      "name": "Euclid: \"breadthless length\"",
+      "x": -318,
+      "y": -255,
+      "parent": "#ss3fv6"
+    },
+    {
+      "@id": "#arrhx6",
+      "name": "Related pieces",
+      "x": -36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rb2xwx",
+      "name": "Line segment has two endpoints",
+      "x": -204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Line_segment",
+      "parent": "#arrhx6"
+    },
+    {
+      "@id": "#22yek8",
+      "name": "Ray starts at a point, goes forever",
+      "x": -73,
+      "y": -372,
+      "parent": "#arrhx6"
+    },
+    {
+      "@id": "#ynq8bz",
+      "name": "Two points fix exactly one line",
+      "x": 82,
+      "y": -420,
+      "parent": "#arrhx6"
+    },
+    {
+      "@id": "#7aiyve",
+      "name": "How lines relate",
+      "x": 186,
+      "y": -108,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7u4dfy",
+      "name": "Parallel lines never meet",
+      "x": 204,
+      "y": -321,
+      "parent": "#7aiyve"
+    },
+    {
+      "@id": "#5tia4s",
+      "name": "Intersecting lines cross at one point",
+      "x": 318,
+      "y": -255,
+      "parent": "#7aiyve"
+    },
+    {
+      "@id": "#dbmb57",
+      "name": "Perpendicular lines meet at right angles",
+      "x": 401,
+      "y": -163,
+      "parent": "#7aiyve"
+    },
+    {
+      "@id": "#bx6t6x",
+      "name": "Skew lines in 3D never meet",
+      "x": 444,
+      "y": -56,
+      "link": "https://en.wikipedia.org/wiki/Skew_lines",
+      "parent": "#7aiyve"
+    },
+    {
+      "@id": "#x34kwv",
+      "name": "Lines with coordinates",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rirp8q",
+      "name": "Equation y = mx + c",
+      "x": 444,
+      "y": 56,
+      "link": "https://en.wikipedia.org/wiki/Linear_equation",
+      "parent": "#x34kwv"
+    },
+    {
+      "@id": "#x8kh5c",
+      "name": "Slope is rise over run",
+      "x": 401,
+      "y": 163,
+      "parent": "#x34kwv"
+    },
+    {
+      "@id": "#aabjrn",
+      "name": "Intercept is where it crosses y-axis",
+      "x": 318,
+      "y": 255,
+      "parent": "#x34kwv"
+    },
+    {
+      "@id": "#2anha6",
+      "name": "Parallel lines share the same slope",
+      "x": 204,
+      "y": 321,
+      "parent": "#x34kwv"
+    },
+    {
+      "@id": "#dexk7n",
+      "name": "Beyond flat paper",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6nt9p6",
+      "name": "Parallel postulate defines Euclidean geometry",
+      "x": 73,
+      "y": 372,
+      "link": "https://en.wikipedia.org/wiki/Parallel_postulate",
+      "parent": "#dexk7n"
+    },
+    {
+      "@id": "#mwzjc6",
+      "name": "On spheres, great circles act as lines",
+      "x": -82,
+      "y": 420,
+      "parent": "#dexk7n"
+    },
+    {
+      "@id": "#j7cn82",
+      "name": "Lines usually cross planes at one point",
+      "x": -204,
+      "y": 321,
+      "parent": "#dexk7n"
+    },
+    {
+      "@id": "#hvc32i",
+      "name": "Uses",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3arui3",
+      "name": "Shortest path between two points",
+      "x": -318,
+      "y": 255,
+      "parent": "#hvc32i"
+    },
+    {
+      "@id": "#3qx5yz",
+      "name": "Straight-line graphs show steady rates",
+      "x": -401,
+      "y": 163,
+      "parent": "#hvc32i"
+    },
+    {
+      "@id": "#d643qh",
+      "name": "Line of best fit in statistics",
+      "x": -444,
+      "y": 56,
+      "parent": "#hvc32i"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

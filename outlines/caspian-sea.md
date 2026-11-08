@@ -1,0 +1,28 @@
+category: Geography
+aliases: the caspian, caspian lake
+- Caspian Sea
+  - Lake or sea
+    - Largest inland body of water on Earth
+    - About 371,000 km²
+    - Landlocked, with no outlet to the ocean
+    - About a third as salty as seawater
+  - Five shores
+    - Russia and Azerbaijan to the west
+    - Kazakhstan and Turkmenistan to the east
+    - Iran to the south
+  - Shape and water
+    - Surface about 28 m below sea level
+    - Shallow north, deep south over 1,000 m
+    - [Volga River supplies most inflow](https://en.wikipedia.org/wiki/Volga)
+    - [Kara-Bogaz-Gol lagoon evaporates salt](https://en.wikipedia.org/wiki/Garabogazk%C3%B6l)
+  - Oil and gas
+    - [Baku oil boom began in the 1870s](https://en.wikipedia.org/wiki/Baku_oil_fields)
+    - Kashagan, a giant offshore field
+    - Pipelines carry oil to Turkey and Russia
+    - 2018 convention settled its legal status
+  - Wildlife
+    - [Sturgeon prized for caviar, now endangered](https://en.wikipedia.org/wiki/Beluga_%28sturgeon%29)
+    - Caspian seal found nowhere else
+  - Pressures
+    - Water level falling in recent years
+    - Oil pollution and overfishing

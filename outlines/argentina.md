@@ -1,0 +1,34 @@
+category: Geography
+aliases: argentine republic, argentina country
+- Argentina
+  - Geography
+    - Eighth-largest country by area
+    - Andes along the border with Chile
+    - [Aconcagua, Americas' highest peak, about 6,960 m](https://en.wikipedia.org/wiki/Aconcagua)
+    - Fertile Pampas grasslands in the centre
+    - Patagonia's steppe and glaciers in south
+  - People and languages
+    - About 46 million people
+    - Over a third in Greater Buenos Aires
+    - Spanish with a distinctive Rioplatense accent
+    - Many of Italian and Spanish descent
+  - History
+    - Indigenous peoples including Diaguita and Mapuche
+    - Spanish colony ruled from Buenos Aires
+    - Independence declared in 1816
+    - Mass European immigration, 1880–1930
+    - [Juan Perón's era began 1946](https://en.wikipedia.org/wiki/Juan_Per%C3%B3n)
+    - [Military dictatorship 1976–1983](https://en.wikipedia.org/wiki/National_Reorganization_Process)
+    - [Falklands War with Britain, 1982](https://en.wikipedia.org/wiki/Falklands_War)
+  - Government
+    - Federal presidential republic
+    - 23 provinces plus Buenos Aires city
+  - Economy
+    - Big exporter of soy, beef and wheat
+    - Recurring inflation and debt crises
+    - Currency is the Argentine peso
+  - Culture
+    - Tango born in Buenos Aires
+    - Football: Maradona, Messi, three World Cups
+    - Asado barbecue and mate tea
+    - Writer Jorge Luis Borges

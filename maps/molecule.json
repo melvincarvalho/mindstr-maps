@@ -1,0 +1,320 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Molecule",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#qux9y9",
+      "name": "What a molecule is",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uskma3",
+      "name": "Two or more atoms bonded together",
+      "x": -504,
+      "y": -62,
+      "parent": "#qux9y9"
+    },
+    {
+      "@id": "#rfcg6k",
+      "name": "Smallest unit keeping a substance's properties",
+      "x": -401,
+      "y": -163,
+      "parent": "#qux9y9"
+    },
+    {
+      "@id": "#sc6avm",
+      "name": "Held by covalent bonds",
+      "x": -318,
+      "y": -255,
+      "parent": "#qux9y9"
+    },
+    {
+      "@id": "#rkuvse",
+      "name": "Molecules of one element",
+      "x": -36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#w6viww",
+      "name": "Oxygen gas is O₂",
+      "x": -204,
+      "y": -321,
+      "parent": "#rkuvse"
+    },
+    {
+      "@id": "#mctyjb",
+      "name": "Nitrogen, about 78% of air, is N₂",
+      "x": -73,
+      "y": -372,
+      "parent": "#rkuvse"
+    },
+    {
+      "@id": "#f32wp9",
+      "name": "Ozone is O₃",
+      "x": 82,
+      "y": -420,
+      "parent": "#rkuvse"
+    },
+    {
+      "@id": "#89phd9",
+      "name": "Molecules of compounds",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#n3vmei",
+      "name": "Water: H₂O",
+      "x": 204,
+      "y": -321,
+      "parent": "#89phd9"
+    },
+    {
+      "@id": "#aiqhuu",
+      "name": "Carbon dioxide: CO₂",
+      "x": 318,
+      "y": -255,
+      "parent": "#89phd9"
+    },
+    {
+      "@id": "#yfa6dr",
+      "name": "Methane: CH₄, main part of natural gas",
+      "x": 455,
+      "y": -184,
+      "parent": "#89phd9"
+    },
+    {
+      "@id": "#atk29k",
+      "name": "Shape and size",
+      "x": 219,
+      "y": 57,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dxpexz",
+      "name": "Shape set by electron pair repulsion",
+      "x": 444,
+      "y": -56,
+      "link": "https://en.wikipedia.org/wiki/VSEPR_theory",
+      "parent": "#atk29k"
+    },
+    {
+      "@id": "#5zxyay",
+      "name": "Water is bent; CO₂ is straight",
+      "x": 484,
+      "y": 60,
+      "parent": "#atk29k"
+    },
+    {
+      "@id": "#ii5btb",
+      "name": "Shape decides how molecules interact",
+      "x": 401,
+      "y": 163,
+      "parent": "#atk29k"
+    },
+    {
+      "@id": "#bt5z68",
+      "name": "Mass measured in daltons",
+      "x": 318,
+      "y": 255,
+      "parent": "#atk29k"
+    },
+    {
+      "@id": "#kpqgd3",
+      "name": "Molecules of life",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zmjyk3",
+      "name": "Proteins fold into precise shapes",
+      "x": 204,
+      "y": 321,
+      "link": "https://en.wikipedia.org/wiki/Protein_folding",
+      "parent": "#kpqgd3"
+    },
+    {
+      "@id": "#eqcqq7",
+      "name": "DNA is a double helix",
+      "x": 73,
+      "y": 372,
+      "link": "https://en.wikipedia.org/wiki/DNA",
+      "parent": "#kpqgd3"
+    },
+    {
+      "@id": "#ecnj8m",
+      "name": "Sugars and fats store energy",
+      "x": -82,
+      "y": 420,
+      "parent": "#kpqgd3"
+    },
+    {
+      "@id": "#hmii3r",
+      "name": "Polymers can hold millions of atoms",
+      "x": -204,
+      "y": 321,
+      "parent": "#kpqgd3"
+    },
+    {
+      "@id": "#qz2bn7",
+      "name": "Seeing and counting molecules",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wfmg89",
+      "name": "One mole is 6.022 × 10²³ particles",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wikipedia.org/wiki/Mole_%28unit%29",
+      "parent": "#qz2bn7"
+    },
+    {
+      "@id": "#8ne9k5",
+      "name": "A sip of water: about 10²¹ molecules",
+      "x": -401,
+      "y": 163,
+      "parent": "#qz2bn7"
+    },
+    {
+      "@id": "#wju4bc",
+      "name": "X-ray crystallography reveals structures",
+      "x": -584,
+      "y": 70,
+      "link": "https://en.wikipedia.org/wiki/X-ray_crystallography",
+      "parent": "#qz2bn7"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

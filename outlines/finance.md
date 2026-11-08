@@ -1,0 +1,29 @@
+category: Society
+aliases: what is finance, finance explained, finance basics, financial system
+- Finance
+  - Managing money over time
+    - Moves savings to those who invest
+    - [Time value of money](https://en.wikipedia.org/wiki/Time_value_of_money)
+    - Higher expected return means higher risk
+  - Main branches
+    - Personal finance: households' money
+    - Corporate finance: funding businesses
+    - Public finance: government taxes, debt
+  - Financial markets
+    - [Stock markets trade company shares](https://en.wikipedia.org/wiki/Stock_market)
+    - [Bond markets lend to borrowers](https://en.wikipedia.org/wiki/Bond_market)
+    - Currency markets swap money
+    - Derivatives bet on future prices
+  - Financial institutions
+    - Banks take deposits and lend
+    - Insurers pool risks
+    - Pension funds and asset managers
+    - Central banks oversee the system
+  - Key ideas
+    - Interest is the price of borrowing
+    - Diversification spreads risk
+    - Compound growth builds over time
+  - Crises and regulation
+    - [2008 global financial crisis](https://en.wikipedia.org/wiki/2007%E2%80%932008_financial_crisis)
+    - Bubbles and bank runs recur
+    - Regulators require capital buffers

@@ -1,0 +1,31 @@
+category: Science
+aliases: human skin, skin layers, how skin works, skin anatomy
+- Skin
+  - Basic facts
+    - Body's largest organ
+    - About 2 square metres in adults
+    - Outer cells replaced about monthly
+  - Three layers
+    - [Epidermis: tough waterproof outer layer](https://en.wikipedia.org/wiki/Epidermis)
+    - [Dermis: collagen, nerves, blood vessels](https://en.wikipedia.org/wiki/Dermis)
+    - Subcutaneous fat insulates and cushions
+  - What it does
+    - Barrier against germs and water loss
+    - Sweat cools the body
+    - Touch, heat and pain receptors
+    - Makes vitamin D in sunlight
+  - Hair, nails and glands
+    - Hair grows from follicles
+    - Sebaceous glands make protective oil
+    - [Melanin gives skin its colour](https://en.wikipedia.org/wiki/Melanin)
+  - Common problems
+    - Acne from blocked hair follicles
+    - Eczema: dry, itchy, inflamed patches
+    - Psoriasis: thick scaly plaques
+    - Sunburn damages skin cells
+    - [Skin cancer, including melanoma](https://en.wikipedia.org/wiki/Skin_cancer)
+  - Keeping skin healthy
+    - Sunscreen SPF 30 or higher
+    - Cover up and seek shade midday
+    - Moisturise dry skin
+    - Check moles for changes

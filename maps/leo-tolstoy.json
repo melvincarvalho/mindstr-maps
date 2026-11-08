@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Leo Tolstoy",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#brtwf8",
+      "name": "Russian writer, 1828–1910",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#by79uw",
+      "name": "A count, born into landed nobility",
+      "x": -525,
+      "y": -62,
+      "parent": "#brtwf8"
+    },
+    {
+      "@id": "#ft2zn2",
+      "name": "Lived at the Yasnaya Polyana estate",
+      "x": -405,
+      "y": -156,
+      "link": "https://en.wikipedia.org/wiki/Yasnaya_Polyana",
+      "parent": "#brtwf8"
+    },
+    {
+      "@id": "#afze4b",
+      "name": "Married Sophia Behrs; 13 children",
+      "x": -330,
+      "y": -245,
+      "parent": "#brtwf8"
+    },
+    {
+      "@id": "#ry74bb",
+      "name": "Early life and war",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zej3hy",
+      "name": "Army officer in the Caucasus",
+      "x": -225,
+      "y": -312,
+      "parent": "#ry74bb"
+    },
+    {
+      "@id": "#v6f72k",
+      "name": "Fought at Sevastopol in the Crimean War",
+      "x": -104,
+      "y": -367,
+      "parent": "#ry74bb"
+    },
+    {
+      "@id": "#8f8zb5",
+      "name": "Sevastopol Sketches made his name",
+      "x": 42,
+      "y": -423,
+      "parent": "#ry74bb"
+    },
+    {
+      "@id": "#8vuw9m",
+      "name": "Childhood, Boyhood, Youth trilogy",
+      "x": 234,
+      "y": -485,
+      "parent": "#ry74bb"
+    },
+    {
+      "@id": "#rn5q9d",
+      "name": "The great novels",
+      "x": 190,
+      "y": -104,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9rwdxj",
+      "name": "War and Peace: Russia against Napoleon",
+      "x": 281,
+      "y": -281,
+      "link": "https://en.wikipedia.org/wiki/War_and_Peace",
+      "parent": "#rn5q9d"
+    },
+    {
+      "@id": "#gtgcxy",
+      "name": "Anna Karenina: love, society, tragedy",
+      "x": 372,
+      "y": -203,
+      "link": "https://en.wikipedia.org/wiki/Anna_Karenina",
+      "parent": "#rn5q9d"
+    },
+    {
+      "@id": "#4skcw9",
+      "name": "Realism with deep psychological insight",
+      "x": 506,
+      "y": -126,
+      "parent": "#rn5q9d"
+    },
+    {
+      "@id": "#db2zv3",
+      "name": "Spiritual crisis and later works",
+      "x": 207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zwrqbu",
+      "name": "A Confession: searching for life's meaning",
+      "x": 450,
+      "y": 0,
+      "parent": "#db2zv3"
+    },
+    {
+      "@id": "#p7nint",
+      "name": "The Death of Ivan Ilyich",
+      "x": 525,
+      "y": 131,
+      "link": "https://en.wikipedia.org/wiki/The_Death_of_Ivan_Ilyich",
+      "parent": "#db2zv3"
+    },
+    {
+      "@id": "#4r98vr",
+      "name": "Resurrection and Hadji Murat",
+      "x": 372,
+      "y": 203,
+      "parent": "#db2zv3"
+    },
+    {
+      "@id": "#saqzv2",
+      "name": "What Is Art? judged art morally",
+      "x": 281,
+      "y": 281,
+      "parent": "#db2zv3"
+    },
+    {
+      "@id": "#maymx5",
+      "name": "Radical beliefs",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ikw8ai",
+      "name": "Christianity without church or state",
+      "x": 164,
+      "y": 335,
+      "parent": "#maymx5"
+    },
+    {
+      "@id": "#22rp24",
+      "name": "Pacifism and nonresistance to evil",
+      "x": 38,
+      "y": 391,
+      "parent": "#maymx5"
+    },
+    {
+      "@id": "#9c9grw",
+      "name": "Gave up meat, alcohol and property rights",
+      "x": -124,
+      "y": 447,
+      "parent": "#maymx5"
+    },
+    {
+      "@id": "#szr7b2",
+      "name": "Excommunicated by the Orthodox Church, 1901",
+      "x": -245,
+      "y": 340,
+      "parent": "#maymx5"
+    },
+    {
+      "@id": "#yj99h3",
+      "name": "Death and legacy",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ms3yz7",
+      "name": "Fled home at 82, died at Astapovo",
+      "x": -330,
+      "y": 245,
+      "parent": "#yj99h3"
+    },
+    {
+      "@id": "#ucp4ht",
+      "name": "His nonviolence writings inspired Gandhi",
+      "x": -405,
+      "y": 156,
+      "link": "https://en.wikipedia.org/wiki/The_Kingdom_of_God_Is_Within_You",
+      "parent": "#yj99h3"
+    },
+    {
+      "@id": "#czj47k",
+      "name": "Ranked among the greatest novelists ever",
+      "x": -525,
+      "y": 62,
+      "parent": "#yj99h3"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

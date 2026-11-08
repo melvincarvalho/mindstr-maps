@@ -1,0 +1,308 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Year",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#d3xvfu",
+      "name": "One orbit of Earth around the Sun",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jjjyuz",
+      "name": "About 365.25 days long",
+      "x": -504,
+      "y": -68,
+      "parent": "#d3xvfu"
+    },
+    {
+      "@id": "#j9fb5w",
+      "name": "Earth travels about 940 million km",
+      "x": -396,
+      "y": -171,
+      "parent": "#d3xvfu"
+    },
+    {
+      "@id": "#azwymz",
+      "name": "Average speed about 30 km per second",
+      "x": -305,
+      "y": -265,
+      "parent": "#d3xvfu"
+    },
+    {
+      "@id": "#tz5rqi",
+      "name": "Seasons come from Earth's tilt",
+      "x": 19,
+      "y": -183,
+      "link": "https://en.wikipedia.org/wiki/Season",
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hhx8s4",
+      "name": "Axis tilted about 23.4 degrees",
+      "x": -181,
+      "y": -330,
+      "parent": "#tz5rqi"
+    },
+    {
+      "@id": "#pc98ac",
+      "name": "Not from distance to the Sun",
+      "x": -41,
+      "y": -391,
+      "parent": "#tz5rqi"
+    },
+    {
+      "@id": "#hmf4vq",
+      "name": "Solstices mark longest and shortest days",
+      "x": 140,
+      "y": -445,
+      "parent": "#tz5rqi"
+    },
+    {
+      "@id": "#k2d297",
+      "name": "Equinoxes split day and night evenly",
+      "x": 246,
+      "y": -301,
+      "parent": "#tz5rqi"
+    },
+    {
+      "@id": "#q5ph62",
+      "name": "Kinds of year",
+      "x": 218,
+      "y": -60,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#si8fvz",
+      "name": "Tropical year: about 365.24 days",
+      "x": 371,
+      "y": -231,
+      "link": "https://en.wikipedia.org/wiki/Tropical_year",
+      "parent": "#q5ph62"
+    },
+    {
+      "@id": "#e648te",
+      "name": "Sidereal year: about 365.26 days",
+      "x": 426,
+      "y": -117,
+      "parent": "#q5ph62"
+    },
+    {
+      "@id": "#4ew8ph",
+      "name": "Lunar year: 12 months, about 354 days",
+      "x": 450,
+      "y": 0,
+      "parent": "#q5ph62"
+    },
+    {
+      "@id": "#yw6753",
+      "name": "Calendars",
+      "x": 156,
+      "y": 135,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6icpyw",
+      "name": "Leap years add a day every four",
+      "x": 426,
+      "y": 117,
+      "link": "https://en.wikipedia.org/wiki/Leap_year",
+      "parent": "#yw6753"
+    },
+    {
+      "@id": "#fueb6e",
+      "name": "Gregorian calendar introduced in 1582",
+      "x": 355,
+      "y": 221,
+      "link": "https://en.wikipedia.org/wiki/Gregorian_calendar",
+      "parent": "#yw6753"
+    },
+    {
+      "@id": "#dqiusv",
+      "name": "Century years must divide by 400",
+      "x": 246,
+      "y": 301,
+      "parent": "#yw6753"
+    },
+    {
+      "@id": "#tr8mhe",
+      "name": "Islamic calendar follows the Moon",
+      "x": 110,
+      "y": 349,
+      "parent": "#yw6753"
+    },
+    {
+      "@id": "#9dch3r",
+      "name": "Years on other planets",
+      "x": -92,
+      "y": 169,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#azm2fr",
+      "name": "Mercury: 88 Earth days",
+      "x": -43,
+      "y": 407,
+      "parent": "#9dch3r"
+    },
+    {
+      "@id": "#bi3upd",
+      "name": "Mars: about 687 Earth days",
+      "x": -253,
+      "y": 465,
+      "parent": "#9dch3r"
+    },
+    {
+      "@id": "#ei9kka",
+      "name": "Neptune: about 165 Earth years",
+      "x": -305,
+      "y": 265,
+      "parent": "#9dch3r"
+    },
+    {
+      "@id": "#w3v6cd",
+      "name": "Years as units in astronomy",
+      "x": -218,
+      "y": 60,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#iudgjr",
+      "name": "A light-year is a distance, not time",
+      "x": -414,
+      "y": 179,
+      "parent": "#w3v6cd"
+    },
+    {
+      "@id": "#xb8m8h",
+      "name": "Julian year: exactly 365.25 days",
+      "x": -544,
+      "y": 74,
+      "parent": "#w3v6cd"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

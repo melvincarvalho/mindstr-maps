@@ -1,0 +1,308 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Infrastructure",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#v45jzq",
+      "name": "What it means",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7rbsa4",
+      "name": "Shared systems a society runs on",
+      "x": -464,
+      "y": -62,
+      "parent": "#v45jzq"
+    },
+    {
+      "@id": "#cbipuh",
+      "name": "Physical networks plus the services",
+      "x": -396,
+      "y": -171,
+      "parent": "#v45jzq"
+    },
+    {
+      "@id": "#yx4rwn",
+      "name": "Mostly invisible until it fails",
+      "x": -305,
+      "y": -265,
+      "parent": "#v45jzq"
+    },
+    {
+      "@id": "#a6eyiu",
+      "name": "Transport networks",
+      "x": -19,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#djwbhs",
+      "name": "Roads, bridges and tunnels",
+      "x": -181,
+      "y": -330,
+      "parent": "#a6eyiu"
+    },
+    {
+      "@id": "#xsm2hw",
+      "name": "Railways carry freight and passengers",
+      "x": -41,
+      "y": -391,
+      "link": "https://en.wikipedia.org/wiki/Rail_transport",
+      "parent": "#a6eyiu"
+    },
+    {
+      "@id": "#c4chak",
+      "name": "Ports and airports link countries",
+      "x": 140,
+      "y": -445,
+      "parent": "#a6eyiu"
+    },
+    {
+      "@id": "#eadh47",
+      "name": "Energy",
+      "x": 182,
+      "y": -113,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#va773u",
+      "name": "Power stations generate electricity",
+      "x": 246,
+      "y": -301,
+      "parent": "#eadh47"
+    },
+    {
+      "@id": "#tjktie",
+      "name": "Grid carries power across regions",
+      "x": 355,
+      "y": -221,
+      "link": "https://en.wikipedia.org/wiki/Electrical_grid",
+      "parent": "#eadh47"
+    },
+    {
+      "@id": "#zctngr",
+      "name": "Pipelines move oil and gas",
+      "x": 426,
+      "y": -117,
+      "parent": "#eadh47"
+    },
+    {
+      "@id": "#r4zkcj",
+      "name": "Water",
+      "x": 218,
+      "y": 60,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zpa44v",
+      "name": "Dams and reservoirs store supply",
+      "x": 450,
+      "y": 0,
+      "parent": "#r4zkcj"
+    },
+    {
+      "@id": "#xutkd2",
+      "name": "Treatment plants make water safe",
+      "x": 426,
+      "y": 117,
+      "parent": "#r4zkcj"
+    },
+    {
+      "@id": "#m2d5fu",
+      "name": "Sewers and drains remove waste",
+      "x": 355,
+      "y": 221,
+      "parent": "#r4zkcj"
+    },
+    {
+      "@id": "#pf4ep7",
+      "name": "Communications",
+      "x": 56,
+      "y": 178,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dk7rmc",
+      "name": "Undersea cables carry most internet traffic",
+      "x": 246,
+      "y": 301,
+      "link": "https://en.wikipedia.org/wiki/Submarine_communications_cable",
+      "parent": "#pf4ep7"
+    },
+    {
+      "@id": "#855h26",
+      "name": "Fibre networks and mobile masts",
+      "x": 110,
+      "y": 349,
+      "parent": "#pf4ep7"
+    },
+    {
+      "@id": "#p387gg",
+      "name": "Satellites for GPS and broadcasting",
+      "x": -43,
+      "y": 407,
+      "parent": "#pf4ep7"
+    },
+    {
+      "@id": "#zn9tg8",
+      "name": "Building and paying for it",
+      "x": -182,
+      "y": 113,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#w45iwp",
+      "name": "Designed to last for decades",
+      "x": -253,
+      "y": 465,
+      "parent": "#zn9tg8"
+    },
+    {
+      "@id": "#92mvqx",
+      "name": "Funded by taxes, tolls and bills",
+      "x": -305,
+      "y": 265,
+      "parent": "#zn9tg8"
+    },
+    {
+      "@id": "#ej4asb",
+      "name": "Neglected maintenance leads to failures",
+      "x": -396,
+      "y": 171,
+      "parent": "#zn9tg8"
+    },
+    {
+      "@id": "#b6bmcz",
+      "name": "Critical sites protected from attack",
+      "x": -444,
+      "y": 59,
+      "link": "https://en.wikipedia.org/wiki/Critical_infrastructure",
+      "parent": "#zn9tg8"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

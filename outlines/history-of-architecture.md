@@ -1,0 +1,31 @@
+category: History
+aliases: architectural history, history of buildings, architecture through the ages
+- History of architecture
+  - Ancient monuments
+    - Stonehenge and megalithic sites
+    - [Great Pyramid of Giza, about 2560 BC](https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza)
+    - Mesopotamian ziggurats of mud brick
+  - Classical architecture
+    - Greek temples and the three orders
+    - Romans used arches, vaults and concrete
+    - [Pantheon's unreinforced concrete dome](https://en.wikipedia.org/wiki/Pantheon,_Rome)
+  - Medieval building
+    - Hagia Sophia's vast Byzantine dome
+    - Romanesque churches with thick walls
+    - [Gothic pointed arches and flying buttresses](https://en.wikipedia.org/wiki/Gothic_architecture)
+    - Castles built for defence
+  - Traditions beyond Europe
+    - Chinese timber halls with bracketed roofs
+    - Islamic domes, arches and courtyards
+    - Hindu and Buddhist temples like Angkor Wat
+    - Maya and Aztec stepped pyramids
+  - Renaissance to Neoclassical
+    - Brunelleschi's dome for Florence Cathedral
+    - Baroque churches full of movement
+    - Neoclassical revived Greek and Roman forms
+  - Modern and contemporary
+    - Iron, steel and glass enabled skyscrapers
+    - [Modernism: form follows function](https://en.wikipedia.org/wiki/Modern_architecture)
+    - Le Corbusier and the Bauhaus
+    - Postmodernism brought back ornament and wit
+    - Sustainable, energy-efficient design today

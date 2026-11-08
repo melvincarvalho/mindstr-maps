@@ -1,0 +1,308 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Michael Jackson",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#3wxns4",
+      "name": "Early life",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pizt5g",
+      "name": "Born 1958 in Gary, Indiana",
+      "x": -444,
+      "y": -59,
+      "parent": "#3wxns4"
+    },
+    {
+      "@id": "#ypq84w",
+      "name": "Lead singer of the Jackson 5",
+      "x": -396,
+      "y": -171,
+      "link": "https://en.wikipedia.org/wiki/The_Jackson_5",
+      "parent": "#3wxns4"
+    },
+    {
+      "@id": "#5pmtpk",
+      "name": "Motown hits like \"I Want You Back\"",
+      "x": -305,
+      "y": -265,
+      "parent": "#3wxns4"
+    },
+    {
+      "@id": "#y6f5da",
+      "name": "Solo superstar",
+      "x": -19,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ijkdzm",
+      "name": "Off the Wall (1979) with Quincy Jones",
+      "x": -181,
+      "y": -330,
+      "parent": "#y6f5da"
+    },
+    {
+      "@id": "#s9cn6n",
+      "name": "Thriller (1982), best-selling album ever",
+      "x": -41,
+      "y": -391,
+      "link": "https://en.wikipedia.org/wiki/Thriller_%28album%29",
+      "parent": "#y6f5da"
+    },
+    {
+      "@id": "#5enwj2",
+      "name": "Bad (1987) and Dangerous (1991)",
+      "x": 140,
+      "y": -445,
+      "parent": "#y6f5da"
+    },
+    {
+      "@id": "#rvng9k",
+      "name": "Videos and dance",
+      "x": 182,
+      "y": -113,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2wfryh",
+      "name": "Videos broke racial barriers on MTV",
+      "x": 246,
+      "y": -301,
+      "parent": "#rvng9k"
+    },
+    {
+      "@id": "#5gdv4f",
+      "name": "Moonwalk debuted at Motown 25, 1983",
+      "x": 355,
+      "y": -221,
+      "link": "https://en.wikipedia.org/wiki/Moonwalk_%28dance%29",
+      "parent": "#rvng9k"
+    },
+    {
+      "@id": "#9465f6",
+      "name": "Thriller short film, 1983",
+      "x": 426,
+      "y": -117,
+      "parent": "#rvng9k"
+    },
+    {
+      "@id": "#g4py49",
+      "name": "Fame and public life",
+      "x": 218,
+      "y": 60,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ezjgx6",
+      "name": "Dubbed the \"King of Pop\"",
+      "x": 450,
+      "y": 0,
+      "parent": "#g4py49"
+    },
+    {
+      "@id": "#drvcju",
+      "name": "Neverland Ranch in California",
+      "x": 426,
+      "y": 117,
+      "parent": "#g4py49"
+    },
+    {
+      "@id": "#nab2jf",
+      "name": "Co-wrote \"We Are the World\", 1985",
+      "x": 355,
+      "y": 221,
+      "parent": "#g4py49"
+    },
+    {
+      "@id": "#k4i8mb",
+      "name": "Allegations",
+      "x": 56,
+      "y": 178,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dhhgkt",
+      "name": "Child sexual abuse allegations from 1993",
+      "x": 246,
+      "y": 301,
+      "parent": "#k4i8mb"
+    },
+    {
+      "@id": "#b2v3sx",
+      "name": "Acquitted on all charges, 2005",
+      "x": 110,
+      "y": 349,
+      "parent": "#k4i8mb"
+    },
+    {
+      "@id": "#ided2t",
+      "name": "Leaving Neverland (2019) renewed allegations",
+      "x": -43,
+      "y": 407,
+      "parent": "#k4i8mb"
+    },
+    {
+      "@id": "#pwi2hb",
+      "name": "Death and legacy",
+      "x": -182,
+      "y": 113,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ppipeq",
+      "name": "Died 2009 of a propofol overdose",
+      "x": -253,
+      "y": 465,
+      "link": "https://en.wikipedia.org/wiki/Death_of_Michael_Jackson",
+      "parent": "#pwi2hb"
+    },
+    {
+      "@id": "#48nm9s",
+      "name": "Doctor convicted of involuntary manslaughter",
+      "x": -305,
+      "y": 265,
+      "parent": "#pwi2hb"
+    },
+    {
+      "@id": "#jmd7zb",
+      "name": "Among best-selling artists of all time",
+      "x": -396,
+      "y": 171,
+      "parent": "#pwi2hb"
+    },
+    {
+      "@id": "#g7zq3k",
+      "name": "Rock Hall inductee twice",
+      "x": -444,
+      "y": 59,
+      "parent": "#pwi2hb"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

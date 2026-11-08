@@ -1,0 +1,27 @@
+category: Technology
+aliases: fortifications, defensive walls, history of fortifications
+- Fortification
+  - Why build defences
+    - Let few defenders hold off many
+    - Protect people, stores and rulers
+    - Control borders, ports and routes
+  - Ancient walls
+    - Jericho had walls by about 8000 BC
+    - [Great Wall of China, built over centuries](https://en.wikipedia.org/wiki/Great_Wall_of_China)
+    - [Hadrian's Wall marked Roman Britain's edge](https://en.wikipedia.org/wiki/Hadrian%27s_Wall)
+  - Medieval castles
+    - Motte-and-bailey: earth mound, wooden fence
+    - Stone keeps and curtain walls
+    - Moats, drawbridges and arrow slits
+    - Sieges often starved defenders out
+  - Gunpowder changes everything
+    - Cannon smashed tall stone walls
+    - [Low angled star forts resist cannon](https://en.wikipedia.org/wiki/Star_fort)
+    - Vauban fortified France's frontiers
+  - Modern fortifications
+    - Trenches and barbed wire in WWI
+    - [Maginot Line bypassed in 1940](https://en.wikipedia.org/wiki/Maginot_Line)
+    - Concrete bunkers and pillboxes
+  - Legacy today
+    - Old walls shape city street plans
+    - Castles now museums and tourist sites

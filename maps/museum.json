@@ -1,0 +1,329 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Museum",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#n99h94",
+      "name": "What a museum does",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#th9c5w",
+      "name": "Collects and preserves objects",
+      "x": -485,
+      "y": -58,
+      "parent": "#n99h94"
+    },
+    {
+      "@id": "#8ue6cx",
+      "name": "Researches and documents its collection",
+      "x": -405,
+      "y": -156,
+      "parent": "#n99h94"
+    },
+    {
+      "@id": "#xu6xnx",
+      "name": "Displays and explains to the public",
+      "x": -330,
+      "y": -245,
+      "parent": "#n99h94"
+    },
+    {
+      "@id": "#x23e8i",
+      "name": "Origins",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ci64ax",
+      "name": "Named after the Greek Muses",
+      "x": -225,
+      "y": -312,
+      "parent": "#x23e8i"
+    },
+    {
+      "@id": "#b2yti2",
+      "name": "Renaissance cabinets of curiosities",
+      "x": -104,
+      "y": -367,
+      "parent": "#x23e8i"
+    },
+    {
+      "@id": "#b7zbgv",
+      "name": "Ashmolean opened to the public 1683",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Ashmolean_Museum",
+      "parent": "#x23e8i"
+    },
+    {
+      "@id": "#5e6fym",
+      "name": "Louvre opened in 1793 after the Revolution",
+      "x": 234,
+      "y": -485,
+      "parent": "#x23e8i"
+    },
+    {
+      "@id": "#hw4vn2",
+      "name": "Main types",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xqxjvr",
+      "name": "Art museums and galleries",
+      "x": 281,
+      "y": -281,
+      "parent": "#hw4vn2"
+    },
+    {
+      "@id": "#yzr3ik",
+      "name": "Natural history and science museums",
+      "x": 372,
+      "y": -203,
+      "parent": "#hw4vn2"
+    },
+    {
+      "@id": "#472mkr",
+      "name": "History, archaeology and local museums",
+      "x": 487,
+      "y": -121,
+      "parent": "#hw4vn2"
+    },
+    {
+      "@id": "#aura49",
+      "name": "Open-air and living history museums",
+      "x": 450,
+      "y": 0,
+      "parent": "#hw4vn2"
+    },
+    {
+      "@id": "#gz89u6",
+      "name": "Famous museums",
+      "x": 169,
+      "y": 125,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b9k683",
+      "name": "Louvre, Paris: the most visited",
+      "x": 449,
+      "y": 111,
+      "link": "https://en.wikipedia.org/wiki/Louvre",
+      "parent": "#gz89u6"
+    },
+    {
+      "@id": "#fgp4ca",
+      "name": "British Museum, London, founded 1753",
+      "x": 372,
+      "y": 203,
+      "parent": "#gz89u6"
+    },
+    {
+      "@id": "#ca6k8q",
+      "name": "Metropolitan Museum of Art, New York",
+      "x": 281,
+      "y": 281,
+      "parent": "#gz89u6"
+    },
+    {
+      "@id": "#jts527",
+      "name": "Palace Museum in Beijing's Forbidden City",
+      "x": 164,
+      "y": 335,
+      "parent": "#gz89u6"
+    },
+    {
+      "@id": "#hhuwih",
+      "name": "Behind the scenes",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7ybgfz",
+      "name": "Curators choose and interpret objects",
+      "x": 38,
+      "y": 391,
+      "parent": "#hhuwih"
+    },
+    {
+      "@id": "#gvc9z8",
+      "name": "Conservators repair and protect",
+      "x": -124,
+      "y": 447,
+      "parent": "#hhuwih"
+    },
+    {
+      "@id": "#hj25mt",
+      "name": "Registrars track loans and storage",
+      "x": -225,
+      "y": 312,
+      "parent": "#hhuwih"
+    },
+    {
+      "@id": "#x9b3ad",
+      "name": "Debates today",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7tbd7r",
+      "name": "Returning objects taken in colonial times",
+      "x": -330,
+      "y": 245,
+      "link": "https://en.wikipedia.org/wiki/Repatriation_%28cultural_property%29",
+      "parent": "#x9b3ad"
+    },
+    {
+      "@id": "#xcwyaj",
+      "name": "Free entry versus ticket charges",
+      "x": -405,
+      "y": 156,
+      "parent": "#x9b3ad"
+    },
+    {
+      "@id": "#d3yydc",
+      "name": "Digital collections open to all",
+      "x": -465,
+      "y": 56,
+      "parent": "#x9b3ad"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

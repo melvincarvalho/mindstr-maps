@@ -1,0 +1,31 @@
+category: Society
+aliases: liberal ideology, political liberalism, what is liberalism
+- Liberalism
+  - Core beliefs
+    - Individual liberty and equal rights
+    - Government by consent of the governed
+    - Rule of law and limited power
+    - Free speech, religion and markets
+  - Key thinkers
+    - [John Locke: life, liberty and property](https://en.wikipedia.org/wiki/John_Locke)
+    - Adam Smith on free trade
+    - [John Stuart Mill's On Liberty](https://en.wikipedia.org/wiki/On_Liberty)
+    - John Rawls on justice as fairness
+  - History
+    - Grew from the Enlightenment
+    - Glorious Revolution of 1688
+    - American and French revolutions
+    - Spread of voting rights in 1800s
+  - Main strands
+    - [Classical liberalism: minimal state](https://en.wikipedia.org/wiki/Classical_liberalism)
+    - [Social liberalism backs welfare and regulation](https://en.wikipedia.org/wiki/Social_liberalism)
+    - Neoliberalism favours markets and deregulation
+    - In the US, "liberal" means centre-left
+  - Real-world examples
+    - US Constitution and Bill of Rights
+    - UK Liberal Party and Liberal Democrats
+    - Post-1945 liberal international order
+  - Main criticisms
+    - Conservatives: erodes tradition and community
+    - Socialists: ignores economic inequality
+    - Communitarians: too individualistic

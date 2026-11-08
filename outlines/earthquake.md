@@ -1,0 +1,33 @@
+category: Science
+aliases: earthquakes, what causes earthquakes, earthquake safety, seismic activity
+- Earthquake
+  - What causes them
+    - Stressed rocks suddenly slip along faults
+    - Most strike at tectonic plate boundaries
+    - Energy radiates out as seismic waves
+    - Volcanoes and mining cause smaller ones
+  - Where they strike
+    - [Ring of Fire around the Pacific](https://en.wikipedia.org/wiki/Ring_of_Fire)
+    - Belt from Mediterranean to Himalayas
+    - Japan, Chile, Indonesia, Turkey, California
+  - Measuring them
+    - [Seismometers record ground shaking](https://en.wikipedia.org/wiki/Seismometer)
+    - [Moment magnitude has replaced Richter](https://en.wikipedia.org/wiki/Moment_magnitude_scale)
+    - Each whole step: about 32 times energy
+    - Intensity scales describe local shaking
+  - Effects
+    - Buildings and bridges can collapse
+    - Landslides and liquefaction of soft ground
+    - [Undersea quakes can trigger tsunamis](https://en.wikipedia.org/wiki/Tsunami)
+    - Aftershocks can follow for weeks
+  - Staying safe
+    - Drop, cover and hold on
+    - Stay indoors until shaking stops
+    - Outdoors: move clear of buildings, wires
+    - Near coast: head for high ground
+    - Prepare a kit, secure heavy furniture
+  - Notable earthquakes
+    - 1906 San Francisco, city burned
+    - 1960 Chile, largest recorded: 9.5
+    - 2004 Indian Ocean, about 9.1
+    - [2011 Tōhoku, Japan, magnitude 9.0](https://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami)

@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Antibiotic",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ju5ws6",
+      "name": "What antibiotics do",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9haz8w",
+      "name": "Kill bacteria or stop them multiplying",
+      "x": -525,
+      "y": -62,
+      "parent": "#ju5ws6"
+    },
+    {
+      "@id": "#8h4k5k",
+      "name": "Useless against viruses like colds, flu",
+      "x": -405,
+      "y": -156,
+      "parent": "#ju5ws6"
+    },
+    {
+      "@id": "#jqtrz9",
+      "name": "Target parts human cells lack",
+      "x": -330,
+      "y": -245,
+      "parent": "#ju5ws6"
+    },
+    {
+      "@id": "#giu8bt",
+      "name": "How they work",
+      "x": -51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2j8u8d",
+      "name": "Break bacterial cell walls",
+      "x": -225,
+      "y": -312,
+      "parent": "#giu8bt"
+    },
+    {
+      "@id": "#x5rg2u",
+      "name": "Block protein-making ribosomes",
+      "x": -104,
+      "y": -367,
+      "parent": "#giu8bt"
+    },
+    {
+      "@id": "#9inh3e",
+      "name": "Stop bacteria copying their DNA",
+      "x": 42,
+      "y": -423,
+      "parent": "#giu8bt"
+    },
+    {
+      "@id": "#3t2mhw",
+      "name": "Main groups",
+      "x": 169,
+      "y": -125,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#45sjdv",
+      "name": "Penicillins such as amoxicillin",
+      "x": 234,
+      "y": -485,
+      "link": "https://en.wikipedia.org/wiki/Penicillin",
+      "parent": "#3t2mhw"
+    },
+    {
+      "@id": "#ijtesi",
+      "name": "Cephalosporins",
+      "x": 281,
+      "y": -281,
+      "parent": "#3t2mhw"
+    },
+    {
+      "@id": "#ke9uyz",
+      "name": "Macrolides such as azithromycin",
+      "x": 372,
+      "y": -203,
+      "parent": "#3t2mhw"
+    },
+    {
+      "@id": "#t477xg",
+      "name": "Tetracyclines and fluoroquinolones",
+      "x": 430,
+      "y": -106,
+      "parent": "#3t2mhw"
+    },
+    {
+      "@id": "#7xpw3j",
+      "name": "Using them well",
+      "x": 207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uqtw7p",
+      "name": "Only for bacterial infections",
+      "x": 450,
+      "y": 0,
+      "parent": "#7xpw3j"
+    },
+    {
+      "@id": "#7ksjud",
+      "name": "Take exactly as prescribed",
+      "x": 449,
+      "y": 111,
+      "parent": "#7xpw3j"
+    },
+    {
+      "@id": "#738qzw",
+      "name": "Never share or save leftovers",
+      "x": 372,
+      "y": 203,
+      "parent": "#7xpw3j"
+    },
+    {
+      "@id": "#psh3m8",
+      "name": "Side effects: diarrhoea, thrush, allergy",
+      "x": 281,
+      "y": 281,
+      "parent": "#7xpw3j"
+    },
+    {
+      "@id": "#ig7kav",
+      "name": "Antibiotic resistance",
+      "x": -17,
+      "y": 183,
+      "link": "https://en.wikipedia.org/wiki/Antimicrobial_resistance",
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7t6wws",
+      "name": "Bacteria evolve to survive drugs",
+      "x": 164,
+      "y": 335,
+      "parent": "#ig7kav"
+    },
+    {
+      "@id": "#yr5pyu",
+      "name": "Overuse in people and livestock",
+      "x": 38,
+      "y": 391,
+      "parent": "#ig7kav"
+    },
+    {
+      "@id": "#3em5zk",
+      "name": "MRSA is a well-known resistant bacterium",
+      "x": -124,
+      "y": 447,
+      "link": "https://en.wikipedia.org/wiki/Methicillin-resistant_Staphylococcus_aureus",
+      "parent": "#ig7kav"
+    },
+    {
+      "@id": "#cg3e4z",
+      "name": "Directly caused about 1.27 million deaths, 2019",
+      "x": -245,
+      "y": 340,
+      "parent": "#ig7kav"
+    },
+    {
+      "@id": "#r6a72n",
+      "name": "History",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#74vf9s",
+      "name": "Fleming discovered penicillin in 1928",
+      "x": -330,
+      "y": 245,
+      "link": "https://en.wikipedia.org/wiki/Alexander_Fleming",
+      "parent": "#r6a72n"
+    },
+    {
+      "@id": "#sw5pgy",
+      "name": "Mass-produced during World War II",
+      "x": -405,
+      "y": 156,
+      "parent": "#r6a72n"
+    },
+    {
+      "@id": "#uz2epw",
+      "name": "Few new classes found since 1980s",
+      "x": -445,
+      "y": 54,
+      "parent": "#r6a72n"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

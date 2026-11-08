@@ -1,0 +1,329 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Ashoka",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ajjjc2",
+      "name": "Who he was",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ec28k3",
+      "name": "Emperor of India's Maurya dynasty",
+      "x": -445,
+      "y": -54,
+      "link": "https://en.wikipedia.org/wiki/Maurya_Empire",
+      "parent": "#ajjjc2"
+    },
+    {
+      "@id": "#cpgxyg",
+      "name": "Reigned about 268 to 232 BC",
+      "x": -405,
+      "y": -156,
+      "parent": "#ajjjc2"
+    },
+    {
+      "@id": "#zhdcda",
+      "name": "Grandson of founder Chandragupta Maurya",
+      "x": -330,
+      "y": -245,
+      "parent": "#ajjjc2"
+    },
+    {
+      "@id": "#ebw9gc",
+      "name": "Ruled most of the Indian subcontinent",
+      "x": -225,
+      "y": -312,
+      "parent": "#ajjjc2"
+    },
+    {
+      "@id": "#wmxm93",
+      "name": "The Kalinga War",
+      "x": 17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xy63p2",
+      "name": "Conquered Kalinga about 261 BC",
+      "x": -104,
+      "y": -367,
+      "parent": "#wmxm93"
+    },
+    {
+      "@id": "#jrbpmd",
+      "name": "Over 100,000 killed, by his account",
+      "x": 42,
+      "y": -423,
+      "parent": "#wmxm93"
+    },
+    {
+      "@id": "#36scm5",
+      "name": "Deep remorse at the suffering",
+      "x": 234,
+      "y": -485,
+      "parent": "#wmxm93"
+    },
+    {
+      "@id": "#68wdnq",
+      "name": "Turn to Buddhism",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fja2hr",
+      "name": "Became a devoted lay Buddhist",
+      "x": 281,
+      "y": -281,
+      "parent": "#68wdnq"
+    },
+    {
+      "@id": "#rnq486",
+      "name": "Promoted dhamma: ethical, humane living",
+      "x": 372,
+      "y": -203,
+      "parent": "#68wdnq"
+    },
+    {
+      "@id": "#dr8qr3",
+      "name": "Urged tolerance of all religions",
+      "x": 487,
+      "y": -121,
+      "parent": "#68wdnq"
+    },
+    {
+      "@id": "#8wuqf8",
+      "name": "Discouraged killing animals for sacrifice",
+      "x": 450,
+      "y": 0,
+      "parent": "#68wdnq"
+    },
+    {
+      "@id": "#wg58fk",
+      "name": "Edicts of Ashoka",
+      "x": 169,
+      "y": 125,
+      "link": "https://en.wikipedia.org/wiki/Edicts_of_Ashoka",
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4qq2rs",
+      "name": "Carved on rocks and stone pillars",
+      "x": 468,
+      "y": 116,
+      "parent": "#wg58fk"
+    },
+    {
+      "@id": "#hc83sj",
+      "name": "Mostly in Prakrit, Brahmi script",
+      "x": 372,
+      "y": 203,
+      "parent": "#wg58fk"
+    },
+    {
+      "@id": "#sd39ca",
+      "name": "Greek and Aramaic versions in the northwest",
+      "x": 281,
+      "y": 281,
+      "parent": "#wg58fk"
+    },
+    {
+      "@id": "#gs3yih",
+      "name": "Deciphered by James Prinsep in 1837",
+      "x": 164,
+      "y": 335,
+      "parent": "#wg58fk"
+    },
+    {
+      "@id": "#2ejd4n",
+      "name": "Spreading Buddhism",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y68xmu",
+      "name": "Sent missions across Asia",
+      "x": 38,
+      "y": 391,
+      "parent": "#2ejd4n"
+    },
+    {
+      "@id": "#m9bjsr",
+      "name": "Son Mahinda took Buddhism to Sri Lanka",
+      "x": -124,
+      "y": 447,
+      "parent": "#2ejd4n"
+    },
+    {
+      "@id": "#uifukp",
+      "name": "Built stupas, including at Sanchi",
+      "x": -225,
+      "y": 312,
+      "parent": "#2ejd4n"
+    },
+    {
+      "@id": "#v4q7dg",
+      "name": "Legacy",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gpk5ej",
+      "name": "Lion Capital is India's national emblem",
+      "x": -330,
+      "y": 245,
+      "link": "https://en.wikipedia.org/wiki/Lion_Capital_of_Ashoka",
+      "parent": "#v4q7dg"
+    },
+    {
+      "@id": "#jip39y",
+      "name": "Ashoka Chakra on India's flag",
+      "x": -405,
+      "y": 156,
+      "parent": "#v4q7dg"
+    },
+    {
+      "@id": "#j4ax48",
+      "name": "Model of a moral ruler",
+      "x": -445,
+      "y": 54,
+      "parent": "#v4q7dg"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

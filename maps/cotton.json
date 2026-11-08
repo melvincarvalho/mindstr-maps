@@ -1,0 +1,340 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Cotton",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#c2jh2x",
+      "name": "The plant",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4tizrm",
+      "name": "Gossypium, a shrub of the mallow family",
+      "x": -505,
+      "y": -57,
+      "link": "https://en.wikipedia.org/wiki/Gossypium",
+      "parent": "#c2jh2x"
+    },
+    {
+      "@id": "#htpaek",
+      "name": "Fluffy fibre grows around the seeds",
+      "x": -409,
+      "y": -150,
+      "parent": "#c2jh2x"
+    },
+    {
+      "@id": "#y8tyyr",
+      "name": "Needs sun, warmth and plenty of water",
+      "x": -340,
+      "y": -236,
+      "parent": "#c2jh2x"
+    },
+    {
+      "@id": "#2rtybu",
+      "name": "Growing and harvesting",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#enthwd",
+      "name": "Bolls burst open when ripe",
+      "x": -243,
+      "y": -303,
+      "parent": "#2rtybu"
+    },
+    {
+      "@id": "#ecx4dd",
+      "name": "Picked by hand or machine",
+      "x": -133,
+      "y": -360,
+      "parent": "#2rtybu"
+    },
+    {
+      "@id": "#e8d8r7",
+      "name": "Ginning separates fibre from seed",
+      "x": 0,
+      "y": -408,
+      "link": "https://en.wikipedia.org/wiki/Cotton_gin",
+      "parent": "#2rtybu"
+    },
+    {
+      "@id": "#ib2mcp",
+      "name": "India, China, US and Brazil lead",
+      "x": 175,
+      "y": -465,
+      "parent": "#2rtybu"
+    },
+    {
+      "@id": "#qpqekw",
+      "name": "From fibre to fabric",
+      "x": 193,
+      "y": -99,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#93s2ei",
+      "name": "Fibre is almost pure cellulose",
+      "x": 243,
+      "y": -303,
+      "parent": "#qpqekw"
+    },
+    {
+      "@id": "#xezzzz",
+      "name": "Spun into yarn, then woven or knitted",
+      "x": 340,
+      "y": -236,
+      "parent": "#qpqekw"
+    },
+    {
+      "@id": "#upkunj",
+      "name": "Denim, jersey, muslin and flannel",
+      "x": 409,
+      "y": -150,
+      "parent": "#qpqekw"
+    },
+    {
+      "@id": "#bqaps6",
+      "name": "Soft, breathable and absorbs water",
+      "x": 445,
+      "y": -51,
+      "parent": "#qpqekw"
+    },
+    {
+      "@id": "#vwtjn2",
+      "name": "Early history",
+      "x": 193,
+      "y": 99,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dinz73",
+      "name": "Grown in Indus Valley 5,000+ years ago",
+      "x": 445,
+      "y": 51,
+      "parent": "#vwtjn2"
+    },
+    {
+      "@id": "#sjxzpb",
+      "name": "Domesticated separately in the Americas",
+      "x": 409,
+      "y": 150,
+      "parent": "#vwtjn2"
+    },
+    {
+      "@id": "#52ux69",
+      "name": "Indian cotton cloth traded worldwide",
+      "x": 340,
+      "y": 236,
+      "parent": "#vwtjn2"
+    },
+    {
+      "@id": "#uw3ddn",
+      "name": "Eli Whitney's gin, 1793",
+      "x": 243,
+      "y": 303,
+      "parent": "#vwtjn2"
+    },
+    {
+      "@id": "#cmbfnp",
+      "name": "Cotton and slavery",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xack24",
+      "name": "Gin expanded slavery in the US South",
+      "x": 133,
+      "y": 360,
+      "parent": "#cmbfnp"
+    },
+    {
+      "@id": "#5feuam",
+      "name": "Fed Lancashire mills in Industrial Revolution",
+      "x": 0,
+      "y": 408,
+      "parent": "#cmbfnp"
+    },
+    {
+      "@id": "#fznxn6",
+      "name": "\"King Cotton\" and the American Civil War",
+      "x": -175,
+      "y": 465,
+      "link": "https://en.wikipedia.org/wiki/King_Cotton",
+      "parent": "#cmbfnp"
+    },
+    {
+      "@id": "#j4t9dv",
+      "name": "Uses and impact",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#s7xerp",
+      "name": "Clothes, towels and bed linen",
+      "x": -243,
+      "y": 303,
+      "parent": "#j4t9dv"
+    },
+    {
+      "@id": "#axhq2u",
+      "name": "Seeds give cottonseed oil and feed",
+      "x": -340,
+      "y": 236,
+      "parent": "#j4t9dv"
+    },
+    {
+      "@id": "#wz5se4",
+      "name": "Irrigation helped shrink the Aral Sea",
+      "x": -409,
+      "y": 150,
+      "parent": "#j4t9dv"
+    },
+    {
+      "@id": "#c47htg",
+      "name": "Heavy pesticide use in some regions",
+      "x": -445,
+      "y": 51,
+      "parent": "#j4t9dv"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

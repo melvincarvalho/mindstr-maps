@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Immanuel Kant",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#us777p",
+      "name": "Life, 1724–1804",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uqff46",
+      "name": "Born in Königsberg, Prussia",
+      "x": -445,
+      "y": -54,
+      "parent": "#us777p"
+    },
+    {
+      "@id": "#y8xgy7",
+      "name": "Never travelled far from home",
+      "x": -405,
+      "y": -156,
+      "parent": "#us777p"
+    },
+    {
+      "@id": "#xdjkd7",
+      "name": "Taught at University of Königsberg",
+      "x": -330,
+      "y": -245,
+      "parent": "#us777p"
+    },
+    {
+      "@id": "#ss7g66",
+      "name": "Famous for his strict daily routine",
+      "x": -225,
+      "y": -312,
+      "parent": "#us777p"
+    },
+    {
+      "@id": "#66h2x2",
+      "name": "Theory of knowledge",
+      "x": 84,
+      "y": -171,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#n2gbj4",
+      "name": "Critique of Pure Reason, 1781",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Critique_of_Pure_Reason",
+      "parent": "#66h2x2"
+    },
+    {
+      "@id": "#hr3i4e",
+      "name": "Reconciled rationalism and empiricism",
+      "x": 42,
+      "y": -423,
+      "parent": "#66h2x2"
+    },
+    {
+      "@id": "#ice6yg",
+      "name": "Mind shapes experience: space, time, causality",
+      "x": 234,
+      "y": -485,
+      "parent": "#66h2x2"
+    },
+    {
+      "@id": "#h6msp7",
+      "name": "Things-in-themselves remain unknowable",
+      "x": 281,
+      "y": -281,
+      "parent": "#66h2x2"
+    },
+    {
+      "@id": "#8ehyb8",
+      "name": "Called it his \"Copernican revolution\"",
+      "x": 389,
+      "y": -212,
+      "parent": "#66h2x2"
+    },
+    {
+      "@id": "#7ns745",
+      "name": "Ethics",
+      "x": 227,
+      "y": 27,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zvbmme",
+      "name": "Act only on universalisable maxims",
+      "x": 430,
+      "y": -106,
+      "link": "https://en.wikipedia.org/wiki/Categorical_imperative",
+      "parent": "#7ns745"
+    },
+    {
+      "@id": "#v6eivh",
+      "name": "Treat people as ends, never merely means",
+      "x": 490,
+      "y": 0,
+      "parent": "#7ns745"
+    },
+    {
+      "@id": "#nu355e",
+      "name": "Morality rests on duty, not consequences",
+      "x": 430,
+      "y": 106,
+      "parent": "#7ns745"
+    },
+    {
+      "@id": "#axidup",
+      "name": "Critique of Practical Reason, 1788",
+      "x": 372,
+      "y": 203,
+      "parent": "#7ns745"
+    },
+    {
+      "@id": "#vpbxi2",
+      "name": "Other contributions",
+      "x": 51,
+      "y": 179,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#w6gz2z",
+      "name": "Critique of Judgment on beauty, 1790",
+      "x": 281,
+      "y": 281,
+      "parent": "#vpbxi2"
+    },
+    {
+      "@id": "#2mnpvx",
+      "name": "\"What Is Enlightenment?\": dare to know",
+      "x": 164,
+      "y": 335,
+      "link": "https://en.wikipedia.org/wiki/Answering_the_Question:_What_Is_Enlightenment%3F",
+      "parent": "#vpbxi2"
+    },
+    {
+      "@id": "#asck4h",
+      "name": "Perpetual Peace proposes league of nations",
+      "x": 38,
+      "y": 391,
+      "link": "https://en.wikipedia.org/wiki/Perpetual_Peace:_A_Philosophical_Sketch",
+      "parent": "#vpbxi2"
+    },
+    {
+      "@id": "#yawxw8",
+      "name": "Nebular hypothesis on solar system origins",
+      "x": -124,
+      "y": 447,
+      "parent": "#vpbxi2"
+    },
+    {
+      "@id": "#w4bgbr",
+      "name": "Legacy",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yc2ss2",
+      "name": "Central figure of modern philosophy",
+      "x": -225,
+      "y": 312,
+      "parent": "#w4bgbr"
+    },
+    {
+      "@id": "#rg7tiv",
+      "name": "Inspired German idealism: Fichte, Hegel",
+      "x": -330,
+      "y": 245,
+      "parent": "#w4bgbr"
+    },
+    {
+      "@id": "#shvqgg",
+      "name": "Shaped deontological ethics and human rights",
+      "x": -405,
+      "y": 156,
+      "link": "https://en.wikipedia.org/wiki/Deontology",
+      "parent": "#w4bgbr"
+    },
+    {
+      "@id": "#83iue5",
+      "name": "Criticised for racial views in anthropology",
+      "x": -445,
+      "y": 54,
+      "parent": "#w4bgbr"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 6,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 12,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

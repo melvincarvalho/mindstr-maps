@@ -1,0 +1,362 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Philippines",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#z7k5tu",
+      "name": "Land",
+      "x": -182,
+      "y": -112,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9bn56e",
+      "name": "Over 7,000 islands",
+      "x": -446,
+      "y": -47,
+      "parent": "#z7k5tu"
+    },
+    {
+      "@id": "#5j4zpd",
+      "name": "Luzon, Visayas and Mindanao groups",
+      "x": -416,
+      "y": -138,
+      "parent": "#z7k5tu"
+    },
+    {
+      "@id": "#bvg5sw",
+      "name": "Manila capital, Quezon City most populous",
+      "x": -357,
+      "y": -219,
+      "parent": "#z7k5tu"
+    },
+    {
+      "@id": "#q26z93",
+      "name": "Typhoons and volcanoes such as Mayon",
+      "x": -274,
+      "y": -286,
+      "parent": "#z7k5tu"
+    },
+    {
+      "@id": "#ce6z43",
+      "name": "Banaue Rice Terraces",
+      "x": -180,
+      "y": -348,
+      "link": "https://en.wikipedia.org/wiki/Banaue_Rice_Terraces",
+      "parent": "#z7k5tu"
+    },
+    {
+      "@id": "#zphm86",
+      "name": "People and languages",
+      "x": 60,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r2ktm2",
+      "name": "Over 110 million people",
+      "x": -68,
+      "y": -405,
+      "parent": "#zphm86"
+    },
+    {
+      "@id": "#kfbb7w",
+      "name": "Filipino and English are official",
+      "x": 77,
+      "y": -453,
+      "parent": "#zphm86"
+    },
+    {
+      "@id": "#a5zihi",
+      "name": "Over 170 languages, Cebuano widely spoken",
+      "x": 172,
+      "y": -333,
+      "parent": "#zphm86"
+    },
+    {
+      "@id": "#5b7kt8",
+      "name": "About 80% Roman Catholic",
+      "x": 370,
+      "y": -390,
+      "parent": "#zphm86"
+    },
+    {
+      "@id": "#7jynn7",
+      "name": "History in brief",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#q4ia4m",
+      "name": "Magellan arrived in 1521",
+      "x": 357,
+      "y": -219,
+      "parent": "#7jynn7"
+    },
+    {
+      "@id": "#neuyry",
+      "name": "Spanish colony for over 300 years",
+      "x": 416,
+      "y": -138,
+      "parent": "#7jynn7"
+    },
+    {
+      "@id": "#n48jtq",
+      "name": "José Rizal inspired the revolution",
+      "x": 466,
+      "y": -49,
+      "link": "https://en.wikipedia.org/wiki/Jos%C3%A9_Rizal",
+      "parent": "#7jynn7"
+    },
+    {
+      "@id": "#jkv6i8",
+      "name": "US rule after 1898",
+      "x": 446,
+      "y": 47,
+      "parent": "#7jynn7"
+    },
+    {
+      "@id": "#garge2",
+      "name": "Independence in 1946",
+      "x": 416,
+      "y": 138,
+      "parent": "#7jynn7"
+    },
+    {
+      "@id": "#i23i47",
+      "name": "People Power ousted Marcos, 1986",
+      "x": 357,
+      "y": 219,
+      "link": "https://en.wikipedia.org/wiki/People_Power_Revolution",
+      "parent": "#7jynn7"
+    },
+    {
+      "@id": "#3ci3pv",
+      "name": "Government",
+      "x": 88,
+      "y": 170,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#s8xh52",
+      "name": "Presidential republic, modelled on the US",
+      "x": 274,
+      "y": 286,
+      "parent": "#3ci3pv"
+    },
+    {
+      "@id": "#eq87px",
+      "name": "President serves one six-year term",
+      "x": 180,
+      "y": 348,
+      "parent": "#3ci3pv"
+    },
+    {
+      "@id": "#68xzgb",
+      "name": "South China Sea claims overlap China's",
+      "x": 68,
+      "y": 405,
+      "parent": "#3ci3pv"
+    },
+    {
+      "@id": "#4tf798",
+      "name": "Economy",
+      "x": -88,
+      "y": 170,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8etedw",
+      "name": "Call centres and business outsourcing",
+      "x": -77,
+      "y": 453,
+      "parent": "#4tf798"
+    },
+    {
+      "@id": "#f9g5i4",
+      "name": "Remittances from overseas Filipino workers",
+      "x": -268,
+      "y": 513,
+      "parent": "#4tf798"
+    },
+    {
+      "@id": "#uv8e3h",
+      "name": "Electronics are the top export",
+      "x": -274,
+      "y": 286,
+      "parent": "#4tf798"
+    },
+    {
+      "@id": "#tctpaz",
+      "name": "Culture",
+      "x": -212,
+      "y": 70,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p2q4mc",
+      "name": "Jeepneys, colourful public transport",
+      "x": -357,
+      "y": 219,
+      "parent": "#tctpaz"
+    },
+    {
+      "@id": "#5ebspn",
+      "name": "Adobo and lechon",
+      "x": -416,
+      "y": 138,
+      "parent": "#tctpaz"
+    },
+    {
+      "@id": "#2up6y8",
+      "name": "Basketball is the top sport",
+      "x": -446,
+      "y": 47,
+      "parent": "#tctpaz"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 7,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 12,
+      "end": 16
+    },
+    {
+      "start": 12,
+      "end": 17
+    },
+    {
+      "start": 12,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 0,
+      "end": 27
+    },
+    {
+      "start": 27,
+      "end": 28
+    },
+    {
+      "start": 27,
+      "end": 29
+    },
+    {
+      "start": 27,
+      "end": 30
+    }
+  ],
+  "selectedNode": 0
+}

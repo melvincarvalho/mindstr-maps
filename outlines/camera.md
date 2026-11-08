@@ -1,0 +1,31 @@
+category: Technology
+aliases: how a camera works, how cameras work, history of the camera, digital camera
+- Camera
+  - How it works
+    - Light-tight box with a lens
+    - Lens focuses light into an image
+    - Aperture controls how much light enters
+    - Shutter controls how long it enters
+  - Recording the image
+    - Film: light-sensitive silver chemistry
+    - [Digital: image sensor of millions of pixels](https://en.wikipedia.org/wiki/Image_sensor)
+    - Processor turns signals into a file
+  - History
+    - [Camera obscura projected images for centuries](https://en.wikipedia.org/wiki/Camera_obscura)
+    - Niépce's first lasting photo, about 1826
+    - Daguerreotype announced in 1839
+    - Kodak box camera for everyone, 1888
+    - First digital camera prototype, 1975
+  - Kinds of camera
+    - Phone cameras, now the most used
+    - [Single-lens reflex uses a mirror](https://en.wikipedia.org/wiki/Single-lens_reflex_camera)
+    - Mirrorless cameras with electronic viewfinders
+    - Video, security and action cameras
+  - Phone camera tricks
+    - Several small lenses for zoom
+    - [Computational photography merges many frames](https://en.wikipedia.org/wiki/Computational_photography)
+    - Night mode stacks long exposures
+  - Beyond snapshots
+    - Cameras on telescopes and microscopes
+    - Webcams and video calls
+    - Cameras guide self-driving cars and robots

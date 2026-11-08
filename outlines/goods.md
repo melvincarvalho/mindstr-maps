@@ -1,0 +1,28 @@
+category: Society
+aliases: economic goods, goods and services, goods in economics
+- Goods
+  - What counts as a good
+    - Tangible items that satisfy wants
+    - Can be stored, owned and traded
+    - Contrast: services are used up immediately
+  - By who uses them
+    - [Consumer goods bought by households](https://en.wikipedia.org/wiki/Final_good)
+    - Capital goods make other goods
+    - Intermediate goods become parts or inputs
+  - By how long they last
+    - Durable goods: cars, fridges, furniture
+    - Non-durables: food, fuel, toiletries
+  - By how demand responds
+    - Normal goods: buy more as income rises
+    - Inferior goods: buy less as income rises
+    - Luxury goods: demand rises faster than income
+    - [Substitutes and complements move together](https://en.wikipedia.org/wiki/Substitute_good)
+  - By who can be excluded
+    - Private goods: rival and excludable
+    - [Public goods: street lighting, defence](https://en.wikipedia.org/wiki/Public_good_%28economics%29)
+    - Common resources: fish stocks, pastures
+    - Club goods: cable TV, toll roads
+  - Why the categories matter
+    - [Free riders undersupply public goods](https://en.wikipedia.org/wiki/Free-rider_problem)
+    - [Tragedy of the commons overuses resources](https://en.wikipedia.org/wiki/Tragedy_of_the_commons)
+    - Governments tax, ban or provide goods

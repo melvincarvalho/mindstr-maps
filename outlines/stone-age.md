@@ -1,0 +1,30 @@
+category: History
+aliases: stone age era, old stone age, stone age humans
+- Stone Age
+  - The basics
+    - Stone was the main tool material
+    - From ~3.3 million years ago
+    - Ended as metalworking spread, ~3000 BC
+    - First part of the three-age system
+  - [Paleolithic (Old Stone Age)](https://en.wikipedia.org/wiki/Paleolithic)
+    - Oldowan choppers, then Acheulean hand axes
+    - Fire controlled by ~400,000 years ago
+    - Hunter-gatherers living in small bands
+    - Modern humans spread out of Africa
+  - [Mesolithic (Middle Stone Age)](https://en.wikipedia.org/wiki/Mesolithic)
+    - Began as the Ice Age ended
+    - Microliths: small blades set in handles
+    - Fishing, canoes and bows and arrows
+  - [Neolithic (New Stone Age)](https://en.wikipedia.org/wiki/Neolithic)
+    - Farming began in the Fertile Crescent
+    - Polished stone axes and pottery
+    - Permanent villages and domesticated animals
+  - Daily life and culture
+    - Flint and obsidian knapped for blades
+    - [Cave paintings like Lascaux](https://en.wikipedia.org/wiki/Lascaux)
+    - Venus figurines and personal ornaments
+    - Burials suggest belief and ritual
+  - How we know
+    - Archaeology of tools and campsites
+    - Radiocarbon dating up to ~50,000 years
+    - Ancient DNA traces migrations

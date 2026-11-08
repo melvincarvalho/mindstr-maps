@@ -1,0 +1,30 @@
+category: Society
+aliases: study of humankind, anthropology explained, four fields of anthropology
+- Anthropology
+  - What it is
+    - Study of humans, past and present
+    - Compares societies around the world
+    - Holistic: biology, culture, language, history
+  - The four fields
+    - [Cultural anthropology: ways of life](https://en.wikipedia.org/wiki/Cultural_anthropology)
+    - [Biological anthropology: evolution and variation](https://en.wikipedia.org/wiki/Biological_anthropology)
+    - Archaeology: past societies through artefacts
+    - Linguistic anthropology: language and culture
+  - Key ideas
+    - Culture is learned and shared
+    - Cultural relativism: understand on own terms
+    - Kinship organises families and inheritance
+    - Rituals mark life transitions
+  - [Fieldwork and ethnography](https://en.wikipedia.org/wiki/Ethnography)
+    - Participant observation over months
+    - Learning the local language
+    - Informed consent and community ethics
+  - History of the field
+    - Grew in the 19th century
+    - Early work tied to colonialism
+    - [Boas challenged racial hierarchies](https://en.wikipedia.org/wiki/Franz_Boas)
+    - Malinowski championed long-term fieldwork
+  - Uses today
+    - Medical and public health research
+    - Business and design research
+    - Forensic identification of remains

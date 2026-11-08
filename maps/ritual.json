@@ -1,0 +1,340 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Ritual",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#493zpy",
+      "name": "What a ritual is",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5wppcy",
+      "name": "Set actions repeated in a fixed way",
+      "x": -505,
+      "y": -57,
+      "parent": "#493zpy"
+    },
+    {
+      "@id": "#8i3n3m",
+      "name": "Symbolic rather than practical meaning",
+      "x": -409,
+      "y": -150,
+      "parent": "#493zpy"
+    },
+    {
+      "@id": "#xb4jzg",
+      "name": "Religious or secular, public or private",
+      "x": -340,
+      "y": -236,
+      "parent": "#493zpy"
+    },
+    {
+      "@id": "#5cpyfh",
+      "name": "Rites of passage",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hfwmm6",
+      "name": "Separation, transition, then incorporation",
+      "x": -243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Rite_of_passage",
+      "parent": "#5cpyfh"
+    },
+    {
+      "@id": "#it69b9",
+      "name": "Birth and naming ceremonies",
+      "x": -133,
+      "y": -360,
+      "parent": "#5cpyfh"
+    },
+    {
+      "@id": "#2t7a82",
+      "name": "Coming of age: bar mitzvah, confirmation",
+      "x": 0,
+      "y": -408,
+      "parent": "#5cpyfh"
+    },
+    {
+      "@id": "#vm4web",
+      "name": "Weddings join couples and families",
+      "x": 175,
+      "y": -465,
+      "parent": "#5cpyfh"
+    },
+    {
+      "@id": "#xmsi57",
+      "name": "Funerals mark death and mourning",
+      "x": 243,
+      "y": -303,
+      "parent": "#5cpyfh"
+    },
+    {
+      "@id": "#rbubdq",
+      "name": "Religious rituals",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jsb7gx",
+      "name": "Christian sacraments like baptism, Eucharist",
+      "x": 340,
+      "y": -236,
+      "parent": "#rbubdq"
+    },
+    {
+      "@id": "#57jvg6",
+      "name": "Hajj pilgrimage to Mecca",
+      "x": 409,
+      "y": -150,
+      "link": "https://en.wikipedia.org/wiki/Hajj",
+      "parent": "#rbubdq"
+    },
+    {
+      "@id": "#3w8ewq",
+      "name": "Hindu puja offerings to deities",
+      "x": 505,
+      "y": -57,
+      "parent": "#rbubdq"
+    },
+    {
+      "@id": "#g4ekym",
+      "name": "Fasting seasons like Ramadan and Lent",
+      "x": 445,
+      "y": 51,
+      "parent": "#rbubdq"
+    },
+    {
+      "@id": "#fxt27x",
+      "name": "Seasonal and civic rituals",
+      "x": 174,
+      "y": 120,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mrky6s",
+      "name": "Harvest and new year festivals",
+      "x": 463,
+      "y": 171,
+      "parent": "#fxt27x"
+    },
+    {
+      "@id": "#jze8ey",
+      "name": "National days and parades",
+      "x": 340,
+      "y": 236,
+      "parent": "#fxt27x"
+    },
+    {
+      "@id": "#93ue9y",
+      "name": "Graduations, oaths and inaugurations",
+      "x": 243,
+      "y": 303,
+      "parent": "#fxt27x"
+    },
+    {
+      "@id": "#xw32md",
+      "name": "Why rituals matter",
+      "x": -33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nf6bcf",
+      "name": "Durkheim: they bind communities together",
+      "x": 133,
+      "y": 360,
+      "link": "https://en.wikipedia.org/wiki/%C3%89mile_Durkheim",
+      "parent": "#xw32md"
+    },
+    {
+      "@id": "#2redpw",
+      "name": "Mark changes in social status",
+      "x": 0,
+      "y": 408,
+      "parent": "#xw32md"
+    },
+    {
+      "@id": "#uy7ejk",
+      "name": "Ease anxiety in uncertain times",
+      "x": -175,
+      "y": 465,
+      "parent": "#xw32md"
+    },
+    {
+      "@id": "#84ks93",
+      "name": "Pass on values across generations",
+      "x": -243,
+      "y": 303,
+      "parent": "#xw32md"
+    },
+    {
+      "@id": "#ikb5i7",
+      "name": "Everyday rituals",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xpdqeu",
+      "name": "Greetings, handshakes and toasts",
+      "x": -340,
+      "y": 236,
+      "parent": "#ikb5i7"
+    },
+    {
+      "@id": "#493eeq",
+      "name": "Birthday cakes and candles",
+      "x": -409,
+      "y": 150,
+      "parent": "#ikb5i7"
+    },
+    {
+      "@id": "#twdpzh",
+      "name": "Personal routines before big events",
+      "x": -505,
+      "y": 57,
+      "parent": "#ikb5i7"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

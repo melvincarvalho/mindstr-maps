@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Psychology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#6r8bka",
+      "name": "What it studies",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rwbfhs",
+      "name": "Mind, thought and behaviour",
+      "x": -465,
+      "y": -53,
+      "parent": "#6r8bka"
+    },
+    {
+      "@id": "#icwjwc",
+      "name": "Uses experiments and observation",
+      "x": -409,
+      "y": -150,
+      "parent": "#6r8bka"
+    },
+    {
+      "@id": "#pfbhhu",
+      "name": "Bridges biology and social science",
+      "x": -340,
+      "y": -236,
+      "parent": "#6r8bka"
+    },
+    {
+      "@id": "#q26nn6",
+      "name": "Major schools",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hv6cdv",
+      "name": "Wundt opened first lab, Leipzig 1879",
+      "x": -243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Wilhelm_Wundt",
+      "parent": "#q26nn6"
+    },
+    {
+      "@id": "#bmvq9u",
+      "name": "Freud's psychoanalysis and the unconscious",
+      "x": -133,
+      "y": -360,
+      "parent": "#q26nn6"
+    },
+    {
+      "@id": "#7jwquu",
+      "name": "Behaviourism: learning by conditioning",
+      "x": 0,
+      "y": -408,
+      "link": "https://en.wikipedia.org/wiki/Behaviorism",
+      "parent": "#q26nn6"
+    },
+    {
+      "@id": "#mdidu2",
+      "name": "Cognitive revolution: mind as processor",
+      "x": 175,
+      "y": -465,
+      "parent": "#q26nn6"
+    },
+    {
+      "@id": "#ks4wkj",
+      "name": "Humanistic: growth and self-actualisation",
+      "x": 243,
+      "y": -303,
+      "parent": "#q26nn6"
+    },
+    {
+      "@id": "#sipmn3",
+      "name": "Main branches",
+      "x": 228,
+      "y": -26,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vvekk4",
+      "name": "Cognitive: memory, attention, reasoning",
+      "x": 340,
+      "y": -236,
+      "link": "https://en.wikipedia.org/wiki/Cognitive_psychology",
+      "parent": "#sipmn3"
+    },
+    {
+      "@id": "#qk8j3k",
+      "name": "Developmental: change across the lifespan",
+      "x": 409,
+      "y": -150,
+      "parent": "#sipmn3"
+    },
+    {
+      "@id": "#3s83py",
+      "name": "Social: how others shape us",
+      "x": 465,
+      "y": -53,
+      "parent": "#sipmn3"
+    },
+    {
+      "@id": "#s6q4zw",
+      "name": "Biological: brain, hormones and genes",
+      "x": 445,
+      "y": 51,
+      "parent": "#sipmn3"
+    },
+    {
+      "@id": "#4x5j5y",
+      "name": "Clinical: diagnosing and treating disorders",
+      "x": 409,
+      "y": 150,
+      "parent": "#sipmn3"
+    },
+    {
+      "@id": "#6ght9e",
+      "name": "Famous findings",
+      "x": 168,
+      "y": 207,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u8xcsv",
+      "name": "Pavlov's conditioned dogs",
+      "x": 370,
+      "y": 256,
+      "parent": "#6ght9e"
+    },
+    {
+      "@id": "#igw3cn",
+      "name": "Milgram's obedience experiments",
+      "x": 254,
+      "y": 316,
+      "parent": "#6ght9e"
+    },
+    {
+      "@id": "#igksn4",
+      "name": "Cognitive biases distort judgement",
+      "x": 139,
+      "y": 375,
+      "parent": "#6ght9e"
+    },
+    {
+      "@id": "#5z8swc",
+      "name": "In practice",
+      "x": -65,
+      "y": 177,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dnznfc",
+      "name": "Talking therapies such as CBT",
+      "x": 0,
+      "y": 424,
+      "parent": "#5z8swc"
+    },
+    {
+      "@id": "#9ccvrk",
+      "name": "Educational and workplace psychology",
+      "x": -181,
+      "y": 480,
+      "parent": "#5z8swc"
+    },
+    {
+      "@id": "#wcrp74",
+      "name": "Forensic psychology in courts",
+      "x": -243,
+      "y": 303,
+      "parent": "#5z8swc"
+    },
+    {
+      "@id": "#ye5yzi",
+      "name": "Open questions",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fgpbs7",
+      "name": "Replication crisis prompted stricter methods",
+      "x": -340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/Replication_crisis",
+      "parent": "#ye5yzi"
+    },
+    {
+      "@id": "#8xxda3",
+      "name": "Nature versus nurture",
+      "x": -409,
+      "y": 150,
+      "parent": "#ye5yzi"
+    },
+    {
+      "@id": "#vkdpxj",
+      "name": "Most studies use Western participants",
+      "x": -505,
+      "y": 57,
+      "parent": "#ye5yzi"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 11,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

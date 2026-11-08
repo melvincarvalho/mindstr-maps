@@ -1,0 +1,28 @@
+category: History
+aliases: post-classical era, postclassical period, post-classical world, global middle ages
+- Post-classical history
+  - The era
+    - About AD 500 to 1500
+    - Between classical antiquity and early modern
+    - A global counterpart to the Middle Ages
+    - Ends with printing and ocean voyages
+  - Europe
+    - [Byzantine Empire carried on Roman traditions](https://en.wikipedia.org/wiki/Byzantine_Empire)
+    - Feudalism and the Catholic Church
+    - Crusades to the Holy Land, 1095–1291
+  - Islamic world
+    - Islam founded in Arabia, 7th century
+    - [Abbasid Baghdad, a centre of learning](https://en.wikipedia.org/wiki/Islamic_Golden_Age)
+    - Caliphates stretched from Spain to Central Asia
+  - Asia
+    - [Tang and Song China flourished](https://en.wikipedia.org/wiki/Song_dynasty)
+    - Chinese printing, gunpowder and compass spread
+    - Samurai Japan, Khmer Angkor, Delhi Sultanate
+  - Mongols and trade
+    - [Mongol Empire, largest contiguous land empire](https://en.wikipedia.org/wiki/Mongol_Empire)
+    - Silk Road and Indian Ocean trade
+    - Black Death struck in the 1340s
+  - Africa and the Americas
+    - [Mali Empire and Mansa Musa's wealth](https://en.wikipedia.org/wiki/Mali_Empire)
+    - Great Zimbabwe and Swahili coast cities
+    - Aztec and Inca empires rose

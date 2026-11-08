@@ -1,0 +1,352 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Cairo",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ztkaby",
+      "name": "Setting",
+      "x": -197,
+      "y": -96,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jkka99",
+      "name": "Capital of Egypt, on the Nile",
+      "x": -446,
+      "y": -49,
+      "parent": "#ztkaby"
+    },
+    {
+      "@id": "#avphia",
+      "name": "Where the Nile Delta begins",
+      "x": -413,
+      "y": -143,
+      "parent": "#ztkaby"
+    },
+    {
+      "@id": "#ki6cyz",
+      "name": "Greater Cairo about 22 million people",
+      "x": -349,
+      "y": -227,
+      "parent": "#ztkaby"
+    },
+    {
+      "@id": "#q4r8nr",
+      "name": "Hot desert climate, rare rain",
+      "x": -260,
+      "y": -294,
+      "parent": "#ztkaby"
+    },
+    {
+      "@id": "#wv5sum",
+      "name": "History",
+      "x": 47,
+      "y": -180,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bku9zy",
+      "name": "Pyramids built about 4,500 years ago",
+      "x": -158,
+      "y": -354,
+      "parent": "#wv5sum"
+    },
+    {
+      "@id": "#6mr53x",
+      "name": "Founded by the Fatimids in 969",
+      "x": -34,
+      "y": -407,
+      "parent": "#wv5sum"
+    },
+    {
+      "@id": "#jhubs8",
+      "name": "Medieval Islamic Cairo of a thousand minarets",
+      "x": 120,
+      "y": -464,
+      "link": "https://en.wikipedia.org/wiki/Islamic_Cairo",
+      "parent": "#wv5sum"
+    },
+    {
+      "@id": "#xz6mst",
+      "name": "Under British control from 1882",
+      "x": 207,
+      "y": -320,
+      "parent": "#wv5sum"
+    },
+    {
+      "@id": "#h77622",
+      "name": "2011 Tahrir Square protests",
+      "x": 307,
+      "y": -263,
+      "link": "https://en.wikipedia.org/wiki/Egyptian_revolution_of_2011",
+      "parent": "#wv5sum"
+    },
+    {
+      "@id": "#msmies",
+      "name": "People",
+      "x": 221,
+      "y": -50,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b3uzp2",
+      "name": "Arabic-speaking, mostly Sunni Muslim",
+      "x": 384,
+      "y": -187,
+      "parent": "#msmies"
+    },
+    {
+      "@id": "#8jdsrc",
+      "name": "Large Coptic Christian minority",
+      "x": 452,
+      "y": -101,
+      "parent": "#msmies"
+    },
+    {
+      "@id": "#4n4u2q",
+      "name": "Al-Azhar, centre of Sunni scholarship",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Al-Azhar_University",
+      "parent": "#msmies"
+    },
+    {
+      "@id": "#3kxhnd",
+      "name": "Economy",
+      "x": 178,
+      "y": 116,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tdv5e6",
+      "name": "Egypt's hub for government and business",
+      "x": 452,
+      "y": 101,
+      "parent": "#3kxhnd"
+    },
+    {
+      "@id": "#84kvkk",
+      "name": "Tourism, media and manufacturing",
+      "x": 384,
+      "y": 187,
+      "parent": "#3kxhnd"
+    },
+    {
+      "@id": "#27sgzu",
+      "name": "Africa's first metro line, 1987",
+      "x": 307,
+      "y": 263,
+      "parent": "#3kxhnd"
+    },
+    {
+      "@id": "#fdpftv",
+      "name": "New Administrative Capital rising to the east",
+      "x": 207,
+      "y": 320,
+      "parent": "#3kxhnd"
+    },
+    {
+      "@id": "#rx7zaa",
+      "name": "Landmarks",
+      "x": -47,
+      "y": 180,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#74i7dd",
+      "name": "Pyramids of Giza and the Sphinx",
+      "x": 96,
+      "y": 368,
+      "link": "https://en.wikipedia.org/wiki/Giza_pyramid_complex",
+      "parent": "#rx7zaa"
+    },
+    {
+      "@id": "#iefdib",
+      "name": "Grand Egyptian Museum near Giza",
+      "x": -35,
+      "y": 423,
+      "parent": "#rx7zaa"
+    },
+    {
+      "@id": "#rd4q6w",
+      "name": "Citadel of Saladin",
+      "x": -214,
+      "y": 474,
+      "parent": "#rx7zaa"
+    },
+    {
+      "@id": "#5epf4y",
+      "name": "Khan el-Khalili bazaar",
+      "x": -260,
+      "y": 294,
+      "parent": "#rx7zaa"
+    },
+    {
+      "@id": "#2rirpy",
+      "name": "Culture",
+      "x": -211,
+      "y": 73,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jxxyc7",
+      "name": "Long the Arab world's film capital",
+      "x": -349,
+      "y": 227,
+      "parent": "#2rirpy"
+    },
+    {
+      "@id": "#mij8ic",
+      "name": "Singer Umm Kulthum's home city",
+      "x": -413,
+      "y": 143,
+      "parent": "#2rirpy"
+    },
+    {
+      "@id": "#bjwh37",
+      "name": "Naguib Mahfouz's novels set here",
+      "x": -446,
+      "y": 49,
+      "parent": "#2rirpy"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 6,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    },
+    {
+      "start": 26,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

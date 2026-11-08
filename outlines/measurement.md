@@ -1,0 +1,30 @@
+category: Science
+aliases: units of measurement, how measurement works, measuring things
+- Measurement
+  - What measuring means
+    - Comparing a quantity with a unit
+    - Result: a number times a unit
+    - Length, mass, time, temperature and more
+  - Units and standards
+    - [Metric SI used almost worldwide](https://en.wikipedia.org/wiki/International_System_of_Units)
+    - Imperial and US customary units
+    - Units now defined by physical constants
+  - History
+    - Early units from body parts
+    - Ancient Egypt's royal cubit
+    - Metric system born in 1790s France
+    - Metre Convention signed in 1875
+  - Measuring tools
+    - Rulers, tape measures and callipers
+    - Scales and balances for mass
+    - Atomic clocks are the most precise
+    - Thermometers for temperature
+  - Accuracy and error
+    - [Accuracy: closeness to the true value](https://en.wikipedia.org/wiki/Accuracy_and_precision)
+    - Precision: repeated readings agree
+    - [Every measurement has some uncertainty](https://en.wikipedia.org/wiki/Measurement_uncertainty)
+    - Calibrate against known standards
+  - Why it matters
+    - Fair trade needs agreed weights
+    - Science depends on comparable numbers
+    - [Mars Climate Orbiter lost to unit mix-up](https://en.wikipedia.org/wiki/Mars_Climate_Orbiter)

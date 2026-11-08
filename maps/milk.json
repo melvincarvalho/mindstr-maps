@@ -1,0 +1,318 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Milk",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#dehz2g",
+      "name": "What milk is",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c67tkr",
+      "name": "Mammals make it to feed young",
+      "x": -444,
+      "y": -56,
+      "parent": "#dehz2g"
+    },
+    {
+      "@id": "#sxz5a7",
+      "name": "About 87% water",
+      "x": -401,
+      "y": -163,
+      "parent": "#dehz2g"
+    },
+    {
+      "@id": "#sqfruy",
+      "name": "Protein, fat, lactose, calcium",
+      "x": -318,
+      "y": -255,
+      "parent": "#dehz2g"
+    },
+    {
+      "@id": "#awda4w",
+      "name": "Where it comes from",
+      "x": -36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v43i9v",
+      "name": "Mostly cows worldwide",
+      "x": -204,
+      "y": -321,
+      "parent": "#awda4w"
+    },
+    {
+      "@id": "#iycw9r",
+      "name": "Also buffalo, goats, sheep, camels",
+      "x": -73,
+      "y": -372,
+      "parent": "#awda4w"
+    },
+    {
+      "@id": "#bu9xun",
+      "name": "India is the largest producer",
+      "x": 82,
+      "y": -420,
+      "parent": "#awda4w"
+    },
+    {
+      "@id": "#fcsjne",
+      "name": "Processing",
+      "x": 186,
+      "y": -108,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kwjkqz",
+      "name": "Pasteurisation heats milk to kill germs",
+      "x": 204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Pasteurization",
+      "parent": "#fcsjne"
+    },
+    {
+      "@id": "#yt2z8r",
+      "name": "Homogenisation stops cream separating",
+      "x": 318,
+      "y": -255,
+      "parent": "#fcsjne"
+    },
+    {
+      "@id": "#rsctam",
+      "name": "Whole, semi-skimmed and skimmed",
+      "x": 401,
+      "y": -163,
+      "parent": "#fcsjne"
+    },
+    {
+      "@id": "#mcfsce",
+      "name": "UHT keeps for months unopened",
+      "x": 444,
+      "y": -56,
+      "parent": "#fcsjne"
+    },
+    {
+      "@id": "#8e9v7c",
+      "name": "Made from milk",
+      "x": 205,
+      "y": 84,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#s65df2",
+      "name": "Cheese from curdled milk",
+      "x": 444,
+      "y": 56,
+      "parent": "#8e9v7c"
+    },
+    {
+      "@id": "#jbzutk",
+      "name": "Yogurt fermented by bacteria",
+      "x": 401,
+      "y": 163,
+      "parent": "#8e9v7c"
+    },
+    {
+      "@id": "#peqss5",
+      "name": "Butter churned from cream",
+      "x": 318,
+      "y": 255,
+      "parent": "#8e9v7c"
+    },
+    {
+      "@id": "#qnewaw",
+      "name": "Milk and health",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b2capb",
+      "name": "Good source of calcium and protein",
+      "x": 204,
+      "y": 321,
+      "parent": "#qnewaw"
+    },
+    {
+      "@id": "#adehjz",
+      "name": "Most adults digest lactose poorly",
+      "x": 73,
+      "y": 372,
+      "link": "https://en.wikipedia.org/wiki/Lactose_intolerance",
+      "parent": "#qnewaw"
+    },
+    {
+      "@id": "#qx2fex",
+      "name": "Milk allergy is common in infants",
+      "x": -82,
+      "y": 420,
+      "parent": "#qnewaw"
+    },
+    {
+      "@id": "#rwwb7p",
+      "name": "Raw milk can carry harmful bacteria",
+      "x": -204,
+      "y": 321,
+      "parent": "#qnewaw"
+    },
+    {
+      "@id": "#s3dj9r",
+      "name": "Alternatives",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2ur5rm",
+      "name": "Plant milks: soy, oat, almond",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wikipedia.org/wiki/Plant_milk",
+      "parent": "#s3dj9r"
+    },
+    {
+      "@id": "#xz4asi",
+      "name": "Choose ones with added calcium",
+      "x": -401,
+      "y": 163,
+      "parent": "#s3dj9r"
+    },
+    {
+      "@id": "#dtrkbk",
+      "name": "Lactose-free cow's milk",
+      "x": -444,
+      "y": 56,
+      "parent": "#s3dj9r"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

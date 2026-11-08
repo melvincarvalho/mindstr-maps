@@ -1,0 +1,30 @@
+category: Society
+aliases: warfare, armed conflict, causes of war
+- War
+  - What war is
+    - Organised, sustained armed conflict between groups
+    - Interstate wars between countries
+    - [Civil wars within one country](https://en.wikipedia.org/wiki/Civil_war)
+    - Most conflicts since 1945 are civil wars
+  - [Common causes](https://en.wikipedia.org/wiki/Causes_of_war)
+    - Disputes over territory and resources
+    - Ethnic, religious or ideological divisions
+    - Weak states and political collapse
+    - Security fears and arms races
+  - Major wars in history
+    - [World War I, 1914–1918](https://en.wikipedia.org/wiki/World_War_I)
+    - World War II, 1939–1945: deadliest war
+    - Cold War proxy conflicts, 1947–1991
+  - [Laws of war](https://en.wikipedia.org/wiki/International_humanitarian_law)
+    - Geneva Conventions protect civilians and prisoners
+    - UN Charter outlaws aggression, allows self-defence
+    - War crimes tried by international courts
+  - Human costs
+    - Civilian deaths and injuries
+    - Refugees and displaced people
+    - Destroyed homes, economies and health systems
+    - Long-term trauma for survivors
+  - Ending and preventing war
+    - Ceasefires and peace treaties
+    - Diplomacy and mediation
+    - UN peacekeeping missions

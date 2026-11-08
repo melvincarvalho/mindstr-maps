@@ -1,0 +1,30 @@
+category: Life and home
+aliases: making friends, how to make friends, being a good friend
+- Friendship
+  - What friendship is
+    - Freely chosen bond of mutual affection
+    - Built on trust, loyalty and reciprocity
+    - Valued in every culture and era
+  - Why it matters
+    - Linked to better health and longevity
+    - [Loneliness harms wellbeing](https://en.wikipedia.org/wiki/Loneliness)
+    - Support through hard times
+  - Kinds of friends
+    - Close friends and best friends
+    - Casual friends and acquaintances
+    - Work, school and neighbourhood friends
+    - Online friends you may never meet
+  - Making friends
+    - Show up repeatedly in the same places
+    - Join clubs, classes or volunteering
+    - Ask questions and follow up
+    - Close friendships take many hours together
+  - Keeping friends
+    - Stay in touch regularly
+    - Listen and keep confidences
+    - Celebrate wins, help in hard times
+    - Apologise and repair after conflict
+  - Ideas about friendship
+    - [Aristotle's three kinds: utility, pleasure, virtue](https://en.wikipedia.org/wiki/Philia)
+    - [Dunbar's number: about 150 relationships](https://en.wikipedia.org/wiki/Dunbar%27s_number)
+    - Friendships change across life stages

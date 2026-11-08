@@ -1,0 +1,307 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Monarchy",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#brrskv",
+      "name": "What it is",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hecybz",
+      "name": "Head of state is a monarch",
+      "x": -444,
+      "y": -59,
+      "parent": "#brrskv"
+    },
+    {
+      "@id": "#xdv6dg",
+      "name": "Usually inherited within a royal family",
+      "x": -396,
+      "y": -171,
+      "parent": "#brrskv"
+    },
+    {
+      "@id": "#fzgznw",
+      "name": "Some are elected, like the Vatican",
+      "x": -305,
+      "y": -265,
+      "parent": "#brrskv"
+    },
+    {
+      "@id": "#m6uw9v",
+      "name": "Absolute monarchy",
+      "x": 19,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xmbt9w",
+      "name": "Ruler holds full power",
+      "x": -181,
+      "y": -330,
+      "parent": "#m6uw9v"
+    },
+    {
+      "@id": "#fzpscn",
+      "name": "Divine right of kings justified it",
+      "x": -41,
+      "y": -391,
+      "link": "https://en.wikipedia.org/wiki/Divine_right_of_kings",
+      "parent": "#m6uw9v"
+    },
+    {
+      "@id": "#vh4tw6",
+      "name": "Louis XIV of France as model",
+      "x": 140,
+      "y": -445,
+      "parent": "#m6uw9v"
+    },
+    {
+      "@id": "#rwm9bj",
+      "name": "Today Saudi Arabia, Brunei, Oman",
+      "x": 246,
+      "y": -301,
+      "parent": "#m6uw9v"
+    },
+    {
+      "@id": "#ncw4bd",
+      "name": "Constitutional monarchy",
+      "x": 218,
+      "y": -60,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#435dtd",
+      "name": "Monarch reigns but does not govern",
+      "x": 355,
+      "y": -221,
+      "parent": "#ncw4bd"
+    },
+    {
+      "@id": "#c87hkt",
+      "name": "Elected parliament holds real power",
+      "x": 426,
+      "y": -117,
+      "parent": "#ncw4bd"
+    },
+    {
+      "@id": "#jfxr55",
+      "name": "UK, Japan, Spain, Sweden, Netherlands",
+      "x": 450,
+      "y": 0,
+      "parent": "#ncw4bd"
+    },
+    {
+      "@id": "#yx8rgt",
+      "name": "Limiting royal power",
+      "x": 182,
+      "y": 113,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jmye9t",
+      "name": "Magna Carta, 1215",
+      "x": 426,
+      "y": 117,
+      "link": "https://en.wikipedia.org/wiki/Magna_Carta",
+      "parent": "#yx8rgt"
+    },
+    {
+      "@id": "#26kupc",
+      "name": "Glorious Revolution of 1688",
+      "x": 355,
+      "y": 221,
+      "link": "https://en.wikipedia.org/wiki/Glorious_Revolution",
+      "parent": "#yx8rgt"
+    },
+    {
+      "@id": "#nkrnwm",
+      "name": "French and Russian revolutions abolished monarchies",
+      "x": 246,
+      "y": 301,
+      "parent": "#yx8rgt"
+    },
+    {
+      "@id": "#gep6pz",
+      "name": "Arguments for",
+      "x": -19,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xzyqze",
+      "name": "Politically neutral, unifying head of state",
+      "x": 110,
+      "y": 349,
+      "parent": "#gep6pz"
+    },
+    {
+      "@id": "#38rrz4",
+      "name": "Continuity, tradition and national identity",
+      "x": -43,
+      "y": 407,
+      "parent": "#gep6pz"
+    },
+    {
+      "@id": "#5byhh9",
+      "name": "Tourism and soft power",
+      "x": -253,
+      "y": 465,
+      "parent": "#gep6pz"
+    },
+    {
+      "@id": "#haydcn",
+      "name": "Arguments against",
+      "x": -202,
+      "y": 88,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uiqzid",
+      "name": "Hereditary privilege conflicts with equality",
+      "x": -305,
+      "y": 265,
+      "parent": "#haydcn"
+    },
+    {
+      "@id": "#252tnk",
+      "name": "Cost to taxpayers",
+      "x": -396,
+      "y": 171,
+      "parent": "#haydcn"
+    },
+    {
+      "@id": "#a2js6x",
+      "name": "Republicans prefer an elected head",
+      "x": -484,
+      "y": 65,
+      "parent": "#haydcn"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

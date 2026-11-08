@@ -1,0 +1,30 @@
+category: Science
+aliases: biological inheritance, genetic inheritance, how traits are inherited
+- Heredity
+  - The basic idea
+    - Traits pass from parents to offspring
+    - Carried by genes in DNA
+    - Explains family resemblance
+  - Mendel's discoveries
+    - [Gregor Mendel bred peas, 1856–1863](https://en.wikipedia.org/wiki/Gregor_Mendel)
+    - [Law of segregation: alleles separate](https://en.wikipedia.org/wiki/Mendelian_inheritance)
+    - Independent assortment of different traits
+    - Ignored until rediscovered in 1900
+  - How it works in humans
+    - 23 chromosomes from each parent
+    - Meiosis halves chromosomes in eggs, sperm
+    - Crossing over mixes parental genes
+    - Sex chromosomes: XX or XY
+  - Inheritance patterns
+    - Dominant: one copy shows the trait
+    - Recessive: needs two copies
+    - [X-linked traits like colour blindness](https://en.wikipedia.org/wiki/Sex_linkage)
+    - Polygenic traits like height
+  - Beyond simple genes
+    - Mitochondrial DNA comes from the mother
+    - [Epigenetics: marks change gene activity](https://en.wikipedia.org/wiki/Epigenetics)
+    - Nature and nurture both matter
+  - Tools and uses
+    - Punnett squares predict offspring odds
+    - Family trees trace inherited conditions
+    - Genetic counselling for prospective parents

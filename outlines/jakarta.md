@@ -1,0 +1,33 @@
+category: Geography
+aliases: jakarta indonesia, dki jakarta, jabodetabek
+- Jakarta
+  - Setting
+    - Indonesia's largest city, northwest Java
+    - On the Java Sea coast
+    - City 11 million; metro over 30 million
+    - Parts sinking several centimetres a year
+  - History
+    - Port of Sunda Kelapa
+    - Renamed Jayakarta in 1527
+    - [Dutch founded Batavia here in 1619](https://en.wikipedia.org/wiki/Batavia,_Dutch_East_Indies)
+    - [Independence proclaimed here, 1945](https://en.wikipedia.org/wiki/Proclamation_of_Indonesian_Independence)
+    - Capital moving to Nusantara in Borneo
+  - People
+    - [Betawi, the native Jakartans](https://en.wikipedia.org/wiki/Betawi_people)
+    - Migrants from across the archipelago
+    - Mostly Muslim, with Christian minorities
+  - Economy
+    - Indonesia's business and finance hub
+    - Indonesia Stock Exchange
+    - First MRT line opened 2019
+    - Heavy traffic and air pollution
+  - Landmarks
+    - [Monas, the National Monument](https://en.wikipedia.org/wiki/National_Monument_%28Indonesia%29)
+    - Istiqlal Mosque, Southeast Asia's largest
+    - Jakarta Cathedral facing the mosque
+    - Kota Tua, the Dutch old town
+    - Thousand Islands offshore
+  - Culture
+    - Ondel-ondel giant puppets
+    - Kerak telor and Betawi food
+    - Jakarta Fair each June–July

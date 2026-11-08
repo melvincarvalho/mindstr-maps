@@ -1,0 +1,32 @@
+category: Arts and culture
+aliases: visual art forms, fine arts, art media
+- Visual arts
+  - The main media
+    - [Painting in oil, acrylic, watercolour](https://en.wikipedia.org/wiki/Painting)
+    - Drawing and printmaking
+    - Sculpture in stone, metal, clay
+    - Photography and film
+    - Digital art and installation
+  - Elements of art
+    - Line, shape and form
+    - Colour, value and texture
+    - Space and composition
+  - A short history
+    - Cave paintings over 40,000 years old
+    - Classical Greek and Roman sculpture
+    - [Renaissance perspective and realism](https://en.wikipedia.org/wiki/Renaissance_art)
+    - [Impressionism captures light, 1870s](https://en.wikipedia.org/wiki/Impressionism)
+    - Modern art: Cubism to abstraction
+    - Contemporary and conceptual art
+  - Landmark works
+    - Leonardo's Mona Lisa
+    - Michelangelo's Sistine Chapel ceiling
+    - Hokusai's The Great Wave
+    - Picasso's Guernica
+  - Where to see art
+    - Louvre, Met and British Museum
+    - Galleries, biennales and art fairs
+    - Public murals and street art
+  - Looking at art
+    - Notice what you see first
+    - Ask who made it, and why

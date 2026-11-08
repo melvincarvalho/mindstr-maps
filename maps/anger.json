@@ -1,0 +1,328 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Anger",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#77xku4",
+      "name": "What anger is",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#99yr3q",
+      "name": "Response to being wronged or blocked",
+      "x": -485,
+      "y": -58,
+      "parent": "#77xku4"
+    },
+    {
+      "@id": "#wb2cqv",
+      "name": "Ranges from irritation to rage",
+      "x": -405,
+      "y": -156,
+      "parent": "#77xku4"
+    },
+    {
+      "@id": "#y4eyzd",
+      "name": "A normal, healthy human emotion",
+      "x": -330,
+      "y": -245,
+      "parent": "#77xku4"
+    },
+    {
+      "@id": "#7nf8j2",
+      "name": "Why we have it",
+      "x": -51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kgs5sa",
+      "name": "Pushes us to defend ourselves",
+      "x": -225,
+      "y": -312,
+      "parent": "#7nf8j2"
+    },
+    {
+      "@id": "#mmuwqn",
+      "name": "Signals that a boundary was crossed",
+      "x": -104,
+      "y": -367,
+      "parent": "#7nf8j2"
+    },
+    {
+      "@id": "#fpp46c",
+      "name": "Can fuel fighting real injustice",
+      "x": 42,
+      "y": -423,
+      "parent": "#7nf8j2"
+    },
+    {
+      "@id": "#yewt2k",
+      "name": "What happens in the body",
+      "x": 179,
+      "y": -183,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8xx9ux",
+      "name": "Fight-or-flight: adrenaline surges",
+      "x": 234,
+      "y": -485,
+      "link": "https://en.wikipedia.org/wiki/Fight-or-flight_response",
+      "parent": "#yewt2k"
+    },
+    {
+      "@id": "#gantwr",
+      "name": "Heart races, muscles tense, face flushes",
+      "x": 281,
+      "y": -281,
+      "parent": "#yewt2k"
+    },
+    {
+      "@id": "#d53qgw",
+      "name": "Thinking narrows while anger peaks",
+      "x": 610,
+      "y": -329,
+      "parent": "#yewt2k"
+    },
+    {
+      "@id": "#2s6c2p",
+      "name": "Common triggers",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8bjehj",
+      "name": "Feeling unfairly treated or disrespected",
+      "x": 430,
+      "y": -106,
+      "parent": "#2s6c2p"
+    },
+    {
+      "@id": "#ifgdjt",
+      "name": "Frustration when goals are blocked",
+      "x": 510,
+      "y": 0,
+      "parent": "#2s6c2p"
+    },
+    {
+      "@id": "#wi674a",
+      "name": "Tiredness, hunger and stress lower tolerance",
+      "x": 430,
+      "y": 106,
+      "parent": "#2s6c2p"
+    },
+    {
+      "@id": "#27wzpn",
+      "name": "Healthy ways to handle it",
+      "x": 84,
+      "y": 171,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h6ikpf",
+      "name": "Pause and breathe slowly before responding",
+      "x": 406,
+      "y": 221,
+      "parent": "#27wzpn"
+    },
+    {
+      "@id": "#62ihyx",
+      "name": "Take a time-out and walk away",
+      "x": 281,
+      "y": 281,
+      "parent": "#27wzpn"
+    },
+    {
+      "@id": "#tv22t4",
+      "name": "Say how you feel with \"I\" statements",
+      "x": 164,
+      "y": 335,
+      "parent": "#27wzpn"
+    },
+    {
+      "@id": "#5dgtpu",
+      "name": "Solve the underlying problem later",
+      "x": 38,
+      "y": 391,
+      "parent": "#27wzpn"
+    },
+    {
+      "@id": "#i3t3x9",
+      "name": "Burn off tension with exercise",
+      "x": -124,
+      "y": 447,
+      "parent": "#27wzpn"
+    },
+    {
+      "@id": "#un237u",
+      "name": "When anger becomes a problem",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g4rsqn",
+      "name": "Shouting or venting often backfires",
+      "x": -225,
+      "y": 312,
+      "parent": "#un237u"
+    },
+    {
+      "@id": "#sprf8a",
+      "name": "Aggression, violence or damaged relationships",
+      "x": -330,
+      "y": 245,
+      "parent": "#un237u"
+    },
+    {
+      "@id": "#8s7j62",
+      "name": "Anger management courses teach skills",
+      "x": -405,
+      "y": 156,
+      "link": "https://en.wikipedia.org/wiki/Anger_management",
+      "parent": "#un237u"
+    },
+    {
+      "@id": "#p2zzjg",
+      "name": "See a doctor or therapist if overwhelming",
+      "x": -445,
+      "y": 54,
+      "parent": "#un237u"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 17,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

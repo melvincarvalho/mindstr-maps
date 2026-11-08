@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Agriculture",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ph74uz",
+      "name": "What it is",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j7mhaf",
+      "name": "Growing crops and raising animals",
+      "x": -465,
+      "y": -53,
+      "parent": "#ph74uz"
+    },
+    {
+      "@id": "#3d48cm",
+      "name": "For food, fibre, fuel and medicine",
+      "x": -409,
+      "y": -150,
+      "parent": "#ph74uz"
+    },
+    {
+      "@id": "#8pxnc6",
+      "name": "Uses about a third of land",
+      "x": -340,
+      "y": -236,
+      "parent": "#ph74uz"
+    },
+    {
+      "@id": "#wq42es",
+      "name": "Origins",
+      "x": -65,
+      "y": -177,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#epzpgs",
+      "name": "Began about 10,000 years ago",
+      "x": -243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Neolithic_Revolution",
+      "parent": "#wq42es"
+    },
+    {
+      "@id": "#wwxn7f",
+      "name": "Independently in several regions",
+      "x": -133,
+      "y": -360,
+      "parent": "#wq42es"
+    },
+    {
+      "@id": "#u53hmj",
+      "name": "Allowed towns, cities and states",
+      "x": 0,
+      "y": -408,
+      "parent": "#wq42es"
+    },
+    {
+      "@id": "#ixuaug",
+      "name": "What farms produce",
+      "x": 151,
+      "y": -139,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nfwrfb",
+      "name": "Cereals: wheat, rice, maize",
+      "x": 175,
+      "y": -465,
+      "parent": "#ixuaug"
+    },
+    {
+      "@id": "#kbvtj2",
+      "name": "Livestock: cattle, pigs, poultry",
+      "x": 243,
+      "y": -303,
+      "parent": "#ixuaug"
+    },
+    {
+      "@id": "#g7dwbw",
+      "name": "Fruit, vegetables and oilseeds",
+      "x": 340,
+      "y": -236,
+      "parent": "#ixuaug"
+    },
+    {
+      "@id": "#4e4z27",
+      "name": "Cotton, coffee and other cash crops",
+      "x": 445,
+      "y": -164,
+      "parent": "#ixuaug"
+    },
+    {
+      "@id": "#6qztt7",
+      "name": "How farming works",
+      "x": 221,
+      "y": 52,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qiby72",
+      "name": "Soil, water and sunlight",
+      "x": 445,
+      "y": -51,
+      "parent": "#6qztt7"
+    },
+    {
+      "@id": "#7b2wei",
+      "name": "Crop rotation keeps soil fertile",
+      "x": 505,
+      "y": 57,
+      "parent": "#6qztt7"
+    },
+    {
+      "@id": "#sd59eq",
+      "name": "Irrigation in dry regions",
+      "x": 409,
+      "y": 150,
+      "parent": "#6qztt7"
+    },
+    {
+      "@id": "#igmgci",
+      "name": "Subsistence versus commercial farming",
+      "x": 340,
+      "y": 236,
+      "parent": "#6qztt7"
+    },
+    {
+      "@id": "#ti2v6g",
+      "name": "Modern farming",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8r3i7r",
+      "name": "Green Revolution boosted yields from 1960s",
+      "x": 243,
+      "y": 303,
+      "link": "https://en.wikipedia.org/wiki/Green_Revolution",
+      "parent": "#ti2v6g"
+    },
+    {
+      "@id": "#fstm7h",
+      "name": "Fertilisers from the Haber process",
+      "x": 133,
+      "y": 360,
+      "link": "https://en.wikipedia.org/wiki/Haber_process",
+      "parent": "#ti2v6g"
+    },
+    {
+      "@id": "#5724ex",
+      "name": "Tractors, combines and precision tech",
+      "x": 0,
+      "y": 408,
+      "parent": "#ti2v6g"
+    },
+    {
+      "@id": "#bfw3mq",
+      "name": "Genetically modified crops",
+      "x": -175,
+      "y": 465,
+      "parent": "#ti2v6g"
+    },
+    {
+      "@id": "#a3ree6",
+      "name": "Challenges",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ejbk93",
+      "name": "Emits about a quarter of greenhouse gases",
+      "x": -243,
+      "y": 303,
+      "parent": "#a3ree6"
+    },
+    {
+      "@id": "#42kbpm",
+      "name": "Clears forests, drains water, erodes soil",
+      "x": -340,
+      "y": 236,
+      "parent": "#a3ree6"
+    },
+    {
+      "@id": "#smm24t",
+      "name": "Organic and sustainable alternatives",
+      "x": -409,
+      "y": 150,
+      "link": "https://en.wikipedia.org/wiki/Sustainable_agriculture",
+      "parent": "#a3ree6"
+    },
+    {
+      "@id": "#mhybit",
+      "name": "Feeding about 10 billion by 2050s",
+      "x": -445,
+      "y": 51,
+      "parent": "#a3ree6"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,27 @@
+category: History
+aliases: mesoamerican civilizations, ancient mesoamerica, mesoamerican cultures, mesoamerican civilisation
+- Mesoamerica
+  - Where and when
+    - Central Mexico to northern Costa Rica
+    - Preclassic, Classic and Postclassic periods
+    - Ended with Spanish conquest, 1521
+  - Major cultures
+    - [Olmecs carved colossal stone heads](https://en.wikipedia.org/wiki/Olmecs)
+    - [Teotihuacan built the Pyramid of the Sun](https://en.wikipedia.org/wiki/Teotihuacan)
+    - Zapotecs ruled from Monte Albán
+    - Maya city-states in the southeast
+    - [Aztecs ruled from Tenochtitlan](https://en.wikipedia.org/wiki/Aztecs)
+  - Shared traits
+    - Maize, beans and squash farming
+    - 260-day ritual and 365-day calendars
+    - Stepped pyramids and temple plazas
+    - [Ritual ballgame with rubber balls](https://en.wikipedia.org/wiki/Mesoamerican_ballgame)
+    - Maya script the most developed writing
+  - Religion
+    - Many gods, including the feathered serpent
+    - Human sacrifice and bloodletting rituals
+    - Cycles of creation and destruction
+  - Contact and legacy
+    - Cortés conquered the Aztecs, 1519–1521
+    - Nahuatl and Mayan languages still spoken
+    - Chocolate, tomatoes and chillies spread worldwide

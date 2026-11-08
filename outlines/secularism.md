@@ -1,0 +1,28 @@
+category: Philosophy and religion
+aliases: secular state, separation of church and state, secularist
+- Secularism
+  - Core idea
+    - Government separate from religious institutions
+    - Equal treatment of all beliefs
+    - Laws based on public, not religious, reasons
+    - Not the same as atheism
+  - Origins
+    - Wars of Religion pushed toleration in Europe
+    - [Locke's Letter Concerning Toleration (1689)](https://en.wikipedia.org/wiki/A_Letter_Concerning_Toleration)
+    - George Holyoake coined "secularism" in 1851
+  - National models
+    - [US First Amendment bans established religion](https://en.wikipedia.org/wiki/Establishment_Clause)
+    - [French laïcité keeps religion out of state](https://en.wikipedia.org/wiki/Laïcité)
+    - Turkey's state-managed secularism under Atatürk
+    - India's equal respect for all religions
+  - In practice
+    - Religion-neutral public schools
+    - Civil marriage alongside religious weddings
+    - Freedom to practise or change religion
+  - Debates
+    - Religious symbols in public places
+    - Faith schools and public funding
+    - Some countries keep official state churches
+  - Secularization
+    - Decline of religious practice in society
+    - Strong in Western Europe and East Asia

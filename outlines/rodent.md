@@ -1,0 +1,27 @@
+category: Science
+aliases: rodents, rodentia, gnawing mammals
+- Rodent
+  - What makes a rodent
+    - One pair of ever-growing incisors per jaw
+    - Gnawing keeps the teeth worn down
+    - No canines; a gap before cheek teeth
+  - Diversity
+    - About 40% of all mammal species
+    - Roughly 2,500 species
+    - [Capybara is the largest living rodent](https://en.wikipedia.org/wiki/Capybara)
+    - Smallest weigh only a few grams
+    - Every continent except Antarctica
+  - Main groups
+    - Mice, rats and hamsters
+    - Squirrels, chipmunks and marmots
+    - [Beavers build dams and lodges](https://en.wikipedia.org/wiki/Beaver)
+    - Porcupines, cavies and chinchillas
+  - Life and ecology
+    - Breed fast with large litters
+    - Key prey for owls, snakes and foxes
+    - Squirrels' forgotten seed caches plant trees
+  - Rodents and people
+    - [Lab mice used widely in research](https://en.wikipedia.org/wiki/Laboratory_mouse)
+    - Pets: hamsters, gerbils and guinea pigs
+    - Crop pests and spoiled food stores
+    - [Fleas on rats spread plague](https://en.wikipedia.org/wiki/Black_Death)

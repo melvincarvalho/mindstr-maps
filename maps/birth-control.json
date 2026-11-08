@@ -1,0 +1,352 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Birth control",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#u27a9x",
+      "name": "What it does",
+      "x": -197,
+      "y": -96,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3jy96p",
+      "name": "Prevents pregnancy after sex",
+      "x": -446,
+      "y": -49,
+      "parent": "#u27a9x"
+    },
+    {
+      "@id": "#s23jv2",
+      "name": "Stops sperm meeting an egg",
+      "x": -431,
+      "y": -149,
+      "parent": "#u27a9x"
+    },
+    {
+      "@id": "#uev9v5",
+      "name": "Or stops ovulation or implantation",
+      "x": -349,
+      "y": -227,
+      "parent": "#u27a9x"
+    },
+    {
+      "@id": "#brj2bf",
+      "name": "Only condoms also protect against STIs",
+      "x": -260,
+      "y": -294,
+      "parent": "#u27a9x"
+    },
+    {
+      "@id": "#nix5vp",
+      "name": "Long-acting reversible methods",
+      "x": 16,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5h5jp5",
+      "name": "Copper or hormonal IUD in the womb",
+      "x": -158,
+      "y": -354,
+      "link": "https://en.wikipedia.org/wiki/Intrauterine_device",
+      "parent": "#nix5vp"
+    },
+    {
+      "@id": "#q9nqbw",
+      "name": "Implant in the arm lasts years",
+      "x": -34,
+      "y": -407,
+      "parent": "#nix5vp"
+    },
+    {
+      "@id": "#jrvqsn",
+      "name": "Over 99% effective once in place",
+      "x": 120,
+      "y": -464,
+      "parent": "#nix5vp"
+    },
+    {
+      "@id": "#gezamn",
+      "name": "Fertility returns soon after removal",
+      "x": 216,
+      "y": -334,
+      "parent": "#nix5vp"
+    },
+    {
+      "@id": "#inprai",
+      "name": "Hormonal methods",
+      "x": 221,
+      "y": -50,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ksiru6",
+      "name": "Combined pill: oestrogen plus progestogen",
+      "x": 307,
+      "y": -263,
+      "link": "https://en.wikipedia.org/wiki/Combined_oral_contraceptive_pill",
+      "parent": "#inprai"
+    },
+    {
+      "@id": "#axmtcx",
+      "name": "Progestogen-only pill",
+      "x": 384,
+      "y": -187,
+      "parent": "#inprai"
+    },
+    {
+      "@id": "#3d42gv",
+      "name": "Injection every few months",
+      "x": 452,
+      "y": -101,
+      "parent": "#inprai"
+    },
+    {
+      "@id": "#9qdpcd",
+      "name": "Patch or vaginal ring",
+      "x": 450,
+      "y": 0,
+      "parent": "#inprai"
+    },
+    {
+      "@id": "#bmscbt",
+      "name": "About 91–93% with typical use",
+      "x": 433,
+      "y": 97,
+      "parent": "#inprai"
+    },
+    {
+      "@id": "#sfqh3m",
+      "name": "Barrier methods",
+      "x": 157,
+      "y": 134,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z5235d",
+      "name": "External condom, about 87% typical",
+      "x": 384,
+      "y": 187,
+      "link": "https://en.wikipedia.org/wiki/Condom",
+      "parent": "#sfqh3m"
+    },
+    {
+      "@id": "#xbtrfc",
+      "name": "Internal condom",
+      "x": 307,
+      "y": 263,
+      "parent": "#sfqh3m"
+    },
+    {
+      "@id": "#3mmutq",
+      "name": "Diaphragm or cap with spermicide",
+      "x": 207,
+      "y": 320,
+      "parent": "#sfqh3m"
+    },
+    {
+      "@id": "#zgsrq8",
+      "name": "Other options",
+      "x": -47,
+      "y": 180,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ni6xds",
+      "name": "Emergency contraception within days of sex",
+      "x": 96,
+      "y": 368,
+      "link": "https://en.wikipedia.org/wiki/Emergency_contraception",
+      "parent": "#zgsrq8"
+    },
+    {
+      "@id": "#rban6n",
+      "name": "Fertility awareness: tracking cycle signs",
+      "x": -35,
+      "y": 423,
+      "parent": "#zgsrq8"
+    },
+    {
+      "@id": "#pzdzij",
+      "name": "Withdrawal is least reliable",
+      "x": -214,
+      "y": 474,
+      "parent": "#zgsrq8"
+    },
+    {
+      "@id": "#ia23uw",
+      "name": "Vasectomy or tubal sterilisation is permanent",
+      "x": -260,
+      "y": 294,
+      "parent": "#zgsrq8"
+    },
+    {
+      "@id": "#jm4uds",
+      "name": "Choosing a method",
+      "x": -211,
+      "y": 73,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#498n75",
+      "name": "Typical use matters more than perfect",
+      "x": -349,
+      "y": 227,
+      "parent": "#jm4uds"
+    },
+    {
+      "@id": "#nat6n2",
+      "name": "Consider side effects and health conditions",
+      "x": -413,
+      "y": 143,
+      "parent": "#jm4uds"
+    },
+    {
+      "@id": "#paiuxc",
+      "name": "Ask a clinic, pharmacist or doctor",
+      "x": -506,
+      "y": 55,
+      "parent": "#jm4uds"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 11,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    },
+    {
+      "start": 26,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

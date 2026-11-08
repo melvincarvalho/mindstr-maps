@@ -1,0 +1,316 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Ibn Khaldun",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#dg52tb",
+      "name": "Who he was",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mh9gv7",
+      "name": "Arab Muslim scholar, 1332–1406",
+      "x": -445,
+      "y": -54,
+      "parent": "#dg52tb"
+    },
+    {
+      "@id": "#3cykd2",
+      "name": "Born in Tunis to an Andalusian family",
+      "x": -405,
+      "y": -156,
+      "parent": "#dg52tb"
+    },
+    {
+      "@id": "#kw9afs",
+      "name": "Historian, judge and statesman",
+      "x": -330,
+      "y": -245,
+      "parent": "#dg52tb"
+    },
+    {
+      "@id": "#qmw9v4",
+      "name": "Life",
+      "x": 17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5y7jbh",
+      "name": "Served rulers across North Africa and Granada",
+      "x": -225,
+      "y": -312,
+      "parent": "#qmw9v4"
+    },
+    {
+      "@id": "#bv3c6d",
+      "name": "Imprisoned and exiled amid court intrigues",
+      "x": -104,
+      "y": -367,
+      "parent": "#qmw9v4"
+    },
+    {
+      "@id": "#rer6h8",
+      "name": "Wrote at Qal'at Ibn Salama, 1375–1379",
+      "x": 42,
+      "y": -423,
+      "parent": "#qmw9v4"
+    },
+    {
+      "@id": "#wawmvv",
+      "name": "Maliki chief judge in Cairo",
+      "x": 234,
+      "y": -485,
+      "parent": "#qmw9v4"
+    },
+    {
+      "@id": "#9vnhcb",
+      "name": "Met Timur outside Damascus, 1401",
+      "x": 281,
+      "y": -281,
+      "parent": "#qmw9v4"
+    },
+    {
+      "@id": "#chd5uw",
+      "name": "The Muqaddimah",
+      "x": 227,
+      "y": -27,
+      "link": "https://en.wikipedia.org/wiki/Muqaddimah",
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wkhrjn",
+      "name": "Introduction to his universal history",
+      "x": 372,
+      "y": -203,
+      "parent": "#chd5uw"
+    },
+    {
+      "@id": "#u6rbu2",
+      "name": "Seeks laws behind historical events",
+      "x": 430,
+      "y": -106,
+      "parent": "#chd5uw"
+    },
+    {
+      "@id": "#tshgr8",
+      "name": "Criticises uncritical repeating of sources",
+      "x": 550,
+      "y": 0,
+      "parent": "#chd5uw"
+    },
+    {
+      "@id": "#ff4u2t",
+      "name": "Kitab al-Ibar: history of Arabs, Berbers",
+      "x": 430,
+      "y": 106,
+      "parent": "#chd5uw"
+    },
+    {
+      "@id": "#832yrr",
+      "name": "Key ideas",
+      "x": 84,
+      "y": 171,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#in4dwu",
+      "name": "Asabiyya: group solidarity drives power",
+      "x": 372,
+      "y": 203,
+      "link": "https://en.wikipedia.org/wiki/Asabiyyah",
+      "parent": "#832yrr"
+    },
+    {
+      "@id": "#xuvbuq",
+      "name": "Dynasties rise and fall over generations",
+      "x": 281,
+      "y": 281,
+      "parent": "#832yrr"
+    },
+    {
+      "@id": "#u7hnb3",
+      "name": "Nomads conquer, then soften in cities",
+      "x": 164,
+      "y": 335,
+      "parent": "#832yrr"
+    },
+    {
+      "@id": "#b7d6fq",
+      "name": "Too-high taxes shrink the economy",
+      "x": 38,
+      "y": 391,
+      "parent": "#832yrr"
+    },
+    {
+      "@id": "#mksxi8",
+      "name": "Labour as the source of value",
+      "x": -124,
+      "y": 447,
+      "parent": "#832yrr"
+    },
+    {
+      "@id": "#u4pqvy",
+      "name": "Legacy",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ed2pzp",
+      "name": "Called a forerunner of sociology",
+      "x": -225,
+      "y": 312,
+      "parent": "#u4pqvy"
+    },
+    {
+      "@id": "#cmnxfd",
+      "name": "Early thinker in economics and historiography",
+      "x": -330,
+      "y": 245,
+      "parent": "#u4pqvy"
+    },
+    {
+      "@id": "#gb5wp6",
+      "name": "Admired by Toynbee and modern scholars",
+      "x": -405,
+      "y": 156,
+      "parent": "#u4pqvy"
+    },
+    {
+      "@id": "#2qa2wn",
+      "name": "Reagan and others cited his tax idea",
+      "x": -445,
+      "y": 54,
+      "parent": "#u4pqvy"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 16,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

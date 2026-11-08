@@ -1,0 +1,32 @@
+category: Geography
+aliases: australasia and oceania, oceania region, pacific islands region
+- Oceania
+  - Geography
+    - Australia, New Zealand and Pacific islands
+    - Spans much of the Pacific Ocean
+    - About 8.5 million km² of land
+    - 14 sovereign states
+  - Subregions
+    - Australasia: Australia and New Zealand
+    - [Melanesia includes Papua New Guinea, Fiji](https://en.wikipedia.org/wiki/Melanesia)
+    - [Micronesia: small islands north](https://en.wikipedia.org/wiki/Micronesia)
+    - Polynesia: Samoa, Tonga, Hawaii
+  - Nature
+    - Unique marsupials like kangaroos
+    - [Great Barrier Reef off Queensland](https://en.wikipedia.org/wiki/Great_Barrier_Reef)
+    - Coral atolls and volcanic islands
+    - Sea-level rise threatens low atolls
+  - People and languages
+    - About 45 million people
+    - Over 1,000 languages, many in PNG
+    - English most widely spoken
+    - Aboriginal Australians, Māori, Pacific Islanders
+  - History in brief
+    - Aboriginal Australians arrived 50,000+ years ago
+    - [Austronesian voyagers settled remote islands](https://en.wikipedia.org/wiki/Austronesian_peoples)
+    - European colonisation from 1700s
+    - Most nations independent by 1980s
+  - Economy and ties
+    - Mining, farming and tourism
+    - Fishing and aid in small islands
+    - Pacific Islands Forum links governments

@@ -1,0 +1,29 @@
+category: Technology
+aliases: magnetic compass, how a compass works, compass directions
+- Compass
+  - How it works
+    - Magnetised needle swings freely
+    - Aligns with Earth's magnetic field
+    - Red end points to magnetic north
+  - North isn't simple
+    - Magnetic north differs from true north
+    - [Declination is the angle between them](https://en.wikipedia.org/wiki/Magnetic_declination)
+    - Magnetic pole slowly drifts each year
+    - Iron and electronics can deflect needle
+  - History
+    - [Chinese lodestone spoons, about 2,000 years ago](https://en.wikipedia.org/wiki/Lodestone)
+    - Used at sea in China by 1000s
+    - Reached Europe by about 1200
+    - Opened ocean voyages of exploration
+  - Kinds of compass
+    - Baseplate compass for hiking with maps
+    - [Gyrocompass finds true north by spinning](https://en.wikipedia.org/wiki/Gyrocompass)
+    - Phones use electronic magnetometers
+  - Using one
+    - Hold flat, away from metal
+    - Turn bezel to set a bearing
+    - Follow the direction-of-travel arrow
+  - The points
+    - North, east, south, west
+    - 360 degrees, north is zero
+    - [Compass rose shows 32 points](https://en.wikipedia.org/wiki/Compass_rose)

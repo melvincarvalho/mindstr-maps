@@ -1,0 +1,29 @@
+category: People
+aliases: ibn sina, abu ali ibn sina, avicenna philosopher
+- Avicenna
+  - Life
+    - Born about 980 near Bukhara
+    - Persian polymath, wrote mostly in Arabic
+    - Treated the Samanid emir as a teenager
+    - Physician and vizier in Hamadan
+    - Died 1037 in Hamadan
+  - [The Canon of Medicine](https://en.wikipedia.org/wiki/The_Canon_of_Medicine)
+    - Five-book medical encyclopedia, finished 1025
+    - Combined Galen, Aristotle and own observation
+    - Discussed contagion and quarantine
+    - European medical textbook into the 1600s
+  - Philosophy
+    - [The Book of Healing, a scientific encyclopedia](https://en.wikipedia.org/wiki/The_Book_of_Healing)
+    - Built on Aristotle and Neoplatonism
+    - [Floating man thought experiment](https://en.wikipedia.org/wiki/Floating_man)
+    - Distinguished essence from existence
+    - Argued God is the Necessary Existent
+  - Other sciences
+    - Astronomy, physics, geology and music
+    - Doubted alchemists could transmute metals
+    - Wrote poetry in Arabic and Persian
+  - Legacy
+    - Latinised as Avicenna in medieval Europe
+    - Influenced Aquinas and scholastic thinkers
+    - Al-Ghazali attacked his philosophy
+    - Mausoleum in Hamadan, Iran

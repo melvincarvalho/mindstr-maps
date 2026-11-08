@@ -1,0 +1,353 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "European Union",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#uh7i6u",
+      "name": "What it is",
+      "x": -211,
+      "y": -73,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jhuu82",
+      "name": "Political and economic union of 27 countries",
+      "x": -506,
+      "y": -55,
+      "parent": "#uh7i6u"
+    },
+    {
+      "@id": "#95kakg",
+      "name": "About 450 million people",
+      "x": -413,
+      "y": -143,
+      "parent": "#uh7i6u"
+    },
+    {
+      "@id": "#gut2cn",
+      "name": "Shared laws in many policy areas",
+      "x": -349,
+      "y": -227,
+      "parent": "#uh7i6u"
+    },
+    {
+      "@id": "#scxydd",
+      "name": "How it began",
+      "x": -47,
+      "y": -180,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rmuy2b",
+      "name": "Coal and Steel Community, 1951",
+      "x": -260,
+      "y": -294,
+      "parent": "#scxydd"
+    },
+    {
+      "@id": "#vikxf9",
+      "name": "Treaty of Rome, 1957",
+      "x": -158,
+      "y": -354,
+      "link": "https://en.wikipedia.org/wiki/Treaty_of_Rome",
+      "parent": "#scxydd"
+    },
+    {
+      "@id": "#kjiv7p",
+      "name": "Maastricht Treaty created the EU, 1993",
+      "x": -34,
+      "y": -407,
+      "link": "https://en.wikipedia.org/wiki/Maastricht_Treaty",
+      "parent": "#scxydd"
+    },
+    {
+      "@id": "#7acdyv",
+      "name": "Big eastward enlargement in 2004",
+      "x": 120,
+      "y": -464,
+      "parent": "#scxydd"
+    },
+    {
+      "@id": "#j4s9ez",
+      "name": "Institutions",
+      "x": 197,
+      "y": -96,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kyf2pj",
+      "name": "European Commission proposes laws",
+      "x": 207,
+      "y": -320,
+      "link": "https://en.wikipedia.org/wiki/European_Commission",
+      "parent": "#j4s9ez"
+    },
+    {
+      "@id": "#cuzrnq",
+      "name": "European Parliament elected every five years",
+      "x": 307,
+      "y": -263,
+      "parent": "#j4s9ez"
+    },
+    {
+      "@id": "#2fnxik",
+      "name": "Council of the EU represents governments",
+      "x": 384,
+      "y": -187,
+      "parent": "#j4s9ez"
+    },
+    {
+      "@id": "#a3skjc",
+      "name": "Court of Justice interprets EU law",
+      "x": 471,
+      "y": -105,
+      "parent": "#j4s9ez"
+    },
+    {
+      "@id": "#apahqx",
+      "name": "European Central Bank runs the euro",
+      "x": 450,
+      "y": 0,
+      "parent": "#j4s9ez"
+    },
+    {
+      "@id": "#8zqgtx",
+      "name": "Single market",
+      "x": 178,
+      "y": 116,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kfnxv3",
+      "name": "Free movement of goods and services",
+      "x": 452,
+      "y": 101,
+      "parent": "#8zqgtx"
+    },
+    {
+      "@id": "#ex2xvr",
+      "name": "Free movement of capital and people",
+      "x": 384,
+      "y": 187,
+      "parent": "#8zqgtx"
+    },
+    {
+      "@id": "#pxaavd",
+      "name": "Schengen Area removes border checks",
+      "x": 307,
+      "y": 263,
+      "parent": "#8zqgtx"
+    },
+    {
+      "@id": "#3q8h8b",
+      "name": "The euro, used by 21 members",
+      "x": 207,
+      "y": 320,
+      "link": "https://en.wikipedia.org/wiki/Euro",
+      "parent": "#8zqgtx"
+    },
+    {
+      "@id": "#tg48hf",
+      "name": "Key policies",
+      "x": -16,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#439h7c",
+      "name": "Common trade policy with the world",
+      "x": 96,
+      "y": 368,
+      "parent": "#tg48hf"
+    },
+    {
+      "@id": "#eu6kea",
+      "name": "Farm subsidies and regional funds",
+      "x": -35,
+      "y": 423,
+      "parent": "#tg48hf"
+    },
+    {
+      "@id": "#v8whs9",
+      "name": "Climate goals and environmental rules",
+      "x": -214,
+      "y": 474,
+      "parent": "#tg48hf"
+    },
+    {
+      "@id": "#rd7s8s",
+      "name": "Debates",
+      "x": -197,
+      "y": 96,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#653j2j",
+      "name": "Brexit: UK left in 2020",
+      "x": -260,
+      "y": 294,
+      "link": "https://en.wikipedia.org/wiki/Brexit",
+      "parent": "#rd7s8s"
+    },
+    {
+      "@id": "#n757t8",
+      "name": "Critics cite a democratic deficit",
+      "x": -349,
+      "y": 227,
+      "parent": "#rd7s8s"
+    },
+    {
+      "@id": "#qxuch8",
+      "name": "Supporters credit peace and prosperity",
+      "x": -431,
+      "y": 149,
+      "parent": "#rd7s8s"
+    },
+    {
+      "@id": "#py77zy",
+      "name": "Candidates include Ukraine and Balkan states",
+      "x": -486,
+      "y": 53,
+      "parent": "#rd7s8s"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 10,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    },
+    {
+      "start": 25,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

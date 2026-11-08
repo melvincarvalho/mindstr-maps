@@ -1,0 +1,320 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Morality",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#xbsabc",
+      "name": "What morality is",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pp4w4b",
+      "name": "Shared rules about right and wrong",
+      "x": -484,
+      "y": -60,
+      "parent": "#xbsabc"
+    },
+    {
+      "@id": "#2unhvg",
+      "name": "Differs from law and etiquette",
+      "x": -401,
+      "y": -163,
+      "parent": "#xbsabc"
+    },
+    {
+      "@id": "#9b52te",
+      "name": "Applies even when nobody is watching",
+      "x": -318,
+      "y": -255,
+      "parent": "#xbsabc"
+    },
+    {
+      "@id": "#zajtv4",
+      "name": "Where it comes from",
+      "x": -36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#srkaxt",
+      "name": "Evolution favoured cooperation and empathy",
+      "x": -204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Evolution_of_morality",
+      "parent": "#zajtv4"
+    },
+    {
+      "@id": "#k63jdk",
+      "name": "Parents, culture and religion teach it",
+      "x": -73,
+      "y": -372,
+      "parent": "#zajtv4"
+    },
+    {
+      "@id": "#4rs4ke",
+      "name": "Young children already notice unfairness",
+      "x": 82,
+      "y": -420,
+      "parent": "#zajtv4"
+    },
+    {
+      "@id": "#nr75yj",
+      "name": "Values found almost everywhere",
+      "x": 186,
+      "y": -108,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hmufnt",
+      "name": "Don't harm the innocent",
+      "x": 204,
+      "y": -321,
+      "parent": "#nr75yj"
+    },
+    {
+      "@id": "#39tqke",
+      "name": "Be fair and keep promises",
+      "x": 318,
+      "y": -255,
+      "parent": "#nr75yj"
+    },
+    {
+      "@id": "#cktejw",
+      "name": "Golden Rule appears across cultures",
+      "x": 401,
+      "y": -163,
+      "link": "https://en.wikipedia.org/wiki/Golden_Rule",
+      "parent": "#nr75yj"
+    },
+    {
+      "@id": "#bc33g3",
+      "name": "Loyalty, authority and purity vary more",
+      "x": 444,
+      "y": -56,
+      "parent": "#nr75yj"
+    },
+    {
+      "@id": "#9x9qay",
+      "name": "How we actually judge",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#92isah",
+      "name": "Quick gut feelings usually come first",
+      "x": 444,
+      "y": 56,
+      "parent": "#9x9qay"
+    },
+    {
+      "@id": "#jz2z25",
+      "name": "Reasoning often justifies them afterwards",
+      "x": 401,
+      "y": 163,
+      "parent": "#9x9qay"
+    },
+    {
+      "@id": "#g363yh",
+      "name": "Moral foundations theory maps six intuitions",
+      "x": 318,
+      "y": 255,
+      "link": "https://en.wikipedia.org/wiki/Moral_foundations_theory",
+      "parent": "#9x9qay"
+    },
+    {
+      "@id": "#2n8cf4",
+      "name": "Guilt, shame and blame enforce norms",
+      "x": 204,
+      "y": 321,
+      "parent": "#9x9qay"
+    },
+    {
+      "@id": "#akwp2m",
+      "name": "Is morality objective?",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mbtti2",
+      "name": "Realism: some acts are truly wrong",
+      "x": 73,
+      "y": 372,
+      "parent": "#akwp2m"
+    },
+    {
+      "@id": "#r9gsui",
+      "name": "Relativism: right depends on culture",
+      "x": -82,
+      "y": 420,
+      "link": "https://en.wikipedia.org/wiki/Moral_relativism",
+      "parent": "#akwp2m"
+    },
+    {
+      "@id": "#7y9nwt",
+      "name": "Nihilism: there are no moral facts",
+      "x": -204,
+      "y": 321,
+      "parent": "#akwp2m"
+    },
+    {
+      "@id": "#7p5s7i",
+      "name": "Hard everyday cases",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fbzjw6",
+      "name": "Lying to spare someone's feelings",
+      "x": -318,
+      "y": 255,
+      "parent": "#7p5s7i"
+    },
+    {
+      "@id": "#mk3ehq",
+      "name": "Keeping cash from a found wallet",
+      "x": -401,
+      "y": 163,
+      "parent": "#7p5s7i"
+    },
+    {
+      "@id": "#j2ghig",
+      "name": "Trolley problem: one life for five",
+      "x": -504,
+      "y": 62,
+      "link": "https://en.wikipedia.org/wiki/Trolley_problem",
+      "parent": "#7p5s7i"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

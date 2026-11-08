@@ -1,0 +1,328 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Jupiter",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#s7ebig",
+      "name": "Size and orbit",
+      "x": -174,
+      "y": -120,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hrbku9",
+      "name": "Fifth planet, the largest",
+      "x": -445,
+      "y": -51,
+      "parent": "#s7ebig"
+    },
+    {
+      "@id": "#n88uc8",
+      "name": "About 11 times Earth's diameter",
+      "x": -445,
+      "y": -164,
+      "parent": "#s7ebig"
+    },
+    {
+      "@id": "#pp6pw7",
+      "name": "More massive than all others combined",
+      "x": -340,
+      "y": -236,
+      "parent": "#s7ebig"
+    },
+    {
+      "@id": "#6ydvcu",
+      "name": "About 778 million km from the Sun",
+      "x": -243,
+      "y": -303,
+      "parent": "#s7ebig"
+    },
+    {
+      "@id": "#7v7kz2",
+      "name": "Year of about 12 Earth years",
+      "x": -133,
+      "y": -360,
+      "parent": "#s7ebig"
+    },
+    {
+      "@id": "#8w69kp",
+      "name": "A gas giant",
+      "x": 96,
+      "y": -167,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sa5rkb",
+      "name": "Mostly hydrogen and helium",
+      "x": 0,
+      "y": -408,
+      "parent": "#8w69kp"
+    },
+    {
+      "@id": "#rhe8k8",
+      "name": "No solid surface",
+      "x": 127,
+      "y": -345,
+      "parent": "#8w69kp"
+    },
+    {
+      "@id": "#yqjpjt",
+      "name": "Day under 10 hours, fastest spin",
+      "x": 320,
+      "y": -394,
+      "parent": "#8w69kp"
+    },
+    {
+      "@id": "#jcs3ka",
+      "name": "Powerful magnetic field and radiation belts",
+      "x": 340,
+      "y": -236,
+      "parent": "#8w69kp"
+    },
+    {
+      "@id": "#jf4c4f",
+      "name": "Weather",
+      "x": 228,
+      "y": -26,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rsiaum",
+      "name": "Coloured bands of cloud",
+      "x": 409,
+      "y": -150,
+      "parent": "#jf4c4f"
+    },
+    {
+      "@id": "#ymigit",
+      "name": "Great Red Spot, a centuries-old storm",
+      "x": 505,
+      "y": -57,
+      "link": "https://en.wikipedia.org/wiki/Great_Red_Spot",
+      "parent": "#jf4c4f"
+    },
+    {
+      "@id": "#srf3tn",
+      "name": "Lightning and ammonia clouds",
+      "x": 445,
+      "y": 51,
+      "parent": "#jf4c4f"
+    },
+    {
+      "@id": "#s7f8tt",
+      "name": "Moons and rings",
+      "x": 96,
+      "y": 167,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3ehwmt",
+      "name": "Around 95 known moons",
+      "x": 409,
+      "y": 150,
+      "parent": "#s7f8tt"
+    },
+    {
+      "@id": "#u7jq6f",
+      "name": "Four Galilean moons found in 1610",
+      "x": 340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/Galilean_moons",
+      "parent": "#s7f8tt"
+    },
+    {
+      "@id": "#4qkdkq",
+      "name": "Io, the most volcanic world known",
+      "x": 243,
+      "y": 303,
+      "parent": "#s7f8tt"
+    },
+    {
+      "@id": "#gqi3ma",
+      "name": "Europa has an ocean under ice",
+      "x": 133,
+      "y": 360,
+      "parent": "#s7f8tt"
+    },
+    {
+      "@id": "#4kzepk",
+      "name": "Ganymede, largest moon in Solar System",
+      "x": 0,
+      "y": 408,
+      "parent": "#s7f8tt"
+    },
+    {
+      "@id": "#axpa3f",
+      "name": "Faint dusty rings",
+      "x": -127,
+      "y": 345,
+      "parent": "#s7f8tt"
+    },
+    {
+      "@id": "#grmd8e",
+      "name": "Exploration",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kd83jb",
+      "name": "Pioneer and Voyager flybys in 1970s",
+      "x": -375,
+      "y": 459,
+      "parent": "#grmd8e"
+    },
+    {
+      "@id": "#t259vf",
+      "name": "Galileo orbiter, 1995-2003",
+      "x": -340,
+      "y": 236,
+      "parent": "#grmd8e"
+    },
+    {
+      "@id": "#x3emmj",
+      "name": "Juno orbiting since 2016",
+      "x": -409,
+      "y": 150,
+      "parent": "#grmd8e"
+    },
+    {
+      "@id": "#ke3yhq",
+      "name": "Juice and Europa Clipper on the way",
+      "x": -445,
+      "y": 51,
+      "link": "https://en.wikipedia.org/wiki/Europa_Clipper",
+      "parent": "#grmd8e"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 7,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 16,
+      "end": 21
+    },
+    {
+      "start": 16,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Great Depression",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#hq4ze7",
+      "name": "How it started",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9tw739",
+      "name": "Wall Street Crash, October 1929",
+      "x": -485,
+      "y": -58,
+      "link": "https://en.wikipedia.org/wiki/Wall_Street_crash_of_1929",
+      "parent": "#hq4ze7"
+    },
+    {
+      "@id": "#2p5i7g",
+      "name": "Thousands of US banks failed",
+      "x": -405,
+      "y": -156,
+      "parent": "#hq4ze7"
+    },
+    {
+      "@id": "#k8tywi",
+      "name": "Spending and lending collapsed",
+      "x": -330,
+      "y": -245,
+      "parent": "#hq4ze7"
+    },
+    {
+      "@id": "#yi5q9h",
+      "name": "Why it spread worldwide",
+      "x": -51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jvqa4j",
+      "name": "Gold standard transmitted deflation",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Gold_standard",
+      "parent": "#yi5q9h"
+    },
+    {
+      "@id": "#4tzk9n",
+      "name": "Tariffs like Smoot–Hawley choked trade",
+      "x": -104,
+      "y": -367,
+      "parent": "#yi5q9h"
+    },
+    {
+      "@id": "#m5iitg",
+      "name": "US loans to Europe dried up",
+      "x": 42,
+      "y": -423,
+      "parent": "#yi5q9h"
+    },
+    {
+      "@id": "#nykeav",
+      "name": "How bad it got",
+      "x": 169,
+      "y": -125,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fk49qr",
+      "name": "US unemployment about 25% by 1933",
+      "x": 234,
+      "y": -485,
+      "parent": "#nykeav"
+    },
+    {
+      "@id": "#ishkm5",
+      "name": "US output fell about a quarter",
+      "x": 281,
+      "y": -281,
+      "parent": "#nykeav"
+    },
+    {
+      "@id": "#pc7kvs",
+      "name": "World trade fell by over half",
+      "x": 372,
+      "y": -203,
+      "parent": "#nykeav"
+    },
+    {
+      "@id": "#hbubke",
+      "name": "Germany's unemployment passed six million",
+      "x": 468,
+      "y": -116,
+      "parent": "#nykeav"
+    },
+    {
+      "@id": "#uf444u",
+      "name": "Daily life",
+      "x": 220,
+      "y": 54,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#29gxta",
+      "name": "Breadlines, soup kitchens and shantytowns",
+      "x": 450,
+      "y": 0,
+      "parent": "#uf444u"
+    },
+    {
+      "@id": "#adjcub",
+      "name": "Dust Bowl drove farmers from Plains",
+      "x": 430,
+      "y": 106,
+      "link": "https://en.wikipedia.org/wiki/Dust_Bowl",
+      "parent": "#uf444u"
+    },
+    {
+      "@id": "#pej78y",
+      "name": "Hunger marches, like Jarrow 1936",
+      "x": 372,
+      "y": 203,
+      "parent": "#uf444u"
+    },
+    {
+      "@id": "#qe3wca",
+      "name": "Responses",
+      "x": 51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hvkwsf",
+      "name": "Britain left gold standard 1931",
+      "x": 281,
+      "y": 281,
+      "parent": "#qe3wca"
+    },
+    {
+      "@id": "#g9sy2j",
+      "name": "Roosevelt's New Deal from 1933",
+      "x": 164,
+      "y": 335,
+      "link": "https://en.wikipedia.org/wiki/New_Deal",
+      "parent": "#qe3wca"
+    },
+    {
+      "@id": "#z5ujbt",
+      "name": "Public works and relief jobs",
+      "x": 38,
+      "y": 391,
+      "parent": "#qe3wca"
+    },
+    {
+      "@id": "#ezeess",
+      "name": "Keynes argued for government spending",
+      "x": -124,
+      "y": 447,
+      "link": "https://en.wikipedia.org/wiki/Keynesian_economics",
+      "parent": "#qe3wca"
+    },
+    {
+      "@id": "#wwkws5",
+      "name": "Consequences",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cy5qek",
+      "name": "Helped Nazis win power in Germany",
+      "x": -225,
+      "y": 312,
+      "parent": "#wwkws5"
+    },
+    {
+      "@id": "#83yd7u",
+      "name": "Recovery completed by wartime rearmament",
+      "x": -330,
+      "y": 245,
+      "parent": "#wwkws5"
+    },
+    {
+      "@id": "#83ehbu",
+      "name": "Social Security and deposit insurance created",
+      "x": -405,
+      "y": 156,
+      "parent": "#wwkws5"
+    },
+    {
+      "@id": "#phz3sx",
+      "name": "Shaped the post-war Bretton Woods system",
+      "x": -445,
+      "y": 54,
+      "parent": "#wwkws5"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

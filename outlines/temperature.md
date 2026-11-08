@@ -1,0 +1,27 @@
+category: Science
+aliases: temperature scales, what is temperature, measuring temperature
+- Temperature
+  - What temperature measures
+    - Average energy of moving particles
+    - Decides which way heat flows
+    - Hot and cold are relative feelings
+  - Temperature scales
+    - [Celsius: water freezes 0, boils 100](https://en.wikipedia.org/wiki/Celsius)
+    - Fahrenheit: freezes 32, boils 212
+    - [Kelvin starts at absolute zero](https://en.wikipedia.org/wiki/Kelvin)
+  - Thermometers
+    - Galileo's early thermoscope, about 1600
+    - Mercury and alcohol expand when heated
+    - Digital sensors and infrared guns
+  - Extremes
+    - [Absolute zero: −273.15 °C](https://en.wikipedia.org/wiki/Absolute_zero)
+    - Space background is about 2.7 K
+    - Sun's surface about 5,500 °C
+    - Lightning heats air to about 30,000 °C
+  - Temperature and living things
+    - Healthy human body about 37 °C
+    - Fever helps fight infection
+    - Hypothermia and heatstroke are dangerous
+  - Temperature in everyday life
+    - [Weather forecasts and wind chill](https://en.wikipedia.org/wiki/Wind_chill)
+    - Cooking needs food safely heated

@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Paper",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#y3kw8e",
+      "name": "What paper is",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#feez6a",
+      "name": "A mat of plant cellulose fibres",
+      "x": -465,
+      "y": -53,
+      "parent": "#y3kw8e"
+    },
+    {
+      "@id": "#s2mkmn",
+      "name": "Fibres bond as the water dries",
+      "x": -409,
+      "y": -150,
+      "parent": "#y3kw8e"
+    },
+    {
+      "@id": "#p5xki4",
+      "name": "Named after Egyptian papyrus",
+      "x": -340,
+      "y": -236,
+      "link": "https://en.wikipedia.org/wiki/Papyrus",
+      "parent": "#y3kw8e"
+    },
+    {
+      "@id": "#gn89yc",
+      "name": "Invention and spread",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t5xawv",
+      "name": "Cai Lun improved papermaking, 105 AD",
+      "x": -243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Cai_Lun",
+      "parent": "#gn89yc"
+    },
+    {
+      "@id": "#mwryga",
+      "name": "Early paper from bark, hemp and rags",
+      "x": -133,
+      "y": -360,
+      "parent": "#gn89yc"
+    },
+    {
+      "@id": "#xr3bjn",
+      "name": "Reached Samarkand and Baghdad by 800",
+      "x": 0,
+      "y": -408,
+      "parent": "#gn89yc"
+    },
+    {
+      "@id": "#gmfurk",
+      "name": "Reached Europe by the 12th century",
+      "x": 175,
+      "y": -465,
+      "parent": "#gn89yc"
+    },
+    {
+      "@id": "#i4cht6",
+      "name": "How it's made",
+      "x": 209,
+      "y": -76,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bwxbqy",
+      "name": "Logs chipped and turned into pulp",
+      "x": 243,
+      "y": -303,
+      "parent": "#i4cht6"
+    },
+    {
+      "@id": "#xjbi9w",
+      "name": "Chemical pulping removes lignin",
+      "x": 340,
+      "y": -236,
+      "link": "https://en.wikipedia.org/wiki/Pulp_%28paper%29",
+      "parent": "#i4cht6"
+    },
+    {
+      "@id": "#hxctqt",
+      "name": "Bleached for white paper",
+      "x": 409,
+      "y": -150,
+      "parent": "#i4cht6"
+    },
+    {
+      "@id": "#b9nfb2",
+      "name": "Pulp spread on a moving mesh",
+      "x": 465,
+      "y": -53,
+      "parent": "#i4cht6"
+    },
+    {
+      "@id": "#5wqpss",
+      "name": "Pressed, dried and wound onto rolls",
+      "x": 445,
+      "y": 51,
+      "parent": "#i4cht6"
+    },
+    {
+      "@id": "#p6eh8x",
+      "name": "Kinds of paper",
+      "x": 151,
+      "y": 139,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#w4m6q4",
+      "name": "Printing and writing paper",
+      "x": 409,
+      "y": 150,
+      "parent": "#p6eh8x"
+    },
+    {
+      "@id": "#yun37y",
+      "name": "Packaging and cardboard, the largest share",
+      "x": 340,
+      "y": 236,
+      "parent": "#p6eh8x"
+    },
+    {
+      "@id": "#y4wvfz",
+      "name": "Tissue and kitchen towels",
+      "x": 243,
+      "y": 303,
+      "parent": "#p6eh8x"
+    },
+    {
+      "@id": "#wgbgv2",
+      "name": "Newsprint yellows as lignin ages",
+      "x": 133,
+      "y": 360,
+      "parent": "#p6eh8x"
+    },
+    {
+      "@id": "#2x9cmi",
+      "name": "Why it mattered",
+      "x": -65,
+      "y": 177,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gp5374",
+      "name": "Made printing cheap after Gutenberg",
+      "x": 0,
+      "y": 408,
+      "link": "https://en.wikipedia.org/wiki/Printing_press",
+      "parent": "#2x9cmi"
+    },
+    {
+      "@id": "#yimuxu",
+      "name": "Books, newspapers and paper money",
+      "x": -175,
+      "y": 465,
+      "parent": "#2x9cmi"
+    },
+    {
+      "@id": "#zvaup3",
+      "name": "Office paper use falling in digital age",
+      "x": -243,
+      "y": 303,
+      "parent": "#2x9cmi"
+    },
+    {
+      "@id": "#feqpxa",
+      "name": "Environment",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8axzaz",
+      "name": "Fibres recycled about 5 to 7 times",
+      "x": -340,
+      "y": 236,
+      "parent": "#feqpxa"
+    },
+    {
+      "@id": "#irnfbf",
+      "name": "Much pulp from managed plantations",
+      "x": -409,
+      "y": 150,
+      "parent": "#feqpxa"
+    },
+    {
+      "@id": "#62pvmr",
+      "name": "Mills use lots of water and energy",
+      "x": -465,
+      "y": 53,
+      "parent": "#feqpxa"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 10,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,29 @@
+category: Society
+aliases: thinking, human thought, process of thinking
+- Thought
+  - What thinking is
+    - Working with ideas and information mentally
+    - In words, images or feelings
+    - Inner speech: the voice in your head
+  - Kinds of thinking
+    - Reasoning: deductive and inductive
+    - Problem solving and decision making
+    - [Concepts group things into categories](https://en.wikipedia.org/wiki/Concept)
+    - Creative, open-ended thinking
+    - Metacognition: thinking about thinking
+  - Two speeds of thought
+    - [Fast, intuitive "System 1"](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)
+    - Slow, effortful "System 2"
+    - [Shortcuts create predictable cognitive biases](https://en.wikipedia.org/wiki/Cognitive_bias)
+  - Thought and language
+    - [Language shapes some aspects of thought](https://en.wikipedia.org/wiki/Linguistic_relativity)
+    - Strong "language determines thought" rejected
+    - Babies and animals think without words
+  - In the brain
+    - Prefrontal cortex supports planning and control
+    - Networks across the brain, not one spot
+    - How brains produce thoughts remains unsolved
+  - Thinking well
+    - [Critical thinking weighs evidence and logic](https://en.wikipedia.org/wiki/Critical_thinking)
+    - Notice your own biases
+    - Seek views that challenge yours

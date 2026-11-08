@@ -1,0 +1,30 @@
+category: Society
+aliases: types of violence, violence in society, causes of violence
+- Violence
+  - What counts as violence
+    - Deliberate force causing harm or death
+    - WHO definition includes threats and power
+  - Types
+    - Self-directed: suicide and self-harm
+    - Interpersonal: assault, homicide, abuse
+    - [Domestic violence within families](https://en.wikipedia.org/wiki/Domestic_violence)
+    - Collective: war, terrorism, genocide
+    - Structural: harm built into social systems
+  - Causes and risk factors
+    - Poverty and inequality
+    - Alcohol and drug use
+    - Childhood exposure to abuse
+    - Easy access to weapons
+  - Scale
+    - About 400,000+ homicides a year worldwide
+    - Highest rates in Latin America
+    - Most victims and perpetrators are young men
+  - Long-term trends
+    - [Steven Pinker: violence has declined](https://en.wikipedia.org/wiki/The_Better_Angels_of_Our_Nature)
+    - Critics dispute the decline thesis
+    - World wars, 20th-century peaks
+  - Prevention
+    - Public health approach treats it like disease
+    - Policing and criminal justice
+    - Parenting support and early education
+    - [Gun control debates](https://en.wikipedia.org/wiki/Gun_control)

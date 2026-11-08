@@ -1,0 +1,31 @@
+category: Science
+aliases: planet saturn, saturn planet, ringed planet
+- Saturn
+  - Size and orbit
+    - Sixth planet from the Sun
+    - About 9 times Earth's diameter
+    - About 1.4 billion km from the Sun
+    - Year of about 29 Earth years
+  - A gas giant
+    - Mostly hydrogen and helium
+    - Less dense than water
+    - Hexagon-shaped storm at north pole
+    - Winds up to about 1,800 km/h
+  - Rings
+    - [Brightest, widest rings in Solar System](https://en.wikipedia.org/wiki/Rings_of_Saturn)
+    - Mostly chunks of water ice
+    - Hundreds of thousands of km wide
+    - Often only tens of metres thick
+  - Moons
+    - Over 270 known moons, the most
+    - [Titan has a thick nitrogen atmosphere](https://en.wikipedia.org/wiki/Titan_%28moon%29)
+    - Titan has lakes of methane
+    - Enceladus sprays water from its ocean
+  - Exploration
+    - Pioneer 11 and Voyagers flew past
+    - [Cassini orbited from 2004 to 2017](https://en.wikipedia.org/wiki/Cassini%E2%80%93Huygens)
+    - Huygens probe landed on Titan, 2005
+    - Dragonfly drone due to launch 2028
+  - Seen from Earth
+    - Visible to the naked eye
+    - Rings first seen by Galileo, 1610

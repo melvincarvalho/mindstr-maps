@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Anesthesia",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#susdwt",
+      "name": "What it does",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qfu8e5",
+      "name": "Blocks pain during procedures",
+      "x": -465,
+      "y": -56,
+      "parent": "#susdwt"
+    },
+    {
+      "@id": "#d8fete",
+      "name": "May add unconsciousness and muscle relaxation",
+      "x": -405,
+      "y": -156,
+      "parent": "#susdwt"
+    },
+    {
+      "@id": "#mvftyb",
+      "name": "Effects wear off and are reversible",
+      "x": -330,
+      "y": -245,
+      "parent": "#susdwt"
+    },
+    {
+      "@id": "#59jssb",
+      "name": "Types",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bhnggr",
+      "name": "General: fully unconscious",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/General_anaesthesia",
+      "parent": "#59jssb"
+    },
+    {
+      "@id": "#kwf4hr",
+      "name": "Local: numbs a small area",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Local_anesthesia",
+      "parent": "#59jssb"
+    },
+    {
+      "@id": "#bcp5ta",
+      "name": "Regional: spinal, epidural, nerve blocks",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Epidural_administration",
+      "parent": "#59jssb"
+    },
+    {
+      "@id": "#reamdt",
+      "name": "Sedation: relaxed, drowsy, still breathing",
+      "x": 234,
+      "y": -485,
+      "parent": "#59jssb"
+    },
+    {
+      "@id": "#9aa79p",
+      "name": "Common drugs",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#suub8a",
+      "name": "Propofol to start general anesthesia",
+      "x": 281,
+      "y": -281,
+      "link": "https://en.wikipedia.org/wiki/Propofol",
+      "parent": "#9aa79p"
+    },
+    {
+      "@id": "#vdkkwg",
+      "name": "Inhaled gases such as sevoflurane",
+      "x": 372,
+      "y": -203,
+      "parent": "#9aa79p"
+    },
+    {
+      "@id": "#qg2pyy",
+      "name": "Lidocaine for local numbing",
+      "x": 449,
+      "y": -111,
+      "parent": "#9aa79p"
+    },
+    {
+      "@id": "#bk22e4",
+      "name": "Opioids for pain control",
+      "x": 450,
+      "y": 0,
+      "parent": "#9aa79p"
+    },
+    {
+      "@id": "#wfsjcy",
+      "name": "Before, during, after",
+      "x": 169,
+      "y": 125,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#777n8a",
+      "name": "Fasting beforehand protects the lungs",
+      "x": 487,
+      "y": 121,
+      "parent": "#wfsjcy"
+    },
+    {
+      "@id": "#cgmyuh",
+      "name": "Anesthetist monitors breathing, heart, oxygen",
+      "x": 372,
+      "y": 203,
+      "parent": "#wfsjcy"
+    },
+    {
+      "@id": "#wkagwa",
+      "name": "Breathing tube or airway device",
+      "x": 281,
+      "y": 281,
+      "parent": "#wfsjcy"
+    },
+    {
+      "@id": "#vmhxmh",
+      "name": "Afterwards: nausea, sore throat, drowsiness",
+      "x": 164,
+      "y": 335,
+      "parent": "#wfsjcy"
+    },
+    {
+      "@id": "#xasmx6",
+      "name": "Safety",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3ppgrj",
+      "name": "Serious complications are rare",
+      "x": 38,
+      "y": 391,
+      "parent": "#xasmx6"
+    },
+    {
+      "@id": "#65jhte",
+      "name": "Risk depends on health and procedure",
+      "x": -124,
+      "y": 447,
+      "parent": "#xasmx6"
+    },
+    {
+      "@id": "#q4gw9b",
+      "name": "Tell the team your medicines, allergies",
+      "x": -365,
+      "y": 508,
+      "parent": "#xasmx6"
+    },
+    {
+      "@id": "#yrf5qk",
+      "name": "History",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#anpjcn",
+      "name": "Before this, surgery was done awake",
+      "x": -330,
+      "y": 245,
+      "parent": "#yrf5qk"
+    },
+    {
+      "@id": "#ny7t5h",
+      "name": "1846: ether demonstrated in Boston",
+      "x": -405,
+      "y": 156,
+      "link": "https://en.wikipedia.org/wiki/William_T._G._Morton",
+      "parent": "#yrf5qk"
+    },
+    {
+      "@id": "#6ycttu",
+      "name": "Chloroform used from 1847",
+      "x": -445,
+      "y": 54,
+      "parent": "#yrf5qk"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

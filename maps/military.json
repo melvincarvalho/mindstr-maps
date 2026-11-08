@@ -1,0 +1,352 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Military",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#rx3bwi",
+      "name": "Purpose",
+      "x": -197,
+      "y": -96,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#giytw2",
+      "name": "Defend the state's territory",
+      "x": -446,
+      "y": -49,
+      "parent": "#rx3bwi"
+    },
+    {
+      "@id": "#qmfcx9",
+      "name": "Deter attack by potential enemies",
+      "x": -431,
+      "y": -149,
+      "parent": "#rx3bwi"
+    },
+    {
+      "@id": "#434sam",
+      "name": "Support allies and peacekeeping",
+      "x": -349,
+      "y": -227,
+      "parent": "#rx3bwi"
+    },
+    {
+      "@id": "#b65kmg",
+      "name": "Help in disasters at home",
+      "x": -260,
+      "y": -294,
+      "parent": "#rx3bwi"
+    },
+    {
+      "@id": "#rcr54z",
+      "name": "Branches",
+      "x": 16,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#chac9d",
+      "name": "Army fights on land",
+      "x": -158,
+      "y": -354,
+      "parent": "#rcr54z"
+    },
+    {
+      "@id": "#hr4xkk",
+      "name": "Navy controls the seas",
+      "x": -34,
+      "y": -407,
+      "parent": "#rcr54z"
+    },
+    {
+      "@id": "#s4kkpf",
+      "name": "Air force controls the skies",
+      "x": 120,
+      "y": -464,
+      "parent": "#rcr54z"
+    },
+    {
+      "@id": "#cgvneh",
+      "name": "Marines, space and cyber forces",
+      "x": 207,
+      "y": -320,
+      "parent": "#rcr54z"
+    },
+    {
+      "@id": "#d7hzdr",
+      "name": "Structure",
+      "x": 211,
+      "y": -73,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cmvqcg",
+      "name": "Chain of command from leaders down",
+      "x": 307,
+      "y": -263,
+      "link": "https://en.wikipedia.org/wiki/Chain_of_command",
+      "parent": "#d7hzdr"
+    },
+    {
+      "@id": "#4e3g9h",
+      "name": "Ranks: enlisted, NCOs and officers",
+      "x": 384,
+      "y": -187,
+      "parent": "#d7hzdr"
+    },
+    {
+      "@id": "#ycatvg",
+      "name": "Units from squads to armies",
+      "x": 433,
+      "y": -97,
+      "parent": "#d7hzdr"
+    },
+    {
+      "@id": "#vsdrgf",
+      "name": "Civilian control in democracies",
+      "x": 450,
+      "y": 0,
+      "parent": "#d7hzdr"
+    },
+    {
+      "@id": "#5j2rhg",
+      "name": "People",
+      "x": 178,
+      "y": 116,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d7hjp4",
+      "name": "Volunteers in most countries today",
+      "x": 433,
+      "y": 97,
+      "parent": "#5j2rhg"
+    },
+    {
+      "@id": "#2qswzw",
+      "name": "Conscription in some, like South Korea",
+      "x": 384,
+      "y": 187,
+      "link": "https://en.wikipedia.org/wiki/Conscription",
+      "parent": "#5j2rhg"
+    },
+    {
+      "@id": "#cym92r",
+      "name": "Reserves and national guards",
+      "x": 307,
+      "y": 263,
+      "parent": "#5j2rhg"
+    },
+    {
+      "@id": "#kiy4ym",
+      "name": "Military academies train officers",
+      "x": 207,
+      "y": 320,
+      "parent": "#5j2rhg"
+    },
+    {
+      "@id": "#f7vx58",
+      "name": "Size and spending",
+      "x": -47,
+      "y": 180,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#37ktbw",
+      "name": "World spending over $2 trillion a year",
+      "x": 96,
+      "y": 368,
+      "parent": "#f7vx58"
+    },
+    {
+      "@id": "#28scy6",
+      "name": "US spends the most by far",
+      "x": -35,
+      "y": 423,
+      "parent": "#f7vx58"
+    },
+    {
+      "@id": "#5w2em8",
+      "name": "China has the largest active force",
+      "x": -214,
+      "y": 474,
+      "parent": "#f7vx58"
+    },
+    {
+      "@id": "#9p5je5",
+      "name": "NATO agreed 5% of GDP by 2035",
+      "x": -260,
+      "y": 294,
+      "link": "https://en.wikipedia.org/wiki/NATO",
+      "parent": "#f7vx58"
+    },
+    {
+      "@id": "#jt8kmn",
+      "name": "Rules and history",
+      "x": -211,
+      "y": 73,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6aghdr",
+      "name": "Geneva Conventions limit conduct in war",
+      "x": -365,
+      "y": 237,
+      "link": "https://en.wikipedia.org/wiki/Geneva_Conventions",
+      "parent": "#jt8kmn"
+    },
+    {
+      "@id": "#dz7i7b",
+      "name": "Nuclear weapons transformed strategy",
+      "x": -413,
+      "y": 143,
+      "parent": "#jt8kmn"
+    },
+    {
+      "@id": "#v73fxc",
+      "name": "Drones and cyberwar change modern combat",
+      "x": -526,
+      "y": 57,
+      "parent": "#jt8kmn"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    },
+    {
+      "start": 26,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,362 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Music",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#642hcu",
+      "name": "Building blocks",
+      "x": -163,
+      "y": -130,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7ucnz8",
+      "name": "Pitch: how high or low",
+      "x": -446,
+      "y": -47,
+      "link": "https://en.wikipedia.org/wiki/Pitch_%28music%29",
+      "parent": "#642hcu"
+    },
+    {
+      "@id": "#kujbu7",
+      "name": "Rhythm: patterns in time",
+      "x": -416,
+      "y": -138,
+      "parent": "#642hcu"
+    },
+    {
+      "@id": "#ui5q2r",
+      "name": "Melody: notes in sequence",
+      "x": -357,
+      "y": -219,
+      "parent": "#642hcu"
+    },
+    {
+      "@id": "#kmn6bi",
+      "name": "Harmony: notes sounding together",
+      "x": -274,
+      "y": -286,
+      "parent": "#642hcu"
+    },
+    {
+      "@id": "#vgn9y2",
+      "name": "Timbre: the colour of a sound",
+      "x": -180,
+      "y": -348,
+      "parent": "#642hcu"
+    },
+    {
+      "@id": "#zjnrw2",
+      "name": "Dynamics: loud and soft",
+      "x": -68,
+      "y": -405,
+      "parent": "#642hcu"
+    },
+    {
+      "@id": "#ms2mr4",
+      "name": "How it's made",
+      "x": 115,
+      "y": -159,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wrcsnz",
+      "name": "Voice, humanity's first instrument",
+      "x": 77,
+      "y": -453,
+      "parent": "#ms2mr4"
+    },
+    {
+      "@id": "#cwuix8",
+      "name": "Strings, wind, percussion and keyboards",
+      "x": 180,
+      "y": -348,
+      "parent": "#ms2mr4"
+    },
+    {
+      "@id": "#bsvqgq",
+      "name": "Electronic synthesis and sampling",
+      "x": 274,
+      "y": -286,
+      "parent": "#ms2mr4"
+    },
+    {
+      "@id": "#tq3e68",
+      "name": "Written in notation or learned by ear",
+      "x": 357,
+      "y": -219,
+      "parent": "#ms2mr4"
+    },
+    {
+      "@id": "#mqnmuw",
+      "name": "History",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zg73p4",
+      "name": "Bone flutes over 40,000 years old",
+      "x": 416,
+      "y": -138,
+      "link": "https://en.wikipedia.org/wiki/Prehistoric_music",
+      "parent": "#mqnmuw"
+    },
+    {
+      "@id": "#xcv4f7",
+      "name": "Medieval chant and early polyphony",
+      "x": 466,
+      "y": -49,
+      "parent": "#mqnmuw"
+    },
+    {
+      "@id": "#9e5c3u",
+      "name": "Classical tradition: Bach, Mozart, Beethoven",
+      "x": 466,
+      "y": 49,
+      "parent": "#mqnmuw"
+    },
+    {
+      "@id": "#q9w3k7",
+      "name": "Edison's phonograph, 1877, enabled recording",
+      "x": 416,
+      "y": 138,
+      "parent": "#mqnmuw"
+    },
+    {
+      "@id": "#46mxpu",
+      "name": "Traditions and genres",
+      "x": 135,
+      "y": 187,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zc3zad",
+      "name": "Folk music in every culture",
+      "x": 389,
+      "y": 239,
+      "parent": "#46mxpu"
+    },
+    {
+      "@id": "#82y57r",
+      "name": "Indian classical ragas and talas",
+      "x": 286,
+      "y": 299,
+      "parent": "#46mxpu"
+    },
+    {
+      "@id": "#gbyyr4",
+      "name": "Jazz, blues and rock from America",
+      "x": 180,
+      "y": 348,
+      "parent": "#46mxpu"
+    },
+    {
+      "@id": "#ndxsvq",
+      "name": "Pop, hip hop, electronic dance",
+      "x": 68,
+      "y": 405,
+      "parent": "#46mxpu"
+    },
+    {
+      "@id": "#weuhiu",
+      "name": "Why humans make music",
+      "x": -115,
+      "y": 159,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#shgkdy",
+      "name": "Ritual, worship and celebration",
+      "x": -77,
+      "y": 453,
+      "parent": "#weuhiu"
+    },
+    {
+      "@id": "#9ivh3e",
+      "name": "Moves emotions and memory",
+      "x": -172,
+      "y": 333,
+      "parent": "#weuhiu"
+    },
+    {
+      "@id": "#as6cp5",
+      "name": "Bonds groups through shared rhythm",
+      "x": -370,
+      "y": 390,
+      "parent": "#weuhiu"
+    },
+    {
+      "@id": "#ayviqn",
+      "name": "Music therapy supports health",
+      "x": -357,
+      "y": 219,
+      "link": "https://en.wikipedia.org/wiki/Music_therapy",
+      "parent": "#weuhiu"
+    },
+    {
+      "@id": "#2j7cih",
+      "name": "Getting involved",
+      "x": -222,
+      "y": 48,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jsii35",
+      "name": "Learn an instrument or sing",
+      "x": -416,
+      "y": 138,
+      "parent": "#2j7cih"
+    },
+    {
+      "@id": "#5b2ww6",
+      "name": "Listen actively across genres",
+      "x": -486,
+      "y": 51,
+      "parent": "#2j7cih"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 1,
+      "end": 7
+    },
+    {
+      "start": 0,
+      "end": 8
+    },
+    {
+      "start": 8,
+      "end": 9
+    },
+    {
+      "start": 8,
+      "end": 10
+    },
+    {
+      "start": 8,
+      "end": 11
+    },
+    {
+      "start": 8,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    },
+    {
+      "start": 0,
+      "end": 28
+    },
+    {
+      "start": 28,
+      "end": 29
+    },
+    {
+      "start": 28,
+      "end": 30
+    }
+  ],
+  "selectedNode": 0
+}

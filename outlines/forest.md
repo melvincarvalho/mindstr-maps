@@ -1,0 +1,29 @@
+category: Geography
+aliases: forests, woodland, forest ecosystem
+- Forest
+  - What a forest is
+    - Land dominated by trees
+    - Covers about 31% of land
+    - Layers: canopy, understory, forest floor
+  - Main types
+    - [Tropical rainforest near the equator](https://en.wikipedia.org/wiki/Tropical_rainforest)
+    - Temperate broadleaf forests shed leaves
+    - [Boreal forest (taiga) is largest](https://en.wikipedia.org/wiki/Taiga)
+    - Mangroves grow along tropical coasts
+  - What forests do
+    - Store vast amounts of carbon
+    - Home to most land species
+    - Regulate rainfall and water cycles
+    - Hold soil and prevent erosion
+  - What people get
+    - Timber, paper and fuel
+    - Food, medicines and rubber
+    - Recreation and cultural importance
+  - Threats
+    - [Deforestation for farming and cattle](https://en.wikipedia.org/wiki/Deforestation)
+    - Wildfires worsened by drought
+    - Pests and disease spread by warming
+  - Protecting forests
+    - Protected areas and national parks
+    - [Sustainable forestry certification](https://en.wikipedia.org/wiki/Sustainable_forest_management)
+    - Reforestation and natural regrowth

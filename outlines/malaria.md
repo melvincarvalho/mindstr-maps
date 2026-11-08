@@ -1,0 +1,31 @@
+category: Health
+aliases: malaria symptoms, malaria parasite, malaria prevention, malaria treatment
+- Malaria
+  - Cause
+    - [Plasmodium parasites](https://en.wikipedia.org/wiki/Plasmodium)
+    - P. falciparum is the deadliest
+    - [Spread by female Anopheles mosquitoes](https://en.wikipedia.org/wiki/Anopheles)
+  - Life cycle
+    - Parasites travel first to the liver
+    - Then infect and burst red cells
+    - Biting mosquitoes pick them up again
+  - Symptoms
+    - Fever, chills and sweating
+    - Headache, aches and vomiting
+    - Usually 10–15 days after the bite
+    - Severe cases: anaemia, seizures, coma
+  - Diagnosis and treatment
+    - Blood smear or rapid test
+    - [Artemisinin-based combination therapies are standard](https://en.wikipedia.org/wiki/Artemisinin)
+    - Prompt treatment prevents death
+    - Drug resistance is a growing concern
+  - Prevention
+    - Insecticide-treated bed nets
+    - Indoor spraying kills mosquitoes
+    - Antimalarial tablets for travellers
+    - [Vaccines RTS,S and R21 for children](https://en.wikipedia.org/wiki/Malaria_vaccine)
+  - Global burden
+    - Roughly 250 million cases a year
+    - About 600,000 deaths a year
+    - Most in sub-Saharan Africa
+    - Young children are most at risk

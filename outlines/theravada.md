@@ -1,0 +1,30 @@
+category: Philosophy and religion
+aliases: theravada buddhism, school of the elders, theravadin
+- Theravada
+  - What it is
+    - "School of the Elders" in Buddhism
+    - Oldest surviving Buddhist school
+    - Roughly 150 million followers
+  - Scriptures
+    - [Pali Canon, the Tipitaka](https://en.wikipedia.org/wiki/P%C4%81li_Canon)
+    - Vinaya, Sutta and Abhidhamma baskets
+    - Written down in Sri Lanka, 1st-century BCE
+    - [Buddhaghosa's Visuddhimagga commentary](https://en.wikipedia.org/wiki/Visuddhimagga)
+  - Key ideas
+    - Four Noble Truths and Eightfold Path
+    - Three marks: impermanence, suffering, not-self
+    - [Arahant: one who reaches nirvana](https://en.wikipedia.org/wiki/Arhat)
+    - Gotama is the Buddha of our age
+  - Practice
+    - [Vipassana insight meditation](https://en.wikipedia.org/wiki/Vipassan%C4%81)
+    - Samatha meditation for calm
+    - Laypeople give alms to monks
+    - Merit-making and five precepts
+  - Monastic life
+    - Monks keep 227 Vinaya rules
+    - Saffron robes and morning alms round
+    - Short-term ordination common for young men
+  - Where it lives
+    - Sri Lanka, Myanmar, Thailand
+    - Cambodia and Laos
+    - Modern meditation movement spread it West

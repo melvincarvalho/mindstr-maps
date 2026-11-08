@@ -1,0 +1,30 @@
+category: Science
+aliases: subatomic particles, particles smaller than atoms
+- Subatomic particle
+  - What counts as one
+    - Any particle smaller than an atom
+    - Elementary ones have no smaller parts
+    - Composite ones are built from others
+  - Inside every atom
+    - Protons: positive charge, in the nucleus
+    - Neutrons: no charge, in the nucleus
+    - Electrons: negative charge, around the nucleus
+  - Elementary particles
+    - Quarks, which never appear alone
+    - Leptons, like electrons and neutrinos
+    - Bosons that carry forces, like photons
+  - Composite particles
+    - [Hadrons are made of quarks](https://en.wikipedia.org/wiki/Hadron)
+    - Baryons have three quarks, like protons
+    - [Mesons pair a quark and antiquark](https://en.wikipedia.org/wiki/Meson)
+  - Key properties
+    - Mass, often given in electronvolts
+    - Electric charge: whole or fractional
+    - [Spin divides fermions from bosons](https://en.wikipedia.org/wiki/Spin_%28physics%29)
+    - [Antiparticles have opposite charge](https://en.wikipedia.org/wiki/Antiparticle)
+  - Discovery timeline
+    - Electron, 1897
+    - Proton, about 1917–1919
+    - Neutron, 1932
+    - Quarks confirmed in the late 1960s
+    - [Higgs boson, 2012](https://en.wikipedia.org/wiki/Higgs_boson)

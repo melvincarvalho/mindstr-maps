@@ -1,0 +1,33 @@
+category: Geography
+aliases: burma, republic of the union of myanmar
+- Myanmar
+  - Land
+    - [Irrawaddy River runs north to south](https://en.wikipedia.org/wiki/Irrawaddy_River)
+    - Naypyidaw capital since 2006
+    - Yangon is the largest city
+    - Borders China, India, Thailand, Bangladesh, Laos
+  - People and languages
+    - About 55 million people
+    - Bamar majority, Burmese is official
+    - Over 130 recognised ethnic groups
+    - Mostly Theravada Buddhist
+  - History in brief
+    - [Pagan kingdom, from the 11th century](https://en.wikipedia.org/wiki/Pagan_Kingdom)
+    - British colony, fully conquered by 1885
+    - Independence in 1948
+    - Military rule from 1962
+    - Renamed Myanmar in 1989
+  - Government
+    - [Aung San Suu Kyi's party won 2015](https://en.wikipedia.org/wiki/Aung_San_Suu_Kyi)
+    - Military seized power in 2021 coup
+    - Armed conflict across many regions
+    - Rohingya fled to Bangladesh from 2017
+  - Economy
+    - Rice, teak and natural gas
+    - Jade and ruby mining
+    - Among Asia's poorer economies
+  - Culture
+    - [Shwedagon Pagoda in Yangon](https://en.wikipedia.org/wiki/Shwedagon_Pagoda)
+    - Thanaka paste worn on faces
+    - Longyi, the wrap-around garment
+    - Thingyan water festival in April

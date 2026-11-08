@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Land",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#akjqya",
+      "name": "What land is",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#paj2tz",
+      "name": "Earth's solid surface above sea level",
+      "x": -445,
+      "y": -54,
+      "parent": "#akjqya"
+    },
+    {
+      "@id": "#d68rxh",
+      "name": "About 29% of Earth's surface",
+      "x": -405,
+      "y": -156,
+      "parent": "#akjqya"
+    },
+    {
+      "@id": "#8j8tff",
+      "name": "About 149 million km² in total",
+      "x": -330,
+      "y": -245,
+      "parent": "#akjqya"
+    },
+    {
+      "@id": "#nae2s9",
+      "name": "Divided into seven continents",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Continent",
+      "parent": "#akjqya"
+    },
+    {
+      "@id": "#ar3w2t",
+      "name": "How land is built",
+      "x": 17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#32qjqb",
+      "name": "Plate tectonics push up mountains",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Plate_tectonics",
+      "parent": "#ar3w2t"
+    },
+    {
+      "@id": "#us9mfd",
+      "name": "Volcanoes add new rock and islands",
+      "x": 42,
+      "y": -423,
+      "parent": "#ar3w2t"
+    },
+    {
+      "@id": "#jw8q5g",
+      "name": "Rivers deposit sediment into deltas",
+      "x": 234,
+      "y": -485,
+      "parent": "#ar3w2t"
+    },
+    {
+      "@id": "#3eijk2",
+      "name": "How land wears down",
+      "x": 190,
+      "y": -104,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4pm8cp",
+      "name": "Weathering breaks rock into soil",
+      "x": 281,
+      "y": -281,
+      "parent": "#3eijk2"
+    },
+    {
+      "@id": "#asvu2r",
+      "name": "Erosion by water, wind and ice",
+      "x": 372,
+      "y": -203,
+      "link": "https://en.wikipedia.org/wiki/Erosion",
+      "parent": "#3eijk2"
+    },
+    {
+      "@id": "#q4piux",
+      "name": "Glaciers carve valleys and fjords",
+      "x": 487,
+      "y": -121,
+      "parent": "#3eijk2"
+    },
+    {
+      "@id": "#vwbidj",
+      "name": "Landforms",
+      "x": 220,
+      "y": 54,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qcrziz",
+      "name": "Mountains, plateaus and hills",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Landform",
+      "parent": "#vwbidj"
+    },
+    {
+      "@id": "#gyu8bj",
+      "name": "Plains and river valleys",
+      "x": 430,
+      "y": 106,
+      "parent": "#vwbidj"
+    },
+    {
+      "@id": "#vj72m2",
+      "name": "Islands, peninsulas and coastlines",
+      "x": 372,
+      "y": 203,
+      "parent": "#vwbidj"
+    },
+    {
+      "@id": "#7qk7vv",
+      "name": "Land cover",
+      "x": 51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pj9fjp",
+      "name": "Forests cover about 31% of land",
+      "x": 281,
+      "y": 281,
+      "parent": "#7qk7vv"
+    },
+    {
+      "@id": "#ncc73g",
+      "name": "Deserts and drylands, about a third",
+      "x": 164,
+      "y": 335,
+      "parent": "#7qk7vv"
+    },
+    {
+      "@id": "#5r7gf2",
+      "name": "Ice sheets on Antarctica and Greenland",
+      "x": 38,
+      "y": 391,
+      "parent": "#7qk7vv"
+    },
+    {
+      "@id": "#4sd89r",
+      "name": "Grasslands, tundra and wetlands",
+      "x": -124,
+      "y": 447,
+      "parent": "#7qk7vv"
+    },
+    {
+      "@id": "#kbayvn",
+      "name": "Human use of land",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ecqvhq",
+      "name": "Farming uses about half of habitable land",
+      "x": -225,
+      "y": 312,
+      "parent": "#kbayvn"
+    },
+    {
+      "@id": "#r4w8di",
+      "name": "Cities cover only about 1%",
+      "x": -330,
+      "y": 245,
+      "parent": "#kbayvn"
+    },
+    {
+      "@id": "#mxggjc",
+      "name": "Ownership, borders and property rights",
+      "x": -405,
+      "y": 156,
+      "parent": "#kbayvn"
+    },
+    {
+      "@id": "#5abb4v",
+      "name": "Degradation from overuse and deforestation",
+      "x": -445,
+      "y": 54,
+      "link": "https://en.wikipedia.org/wiki/Land_degradation",
+      "parent": "#kbayvn"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,309 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Day",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#hbi5qe",
+      "name": "What a day is",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kakave",
+      "name": "One full spin of Earth",
+      "x": -444,
+      "y": -59,
+      "parent": "#hbi5qe"
+    },
+    {
+      "@id": "#2yeh77",
+      "name": "Also the daylight hours",
+      "x": -396,
+      "y": -171,
+      "parent": "#hbi5qe"
+    },
+    {
+      "@id": "#ai7nua",
+      "name": "Divided into 24 hours of 60 minutes",
+      "x": -305,
+      "y": -265,
+      "parent": "#hbi5qe"
+    },
+    {
+      "@id": "#vgw7nt",
+      "name": "Two ways to count a day",
+      "x": -19,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ki4byf",
+      "name": "Solar day: noon to noon, 24 hours",
+      "x": -181,
+      "y": -330,
+      "link": "https://en.wikipedia.org/wiki/Solar_time",
+      "parent": "#vgw7nt"
+    },
+    {
+      "@id": "#3tt9cx",
+      "name": "Sidereal day: about 23 h 56 min",
+      "x": -41,
+      "y": -391,
+      "link": "https://en.wikipedia.org/wiki/Sidereal_time",
+      "parent": "#vgw7nt"
+    },
+    {
+      "@id": "#dgt4ex",
+      "name": "Difference comes from orbiting the Sun",
+      "x": 140,
+      "y": -445,
+      "parent": "#vgw7nt"
+    },
+    {
+      "@id": "#9kzd4j",
+      "name": "Day and night",
+      "x": 202,
+      "y": -88,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ca72ic",
+      "name": "Half of Earth always faces the Sun",
+      "x": 246,
+      "y": -301,
+      "parent": "#9kzd4j"
+    },
+    {
+      "@id": "#eujxbz",
+      "name": "Axial tilt changes day length yearly",
+      "x": 355,
+      "y": -221,
+      "link": "https://en.wikipedia.org/wiki/Axial_tilt",
+      "parent": "#9kzd4j"
+    },
+    {
+      "@id": "#gm42zw",
+      "name": "Polar summers bring the midnight sun",
+      "x": 483,
+      "y": -132,
+      "parent": "#9kzd4j"
+    },
+    {
+      "@id": "#5b3med",
+      "name": "Equinoxes give near-equal day and night",
+      "x": 450,
+      "y": 0,
+      "parent": "#9kzd4j"
+    },
+    {
+      "@id": "#kgnar4",
+      "name": "Days are getting longer",
+      "x": 182,
+      "y": 113,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ycbbde",
+      "name": "Tides slowly brake Earth's spin",
+      "x": 502,
+      "y": 137,
+      "link": "https://en.wikipedia.org/wiki/Tidal_acceleration",
+      "parent": "#kgnar4"
+    },
+    {
+      "@id": "#9krznb",
+      "name": "Roughly 2 milliseconds longer per century",
+      "x": 355,
+      "y": 221,
+      "parent": "#kgnar4"
+    },
+    {
+      "@id": "#hmjjai",
+      "name": "Dinosaur-era days were about 23.5 hours",
+      "x": 246,
+      "y": 301,
+      "parent": "#kgnar4"
+    },
+    {
+      "@id": "#bydkrc",
+      "name": "Days on other planets",
+      "x": -19,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#w92yyx",
+      "name": "Mars day about 24 h 40 min",
+      "x": 110,
+      "y": 349,
+      "parent": "#bydkrc"
+    },
+    {
+      "@id": "#my9zbk",
+      "name": "Jupiter spins in under 10 hours",
+      "x": -43,
+      "y": 407,
+      "parent": "#bydkrc"
+    },
+    {
+      "@id": "#xckc4d",
+      "name": "Venus day is longer than its year",
+      "x": -253,
+      "y": 465,
+      "parent": "#bydkrc"
+    },
+    {
+      "@id": "#dgntvi",
+      "name": "Human days",
+      "x": -202,
+      "y": 88,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m8gzxm",
+      "name": "Circadian rhythm tunes body to daylight",
+      "x": -305,
+      "y": 265,
+      "link": "https://en.wikipedia.org/wiki/Circadian_rhythm",
+      "parent": "#dgntvi"
+    },
+    {
+      "@id": "#8fpika",
+      "name": "Civil days start at midnight",
+      "x": -396,
+      "y": 171,
+      "parent": "#dgntvi"
+    },
+    {
+      "@id": "#xj8hmi",
+      "name": "Seven-day week has ancient Near East roots",
+      "x": -504,
+      "y": 68,
+      "parent": "#dgntvi"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

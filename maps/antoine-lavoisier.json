@@ -1,0 +1,318 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Antoine Lavoisier",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#t4w9fa",
+      "name": "Life",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t2sqcm",
+      "name": "Born 1743 in Paris",
+      "x": -444,
+      "y": -56,
+      "parent": "#t4w9fa"
+    },
+    {
+      "@id": "#zwmf8u",
+      "name": "Trained in law, turned to science",
+      "x": -401,
+      "y": -163,
+      "parent": "#t4w9fa"
+    },
+    {
+      "@id": "#kgumhf",
+      "name": "Tax collector in the Ferme générale",
+      "x": -318,
+      "y": -255,
+      "parent": "#t4w9fa"
+    },
+    {
+      "@id": "#kb5yg4",
+      "name": "Guillotined in 1794 during the Terror",
+      "x": -204,
+      "y": -321,
+      "parent": "#t4w9fa"
+    },
+    {
+      "@id": "#cxbn23",
+      "name": "Combustion and oxygen",
+      "x": 71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#es9gek",
+      "name": "Burning is combination with oxygen",
+      "x": -73,
+      "y": -372,
+      "parent": "#cxbn23"
+    },
+    {
+      "@id": "#akiie7",
+      "name": "Named oxygen and hydrogen",
+      "x": 82,
+      "y": -420,
+      "parent": "#cxbn23"
+    },
+    {
+      "@id": "#tag4vp",
+      "name": "Overturned the phlogiston theory",
+      "x": 204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Phlogiston_theory",
+      "parent": "#cxbn23"
+    },
+    {
+      "@id": "#mxp2zn",
+      "name": "Water is hydrogen plus oxygen",
+      "x": 318,
+      "y": -255,
+      "parent": "#cxbn23"
+    },
+    {
+      "@id": "#4vi6w6",
+      "name": "Careful measurement",
+      "x": 227,
+      "y": -29,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j7xk6v",
+      "name": "Weighed reactants and products precisely",
+      "x": 401,
+      "y": -163,
+      "parent": "#4vi6w6"
+    },
+    {
+      "@id": "#um8v38",
+      "name": "Mass is conserved in reactions",
+      "x": 524,
+      "y": -64,
+      "link": "https://en.wikipedia.org/wiki/Conservation_of_mass",
+      "parent": "#4vi6w6"
+    },
+    {
+      "@id": "#hc8dip",
+      "name": "Showed respiration is slow combustion",
+      "x": 444,
+      "y": 56,
+      "parent": "#4vi6w6"
+    },
+    {
+      "@id": "#kiabyz",
+      "name": "Reforming chemistry",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7rfmtk",
+      "name": "Systematic names for compounds, 1787",
+      "x": 455,
+      "y": 184,
+      "parent": "#kiabyz"
+    },
+    {
+      "@id": "#giyxpc",
+      "name": "Elementary Treatise of Chemistry, 1789",
+      "x": 318,
+      "y": 255,
+      "parent": "#kiabyz"
+    },
+    {
+      "@id": "#2kvd94",
+      "name": "Listed 33 elements in a table",
+      "x": 204,
+      "y": 321,
+      "parent": "#kiabyz"
+    },
+    {
+      "@id": "#5rt3ii",
+      "name": "Partnerships and public work",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fzfhzz",
+      "name": "Marie-Anne Paulze Lavoisier, wife and collaborator",
+      "x": 73,
+      "y": 372,
+      "link": "https://en.wikipedia.org/wiki/Marie-Anne_Paulze_Lavoisier",
+      "parent": "#5rt3ii"
+    },
+    {
+      "@id": "#6yabtm",
+      "name": "Ran France's gunpowder administration",
+      "x": -82,
+      "y": 420,
+      "parent": "#5rt3ii"
+    },
+    {
+      "@id": "#46wtfr",
+      "name": "Helped design the metric system",
+      "x": -204,
+      "y": 321,
+      "parent": "#5rt3ii"
+    },
+    {
+      "@id": "#ra85vw",
+      "name": "Legacy",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7pwjdn",
+      "name": "Often called father of modern chemistry",
+      "x": -318,
+      "y": 255,
+      "parent": "#ra85vw"
+    },
+    {
+      "@id": "#2dumxc",
+      "name": "Chemistry became a quantitative science",
+      "x": -401,
+      "y": 163,
+      "parent": "#ra85vw"
+    },
+    {
+      "@id": "#z2g2rm",
+      "name": "Execution seen as loss to science",
+      "x": -444,
+      "y": 56,
+      "parent": "#ra85vw"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

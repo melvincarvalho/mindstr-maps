@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Antarctica",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#t9dk8j",
+      "name": "The land and ice",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ecygq7",
+      "name": "Fifth-largest continent, around the South Pole",
+      "x": -445,
+      "y": -54,
+      "parent": "#t9dk8j"
+    },
+    {
+      "@id": "#capgw7",
+      "name": "Ice sheet averages about 2 km thick",
+      "x": -405,
+      "y": -156,
+      "link": "https://en.wikipedia.org/wiki/Antarctic_ice_sheet",
+      "parent": "#t9dk8j"
+    },
+    {
+      "@id": "#g6tnb8",
+      "name": "Holds most of Earth's fresh water",
+      "x": -330,
+      "y": -245,
+      "parent": "#t9dk8j"
+    },
+    {
+      "@id": "#xacbis",
+      "name": "Transantarctic Mountains split East and West",
+      "x": -225,
+      "y": -312,
+      "parent": "#t9dk8j"
+    },
+    {
+      "@id": "#qbaifu",
+      "name": "Extreme climate",
+      "x": 51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gf8raf",
+      "name": "Coldest, driest, windiest continent",
+      "x": -104,
+      "y": -367,
+      "parent": "#qbaifu"
+    },
+    {
+      "@id": "#gd6yn9",
+      "name": "Record low about −89°C at Vostok",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Vostok_Station",
+      "parent": "#qbaifu"
+    },
+    {
+      "@id": "#28g3a3",
+      "name": "Interior is technically a desert",
+      "x": 234,
+      "y": -485,
+      "parent": "#qbaifu"
+    },
+    {
+      "@id": "#u8edyq",
+      "name": "Months of continuous dark or light",
+      "x": 281,
+      "y": -281,
+      "parent": "#qbaifu"
+    },
+    {
+      "@id": "#hhc2ci",
+      "name": "Life",
+      "x": 220,
+      "y": -54,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sn8zkn",
+      "name": "Penguins, seals and seabirds on coasts",
+      "x": 372,
+      "y": -203,
+      "parent": "#hhc2ci"
+    },
+    {
+      "@id": "#bm3uyt",
+      "name": "Krill feed the Southern Ocean",
+      "x": 430,
+      "y": -106,
+      "link": "https://en.wikipedia.org/wiki/Antarctic_krill",
+      "parent": "#hhc2ci"
+    },
+    {
+      "@id": "#gpp8nc",
+      "name": "Only mosses and lichens on land",
+      "x": 450,
+      "y": 0,
+      "parent": "#hhc2ci"
+    },
+    {
+      "@id": "#9p2cu5",
+      "name": "Exploration",
+      "x": 190,
+      "y": 104,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mj6q8u",
+      "name": "First sighted in 1820",
+      "x": 430,
+      "y": 106,
+      "parent": "#9p2cu5"
+    },
+    {
+      "@id": "#bfe8q8",
+      "name": "Amundsen reached the Pole in 1911",
+      "x": 372,
+      "y": 203,
+      "link": "https://en.wikipedia.org/wiki/Roald_Amundsen",
+      "parent": "#9p2cu5"
+    },
+    {
+      "@id": "#3m6amv",
+      "name": "Scott's party died returning, 1912",
+      "x": 281,
+      "y": 281,
+      "parent": "#9p2cu5"
+    },
+    {
+      "@id": "#xitnsm",
+      "name": "Governance",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4wvzma",
+      "name": "Antarctic Treaty signed 1959",
+      "x": 164,
+      "y": 335,
+      "link": "https://en.wikipedia.org/wiki/Antarctic_Treaty_System",
+      "parent": "#xitnsm"
+    },
+    {
+      "@id": "#nqacr2",
+      "name": "Reserved for peace and science",
+      "x": 38,
+      "y": 391,
+      "parent": "#xitnsm"
+    },
+    {
+      "@id": "#uv3r7n",
+      "name": "Mining banned by environmental protocol",
+      "x": -124,
+      "y": 447,
+      "parent": "#xitnsm"
+    },
+    {
+      "@id": "#scn982",
+      "name": "Seven countries' territorial claims frozen",
+      "x": -225,
+      "y": 312,
+      "parent": "#xitnsm"
+    },
+    {
+      "@id": "#zbcpve",
+      "name": "Science and change",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#sa8i9q",
+      "name": "Ice cores record ancient climates",
+      "x": -330,
+      "y": 245,
+      "parent": "#zbcpve"
+    },
+    {
+      "@id": "#cpca2v",
+      "name": "Ozone hole discovered above it",
+      "x": -405,
+      "y": 156,
+      "parent": "#zbcpve"
+    },
+    {
+      "@id": "#p4xcf5",
+      "name": "Melting ice could raise sea levels",
+      "x": -505,
+      "y": 60,
+      "parent": "#zbcpve"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,28 @@
+category: Society
+aliases: grammar rules, english grammar basics, what is grammar
+- Grammar
+  - The rules that build meaning
+    - Every language and dialect has one
+    - Native speakers learn it unconsciously
+    - Descriptive versus prescriptive grammar
+  - [Parts of speech](https://en.wikipedia.org/wiki/Part_of_speech)
+    - Nouns name things, verbs show actions
+    - Adjectives and adverbs modify
+    - Pronouns, prepositions, conjunctions link ideas
+  - [Morphology: shaping words](https://en.wikipedia.org/wiki/Morphology_%28linguistics%29)
+    - Inflection marks tense, number, case
+    - Some languages add gender to nouns
+    - English inflects little; Latin, a lot
+  - [Syntax: ordering words](https://en.wikipedia.org/wiki/Syntax)
+    - Sentences have a subject and predicate
+    - Clauses combine into complex sentences
+    - [SOV and SVO are most common](https://en.wikipedia.org/wiki/Word_order)
+    - Questions and negatives reorder words
+  - History of grammar study
+    - Pāṇini described Sanskrit about 400 BC
+    - Greek and Latin grammars shaped schoolbooks
+    - Modern linguistics models grammar formally
+  - Grammar in everyday use
+    - Style guides set formal conventions
+    - Many "rules" are just style preferences
+    - Learners study it explicitly; children don't

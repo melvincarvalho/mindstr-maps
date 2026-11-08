@@ -1,0 +1,29 @@
+category: Science
+aliases: hydrogen element, h2 gas, element 1
+- Hydrogen
+  - Basics
+    - Atomic number 1, symbol H
+    - Lightest and simplest element
+    - Colourless, odourless, highly flammable gas
+    - Exists as H₂ molecules
+  - Where it's found
+    - About 75% of the universe's normal mass
+    - Fuel of the Sun and stars
+    - On Earth mostly bound in water
+  - [Isotopes](https://en.wikipedia.org/wiki/Isotopes_of_hydrogen)
+    - Protium: one proton, no neutron
+    - Deuterium makes heavy water
+    - Tritium is radioactive
+  - Role in life
+    - Part of water and all organic molecules
+    - [Hydrogen bonds shape DNA and proteins](https://en.wikipedia.org/wiki/Hydrogen_bond)
+    - Acidity measures hydrogen ion levels
+  - Uses
+    - [Making ammonia for fertiliser](https://en.wikipedia.org/wiki/Haber_process)
+    - Refining oil
+    - Rocket fuel with liquid oxygen
+    - [Fuel cells turn it into electricity](https://en.wikipedia.org/wiki/Fuel_cell)
+  - Hydrogen as clean fuel
+    - Burning it makes only water
+    - Most made from natural gas today
+    - Green hydrogen splits water with renewables

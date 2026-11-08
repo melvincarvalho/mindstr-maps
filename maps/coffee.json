@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Coffee",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#rfx2ai",
+      "name": "Where coffee comes from",
+      "x": -174,
+      "y": -120,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9uxnka",
+      "name": "Roasted seeds of coffee cherries",
+      "x": -445,
+      "y": -51,
+      "parent": "#rfx2ai"
+    },
+    {
+      "@id": "#5v57ti",
+      "name": "Arabica: smoother, most of production",
+      "x": -463,
+      "y": -171,
+      "link": "https://en.wikipedia.org/wiki/Coffea_arabica",
+      "parent": "#rfx2ai"
+    },
+    {
+      "@id": "#isgfz7",
+      "name": "Robusta: stronger, more caffeine",
+      "x": -340,
+      "y": -236,
+      "parent": "#rfx2ai"
+    },
+    {
+      "@id": "#ctcxvq",
+      "name": "Grows in the tropical \"bean belt\"",
+      "x": -243,
+      "y": -303,
+      "parent": "#rfx2ai"
+    },
+    {
+      "@id": "#rehenp",
+      "name": "Brazil is the largest producer",
+      "x": -133,
+      "y": -360,
+      "parent": "#rfx2ai"
+    },
+    {
+      "@id": "#cjw8mz",
+      "name": "History",
+      "x": 65,
+      "y": -177,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dczu6j",
+      "name": "Originated in Ethiopia's highlands",
+      "x": 0,
+      "y": -408,
+      "parent": "#cjw8mz"
+    },
+    {
+      "@id": "#asvw4c",
+      "name": "Drunk in Yemen by the 1400s",
+      "x": 175,
+      "y": -465,
+      "parent": "#cjw8mz"
+    },
+    {
+      "@id": "#qu2zvn",
+      "name": "Coffee houses spread across Europe 1600s",
+      "x": 243,
+      "y": -303,
+      "parent": "#cjw8mz"
+    },
+    {
+      "@id": "#4wzmpg",
+      "name": "From cherry to cup",
+      "x": 209,
+      "y": -76,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4hy4rd",
+      "name": "Picked, processed, dried",
+      "x": 340,
+      "y": -236,
+      "parent": "#4wzmpg"
+    },
+    {
+      "@id": "#punehe",
+      "name": "Roasting creates flavour and colour",
+      "x": 409,
+      "y": -150,
+      "parent": "#4wzmpg"
+    },
+    {
+      "@id": "#ffj9pd",
+      "name": "Grind just before brewing",
+      "x": 465,
+      "y": -53,
+      "parent": "#4wzmpg"
+    },
+    {
+      "@id": "#xx27gi",
+      "name": "Ways to brew",
+      "x": 174,
+      "y": 120,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rh64ep",
+      "name": "Filter and pour-over",
+      "x": 445,
+      "y": 51,
+      "parent": "#xx27gi"
+    },
+    {
+      "@id": "#kytnii",
+      "name": "French press steeps coarse grounds",
+      "x": 445,
+      "y": 164,
+      "parent": "#xx27gi"
+    },
+    {
+      "@id": "#ufsvev",
+      "name": "Espresso forces hot water under pressure",
+      "x": 340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/Espresso",
+      "parent": "#xx27gi"
+    },
+    {
+      "@id": "#5h2kyy",
+      "name": "Latte, cappuccino: espresso plus milk",
+      "x": 243,
+      "y": 303,
+      "parent": "#xx27gi"
+    },
+    {
+      "@id": "#ekurz2",
+      "name": "Instant coffee is dried brew",
+      "x": 133,
+      "y": 360,
+      "parent": "#xx27gi"
+    },
+    {
+      "@id": "#hf9by5",
+      "name": "Caffeine and health",
+      "x": -96,
+      "y": 167,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v6eur4",
+      "name": "Caffeine blocks sleepiness signals",
+      "x": 0,
+      "y": 408,
+      "link": "https://en.wikipedia.org/wiki/Caffeine",
+      "parent": "#hf9by5"
+    },
+    {
+      "@id": "#vt6e6f",
+      "name": "Most adults: up to 400 mg daily",
+      "x": -175,
+      "y": 465,
+      "parent": "#hf9by5"
+    },
+    {
+      "@id": "#5mdnin",
+      "name": "Avoid late in the day",
+      "x": -243,
+      "y": 303,
+      "parent": "#hf9by5"
+    },
+    {
+      "@id": "#6eij5m",
+      "name": "Less advised in pregnancy",
+      "x": -340,
+      "y": 236,
+      "parent": "#hf9by5"
+    },
+    {
+      "@id": "#ra7yn7",
+      "name": "Fair trade and sustainability",
+      "x": -221,
+      "y": 52,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#f2kz39",
+      "name": "Many growers are small farmers",
+      "x": -409,
+      "y": 150,
+      "parent": "#ra7yn7"
+    },
+    {
+      "@id": "#eatyyn",
+      "name": "Fairtrade aims for fairer prices",
+      "x": -565,
+      "y": 63,
+      "link": "https://en.wikipedia.org/wiki/Fair_trade",
+      "parent": "#ra7yn7"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 15,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,28 @@
+category: Mathematics
+aliases: prime numbers, primes, what is a prime
+- Prime number
+  - What a prime is
+    - Whole number above 1
+    - Divisible only by 1 and itself
+    - 2, 3, 5, 7, 11 are prime
+    - 2 is the only even prime
+  - Building blocks of numbers
+    - [Composite numbers split into primes](https://en.wikipedia.org/wiki/Composite_number)
+    - 12 is 2 × 2 × 3
+    - [Every number factors in one way](https://en.wikipedia.org/wiki/Fundamental_theorem_of_arithmetic)
+  - Finding primes
+    - [Sieve of Eratosthenes crosses out multiples](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
+    - Test dividing up to the square root
+    - Largest known primes have millions of digits
+  - How they are spread
+    - Euclid proved there are infinitely many
+    - Gaps grow larger on average
+    - [Prime number theorem estimates density](https://en.wikipedia.org/wiki/Prime_number_theorem)
+  - Unsolved puzzles
+    - Twin primes like 11 and 13
+    - Goldbach: evens as two primes
+    - [Riemann hypothesis on prime spacing](https://en.wikipedia.org/wiki/Riemann_hypothesis)
+  - Uses
+    - RSA encryption secures online payments
+    - Hard to factor huge numbers
+    - Cicadas emerge in 13 or 17 years

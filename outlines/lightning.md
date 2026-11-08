@@ -1,0 +1,30 @@
+category: Science
+aliases: lightning strike, lightning safety, how lightning works
+- Lightning
+  - How it forms
+    - [Charge builds up in thunderclouds](https://en.wikipedia.org/wiki/Cumulonimbus_cloud)
+    - Colliding ice particles separate charges
+    - Discharge balances the charge
+  - Types
+    - Cloud-to-ground strikes
+    - Most flashes stay inside clouds
+    - Cloud-to-cloud lightning
+    - [Rare ball lightning](https://en.wikipedia.org/wiki/Ball_lightning)
+  - The numbers
+    - Channel about 30,000°C, hotter than Sun's surface
+    - Roughly 40–50 flashes per second worldwide
+    - [Thunder is air expanding explosively](https://en.wikipedia.org/wiki/Thunder)
+    - 3 seconds to thunder ≈ 1 km
+  - Effects
+    - Starts many wildfires
+    - Damages power lines and electronics
+    - Helps make nitrogen compounds for plants
+  - Staying safe
+    - When thunder roars, go indoors
+    - Shelter in buildings or hard-topped cars
+    - Avoid open ground, water and lone trees
+    - Wait 30 minutes after last thunder
+    - Victims are safe to touch: give CPR
+  - Protecting buildings
+    - [Lightning rods guide strikes to ground](https://en.wikipedia.org/wiki/Lightning_rod)
+    - Surge protectors for electronics

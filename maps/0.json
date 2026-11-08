@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "0",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#r6a6zu",
+      "name": "What zero means",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wehhm4",
+      "name": "The count of an empty set",
+      "x": -445,
+      "y": -54,
+      "parent": "#r6a6zu"
+    },
+    {
+      "@id": "#758345",
+      "name": "Neither positive nor negative",
+      "x": -405,
+      "y": -156,
+      "parent": "#r6a6zu"
+    },
+    {
+      "@id": "#mizdqk",
+      "name": "Zero is an even number",
+      "x": -330,
+      "y": -245,
+      "parent": "#r6a6zu"
+    },
+    {
+      "@id": "#zm9uxe",
+      "name": "Sits between −1 and 1",
+      "x": -225,
+      "y": -312,
+      "parent": "#r6a6zu"
+    },
+    {
+      "@id": "#ae6zdc",
+      "name": "Placeholder in place value",
+      "x": 17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qxc7by",
+      "name": "Tells 205 apart from 25",
+      "x": -104,
+      "y": -367,
+      "parent": "#ae6zdc"
+    },
+    {
+      "@id": "#bmszxf",
+      "name": "Babylonians used a placeholder sign",
+      "x": 42,
+      "y": -423,
+      "parent": "#ae6zdc"
+    },
+    {
+      "@id": "#mctqxk",
+      "name": "Maya had a zero glyph independently",
+      "x": 234,
+      "y": -485,
+      "parent": "#ae6zdc"
+    },
+    {
+      "@id": "#sguyii",
+      "name": "Zero as a number",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a59ujn",
+      "name": "Brahmagupta's rules, India, 628 CE",
+      "x": 281,
+      "y": -281,
+      "link": "https://en.wikipedia.org/wiki/Brahmagupta",
+      "parent": "#sguyii"
+    },
+    {
+      "@id": "#2cm653",
+      "name": "Adding zero changes nothing",
+      "x": 372,
+      "y": -203,
+      "parent": "#sguyii"
+    },
+    {
+      "@id": "#qaeegj",
+      "name": "Anything times zero is zero",
+      "x": 468,
+      "y": -116,
+      "parent": "#sguyii"
+    },
+    {
+      "@id": "#qyedpc",
+      "name": "Division by zero is undefined",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Division_by_zero",
+      "parent": "#sguyii"
+    },
+    {
+      "@id": "#xxgxhq",
+      "name": "Journey to Europe",
+      "x": 190,
+      "y": 104,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uwv2ta",
+      "name": "Al-Khwarizmi spread Hindu–Arabic numerals",
+      "x": 525,
+      "y": 131,
+      "link": "https://en.wikipedia.org/wiki/Hindu%E2%80%93Arabic_numeral_system",
+      "parent": "#xxgxhq"
+    },
+    {
+      "@id": "#2vcgb9",
+      "name": "Fibonacci's Liber Abaci, 1202",
+      "x": 372,
+      "y": 203,
+      "parent": "#xxgxhq"
+    },
+    {
+      "@id": "#ba6tiz",
+      "name": "Romans had no zero symbol",
+      "x": 281,
+      "y": 281,
+      "parent": "#xxgxhq"
+    },
+    {
+      "@id": "#eizgck",
+      "name": "Zero in everyday use",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#x7t6fu",
+      "name": "Binary computing uses 0 and 1",
+      "x": 164,
+      "y": 335,
+      "parent": "#eizgck"
+    },
+    {
+      "@id": "#wuivua",
+      "name": "0°C is water's freezing point",
+      "x": 38,
+      "y": 391,
+      "parent": "#eizgck"
+    },
+    {
+      "@id": "#emzjk3",
+      "name": "Absolute zero is −273.15°C",
+      "x": -124,
+      "y": 447,
+      "parent": "#eizgck"
+    },
+    {
+      "@id": "#bxxzwb",
+      "name": "No year 0: 1 BC→AD 1",
+      "x": -225,
+      "y": 312,
+      "parent": "#eizgck"
+    },
+    {
+      "@id": "#dzdx7r",
+      "name": "Zero in higher maths",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4nynj6",
+      "name": "Origin of the number line",
+      "x": -330,
+      "y": 245,
+      "parent": "#dzdx7r"
+    },
+    {
+      "@id": "#eh64fx",
+      "name": "Roots: where functions equal zero",
+      "x": -405,
+      "y": 156,
+      "link": "https://en.wikipedia.org/wiki/Zero_of_a_function",
+      "parent": "#dzdx7r"
+    },
+    {
+      "@id": "#vbtydt",
+      "name": "Limits approaching zero underpin calculus",
+      "x": -545,
+      "y": 64,
+      "parent": "#dzdx7r"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,30 @@
+category: Science
+aliases: dinosaurs, dinosauria, age of dinosaurs
+- Dinosaur
+  - When they lived
+    - Appeared about 230 million years ago
+    - [Mesozoic: Triassic, Jurassic, Cretaceous](https://en.wikipedia.org/wiki/Mesozoic)
+    - Lasted about 165 million years
+  - Main groups
+    - Theropods: two-legged, mostly meat-eaters
+    - Sauropods: huge long-necked plant-eaters
+    - Ornithischians: horned, armoured and duck-billed
+    - Not dinosaurs: pterosaurs, plesiosaurs
+  - Famous examples
+    - [Tyrannosaurus rex, late Cretaceous predator](https://en.wikipedia.org/wiki/Tyrannosaurus)
+    - Triceratops with three horns and frill
+    - Stegosaurus with plates along its back
+    - Argentinosaurus, among the largest land animals
+    - Velociraptor was turkey-sized and feathered
+  - How we know
+    - Fossil bones, teeth, eggs and footprints
+    - Megalosaurus first named, 1824
+    - Name means "terrible lizard", Owen 1842
+    - Feathered fossils found in China
+  - The extinction
+    - [Asteroid impact 66 million years ago](https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event)
+    - Chicxulub crater, Yucatán, Mexico
+    - Deccan Traps eruptions may have contributed
+  - Living dinosaurs
+    - [Birds descend from small theropods](https://en.wikipedia.org/wiki/Origin_of_birds)
+    - Archaeopteryx, an early bird-like dinosaur

@@ -1,0 +1,32 @@
+category: Health
+aliases: lung infection, pneumonia symptoms, pneumonia causes, pneumonia treatment
+- Pneumonia
+  - What it is
+    - Infection inflaming the lungs' air sacs
+    - [Alveoli fill with fluid or pus](https://en.wikipedia.org/wiki/Pulmonary_alveolus)
+    - One or both lungs affected
+  - Causes
+    - [Bacteria, often Streptococcus pneumoniae](https://en.wikipedia.org/wiki/Streptococcus_pneumoniae)
+    - Viruses such as flu, RSV, COVID-19
+    - Fungi, mainly with weakened immunity
+    - Aspiration: inhaled food, drink or vomit
+  - Symptoms
+    - Cough, often with phlegm
+    - Fever, sweating and shivering
+    - Breathlessness and fast breathing
+    - Chest pain when breathing
+    - Confusion, especially in older people
+  - Who is most at risk
+    - Children under five and over-65s
+    - Smokers and heavy drinkers
+    - Heart or lung disease, weakened immunity
+    - Biggest infectious killer of children worldwide
+  - Diagnosis and treatment
+    - Listening to the chest, chest X-ray
+    - Antibiotics for bacterial pneumonia
+    - Oxygen and hospital care if severe
+    - Rest and fluids at home if mild
+  - Prevention
+    - [Pneumococcal vaccine](https://en.wikipedia.org/wiki/Pneumococcal_vaccine)
+    - Yearly flu vaccine
+    - Stopping smoking

@@ -1,0 +1,30 @@
+category: Science
+aliases: catalyst, catalysts, how catalysts work
+- Catalysis
+  - What a catalyst does
+    - Speeds up a reaction
+    - Not used up; works again and again
+    - [Lowers the activation energy](https://en.wikipedia.org/wiki/Activation_energy)
+    - Offers an easier reaction pathway
+  - Kinds of catalyst
+    - Homogeneous: same phase as reactants
+    - [Heterogeneous: a solid surface](https://en.wikipedia.org/wiki/Heterogeneous_catalysis)
+    - [Enzymes are biology's catalysts](https://en.wikipedia.org/wiki/Enzyme)
+  - How surface catalysts work
+    - Reactants stick to the surface
+    - Their bonds weaken and rearrange
+    - Products detach, freeing the site
+  - Everyday examples
+    - [Car catalytic converters clean exhaust](https://en.wikipedia.org/wiki/Catalytic_converter)
+    - Amylase in saliva breaks down starch
+    - Yeast enzymes ferment bread and beer
+    - Biological washing powders digest stains
+  - Industry
+    - [Haber process: iron catalyst makes ammonia](https://en.wikipedia.org/wiki/Haber_process)
+    - Zeolites crack crude oil into petrol
+    - Nickel hardens vegetable oils into margarine
+    - About 90% of chemical processes use catalysts
+  - Limits
+    - Poisoning blocks a catalyst's active sites
+    - Doesn't shift equilibrium, only reaches it faster
+    - Precious metals like platinum are costly

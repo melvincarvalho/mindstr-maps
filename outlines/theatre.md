@@ -1,0 +1,31 @@
+category: Arts and culture
+aliases: theater, drama and theatre, stage plays
+- Theatre
+  - What it is
+    - Live performers before an audience
+    - Stories told through action and dialogue
+    - Each performance is unrepeatable
+  - Major traditions
+    - [Ancient Greek tragedy and comedy](https://en.wikipedia.org/wiki/Greek_tragedy)
+    - Noh, kabuki and Sanskrit drama
+    - [Shakespeare and the Globe Theatre](https://en.wikipedia.org/wiki/William_Shakespeare)
+    - Commedia dell'arte's masked characters
+    - Realism of Ibsen and Chekhov
+  - Modern movements
+    - Brecht's epic theatre
+    - Theatre of the Absurd, Beckett
+    - Musicals on Broadway and West End
+    - Experimental and immersive theatre
+  - Making a production
+    - Playwright writes the script
+    - Director leads rehearsals
+    - Actors play the roles
+    - Sets, lighting, costume and sound
+  - The space
+    - [Proscenium arch frames the stage](https://en.wikipedia.org/wiki/Proscenium)
+    - Thrust and theatre-in-the-round
+    - Found spaces and street theatre
+  - Going to the theatre
+    - Tickets, previews and press night
+    - Critics review opening night
+    - Theatre etiquette: phones off

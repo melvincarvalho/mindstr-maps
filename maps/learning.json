@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Learning",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#bxumer",
+      "name": "What learning is",
+      "x": -220,
+      "y": -54,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fsd2kp",
+      "name": "A lasting change from experience",
+      "x": -505,
+      "y": -60,
+      "parent": "#bxumer"
+    },
+    {
+      "@id": "#hnyhka",
+      "name": "Synapses strengthen with use: neuroplasticity",
+      "x": -405,
+      "y": -156,
+      "link": "https://en.wikipedia.org/wiki/Neuroplasticity",
+      "parent": "#bxumer"
+    },
+    {
+      "@id": "#tf2z64",
+      "name": "Ways we learn",
+      "x": -51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zzx7s7",
+      "name": "Association: linking events, like Pavlov's dogs",
+      "x": -330,
+      "y": -245,
+      "parent": "#tf2z64"
+    },
+    {
+      "@id": "#rwnsgz",
+      "name": "Reinforcement: rewards and consequences",
+      "x": -225,
+      "y": -312,
+      "parent": "#tf2z64"
+    },
+    {
+      "@id": "#dfx6a7",
+      "name": "Watching and copying others",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Observational_learning",
+      "parent": "#tf2z64"
+    },
+    {
+      "@id": "#gq3hz2",
+      "name": "Practice makes skills automatic",
+      "x": 42,
+      "y": -423,
+      "parent": "#tf2z64"
+    },
+    {
+      "@id": "#8bphwe",
+      "name": "Language and teaching pass on knowledge",
+      "x": 234,
+      "y": -485,
+      "parent": "#tf2z64"
+    },
+    {
+      "@id": "#27t6vx",
+      "name": "Across life",
+      "x": 190,
+      "y": -104,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dxt77d",
+      "name": "Infants learn by exploring and playing",
+      "x": 281,
+      "y": -281,
+      "parent": "#27t6vx"
+    },
+    {
+      "@id": "#vumq4z",
+      "name": "Piaget's stages of child development",
+      "x": 372,
+      "y": -203,
+      "link": "https://en.wikipedia.org/wiki/Piaget%27s_theory_of_cognitive_development",
+      "parent": "#27t6vx"
+    },
+    {
+      "@id": "#97enq2",
+      "name": "Adults keep learning throughout life",
+      "x": 468,
+      "y": -116,
+      "parent": "#27t6vx"
+    },
+    {
+      "@id": "#qeehgb",
+      "name": "What works, per the evidence",
+      "x": 190,
+      "y": 104,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dzcx9d",
+      "name": "Space study out over days",
+      "x": 450,
+      "y": 0,
+      "parent": "#qeehgb"
+    },
+    {
+      "@id": "#q8gk9p",
+      "name": "Retrieval practice: test yourself",
+      "x": 525,
+      "y": 131,
+      "link": "https://en.wikipedia.org/wiki/Testing_effect",
+      "parent": "#qeehgb"
+    },
+    {
+      "@id": "#28fk3k",
+      "name": "Mix problem types: interleaving",
+      "x": 372,
+      "y": 203,
+      "parent": "#qeehgb"
+    },
+    {
+      "@id": "#m8j9fr",
+      "name": "Explain ideas in your own words",
+      "x": 281,
+      "y": 281,
+      "parent": "#qeehgb"
+    },
+    {
+      "@id": "#agryak",
+      "name": "Sleep consolidates what you learned",
+      "x": 164,
+      "y": 335,
+      "parent": "#qeehgb"
+    },
+    {
+      "@id": "#vt7559",
+      "name": "Popular myths",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xcgr9s",
+      "name": "Learning styles: no good evidence",
+      "x": 38,
+      "y": 391,
+      "link": "https://en.wikipedia.org/wiki/Learning_styles",
+      "parent": "#vt7559"
+    },
+    {
+      "@id": "#83gnvq",
+      "name": "Rereading and highlighting feel effective, aren't",
+      "x": -124,
+      "y": 447,
+      "parent": "#vt7559"
+    },
+    {
+      "@id": "#643maz",
+      "name": "No \"left-brained\" or \"right-brained\" learners",
+      "x": -245,
+      "y": 340,
+      "parent": "#vt7559"
+    },
+    {
+      "@id": "#a27nji",
+      "name": "Motivation and mindset",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7aq5at",
+      "name": "Curiosity and interest aid memory",
+      "x": -330,
+      "y": 245,
+      "parent": "#a27nji"
+    },
+    {
+      "@id": "#nu7ijf",
+      "name": "Feedback shows what to fix",
+      "x": -405,
+      "y": 156,
+      "parent": "#a27nji"
+    },
+    {
+      "@id": "#8mse9b",
+      "name": "Growth mindset: effects smaller than claimed",
+      "x": -565,
+      "y": 66,
+      "parent": "#a27nji"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 4,
+      "end": 8
+    },
+    {
+      "start": 4,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 14,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

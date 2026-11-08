@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Silicon",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#xsbr8n",
+      "name": "Basics",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#926ibd",
+      "name": "Atomic number 14, symbol Si",
+      "x": -445,
+      "y": -54,
+      "parent": "#xsbr8n"
+    },
+    {
+      "@id": "#63hqkt",
+      "name": "Grey, shiny, brittle metalloid",
+      "x": -405,
+      "y": -156,
+      "parent": "#xsbr8n"
+    },
+    {
+      "@id": "#vfshdf",
+      "name": "Isolated by Berzelius in 1824",
+      "x": -330,
+      "y": -245,
+      "parent": "#xsbr8n"
+    },
+    {
+      "@id": "#q2mxge",
+      "name": "Where it's found",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#htkb6u",
+      "name": "Second most abundant in Earth's crust",
+      "x": -225,
+      "y": -312,
+      "parent": "#q2mxge"
+    },
+    {
+      "@id": "#5zjtey",
+      "name": "Never free; bound to oxygen",
+      "x": -104,
+      "y": -367,
+      "parent": "#q2mxge"
+    },
+    {
+      "@id": "#6q97kx",
+      "name": "Quartz and sand are silica",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Silicon_dioxide",
+      "parent": "#q2mxge"
+    },
+    {
+      "@id": "#wazwe3",
+      "name": "Silicate minerals make most rocks",
+      "x": 234,
+      "y": -485,
+      "link": "https://en.wikipedia.org/wiki/Silicate_mineral",
+      "parent": "#q2mxge"
+    },
+    {
+      "@id": "#mkxp9k",
+      "name": "A semiconductor",
+      "x": 190,
+      "y": -104,
+      "link": "https://en.wikipedia.org/wiki/Semiconductor",
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h6tweq",
+      "name": "Conducts better than insulators, worse than metals",
+      "x": 281,
+      "y": -281,
+      "parent": "#mkxp9k"
+    },
+    {
+      "@id": "#53hkhq",
+      "name": "Doping tunes its conductivity",
+      "x": 372,
+      "y": -203,
+      "parent": "#mkxp9k"
+    },
+    {
+      "@id": "#kkvbt4",
+      "name": "Purified to 99.9999999% for chips",
+      "x": 468,
+      "y": -116,
+      "parent": "#mkxp9k"
+    },
+    {
+      "@id": "#6yd9r6",
+      "name": "Electronics",
+      "x": 207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#43i3ii",
+      "name": "Transistors and integrated circuits",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Integrated_circuit",
+      "parent": "#6yd9r6"
+    },
+    {
+      "@id": "#v5v4re",
+      "name": "Billions of transistors per chip",
+      "x": 468,
+      "y": 116,
+      "parent": "#6yd9r6"
+    },
+    {
+      "@id": "#taihh9",
+      "name": "Most solar cells are silicon",
+      "x": 372,
+      "y": 203,
+      "parent": "#6yd9r6"
+    },
+    {
+      "@id": "#f5rqrx",
+      "name": "Gave Silicon Valley its name",
+      "x": 281,
+      "y": 281,
+      "parent": "#6yd9r6"
+    },
+    {
+      "@id": "#5yb9tp",
+      "name": "Building and materials",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8uc3ie",
+      "name": "Glass is mostly melted sand",
+      "x": 164,
+      "y": 335,
+      "parent": "#5yb9tp"
+    },
+    {
+      "@id": "#fbrqjh",
+      "name": "Concrete and cement contain silicates",
+      "x": 38,
+      "y": 391,
+      "parent": "#5yb9tp"
+    },
+    {
+      "@id": "#9gy7c2",
+      "name": "Silicones for sealants and implants",
+      "x": -124,
+      "y": 447,
+      "parent": "#5yb9tp"
+    },
+    {
+      "@id": "#3355zw",
+      "name": "Alloyed into aluminium and steel",
+      "x": -225,
+      "y": 312,
+      "parent": "#5yb9tp"
+    },
+    {
+      "@id": "#9dpyiw",
+      "name": "Role in life",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3d25bc",
+      "name": "Diatoms build glassy shells",
+      "x": -330,
+      "y": 245,
+      "parent": "#9dpyiw"
+    },
+    {
+      "@id": "#ense62",
+      "name": "Grasses stiffen with silica",
+      "x": -405,
+      "y": 156,
+      "parent": "#9dpyiw"
+    },
+    {
+      "@id": "#wyvizt",
+      "name": "Breathing fine silica dust harms lungs",
+      "x": -485,
+      "y": 58,
+      "parent": "#9dpyiw"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

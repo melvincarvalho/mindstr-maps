@@ -1,0 +1,342 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Ali",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#hmqxzt",
+      "name": "Ali ibn Abi Talib, about 600–661",
+      "x": -193,
+      "y": -99,
+      "link": "https://en.wikipedia.org/wiki/Ali",
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pquset",
+      "name": "Muhammad's cousin, son of Abu Talib",
+      "x": -445,
+      "y": -51,
+      "parent": "#hmqxzt"
+    },
+    {
+      "@id": "#guanc3",
+      "name": "Born in Mecca",
+      "x": -409,
+      "y": -150,
+      "parent": "#hmqxzt"
+    },
+    {
+      "@id": "#mi24fy",
+      "name": "Married Muhammad's daughter Fatima",
+      "x": -340,
+      "y": -236,
+      "parent": "#hmqxzt"
+    },
+    {
+      "@id": "#ix7s8r",
+      "name": "Father of Hasan and Husayn",
+      "x": -243,
+      "y": -303,
+      "parent": "#hmqxzt"
+    },
+    {
+      "@id": "#fgehw3",
+      "name": "Early Islam",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ms6wnv",
+      "name": "Among the first to accept Islam",
+      "x": -133,
+      "y": -360,
+      "parent": "#fgehw3"
+    },
+    {
+      "@id": "#9jb453",
+      "name": "Took Muhammad's place on Hijra night",
+      "x": 0,
+      "y": -408,
+      "parent": "#fgehw3"
+    },
+    {
+      "@id": "#pusbsi",
+      "name": "Noted fighter at Badr and Khaybar",
+      "x": 175,
+      "y": -465,
+      "parent": "#fgehw3"
+    },
+    {
+      "@id": "#y96zk6",
+      "name": "The succession question",
+      "x": 174,
+      "y": -120,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#i335nq",
+      "name": "Abu Bakr chosen caliph in 632",
+      "x": 243,
+      "y": -303,
+      "parent": "#y96zk6"
+    },
+    {
+      "@id": "#r4rd3w",
+      "name": "Shia: named successor at Ghadir Khumm",
+      "x": 340,
+      "y": -236,
+      "link": "https://en.wikipedia.org/wiki/Event_of_Ghadir_Khumm",
+      "parent": "#y96zk6"
+    },
+    {
+      "@id": "#8bdbvx",
+      "name": "Passed over for Umar and Uthman",
+      "x": 463,
+      "y": -171,
+      "parent": "#y96zk6"
+    },
+    {
+      "@id": "#jfxt2y",
+      "name": "Caliph from 656 to 661",
+      "x": 209,
+      "y": 76,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cncngr",
+      "name": "Chosen after Uthman's assassination",
+      "x": 445,
+      "y": -51,
+      "parent": "#jfxt2y"
+    },
+    {
+      "@id": "#upnca5",
+      "name": "Moved his capital to Kufa",
+      "x": 485,
+      "y": 55,
+      "parent": "#jfxt2y"
+    },
+    {
+      "@id": "#pawbau",
+      "name": "First Fitna, the first civil war",
+      "x": 409,
+      "y": 150,
+      "link": "https://en.wikipedia.org/wiki/First_Fitna",
+      "parent": "#jfxt2y"
+    },
+    {
+      "@id": "#58595r",
+      "name": "Battle of the Camel, 656",
+      "x": 340,
+      "y": 236,
+      "parent": "#jfxt2y"
+    },
+    {
+      "@id": "#f6qq4h",
+      "name": "Battle of Siffin against Muawiya, 657",
+      "x": 243,
+      "y": 303,
+      "link": "https://en.wikipedia.org/wiki/Battle_of_Siffin",
+      "parent": "#jfxt2y"
+    },
+    {
+      "@id": "#nfmgzv",
+      "name": "Death",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rwsxi6",
+      "name": "Struck by a Kharijite in Kufa, 661",
+      "x": 133,
+      "y": 360,
+      "parent": "#nfmgzv"
+    },
+    {
+      "@id": "#sxgbb4",
+      "name": "Imam Ali Shrine in Najaf, Iraq",
+      "x": 0,
+      "y": 408,
+      "parent": "#nfmgzv"
+    },
+    {
+      "@id": "#uphqn4",
+      "name": "Muawiya then founded the Umayyad Caliphate",
+      "x": -175,
+      "y": 465,
+      "parent": "#nfmgzv"
+    },
+    {
+      "@id": "#58ziww",
+      "name": "Legacy",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h2s4wx",
+      "name": "Shia Muslims revere him as first Imam",
+      "x": -243,
+      "y": 303,
+      "parent": "#58ziww"
+    },
+    {
+      "@id": "#an9hny",
+      "name": "Sunnis: fourth Rightly Guided Caliph",
+      "x": -340,
+      "y": 236,
+      "parent": "#58ziww"
+    },
+    {
+      "@id": "#9aymuy",
+      "name": "Sermons collected in Nahj al-Balagha",
+      "x": -409,
+      "y": 150,
+      "link": "https://en.wikipedia.org/wiki/Nahj_al-Balagha",
+      "parent": "#58ziww"
+    },
+    {
+      "@id": "#6brdg2",
+      "name": "Revered in Sufism as spiritual master",
+      "x": -445,
+      "y": 51,
+      "parent": "#58ziww"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 14,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

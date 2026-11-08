@@ -1,0 +1,342 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Energy",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#cieppa",
+      "name": "What energy is",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#73rzes",
+      "name": "The capacity to do work",
+      "x": -445,
+      "y": -51,
+      "link": "https://en.wikipedia.org/wiki/Energy",
+      "parent": "#cieppa"
+    },
+    {
+      "@id": "#fhn4rt",
+      "name": "Measured in joules",
+      "x": -409,
+      "y": -150,
+      "parent": "#cieppa"
+    },
+    {
+      "@id": "#53sp5m",
+      "name": "Food labels use kilocalories",
+      "x": -340,
+      "y": -236,
+      "parent": "#cieppa"
+    },
+    {
+      "@id": "#bnjx9n",
+      "name": "James Joule showed heat is energy",
+      "x": -243,
+      "y": -303,
+      "parent": "#cieppa"
+    },
+    {
+      "@id": "#ze53xi",
+      "name": "Main forms",
+      "x": 96,
+      "y": -167,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5eqeex",
+      "name": "Kinetic energy is energy of motion",
+      "x": -133,
+      "y": -360,
+      "link": "https://en.wikipedia.org/wiki/Kinetic_energy",
+      "parent": "#ze53xi"
+    },
+    {
+      "@id": "#4hdxqm",
+      "name": "Potential energy is stored by position",
+      "x": 0,
+      "y": -408,
+      "link": "https://en.wikipedia.org/wiki/Potential_energy",
+      "parent": "#ze53xi"
+    },
+    {
+      "@id": "#i46exn",
+      "name": "Thermal energy is jiggling particles",
+      "x": 175,
+      "y": -465,
+      "parent": "#ze53xi"
+    },
+    {
+      "@id": "#ngb57b",
+      "name": "Chemical energy held in bonds",
+      "x": 243,
+      "y": -303,
+      "parent": "#ze53xi"
+    },
+    {
+      "@id": "#griqde",
+      "name": "Light and other radiation",
+      "x": 340,
+      "y": -236,
+      "parent": "#ze53xi"
+    },
+    {
+      "@id": "#4nqwp8",
+      "name": "Nuclear energy inside atomic nuclei",
+      "x": 409,
+      "y": -150,
+      "parent": "#ze53xi"
+    },
+    {
+      "@id": "#hew945",
+      "name": "Energy is never created or destroyed",
+      "x": 268,
+      "y": 30,
+      "link": "https://en.wikipedia.org/wiki/Conservation_of_energy",
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c4vv8d",
+      "name": "It only changes form",
+      "x": 445,
+      "y": -51,
+      "parent": "#hew945"
+    },
+    {
+      "@id": "#wzu2cm",
+      "name": "Falling ball swaps potential for kinetic",
+      "x": 665,
+      "y": 73,
+      "parent": "#hew945"
+    },
+    {
+      "@id": "#mpry7h",
+      "name": "Some always ends up as waste heat",
+      "x": 409,
+      "y": 150,
+      "parent": "#hew945"
+    },
+    {
+      "@id": "#tvgnpi",
+      "name": "Key equations in words",
+      "x": 168,
+      "y": 207,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p9mswi",
+      "name": "Kinetic: half mass times speed squared",
+      "x": 370,
+      "y": 256,
+      "parent": "#tvgnpi"
+    },
+    {
+      "@id": "#33fazq",
+      "name": "Gravitational: mass times g times height",
+      "x": 254,
+      "y": 316,
+      "parent": "#tvgnpi"
+    },
+    {
+      "@id": "#c8k8p3",
+      "name": "Einstein: energy equals mass times c²",
+      "x": 139,
+      "y": 375,
+      "link": "https://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence",
+      "parent": "#tvgnpi"
+    },
+    {
+      "@id": "#w7ahz4",
+      "name": "Power is energy per second",
+      "x": -101,
+      "y": 267,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3cmrqu",
+      "name": "One watt is one joule per second",
+      "x": 0,
+      "y": 424,
+      "parent": "#w7ahz4"
+    },
+    {
+      "@id": "#kjge6x",
+      "name": "Kilowatt-hour is the household billing unit",
+      "x": -181,
+      "y": 480,
+      "parent": "#w7ahz4"
+    },
+    {
+      "@id": "#jivjib",
+      "name": "A kettle uses about 2–3 kilowatts",
+      "x": -254,
+      "y": 316,
+      "parent": "#w7ahz4"
+    },
+    {
+      "@id": "#gmvcnt",
+      "name": "Where our energy comes from",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rmtktx",
+      "name": "Sunlight drives most of it",
+      "x": -535,
+      "y": 366,
+      "parent": "#gmvcnt"
+    },
+    {
+      "@id": "#ehpu48",
+      "name": "Fossil fuels store ancient sunlight",
+      "x": -409,
+      "y": 150,
+      "parent": "#gmvcnt"
+    },
+    {
+      "@id": "#mrpadj",
+      "name": "Nuclear power splits uranium atoms",
+      "x": -545,
+      "y": 61,
+      "parent": "#gmvcnt"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 6,
+      "end": 11
+    },
+    {
+      "start": 6,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

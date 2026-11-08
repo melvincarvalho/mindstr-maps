@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Mathematical analysis",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#2z6jc6",
+      "name": "What analysis studies",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#f49a93",
+      "name": "Limits, continuity and change made rigorous",
+      "x": -545,
+      "y": -61,
+      "parent": "#2z6jc6"
+    },
+    {
+      "@id": "#sgvtzi",
+      "name": "Calculus with careful proofs",
+      "x": -409,
+      "y": -150,
+      "parent": "#2z6jc6"
+    },
+    {
+      "@id": "#6n5by3",
+      "name": "Infinite processes handled safely",
+      "x": -340,
+      "y": -236,
+      "parent": "#2z6jc6"
+    },
+    {
+      "@id": "#5qqw3t",
+      "name": "Real numbers",
+      "x": -65,
+      "y": -177,
+      "link": "https://en.wikipedia.org/wiki/Real_number",
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qi87xt",
+      "name": "Completeness: no gaps on the line",
+      "x": -243,
+      "y": -303,
+      "parent": "#5qqw3t"
+    },
+    {
+      "@id": "#maahr4",
+      "name": "Fractions alone leave holes, like √2",
+      "x": -133,
+      "y": -360,
+      "parent": "#5qqw3t"
+    },
+    {
+      "@id": "#mtk78k",
+      "name": "Sequences of fractions fill the holes",
+      "x": 0,
+      "y": -408,
+      "parent": "#5qqw3t"
+    },
+    {
+      "@id": "#nsxcvw",
+      "name": "Core ideas",
+      "x": 151,
+      "y": -139,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ibqqkw",
+      "name": "Epsilon-delta: as close as you like",
+      "x": 175,
+      "y": -465,
+      "parent": "#nsxcvw"
+    },
+    {
+      "@id": "#tcju3r",
+      "name": "Sequences and convergence",
+      "x": 243,
+      "y": -303,
+      "parent": "#nsxcvw"
+    },
+    {
+      "@id": "#bz83v8",
+      "name": "Continuous functions have no jumps",
+      "x": 340,
+      "y": -236,
+      "parent": "#nsxcvw"
+    },
+    {
+      "@id": "#ftm2wi",
+      "name": "Derivatives and integrals defined precisely",
+      "x": 445,
+      "y": -164,
+      "parent": "#nsxcvw"
+    },
+    {
+      "@id": "#gbuq43",
+      "name": "Branches",
+      "x": 209,
+      "y": 76,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wutgyi",
+      "name": "Real analysis: functions of real numbers",
+      "x": 445,
+      "y": -51,
+      "parent": "#gbuq43"
+    },
+    {
+      "@id": "#ggd5xk",
+      "name": "Complex analysis: functions of complex numbers",
+      "x": 525,
+      "y": 59,
+      "link": "https://en.wikipedia.org/wiki/Complex_analysis",
+      "parent": "#gbuq43"
+    },
+    {
+      "@id": "#dsbvr6",
+      "name": "Functional analysis: spaces of functions",
+      "x": 409,
+      "y": 150,
+      "parent": "#gbuq43"
+    },
+    {
+      "@id": "#d7itaa",
+      "name": "Measure theory generalises length and area",
+      "x": 340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/Measure_%28mathematics%29",
+      "parent": "#gbuq43"
+    },
+    {
+      "@id": "#d46z8k",
+      "name": "Fourier analysis splits signals into waves",
+      "x": 243,
+      "y": 303,
+      "link": "https://en.wikipedia.org/wiki/Fourier_analysis",
+      "parent": "#gbuq43"
+    },
+    {
+      "@id": "#cjuxkr",
+      "name": "History",
+      "x": -33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#q83k3g",
+      "name": "Cauchy put calculus on firm ground, 1820s",
+      "x": 133,
+      "y": 360,
+      "parent": "#cjuxkr"
+    },
+    {
+      "@id": "#r22akf",
+      "name": "Weierstrass formalised epsilon-delta limits",
+      "x": 0,
+      "y": 408,
+      "parent": "#cjuxkr"
+    },
+    {
+      "@id": "#74467k",
+      "name": "Strange functions demanded more rigour",
+      "x": -175,
+      "y": 465,
+      "parent": "#cjuxkr"
+    },
+    {
+      "@id": "#ix24un",
+      "name": "Lebesgue's new integral, 1902",
+      "x": -243,
+      "y": 303,
+      "parent": "#cjuxkr"
+    },
+    {
+      "@id": "#dywq87",
+      "name": "Uses",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8dwpxb",
+      "name": "Differential equations model physics",
+      "x": -340,
+      "y": 236,
+      "parent": "#dywq87"
+    },
+    {
+      "@id": "#pgpmpv",
+      "name": "Probability theory rests on measure theory",
+      "x": -409,
+      "y": 150,
+      "parent": "#dywq87"
+    },
+    {
+      "@id": "#h4xhvp",
+      "name": "Signal processing and data compression",
+      "x": -465,
+      "y": 53,
+      "parent": "#dywq87"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 14,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

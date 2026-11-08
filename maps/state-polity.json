@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "State (polity)",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#rxsww8",
+      "name": "What a state is",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7zi5nf",
+      "name": "Monopoly on legitimate force (Weber)",
+      "x": -445,
+      "y": -51,
+      "link": "https://en.wikipedia.org/wiki/Monopoly_on_violence",
+      "parent": "#rxsww8"
+    },
+    {
+      "@id": "#6yv6j7",
+      "name": "Territory, population and government",
+      "x": -409,
+      "y": -150,
+      "parent": "#rxsww8"
+    },
+    {
+      "@id": "#h7y9wy",
+      "name": "Sovereignty: no higher authority inside",
+      "x": -340,
+      "y": -236,
+      "parent": "#rxsww8"
+    },
+    {
+      "@id": "#3k3dmx",
+      "name": "About 193 states are UN members",
+      "x": -243,
+      "y": -303,
+      "parent": "#rxsww8"
+    },
+    {
+      "@id": "#mb85jz",
+      "name": "Becoming a state",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tutere",
+      "name": "Montevideo Convention criteria, 1933",
+      "x": -133,
+      "y": -360,
+      "link": "https://en.wikipedia.org/wiki/Montevideo_Convention",
+      "parent": "#mb85jz"
+    },
+    {
+      "@id": "#bvb9e2",
+      "name": "Recognition by other states",
+      "x": 0,
+      "y": -408,
+      "parent": "#mb85jz"
+    },
+    {
+      "@id": "#4463t7",
+      "name": "Disputed cases like Taiwan and Kosovo",
+      "x": 175,
+      "y": -465,
+      "parent": "#mb85jz"
+    },
+    {
+      "@id": "#sqgzit",
+      "name": "What states do",
+      "x": 193,
+      "y": -99,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#i3c78e",
+      "name": "Make and enforce laws",
+      "x": 243,
+      "y": -303,
+      "parent": "#sqgzit"
+    },
+    {
+      "@id": "#e23k7i",
+      "name": "Collect taxes and spend them",
+      "x": 340,
+      "y": -236,
+      "parent": "#sqgzit"
+    },
+    {
+      "@id": "#9abq67",
+      "name": "Defend borders with armed forces",
+      "x": 409,
+      "y": -150,
+      "parent": "#sqgzit"
+    },
+    {
+      "@id": "#ccht2g",
+      "name": "Provide schools, health and welfare",
+      "x": 445,
+      "y": -51,
+      "parent": "#sqgzit"
+    },
+    {
+      "@id": "#ec4sv3",
+      "name": "Forms of state",
+      "x": 209,
+      "y": 76,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tp9qf5",
+      "name": "Unitary versus federal",
+      "x": 445,
+      "y": 51,
+      "parent": "#ec4sv3"
+    },
+    {
+      "@id": "#gbdcz5",
+      "name": "Monarchies and republics",
+      "x": 409,
+      "y": 150,
+      "parent": "#ec4sv3"
+    },
+    {
+      "@id": "#qzi8vt",
+      "name": "Democracies and authoritarian regimes",
+      "x": 340,
+      "y": 236,
+      "parent": "#ec4sv3"
+    },
+    {
+      "@id": "#6n2ihm",
+      "name": "History",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#w3ds75",
+      "name": "First states in Mesopotamia and Egypt",
+      "x": 243,
+      "y": 303,
+      "parent": "#6n2ihm"
+    },
+    {
+      "@id": "#wwnqgf",
+      "name": "City-states, empires and kingdoms",
+      "x": 133,
+      "y": 360,
+      "parent": "#6n2ihm"
+    },
+    {
+      "@id": "#bsadz2",
+      "name": "Peace of Westphalia, 1648",
+      "x": 0,
+      "y": 408,
+      "link": "https://en.wikipedia.org/wiki/Peace_of_Westphalia",
+      "parent": "#6n2ihm"
+    },
+    {
+      "@id": "#itgd9i",
+      "name": "Modern bureaucratic state from 1800s",
+      "x": -175,
+      "y": 465,
+      "parent": "#6n2ihm"
+    },
+    {
+      "@id": "#h4ztha",
+      "name": "Theories of the state",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yhpy65",
+      "name": "Hobbes: state ends the war of all",
+      "x": -243,
+      "y": 303,
+      "link": "https://en.wikipedia.org/wiki/Leviathan_%28Hobbes_book%29",
+      "parent": "#h4ztha"
+    },
+    {
+      "@id": "#85c4t6",
+      "name": "Locke: protects natural rights",
+      "x": -340,
+      "y": 236,
+      "parent": "#h4ztha"
+    },
+    {
+      "@id": "#kgfhg9",
+      "name": "Marx: tool of the ruling class",
+      "x": -409,
+      "y": 150,
+      "parent": "#h4ztha"
+    },
+    {
+      "@id": "#pf8tvc",
+      "name": "Anarchists: the state should be abolished",
+      "x": -445,
+      "y": 51,
+      "parent": "#h4ztha"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

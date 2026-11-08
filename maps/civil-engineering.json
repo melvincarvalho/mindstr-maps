@@ -1,0 +1,318 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Civil engineering",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#x9ygs4",
+      "name": "What it covers",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pgf2wk",
+      "name": "Designing and building public infrastructure",
+      "x": -525,
+      "y": -62,
+      "parent": "#x9ygs4"
+    },
+    {
+      "@id": "#n4bd8s",
+      "name": "Oldest discipline after military engineering",
+      "x": -405,
+      "y": -156,
+      "parent": "#x9ygs4"
+    },
+    {
+      "@id": "#p3wa4q",
+      "name": "Clients are governments and private developers",
+      "x": -330,
+      "y": -245,
+      "parent": "#x9ygs4"
+    },
+    {
+      "@id": "#cg66xw",
+      "name": "Main specialisms",
+      "x": 17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#utqygj",
+      "name": "Structural: buildings, bridges, towers",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Structural_engineering",
+      "parent": "#cg66xw"
+    },
+    {
+      "@id": "#855jbj",
+      "name": "Geotechnical: soil, rock and foundations",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Geotechnical_engineering",
+      "parent": "#cg66xw"
+    },
+    {
+      "@id": "#txudwp",
+      "name": "Transport: roads, railways, airports",
+      "x": 42,
+      "y": -423,
+      "parent": "#cg66xw"
+    },
+    {
+      "@id": "#9iu8nj",
+      "name": "Water: supply, drainage, flood defence",
+      "x": 234,
+      "y": -485,
+      "parent": "#cg66xw"
+    },
+    {
+      "@id": "#axg7vt",
+      "name": "Environmental: wastewater and pollution control",
+      "x": 281,
+      "y": -281,
+      "parent": "#cg66xw"
+    },
+    {
+      "@id": "#yryhtg",
+      "name": "Forces and materials",
+      "x": 227,
+      "y": -27,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c7vs88",
+      "name": "Loads: weight, wind, earthquakes",
+      "x": 372,
+      "y": -203,
+      "parent": "#yryhtg"
+    },
+    {
+      "@id": "#xw3pgh",
+      "name": "Concrete is strong in compression",
+      "x": 430,
+      "y": -106,
+      "link": "https://en.wikipedia.org/wiki/Reinforced_concrete",
+      "parent": "#yryhtg"
+    },
+    {
+      "@id": "#49q34s",
+      "name": "Steel is strong in tension",
+      "x": 490,
+      "y": 0,
+      "parent": "#yryhtg"
+    },
+    {
+      "@id": "#59ejaf",
+      "name": "Reinforced concrete combines both",
+      "x": 430,
+      "y": 106,
+      "parent": "#yryhtg"
+    },
+    {
+      "@id": "#p7f4m3",
+      "name": "A project's life",
+      "x": 115,
+      "y": 159,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3rypx8",
+      "name": "Surveys and site investigation",
+      "x": 389,
+      "y": 212,
+      "parent": "#p7f4m3"
+    },
+    {
+      "@id": "#e6xrd8",
+      "name": "Design to codes and standards",
+      "x": 281,
+      "y": 281,
+      "parent": "#p7f4m3"
+    },
+    {
+      "@id": "#3i3dxe",
+      "name": "Construction and site management",
+      "x": 164,
+      "y": 335,
+      "parent": "#p7f4m3"
+    },
+    {
+      "@id": "#td8zcf",
+      "name": "Inspection and maintenance for decades",
+      "x": 38,
+      "y": 391,
+      "parent": "#p7f4m3"
+    },
+    {
+      "@id": "#zb5twz",
+      "name": "Landmarks and lessons",
+      "x": -169,
+      "y": 125,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pe5fsb",
+      "name": "Roman aqueducts carried water by gravity",
+      "x": -124,
+      "y": 447,
+      "link": "https://en.wikipedia.org/wiki/Roman_aqueduct",
+      "parent": "#zb5twz"
+    },
+    {
+      "@id": "#9k4jxu",
+      "name": "Panama Canal opened 1914",
+      "x": -225,
+      "y": 312,
+      "parent": "#zb5twz"
+    },
+    {
+      "@id": "#m99trh",
+      "name": "Channel Tunnel opened 1994",
+      "x": -330,
+      "y": 245,
+      "parent": "#zb5twz"
+    },
+    {
+      "@id": "#qbh7xs",
+      "name": "Burj Khalifa, tallest building since 2010",
+      "x": -459,
+      "y": 177,
+      "parent": "#zb5twz"
+    },
+    {
+      "@id": "#w5vidn",
+      "name": "Tacoma Narrows Bridge collapse, 1940",
+      "x": -445,
+      "y": 54,
+      "parent": "#zb5twz"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    },
+    {
+      "start": 21,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

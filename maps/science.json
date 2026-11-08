@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Science",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#eenwh4",
+      "name": "What science is",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wr9ypf",
+      "name": "Knowledge tested against evidence",
+      "x": -485,
+      "y": -58,
+      "parent": "#eenwh4"
+    },
+    {
+      "@id": "#qkjq94",
+      "name": "Claims must be falsifiable",
+      "x": -405,
+      "y": -156,
+      "link": "https://en.wikipedia.org/wiki/Falsifiability",
+      "parent": "#eenwh4"
+    },
+    {
+      "@id": "#pd7eqv",
+      "name": "Conclusions stay open to revision",
+      "x": -330,
+      "y": -245,
+      "parent": "#eenwh4"
+    },
+    {
+      "@id": "#jz4699",
+      "name": "How it works",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z4ntv5",
+      "name": "Observe, hypothesise, test, revise",
+      "x": -225,
+      "y": -312,
+      "parent": "#jz4699"
+    },
+    {
+      "@id": "#3ieqhh",
+      "name": "Controlled experiments isolate causes",
+      "x": -104,
+      "y": -367,
+      "parent": "#jz4699"
+    },
+    {
+      "@id": "#ws5exn",
+      "name": "Results must be reproducible",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Reproducibility",
+      "parent": "#jz4699"
+    },
+    {
+      "@id": "#srzcuc",
+      "name": "Peer review checks findings",
+      "x": 234,
+      "y": -485,
+      "link": "https://en.wikipedia.org/wiki/Peer_review",
+      "parent": "#jz4699"
+    },
+    {
+      "@id": "#94cm4p",
+      "name": "Main branches",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d5sd9m",
+      "name": "Physics: matter, energy and forces",
+      "x": 281,
+      "y": -281,
+      "parent": "#94cm4p"
+    },
+    {
+      "@id": "#gqi7vx",
+      "name": "Chemistry: substances and reactions",
+      "x": 372,
+      "y": -203,
+      "parent": "#94cm4p"
+    },
+    {
+      "@id": "#6qz8he",
+      "name": "Biology: living things",
+      "x": 430,
+      "y": -106,
+      "parent": "#94cm4p"
+    },
+    {
+      "@id": "#sngr8a",
+      "name": "Earth and space sciences",
+      "x": 450,
+      "y": 0,
+      "parent": "#94cm4p"
+    },
+    {
+      "@id": "#afqr7e",
+      "name": "Tools of science",
+      "x": 190,
+      "y": 104,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2nuwfn",
+      "name": "Mathematics and statistics",
+      "x": 449,
+      "y": 111,
+      "parent": "#afqr7e"
+    },
+    {
+      "@id": "#fk6jjt",
+      "name": "Instruments extend the senses",
+      "x": 372,
+      "y": 203,
+      "parent": "#afqr7e"
+    },
+    {
+      "@id": "#jheg54",
+      "name": "Computer models and simulations",
+      "x": 281,
+      "y": 281,
+      "parent": "#afqr7e"
+    },
+    {
+      "@id": "#xdrefk",
+      "name": "Landmark ideas",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cwcyma",
+      "name": "Newton's laws of motion and gravity",
+      "x": 164,
+      "y": 335,
+      "parent": "#xdrefk"
+    },
+    {
+      "@id": "#kyypvb",
+      "name": "Evolution by natural selection",
+      "x": 38,
+      "y": 391,
+      "link": "https://en.wikipedia.org/wiki/Natural_selection",
+      "parent": "#xdrefk"
+    },
+    {
+      "@id": "#ntdydi",
+      "name": "Atoms and the periodic table",
+      "x": -124,
+      "y": 447,
+      "parent": "#xdrefk"
+    },
+    {
+      "@id": "#56g4d2",
+      "name": "Relativity and quantum mechanics",
+      "x": -225,
+      "y": 312,
+      "parent": "#xdrefk"
+    },
+    {
+      "@id": "#p68jtj",
+      "name": "Science and society",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4fyk3a",
+      "name": "Drives medicine, technology and engineering",
+      "x": -330,
+      "y": 245,
+      "parent": "#p68jtj"
+    },
+    {
+      "@id": "#urg8rx",
+      "name": "Evidence informs public policy",
+      "x": -405,
+      "y": 156,
+      "parent": "#p68jtj"
+    },
+    {
+      "@id": "#vn7aht",
+      "name": "Uncertainty is stated, not hidden",
+      "x": -505,
+      "y": 60,
+      "parent": "#p68jtj"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

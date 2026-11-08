@@ -1,0 +1,308 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Speed of light",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#xxximf",
+      "name": "How fast it is",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aknxx9",
+      "name": "Exactly 299,792,458 metres per second",
+      "x": -484,
+      "y": -65,
+      "parent": "#xxximf"
+    },
+    {
+      "@id": "#ss9dus",
+      "name": "About 300,000 km each second",
+      "x": -396,
+      "y": -171,
+      "parent": "#xxximf"
+    },
+    {
+      "@id": "#a2xiat",
+      "name": "Written as c in physics",
+      "x": -305,
+      "y": -265,
+      "parent": "#xxximf"
+    },
+    {
+      "@id": "#unbntz",
+      "name": "Light takes time to arrive",
+      "x": 19,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k97uhq",
+      "name": "About 1.3 seconds from the Moon",
+      "x": -181,
+      "y": -330,
+      "parent": "#unbntz"
+    },
+    {
+      "@id": "#3563je",
+      "name": "About 8 minutes from the Sun",
+      "x": -41,
+      "y": -391,
+      "parent": "#unbntz"
+    },
+    {
+      "@id": "#yuzqxi",
+      "name": "A light-year is about 9.5 trillion km",
+      "x": 140,
+      "y": -445,
+      "link": "https://en.wikipedia.org/wiki/Light-year",
+      "parent": "#unbntz"
+    },
+    {
+      "@id": "#ydiad3",
+      "name": "Looking far away means seeing the past",
+      "x": 246,
+      "y": -301,
+      "parent": "#unbntz"
+    },
+    {
+      "@id": "#c2pmd3",
+      "name": "How it was measured",
+      "x": 227,
+      "y": -30,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#27rbjn",
+      "name": "Galileo's lantern test was too crude",
+      "x": 355,
+      "y": -221,
+      "parent": "#c2pmd3"
+    },
+    {
+      "@id": "#uyiiez",
+      "name": "Rømer used Jupiter's moon Io, 1676",
+      "x": 426,
+      "y": -117,
+      "link": "https://en.wikipedia.org/wiki/R%C3%B8mer%27s_determination_of_the_speed_of_light",
+      "parent": "#c2pmd3"
+    },
+    {
+      "@id": "#reimuz",
+      "name": "Fizeau's spinning toothed wheel, 1849",
+      "x": 530,
+      "y": 0,
+      "parent": "#c2pmd3"
+    },
+    {
+      "@id": "#ydzzyv",
+      "name": "Michelson's precise mirror measurements",
+      "x": 426,
+      "y": 117,
+      "parent": "#c2pmd3"
+    },
+    {
+      "@id": "#enrvkj",
+      "name": "Slowing down in materials",
+      "x": 198,
+      "y": 171,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dnrkm7",
+      "name": "About 25% slower in water",
+      "x": 355,
+      "y": 221,
+      "parent": "#enrvkj"
+    },
+    {
+      "@id": "#pf3ve5",
+      "name": "Bending at boundaries causes refraction",
+      "x": 246,
+      "y": 301,
+      "link": "https://en.wikipedia.org/wiki/Refraction",
+      "parent": "#enrvkj"
+    },
+    {
+      "@id": "#99f6ft",
+      "name": "The cosmic speed limit",
+      "x": -25,
+      "y": 231,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fvyfsq",
+      "name": "Same for every observer",
+      "x": 110,
+      "y": 349,
+      "parent": "#99f6ft"
+    },
+    {
+      "@id": "#hbi5vn",
+      "name": "Key to Einstein's relativity",
+      "x": -43,
+      "y": 407,
+      "link": "https://en.wikipedia.org/wiki/Special_relativity",
+      "parent": "#99f6ft"
+    },
+    {
+      "@id": "#j5hjvj",
+      "name": "Nothing with mass can reach it",
+      "x": -181,
+      "y": 330,
+      "parent": "#99f6ft"
+    },
+    {
+      "@id": "#9tqp2x",
+      "name": "Why it matters today",
+      "x": -202,
+      "y": 88,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uzejtw",
+      "name": "The metre is defined by it",
+      "x": -305,
+      "y": 265,
+      "parent": "#9tqp2x"
+    },
+    {
+      "@id": "#xetk2y",
+      "name": "Delays in satellite and space messages",
+      "x": -396,
+      "y": 171,
+      "parent": "#9tqp2x"
+    },
+    {
+      "@id": "#guhuqa",
+      "name": "Fibre-optic internet runs near it",
+      "x": -504,
+      "y": 68,
+      "parent": "#9tqp2x"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

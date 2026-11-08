@@ -1,0 +1,30 @@
+category: Society
+aliases: stealing, larceny, what is theft, theft law
+- Theft
+  - What theft is
+    - Taking property without the owner's consent
+    - Intending to deprive them permanently
+    - Exact legal definitions vary by country
+  - Common forms
+    - Shoplifting from stores
+    - Pickpocketing and bag snatching
+    - Vehicle theft and theft from vehicles
+    - Employee theft and embezzlement
+  - Related offences
+    - [Burglary: entering a building to steal](https://en.wikipedia.org/wiki/Burglary)
+    - [Robbery: theft using force or threats](https://en.wikipedia.org/wiki/Robbery)
+    - Fraud: obtaining property by deception
+    - Handling or receiving stolen goods
+  - In the law
+    - [Larceny was the old common-law term](https://en.wikipedia.org/wiki/Larceny)
+    - England's Theft Act 1968
+    - Penalties often scale with value taken
+  - Trends
+    - Most common type of recorded crime
+    - Car theft fell after better locks
+    - Online fraud now rivals physical theft
+  - Prevention
+    - Locks, lighting and alarms
+    - CCTV and security tagging in shops
+    - Marking and registering valuables
+    - Insurance to cover losses

@@ -1,0 +1,31 @@
+category: Health
+aliases: stroke symptoms, signs of a stroke, brain attack, cerebrovascular accident
+- Stroke
+  - [Spot it: FAST](https://en.wikipedia.org/wiki/FAST_%28stroke%29)
+    - Face drooping on one side
+    - Arm weakness or numbness
+    - Speech slurred or confused
+    - Time to call emergency services
+  - Other sudden signs
+    - Vision loss in one or both eyes
+    - Severe sudden headache
+    - Dizziness or loss of balance
+  - What happens
+    - Blood supply to brain is cut
+    - [Ischaemic: clot blocks an artery](https://en.wikipedia.org/wiki/Ischemic_stroke)
+    - Haemorrhagic: a vessel bursts
+    - [TIA: warning mini-stroke](https://en.wikipedia.org/wiki/Transient_ischemic_attack)
+    - Brain cells die within minutes
+  - Risk factors
+    - High blood pressure is the biggest
+    - Atrial fibrillation causes clots
+    - Smoking, diabetes and high cholesterol
+    - Older age and inactivity
+  - Emergency treatment
+    - Brain scan shows clot or bleed
+    - Clot-busting drug within hours
+    - [Thrombectomy pulls out the clot](https://en.wikipedia.org/wiki/Thrombectomy)
+  - Recovery and prevention
+    - Rehab: physio, speech, occupational therapy
+    - Blood thinners and blood pressure drugs
+    - Healthy lifestyle cuts repeat risk

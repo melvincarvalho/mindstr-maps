@@ -1,0 +1,30 @@
+category: Science
+aliases: earth's atmosphere, layers of the atmosphere, composition of air
+- Atmosphere of Earth
+  - What air is made of
+    - Nitrogen about 78%
+    - Oxygen about 21%
+    - Argon just under 1%
+    - [Carbon dioxide about 0.04%](https://en.wikipedia.org/wiki/Carbon_dioxide_in_Earth%27s_atmosphere)
+    - Water vapour varies, up to 4%
+  - Layers, from the ground up
+    - Troposphere: weather, up to about 12 km
+    - [Stratosphere holds the ozone layer](https://en.wikipedia.org/wiki/Ozone_layer)
+    - Mesosphere burns up meteors
+    - Thermosphere: auroras and the ISS
+    - [Space conventionally begins at 100 km](https://en.wikipedia.org/wiki/K%C3%A1rm%C3%A1n_line)
+    - Exosphere fades into space
+  - What it does for us
+    - Supplies oxygen to breathe
+    - Ozone blocks harmful ultraviolet light
+    - Greenhouse effect keeps Earth about 33°C warmer
+    - Spreads heat from equator to poles
+  - Pressure and weather
+    - Air pressure halves about every 5.5 km
+    - Sea-level pressure about 1013 hPa
+    - Uneven heating drives winds
+    - Water vapour forms clouds and rain
+  - How it formed and changes
+    - Early air had almost no oxygen
+    - [Oxygen rose about 2.4 billion years ago](https://en.wikipedia.org/wiki/Great_Oxidation_Event)
+    - Humans have raised CO₂ by about 50%

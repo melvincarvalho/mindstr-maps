@@ -1,0 +1,30 @@
+category: Science
+aliases: dying, end of life, what happens when we die
+- Death
+  - What death is
+    - Permanent end of life's processes
+    - Heart and breathing stop
+    - [Brain death is a legal definition](https://en.wikipedia.org/wiki/Brain_death)
+  - Why living things die
+    - [Aging gradually wears the body down](https://en.wikipedia.org/wiki/Ageing)
+    - Disease, injury and infection
+    - Most deaths worldwide are from illness
+  - After death
+    - Body cools and muscles stiffen
+    - Decomposition returns nutrients to soil
+    - Organ donation can save other lives
+  - Grief
+    - [Grief is a natural response](https://en.wikipedia.org/wiki/Grief)
+    - It comes in waves, not stages
+    - Talking and support help healing
+    - Bereavement support services can help
+  - Rituals and customs
+    - Burial and cremation are most common
+    - Funerals, wakes and memorials
+    - [Day of the Dead honours ancestors](https://en.wikipedia.org/wiki/Day_of_the_Dead)
+    - Mourning periods vary across cultures
+  - Meaning and preparation
+    - Religions offer beliefs about afterlife
+    - Philosophers ask why death matters
+    - [Palliative care eases final months](https://en.wikipedia.org/wiki/Palliative_care)
+    - Wills and advance care plans

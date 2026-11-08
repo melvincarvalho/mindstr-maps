@@ -1,0 +1,28 @@
+category: Technology
+aliases: vehicles, types of vehicles, motor vehicle, how vehicles work
+- Vehicle
+  - A machine that carries people or cargo
+    - Land, water, air and space vehicles
+    - Powered by muscle, wind or engines
+  - Human and animal power
+    - [Wheel invented about 3500 BC](https://en.wikipedia.org/wiki/Wheel)
+    - Carts and chariots pulled by animals
+    - [Bicycle, most efficient human transport](https://en.wikipedia.org/wiki/Bicycle)
+  - Engines and motors
+    - Steam engines powered early locomotives
+    - [Internal combustion engine burns fuel inside](https://en.wikipedia.org/wiki/Internal_combustion_engine)
+    - Electric motors run on batteries
+    - Hybrids combine engine and battery
+  - Main parts of a car
+    - Engine or motor makes the power
+    - Transmission sends power to wheels
+    - Brakes, steering and suspension control it
+    - Chassis and body hold everything
+  - Milestones
+    - Benz patents motor car, 1886
+    - Ford Model T mass-produced from 1908
+    - Over a billion cars on roads today
+  - Safety and the future
+    - Seat belts and airbags save lives
+    - [Self-driving cars use sensors and software](https://en.wikipedia.org/wiki/Self-driving_car)
+    - Electric vehicles replacing petrol and diesel

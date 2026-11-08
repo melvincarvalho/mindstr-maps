@@ -1,0 +1,342 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Martial arts",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#y4ngjk",
+      "name": "What martial arts are",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5xq8p7",
+      "name": "Codified systems of combat",
+      "x": -445,
+      "y": -51,
+      "parent": "#y4ngjk"
+    },
+    {
+      "@id": "#skaucm",
+      "name": "For self-defence, sport and fitness",
+      "x": -409,
+      "y": -150,
+      "parent": "#y4ngjk"
+    },
+    {
+      "@id": "#8zv3if",
+      "name": "Many stress discipline and respect",
+      "x": -340,
+      "y": -236,
+      "parent": "#y4ngjk"
+    },
+    {
+      "@id": "#8ac55a",
+      "name": "Mixed martial arts blends many styles",
+      "x": -243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Mixed_martial_arts",
+      "parent": "#y4ngjk"
+    },
+    {
+      "@id": "#5xhkx9",
+      "name": "Striking arts",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#eic3gj",
+      "name": "Karate, from Okinawa, Japan",
+      "x": -133,
+      "y": -360,
+      "link": "https://en.wikipedia.org/wiki/Karate",
+      "parent": "#5xhkx9"
+    },
+    {
+      "@id": "#xcnyxn",
+      "name": "Taekwondo: Korean, kicks, Olympic since 2000",
+      "x": 0,
+      "y": -408,
+      "parent": "#5xhkx9"
+    },
+    {
+      "@id": "#kc2z7h",
+      "name": "Boxing and Thai boxing (Muay Thai)",
+      "x": 175,
+      "y": -465,
+      "parent": "#5xhkx9"
+    },
+    {
+      "@id": "#wbnyew",
+      "name": "Kung fu: many Chinese styles",
+      "x": 243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Chinese_martial_arts",
+      "parent": "#5xhkx9"
+    },
+    {
+      "@id": "#ijigy9",
+      "name": "Grappling arts",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rhkgde",
+      "name": "Judo: throws, Olympic since 1964",
+      "x": 340,
+      "y": -236,
+      "link": "https://en.wikipedia.org/wiki/Judo",
+      "parent": "#ijigy9"
+    },
+    {
+      "@id": "#az5584",
+      "name": "Brazilian jiu-jitsu: ground submissions",
+      "x": 409,
+      "y": -150,
+      "parent": "#ijigy9"
+    },
+    {
+      "@id": "#k3xjzm",
+      "name": "Wrestling, one of the oldest sports",
+      "x": 505,
+      "y": -57,
+      "parent": "#ijigy9"
+    },
+    {
+      "@id": "#3w6n5m",
+      "name": "Aikido redirects an attacker's force",
+      "x": 445,
+      "y": 51,
+      "parent": "#ijigy9"
+    },
+    {
+      "@id": "#hhrcbq",
+      "name": "Weapons and internal arts",
+      "x": 174,
+      "y": 120,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cqy23p",
+      "name": "Kendo: Japanese bamboo-sword fencing",
+      "x": 463,
+      "y": 171,
+      "parent": "#hhrcbq"
+    },
+    {
+      "@id": "#825y4b",
+      "name": "Tai chi: slow, flowing movement",
+      "x": 340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/Tai_chi",
+      "parent": "#hhrcbq"
+    },
+    {
+      "@id": "#qxfhja",
+      "name": "Eskrima: Filipino stick fighting",
+      "x": 243,
+      "y": 303,
+      "parent": "#hhrcbq"
+    },
+    {
+      "@id": "#ud3emg",
+      "name": "Training and ranks",
+      "x": -33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#texj7v",
+      "name": "Forms (kata) drill set sequences",
+      "x": 133,
+      "y": 360,
+      "parent": "#ud3emg"
+    },
+    {
+      "@id": "#i3eevt",
+      "name": "Sparring tests skills with partners",
+      "x": 0,
+      "y": 408,
+      "parent": "#ud3emg"
+    },
+    {
+      "@id": "#zq885r",
+      "name": "Coloured belts mark progress",
+      "x": -175,
+      "y": 465,
+      "parent": "#ud3emg"
+    },
+    {
+      "@id": "#5q4yzw",
+      "name": "Black belt usually takes years",
+      "x": -243,
+      "y": 303,
+      "parent": "#ud3emg"
+    },
+    {
+      "@id": "#cg4qvr",
+      "name": "Starting out",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pjdrbd",
+      "name": "Pick an art matching your goal",
+      "x": -340,
+      "y": 236,
+      "parent": "#cg4qvr"
+    },
+    {
+      "@id": "#mgxa2g",
+      "name": "Try a trial class first",
+      "x": -409,
+      "y": 150,
+      "parent": "#cg4qvr"
+    },
+    {
+      "@id": "#prijaj",
+      "name": "Check instructors' qualifications and safety",
+      "x": -525,
+      "y": 59,
+      "parent": "#cg4qvr"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

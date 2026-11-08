@@ -1,0 +1,375 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "South Korea",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#qhajgs",
+      "name": "Land and cities",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5p5v3p",
+      "name": "Southern half of the Korean Peninsula",
+      "x": -446,
+      "y": -45,
+      "parent": "#qhajgs"
+    },
+    {
+      "@id": "#ynhwpz",
+      "name": "Mountains cover about 70% of land",
+      "x": -456,
+      "y": -145,
+      "parent": "#qhajgs"
+    },
+    {
+      "@id": "#cauiqr",
+      "name": "Seoul is the capital, about 9 million",
+      "x": -364,
+      "y": -212,
+      "link": "https://en.wikipedia.org/wiki/Seoul",
+      "parent": "#qhajgs"
+    },
+    {
+      "@id": "#m7i9fp",
+      "name": "Busan is the largest port",
+      "x": -287,
+      "y": -277,
+      "parent": "#qhajgs"
+    },
+    {
+      "@id": "#fs9ei2",
+      "name": "Jeju Island off the south coast",
+      "x": -192,
+      "y": -326,
+      "parent": "#qhajgs"
+    },
+    {
+      "@id": "#8pguri",
+      "name": "People and language",
+      "x": 43,
+      "y": -181,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v33bxv",
+      "name": "About 52 million people",
+      "x": -92,
+      "y": -386,
+      "parent": "#8pguri"
+    },
+    {
+      "@id": "#a2gcbb",
+      "name": "Korean, written in the Hangul alphabet",
+      "x": 33,
+      "y": -439,
+      "link": "https://en.wikipedia.org/wiki/Hangul",
+      "parent": "#8pguri"
+    },
+    {
+      "@id": "#xeycj3",
+      "name": "Very low birth rate, ageing fast",
+      "x": 199,
+      "y": -492,
+      "parent": "#8pguri"
+    },
+    {
+      "@id": "#9scubc",
+      "name": "Mostly no religion, Christian or Buddhist",
+      "x": 241,
+      "y": -304,
+      "parent": "#8pguri"
+    },
+    {
+      "@id": "#c6gnzy",
+      "name": "History in brief",
+      "x": 223,
+      "y": -46,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ecmcsg",
+      "name": "Joseon dynasty ruled 1392 to 1897",
+      "x": 328,
+      "y": -246,
+      "parent": "#c6gnzy"
+    },
+    {
+      "@id": "#n4cc9c",
+      "name": "Japanese colonial rule, 1910 to 1945",
+      "x": 394,
+      "y": -173,
+      "parent": "#c6gnzy"
+    },
+    {
+      "@id": "#dyi2si",
+      "name": "Divided at the 38th parallel, 1945",
+      "x": 455,
+      "y": -94,
+      "parent": "#c6gnzy"
+    },
+    {
+      "@id": "#uftp8c",
+      "name": "Korean War, 1950 to 1953",
+      "x": 470,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Korean_War",
+      "parent": "#c6gnzy"
+    },
+    {
+      "@id": "#h367ja",
+      "name": "Military rule, then democracy from 1987",
+      "x": 436,
+      "y": 90,
+      "parent": "#c6gnzy"
+    },
+    {
+      "@id": "#sg2rtv",
+      "name": "Government",
+      "x": 198,
+      "y": 148,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ka4pxe",
+      "name": "Presidential republic, single five-year term",
+      "x": 448,
+      "y": 197,
+      "parent": "#sg2rtv"
+    },
+    {
+      "@id": "#66cziu",
+      "name": "Armistice with North Korea, no peace treaty",
+      "x": 328,
+      "y": 246,
+      "parent": "#sg2rtv"
+    },
+    {
+      "@id": "#63yg22",
+      "name": "Alliance with US, American troops based",
+      "x": 241,
+      "y": 304,
+      "parent": "#sg2rtv"
+    },
+    {
+      "@id": "#yh9s47",
+      "name": "Economy",
+      "x": -14,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7752hb",
+      "name": "Rapid growth: Miracle on the Han River",
+      "x": 145,
+      "y": 357,
+      "link": "https://en.wikipedia.org/wiki/Miracle_on_the_Han_River",
+      "parent": "#yh9s47"
+    },
+    {
+      "@id": "#n8ckcd",
+      "name": "Samsung, Hyundai and LG conglomerates",
+      "x": 31,
+      "y": 407,
+      "parent": "#yh9s47"
+    },
+    {
+      "@id": "#986t8k",
+      "name": "Leading maker of chips, ships, cars",
+      "x": -112,
+      "y": 466,
+      "parent": "#yh9s47"
+    },
+    {
+      "@id": "#eq4m7f",
+      "name": "Among the world's top 15 economies",
+      "x": -318,
+      "y": 522,
+      "parent": "#yh9s47"
+    },
+    {
+      "@id": "#7dm29n",
+      "name": "Culture",
+      "x": -202,
+      "y": 89,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8zw872",
+      "name": "K-pop and dramas: the Korean Wave",
+      "x": -287,
+      "y": 277,
+      "link": "https://en.wikipedia.org/wiki/Korean_wave",
+      "parent": "#7dm29n"
+    },
+    {
+      "@id": "#w2d6yk",
+      "name": "Kimchi served with most meals",
+      "x": -364,
+      "y": 212,
+      "parent": "#7dm29n"
+    },
+    {
+      "@id": "#uanmes",
+      "name": "Taekwondo originated here",
+      "x": -418,
+      "y": 133,
+      "parent": "#7dm29n"
+    },
+    {
+      "@id": "#yjajux",
+      "name": "Hosted 1988 and 2018 Olympics",
+      "x": -446,
+      "y": 45,
+      "parent": "#7dm29n"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 7,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 12,
+      "end": 16
+    },
+    {
+      "start": 12,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    },
+    {
+      "start": 0,
+      "end": 27
+    },
+    {
+      "start": 27,
+      "end": 28
+    },
+    {
+      "start": 27,
+      "end": 29
+    },
+    {
+      "start": 27,
+      "end": 30
+    },
+    {
+      "start": 27,
+      "end": 31
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,27 @@
+category: Society
+aliases: sense of community, local community, community building
+- Community
+  - What a community is
+    - Group sharing place, identity or interest
+    - Members feel belonging and mutual ties
+  - Kinds of community
+    - Local: villages, towns and neighborhoods
+    - Communities of faith or ethnicity
+    - Communities of interest or profession
+    - [Online communities and forums](https://en.wikipedia.org/wiki/Online_community)
+  - What holds it together
+    - [Feeling of membership and belonging](https://en.wikipedia.org/wiki/Sense_of_community)
+    - [Social capital: trust and networks](https://en.wikipedia.org/wiki/Social_capital)
+    - Shared spaces, events and rituals
+  - Ideas about community
+    - [Tönnies: Gemeinschaft versus Gesellschaft](https://en.wikipedia.org/wiki/Gemeinschaft_and_Gesellschaft)
+    - [Putnam's Bowling Alone on declining ties](https://en.wikipedia.org/wiki/Bowling_Alone)
+    - Anderson: nations as imagined communities
+  - Building community
+    - Volunteering and local associations
+    - Community centers, libraries and parks
+    - Organizing together for shared goals
+  - Challenges
+    - Loneliness and social isolation
+    - Frequent moving weakens local ties
+    - Exclusion of outsiders

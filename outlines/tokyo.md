@@ -1,0 +1,34 @@
+category: Geography
+aliases: tokyo japan, greater tokyo, tokyo metropolis
+- Tokyo
+  - Setting
+    - Capital of Japan, on Tokyo Bay
+    - On the Kantō Plain of Honshu
+    - Greater Tokyo about 37 million people
+    - World's most populous metropolitan area
+  - History
+    - [Grew from Edo, the shoguns' seat](https://en.wikipedia.org/wiki/Edo)
+    - Renamed Tokyo in 1868 as emperor moved
+    - [1923 Great Kantō earthquake](https://en.wikipedia.org/wiki/1923_Great_Kant%C5%8D_earthquake)
+    - Firebombed in 1945, rebuilt quickly
+    - Olympics in 1964 and 2021
+  - Economy
+    - One of the world's largest city economies
+    - Headquarters of Japan's biggest companies
+    - Tokyo Stock Exchange
+    - [Shinjuku, the world's busiest station](https://en.wikipedia.org/wiki/Shinjuku_Station)
+  - Landmarks
+    - Imperial Palace on the old castle
+    - Sensō-ji temple in Asakusa
+    - Meiji Shrine and its forest
+    - Tokyo Skytree, 634 metres tall
+    - Shibuya's scramble crossing
+  - Culture
+    - Akihabara for anime and electronics
+    - More Michelin-starred restaurants than anywhere
+    - [Sumo tournaments at Ryōgoku](https://en.wikipedia.org/wiki/Ry%C5%8Dgoku_Kokugikan)
+    - Cherry blossom picnics each spring
+  - Living there
+    - Very safe, clean and orderly
+    - Trains famously punctual
+    - Earthquake preparedness part of daily life

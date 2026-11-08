@@ -1,0 +1,33 @@
+category: Geography
+aliases: republic of indonesia, indonesian archipelago
+- Indonesia
+  - Land
+    - About 17,000 islands across the equator
+    - Main islands include Java, Sumatra, Sulawesi
+    - Jakarta capital, Nusantara planned to replace it
+    - [Ring of Fire volcanoes and earthquakes](https://en.wikipedia.org/wiki/Ring_of_Fire)
+    - Orangutans, Komodo dragons, rainforests
+  - People and languages
+    - About 280 million, fourth most populous
+    - [Indonesian unites hundreds of local languages](https://en.wikipedia.org/wiki/Indonesian_language)
+    - Largest Muslim population, about 87%
+  - History in brief
+    - Srivijaya and Majapahit empires
+    - Spice trade drew European traders
+    - Dutch colony as the East Indies
+    - [Sukarno declared independence in 1945](https://en.wikipedia.org/wiki/Sukarno)
+    - Suharto ruled about 30 years until 1998
+  - Government
+    - Presidential republic, directly elected
+    - [Pancasila: five founding principles](https://en.wikipedia.org/wiki/Pancasila_%28politics%29)
+    - Democratic reforms since 1998
+    - East Timor became independent, 2002
+  - Economy
+    - Largest economy in Southeast Asia
+    - Palm oil, coal and nickel exports
+    - Member of the G20
+  - Culture
+    - Borobudur, giant Buddhist temple in Java
+    - Bali keeps a Hindu tradition
+    - Batik cloth and gamelan music
+    - Nasi goreng and rendang

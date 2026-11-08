@@ -1,0 +1,29 @@
+category: People
+aliases: euclid of alexandria, father of geometry
+- Euclid
+  - Who he was
+    - Greek mathematician, active about 300 BC
+    - Taught in Alexandria under Ptolemy I
+    - Almost nothing else is known
+  - [The Elements](https://en.wikipedia.org/wiki/Euclid%27s_Elements)
+    - Thirteen books of definitions and proofs
+    - Plane geometry, numbers and solids
+    - Gathered and organised earlier Greek work
+    - Ends with the five Platonic solids
+  - The axiomatic method
+    - Start from definitions and postulates
+    - Prove each theorem from earlier ones
+    - [Parallel postulate: the famous fifth](https://en.wikipedia.org/wiki/Parallel_postulate)
+  - Famous results
+    - There are infinitely many primes
+    - [Euclidean algorithm finds greatest common divisors](https://en.wikipedia.org/wiki/Euclidean_algorithm)
+    - A proof of Pythagoras' theorem
+    - Euclid's lemma on prime divisors
+  - Other works
+    - Optics, on vision and perspective
+    - Data, Phaenomena and several lost books
+  - Legacy
+    - Standard geometry textbook for 2,000 years
+    - Translated into Arabic, then Latin
+    - First printed in Venice, 1482
+    - [Non-Euclidean geometry arose in the 1800s](https://en.wikipedia.org/wiki/Non-Euclidean_geometry)

@@ -1,0 +1,30 @@
+category: Arts and culture
+aliases: traditional music, folk songs, roots music
+- Folk music
+  - What makes it folk
+    - Passed on by ear, not notation
+    - Authors often unknown
+    - Songs change as they travel
+  - Song types
+    - [Ballads tell stories in verse](https://en.wikipedia.org/wiki/Ballad)
+    - Work songs and sea shanties
+    - Lullabies and children's rhymes
+    - Protest and political songs
+  - Instruments
+    - Fiddle, guitar and banjo
+    - Accordion, concertina and bagpipes
+    - Hand drums and flutes
+  - Traditions around the world
+    - British and Irish ballads and dance tunes
+    - Appalachian old-time and bluegrass
+    - Flamenco, fado and klezmer
+    - West African griots
+  - Collectors and revivals
+    - [Child Ballads collected in 1880s–90s](https://en.wikipedia.org/wiki/Child_Ballads)
+    - Lomaxes recorded American folk songs
+    - [1950s–60s folk revival](https://en.wikipedia.org/wiki/American_folk_music_revival)
+    - Woody Guthrie, Pete Seeger, Joan Baez
+  - Legacy
+    - Bob Dylan and folk rock
+    - Shapes country, blues and pop
+    - Living traditions at sessions and festivals

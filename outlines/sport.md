@@ -1,0 +1,32 @@
+category: Life and home
+aliases: sports, types of sport
+- Sport
+  - What counts as sport
+    - Physical effort and skill
+    - Competition under agreed rules
+    - Chess often called a mind sport
+  - Kinds of sport
+    - Team: football, basketball, cricket
+    - Individual: tennis, golf, athletics
+    - Combat: boxing, judo, wrestling
+    - Racing: cycling, swimming, motorsport
+    - Outdoor: surfing, climbing, skiing
+  - History
+    - [Ancient Olympics from 776 BC](https://en.wikipedia.org/wiki/Ancient_Olympic_Games)
+    - Many modern rules codified in 1800s Britain
+    - [Modern Olympics revived in 1896](https://en.wikipedia.org/wiki/Olympic_Games)
+  - How it is organised
+    - Governing bodies like FIFA and IOC
+    - Leagues, cups and world championships
+    - Grassroots clubs up to professionals
+    - [Anti-doping rules set by WADA](https://en.wikipedia.org/wiki/World_Anti-Doping_Agency)
+  - Health benefits
+    - Strengthens heart, muscles and bones
+    - Lifts mood and improves sleep
+    - WHO: adults 150+ active minutes weekly
+    - Warm up to reduce injury
+  - Sport and society
+    - World Cup and Olympics draw billions
+    - Huge media rights and sponsorship
+    - National pride and community belonging
+    - [Paralympics for athletes with disabilities](https://en.wikipedia.org/wiki/Paralympic_Games)

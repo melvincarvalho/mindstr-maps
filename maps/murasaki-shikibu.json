@@ -1,0 +1,320 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Murasaki Shikibu",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#mnh5kv",
+      "name": "Heian Japan, about 973 to 1014",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cbu32c",
+      "name": "Court culture of the Heian period",
+      "x": -564,
+      "y": -68,
+      "link": "https://en.wikipedia.org/wiki/Heian_period",
+      "parent": "#mnh5kv"
+    },
+    {
+      "@id": "#det967",
+      "name": "Lived in the capital, Heian-kyō (Kyoto)",
+      "x": -401,
+      "y": -163,
+      "parent": "#mnh5kv"
+    },
+    {
+      "@id": "#qk96tb",
+      "name": "Real name unknown; \"Murasaki\" is a nickname",
+      "x": -318,
+      "y": -255,
+      "parent": "#mnh5kv"
+    },
+    {
+      "@id": "#5s64x3",
+      "name": "Early life",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6z5yge",
+      "name": "Daughter of scholar Fujiwara no Tametoki",
+      "x": -204,
+      "y": -321,
+      "parent": "#5s64x3"
+    },
+    {
+      "@id": "#2mg4bt",
+      "name": "Learned Chinese classics, unusual for women",
+      "x": -73,
+      "y": -372,
+      "parent": "#5s64x3"
+    },
+    {
+      "@id": "#xt4826",
+      "name": "Married Fujiwara no Nobutaka; widowed young",
+      "x": 82,
+      "y": -420,
+      "parent": "#5s64x3"
+    },
+    {
+      "@id": "#nmzmhp",
+      "name": "Daughter Daini no Sanmi, also a poet",
+      "x": 204,
+      "y": -321,
+      "parent": "#5s64x3"
+    },
+    {
+      "@id": "#6ddi3r",
+      "name": "Lady-in-waiting at court",
+      "x": 205,
+      "y": -84,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ypaesb",
+      "name": "Served Empress Shōshi from about 1005",
+      "x": 318,
+      "y": -255,
+      "parent": "#6ddi3r"
+    },
+    {
+      "@id": "#xsfc92",
+      "name": "Shōshi's father: regent Fujiwara no Michinaga",
+      "x": 401,
+      "y": -163,
+      "link": "https://en.wikipedia.org/wiki/Fujiwara_no_Michinaga",
+      "parent": "#6ddi3r"
+    },
+    {
+      "@id": "#dzyib3",
+      "name": "Rival writer Sei Shōnagon",
+      "x": 504,
+      "y": -62,
+      "link": "https://en.wikipedia.org/wiki/Sei_Sh%C5%8Dnagon",
+      "parent": "#6ddi3r"
+    },
+    {
+      "@id": "#w3ybge",
+      "name": "The Tale of Genji",
+      "x": 186,
+      "y": 108,
+      "link": "https://en.wikipedia.org/wiki/The_Tale_of_Genji",
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4dccx2",
+      "name": "54 chapters about Prince Genji's loves",
+      "x": 444,
+      "y": 56,
+      "parent": "#w3ybge"
+    },
+    {
+      "@id": "#ezx3if",
+      "name": "Last chapters follow his heirs at Uji",
+      "x": 401,
+      "y": 163,
+      "parent": "#w3ybge"
+    },
+    {
+      "@id": "#m32mf6",
+      "name": "Written in kana, Japanese vernacular script",
+      "x": 318,
+      "y": 255,
+      "parent": "#w3ybge"
+    },
+    {
+      "@id": "#6d9cyx",
+      "name": "Mono no aware: beauty of passing things",
+      "x": 204,
+      "y": 321,
+      "parent": "#w3ybge"
+    },
+    {
+      "@id": "#9jg26w",
+      "name": "Other writings",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yezja2",
+      "name": "The Diary of Lady Murasaki",
+      "x": 73,
+      "y": 372,
+      "link": "https://en.wikipedia.org/wiki/The_Diary_of_Lady_Murasaki",
+      "parent": "#9jg26w"
+    },
+    {
+      "@id": "#tickmd",
+      "name": "A collection of her waka poems",
+      "x": -82,
+      "y": 420,
+      "parent": "#9jg26w"
+    },
+    {
+      "@id": "#hp89cq",
+      "name": "Legacy",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b35e9y",
+      "name": "Often called the world's first novel",
+      "x": -204,
+      "y": 321,
+      "parent": "#hp89cq"
+    },
+    {
+      "@id": "#cjce2r",
+      "name": "12th-century illustrated Genji scrolls",
+      "x": -318,
+      "y": 255,
+      "parent": "#hp89cq"
+    },
+    {
+      "@id": "#vsq8vx",
+      "name": "Translated by Arthur Waley, 1925–1933",
+      "x": -401,
+      "y": 163,
+      "parent": "#hp89cq"
+    },
+    {
+      "@id": "#ckzptd",
+      "name": "Pictured on Japan's 2,000-yen note",
+      "x": -444,
+      "y": 56,
+      "parent": "#hp89cq"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

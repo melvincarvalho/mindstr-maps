@@ -1,0 +1,29 @@
+category: Science
+aliases: layers of the earth, earth's layers, inside the earth, structure of the earth, earth's core
+- Internal structure of Earth
+  - Crust
+    - Thin rocky skin, 5 to 70 km
+    - Oceanic crust: dense basalt
+    - Continental crust: thicker, lighter rock
+  - [Mantle](https://en.wikipedia.org/wiki/Mantle_%28geology%29)
+    - Hot rock down to 2,900 km
+    - Solid, yet flows over millions of years
+    - [Rigid plates ride on the asthenosphere](https://en.wikipedia.org/wiki/Asthenosphere)
+  - Outer core
+    - Liquid iron and nickel
+    - About 2,900 to 5,150 km down
+    - [Churning metal generates magnetic field](https://en.wikipedia.org/wiki/Earth%27s_magnetic_field)
+  - Inner core
+    - Solid iron-nickel ball
+    - Radius about 1,220 km
+    - Roughly as hot as Sun's surface
+    - Kept solid by immense pressure
+  - How we know
+    - Earthquake waves bend and reflect inside
+    - S-waves cannot cross the liquid core
+    - [Inge Lehmann found inner core, 1936](https://en.wikipedia.org/wiki/Inge_Lehmann)
+    - Meteorites hint at core composition
+  - Where the heat comes from
+    - Left over from Earth's formation
+    - Radioactive decay adds more
+    - Drives volcanoes and plate motion

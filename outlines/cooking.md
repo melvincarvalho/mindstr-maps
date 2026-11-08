@@ -1,0 +1,30 @@
+category: Life and home
+aliases: cookery, culinary arts, cooking methods, history of cooking
+- Cooking
+  - Why we cook
+    - Kills germs and makes food safer
+    - Easier to chew and digest
+    - Releases flavour and aroma
+  - History
+    - [Cooking with fire for hundreds of millennia](https://en.wikipedia.org/wiki/Control_of_fire_by_early_humans)
+    - Pottery allowed boiling and stewing
+    - [Earliest recipes on Babylonian clay tablets](https://en.wikipedia.org/wiki/Cookbook)
+    - Gas and electric stoves from 1800s
+  - Dry heat methods
+    - Roasting and baking in an oven
+    - Grilling over direct heat
+    - [Frying in hot oil or fat](https://en.wikipedia.org/wiki/Frying)
+  - Moist heat methods
+    - Boiling and simmering in water
+    - Steaming keeps more nutrients in
+    - Braising and stewing tenderise meat
+  - The science
+    - [Maillard reaction browns and flavours food](https://en.wikipedia.org/wiki/Maillard_reaction)
+    - Caramelisation of sugars
+    - Heat sets proteins like eggs
+    - Starches swell and thicken sauces
+  - Cuisines of the world
+    - [French cuisine shaped professional cooking](https://en.wikipedia.org/wiki/French_cuisine)
+    - Chinese stir-frying in a wok
+    - Indian spice blends and curries
+    - Mediterranean, Mexican, Japanese and more

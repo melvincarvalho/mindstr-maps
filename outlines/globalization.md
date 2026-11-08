@@ -1,0 +1,32 @@
+category: History
+aliases: globalisation, economic globalization, economic globalisation, global integration
+- Globalization
+  - What it is
+    - Economies and cultures growing interconnected
+    - Trade, money, people and ideas
+  - Waves of globalization
+    - Ancient trade routes like the Silk Road
+    - Steamships and telegraph, 1870–1914
+    - Wars and Depression reversed it
+    - [Rebuilt after 1945 by Bretton Woods](https://en.wikipedia.org/wiki/Bretton_Woods_system)
+    - Accelerated after the Cold War ended
+  - What drives it
+    - [Shipping containers cut transport costs](https://en.wikipedia.org/wiki/Containerization)
+    - [Lower tariffs under GATT and WTO](https://en.wikipedia.org/wiki/World_Trade_Organization)
+    - Internet makes communication almost free
+    - Multinationals spread supply chains worldwide
+    - China joined the WTO in 2001
+  - Benefits
+    - Hundreds of millions lifted from poverty
+    - Cheaper goods for consumers
+    - Faster spread of ideas and technology
+  - Costs and risks
+    - Factory jobs lost in rich countries
+    - Inequality rising within many countries
+    - [2008 financial crisis spread worldwide](https://en.wikipedia.org/wiki/2008_financial_crisis)
+    - Long supply chains fragile, as COVID showed
+    - Local cultures and environments under pressure
+  - Backlash
+    - Protests against free trade deals
+    - Brexit and rising protectionism
+    - US–China trade war from 2018

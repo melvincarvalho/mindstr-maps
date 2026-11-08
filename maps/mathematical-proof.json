@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Mathematical proof",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#adw3r9",
+      "name": "What a proof is",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xbjhgz",
+      "name": "Argument showing a statement must be true",
+      "x": -525,
+      "y": -59,
+      "parent": "#adw3r9"
+    },
+    {
+      "@id": "#hnjgb2",
+      "name": "Built from axioms and earlier results",
+      "x": -409,
+      "y": -150,
+      "parent": "#adw3r9"
+    },
+    {
+      "@id": "#6i3bpg",
+      "name": "Covers every case, not just tests",
+      "x": -340,
+      "y": -236,
+      "parent": "#adw3r9"
+    },
+    {
+      "@id": "#q5jx49",
+      "name": "Common methods",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#heq8bg",
+      "name": "Direct proof: step by step",
+      "x": -243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Direct_proof",
+      "parent": "#q5jx49"
+    },
+    {
+      "@id": "#fpr5fq",
+      "name": "Contradiction: assume false, reach absurdity",
+      "x": -133,
+      "y": -360,
+      "link": "https://en.wikipedia.org/wiki/Proof_by_contradiction",
+      "parent": "#q5jx49"
+    },
+    {
+      "@id": "#ktpysa",
+      "name": "Induction: first case, then next",
+      "x": 0,
+      "y": -408,
+      "link": "https://en.wikipedia.org/wiki/Mathematical_induction",
+      "parent": "#q5jx49"
+    },
+    {
+      "@id": "#qqw2p7",
+      "name": "Contrapositive: prove \"not B, so not A\"",
+      "x": 175,
+      "y": -465,
+      "parent": "#q5jx49"
+    },
+    {
+      "@id": "#mmukjf",
+      "name": "Counterexample disproves a general claim",
+      "x": 243,
+      "y": -303,
+      "parent": "#q5jx49"
+    },
+    {
+      "@id": "#cvk4cp",
+      "name": "Famous examples",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7p2e2z",
+      "name": "Infinitely many primes, by Euclid",
+      "x": 340,
+      "y": -236,
+      "parent": "#cvk4cp"
+    },
+    {
+      "@id": "#m3zqpj",
+      "name": "Root 2 is not a fraction",
+      "x": 409,
+      "y": -150,
+      "parent": "#cvk4cp"
+    },
+    {
+      "@id": "#hhensr",
+      "name": "Pythagoras' theorem, hundreds of proofs",
+      "x": 525,
+      "y": -59,
+      "parent": "#cvk4cp"
+    },
+    {
+      "@id": "#jhjc3n",
+      "name": "Fermat's Last Theorem, Wiles 1994",
+      "x": 445,
+      "y": 51,
+      "parent": "#cvk4cp"
+    },
+    {
+      "@id": "#he8et2",
+      "name": "Writing a proof",
+      "x": 151,
+      "y": 139,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y3cj55",
+      "name": "State exactly what you assume",
+      "x": 409,
+      "y": 150,
+      "parent": "#he8et2"
+    },
+    {
+      "@id": "#ngqhn8",
+      "name": "Try small examples first",
+      "x": 340,
+      "y": 236,
+      "parent": "#he8et2"
+    },
+    {
+      "@id": "#yqdkmy",
+      "name": "Each step follows from previous ones",
+      "x": 243,
+      "y": 303,
+      "parent": "#he8et2"
+    },
+    {
+      "@id": "#zimiee",
+      "name": "Finish by stating what was shown",
+      "x": 133,
+      "y": 360,
+      "parent": "#he8et2"
+    },
+    {
+      "@id": "#ifeqch",
+      "name": "History",
+      "x": -65,
+      "y": 177,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9sx529",
+      "name": "Greek geometers made proof central",
+      "x": 0,
+      "y": 408,
+      "parent": "#ifeqch"
+    },
+    {
+      "@id": "#hcsbcc",
+      "name": "Euclid's Elements, about 300 BC",
+      "x": -175,
+      "y": 465,
+      "parent": "#ifeqch"
+    },
+    {
+      "@id": "#vgikpy",
+      "name": "Gödel: some truths cannot be proved",
+      "x": -243,
+      "y": 303,
+      "parent": "#ifeqch"
+    },
+    {
+      "@id": "#qn4tfn",
+      "name": "Proof today",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cjt5fa",
+      "name": "Computers check proofs formally",
+      "x": -340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/Proof_assistant",
+      "parent": "#qn4tfn"
+    },
+    {
+      "@id": "#4b9znr",
+      "name": "Four colour theorem used computers, 1976",
+      "x": -409,
+      "y": 150,
+      "parent": "#qn4tfn"
+    },
+    {
+      "@id": "#ygynu2",
+      "name": "Peer review checks new proofs",
+      "x": -445,
+      "y": 51,
+      "parent": "#qn4tfn"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

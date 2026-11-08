@@ -1,0 +1,33 @@
+category: Geography
+aliases: lagos nigeria, lagos city
+- Lagos
+  - Setting
+    - Nigeria's largest city, on the Atlantic
+    - [Built around the Lagos Lagoon](https://en.wikipedia.org/wiki/Lagos_Lagoon)
+    - Lagos Island, Victoria Island and mainland
+    - Metro estimates around 15–20+ million
+  - History
+    - Yoruba fishing settlement called Eko
+    - Portuguese named it Lagos, "lakes"
+    - Annexed by Britain in 1861
+    - Nigeria's capital until Abuja, 1991
+  - People
+    - Yoruba majority, migrants from everywhere
+    - English and Yoruba widely spoken
+    - Muslims and Christians in similar numbers
+  - Economy
+    - Nigeria's commercial and financial hub
+    - Apapa and new Lekki deep-sea ports
+    - Dangote oil refinery at Lekki
+    - Yaba tech and startup scene
+    - Notorious traffic; new rail lines opened 2023
+  - Landmarks
+    - Third Mainland Bridge across the lagoon
+    - National Theatre at Iganmu
+    - [Eko Atlantic, land reclaimed from sea](https://en.wikipedia.org/wiki/Eko_Atlantic)
+    - Makoko stilt community on the water
+  - Culture
+    - [Heart of Nollywood film industry](https://en.wikipedia.org/wiki/Nollywood)
+    - [Birthplace of Afrobeat and Afrobeats](https://en.wikipedia.org/wiki/Afrobeats)
+    - Fela Kuti's Afrika Shrine
+    - Eyo masquerade festival

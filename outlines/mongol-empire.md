@@ -1,0 +1,31 @@
+category: History
+aliases: mongols, mongol conquests, mongol horde, empire of genghis khan
+- Mongol Empire
+  - Rise
+    - [Temüjin unites the steppe tribes](https://en.wikipedia.org/wiki/Genghis_Khan)
+    - Proclaimed Genghis Khan in 1206
+    - Largest contiguous land empire in history
+  - Conquests
+    - Northern China's Jin dynasty from 1211
+    - Khwarazmian Empire destroyed, 1219–1221
+    - Invasions of Rus' and Eastern Europe
+    - [Sack of Baghdad in 1258](https://en.wikipedia.org/wiki/Siege_of_Baghdad_%281258%29)
+    - Defeated by Mamluks at Ain Jalut, 1260
+  - Why they won
+    - Mounted archers with composite bows
+    - Discipline in units of ten
+    - Feigned retreats and fast manoeuvres
+    - Terror against cities that resisted
+  - Running the empire
+    - Yam relay stations carried messages
+    - Religious tolerance across the realm
+    - [Pax Mongolica protected Silk Road trade](https://en.wikipedia.org/wiki/Pax_Mongolica)
+    - Marco Polo travelled to Kublai's court
+  - Division into khanates
+    - Split after Möngke's death in 1259
+    - [Yuan dynasty in China under Kublai](https://en.wikipedia.org/wiki/Yuan_dynasty)
+    - Golden Horde, Ilkhanate, Chagatai Khanate
+  - Legacy
+    - Tens of millions died in conquests
+    - East–West exchange of goods and ideas
+    - Possibly helped spread the Black Death

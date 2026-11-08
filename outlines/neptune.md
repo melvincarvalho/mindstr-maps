@@ -1,0 +1,28 @@
+category: Science
+aliases: planet neptune, neptune planet
+- Neptune
+  - Size and orbit
+    - Eighth and farthest planet
+    - About 4 times Earth's diameter
+    - About 4.5 billion km from the Sun
+    - Year of about 165 Earth years
+  - Discovery
+    - [Predicted by maths before being seen](https://en.wikipedia.org/wiki/Discovery_of_Neptune)
+    - Le Verrier calculated its position
+    - Galle spotted it in 1846
+  - An ice giant
+    - Water, ammonia and methane ices
+    - Deep blue from methane
+    - Fastest winds, over 2,000 km/h
+    - Dark storms come and go
+  - Moons and rings
+    - 16 known moons
+    - [Triton orbits backwards](https://en.wikipedia.org/wiki/Triton_%28moon%29)
+    - Triton has nitrogen geysers
+    - Faint, clumpy dark rings
+  - Exploration
+    - [Voyager 2 flew past in 1989](https://en.wikipedia.org/wiki/Voyager_2)
+    - Webb telescope imaged its rings, 2022
+  - Beyond Neptune
+    - [Kuiper Belt of icy bodies](https://en.wikipedia.org/wiki/Kuiper_belt)
+    - Pluto crosses inside its orbit

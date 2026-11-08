@@ -1,0 +1,29 @@
+category: People
+aliases: machiavelli, the prince machiavelli, machiavellianism
+- Niccolò Machiavelli
+  - Florentine life, 1469–1527
+    - Born in Florence, 3 May 1469
+    - Served the republic as diplomat, 1498–1512
+    - Met Cesare Borgia and Louis XII
+    - Raised a citizen militia for Florence
+  - Fall and exile
+    - Medici return to power in 1512
+    - Imprisoned and tortured in 1513
+    - Retired to his farm near San Casciano
+  - Major works
+    - [The Prince, written 1513, printed 1532](https://en.wikipedia.org/wiki/The_Prince)
+    - [Discourses on Livy praise republics](https://en.wikipedia.org/wiki/Discourses_on_Livy)
+    - The Art of War, 1521
+    - Florentine Histories for the Medici pope
+    - The Mandrake, a celebrated comedy
+  - Key ideas
+    - Politics judged by results, not ideals
+    - Better to be feared than loved
+    - Virtù masters fortuna
+    - Rulers should rely on own troops
+    - Mixed republics guard liberty best
+  - Legacy
+    - Founder of modern political science
+    - ["Machiavellian" became a byword for cunning](https://en.wikipedia.org/wiki/Machiavellianism_%28politics%29)
+    - Read by Hobbes, Rousseau and Founders
+    - Debate: cynic, realist or republican

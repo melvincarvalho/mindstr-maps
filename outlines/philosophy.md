@@ -1,0 +1,33 @@
+category: Philosophy and religion
+aliases: what is philosophy, branches of philosophy, intro to philosophy
+- Philosophy
+  - What philosophy is
+    - Greek "philosophia": love of wisdom
+    - Questions experiments alone cannot settle
+    - Argument and reasons, not authority
+  - Main branches
+    - Metaphysics: what ultimately exists?
+    - Epistemology: what can we know?
+    - Ethics: how should we live?
+    - Logic: what follows from what?
+    - Aesthetics: what is beauty and art?
+    - Political philosophy: what justifies power?
+  - Ancient roots
+    - [Socrates questioned Athenians, executed 399 BC](https://en.wikipedia.org/wiki/Socrates)
+    - Plato's Forms and the Republic
+    - Aristotle founded formal logic
+    - Confucius and Laozi in China
+    - Upanishads and the Buddha in India
+  - Modern turns
+    - [Descartes: "I think, therefore I am"](https://en.wikipedia.org/wiki/Cogito,_ergo_sum)
+    - Hume questions causation and induction
+    - Kant: the mind shapes experience
+    - Sartre: existence precedes essence
+  - How philosophers work
+    - [Thought experiments like the trolley problem](https://en.wikipedia.org/wiki/Trolley_problem)
+    - Analysing concepts like "knowledge"
+    - Spotting fallacies in arguments
+  - Philosophy today
+    - [Analytic and continental traditions](https://en.wikipedia.org/wiki/Analytic_philosophy)
+    - Philosophy of mind meets AI
+    - Bioethics shapes medical rules

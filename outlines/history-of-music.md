@@ -1,0 +1,31 @@
+category: History
+aliases: music history, history of western music, musical history
+- History of music
+  - Origins
+    - [Bone flutes over 40,000 years old](https://en.wikipedia.org/wiki/Prehistoric_music)
+    - Song in ritual, work and storytelling
+    - Ancient Greeks linked music to mathematics
+  - Medieval and Renaissance
+    - Gregorian chant sung in monasteries
+    - Staff notation invented around 1000
+    - Polyphony wove several melodies together
+  - Baroque and Classical
+    - [Bach and Handel, about 1600–1750](https://en.wikipedia.org/wiki/Baroque_music)
+    - Opera born in Italy around 1600
+    - Haydn and Mozart shaped the symphony
+    - Beethoven bridged Classical and Romantic
+  - Romantic and modern classical
+    - Romantics expressed emotion and nationalism
+    - Wagner's huge music dramas
+    - Debussy and Stravinsky broke old rules
+    - Schoenberg abandoned traditional keys
+  - Traditions around the world
+    - [Indian classical ragas and talas](https://en.wikipedia.org/wiki/Raga)
+    - West African drumming and polyrhythm
+    - Indonesian gamelan orchestras
+  - Popular music and recording
+    - Phonograph recorded sound, 1877
+    - [Jazz grew from blues in New Orleans](https://en.wikipedia.org/wiki/Jazz)
+    - Rock and roll in the 1950s
+    - Hip hop began in the Bronx, 1970s
+    - Streaming dominates listening today

@@ -1,0 +1,31 @@
+category: Science
+aliases: palaeontology, study of fossils, paleontologist
+- Paleontology
+  - What it studies
+    - Life before about 11,700 years ago
+    - Fossil plants, animals and microbes
+    - Ancient climates and environments
+  - How fossils form
+    - Quick burial in mud or sand
+    - Minerals replace bone and shell
+    - Trace fossils: footprints, burrows, dung
+    - Amber and ice preserve soft tissue
+  - Dating the past
+    - Deeper rock layers are usually older
+    - [Radiometric dating measures decaying isotopes](https://en.wikipedia.org/wiki/Radiometric_dating)
+    - [Index fossils match layers worldwide](https://en.wikipedia.org/wiki/Index_fossil)
+  - Branches
+    - Vertebrate paleontology: dinosaurs to mammals
+    - Micropaleontology: tiny fossils like forams
+    - Paleobotany: ancient plants and pollen
+    - Paleoecology rebuilds ancient ecosystems
+  - Landmark finds and people
+    - [Mary Anning's ichthyosaurs, early 1800s](https://en.wikipedia.org/wiki/Mary_Anning)
+    - Cuvier showed species go extinct
+    - [Burgess Shale's Cambrian animals](https://en.wikipedia.org/wiki/Burgess_Shale)
+    - [Archaeopteryx links dinosaurs and birds](https://en.wikipedia.org/wiki/Archaeopteryx)
+  - Doing paleontology
+    - Fieldwork prospecting exposed rock
+    - Careful excavation and plaster jackets
+    - CT scans see inside fossils
+    - Not the same as archaeology

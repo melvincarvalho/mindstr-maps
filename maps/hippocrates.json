@@ -1,0 +1,329 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Hippocrates",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#a7qgq8",
+      "name": "Life",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uuq577",
+      "name": "Born about 460 BC on Kos",
+      "x": -445,
+      "y": -54,
+      "parent": "#a7qgq8"
+    },
+    {
+      "@id": "#5b3mtj",
+      "name": "Greek physician of the Classical era",
+      "x": -405,
+      "y": -156,
+      "parent": "#a7qgq8"
+    },
+    {
+      "@id": "#2e27ke",
+      "name": "Died about 370 BC in Thessaly",
+      "x": -330,
+      "y": -245,
+      "parent": "#a7qgq8"
+    },
+    {
+      "@id": "#68hf5h",
+      "name": "Few reliable details survive",
+      "x": -225,
+      "y": -312,
+      "parent": "#a7qgq8"
+    },
+    {
+      "@id": "#fhb6jv",
+      "name": "Medicine without the gods",
+      "x": 17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9xm2tw",
+      "name": "Disease has natural, not divine, causes",
+      "x": -104,
+      "y": -367,
+      "parent": "#fhb6jv"
+    },
+    {
+      "@id": "#xsyhb4",
+      "name": "Careful observation of patients",
+      "x": 42,
+      "y": -423,
+      "parent": "#fhb6jv"
+    },
+    {
+      "@id": "#ctcpge",
+      "name": "Prognosis: predicting the course of illness",
+      "x": 234,
+      "y": -485,
+      "parent": "#fhb6jv"
+    },
+    {
+      "@id": "#gp6n2q",
+      "name": "The four humours",
+      "x": 190,
+      "y": -104,
+      "link": "https://en.wikipedia.org/wiki/Humorism",
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fictkr",
+      "name": "Blood, phlegm, yellow and black bile",
+      "x": 281,
+      "y": -281,
+      "parent": "#gp6n2q"
+    },
+    {
+      "@id": "#b585sg",
+      "name": "Health means humours in balance",
+      "x": 372,
+      "y": -203,
+      "parent": "#gp6n2q"
+    },
+    {
+      "@id": "#xfnuaz",
+      "name": "Theory dominated medicine until the 1800s",
+      "x": 506,
+      "y": -126,
+      "parent": "#gp6n2q"
+    },
+    {
+      "@id": "#yjcixa",
+      "name": "The Hippocratic Corpus",
+      "x": 207,
+      "y": 80,
+      "link": "https://en.wikipedia.org/wiki/Hippocratic_Corpus",
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ygqksd",
+      "name": "About 60 early Greek medical texts",
+      "x": 450,
+      "y": 0,
+      "parent": "#yjcixa"
+    },
+    {
+      "@id": "#6ie5jx",
+      "name": "Written by many authors over time",
+      "x": 525,
+      "y": 131,
+      "parent": "#yjcixa"
+    },
+    {
+      "@id": "#cyzh6d",
+      "name": "On the Sacred Disease: epilepsy is natural",
+      "x": 372,
+      "y": 203,
+      "parent": "#yjcixa"
+    },
+    {
+      "@id": "#vmajzv",
+      "name": "Aphorisms: \"Life is short, art long\"",
+      "x": 281,
+      "y": 281,
+      "parent": "#yjcixa"
+    },
+    {
+      "@id": "#yra8wr",
+      "name": "The Hippocratic Oath",
+      "x": -17,
+      "y": 183,
+      "link": "https://en.wikipedia.org/wiki/Hippocratic_Oath",
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tzxf6f",
+      "name": "Pledges to help patients, avoid harm",
+      "x": 164,
+      "y": 335,
+      "parent": "#yra8wr"
+    },
+    {
+      "@id": "#yqp67f",
+      "name": "\"First, do no harm\" isn't in it",
+      "x": 38,
+      "y": 391,
+      "parent": "#yra8wr"
+    },
+    {
+      "@id": "#r7uqqh",
+      "name": "Keeps patients' secrets confidential",
+      "x": -124,
+      "y": 447,
+      "parent": "#yra8wr"
+    },
+    {
+      "@id": "#qqjrwk",
+      "name": "Modern versions sworn at graduation",
+      "x": -225,
+      "y": 312,
+      "parent": "#yra8wr"
+    },
+    {
+      "@id": "#4itgm8",
+      "name": "Legacy",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fg7p64",
+      "name": "Called the \"Father of Medicine\"",
+      "x": -330,
+      "y": 245,
+      "parent": "#4itgm8"
+    },
+    {
+      "@id": "#7588uh",
+      "name": "Influenced Galen and later medicine",
+      "x": -405,
+      "y": 156,
+      "parent": "#4itgm8"
+    },
+    {
+      "@id": "#eq4kzu",
+      "name": "Clubbed fingers called \"Hippocratic fingers\"",
+      "x": -485,
+      "y": 58,
+      "parent": "#4itgm8"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

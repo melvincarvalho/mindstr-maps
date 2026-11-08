@@ -1,0 +1,34 @@
+category: Geography
+aliases: republic of india, bharat
+- India
+  - Land
+    - Himalayas along the northern border
+    - Ganges plain and Deccan plateau
+    - [New Delhi is the capital](https://en.wikipedia.org/wiki/New_Delhi)
+    - Mumbai is the financial centre
+    - Monsoon brings most of the rain
+  - People and languages
+    - About 1.4 billion, most populous country
+    - Hindi and English used officially
+    - 22 languages listed in the Constitution
+    - About 80% Hindu, 14% Muslim
+  - History in brief
+    - Indus Valley civilisation, about 2500 BC
+    - Maurya, Gupta and Mughal empires
+    - [Gandhi led non-violent independence movement](https://en.wikipedia.org/wiki/Mahatma_Gandhi)
+    - [Independence and Partition, 1947](https://en.wikipedia.org/wiki/Partition_of_India)
+  - Government
+    - World's largest democracy
+    - Federal republic of 28 states
+    - Prime minister leads, president is head
+    - Kashmir claimed by India and Pakistan
+  - Economy
+    - Among the world's five largest economies
+    - IT and software services hub
+    - Farming still employs many people
+    - Market reforms opened the economy, 1991
+  - Culture
+    - Birthplace of Hinduism, Buddhism, Jainism, Sikhism
+    - [Taj Mahal, built by Shah Jahan](https://en.wikipedia.org/wiki/Taj_Mahal)
+    - Bollywood films made in Mumbai
+    - Cricket is a national passion

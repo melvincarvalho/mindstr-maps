@@ -1,0 +1,33 @@
+category: Geography
+aliases: people's republic of bangladesh, bangladesh country
+- Bangladesh
+  - Land and rivers
+    - [Sits on the vast Ganges Delta](https://en.wikipedia.org/wiki/Ganges_Delta)
+    - Flat, low-lying, prone to floods, cyclones
+    - Dhaka is the capital
+    - Sundarbans mangroves, home of Bengal tigers
+  - People and language
+    - About 170 million people
+    - One of the most densely populated countries
+    - Bengali (Bangla) is the language
+    - About 90% Muslim, Hindu minority
+  - History in brief
+    - Part of Bengal under Mughals, then British
+    - East Pakistan after the 1947 partition
+    - [Language Movement of 1952](https://en.wikipedia.org/wiki/Bengali_language_movement)
+    - [Independence war with Pakistan, 1971](https://en.wikipedia.org/wiki/Bangladesh_Liberation_War)
+    - Sheikh Mujibur Rahman, founding leader
+  - Government
+    - Parliamentary republic
+    - Jatiya Sangsad is the parliament
+    - Hasina government fell after 2024 protests
+  - Economy
+    - Second-largest garment exporter after China
+    - Remittances from workers abroad
+    - [Microcredit pioneered by Grameen Bank](https://en.wikipedia.org/wiki/Grameen_Bank)
+    - Fast growth since the 1990s
+  - Culture
+    - Pohela Boishakh, the Bengali New Year
+    - Anthem written by Rabindranath Tagore
+    - Rice and fish define Bengali cooking
+    - Cricket is the most popular sport

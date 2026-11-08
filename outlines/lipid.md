@@ -1,0 +1,30 @@
+category: Science
+aliases: lipids, fats and oils
+- Lipid
+  - What lipids are
+    - Do not dissolve in water
+    - Dissolve in oils and solvents
+    - Mostly long carbon-hydrogen chains
+  - Main types
+    - [Triglycerides: everyday fats and oils](https://en.wikipedia.org/wiki/Triglyceride)
+    - [Phospholipids build cell membranes](https://en.wikipedia.org/wiki/Phospholipid)
+    - [Steroids such as cholesterol](https://en.wikipedia.org/wiki/Cholesterol)
+    - Waxes waterproof leaves and feathers
+  - Saturated or unsaturated
+    - Saturated: no double bonds, often solid
+    - Unsaturated: kinked chains, liquid oils
+    - Trans fats raise LDL, widely restricted
+    - Omega-3s found in oily fish
+  - Jobs in the body
+    - Store energy: about 9 kcal per gram
+    - Insulate and cushion organs
+    - Form every cell's membrane
+    - Raw material for steroid hormones
+    - Carry vitamins A, D, E, K
+  - Health
+    - LDL and HDL carry cholesterol
+    - High LDL raises heart disease risk
+    - Guidelines favour unsaturated fats
+  - Everyday chemistry
+    - Soap is made from fat and lye
+    - Oil and water don't mix

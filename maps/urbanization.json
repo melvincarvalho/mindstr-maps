@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Urbanization",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#8h8twf",
+      "name": "What it is",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ptfx3m",
+      "name": "Growing share of people in towns",
+      "x": -465,
+      "y": -56,
+      "parent": "#8h8twf"
+    },
+    {
+      "@id": "#nsvf6u",
+      "name": "Measured as percent of population urban",
+      "x": -405,
+      "y": -156,
+      "parent": "#8h8twf"
+    },
+    {
+      "@id": "#s68yt2",
+      "name": "Cities also spread outward",
+      "x": -330,
+      "y": -245,
+      "parent": "#8h8twf"
+    },
+    {
+      "@id": "#vim5a3",
+      "name": "History",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7xcvwa",
+      "name": "Under 10% urban in 1800",
+      "x": -225,
+      "y": -312,
+      "parent": "#vim5a3"
+    },
+    {
+      "@id": "#r7va5r",
+      "name": "Industrial Revolution drew workers to cities",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Industrial_Revolution",
+      "parent": "#vim5a3"
+    },
+    {
+      "@id": "#jb3h9r",
+      "name": "Britain majority urban by 1851",
+      "x": 42,
+      "y": -423,
+      "parent": "#vim5a3"
+    },
+    {
+      "@id": "#582d4d",
+      "name": "World passed 50% urban around 2007",
+      "x": 234,
+      "y": -485,
+      "parent": "#vim5a3"
+    },
+    {
+      "@id": "#2ujh8s",
+      "name": "Causes",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#skvdqe",
+      "name": "Jobs and higher wages in cities",
+      "x": 281,
+      "y": -281,
+      "parent": "#2ujh8s"
+    },
+    {
+      "@id": "#69vxwd",
+      "name": "Farm mechanisation needs fewer workers",
+      "x": 372,
+      "y": -203,
+      "parent": "#2ujh8s"
+    },
+    {
+      "@id": "#44w8c2",
+      "name": "Better schools and health care",
+      "x": 430,
+      "y": -106,
+      "parent": "#2ujh8s"
+    },
+    {
+      "@id": "#e7czzb",
+      "name": "Natural growth of city populations",
+      "x": 450,
+      "y": 0,
+      "parent": "#2ujh8s"
+    },
+    {
+      "@id": "#6c2554",
+      "name": "Where it's happening now",
+      "x": 190,
+      "y": 104,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dsxc39",
+      "name": "Fastest in Africa and South Asia",
+      "x": 506,
+      "y": 126,
+      "parent": "#6c2554"
+    },
+    {
+      "@id": "#f337bf",
+      "name": "China's huge rural-to-urban migration",
+      "x": 372,
+      "y": 203,
+      "link": "https://en.wikipedia.org/wiki/Urbanization_in_China",
+      "parent": "#6c2554"
+    },
+    {
+      "@id": "#ep66iv",
+      "name": "UN expects about 68% urban by 2050",
+      "x": 281,
+      "y": 281,
+      "parent": "#6c2554"
+    },
+    {
+      "@id": "#538huj",
+      "name": "Effects",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#eu5iba",
+      "name": "Higher productivity and incomes",
+      "x": 164,
+      "y": 335,
+      "parent": "#538huj"
+    },
+    {
+      "@id": "#sccmff",
+      "name": "Informal settlements and slums grow",
+      "x": 38,
+      "y": 391,
+      "link": "https://en.wikipedia.org/wiki/Informal_settlement",
+      "parent": "#538huj"
+    },
+    {
+      "@id": "#qz888r",
+      "name": "Urban sprawl eats farmland",
+      "x": -124,
+      "y": 447,
+      "link": "https://en.wikipedia.org/wiki/Urban_sprawl",
+      "parent": "#538huj"
+    },
+    {
+      "@id": "#q93djx",
+      "name": "Smaller families as people move",
+      "x": -225,
+      "y": 312,
+      "parent": "#538huj"
+    },
+    {
+      "@id": "#8dp7zs",
+      "name": "Managing it",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p7t44r",
+      "name": "Planning housing, transport and water",
+      "x": -330,
+      "y": 245,
+      "parent": "#8dp7zs"
+    },
+    {
+      "@id": "#jhehq6",
+      "name": "Upgrading slums rather than clearing",
+      "x": -405,
+      "y": 156,
+      "parent": "#8dp7zs"
+    },
+    {
+      "@id": "#iy7ip2",
+      "name": "Denser, greener city design",
+      "x": -445,
+      "y": 54,
+      "parent": "#8dp7zs"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

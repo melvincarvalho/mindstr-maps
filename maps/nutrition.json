@@ -1,0 +1,320 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Nutrition",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#xy5pc7",
+      "name": "Macronutrients provide energy",
+      "x": -186,
+      "y": -108,
+      "link": "https://en.wikipedia.org/wiki/Nutrient",
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d5anz4",
+      "name": "Carbohydrates: 4 kcal per gram",
+      "x": -444,
+      "y": -56,
+      "parent": "#xy5pc7"
+    },
+    {
+      "@id": "#i54dqb",
+      "name": "Protein: 4 kcal, builds and repairs",
+      "x": -401,
+      "y": -163,
+      "parent": "#xy5pc7"
+    },
+    {
+      "@id": "#xcamgi",
+      "name": "Fat: 9 kcal, stores energy",
+      "x": -318,
+      "y": -255,
+      "parent": "#xy5pc7"
+    },
+    {
+      "@id": "#nu56c3",
+      "name": "Alcohol adds 7 kcal per gram",
+      "x": -204,
+      "y": -321,
+      "parent": "#xy5pc7"
+    },
+    {
+      "@id": "#bnj2e6",
+      "name": "Micronutrients",
+      "x": 36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bz29qy",
+      "name": "Vitamins regulate body processes",
+      "x": -73,
+      "y": -372,
+      "link": "https://en.wikipedia.org/wiki/Vitamin",
+      "parent": "#bnj2e6"
+    },
+    {
+      "@id": "#2jk6vw",
+      "name": "Minerals such as iron, calcium, iodine",
+      "x": 82,
+      "y": -420,
+      "parent": "#bnj2e6"
+    },
+    {
+      "@id": "#w3bgqa",
+      "name": "Needed only in tiny amounts",
+      "x": 204,
+      "y": -321,
+      "parent": "#bnj2e6"
+    },
+    {
+      "@id": "#c6matb",
+      "name": "Other essentials",
+      "x": 205,
+      "y": -84,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d4nxxi",
+      "name": "Water makes up about 60% of body",
+      "x": 318,
+      "y": -255,
+      "parent": "#c6matb"
+    },
+    {
+      "@id": "#cu32b3",
+      "name": "Dietary fibre aids digestion",
+      "x": 401,
+      "y": -163,
+      "link": "https://en.wikipedia.org/wiki/Dietary_fiber",
+      "parent": "#c6matb"
+    },
+    {
+      "@id": "#wjfbce",
+      "name": "Essential amino acids and fatty acids",
+      "x": 504,
+      "y": -62,
+      "parent": "#c6matb"
+    },
+    {
+      "@id": "#4797tm",
+      "name": "Digestion and metabolism",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cbg9ua",
+      "name": "Enzymes break food into small molecules",
+      "x": 444,
+      "y": 56,
+      "parent": "#4797tm"
+    },
+    {
+      "@id": "#s6z8nj",
+      "name": "Absorbed mainly in the small intestine",
+      "x": 401,
+      "y": 163,
+      "parent": "#4797tm"
+    },
+    {
+      "@id": "#5ju6sv",
+      "name": "Metabolism turns nutrients into energy",
+      "x": 318,
+      "y": 255,
+      "link": "https://en.wikipedia.org/wiki/Metabolism",
+      "parent": "#4797tm"
+    },
+    {
+      "@id": "#8pm926",
+      "name": "Gut bacteria ferment fibre",
+      "x": 204,
+      "y": 321,
+      "parent": "#4797tm"
+    },
+    {
+      "@id": "#pjt6n4",
+      "name": "Energy balance",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kk93sp",
+      "name": "Calories measure food energy",
+      "x": 73,
+      "y": 372,
+      "parent": "#pjt6n4"
+    },
+    {
+      "@id": "#i3y566",
+      "name": "Needs vary with age, size, activity",
+      "x": -82,
+      "y": 420,
+      "parent": "#pjt6n4"
+    },
+    {
+      "@id": "#aambvn",
+      "name": "Surplus energy is stored as fat",
+      "x": -204,
+      "y": 321,
+      "parent": "#pjt6n4"
+    },
+    {
+      "@id": "#vdrkzw",
+      "name": "Malnutrition",
+      "x": -205,
+      "y": 84,
+      "link": "https://en.wikipedia.org/wiki/Malnutrition",
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cnzpd4",
+      "name": "Undernutrition: stunting and wasting",
+      "x": -318,
+      "y": 255,
+      "parent": "#vdrkzw"
+    },
+    {
+      "@id": "#rgn27n",
+      "name": "Deficiencies: anaemia, goitre, scurvy",
+      "x": -401,
+      "y": 163,
+      "parent": "#vdrkzw"
+    },
+    {
+      "@id": "#mvirsy",
+      "name": "Overnutrition: obesity, type 2 diabetes",
+      "x": -504,
+      "y": 62,
+      "parent": "#vdrkzw"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,33 @@
+category: Geography
+aliases: dr congo, drc, congo-kinshasa, democratic republic of congo
+- Democratic Republic of the Congo
+  - Geography
+    - Second-largest country in Africa
+    - [Congo River, the world's deepest river](https://en.wikipedia.org/wiki/Congo_River)
+    - Vast rainforest of the Congo Basin
+    - Short Atlantic coastline at the river mouth
+  - People and languages
+    - About 110 million people
+    - Capital Kinshasa, a city of 15+ million
+    - French official; Lingala and Swahili widespread
+    - Over 200 ethnic groups
+  - History in brief
+    - Kingdom of Kongo from the 1300s
+    - [Congo Free State under Leopold II](https://en.wikipedia.org/wiki/Congo_Free_State)
+    - Belgian colony until independence in 1960
+    - Mobutu ruled, renaming it Zaire, 1965–1997
+    - [Second Congo War, 1998 to 2003](https://en.wikipedia.org/wiki/Second_Congo_War)
+  - Government
+    - Semi-presidential republic
+    - 26 provinces since 2015
+    - Armed conflict persists in the east
+  - Economy
+    - About 70% of world cobalt supply
+    - Copper mining in the Katanga region
+    - Huge hydropower potential at Inga Falls
+    - Among the world's poorest by income
+  - Culture and known for
+    - Congolese rumba and soukous music
+    - [Mountain gorillas of Virunga National Park](https://en.wikipedia.org/wiki/Virunga_National_Park)
+    - Bonobos live only here
+    - La Sape, the dandy fashion culture

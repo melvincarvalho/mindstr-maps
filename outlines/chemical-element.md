@@ -1,0 +1,28 @@
+category: Science
+aliases: what is an element, element in chemistry
+- Chemical element
+  - Defined by protons
+    - Atomic number counts protons in nucleus
+    - Neutron count varies: isotopes
+    - Cannot be split by chemical means
+  - How many there are
+    - 118 known, up to oganesson
+    - About 94 occur naturally on Earth
+    - Heaviest made briefly in laboratories
+  - [Where elements come from](https://en.wikipedia.org/wiki/Nucleosynthesis)
+    - Hydrogen and helium from Big Bang
+    - Stars fuse heavier ones up to iron
+    - Supernovae and neutron star mergers make heavier
+  - Kinds of element
+    - Metals: shiny, conduct electricity
+    - Nonmetals like oxygen and sulfur
+    - Metalloids like silicon in between
+    - [Noble gases rarely react](https://en.wikipedia.org/wiki/Noble_gas)
+  - Symbols and names
+    - One or two letter symbols
+    - Some from Latin: Fe, Cu, Au
+    - IUPAC approves new names
+  - History of discovery
+    - [Lavoisier listed elements in 1789](https://en.wikipedia.org/wiki/Antoine_Lavoisier)
+    - [Mendeleev ordered them in 1869](https://en.wikipedia.org/wiki/Dmitri_Mendeleev)
+    - Tennessine discovered last, in 2010

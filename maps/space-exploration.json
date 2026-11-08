@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Space exploration",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#tpdf3e",
+      "name": "Why we explore",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z99n57",
+      "name": "Science about origins of the Solar System",
+      "x": -504,
+      "y": -62,
+      "parent": "#tpdf3e"
+    },
+    {
+      "@id": "#paaqc9",
+      "name": "Searching for signs of life",
+      "x": -401,
+      "y": -163,
+      "parent": "#tpdf3e"
+    },
+    {
+      "@id": "#rqd793",
+      "name": "Technology and national prestige",
+      "x": -318,
+      "y": -255,
+      "parent": "#tpdf3e"
+    },
+    {
+      "@id": "#qy5rdn",
+      "name": "The Space Race",
+      "x": -36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#crp9g7",
+      "name": "Sputnik 1 launched, 1957",
+      "x": -204,
+      "y": -321,
+      "parent": "#qy5rdn"
+    },
+    {
+      "@id": "#3faq2i",
+      "name": "Yuri Gagarin first human in space, 1961",
+      "x": -73,
+      "y": -372,
+      "link": "https://en.wikipedia.org/wiki/Yuri_Gagarin",
+      "parent": "#qy5rdn"
+    },
+    {
+      "@id": "#i9hqkv",
+      "name": "Apollo 11 lands on the Moon, 1969",
+      "x": 82,
+      "y": -420,
+      "parent": "#qy5rdn"
+    },
+    {
+      "@id": "#7tgdrc",
+      "name": "Robotic explorers",
+      "x": 186,
+      "y": -108,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#f9h2vi",
+      "name": "Voyager probes left the heliosphere",
+      "x": 204,
+      "y": -321,
+      "parent": "#7tgdrc"
+    },
+    {
+      "@id": "#stmz58",
+      "name": "Mars rovers like Curiosity and Perseverance",
+      "x": 318,
+      "y": -255,
+      "link": "https://en.wikipedia.org/wiki/Perseverance_%28rover%29",
+      "parent": "#7tgdrc"
+    },
+    {
+      "@id": "#8av5in",
+      "name": "Cassini studied Saturn and its moons",
+      "x": 401,
+      "y": -163,
+      "parent": "#7tgdrc"
+    },
+    {
+      "@id": "#4rxabi",
+      "name": "New Horizons flew past Pluto, 2015",
+      "x": 444,
+      "y": -56,
+      "parent": "#7tgdrc"
+    },
+    {
+      "@id": "#k3uk3x",
+      "name": "Living in space",
+      "x": 205,
+      "y": 84,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#93nckv",
+      "name": "International Space Station crewed since 2000",
+      "x": 544,
+      "y": 66,
+      "link": "https://en.wikipedia.org/wiki/International_Space_Station",
+      "parent": "#k3uk3x"
+    },
+    {
+      "@id": "#ehyi2q",
+      "name": "China's Tiangong space station",
+      "x": 401,
+      "y": 163,
+      "parent": "#k3uk3x"
+    },
+    {
+      "@id": "#kgsftc",
+      "name": "Weightlessness weakens bones and muscles",
+      "x": 318,
+      "y": 255,
+      "parent": "#k3uk3x"
+    },
+    {
+      "@id": "#mkx7jh",
+      "name": "Looking deep into space",
+      "x": 36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ms6sed",
+      "name": "Hubble launched 1990",
+      "x": 204,
+      "y": 321,
+      "parent": "#mkx7jh"
+    },
+    {
+      "@id": "#bzk4zm",
+      "name": "James Webb telescope sees early galaxies",
+      "x": 73,
+      "y": 372,
+      "link": "https://en.wikipedia.org/wiki/James_Webb_Space_Telescope",
+      "parent": "#mkx7jh"
+    },
+    {
+      "@id": "#35a7vv",
+      "name": "Thousands of exoplanets discovered",
+      "x": -82,
+      "y": 420,
+      "parent": "#mkx7jh"
+    },
+    {
+      "@id": "#5s6v24",
+      "name": "What comes next",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8bnyqb",
+      "name": "Artemis programme returning people to Moon",
+      "x": -204,
+      "y": 321,
+      "parent": "#5s6v24"
+    },
+    {
+      "@id": "#vuypgw",
+      "name": "Plans for crewed missions to Mars",
+      "x": -318,
+      "y": 255,
+      "parent": "#5s6v24"
+    },
+    {
+      "@id": "#8sj3h3",
+      "name": "Private companies like SpaceX and Blue Origin",
+      "x": -401,
+      "y": 163,
+      "parent": "#5s6v24"
+    },
+    {
+      "@id": "#fi2hdy",
+      "name": "India, China and Japan land on Moon",
+      "x": -444,
+      "y": 56,
+      "parent": "#5s6v24"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

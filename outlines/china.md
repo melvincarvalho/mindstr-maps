@@ -1,0 +1,34 @@
+category: Geography
+aliases: people's republic of china, prc, mainland china
+- China
+  - Geography
+    - About 9.6 million km² of land
+    - [Yangtze, Asia's longest river](https://en.wikipedia.org/wiki/Yangtze)
+    - Himalayas and Tibetan Plateau in the west
+    - Gobi Desert in the north
+  - People and languages
+    - About 1.4 billion people
+    - Han about 91%; 55 recognised minorities
+    - Mandarin official; Cantonese and other varieties
+    - Capital Beijing; Shanghai largest city
+  - History in brief
+    - [Qin unified China in 221 BCE](https://en.wikipedia.org/wiki/Qin_dynasty)
+    - Han, Tang, Song, Ming and Qing dynasties
+    - Last dynasty, the Qing, fell in 1912
+    - People's Republic founded in 1949
+    - Market reforms from 1978
+  - Government
+    - Communist Party leads a one-party state
+    - Xi Jinping leader since 2012
+    - Hong Kong and Macau special regions
+    - [Taiwan's status is disputed](https://en.wikipedia.org/wiki/Political_status_of_Taiwan)
+  - Economy
+    - World's second-largest economy
+    - Largest manufacturer and goods exporter
+    - [Belt and Road Initiative abroad](https://en.wikipedia.org/wiki/Belt_and_Road_Initiative)
+    - Leads in solar panels and EVs
+  - Culture and known for
+    - [Great Wall, built over many centuries](https://en.wikipedia.org/wiki/Great_Wall_of_China)
+    - Forbidden City and Terracotta Army
+    - Confucian, Taoist and Buddhist traditions
+    - Regional cuisines from Sichuan to Cantonese

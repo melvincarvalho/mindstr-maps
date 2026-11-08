@@ -1,0 +1,30 @@
+category: Life and home
+aliases: children's play, why children play, importance of play
+- Play (activity)
+  - What play is
+    - Freely chosen, done for its own sake
+    - Seen in humans and many animals
+    - [Huizinga's Homo Ludens (1938)](https://en.wikipedia.org/wiki/Homo_Ludens)
+  - Types of play
+    - Physical: running, climbing, rough-and-tumble
+    - [Pretend and make-believe](https://en.wikipedia.org/wiki/Make-believe)
+    - Building with blocks and materials
+    - Games with agreed rules
+    - Exploring objects and toys
+  - How it grows in childhood
+    - Babies play alone with objects
+    - Toddlers play side by side
+    - Cooperative play from about age 4
+    - Rule-based games in school years
+  - Why it matters
+    - Builds movement skills and coordination
+    - Develops language and problem-solving
+    - Teaches sharing and taking turns
+    - Helps handle feelings and stress
+  - Animals play too
+    - Puppies and kittens play-fight
+    - Practises hunting and social skills
+  - Play for everyone
+    - Adults play through hobbies and sport
+    - Playfulness linked to creativity
+    - [Children's right to play, UN convention](https://en.wikipedia.org/wiki/Convention_on_the_Rights_of_the_Child)

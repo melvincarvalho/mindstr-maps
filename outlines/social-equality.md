@@ -1,0 +1,30 @@
+category: Society
+aliases: equality in society, equal rights, social inequality, egalitarianism
+- Social equality
+  - Meaning
+    - Same status, rights and opportunities
+    - No group privileged by birth
+  - Kinds of equality
+    - Legal: equal before the law
+    - Political: one person, one vote
+    - Equality of opportunity
+    - Equality of outcome
+  - Historical movements
+    - Abolition of slavery
+    - Women's suffrage
+    - [US civil rights movement](https://en.wikipedia.org/wiki/Civil_rights_movement)
+    - End of apartheid in South Africa, 1994
+    - LGBT rights and same-sex marriage
+  - Sources of inequality
+    - Class and inherited wealth
+    - Discrimination by race, sex or religion
+    - [Caste systems](https://en.wikipedia.org/wiki/Caste)
+    - Unequal access to education and health
+  - Measuring it
+    - [Gini coefficient for income inequality](https://en.wikipedia.org/wiki/Gini_coefficient)
+    - Social mobility between generations
+    - Gender pay gap
+  - Debates
+    - [John Rawls: justice as fairness](https://en.wikipedia.org/wiki/A_Theory_of_Justice)
+    - Robert Nozick: rights over redistribution
+    - Affirmative action, for and against

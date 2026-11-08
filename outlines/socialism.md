@@ -1,0 +1,32 @@
+category: Society
+aliases: socialist ideology, what is socialism, democratic socialism
+- Socialism
+  - Core beliefs
+    - Workers should share in what they produce
+    - Social or public ownership of key industries
+    - Reduce inequality between classes
+    - Cooperation over competition
+  - Key thinkers
+    - Robert Owen's cooperative communities
+    - [Karl Marx and Friedrich Engels](https://en.wikipedia.org/wiki/Karl_Marx)
+    - Eduard Bernstein argued for gradual reform
+    - Rosa Luxemburg backed revolution
+  - History
+    - Reaction to the Industrial Revolution
+    - [The Communist Manifesto, 1848](https://en.wikipedia.org/wiki/The_Communist_Manifesto)
+    - Labour unions and workers' parties grew
+    - Russian Revolution of 1917
+  - Main strands
+    - Marxism and revolutionary communism
+    - [Social democracy reforms capitalism](https://en.wikipedia.org/wiki/Social_democracy)
+    - Democratic socialism through elections
+    - [Market socialism mixes markets and ownership](https://en.wikipedia.org/wiki/Market_socialism)
+  - Real-world examples
+    - UK Labour's NHS and nationalisations
+    - Nordic welfare states
+    - Soviet Union's planned economy
+  - Main criticisms
+    - Central planning struggles with prices
+    - Communist states were authoritarian
+    - Weak incentives and slower growth
+    - High taxes may deter investment

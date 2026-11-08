@@ -1,0 +1,29 @@
+category: Society
+aliases: how to be happy, being happy, science of happiness, what makes people happy
+- Happiness
+  - What happiness means
+    - Pleasant feelings in the moment
+    - Life satisfaction when looking back
+    - [Eudaimonia: a meaningful, flourishing life](https://en.wikipedia.org/wiki/Eudaimonia)
+  - What shapes it
+    - Genes set part of our baseline
+    - Circumstances matter less than expected
+    - Daily habits and outlook matter too
+  - What the research finds
+    - [Close relationships matter most of all](https://en.wikipedia.org/wiki/Interpersonal_relationship)
+    - Money helps most when escaping hardship
+    - [We adapt quickly to gains and losses](https://en.wikipedia.org/wiki/Hedonic_treadmill)
+    - Health and secure work matter
+  - Habits linked to happiness
+    - Spending time with friends and family
+    - Regular exercise and enough sleep
+    - Helping others and acts of kindness
+    - Noticing what you're grateful for
+    - Absorbing activities that create flow
+  - Common misconceptions
+    - Constant happiness isn't realistic
+    - Chasing it directly can backfire
+    - Sadness and stress are normal too
+  - Measuring happiness
+    - Surveys ask people to rate lives
+    - [World Happiness Report ranks countries](https://en.wikipedia.org/wiki/World_Happiness_Report)

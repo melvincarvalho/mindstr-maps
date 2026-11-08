@@ -1,0 +1,374 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Turkey",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#j3dktx",
+      "name": "Geography",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dc44kh",
+      "name": "Spans Europe (Thrace) and Asia (Anatolia)",
+      "x": -446,
+      "y": -45,
+      "parent": "#j3dktx"
+    },
+    {
+      "@id": "#fkqcy8",
+      "name": "About 780,000 km²",
+      "x": -418,
+      "y": -133,
+      "parent": "#j3dktx"
+    },
+    {
+      "@id": "#j748nk",
+      "name": "Bosporus links Black Sea and Marmara",
+      "x": -364,
+      "y": -212,
+      "link": "https://en.wikipedia.org/wiki/Bosporus",
+      "parent": "#j3dktx"
+    },
+    {
+      "@id": "#cpbjf9",
+      "name": "Ankara capital; Istanbul largest city",
+      "x": -287,
+      "y": -277,
+      "parent": "#j3dktx"
+    },
+    {
+      "@id": "#wjxx29",
+      "name": "Earthquake-prone; 2023 quake killed over 50,000",
+      "x": -192,
+      "y": -326,
+      "parent": "#j3dktx"
+    },
+    {
+      "@id": "#7rssft",
+      "name": "People and languages",
+      "x": 43,
+      "y": -181,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hh34pk",
+      "name": "About 85 million people",
+      "x": -92,
+      "y": -386,
+      "parent": "#7rssft"
+    },
+    {
+      "@id": "#443ehm",
+      "name": "Turkish is the official language",
+      "x": 33,
+      "y": -439,
+      "parent": "#7rssft"
+    },
+    {
+      "@id": "#335ef9",
+      "name": "Kurds are the largest minority",
+      "x": 199,
+      "y": -492,
+      "parent": "#7rssft"
+    },
+    {
+      "@id": "#7xttrv",
+      "name": "Mostly Sunni Muslim, officially secular state",
+      "x": 263,
+      "y": -332,
+      "parent": "#7rssft"
+    },
+    {
+      "@id": "#uh3ewg",
+      "name": "History in brief",
+      "x": 214,
+      "y": -68,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kt3vyd",
+      "name": "Hittites, Greeks and Romans ruled Anatolia",
+      "x": 328,
+      "y": -246,
+      "parent": "#uh3ewg"
+    },
+    {
+      "@id": "#ktckar",
+      "name": "Ottomans took Constantinople in 1453",
+      "x": 394,
+      "y": -173,
+      "link": "https://en.wikipedia.org/wiki/Fall_of_Constantinople",
+      "parent": "#uh3ewg"
+    },
+    {
+      "@id": "#e7e2st",
+      "name": "Ottoman Empire collapsed after World War I",
+      "x": 531,
+      "y": -110,
+      "parent": "#uh3ewg"
+    },
+    {
+      "@id": "#qzfrbn",
+      "name": "Atatürk founded the republic, 1923",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk",
+      "parent": "#uh3ewg"
+    },
+    {
+      "@id": "#hn8rke",
+      "name": "Government",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#i5mfc3",
+      "name": "Presidential republic since 2018 reforms",
+      "x": 474,
+      "y": 98,
+      "parent": "#hn8rke"
+    },
+    {
+      "@id": "#2ux5fd",
+      "name": "600-seat Grand National Assembly",
+      "x": 394,
+      "y": 173,
+      "parent": "#hn8rke"
+    },
+    {
+      "@id": "#bxqc4r",
+      "name": "NATO member since 1952; EU candidate",
+      "x": 328,
+      "y": 246,
+      "parent": "#hn8rke"
+    },
+    {
+      "@id": "#qkfqvr",
+      "name": "PKK announced its dissolution in 2025",
+      "x": 241,
+      "y": 304,
+      "parent": "#hn8rke"
+    },
+    {
+      "@id": "#bwz46b",
+      "name": "Economy",
+      "x": -43,
+      "y": 181,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#88ck4h",
+      "name": "Currency is the Turkish lira",
+      "x": 145,
+      "y": 357,
+      "parent": "#bwz46b"
+    },
+    {
+      "@id": "#zpaz53",
+      "name": "High inflation through the 2020s",
+      "x": 31,
+      "y": 407,
+      "parent": "#bwz46b"
+    },
+    {
+      "@id": "#ji34dm",
+      "name": "Textiles, cars, steel and farming",
+      "x": -112,
+      "y": 466,
+      "parent": "#bwz46b"
+    },
+    {
+      "@id": "#kgeybx",
+      "name": "Major tourist destination",
+      "x": -192,
+      "y": 326,
+      "parent": "#bwz46b"
+    },
+    {
+      "@id": "#bdrwuk",
+      "name": "Customs union with the EU",
+      "x": -287,
+      "y": 277,
+      "parent": "#bwz46b"
+    },
+    {
+      "@id": "#b77p8m",
+      "name": "Culture",
+      "x": -214,
+      "y": 68,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5iumbv",
+      "name": "Hagia Sophia, church then mosque",
+      "x": -364,
+      "y": 212,
+      "link": "https://en.wikipedia.org/wiki/Hagia_Sophia",
+      "parent": "#b77p8m"
+    },
+    {
+      "@id": "#ie3bri",
+      "name": "Tea, Turkish coffee and baklava",
+      "x": -418,
+      "y": 133,
+      "parent": "#b77p8m"
+    },
+    {
+      "@id": "#uwbke2",
+      "name": "Whirling dervishes of the Mevlevi order",
+      "x": -486,
+      "y": 49,
+      "parent": "#b77p8m"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 7,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 12,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    },
+    {
+      "start": 22,
+      "end": 27
+    },
+    {
+      "start": 0,
+      "end": 28
+    },
+    {
+      "start": 28,
+      "end": 29
+    },
+    {
+      "start": 28,
+      "end": 30
+    },
+    {
+      "start": 28,
+      "end": 31
+    }
+  ],
+  "selectedNode": 0
+}

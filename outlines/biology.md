@@ -1,0 +1,30 @@
+category: Science
+aliases: life science, study of living things, biological sciences
+- Biology
+  - Core ideas
+    - Cells are the units of life
+    - Genes carry inherited information
+    - [Evolution explains life's diversity](https://en.wikipedia.org/wiki/Evolution)
+    - Living things maintain stable internal conditions
+  - Molecules of life
+    - [DNA stores the genetic code](https://en.wikipedia.org/wiki/DNA)
+    - Proteins do most cellular work
+    - Metabolism turns food into energy
+  - Levels of organisation
+    - Cells form tissues and organs
+    - Organisms form populations
+    - Ecosystems link species and environment
+  - Diversity of life
+    - Three domains: bacteria, archaea, eukaryotes
+    - Plants, animals, fungi, protists
+    - [Taxonomy names and groups species](https://en.wikipedia.org/wiki/Taxonomy_%28biology%29)
+  - Main fields
+    - Genetics and molecular biology
+    - Physiology studies how bodies work
+    - Ecology studies interactions
+    - Microbiology studies microbes
+  - Landmarks
+    - [Darwin's natural selection, 1859](https://en.wikipedia.org/wiki/On_the_Origin_of_Species)
+    - Mendel discovered inheritance patterns
+    - DNA double helix described 1953
+    - Human genome sequenced 2003

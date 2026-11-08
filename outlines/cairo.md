@@ -1,0 +1,32 @@
+category: Geography
+aliases: cairo egypt, al-qahira, greater cairo
+- Cairo
+  - Setting
+    - Capital of Egypt, on the Nile
+    - Where the Nile Delta begins
+    - Greater Cairo about 22 million people
+    - Hot desert climate, rare rain
+  - History
+    - Pyramids built about 4,500 years ago
+    - Founded by the Fatimids in 969
+    - [Medieval Islamic Cairo of a thousand minarets](https://en.wikipedia.org/wiki/Islamic_Cairo)
+    - Under British control from 1882
+    - [2011 Tahrir Square protests](https://en.wikipedia.org/wiki/Egyptian_revolution_of_2011)
+  - People
+    - Arabic-speaking, mostly Sunni Muslim
+    - Large Coptic Christian minority
+    - [Al-Azhar, centre of Sunni scholarship](https://en.wikipedia.org/wiki/Al-Azhar_University)
+  - Economy
+    - Egypt's hub for government and business
+    - Tourism, media and manufacturing
+    - Africa's first metro line, 1987
+    - New Administrative Capital rising to the east
+  - Landmarks
+    - [Pyramids of Giza and the Sphinx](https://en.wikipedia.org/wiki/Giza_pyramid_complex)
+    - Grand Egyptian Museum near Giza
+    - Citadel of Saladin
+    - Khan el-Khalili bazaar
+  - Culture
+    - Long the Arab world's film capital
+    - Singer Umm Kulthum's home city
+    - Naguib Mahfouz's novels set here

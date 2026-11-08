@@ -1,0 +1,29 @@
+category: Science
+aliases: h2o, water molecule, properties of water, what is water
+- Water
+  - The molecule
+    - Two hydrogen atoms, one oxygen: H₂O
+    - Bent shape makes it polar
+    - [Hydrogen bonds link neighbouring molecules](https://en.wikipedia.org/wiki/Hydrogen_bond)
+  - Three states
+    - Freezes at 0°C at sea level
+    - Boils at 100°C at sea level
+    - [Ice floats because it is less dense](https://en.wikipedia.org/wiki/Ice)
+  - Unusual properties
+    - [Dissolves more substances than most liquids](https://en.wikipedia.org/wiki/Properties_of_water)
+    - High heat capacity steadies climates
+    - Surface tension lets insects walk on it
+    - Pure water has pH 7
+  - Water on Earth
+    - Covers about 71% of the surface
+    - About 97% is salty ocean
+    - Most fresh water is locked in ice
+    - [Constantly recycled by the water cycle](https://en.wikipedia.org/wiki/Water_cycle)
+  - Water and life
+    - About 60% of the adult body
+    - Medium for nearly all cell chemistry
+    - Life likely began in water
+  - Using water
+    - Farming uses about 70% of withdrawals
+    - Power, industry and transport
+    - [Billions lack safely managed drinking water](https://en.wikipedia.org/wiki/Water_scarcity)

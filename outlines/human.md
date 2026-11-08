@@ -1,0 +1,29 @@
+category: Science
+aliases: homo sapiens, humans, humankind, human species
+- Human
+  - Our species
+    - [Homo sapiens, the only living human species](https://en.wikipedia.org/wiki/Homo_sapiens)
+    - A great ape, closest to chimpanzees
+    - Over 8 billion people alive today
+  - Body and biology
+    - Walks upright on two legs
+    - Large brain of about 1.3 kg
+    - Sweating cools largely hairless skin
+    - Long childhood and slow development
+  - Origins
+    - Evolved in Africa about 300,000 years ago
+    - Spread worldwide from Africa, ~60,000 years ago
+    - Interbred with Neanderthals and Denisovans
+  - Mind and culture
+    - [Language lets us share complex ideas](https://en.wikipedia.org/wiki/Language)
+    - Tools, fire, art and music
+    - Shared beliefs, religions and stories
+    - Knowledge accumulates across generations
+  - Society
+    - Cooperation in large groups of strangers
+    - [Farming began about 12,000 years ago](https://en.wikipedia.org/wiki/Neolithic_Revolution)
+    - Cities, states and writing followed
+  - Impact on Earth
+    - Settled every continent but Antarctica
+    - Reshaping land, climate and wildlife
+    - Over half now live in cities

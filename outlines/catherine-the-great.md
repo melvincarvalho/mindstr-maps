@@ -1,0 +1,30 @@
+category: People
+aliases: catherine ii of russia, catherine ii, empress catherine the great
+- Catherine the Great
+  - Early life
+    - Born 1729 in Stettin, Prussia
+    - German princess Sophie of Anhalt-Zerbst
+    - Married future Peter III in 1745
+    - Converted to Russian Orthodoxy
+  - Seizing power
+    - Peter III became emperor in 1762
+    - Overthrew him in a palace coup
+    - Peter killed days later in custody
+    - Ruled Russia for 34 years
+  - Expanding Russia
+    - Wars against the Ottoman Empire
+    - Annexed Crimea in 1783
+    - [Shared in the partitions of Poland](https://en.wikipedia.org/wiki/Partitions_of_Poland)
+    - Grigory Potemkin governed the south
+  - Enlightened despot
+    - Corresponded with Voltaire and Diderot
+    - Drafted the Nakaz to reform laws
+    - Founded Smolny Institute for girls' education
+    - [Began the Hermitage art collection](https://en.wikipedia.org/wiki/Hermitage_Museum)
+  - Limits and revolt
+    - Serfdom extended and deepened
+    - [Pugachev's Rebellion crushed, 1773–1775](https://en.wikipedia.org/wiki/Pugachev%27s_Rebellion)
+    - Turned conservative after French Revolution
+  - Legacy
+    - Died 1796, son Paul I succeeded
+    - Russia a leading European power

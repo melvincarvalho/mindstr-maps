@@ -1,0 +1,29 @@
+category: Society
+aliases: kiswahili, swahili language
+- Swahili
+  - Where it is spoken
+    - East Africa: Tanzania and Kenya at core
+    - Also Uganda, DR Congo, Rwanda, Burundi
+    - Official language of the African Union
+    - Most speakers learn it as second language
+    - Estimates range from 80 to 200 million
+  - Family and history
+    - [A Bantu language, Niger–Congo family](https://en.wikipedia.org/wiki/Bantu_languages)
+    - Grew in Swahili coast trading towns
+    - Many Arabic loanwords from Indian Ocean trade
+    - Caravan trade carried it inland, 1800s
+    - Nyerere made it Tanzania's unifying language
+  - Sounds and writing
+    - Five vowels, spelled as pronounced
+    - Stress on second-to-last syllable
+    - Once written in Arabic script
+    - Latin alphabet standard since colonial era
+  - Grammar highlights
+    - [Nouns sorted into noun classes](https://en.wikipedia.org/wiki/Noun_class)
+    - Mtu, watu: person, people
+    - Prefixes make agreement across the sentence
+    - Ni-li-soma: I read (past)
+  - Words the world knows
+    - Safari means journey
+    - Hakuna matata: no worries
+    - Kiswahili: the ki- prefix names the language

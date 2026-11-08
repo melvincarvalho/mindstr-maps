@@ -1,0 +1,32 @@
+category: Arts and culture
+aliases: the novel, history of the novel, novel literary form
+- Novel
+  - What a novel is
+    - Long fictional prose narrative
+    - Usually over 40,000 words
+    - Room for many characters and subplots
+    - Name from Italian novella, "new"
+  - Early history
+    - [The Tale of Genji, about 1010](https://en.wikipedia.org/wiki/The_Tale_of_Genji)
+    - [Don Quixote, 1605 and 1615](https://en.wikipedia.org/wiki/Don_Quixote)
+    - Robinson Crusoe, 1719, in English
+  - Rise of the modern novel
+    - Printing and literacy widened readership
+    - Realism: Austen, Dickens, Tolstoy
+    - Serialised in magazine instalments
+    - Modernism: Joyce, Woolf, Proust
+  - Kinds of novel
+    - [Bildungsroman follows growing up](https://en.wikipedia.org/wiki/Bildungsroman)
+    - Epistolary novel told in letters
+    - Historical novel recreates past eras
+    - Genre: crime, sci-fi, romance, fantasy
+    - Graphic novel in comics form
+  - Landmark examples
+    - Pride and Prejudice (1813)
+    - [War and Peace (1869)](https://en.wikipedia.org/wiki/War_and_Peace)
+    - Things Fall Apart (1958)
+    - One Hundred Years of Solitude (1967)
+  - The novel today
+    - E-books and audiobooks widen access
+    - Prizes: Booker, Pulitzer, Nobel
+    - Translations reach global readers

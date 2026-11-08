@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Sikhism",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#8ztk66",
+      "name": "Origins",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3p5qyt",
+      "name": "Guru Nanak, born 1469 in Punjab",
+      "x": -445,
+      "y": -51,
+      "link": "https://en.wikipedia.org/wiki/Guru_Nanak",
+      "parent": "#8ztk66"
+    },
+    {
+      "@id": "#espcw8",
+      "name": "Ten human Gurus until 1708",
+      "x": -409,
+      "y": -150,
+      "parent": "#8ztk66"
+    },
+    {
+      "@id": "#xfvx39",
+      "name": "About 25–30 million Sikhs worldwide",
+      "x": -340,
+      "y": -236,
+      "parent": "#8ztk66"
+    },
+    {
+      "@id": "#wzn3yz",
+      "name": "Core beliefs",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#67w99q",
+      "name": "One God, expressed as Ik Onkar",
+      "x": -243,
+      "y": -303,
+      "parent": "#wzn3yz"
+    },
+    {
+      "@id": "#vqus6z",
+      "name": "Equality of all people",
+      "x": -133,
+      "y": -360,
+      "parent": "#wzn3yz"
+    },
+    {
+      "@id": "#3j7t5g",
+      "name": "Liberation through remembering God",
+      "x": 0,
+      "y": -408,
+      "parent": "#wzn3yz"
+    },
+    {
+      "@id": "#92bpy3",
+      "name": "Rejection of caste distinctions",
+      "x": 175,
+      "y": -465,
+      "parent": "#wzn3yz"
+    },
+    {
+      "@id": "#n2s73x",
+      "name": "Guru Granth Sahib",
+      "x": 174,
+      "y": -120,
+      "link": "https://en.wikipedia.org/wiki/Guru_Granth_Sahib",
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yqumsw",
+      "name": "Scripture honoured as the living Guru",
+      "x": 243,
+      "y": -303,
+      "parent": "#n2s73x"
+    },
+    {
+      "@id": "#8pyj48",
+      "name": "Written in Gurmukhi script",
+      "x": 340,
+      "y": -236,
+      "parent": "#n2s73x"
+    },
+    {
+      "@id": "#eihev9",
+      "name": "Includes hymns of Hindu and Muslim saints",
+      "x": 463,
+      "y": -171,
+      "parent": "#n2s73x"
+    },
+    {
+      "@id": "#8gnpm2",
+      "name": "Three pillars",
+      "x": 228,
+      "y": 26,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jhdam2",
+      "name": "Naam Japo, meditating on God's name",
+      "x": 445,
+      "y": -51,
+      "parent": "#8gnpm2"
+    },
+    {
+      "@id": "#asggur",
+      "name": "Kirat Karni, earning an honest living",
+      "x": 505,
+      "y": 57,
+      "parent": "#8gnpm2"
+    },
+    {
+      "@id": "#683m7q",
+      "name": "Vand Chakko, sharing with others",
+      "x": 409,
+      "y": 150,
+      "parent": "#8gnpm2"
+    },
+    {
+      "@id": "#wkc9qc",
+      "name": "Khalsa and the Five Ks",
+      "x": 65,
+      "y": 177,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#br3k2d",
+      "name": "Khalsa founded by Guru Gobind Singh, 1699",
+      "x": 340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/Khalsa",
+      "parent": "#wkc9qc"
+    },
+    {
+      "@id": "#3npm4x",
+      "name": "Kesh, uncut hair, often under turban",
+      "x": 243,
+      "y": 303,
+      "parent": "#wkc9qc"
+    },
+    {
+      "@id": "#n9iu35",
+      "name": "Kara, steel bracelet",
+      "x": 133,
+      "y": 360,
+      "parent": "#wkc9qc"
+    },
+    {
+      "@id": "#7t529t",
+      "name": "Kirpan, ceremonial sword",
+      "x": 0,
+      "y": 408,
+      "parent": "#wkc9qc"
+    },
+    {
+      "@id": "#m7qts5",
+      "name": "Kangha comb and Kachera undergarment",
+      "x": -175,
+      "y": 465,
+      "parent": "#wkc9qc"
+    },
+    {
+      "@id": "#bmn2mb",
+      "name": "Worship and community",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ra4pui",
+      "name": "Golden Temple in Amritsar",
+      "x": -243,
+      "y": 303,
+      "link": "https://en.wikipedia.org/wiki/Golden_Temple",
+      "parent": "#bmn2mb"
+    },
+    {
+      "@id": "#wy3d2d",
+      "name": "Gurdwara, the place of worship",
+      "x": -340,
+      "y": 236,
+      "parent": "#bmn2mb"
+    },
+    {
+      "@id": "#usuyvm",
+      "name": "Langar, free communal kitchen",
+      "x": -409,
+      "y": 150,
+      "parent": "#bmn2mb"
+    },
+    {
+      "@id": "#99i8wq",
+      "name": "Vaisakhi marks the Khalsa's founding",
+      "x": -445,
+      "y": 51,
+      "parent": "#bmn2mb"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 18,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

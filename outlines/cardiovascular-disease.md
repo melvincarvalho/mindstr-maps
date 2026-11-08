@@ -1,0 +1,33 @@
+category: Health
+aliases: heart disease, cardiovascular disease explained, heart and circulatory disease, cvd
+- Cardiovascular disease
+  - What it is
+    - Diseases of heart and blood vessels
+    - World's leading cause of death
+    - [Atherosclerosis: fatty plaque narrows arteries](https://en.wikipedia.org/wiki/Atherosclerosis)
+  - Main conditions
+    - [Coronary artery disease](https://en.wikipedia.org/wiki/Coronary_artery_disease)
+    - Heart attack blocks heart blood supply
+    - Stroke cuts blood to the brain
+    - Heart failure and arrhythmias
+    - Peripheral artery disease in legs
+  - Risk factors
+    - [High blood pressure](https://en.wikipedia.org/wiki/Hypertension)
+    - High LDL cholesterol
+    - Smoking
+    - Diabetes and obesity
+    - Inactivity, age and family history
+  - Warning signs
+    - Chest pain or tightness on exertion
+    - Breathlessness and swollen ankles
+    - Palpitations or fainting
+    - Sudden chest pain: call emergency services
+  - Diagnosis
+    - Blood pressure and cholesterol checks
+    - [ECG records heart rhythm](https://en.wikipedia.org/wiki/Electrocardiography)
+    - Echocardiogram and angiogram
+  - Prevention and treatment
+    - Stop smoking, move more, eat well
+    - Statins lower cholesterol
+    - Blood pressure medicines
+    - Stents and bypass surgery

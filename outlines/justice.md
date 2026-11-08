@@ -1,0 +1,26 @@
+category: Society
+aliases: concept of justice, theory of justice, fairness and justice
+- Justice
+  - The core idea
+    - Giving each person what they are due
+    - Treating like cases alike
+    - Fairness in rules and outcomes
+  - Kinds of justice
+    - [Distributive: fair sharing of goods](https://en.wikipedia.org/wiki/Distributive_justice)
+    - Retributive: punishment fitting the wrong
+    - [Restorative: repairing harm to victims](https://en.wikipedia.org/wiki/Restorative_justice)
+    - Procedural: fair process and hearings
+  - Philosophers' views
+    - Plato: harmony in soul and city
+    - Aristotle: proportional equality
+    - Utilitarians: greatest good for most
+    - [Rawls: justice as fairness, 1971](https://en.wikipedia.org/wiki/A_Theory_of_Justice)
+  - Justice in law
+    - Impartial judges and courts
+    - Presumption of innocence
+    - Right to a lawyer and appeal
+    - Systems differ between countries
+  - Social justice debates
+    - Equality of opportunity versus outcome
+    - Human rights as universal claims
+    - [Justice symbolised by Lady Justice](https://en.wikipedia.org/wiki/Lady_Justice)

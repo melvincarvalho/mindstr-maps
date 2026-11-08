@@ -1,0 +1,31 @@
+category: Life and home
+aliases: teenage years, teen years, teenagers, adolescent development
+- Adolescence
+  - What adolescence is
+    - Transition from childhood to adulthood
+    - WHO counts ages 10 to 19
+    - Timing varies between individuals
+  - Puberty changes the body
+    - [Hormones from the brain trigger puberty](https://en.wikipedia.org/wiki/Puberty)
+    - Usually starts earlier in girls
+    - Growth spurt and new body hair
+    - Periods start; voices deepen
+  - The developing brain
+    - [Prefrontal cortex matures into mid-20s](https://en.wikipedia.org/wiki/Prefrontal_cortex)
+    - More sensitive to rewards and peers
+    - Body clock shifts later at night
+    - Teens need 8 to 10 hours' sleep
+  - Identity and relationships
+    - Exploring who you are
+    - Friends matter more than before
+    - Growing independence from parents
+    - First romantic feelings and relationships
+  - Health and wellbeing
+    - Many mental health conditions start now
+    - Social media brings benefits and pressures
+    - Risk-taking with alcohol, driving, drugs
+    - Talking to trusted adults helps
+  - Society and culture
+    - [Coming-of-age rites across cultures](https://en.wikipedia.org/wiki/Coming_of_age)
+    - Legal adulthood usually at 18
+    - The "teenager" idea spread in 1940s

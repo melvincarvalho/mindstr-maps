@@ -1,0 +1,28 @@
+category: Arts and culture
+aliases: realist art, realism in art, literary realism, realist movement
+- Realism (arts)
+  - The core idea
+    - Show ordinary life truthfully
+    - No idealising, no grand myths
+    - Reaction against Romanticism
+  - French painting, about 1848 to 1880
+    - [Gustave Courbet led the movement](https://en.wikipedia.org/wiki/Gustave_Courbet)
+    - A Burial at Ornans shocked critics
+    - Jean-François Millet painted peasant labour
+    - Honoré Daumier satirised Paris society
+  - Realism in literature
+    - [Flaubert's Madame Bovary, 1857](https://en.wikipedia.org/wiki/Madame_Bovary)
+    - George Eliot's Middlemarch
+    - Tolstoy and Dostoevsky in Russia
+    - Naturalism pushed further, as in Zola
+  - Wider spread
+    - Russian Peredvizhniki painted rural life
+    - [Winslow Homer and Thomas Eakins in America](https://en.wikipedia.org/wiki/Thomas_Eakins)
+    - Realist theatre: Ibsen and Chekhov
+  - Why it mattered
+    - Working people became worthy subjects
+    - Photography shared its documentary aim
+    - Opened the way to Impressionism
+  - Later realisms
+    - Socialist realism as official Soviet style
+    - [Photorealism in the 1960s and 70s](https://en.wikipedia.org/wiki/Photorealism)

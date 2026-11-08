@@ -1,0 +1,31 @@
+category: Science
+aliases: big bang theory, origin of the universe, beginning of the universe
+- Big Bang
+  - The idea
+    - Universe began hot and dense
+    - About 13.8 billion years ago
+    - Space itself has expanded since
+    - Not an explosion into empty space
+  - The first moments
+    - [Possible burst of cosmic inflation](https://en.wikipedia.org/wiki/Inflation_%28cosmology%29)
+    - Protons and neutrons formed in a second
+    - Hydrogen and helium nuclei within minutes
+    - Atoms formed after about 380,000 years
+  - Evidence
+    - [Galaxies moving apart, Hubble's law](https://en.wikipedia.org/wiki/Hubble%27s_law)
+    - [Cosmic microwave background, found 1965](https://en.wikipedia.org/wiki/Cosmic_microwave_background)
+    - Abundance of hydrogen and helium
+    - Distant galaxies look younger
+  - After the Big Bang
+    - First stars around 200 million years later
+    - Galaxies grew by merging
+    - Sun formed 4.6 billion years ago
+  - History of the theory
+    - Lemaître proposed it in 1927
+    - Hubble measured expansion in 1929
+    - Name coined by sceptic Fred Hoyle
+    - Beat the steady state theory
+  - Open questions
+    - What, if anything, came before
+    - [Dark matter and dark energy](https://en.wikipedia.org/wiki/Dark_energy)
+    - Why matter outnumbers antimatter

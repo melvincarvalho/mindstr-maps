@@ -1,0 +1,29 @@
+category: Mathematics
+aliases: area of shapes, area formulas, how to calculate area
+- Area
+  - What area means
+    - Amount of flat surface a shape covers
+    - Counted in unit squares
+    - Measured in square metres, acres, hectares
+  - Basic formulas
+    - Rectangle: length times width
+    - Triangle: half base times height
+    - Parallelogram: base times perpendicular height
+    - Trapezium: average of parallel sides times height
+  - Curved shapes
+    - Circle: pi times radius squared
+    - Ellipse: pi times both semi-axes
+    - [Archimedes trapped circles between polygons](https://en.wikipedia.org/wiki/Archimedes)
+  - Tricks for awkward shapes
+    - Split into rectangles and triangles
+    - [Heron's formula uses three side lengths](https://en.wikipedia.org/wiki/Heron%27s_formula)
+    - [Shoelace formula from corner coordinates](https://en.wikipedia.org/wiki/Shoelace_formula)
+    - Count grid squares to estimate
+  - Scaling and surfaces
+    - Double the lengths, quadruple the area
+    - Surface area wraps 3D objects
+    - [Calculus finds area under curves](https://en.wikipedia.org/wiki/Integral)
+  - Everyday uses
+    - Flooring, paint and carpet quantities
+    - Land and property sizes
+    - Ancient Egyptians remeasured fields after floods

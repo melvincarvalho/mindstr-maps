@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Natural rubber",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#6g74eu",
+      "name": "Where it comes from",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#urwzan",
+      "name": "Sap of the Pará rubber tree",
+      "x": -445,
+      "y": -51,
+      "link": "https://en.wikipedia.org/wiki/Hevea_brasiliensis",
+      "parent": "#6g74eu"
+    },
+    {
+      "@id": "#7uc9du",
+      "name": "Native to the Amazon rainforest",
+      "x": -409,
+      "y": -150,
+      "parent": "#6g74eu"
+    },
+    {
+      "@id": "#82tehk",
+      "name": "Most now grown in Southeast Asia",
+      "x": -340,
+      "y": -236,
+      "parent": "#6g74eu"
+    },
+    {
+      "@id": "#n4amj8",
+      "name": "Thailand and Indonesia lead production",
+      "x": -243,
+      "y": -303,
+      "parent": "#6g74eu"
+    },
+    {
+      "@id": "#ejua8k",
+      "name": "Harvesting latex",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yve6pp",
+      "name": "Tapping: thin cuts in the bark",
+      "x": -133,
+      "y": -360,
+      "link": "https://en.wikipedia.org/wiki/Rubber_tapping",
+      "parent": "#ejua8k"
+    },
+    {
+      "@id": "#7i6yun",
+      "name": "Milky latex drips into cups",
+      "x": 0,
+      "y": -408,
+      "parent": "#ejua8k"
+    },
+    {
+      "@id": "#hrxtgp",
+      "name": "Acid coagulates it into sheets",
+      "x": 175,
+      "y": -465,
+      "parent": "#ejua8k"
+    },
+    {
+      "@id": "#6mvjf5",
+      "name": "Trees yield for about 25 years",
+      "x": 243,
+      "y": -303,
+      "parent": "#ejua8k"
+    },
+    {
+      "@id": "#ejh563",
+      "name": "What makes it stretchy",
+      "x": 209,
+      "y": -76,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r4gzf4",
+      "name": "Long chains of polyisoprene",
+      "x": 340,
+      "y": -236,
+      "parent": "#ejh563"
+    },
+    {
+      "@id": "#nyja3t",
+      "name": "Chains uncoil when pulled, recoil after",
+      "x": 409,
+      "y": -150,
+      "parent": "#ejh563"
+    },
+    {
+      "@id": "#tmw4ei",
+      "name": "Raw rubber goes sticky when hot",
+      "x": 505,
+      "y": -57,
+      "parent": "#ejh563"
+    },
+    {
+      "@id": "#rsxrfi",
+      "name": "Vulcanization",
+      "x": 209,
+      "y": 76,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#axy5p8",
+      "name": "Heating with sulfur links the chains",
+      "x": 485,
+      "y": 55,
+      "parent": "#rsxrfi"
+    },
+    {
+      "@id": "#3qa7jk",
+      "name": "Makes rubber tough and heat-resistant",
+      "x": 409,
+      "y": 150,
+      "parent": "#rsxrfi"
+    },
+    {
+      "@id": "#s5r7th",
+      "name": "Charles Goodyear patented it, 1844",
+      "x": 340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/Charles_Goodyear",
+      "parent": "#rsxrfi"
+    },
+    {
+      "@id": "#xburdy",
+      "name": "History",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7wwi3v",
+      "name": "Olmecs made rubber balls by 1600 BC",
+      "x": 243,
+      "y": 303,
+      "parent": "#xburdy"
+    },
+    {
+      "@id": "#ems885",
+      "name": "Named for rubbing out pencil marks",
+      "x": 133,
+      "y": 360,
+      "parent": "#xburdy"
+    },
+    {
+      "@id": "#zs6cew",
+      "name": "Seeds taken from Brazil to Asia, 1876",
+      "x": 0,
+      "y": 408,
+      "parent": "#xburdy"
+    },
+    {
+      "@id": "#6bnvcg",
+      "name": "Forced labour in the Congo Free State",
+      "x": -175,
+      "y": 465,
+      "link": "https://en.wikipedia.org/wiki/Atrocities_in_the_Congo_Free_State",
+      "parent": "#xburdy"
+    },
+    {
+      "@id": "#652p3k",
+      "name": "Uses today",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fzxy85",
+      "name": "Tyres use most of it",
+      "x": -243,
+      "y": 303,
+      "parent": "#652p3k"
+    },
+    {
+      "@id": "#w4yt5w",
+      "name": "Gloves, balloons and condoms from latex",
+      "x": -340,
+      "y": 236,
+      "parent": "#652p3k"
+    },
+    {
+      "@id": "#uigyhr",
+      "name": "Synthetic rubber now supplies over half",
+      "x": -409,
+      "y": 150,
+      "parent": "#652p3k"
+    },
+    {
+      "@id": "#rywb2z",
+      "name": "Latex allergy affects some people",
+      "x": -445,
+      "y": 51,
+      "parent": "#652p3k"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

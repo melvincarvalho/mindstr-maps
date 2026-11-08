@@ -1,0 +1,29 @@
+category: Life and home
+aliases: bread making, how bread is made, types of bread
+- Bread
+  - What bread is
+    - Baked dough of flour and water
+    - Wheat gluten traps gas so dough rises
+    - A staple food for thousands of years
+  - Ingredients
+    - Flour, usually from wheat
+    - Water to form the dough
+    - [Yeast ferments sugars into gas](https://en.wikipedia.org/wiki/Baker%27s_yeast)
+    - Salt for flavour and dough strength
+  - How it is made
+    - Mix and knead to develop gluten
+    - Leave to rise until roughly doubled
+    - Shape the loaf and prove again
+    - Bake in a hot oven
+  - Leavened or flat
+    - [Sourdough uses wild yeast and bacteria](https://en.wikipedia.org/wiki/Sourdough)
+    - [Flatbreads like naan, pita and tortilla](https://en.wikipedia.org/wiki/Flatbread)
+    - [Soda bread rises with baking soda](https://en.wikipedia.org/wiki/Soda_bread)
+  - Bread around the world
+    - French baguette with a crisp crust
+    - Dense German rye breads
+    - Sliced white loaves since the 1920s
+  - Bread in history
+    - Ancient Egyptians baked leavened bread
+    - [Roman bakeries sold bread to cities](https://en.wikipedia.org/wiki/History_of_bread)
+    - Industrial milling made white bread cheap

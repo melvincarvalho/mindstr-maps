@@ -1,0 +1,31 @@
+category: Science
+aliases: trees, how trees grow, parts of a tree
+- Tree
+  - What makes a tree
+    - Woody plant with a single trunk
+    - About 73,000 species worldwide
+    - Bristlecone pines live over 4,000 years
+  - Parts of a tree
+    - Roots anchor and absorb water
+    - Trunk: bark, cambium, sapwood, heartwood
+    - [Xylem carries water up](https://en.wikipedia.org/wiki/Xylem)
+    - Phloem distributes sugars from leaves
+    - [Leaves make food by photosynthesis](https://en.wikipedia.org/wiki/Photosynthesis)
+  - Growing and ageing
+    - Seeds spread by wind and animals
+    - Cambium adds one growth ring yearly
+    - [Tree rings reveal age and climate](https://en.wikipedia.org/wiki/Dendrochronology)
+  - Main kinds
+    - Broadleaf trees bear flowers and fruit
+    - Conifers bear cones and needles
+    - Deciduous trees drop leaves seasonally
+    - Evergreens keep leaves year-round
+  - Why trees matter
+    - Absorb CO₂ and store carbon
+    - Release oxygen and cool cities
+    - Habitat for countless species
+    - Wood, fruit, paper and medicine
+  - Threats and care
+    - [Deforestation, mainly for farming](https://en.wikipedia.org/wiki/Deforestation)
+    - Pests and diseases like ash dieback
+    - Plant the right tree, right place

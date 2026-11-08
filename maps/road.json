@@ -1,0 +1,318 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Road",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#3wdxkj",
+      "name": "What makes a road",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7nyfpi",
+      "name": "Layers of crushed stone for strength",
+      "x": -504,
+      "y": -62,
+      "parent": "#3wdxkj"
+    },
+    {
+      "@id": "#nsxnn2",
+      "name": "Asphalt or concrete surface on top",
+      "x": -401,
+      "y": -163,
+      "parent": "#3wdxkj"
+    },
+    {
+      "@id": "#zpk3r8",
+      "name": "Camber and drains shed rainwater",
+      "x": -318,
+      "y": -255,
+      "parent": "#3wdxkj"
+    },
+    {
+      "@id": "#b7nj6y",
+      "name": "History",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g4rjkq",
+      "name": "Romans built about 80,000 km of roads",
+      "x": -204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Roman_roads",
+      "parent": "#b7nj6y"
+    },
+    {
+      "@id": "#3icyj6",
+      "name": "Persian Royal Road carried royal messengers",
+      "x": -73,
+      "y": -372,
+      "parent": "#b7nj6y"
+    },
+    {
+      "@id": "#vkcxtz",
+      "name": "McAdam's crushed-stone roads, early 1800s",
+      "x": 82,
+      "y": -420,
+      "link": "https://en.wikipedia.org/wiki/Macadam",
+      "parent": "#b7nj6y"
+    },
+    {
+      "@id": "#rvjkv9",
+      "name": "Tarmac spread with the motor car",
+      "x": 204,
+      "y": -321,
+      "parent": "#b7nj6y"
+    },
+    {
+      "@id": "#qbcuw9",
+      "name": "Kinds of road",
+      "x": 219,
+      "y": -57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#863kd2",
+      "name": "Motorways and freeways for fast traffic",
+      "x": 318,
+      "y": -255,
+      "parent": "#qbcuw9"
+    },
+    {
+      "@id": "#7erime",
+      "name": "Main roads link towns",
+      "x": 401,
+      "y": -163,
+      "parent": "#qbcuw9"
+    },
+    {
+      "@id": "#4skptr",
+      "name": "Residential streets favour slower speeds",
+      "x": 524,
+      "y": -64,
+      "parent": "#qbcuw9"
+    },
+    {
+      "@id": "#c5ehb5",
+      "name": "Unpaved tracks still common worldwide",
+      "x": 444,
+      "y": 56,
+      "parent": "#qbcuw9"
+    },
+    {
+      "@id": "#drf2wt",
+      "name": "Rules and signs",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#frntc5",
+      "name": "Drive on left or right by country",
+      "x": 437,
+      "y": 177,
+      "parent": "#drf2wt"
+    },
+    {
+      "@id": "#dwyw4v",
+      "name": "Signs, markings and traffic lights",
+      "x": 318,
+      "y": 255,
+      "parent": "#drf2wt"
+    },
+    {
+      "@id": "#n4dqsj",
+      "name": "Roundabouts and junctions manage flow",
+      "x": 204,
+      "y": 321,
+      "parent": "#drf2wt"
+    },
+    {
+      "@id": "#arsh6r",
+      "name": "Keeping roads working",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9mwgqp",
+      "name": "Potholes form as water freezes and thaws",
+      "x": 73,
+      "y": 372,
+      "parent": "#arsh6r"
+    },
+    {
+      "@id": "#nxrkdd",
+      "name": "Resurfacing and repairs cost billions",
+      "x": -82,
+      "y": 420,
+      "parent": "#arsh6r"
+    },
+    {
+      "@id": "#9wp8m3",
+      "name": "Road pricing and tolls fund upkeep",
+      "x": -204,
+      "y": 321,
+      "parent": "#arsh6r"
+    },
+    {
+      "@id": "#ix8txu",
+      "name": "Roads and society",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k96ke8",
+      "name": "Interstate system began 1956",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wikipedia.org/wiki/Interstate_Highway_System",
+      "parent": "#ix8txu"
+    },
+    {
+      "@id": "#sey4i2",
+      "name": "Opened trade and connected rural areas",
+      "x": -401,
+      "y": 163,
+      "parent": "#ix8txu"
+    },
+    {
+      "@id": "#4tf257",
+      "name": "Traffic brings congestion and pollution",
+      "x": -524,
+      "y": 64,
+      "parent": "#ix8txu"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

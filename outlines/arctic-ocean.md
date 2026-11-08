@@ -1,0 +1,30 @@
+category: Geography
+aliases: arctic sea, north polar ocean
+- Arctic Ocean
+  - Where it is
+    - Surrounds the North Pole
+    - Ringed by Russia, Canada, Alaska, Greenland, Norway
+    - [Fram Strait links it to the Atlantic](https://en.wikipedia.org/wiki/Fram_Strait)
+    - Bering Strait links it to the Pacific
+  - Size and shape
+    - Smallest and shallowest of five oceans
+    - About 14 million km²
+    - Wide continental shelves, mostly off Siberia
+    - Lomonosov Ridge crosses the central basin
+  - Sea ice
+    - Frozen cover grows each winter
+    - Melts to a minimum each September
+    - [Summer ice has shrunk sharply since 1979](https://en.wikipedia.org/wiki/Arctic_sea_ice_decline)
+    - Warming here is faster than global average
+  - Wildlife
+    - [Polar bears hunt seals on the ice](https://en.wikipedia.org/wiki/Polar_bear)
+    - Walrus, narwhal and beluga whales
+    - Ice algae feed the food web
+  - People and exploration
+    - Inuit and other peoples on its coasts
+    - Nansen's Fram drifted across, 1893–96
+    - USS Nautilus passed under the Pole, 1958
+  - A changing frontier
+    - [Northern Sea Route opens in summer](https://en.wikipedia.org/wiki/Northern_Sea_Route)
+    - Northwest Passage through Canada's islands
+    - Seabed oil, gas and territorial claims

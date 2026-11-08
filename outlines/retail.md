@@ -1,0 +1,30 @@
+category: Society
+aliases: retailing, retail industry, retail business, retail trade
+- Retail
+  - Selling goods to end consumers
+    - Last step of the supply chain
+    - [Buys from wholesalers or manufacturers](https://en.wikipedia.org/wiki/Wholesaling)
+    - Earns money on the markup
+  - Types of retailer
+    - Supermarkets and grocery chains
+    - [Department stores under one roof](https://en.wikipedia.org/wiki/Department_store)
+    - Specialist and independent shops
+    - Discount stores and warehouse clubs
+    - Franchises share a brand and format
+  - How stores sell
+    - Location and foot traffic matter
+    - Store layout guides shoppers' routes
+    - Promotions, loyalty schemes and pricing
+  - Behind the counter
+    - Stock control and replenishment
+    - Point-of-sale systems record sales
+    - Large, often part-time workforce
+  - Online shopping
+    - [E-commerce grew from the 1990s](https://en.wikipedia.org/wiki/Online_shopping)
+    - Marketplaces like Amazon dominate
+    - Home delivery and click-and-collect
+  - Trends and pressures
+    - Shops combining online and physical
+    - High-street closures and empty units
+    - Self-checkout and automation
+    - Thin profit margins in groceries

@@ -1,0 +1,29 @@
+category: Society
+aliases: freedom and liberty, political liberty, individual liberty, civil liberty
+- Liberty
+  - Meaning
+    - Freedom to act without undue constraint
+    - Political liberty limits state power
+  - [Two concepts of liberty](https://en.wikipedia.org/wiki/Two_Concepts_of_Liberty)
+    - Negative: freedom from interference
+    - Positive: power to direct one's life
+    - Isaiah Berlin's 1958 essay
+  - Key thinkers
+    - John Locke: life, liberty and property
+    - [John Stuart Mill: the harm principle](https://en.wikipedia.org/wiki/Harm_principle)
+    - Rousseau: freedom through the general will
+  - Landmark documents
+    - [Magna Carta, 1215](https://en.wikipedia.org/wiki/Magna_Carta)
+    - US Declaration of Independence, 1776
+    - French Declaration of Rights of Man, 1789
+    - US Bill of Rights, 1791
+  - Civil liberties
+    - Freedom of speech and press
+    - Freedom of religion and conscience
+    - Freedom of assembly and association
+    - Due process and fair trial
+  - Tensions
+    - Liberty versus security
+    - Liberty versus equality
+    - How far government should intervene
+    - [Libertarians favour minimal state](https://en.wikipedia.org/wiki/Libertarianism)

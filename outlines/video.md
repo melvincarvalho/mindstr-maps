@@ -1,0 +1,27 @@
+category: Technology
+aliases: video recording, video technology, history of video
+- Video
+  - What video is
+    - Still frames shown in rapid sequence
+    - Usually 24 to 60 frames per second
+    - Sound recorded alongside the pictures
+  - Recording on tape
+    - [Ampex videotape recorder, 1956](https://en.wikipedia.org/wiki/Videotape)
+    - [VHS beat Betamax in homes](https://en.wikipedia.org/wiki/Videotape_format_war)
+    - Camcorders let families film, 1980s
+  - Going digital
+    - DVDs replaced tapes around 2000
+    - [Compression shrinks files, like H.264](https://en.wikipedia.org/wiki/Advanced_Video_Coding)
+    - Resolution rose from SD to 4K
+  - Making video
+    - Phone cameras put filmmaking in pockets
+    - Editing software cuts and adds effects
+    - Good light and sound matter most
+  - Sharing and watching
+    - [YouTube launched in 2005](https://en.wikipedia.org/wiki/YouTube)
+    - Streaming sends video over the internet
+    - Short clips on social media
+    - Video calls connect people live
+  - Video and the internet
+    - Video is most internet traffic
+    - HD streaming needs fast broadband

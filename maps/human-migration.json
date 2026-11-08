@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Human migration",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#s7u263",
+      "name": "Early human migrations",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zir3xm",
+      "name": "Modern humans left Africa 60,000+ years ago",
+      "x": -565,
+      "y": -66,
+      "link": "https://en.wikipedia.org/wiki/Recent_African_origin_of_modern_humans",
+      "parent": "#s7u263"
+    },
+    {
+      "@id": "#pihxdf",
+      "name": "Americas reached across Bering land bridge",
+      "x": -405,
+      "y": -156,
+      "parent": "#s7u263"
+    },
+    {
+      "@id": "#4jb355",
+      "name": "Austronesians settled Pacific islands by canoe",
+      "x": -330,
+      "y": -245,
+      "parent": "#s7u263"
+    },
+    {
+      "@id": "#45scjh",
+      "name": "Types of migration",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qaixnj",
+      "name": "Internal: within one country",
+      "x": -225,
+      "y": -312,
+      "parent": "#45scjh"
+    },
+    {
+      "@id": "#gsfr3f",
+      "name": "International: across borders",
+      "x": -104,
+      "y": -367,
+      "parent": "#45scjh"
+    },
+    {
+      "@id": "#id3fqx",
+      "name": "Refugees flee war and persecution",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Refugee",
+      "parent": "#45scjh"
+    },
+    {
+      "@id": "#r77ray",
+      "name": "Seasonal and temporary labour migration",
+      "x": 234,
+      "y": -485,
+      "parent": "#45scjh"
+    },
+    {
+      "@id": "#mc69hn",
+      "name": "Why people move",
+      "x": 190,
+      "y": -104,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7sut4j",
+      "name": "Push: poverty, conflict, disaster",
+      "x": 281,
+      "y": -281,
+      "parent": "#mc69hn"
+    },
+    {
+      "@id": "#39udvg",
+      "name": "Pull: jobs, safety, family ties",
+      "x": 372,
+      "y": -203,
+      "parent": "#mc69hn"
+    },
+    {
+      "@id": "#64i32n",
+      "name": "Climate change expected to increase moves",
+      "x": 506,
+      "y": -126,
+      "parent": "#mc69hn"
+    },
+    {
+      "@id": "#tteqy3",
+      "name": "Great historical movements",
+      "x": 207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ckd3nz",
+      "name": "Atlantic slave trade moved 12.5 million",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Atlantic_slave_trade",
+      "parent": "#tteqy3"
+    },
+    {
+      "@id": "#vkq8ew",
+      "name": "European emigration to the Americas, 1800s",
+      "x": 525,
+      "y": 131,
+      "parent": "#tteqy3"
+    },
+    {
+      "@id": "#reyipq",
+      "name": "Partition of India displaced about 15 million",
+      "x": 372,
+      "y": 203,
+      "parent": "#tteqy3"
+    },
+    {
+      "@id": "#9jqftk",
+      "name": "Rural-to-urban shift worldwide",
+      "x": 281,
+      "y": 281,
+      "parent": "#tteqy3"
+    },
+    {
+      "@id": "#zdvjwp",
+      "name": "Today",
+      "x": 17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4883qd",
+      "name": "About 280 million international migrants",
+      "x": 164,
+      "y": 335,
+      "parent": "#zdvjwp"
+    },
+    {
+      "@id": "#rbc5zx",
+      "name": "Remittances send money to home countries",
+      "x": 38,
+      "y": 391,
+      "parent": "#zdvjwp"
+    },
+    {
+      "@id": "#nz8fea",
+      "name": "UNHCR supports refugees and displaced people",
+      "x": -124,
+      "y": 447,
+      "link": "https://en.wikipedia.org/wiki/United_Nations_High_Commissioner_for_Refugees",
+      "parent": "#zdvjwp"
+    },
+    {
+      "@id": "#aednrx",
+      "name": "Effects and debates",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g42ep8",
+      "name": "Labour supply and economic growth",
+      "x": -225,
+      "y": 312,
+      "parent": "#aednrx"
+    },
+    {
+      "@id": "#4dcye9",
+      "name": "Brain drain from origin countries",
+      "x": -330,
+      "y": 245,
+      "parent": "#aednrx"
+    },
+    {
+      "@id": "#csqtyr",
+      "name": "Integration, identity and cultural change",
+      "x": -405,
+      "y": 156,
+      "parent": "#aednrx"
+    },
+    {
+      "@id": "#eq87xi",
+      "name": "Border control and immigration policy",
+      "x": -445,
+      "y": 54,
+      "parent": "#aednrx"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

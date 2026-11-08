@@ -1,0 +1,31 @@
+category: Arts and culture
+aliases: art of handwriting, beautiful writing, calligraphy lettering
+- Calligraphy
+  - What it is
+    - The art of beautiful handwriting
+    - From Greek for beautiful writing
+    - Letters shaped with controlled strokes
+  - Major traditions
+    - [Chinese calligraphy with brush and ink](https://en.wikipedia.org/wiki/Chinese_calligraphy)
+    - Japanese shodō and Korean seoye
+    - [Islamic calligraphy in Arabic script](https://en.wikipedia.org/wiki/Islamic_calligraphy)
+    - Western scripts: uncial, Gothic, italic
+    - Devanagari and Indian scripts
+  - Tools
+    - Broad-edged and pointed nib pens
+    - Brushes, ink sticks and inkstones
+    - Reed and quill pens
+    - Smooth paper, vellum or parchment
+  - History
+    - Medieval monks copied illuminated manuscripts
+    - [Book of Kells, about 800 AD](https://en.wikipedia.org/wiki/Book_of_Kells)
+    - Printing press reduced everyday need
+    - Edward Johnston's 1900s revival
+  - Getting started
+    - Learn basic strokes before letters
+    - Keep a consistent pen angle
+    - Use guidelines for letter height
+    - Copy model alphabets daily
+  - Today
+    - Wedding invitations and lettering
+    - Brush lettering and modern styles

@@ -1,0 +1,308 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Phoenicia",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#eyys43",
+      "name": "Where and when",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t5dmzv",
+      "name": "Coast of modern Lebanon and Syria",
+      "x": -484,
+      "y": -65,
+      "parent": "#eyys43"
+    },
+    {
+      "@id": "#dkdtui",
+      "name": "Flourished about 1200–300 BC",
+      "x": -396,
+      "y": -171,
+      "parent": "#eyys43"
+    },
+    {
+      "@id": "#wm2aqs",
+      "name": "Semitic people, called themselves Canaanites",
+      "x": -305,
+      "y": -265,
+      "parent": "#eyys43"
+    },
+    {
+      "@id": "#xppffi",
+      "name": "City-states",
+      "x": -19,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#epenrz",
+      "name": "Tyre, Sidon, Byblos and Arwad",
+      "x": -181,
+      "y": -330,
+      "parent": "#xppffi"
+    },
+    {
+      "@id": "#363hq9",
+      "name": "Each ruled by its own king",
+      "x": -41,
+      "y": -391,
+      "parent": "#xppffi"
+    },
+    {
+      "@id": "#yvksbi",
+      "name": "Never a single unified state",
+      "x": 140,
+      "y": -445,
+      "parent": "#xppffi"
+    },
+    {
+      "@id": "#j6vida",
+      "name": "Seafaring and trade",
+      "x": 202,
+      "y": -88,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jinumw",
+      "name": "Master sailors across the Mediterranean",
+      "x": 246,
+      "y": -301,
+      "parent": "#j6vida"
+    },
+    {
+      "@id": "#y5nk4d",
+      "name": "Cedar wood from Lebanon's forests",
+      "x": 355,
+      "y": -221,
+      "parent": "#j6vida"
+    },
+    {
+      "@id": "#ygs237",
+      "name": "Tyrian purple dye from sea snails",
+      "x": 502,
+      "y": -137,
+      "link": "https://en.wikipedia.org/wiki/Tyrian_purple",
+      "parent": "#j6vida"
+    },
+    {
+      "@id": "#rcsfgk",
+      "name": "Glass, ivory and metalwork",
+      "x": 450,
+      "y": 0,
+      "parent": "#j6vida"
+    },
+    {
+      "@id": "#n4k59a",
+      "name": "Colonies",
+      "x": 182,
+      "y": 113,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#psqis7",
+      "name": "Carthage founded from Tyre",
+      "x": 426,
+      "y": 117,
+      "link": "https://en.wikipedia.org/wiki/Ancient_Carthage",
+      "parent": "#n4k59a"
+    },
+    {
+      "@id": "#5fa4ku",
+      "name": "Cádiz in Spain, Sicily, Sardinia",
+      "x": 355,
+      "y": 221,
+      "parent": "#n4k59a"
+    },
+    {
+      "@id": "#zghkjv",
+      "name": "May have sailed around Africa",
+      "x": 246,
+      "y": 301,
+      "parent": "#n4k59a"
+    },
+    {
+      "@id": "#a74eum",
+      "name": "The Phoenician alphabet",
+      "x": -19,
+      "y": 183,
+      "link": "https://en.wikipedia.org/wiki/Phoenician_alphabet",
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p78dh2",
+      "name": "22 letters, consonants only",
+      "x": 110,
+      "y": 349,
+      "parent": "#a74eum"
+    },
+    {
+      "@id": "#djs6sm",
+      "name": "Greeks adapted it, adding vowels",
+      "x": -43,
+      "y": 407,
+      "parent": "#a74eum"
+    },
+    {
+      "@id": "#rn8y54",
+      "name": "Ancestor of Latin, Greek, Hebrew, Arabic",
+      "x": -253,
+      "y": 465,
+      "parent": "#a74eum"
+    },
+    {
+      "@id": "#u5dwdb",
+      "name": "Decline",
+      "x": -202,
+      "y": 88,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ygzpka",
+      "name": "Ruled by Assyrians, Babylonians, Persians",
+      "x": -305,
+      "y": 265,
+      "parent": "#u5dwdb"
+    },
+    {
+      "@id": "#zfjayw",
+      "name": "Alexander besieged Tyre, 332 BC",
+      "x": -396,
+      "y": 171,
+      "link": "https://en.wikipedia.org/wiki/Siege_of_Tyre_%28332_BC%29",
+      "parent": "#u5dwdb"
+    },
+    {
+      "@id": "#inkau2",
+      "name": "Rome destroyed Carthage in 146 BC",
+      "x": -444,
+      "y": 59,
+      "parent": "#u5dwdb"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

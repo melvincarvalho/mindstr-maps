@@ -1,0 +1,31 @@
+category: Philosophy and religion
+aliases: sunni muslims, sunnism, ahl al-sunnah, sunni islam beliefs
+- Sunni Islam
+  - What it is
+    - Largest branch of Islam
+    - About 85 to 90% of Muslims
+    - Name from Sunnah, the Prophet's example
+  - Origins
+    - Split over succession after Muhammad, 632 CE
+    - [Accepts the four Rashidun caliphs](https://en.wikipedia.org/wiki/Rashidun_Caliphate)
+    - Shia instead followed Ali and his line
+  - Core beliefs
+    - One God, Allah, without partners
+    - Muhammad is the final prophet
+    - Quran is God's word revealed
+    - Angels, prophets, Judgement Day, divine decree
+  - Sources of guidance
+    - The Quran
+    - [Hadith collections like Sahih al-Bukhari](https://en.wikipedia.org/wiki/Kutub_al-Sittah)
+    - Scholarly consensus (ijma)
+    - Analogical reasoning (qiyas)
+  - Practice
+    - [Five Pillars structure religious life](https://en.wikipedia.org/wiki/Five_Pillars_of_Islam)
+    - Five daily prayers facing Mecca
+    - Fasting in Ramadan
+    - Hajj to Mecca once if able
+  - Schools and traditions
+    - [Four law schools: Hanafi, Maliki, Shafi'i, Hanbali](https://en.wikipedia.org/wiki/Madhhab)
+    - Ash'ari and Maturidi theology
+    - Sufism practised within many communities
+    - Al-Azhar in Cairo, major learning centre

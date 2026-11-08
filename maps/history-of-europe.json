@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "History of Europe",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#b6r72d",
+      "name": "Prehistory and ancient Greece",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r43ufg",
+      "name": "Farming arrives from Anatolia about 7000 BC",
+      "x": -585,
+      "y": -65,
+      "parent": "#b6r72d"
+    },
+    {
+      "@id": "#m9dbuf",
+      "name": "Athens develops democracy, 5th century BC",
+      "x": -409,
+      "y": -150,
+      "link": "https://en.wikipedia.org/wiki/Athenian_democracy",
+      "parent": "#b6r72d"
+    },
+    {
+      "@id": "#bhtzu9",
+      "name": "Philosophy, drama and science flourish",
+      "x": -340,
+      "y": -236,
+      "parent": "#b6r72d"
+    },
+    {
+      "@id": "#ry6ivm",
+      "name": "Roman Empire",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p8wyth",
+      "name": "Rome rules the Mediterranean by AD 100",
+      "x": -243,
+      "y": -303,
+      "parent": "#ry6ivm"
+    },
+    {
+      "@id": "#w5r5pe",
+      "name": "Latin, law and roads spread",
+      "x": -133,
+      "y": -360,
+      "parent": "#ry6ivm"
+    },
+    {
+      "@id": "#p5xcfy",
+      "name": "Christianity becomes state religion, 380",
+      "x": 0,
+      "y": -408,
+      "parent": "#ry6ivm"
+    },
+    {
+      "@id": "#4q6dxa",
+      "name": "Western empire falls in 476",
+      "x": 175,
+      "y": -465,
+      "parent": "#ry6ivm"
+    },
+    {
+      "@id": "#88rzun",
+      "name": "Middle Ages",
+      "x": 193,
+      "y": -99,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tpeeve",
+      "name": "Feudalism, monasteries and the Catholic Church",
+      "x": 243,
+      "y": -303,
+      "parent": "#88rzun"
+    },
+    {
+      "@id": "#v2jjq3",
+      "name": "Charlemagne crowned emperor in 800",
+      "x": 340,
+      "y": -236,
+      "parent": "#88rzun"
+    },
+    {
+      "@id": "#3ixn2g",
+      "name": "Byzantine Empire lasts until 1453",
+      "x": 409,
+      "y": -150,
+      "parent": "#88rzun"
+    },
+    {
+      "@id": "#jjcejp",
+      "name": "Black Death kills a third or more",
+      "x": 445,
+      "y": -51,
+      "link": "https://en.wikipedia.org/wiki/Black_Death",
+      "parent": "#88rzun"
+    },
+    {
+      "@id": "#pqpadz",
+      "name": "Renaissance to Enlightenment",
+      "x": 193,
+      "y": 99,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p59e95",
+      "name": "Renaissance begins in 14th-century Italy",
+      "x": 445,
+      "y": 51,
+      "parent": "#pqpadz"
+    },
+    {
+      "@id": "#36wt5e",
+      "name": "Protestant Reformation from 1517",
+      "x": 409,
+      "y": 150,
+      "link": "https://en.wikipedia.org/wiki/Reformation",
+      "parent": "#pqpadz"
+    },
+    {
+      "@id": "#s27fjb",
+      "name": "Overseas empires from the 1490s",
+      "x": 340,
+      "y": 236,
+      "parent": "#pqpadz"
+    },
+    {
+      "@id": "#3h8vds",
+      "name": "Enlightenment and French Revolution, 1789",
+      "x": 243,
+      "y": 303,
+      "parent": "#pqpadz"
+    },
+    {
+      "@id": "#jhwevc",
+      "name": "Industry and nations",
+      "x": -33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2eg663",
+      "name": "Industrial Revolution starts in Britain",
+      "x": 133,
+      "y": 360,
+      "parent": "#jhwevc"
+    },
+    {
+      "@id": "#myw6j2",
+      "name": "Italy and Germany unified by 1871",
+      "x": 0,
+      "y": 408,
+      "parent": "#jhwevc"
+    },
+    {
+      "@id": "#hadi5i",
+      "name": "World War I, 1914–1918",
+      "x": -175,
+      "y": 465,
+      "link": "https://en.wikipedia.org/wiki/World_War_I",
+      "parent": "#jhwevc"
+    },
+    {
+      "@id": "#9ssxe3",
+      "name": "World War II and the Holocaust",
+      "x": -243,
+      "y": 303,
+      "parent": "#jhwevc"
+    },
+    {
+      "@id": "#dqz6iu",
+      "name": "Division and union",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wsd7wa",
+      "name": "Iron Curtain splits East and West",
+      "x": -340,
+      "y": 236,
+      "parent": "#dqz6iu"
+    },
+    {
+      "@id": "#zmr7in",
+      "name": "Berlin Wall falls in 1989",
+      "x": -409,
+      "y": 150,
+      "parent": "#dqz6iu"
+    },
+    {
+      "@id": "#ijegjc",
+      "name": "European Union founded in 1993",
+      "x": -485,
+      "y": 55,
+      "parent": "#dqz6iu"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

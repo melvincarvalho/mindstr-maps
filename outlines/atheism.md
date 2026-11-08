@@ -1,0 +1,27 @@
+category: Philosophy and religion
+aliases: atheist, atheists, nonbelief in god
+- Atheism
+  - What it means
+    - Absence of belief in any gods
+    - Weak atheism: simply lacking belief
+    - Strong atheism: asserting no gods exist
+    - [Agnosticism: the question is unknowable](https://en.wikipedia.org/wiki/Agnosticism)
+  - Common reasons given
+    - Lack of convincing evidence for gods
+    - [Problem of evil and suffering](https://en.wikipedia.org/wiki/Problem_of_evil)
+    - Science explains nature without gods
+    - Many religions make conflicting claims
+  - History
+    - Ancient sceptics like Epicurus and Carvaka
+    - Enlightenment thinkers questioned religion openly
+    - Nietzsche's "God is dead" (1882)
+    - [New Atheism movement of the 2000s](https://en.wikipedia.org/wiki/New_Atheism)
+  - Atheism today
+    - Most common in East Asia and Europe
+    - Growing share of "nones" in the West
+    - Still illegal or punished in some countries
+    - Atheists live by many different ethics
+  - Related outlooks
+    - [Secular humanism: ethics without religion](https://en.wikipedia.org/wiki/Secular_humanism)
+    - Freethought: reason over authority
+    - Some Buddhists and Jains reject a creator

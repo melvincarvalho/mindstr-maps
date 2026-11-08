@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Telecommunications",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#gsemrm",
+      "name": "What it means",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xtziv5",
+      "name": "Sending information over a distance",
+      "x": -484,
+      "y": -60,
+      "parent": "#gsemrm"
+    },
+    {
+      "@id": "#9yfcdx",
+      "name": "Signals carried by wire, radio or light",
+      "x": -401,
+      "y": -163,
+      "parent": "#gsemrm"
+    },
+    {
+      "@id": "#ycsjxr",
+      "name": "Sender, channel and receiver",
+      "x": -318,
+      "y": -255,
+      "parent": "#gsemrm"
+    },
+    {
+      "@id": "#55bczf",
+      "name": "Early long-distance signals",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uq3jh8",
+      "name": "Smoke signals and beacon fires",
+      "x": -204,
+      "y": -321,
+      "parent": "#55bczf"
+    },
+    {
+      "@id": "#a5uvkv",
+      "name": "Optical semaphore towers, 1790s France",
+      "x": -73,
+      "y": -372,
+      "link": "https://en.wikipedia.org/wiki/Semaphore_line",
+      "parent": "#55bczf"
+    },
+    {
+      "@id": "#cjentp",
+      "name": "Electric telegraph and Morse code, 1840s",
+      "x": 82,
+      "y": -420,
+      "link": "https://en.wikipedia.org/wiki/Electrical_telegraph",
+      "parent": "#55bczf"
+    },
+    {
+      "@id": "#yawe63",
+      "name": "Lasting transatlantic telegraph cable, 1866",
+      "x": 204,
+      "y": -321,
+      "parent": "#55bczf"
+    },
+    {
+      "@id": "#7yt5e2",
+      "name": "Voice and broadcasting",
+      "x": 205,
+      "y": -84,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#n7ydzz",
+      "name": "Telephone patented in 1876",
+      "x": 318,
+      "y": -255,
+      "parent": "#7yt5e2"
+    },
+    {
+      "@id": "#eehhq3",
+      "name": "Radio crossed the Atlantic in 1901",
+      "x": 401,
+      "y": -163,
+      "parent": "#7yt5e2"
+    },
+    {
+      "@id": "#gp83wm",
+      "name": "Television broadcasts from the 1930s",
+      "x": 524,
+      "y": -64,
+      "parent": "#7yt5e2"
+    },
+    {
+      "@id": "#wwfevj",
+      "name": "Modern networks",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#iqnueb",
+      "name": "Communications satellites since Telstar, 1962",
+      "x": 444,
+      "y": 56,
+      "link": "https://en.wikipedia.org/wiki/Communications_satellite",
+      "parent": "#wwfevj"
+    },
+    {
+      "@id": "#dzmk8b",
+      "name": "Fibre-optic cables carry most data",
+      "x": 401,
+      "y": 163,
+      "link": "https://en.wikipedia.org/wiki/Fiber-optic_communication",
+      "parent": "#wwfevj"
+    },
+    {
+      "@id": "#ctcz8z",
+      "name": "Mobile networks from 1G to 5G",
+      "x": 318,
+      "y": 255,
+      "parent": "#wwfevj"
+    },
+    {
+      "@id": "#bpx26m",
+      "name": "The internet runs over them all",
+      "x": 204,
+      "y": 321,
+      "parent": "#wwfevj"
+    },
+    {
+      "@id": "#3quik3",
+      "name": "How signals are carried",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dxw482",
+      "name": "Analogue signals gave way to digital",
+      "x": 73,
+      "y": 372,
+      "parent": "#3quik3"
+    },
+    {
+      "@id": "#kuwg3r",
+      "name": "Modulation puts data on carrier waves",
+      "x": -82,
+      "y": 420,
+      "parent": "#3quik3"
+    },
+    {
+      "@id": "#zc3wht",
+      "name": "Bandwidth limits how much data flows",
+      "x": -204,
+      "y": 321,
+      "parent": "#3quik3"
+    },
+    {
+      "@id": "#7erjaj",
+      "name": "Impact",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p6pw3y",
+      "name": "Instant global news and finance",
+      "x": -318,
+      "y": 255,
+      "parent": "#7erjaj"
+    },
+    {
+      "@id": "#v5njt5",
+      "name": "Remote work and video calls",
+      "x": -401,
+      "y": 163,
+      "parent": "#7erjaj"
+    },
+    {
+      "@id": "#fd9i6i",
+      "name": "Governments regulate spectrum and operators",
+      "x": -484,
+      "y": 60,
+      "parent": "#7erjaj"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,33 @@
+category: Science
+aliases: climate zones, climate types, world climates
+- Climate
+  - Climate vs weather
+    - Weather is day to day
+    - Climate is the long-term average
+    - Usually averaged over 30 years
+  - What shapes a climate
+    - Latitude sets how much sunlight
+    - Altitude: higher places are cooler
+    - Oceans soften coastal temperatures
+    - [Ocean currents like the Gulf Stream](https://en.wikipedia.org/wiki/Gulf_Stream)
+    - Mountains cause rain shadows
+    - Prevailing winds bring wet or dry air
+  - [Climate zones (Köppen)](https://en.wikipedia.org/wiki/K%C3%B6ppen_climate_classification)
+    - Tropical: hot and wet all year
+    - Dry: deserts and steppes
+    - Temperate: mild with four seasons
+    - Continental: hot summers, cold winters
+    - Polar: cold all year round
+  - The climate system
+    - Sun's energy drives everything
+    - Winds and oceans carry heat poleward
+    - Ice and snow reflect sunlight
+    - [El Niño shifts weather worldwide](https://en.wikipedia.org/wiki/El_Ni%C3%B1o%E2%80%93Southern_Oscillation)
+  - Measuring climate
+    - Weather stations record temperature and rainfall
+    - Satellites watch the whole planet
+    - [Tree rings and ice cores: past climates](https://en.wikipedia.org/wiki/Paleoclimatology)
+  - Climate over time
+    - [Orbital cycles pace the ice ages](https://en.wikipedia.org/wiki/Milankovitch_cycles)
+    - Volcanoes and solar changes cause shifts
+    - Recent rapid warming is human-driven

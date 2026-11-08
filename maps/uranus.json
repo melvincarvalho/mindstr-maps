@@ -1,0 +1,307 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Uranus",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#f7t7rz",
+      "name": "Size and orbit",
+      "x": -182,
+      "y": -113,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#s4sk8n",
+      "name": "Seventh planet from the Sun",
+      "x": -444,
+      "y": -59,
+      "parent": "#f7t7rz"
+    },
+    {
+      "@id": "#8skt9h",
+      "name": "About 4 times Earth's diameter",
+      "x": -396,
+      "y": -171,
+      "parent": "#f7t7rz"
+    },
+    {
+      "@id": "#wgn34y",
+      "name": "About 2.9 billion km from the Sun",
+      "x": -305,
+      "y": -265,
+      "parent": "#f7t7rz"
+    },
+    {
+      "@id": "#u9g2t9",
+      "name": "Year of about 84 Earth years",
+      "x": -181,
+      "y": -330,
+      "parent": "#f7t7rz"
+    },
+    {
+      "@id": "#a73a4b",
+      "name": "Discovery",
+      "x": 56,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rkbafn",
+      "name": "Found by William Herschel in 1781",
+      "x": -41,
+      "y": -391,
+      "link": "https://en.wikipedia.org/wiki/William_Herschel",
+      "parent": "#a73a4b"
+    },
+    {
+      "@id": "#sce3nd",
+      "name": "First planet found by telescope",
+      "x": 140,
+      "y": -445,
+      "parent": "#a73a4b"
+    },
+    {
+      "@id": "#jk382t",
+      "name": "Named after Greek god of the sky",
+      "x": 246,
+      "y": -301,
+      "parent": "#a73a4b"
+    },
+    {
+      "@id": "#6794n8",
+      "name": "An ice giant",
+      "x": 218,
+      "y": -60,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h3shwe",
+      "name": "Water, ammonia and methane ices",
+      "x": 355,
+      "y": -221,
+      "parent": "#6794n8"
+    },
+    {
+      "@id": "#g3geye",
+      "name": "Methane gives the blue-green colour",
+      "x": 426,
+      "y": -117,
+      "parent": "#6794n8"
+    },
+    {
+      "@id": "#4ypqws",
+      "name": "Coldest atmosphere, about −224°C",
+      "x": 450,
+      "y": 0,
+      "parent": "#6794n8"
+    },
+    {
+      "@id": "#w98yq5",
+      "name": "Tipped on its side",
+      "x": 182,
+      "y": 113,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aes92g",
+      "name": "Axis tilted about 98 degrees",
+      "x": 464,
+      "y": 127,
+      "link": "https://en.wikipedia.org/wiki/Axial_tilt",
+      "parent": "#w98yq5"
+    },
+    {
+      "@id": "#k6cz88",
+      "name": "Probably knocked over by a collision",
+      "x": 355,
+      "y": 221,
+      "parent": "#w98yq5"
+    },
+    {
+      "@id": "#vmvana",
+      "name": "Each pole gets 42 years of sunlight",
+      "x": 246,
+      "y": 301,
+      "parent": "#w98yq5"
+    },
+    {
+      "@id": "#rj7u4z",
+      "name": "Moons and rings",
+      "x": -56,
+      "y": 178,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fw38iv",
+      "name": "29 known moons",
+      "x": 110,
+      "y": 349,
+      "parent": "#rj7u4z"
+    },
+    {
+      "@id": "#vhvdye",
+      "name": "Named after Shakespeare and Pope characters",
+      "x": -43,
+      "y": 407,
+      "parent": "#rj7u4z"
+    },
+    {
+      "@id": "#yqwakt",
+      "name": "Miranda has giant cliffs",
+      "x": -181,
+      "y": 330,
+      "parent": "#rj7u4z"
+    },
+    {
+      "@id": "#8up7vq",
+      "name": "Thin, dark rings found in 1977",
+      "x": -305,
+      "y": 265,
+      "parent": "#rj7u4z"
+    },
+    {
+      "@id": "#7z7cgh",
+      "name": "Exploration",
+      "x": -218,
+      "y": 60,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gfdcqp",
+      "name": "Only Voyager 2 has visited, 1986",
+      "x": -396,
+      "y": 171,
+      "link": "https://en.wikipedia.org/wiki/Voyager_2",
+      "parent": "#7z7cgh"
+    },
+    {
+      "@id": "#675k5e",
+      "name": "Orbiter mission a top NASA priority",
+      "x": -484,
+      "y": 65,
+      "parent": "#7z7cgh"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

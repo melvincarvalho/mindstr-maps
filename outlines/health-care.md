@@ -1,0 +1,30 @@
+category: Health
+aliases: healthcare, healthcare system, health care system, medical care
+- Health care
+  - What it covers
+    - Prevention, diagnosis and treatment
+    - Rehabilitation and long-term care
+    - Mental health and dental care
+  - Levels of care
+    - [Primary care: family doctors and clinics](https://en.wikipedia.org/wiki/Primary_care)
+    - Secondary care: specialists and hospitals
+    - Tertiary care: highly specialised centres
+    - Community and home care
+  - Who works in it
+    - Doctors and nurses
+    - Pharmacists and dentists
+    - Therapists, paramedics and support staff
+  - How it is paid for
+    - [Taxes fund national health services](https://en.wikipedia.org/wiki/Single-payer_healthcare)
+    - Social health insurance from wages
+    - Private insurance
+    - Out-of-pocket payments
+  - Example systems
+    - UK's NHS, free at point of use
+    - Germany's insurance-based system
+    - US mix of private and public
+  - Big challenges
+    - [Universal health coverage still out of reach](https://en.wikipedia.org/wiki/Universal_health_care)
+    - Rising costs of new treatments
+    - Ageing populations and chronic disease
+    - Staff shortages and waiting times

@@ -1,0 +1,31 @@
+category: Science
+aliases: horses, equus caballus, domestic horse
+- Horse
+  - The animal
+    - Large hoofed grazer with one toe
+    - Mares are female, stallions male
+    - Foals born after about 11 months
+    - Lives about 25 to 30 years
+  - Evolution
+    - [Ancestors were dog-sized forest animals](https://en.wikipedia.org/wiki/Evolution_of_the_horse)
+    - Grew larger as grasslands spread
+    - Relatives include zebras and donkeys
+  - Domestication
+    - [Tamed on steppes about 4,000 years ago](https://en.wikipedia.org/wiki/Domestication_of_the_horse)
+    - Chariots then cavalry changed warfare
+    - Carried people and goods across continents
+    - Replaced by engines in the 20th century
+  - Body and behaviour
+    - Prey animals that flee danger
+    - Live in herds with clear leaders
+    - Can sleep standing up
+    - Eyes on sides give wide vision
+  - Horses today
+    - About 60 million worldwide
+    - Riding, racing and equestrian sports
+    - Farm work and therapy riding
+  - Care basics
+    - Constant forage, mainly grass and hay
+    - Hooves trimmed every 6 to 8 weeks
+    - Teeth, worming and vaccinations
+    - Company of other horses

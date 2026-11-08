@@ -1,0 +1,28 @@
+category: Science
+aliases: eggs, bird egg, egg biology
+- Egg
+  - Two meanings
+    - [Egg cell: the female gamete](https://en.wikipedia.org/wiki/Egg_cell)
+    - Shelled egg protects a developing embryo
+  - Who lays eggs
+    - Birds and most reptiles: shelled eggs
+    - Fish and amphibians: soft eggs in water
+    - Insects often lay hundreds
+    - [Monotremes: egg-laying mammals like the platypus](https://en.wikipedia.org/wiki/Monotreme)
+  - Inside a bird's egg
+    - Porous calcium carbonate shell
+    - Albumen (the white) cushions and hydrates
+    - Yolk feeds the growing embryo
+    - Air cell forms at the blunt end
+  - The amniotic egg
+    - [Membranes let eggs survive on land](https://en.wikipedia.org/wiki/Amniote)
+    - Evolved over 300 million years ago
+    - Parents incubate to keep embryos warm
+  - Records
+    - Ostrich lays the largest living egg
+    - Hummingbirds lay the smallest bird eggs
+    - Dinosaurs laid eggs too
+  - Eggs as food
+    - [Chicken eggs are most eaten worldwide](https://en.wikipedia.org/wiki/Eggs_as_food)
+    - Rich in protein, vitamins and choline
+    - Undercooked eggs can carry Salmonella

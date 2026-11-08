@@ -1,0 +1,30 @@
+category: Geography
+aliases: sao paulo brazil, sampa, sao paulo city
+- São Paulo
+  - Setting
+    - Southeast Brazil, on a plateau
+    - About 70 km from the Atlantic
+    - Largest city in the Southern Hemisphere
+  - History
+    - Founded by Jesuits in 1554
+    - Bandeirante expeditions pushed inland
+    - Coffee boom in the 1800s
+    - Industry boomed in the 20th century
+  - People
+    - About 12 million in the city
+    - About 22 million in metro area
+    - [Largest Japanese community outside Japan](https://en.wikipedia.org/wiki/Japanese_Brazilians)
+    - Big Italian, Arab and northeastern communities
+  - Economy
+    - Brazil's financial and business capital
+    - [B3 stock exchange](https://en.wikipedia.org/wiki/B3_%28stock_exchange%29)
+    - Industry, services and tech startups
+    - Stark gaps between rich and poor
+  - Landmarks
+    - [Avenida Paulista, the main avenue](https://en.wikipedia.org/wiki/Avenida_Paulista)
+    - Ibirapuera Park by Niemeyer
+    - MASP museum's suspended building
+  - Culture
+    - Hosts Brazilian Grand Prix at Interlagos
+    - Huge Pride parade and street art
+    - Pizza, pastel and Liberdade's food

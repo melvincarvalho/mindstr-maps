@@ -1,0 +1,32 @@
+category: Society
+aliases: armed forces, the military, army navy and air force
+- Military
+  - Purpose
+    - Defend the state's territory
+    - Deter attack by potential enemies
+    - Support allies and peacekeeping
+    - Help in disasters at home
+  - Branches
+    - Army fights on land
+    - Navy controls the seas
+    - Air force controls the skies
+    - Marines, space and cyber forces
+  - Structure
+    - [Chain of command from leaders down](https://en.wikipedia.org/wiki/Chain_of_command)
+    - Ranks: enlisted, NCOs and officers
+    - Units from squads to armies
+    - Civilian control in democracies
+  - People
+    - Volunteers in most countries today
+    - [Conscription in some, like South Korea](https://en.wikipedia.org/wiki/Conscription)
+    - Reserves and national guards
+    - Military academies train officers
+  - Size and spending
+    - World spending over $2 trillion a year
+    - US spends the most by far
+    - China has the largest active force
+    - [NATO agreed 5% of GDP by 2035](https://en.wikipedia.org/wiki/NATO)
+  - Rules and history
+    - [Geneva Conventions limit conduct in war](https://en.wikipedia.org/wiki/Geneva_Conventions)
+    - Nuclear weapons transformed strategy
+    - Drones and cyberwar change modern combat

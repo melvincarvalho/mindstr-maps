@@ -1,0 +1,320 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "State of matter",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#txpyrt",
+      "name": "Four everyday states",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bu3qn9",
+      "name": "Solid keeps its shape and volume",
+      "x": -444,
+      "y": -56,
+      "link": "https://en.wikipedia.org/wiki/Solid",
+      "parent": "#txpyrt"
+    },
+    {
+      "@id": "#vcz8d8",
+      "name": "Liquid flows but keeps its volume",
+      "x": -401,
+      "y": -163,
+      "link": "https://en.wikipedia.org/wiki/Liquid",
+      "parent": "#txpyrt"
+    },
+    {
+      "@id": "#p58nkr",
+      "name": "Gas fills any container",
+      "x": -318,
+      "y": -255,
+      "link": "https://en.wikipedia.org/wiki/Gas",
+      "parent": "#txpyrt"
+    },
+    {
+      "@id": "#a5kggm",
+      "name": "Plasma: hot gas of charged particles",
+      "x": -204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Plasma_%28physics%29",
+      "parent": "#txpyrt"
+    },
+    {
+      "@id": "#cz3fnb",
+      "name": "What decides the state",
+      "x": 36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4ukmuf",
+      "name": "How fast the particles move",
+      "x": -73,
+      "y": -372,
+      "parent": "#cz3fnb"
+    },
+    {
+      "@id": "#twzqiz",
+      "name": "How strongly particles attract each other",
+      "x": 82,
+      "y": -420,
+      "parent": "#cz3fnb"
+    },
+    {
+      "@id": "#me2vay",
+      "name": "Temperature and pressure together",
+      "x": 204,
+      "y": -321,
+      "parent": "#cz3fnb"
+    },
+    {
+      "@id": "#fe9un6",
+      "name": "Changing state",
+      "x": 219,
+      "y": -57,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a6t3mn",
+      "name": "Melting and freezing: solid and liquid",
+      "x": 318,
+      "y": -255,
+      "parent": "#fe9un6"
+    },
+    {
+      "@id": "#34yzvr",
+      "name": "Boiling, evaporation and condensation",
+      "x": 401,
+      "y": -163,
+      "parent": "#fe9un6"
+    },
+    {
+      "@id": "#9428hz",
+      "name": "Sublimation: dry ice to gas directly",
+      "x": 504,
+      "y": -62,
+      "parent": "#fe9un6"
+    },
+    {
+      "@id": "#esxezu",
+      "name": "Deposition: frost forms straight from vapour",
+      "x": 444,
+      "y": 56,
+      "parent": "#fe9un6"
+    },
+    {
+      "@id": "#j5xfaz",
+      "name": "Energy and temperature",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cjywf6",
+      "name": "Temperature stalls while state changes",
+      "x": 455,
+      "y": 184,
+      "parent": "#j5xfaz"
+    },
+    {
+      "@id": "#c4ubmg",
+      "name": "Hidden heat called latent heat",
+      "x": 318,
+      "y": 255,
+      "parent": "#j5xfaz"
+    },
+    {
+      "@id": "#gcjjvt",
+      "name": "Phase diagram maps states by conditions",
+      "x": 204,
+      "y": 321,
+      "link": "https://en.wikipedia.org/wiki/Phase_diagram",
+      "parent": "#j5xfaz"
+    },
+    {
+      "@id": "#tjk3nz",
+      "name": "Water in all three",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pm8pgs",
+      "name": "Ice melts at 0°C",
+      "x": 73,
+      "y": 372,
+      "parent": "#tjk3nz"
+    },
+    {
+      "@id": "#bxxfs2",
+      "name": "Boils at 100°C at sea level",
+      "x": -82,
+      "y": 420,
+      "parent": "#tjk3nz"
+    },
+    {
+      "@id": "#gkbfgw",
+      "name": "Ice floats because it is less dense",
+      "x": -204,
+      "y": 321,
+      "parent": "#tjk3nz"
+    },
+    {
+      "@id": "#374k76",
+      "name": "Exotic states",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ssh27w",
+      "name": "Bose–Einstein condensate near absolute zero",
+      "x": -318,
+      "y": 255,
+      "parent": "#374k76"
+    },
+    {
+      "@id": "#v8kx98",
+      "name": "Superfluids flow with zero friction",
+      "x": -401,
+      "y": 163,
+      "parent": "#374k76"
+    },
+    {
+      "@id": "#sk98nd",
+      "name": "Liquid crystals in phone screens",
+      "x": -464,
+      "y": 58,
+      "parent": "#374k76"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Corporation",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#akaeaz",
+      "name": "A business that is a legal person",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cti5gy",
+      "name": "Separate legal personality from its owners",
+      "x": -605,
+      "y": -70,
+      "link": "https://en.wikipedia.org/wiki/Legal_person",
+      "parent": "#akaeaz"
+    },
+    {
+      "@id": "#izv4t9",
+      "name": "Can own property, sign contracts, sue",
+      "x": -405,
+      "y": -156,
+      "parent": "#akaeaz"
+    },
+    {
+      "@id": "#dfagqa",
+      "name": "Continues when owners change or die",
+      "x": -330,
+      "y": -245,
+      "parent": "#akaeaz"
+    },
+    {
+      "@id": "#wzeia3",
+      "name": "Owned by shareholders",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#naaekr",
+      "name": "Limited liability caps owners' losses",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Limited_liability",
+      "parent": "#wzeia3"
+    },
+    {
+      "@id": "#ia4qkd",
+      "name": "Shares can be sold to others",
+      "x": -104,
+      "y": -367,
+      "parent": "#wzeia3"
+    },
+    {
+      "@id": "#vdbze7",
+      "name": "Profits paid out as dividends",
+      "x": 42,
+      "y": -423,
+      "parent": "#wzeia3"
+    },
+    {
+      "@id": "#axqqib",
+      "name": "Public companies list on stock exchanges",
+      "x": 234,
+      "y": -485,
+      "parent": "#wzeia3"
+    },
+    {
+      "@id": "#arw6tu",
+      "name": "Run by directors and managers",
+      "x": 190,
+      "y": -104,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aby4tr",
+      "name": "Shareholders elect the board of directors",
+      "x": 281,
+      "y": -281,
+      "parent": "#arw6tu"
+    },
+    {
+      "@id": "#htjw4h",
+      "name": "Board appoints the chief executive",
+      "x": 372,
+      "y": -203,
+      "parent": "#arw6tu"
+    },
+    {
+      "@id": "#a79xv8",
+      "name": "Corporate governance balances these interests",
+      "x": 582,
+      "y": -146,
+      "link": "https://en.wikipedia.org/wiki/Corporate_governance",
+      "parent": "#arw6tu"
+    },
+    {
+      "@id": "#fc6pjm",
+      "name": "Common forms",
+      "x": 207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ezudcq",
+      "name": "Private limited company (Ltd, LLC)",
+      "x": 450,
+      "y": 0,
+      "parent": "#fc6pjm"
+    },
+    {
+      "@id": "#5q9abg",
+      "name": "Public limited company (plc, Inc.)",
+      "x": 468,
+      "y": 116,
+      "parent": "#fc6pjm"
+    },
+    {
+      "@id": "#n4eisr",
+      "name": "Nonprofit corporations serve a mission",
+      "x": 372,
+      "y": 203,
+      "parent": "#fc6pjm"
+    },
+    {
+      "@id": "#qpzkst",
+      "name": "Multinationals operate across many countries",
+      "x": 281,
+      "y": 281,
+      "parent": "#fc6pjm"
+    },
+    {
+      "@id": "#vnqten",
+      "name": "History",
+      "x": 17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#953g27",
+      "name": "Roman law recognised collective bodies",
+      "x": 164,
+      "y": 335,
+      "parent": "#vnqten"
+    },
+    {
+      "@id": "#xn7pw9",
+      "name": "Dutch East India Company, 1602",
+      "x": 38,
+      "y": 391,
+      "link": "https://en.wikipedia.org/wiki/Dutch_East_India_Company",
+      "parent": "#vnqten"
+    },
+    {
+      "@id": "#ae3k8t",
+      "name": "1800s laws made incorporation routine",
+      "x": -124,
+      "y": 447,
+      "parent": "#vnqten"
+    },
+    {
+      "@id": "#i5pfpp",
+      "name": "Rules and debates",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bi2fjx",
+      "name": "Pays corporation tax on profits",
+      "x": -225,
+      "y": 312,
+      "parent": "#i5pfpp"
+    },
+    {
+      "@id": "#k25cp5",
+      "name": "Must publish audited accounts",
+      "x": -330,
+      "y": 245,
+      "parent": "#i5pfpp"
+    },
+    {
+      "@id": "#kd54ki",
+      "name": "Shareholder value versus stakeholder interests",
+      "x": -405,
+      "y": 156,
+      "parent": "#i5pfpp"
+    },
+    {
+      "@id": "#7buis3",
+      "name": "Concerns over power and lobbying",
+      "x": -445,
+      "y": 54,
+      "parent": "#i5pfpp"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Electric battery",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#qat64m",
+      "name": "How it works",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#avhpi4",
+      "name": "Stored chemical energy becomes electricity",
+      "x": -445,
+      "y": -51,
+      "parent": "#qat64m"
+    },
+    {
+      "@id": "#rkjtbt",
+      "name": "Anode, cathode and electrolyte",
+      "x": -409,
+      "y": -150,
+      "parent": "#qat64m"
+    },
+    {
+      "@id": "#f6ex4h",
+      "name": "Electrons flow through the outside circuit",
+      "x": -340,
+      "y": -236,
+      "parent": "#qat64m"
+    },
+    {
+      "@id": "#44h2cy",
+      "name": "Ions move inside through the electrolyte",
+      "x": -243,
+      "y": -303,
+      "parent": "#qat64m"
+    },
+    {
+      "@id": "#sdjxuk",
+      "name": "History",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hkc7i6",
+      "name": "Volta's voltaic pile, 1800",
+      "x": -133,
+      "y": -360,
+      "link": "https://en.wikipedia.org/wiki/Voltaic_pile",
+      "parent": "#sdjxuk"
+    },
+    {
+      "@id": "#zhwavw",
+      "name": "Rechargeable lead-acid battery, 1859",
+      "x": 0,
+      "y": -408,
+      "parent": "#sdjxuk"
+    },
+    {
+      "@id": "#gpf47p",
+      "name": "Alkaline battery, 1950s",
+      "x": 175,
+      "y": -465,
+      "parent": "#sdjxuk"
+    },
+    {
+      "@id": "#hgh8u6",
+      "name": "Lithium-ion commercialised by Sony, 1991",
+      "x": 243,
+      "y": -303,
+      "parent": "#sdjxuk"
+    },
+    {
+      "@id": "#2gbhrd",
+      "name": "Common types",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fpjp7w",
+      "name": "Alkaline: disposable household cells",
+      "x": 340,
+      "y": -236,
+      "parent": "#2gbhrd"
+    },
+    {
+      "@id": "#q2qzh2",
+      "name": "Lithium-ion: phones, laptops, electric cars",
+      "x": 409,
+      "y": -150,
+      "link": "https://en.wikipedia.org/wiki/Lithium-ion_battery",
+      "parent": "#2gbhrd"
+    },
+    {
+      "@id": "#4bcbhs",
+      "name": "Lead-acid: car starter batteries",
+      "x": 485,
+      "y": -55,
+      "parent": "#2gbhrd"
+    },
+    {
+      "@id": "#9zjjxk",
+      "name": "Nickel-metal hydride: rechargeable AA cells",
+      "x": 445,
+      "y": 51,
+      "parent": "#2gbhrd"
+    },
+    {
+      "@id": "#ndnvfm",
+      "name": "Key measures",
+      "x": 151,
+      "y": 139,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3c4248",
+      "name": "Voltage: electrical push, in volts",
+      "x": 427,
+      "y": 157,
+      "parent": "#ndnvfm"
+    },
+    {
+      "@id": "#jc364f",
+      "name": "Capacity: charge stored, in amp-hours",
+      "x": 340,
+      "y": 236,
+      "parent": "#ndnvfm"
+    },
+    {
+      "@id": "#x29mp5",
+      "name": "Energy density: energy per kilogram",
+      "x": 243,
+      "y": 303,
+      "parent": "#ndnvfm"
+    },
+    {
+      "@id": "#zeqnpn",
+      "name": "Cycle life: charges before wearing out",
+      "x": 133,
+      "y": 360,
+      "parent": "#ndnvfm"
+    },
+    {
+      "@id": "#9sky9x",
+      "name": "Uses",
+      "x": -65,
+      "y": 177,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rarvfb",
+      "name": "Portable electronics",
+      "x": 0,
+      "y": 408,
+      "parent": "#9sky9x"
+    },
+    {
+      "@id": "#zgm74h",
+      "name": "Electric vehicles",
+      "x": -175,
+      "y": 465,
+      "link": "https://en.wikipedia.org/wiki/Electric_vehicle_battery",
+      "parent": "#9sky9x"
+    },
+    {
+      "@id": "#mcemgr",
+      "name": "Grid storage for solar and wind",
+      "x": -243,
+      "y": 303,
+      "link": "https://en.wikipedia.org/wiki/Grid_energy_storage",
+      "parent": "#9sky9x"
+    },
+    {
+      "@id": "#9w6gvb",
+      "name": "Safety and recycling",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t7n35w",
+      "name": "Damaged lithium cells can catch fire",
+      "x": -340,
+      "y": 236,
+      "parent": "#9w6gvb"
+    },
+    {
+      "@id": "#i6hz3j",
+      "name": "Recycling recovers metals like cobalt",
+      "x": -409,
+      "y": 150,
+      "parent": "#9w6gvb"
+    },
+    {
+      "@id": "#9rg2ek",
+      "name": "Keep batteries out of household bins",
+      "x": -525,
+      "y": 59,
+      "parent": "#9w6gvb"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

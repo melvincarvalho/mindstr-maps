@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Colonialism",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#sdys6a",
+      "name": "What it is",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#virnah",
+      "name": "One people ruling another's territory",
+      "x": -485,
+      "y": -58,
+      "parent": "#sdys6a"
+    },
+    {
+      "@id": "#w4r3yp",
+      "name": "Settler colonies replace or displace locals",
+      "x": -405,
+      "y": -156,
+      "parent": "#sdys6a"
+    },
+    {
+      "@id": "#u7dtpa",
+      "name": "Extractive colonies exploit labour and resources",
+      "x": -330,
+      "y": -245,
+      "parent": "#sdys6a"
+    },
+    {
+      "@id": "#w88nvd",
+      "name": "Main waves",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fyuj35",
+      "name": "Spain and Portugal in the Americas",
+      "x": -225,
+      "y": -312,
+      "parent": "#w88nvd"
+    },
+    {
+      "@id": "#fgikxm",
+      "name": "Britain, France and Netherlands in Asia",
+      "x": -104,
+      "y": -367,
+      "parent": "#w88nvd"
+    },
+    {
+      "@id": "#z42qmp",
+      "name": "Scramble for Africa after 1880s",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Scramble_for_Africa",
+      "parent": "#w88nvd"
+    },
+    {
+      "@id": "#vzipam",
+      "name": "Japan in Korea and Taiwan",
+      "x": 234,
+      "y": -485,
+      "parent": "#w88nvd"
+    },
+    {
+      "@id": "#kfxue9",
+      "name": "How it worked",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ysbixi",
+      "name": "Charter companies like the East India Company",
+      "x": 281,
+      "y": -281,
+      "parent": "#kfxue9"
+    },
+    {
+      "@id": "#yxhzt9",
+      "name": "Plantations, mines and cash crops",
+      "x": 372,
+      "y": -203,
+      "parent": "#kfxue9"
+    },
+    {
+      "@id": "#qgszzs",
+      "name": "Rule through local elites and chiefs",
+      "x": 487,
+      "y": -121,
+      "parent": "#kfxue9"
+    },
+    {
+      "@id": "#ys2utt",
+      "name": "Missionaries, schools and colonial languages",
+      "x": 450,
+      "y": 0,
+      "parent": "#kfxue9"
+    },
+    {
+      "@id": "#u85e5v",
+      "name": "Human costs",
+      "x": 169,
+      "y": 125,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ysd344",
+      "name": "Atlantic slave trade took 12+ million",
+      "x": 449,
+      "y": 111,
+      "link": "https://en.wikipedia.org/wiki/Atlantic_slave_trade",
+      "parent": "#u85e5v"
+    },
+    {
+      "@id": "#ymiwih",
+      "name": "Epidemics devastated Indigenous Americans",
+      "x": 372,
+      "y": 203,
+      "parent": "#u85e5v"
+    },
+    {
+      "@id": "#reun5m",
+      "name": "Famines, forced labour and massacres",
+      "x": 281,
+      "y": 281,
+      "parent": "#u85e5v"
+    },
+    {
+      "@id": "#bdxkjc",
+      "name": "Congo Free State atrocities under Leopold",
+      "x": 164,
+      "y": 335,
+      "link": "https://en.wikipedia.org/wiki/Congo_Free_State",
+      "parent": "#u85e5v"
+    },
+    {
+      "@id": "#vme9j6",
+      "name": "Debates",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#svz9np",
+      "name": "Defenders cited trade, railways and law",
+      "x": 38,
+      "y": 391,
+      "parent": "#vme9j6"
+    },
+    {
+      "@id": "#mcrey9",
+      "name": "Critics stress exploitation and racism",
+      "x": -124,
+      "y": 447,
+      "parent": "#vme9j6"
+    },
+    {
+      "@id": "#7xwqjz",
+      "name": "Arbitrary borders still shape conflicts",
+      "x": -365,
+      "y": 508,
+      "parent": "#vme9j6"
+    },
+    {
+      "@id": "#w7vbnm",
+      "name": "End and legacy",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p2dnrc",
+      "name": "Decolonisation mostly 1945 to 1975",
+      "x": -330,
+      "y": 245,
+      "link": "https://en.wikipedia.org/wiki/Decolonization",
+      "parent": "#w7vbnm"
+    },
+    {
+      "@id": "#9xk53k",
+      "name": "Postcolonial theory examines lasting effects",
+      "x": -405,
+      "y": 156,
+      "parent": "#w7vbnm"
+    },
+    {
+      "@id": "#n2fq3p",
+      "name": "Neocolonialism: economic influence without rule",
+      "x": -545,
+      "y": 64,
+      "parent": "#w7vbnm"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

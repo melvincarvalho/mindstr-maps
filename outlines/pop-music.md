@@ -1,0 +1,31 @@
+category: Arts and culture
+aliases: popular music, pop songs, chart music
+- Pop music
+  - What pop is
+    - Commercial music aimed at wide audiences
+    - Emerged in the 1950s
+    - Borrows from rock, R&B and dance
+  - The pop song
+    - Verse, pre-chorus, chorus structure
+    - Catchy hook repeated often
+    - Usually three to four minutes
+    - Love and relationships dominate lyrics
+  - Key eras
+    - [Tin Pan Alley songwriting factories](https://en.wikipedia.org/wiki/Tin_Pan_Alley)
+    - Beatles and the 1960s British Invasion
+    - [Motown hit-making in Detroit](https://en.wikipedia.org/wiki/Motown)
+    - 1980s MTV and music videos
+    - Streaming era from the 2010s
+  - Landmark artists
+    - Michael Jackson, the King of Pop
+    - Madonna and reinvention
+    - Taylor Swift and Beyoncé
+    - K-pop groups like BTS
+  - How it's made
+    - Songwriters and producers write hits
+    - Studio production and Auto-Tune
+    - Record labels market the artists
+  - Measuring success
+    - [Billboard Hot 100 since 1958](https://en.wikipedia.org/wiki/Billboard_Hot_100)
+    - Streams now count toward charts
+    - Viral moments on social media

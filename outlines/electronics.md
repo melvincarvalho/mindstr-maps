@@ -1,0 +1,31 @@
+category: Technology
+aliases: how electronics work, electronic circuits, basic electronics
+- Electronics
+  - Controlling the flow of electrons
+    - Voltage pushes, current flows, resistance limits
+    - [Ohm's law: V = I × R](https://en.wikipedia.org/wiki/Ohm%27s_law)
+    - Circuits need a complete loop
+  - Basic components
+    - Resistors limit current
+    - Capacitors store and release charge
+    - Diodes let current flow one way
+    - LEDs are diodes that emit light
+    - [Transistors switch and amplify signals](https://en.wikipedia.org/wiki/Transistor)
+  - Analog and digital
+    - Analog signals vary smoothly
+    - Digital signals are just 0 and 1
+    - Logic gates combine bits
+  - History
+    - Vacuum tubes powered early radios
+    - Transistor invented at Bell Labs, 1947
+    - [Integrated circuit packs many on one chip](https://en.wikipedia.org/wiki/Integrated_circuit)
+    - Microprocessor arrives in 1971
+  - Building blocks of devices
+    - Printed circuit boards connect parts
+    - Batteries and power supplies feed circuits
+    - Sensors turn the world into signals
+  - Everyday examples
+    - Phones, computers and TVs
+    - Car engine and safety systems
+    - Medical devices like pacemakers
+    - [Hobby kits like Arduino and Raspberry Pi](https://en.wikipedia.org/wiki/Arduino)

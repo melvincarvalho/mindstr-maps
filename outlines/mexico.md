@@ -1,0 +1,34 @@
+category: Geography
+aliases: united mexican states, mexico country
+- Mexico
+  - Geography
+    - Borders United States, Guatemala and Belize
+    - Sierra Madre ranges frame a high plateau
+    - Deserts in north, rainforest in south
+    - Pico de Orizaba tops 5,600 m
+    - Yucatán Peninsula between Gulf and Caribbean
+  - People and languages
+    - About 130 million people
+    - Most populous Spanish-speaking country
+    - Mexico City area over 20 million
+    - 68 Indigenous languages, Nahuatl most spoken
+  - History
+    - [Olmec and Maya civilisations](https://en.wikipedia.org/wiki/Maya_civilization)
+    - [Aztec Empire ruled from Tenochtitlan](https://en.wikipedia.org/wiki/Aztec_Empire)
+    - Spanish conquest of the Aztecs, 1521
+    - [Independence from Spain in 1821](https://en.wikipedia.org/wiki/Mexican_War_of_Independence)
+    - Lost about half its territory, 1848
+    - [Mexican Revolution from 1910](https://en.wikipedia.org/wiki/Mexican_Revolution)
+  - Government
+    - Federal republic of 32 federal entities
+    - President serves one six-year term
+    - Congress: Senate and Chamber of Deputies
+  - Economy
+    - Second-largest economy in Latin America
+    - Car and electronics manufacturing for export
+    - United States is the main trading partner
+    - Currency is the Mexican peso
+  - Culture
+    - [Day of the Dead honours ancestors](https://en.wikipedia.org/wiki/Day_of_the_Dead)
+    - Cuisine on UNESCO heritage list
+    - Muralist Diego Rivera, painter Frida Kahlo

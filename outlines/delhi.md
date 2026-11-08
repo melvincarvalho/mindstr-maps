@@ -1,0 +1,34 @@
+category: Geography
+aliases: delhi india, national capital territory of delhi, delhi ncr
+- Delhi
+  - Setting
+    - Contains New Delhi, India's capital
+    - On the Yamuna River, northern India
+    - Metro area over 30 million people
+    - Scorching summers, smoggy winters
+  - History
+    - Site of many cities over 3,000 years
+    - [Delhi Sultanate from 1206](https://en.wikipedia.org/wiki/Delhi_Sultanate)
+    - Shah Jahan built Old Delhi, 1640s
+    - British moved capital from Calcutta, 1911
+    - Lutyens' New Delhi inaugurated 1931
+    - Independence flag raised 1947
+  - People
+    - Hindi, Punjabi and Urdu widely spoken
+    - Partition refugees reshaped the city, 1947
+    - Migrants from across India
+  - Economy
+    - Government, services and retail centre
+    - IT and offices in Gurugram and Noida
+    - Delhi Metro, opened 2002
+    - [Severe winter air pollution](https://en.wikipedia.org/wiki/Air_pollution_in_Delhi)
+  - Landmarks
+    - [Red Fort, Mughal palace](https://en.wikipedia.org/wiki/Red_Fort)
+    - [Qutub Minar, 73-metre minaret](https://en.wikipedia.org/wiki/Qutb_Minar)
+    - Humayun's Tomb
+    - India Gate war memorial
+    - Jama Masjid and Lotus Temple
+  - Culture
+    - Chandni Chowk bazaar and street food
+    - Mughlai cuisine and butter chicken
+    - Republic Day parade each 26 January

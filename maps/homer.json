@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Homer",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#nuhhnm",
+      "name": "Who he was",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ismggb",
+      "name": "Ancient Greek epic poet",
+      "x": -444,
+      "y": -56,
+      "parent": "#nuhhnm"
+    },
+    {
+      "@id": "#38xi6d",
+      "name": "Traditionally pictured as a blind bard",
+      "x": -401,
+      "y": -163,
+      "parent": "#nuhhnm"
+    },
+    {
+      "@id": "#tahfdh",
+      "name": "Probably lived around 8th century BC",
+      "x": -318,
+      "y": -255,
+      "parent": "#nuhhnm"
+    },
+    {
+      "@id": "#iznpvc",
+      "name": "Ionia often named as his homeland",
+      "x": -204,
+      "y": -321,
+      "parent": "#nuhhnm"
+    },
+    {
+      "@id": "#u7szmv",
+      "name": "The Iliad",
+      "x": 36,
+      "y": -182,
+      "link": "https://en.wikipedia.org/wiki/Iliad",
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wehtbd",
+      "name": "Final year of the Trojan War",
+      "x": -73,
+      "y": -372,
+      "parent": "#u7szmv"
+    },
+    {
+      "@id": "#uk7wa2",
+      "name": "Wrath of Achilles against Agamemnon",
+      "x": 82,
+      "y": -420,
+      "parent": "#u7szmv"
+    },
+    {
+      "@id": "#qwzh94",
+      "name": "Hector killed; Priam ransoms his body",
+      "x": 204,
+      "y": -321,
+      "parent": "#u7szmv"
+    },
+    {
+      "@id": "#idpjtb",
+      "name": "The Odyssey",
+      "x": 205,
+      "y": -84,
+      "link": "https://en.wikipedia.org/wiki/Odyssey",
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#farbf5",
+      "name": "Odysseus's ten-year voyage home",
+      "x": 318,
+      "y": -255,
+      "parent": "#idpjtb"
+    },
+    {
+      "@id": "#xkuu8i",
+      "name": "Cyclops, Circe, Sirens and the underworld",
+      "x": 401,
+      "y": -163,
+      "parent": "#idpjtb"
+    },
+    {
+      "@id": "#4gk6ac",
+      "name": "Penelope waits; suitors are slain",
+      "x": 484,
+      "y": -60,
+      "parent": "#idpjtb"
+    },
+    {
+      "@id": "#gsj7vs",
+      "name": "How the poems were made",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#whhfc6",
+      "name": "Composed in oral tradition",
+      "x": 444,
+      "y": 56,
+      "link": "https://en.wikipedia.org/wiki/Oral-formulaic_composition",
+      "parent": "#gsj7vs"
+    },
+    {
+      "@id": "#hqi29f",
+      "name": "Dactylic hexameter verse",
+      "x": 401,
+      "y": 163,
+      "parent": "#gsj7vs"
+    },
+    {
+      "@id": "#xaed8u",
+      "name": "Stock epithets like \"rosy-fingered Dawn\"",
+      "x": 318,
+      "y": 255,
+      "parent": "#gsj7vs"
+    },
+    {
+      "@id": "#muhgwj",
+      "name": "Written down perhaps 8th–7th century BC",
+      "x": 204,
+      "y": 321,
+      "parent": "#gsj7vs"
+    },
+    {
+      "@id": "#68bbyy",
+      "name": "The Homeric Question",
+      "x": -36,
+      "y": 182,
+      "link": "https://en.wikipedia.org/wiki/Homeric_Question",
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#w54wwg",
+      "name": "Did one poet write both epics?",
+      "x": 73,
+      "y": 372,
+      "parent": "#68bbyy"
+    },
+    {
+      "@id": "#fmwr5g",
+      "name": "Parry and Lord's studies of oral bards",
+      "x": -82,
+      "y": 420,
+      "parent": "#68bbyy"
+    },
+    {
+      "@id": "#dmmvnb",
+      "name": "Real Troy found at Hisarlik, Turkey",
+      "x": -204,
+      "y": 321,
+      "parent": "#68bbyy"
+    },
+    {
+      "@id": "#69pznw",
+      "name": "Legacy",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#n3h7wf",
+      "name": "Foundation of Greek education and culture",
+      "x": -318,
+      "y": 255,
+      "parent": "#69pznw"
+    },
+    {
+      "@id": "#bdr2bw",
+      "name": "Model for Virgil's Aeneid",
+      "x": -401,
+      "y": 163,
+      "parent": "#69pznw"
+    },
+    {
+      "@id": "#69ug47",
+      "name": "Inspired Joyce's Ulysses and countless retellings",
+      "x": -504,
+      "y": 62,
+      "parent": "#69pznw"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

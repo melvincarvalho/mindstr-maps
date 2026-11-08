@@ -1,0 +1,30 @@
+category: Technology
+aliases: aircraft types, how planes fly, how airplanes fly, aeroplanes, airplanes
+- Aircraft
+  - How flight works
+    - [Wings shaped to produce lift](https://en.wikipedia.org/wiki/Lift_%28force%29)
+    - Thrust pushes forward, drag holds back
+    - Lift must beat weight to climb
+  - Kinds of aircraft
+    - Fixed-wing aeroplanes
+    - Helicopters lift with spinning rotors
+    - Balloons and airships float on gas
+    - Gliders ride rising air
+    - Drones fly without a pilot aboard
+  - Controlling a plane
+    - Ailerons roll the plane
+    - Elevator pitches the nose up or down
+    - Rudder turns the nose left or right
+  - History of flight
+    - Montgolfier balloon flight, 1783
+    - [Wright brothers fly at Kitty Hawk, 1903](https://en.wikipedia.org/wiki/Wright_brothers)
+    - Jet engines arrive around 1939
+    - [Boeing 747 opens mass air travel, 1970](https://en.wikipedia.org/wiki/Boeing_747)
+  - Engines
+    - Propellers driven by piston engines
+    - [Jet engines push hot air backward](https://en.wikipedia.org/wiki/Jet_engine)
+    - Turbofans power most airliners
+  - Flying today
+    - Air traffic control keeps planes apart
+    - Commercial flying is very safe per mile
+    - Sustainable fuels and electric planes in development

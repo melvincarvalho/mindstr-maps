@@ -1,0 +1,27 @@
+category: Science
+aliases: the natural world, natural environment, mother nature
+- Nature
+  - What we mean by nature
+    - The physical world and its life
+    - Contrasted with things humans make
+    - From Latin natura, meaning birth
+  - Non-living nature
+    - Earth's rocks, water and air
+    - Weather and the climate system
+    - Physical laws govern all matter
+  - Living nature
+    - [Millions of species, most still unnamed](https://en.wikipedia.org/wiki/Biodiversity)
+    - All life shares common ancestry
+    - [Evolution shapes life over time](https://en.wikipedia.org/wiki/Evolution)
+  - Ecosystems
+    - [Food webs link producers and consumers](https://en.wikipedia.org/wiki/Food_web)
+    - Forests, grasslands, oceans and deserts
+    - Water, carbon and nitrogen cycles
+  - Humans and nature
+    - Habitat loss drives species decline
+    - Pollution and climate change
+    - [Protected areas conserve wild places](https://en.wikipedia.org/wiki/Protected_area)
+  - [Why nature matters](https://en.wikipedia.org/wiki/Ecosystem_service)
+    - Clean air, water and food
+    - Pollination and fertile soil
+    - Time outdoors benefits wellbeing

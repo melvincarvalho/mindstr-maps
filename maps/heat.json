@@ -1,0 +1,308 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Heat",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#5zbra3",
+      "name": "What heat is",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wnmhqu",
+      "name": "Energy moving from hot to cold",
+      "x": -464,
+      "y": -62,
+      "parent": "#5zbra3"
+    },
+    {
+      "@id": "#57a3bd",
+      "name": "Comes from jiggling atoms and molecules",
+      "x": -396,
+      "y": -171,
+      "parent": "#5zbra3"
+    },
+    {
+      "@id": "#iw2iv2",
+      "name": "Not the same as temperature",
+      "x": -305,
+      "y": -265,
+      "parent": "#5zbra3"
+    },
+    {
+      "@id": "#ym9r4i",
+      "name": "From fluid to motion",
+      "x": -19,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#x5zeji",
+      "name": "Caloric theory: heat as invisible fluid",
+      "x": -181,
+      "y": -330,
+      "parent": "#ym9r4i"
+    },
+    {
+      "@id": "#r4y25r",
+      "name": "Rumford's cannon boring disproved it, 1798",
+      "x": -41,
+      "y": -391,
+      "parent": "#ym9r4i"
+    },
+    {
+      "@id": "#ek2smc",
+      "name": "Joule measured heat's equivalent in work",
+      "x": 140,
+      "y": -445,
+      "parent": "#ym9r4i"
+    },
+    {
+      "@id": "#j3a6ne",
+      "name": "Three ways heat travels",
+      "x": 182,
+      "y": -113,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#i3tcfz",
+      "name": "Conduction: through touching materials",
+      "x": 246,
+      "y": -301,
+      "link": "https://en.wikipedia.org/wiki/Thermal_conduction",
+      "parent": "#j3a6ne"
+    },
+    {
+      "@id": "#ckdmmu",
+      "name": "Convection: carried by moving fluids",
+      "x": 355,
+      "y": -221,
+      "link": "https://en.wikipedia.org/wiki/Convection",
+      "parent": "#j3a6ne"
+    },
+    {
+      "@id": "#yd69ng",
+      "name": "Radiation: infrared light, even through space",
+      "x": 559,
+      "y": -152,
+      "link": "https://en.wikipedia.org/wiki/Thermal_radiation",
+      "parent": "#j3a6ne"
+    },
+    {
+      "@id": "#nuacu9",
+      "name": "Measuring heat",
+      "x": 218,
+      "y": 60,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zyefpr",
+      "name": "Joules are the SI unit",
+      "x": 450,
+      "y": 0,
+      "parent": "#nuacu9"
+    },
+    {
+      "@id": "#56izeg",
+      "name": "Calories still used for food",
+      "x": 426,
+      "y": 117,
+      "parent": "#nuacu9"
+    },
+    {
+      "@id": "#8rdi75",
+      "name": "Specific heat: water warms slowly",
+      "x": 355,
+      "y": 221,
+      "parent": "#nuacu9"
+    },
+    {
+      "@id": "#tgw6uu",
+      "name": "What heat does",
+      "x": 56,
+      "y": 178,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#aasere",
+      "name": "Makes most materials expand",
+      "x": 246,
+      "y": 301,
+      "parent": "#tgw6uu"
+    },
+    {
+      "@id": "#vdr52f",
+      "name": "Melts solids and boils liquids",
+      "x": 110,
+      "y": 349,
+      "parent": "#tgw6uu"
+    },
+    {
+      "@id": "#csexyh",
+      "name": "Latent heat changes state, not temperature",
+      "x": -43,
+      "y": 407,
+      "link": "https://en.wikipedia.org/wiki/Latent_heat",
+      "parent": "#tgw6uu"
+    },
+    {
+      "@id": "#7ybdt3",
+      "name": "Heat in everyday life",
+      "x": -182,
+      "y": 113,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ir4fyb",
+      "name": "Metal spoons feel colder than wood",
+      "x": -253,
+      "y": 465,
+      "parent": "#7ybdt3"
+    },
+    {
+      "@id": "#45fhrm",
+      "name": "Insulation slows heat leaving homes",
+      "x": -305,
+      "y": 265,
+      "parent": "#7ybdt3"
+    },
+    {
+      "@id": "#qqtvnp",
+      "name": "Sweating cools by evaporation",
+      "x": -396,
+      "y": 171,
+      "parent": "#7ybdt3"
+    },
+    {
+      "@id": "#mtsmbm",
+      "name": "Engines and power stations run on it",
+      "x": -444,
+      "y": 59,
+      "parent": "#7ybdt3"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

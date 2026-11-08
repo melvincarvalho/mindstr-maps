@@ -1,0 +1,29 @@
+category: Mathematics
+aliases: what is infinity, the concept of infinity, infinite sets
+- Infinity
+  - What it means
+    - Endless, bigger than any number
+    - Not a number you can reach
+    - [Symbol ∞ introduced by Wallis, 1655](https://en.wikipedia.org/wiki/Infinity_symbol)
+  - Potential versus actual infinity
+    - Aristotle: counting can always continue
+    - Actual: a completed infinite collection
+    - Long distrusted as paradoxical
+  - Paradoxes
+    - [Zeno: Achilles never catches the tortoise](https://en.wikipedia.org/wiki/Zeno%27s_paradoxes)
+    - Galileo: squares match all whole numbers
+    - [Hilbert's Hotel: full, yet room](https://en.wikipedia.org/wiki/Hilbert%27s_paradox_of_the_Grand_Hotel)
+  - Sizes of infinity
+    - [Cantor: some infinities are bigger](https://en.wikipedia.org/wiki/Georg_Cantor)
+    - Whole numbers are countably infinite
+    - Real numbers are uncountable
+    - Diagonal argument proves it, 1891
+    - Continuum hypothesis: unprovable either way
+  - Infinity in calculus
+    - Limits tame the infinitely small
+    - Infinite series can have finite sums
+    - Leibniz's infinitesimals, later made rigorous
+  - Beyond mathematics
+    - Is the universe infinite? Unknown
+    - God's infinity in theology
+    - Endless loops in computer programs

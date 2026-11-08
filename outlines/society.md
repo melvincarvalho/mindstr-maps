@@ -1,0 +1,28 @@
+category: Society
+aliases: human society, what is society, human societies
+- Society
+  - What a society is
+    - People sharing territory and institutions
+    - Bound by shared culture and rules
+    - Larger and longer-lasting than groups
+  - Types through history
+    - [Hunter-gatherer bands](https://en.wikipedia.org/wiki/Hunter-gatherer)
+    - Agricultural societies after farming began
+    - [Industrial societies since the 1700s](https://en.wikipedia.org/wiki/Industrial_society)
+    - Post-industrial service and information economies
+  - Social institutions
+    - Family and kinship
+    - Government and law
+    - Economy and work
+    - Education and religion
+  - Structure and order
+    - [Stratification by class and status](https://en.wikipedia.org/wiki/Social_stratification)
+    - Norms and roles guide behavior
+    - Social control through law and custom
+  - Studying society
+    - [Sociology: Comte, Durkheim, Weber, Marx](https://en.wikipedia.org/wiki/Sociology)
+    - [Social contract explains political order](https://en.wikipedia.org/wiki/Social_contract)
+  - How societies change
+    - Urbanization and population growth
+    - Globalization links societies
+    - Social movements push for reform

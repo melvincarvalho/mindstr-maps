@@ -1,0 +1,318 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Writing system",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#skg4ty",
+      "name": "The parts",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fdv5zv",
+      "name": "Script: the set of symbols",
+      "x": -444,
+      "y": -56,
+      "parent": "#skg4ty"
+    },
+    {
+      "@id": "#k3yy2p",
+      "name": "Orthography: a language's spelling rules",
+      "x": -401,
+      "y": -163,
+      "parent": "#skg4ty"
+    },
+    {
+      "@id": "#8nwmup",
+      "name": "Graphemes: the smallest written units",
+      "x": -318,
+      "y": -255,
+      "parent": "#skg4ty"
+    },
+    {
+      "@id": "#45ia8t",
+      "name": "Types, by what a sign stands for",
+      "x": 71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3cadqk",
+      "name": "Logographic: words, as in Chinese",
+      "x": -204,
+      "y": -321,
+      "parent": "#45ia8t"
+    },
+    {
+      "@id": "#pwf4ni",
+      "name": "Syllabary: syllables, as in Japanese kana",
+      "x": -73,
+      "y": -372,
+      "parent": "#45ia8t"
+    },
+    {
+      "@id": "#yc5gx3",
+      "name": "Abjad: consonants, as in Arabic, Hebrew",
+      "x": 82,
+      "y": -420,
+      "link": "https://en.wikipedia.org/wiki/Abjad",
+      "parent": "#45ia8t"
+    },
+    {
+      "@id": "#6eayxs",
+      "name": "Abugida: consonant plus vowel mark",
+      "x": 204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Abugida",
+      "parent": "#45ia8t"
+    },
+    {
+      "@id": "#3fiyfh",
+      "name": "Alphabet: consonants and vowels, as in Latin",
+      "x": 318,
+      "y": -255,
+      "parent": "#45ia8t"
+    },
+    {
+      "@id": "#5uu23j",
+      "name": "Featural: shapes show sounds, Korean Hangul",
+      "x": 455,
+      "y": -184,
+      "parent": "#45ia8t"
+    },
+    {
+      "@id": "#33wk5a",
+      "name": "Writing direction",
+      "x": 227,
+      "y": 29,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#edvm7y",
+      "name": "Left to right is most common",
+      "x": 444,
+      "y": -56,
+      "parent": "#33wk5a"
+    },
+    {
+      "@id": "#83xbeu",
+      "name": "Right to left: Arabic and Hebrew",
+      "x": 504,
+      "y": 62,
+      "parent": "#33wk5a"
+    },
+    {
+      "@id": "#85avxa",
+      "name": "Top to bottom: traditional Chinese, Mongolian",
+      "x": 401,
+      "y": 163,
+      "parent": "#33wk5a"
+    },
+    {
+      "@id": "#u9u633",
+      "name": "Most widely used scripts",
+      "x": 140,
+      "y": 220,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#78eqnm",
+      "name": "Latin, used by most of the world",
+      "x": 346,
+      "y": 277,
+      "parent": "#u9u633"
+    },
+    {
+      "@id": "#5yqbkn",
+      "name": "Chinese characters, over a billion readers",
+      "x": 213,
+      "y": 335,
+      "parent": "#u9u633"
+    },
+    {
+      "@id": "#fqtz9f",
+      "name": "Arabic, Devanagari and Cyrillic",
+      "x": 76,
+      "y": 388,
+      "parent": "#u9u633"
+    },
+    {
+      "@id": "#znj5n6",
+      "name": "Family trees",
+      "x": -104,
+      "y": 164,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rs49ip",
+      "name": "Few independent inventions; most scripts borrowed",
+      "x": -85,
+      "y": 436,
+      "parent": "#znj5n6"
+    },
+    {
+      "@id": "#nijs7p",
+      "name": "Phoenician gave Greek, Latin, Arabic, Hebrew",
+      "x": -312,
+      "y": 489,
+      "parent": "#znj5n6"
+    },
+    {
+      "@id": "#xwg4xm",
+      "name": "Brahmi gave most South Asian scripts",
+      "x": -318,
+      "y": 255,
+      "parent": "#znj5n6"
+    },
+    {
+      "@id": "#janhbu",
+      "name": "In the digital age",
+      "x": -219,
+      "y": 57,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fnjiuc",
+      "name": "Unicode encodes over 150 scripts",
+      "x": -401,
+      "y": 163,
+      "link": "https://en.wikipedia.org/wiki/Unicode",
+      "parent": "#janhbu"
+    },
+    {
+      "@id": "#mzshpi",
+      "name": "Many minority scripts remain endangered",
+      "x": -544,
+      "y": 66,
+      "parent": "#janhbu"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 5,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

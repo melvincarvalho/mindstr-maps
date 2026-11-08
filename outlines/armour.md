@@ -1,0 +1,28 @@
+category: Technology
+aliases: armor, body armour, suit of armour, plate armor
+- Armour
+  - Protective covering against weapons
+    - Worn by soldiers, police and horses
+    - Also protects ships and vehicles
+  - Ancient armour
+    - Leather and padded linen
+    - Bronze helmets and breastplates
+    - [Roman segmented iron plates](https://en.wikipedia.org/wiki/Lorica_segmentata)
+  - Medieval armour
+    - [Chain mail of interlinked rings](https://en.wikipedia.org/wiki/Mail_%28armour%29)
+    - [Full plate armour by the 1400s](https://en.wikipedia.org/wiki/Plate_armour)
+    - Japanese samurai lamellar armour
+    - Heraldry on shields identified knights
+  - Decline with firearms
+    - Guns made heavy armour less useful
+    - Cavalry breastplates lasted into the 1800s
+    - Steel helmets returned in World War I
+  - Modern protection
+    - [Kevlar body armour since the 1970s](https://en.wikipedia.org/wiki/Kevlar)
+    - Ceramic plates in military vests
+    - Tanks and armoured vehicles
+    - Riot gear for police
+  - Legacy
+    - Museums like the Royal Armouries
+    - Knights in films and games
+    - Ceremonial guards still wear breastplates

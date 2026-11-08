@@ -1,0 +1,29 @@
+category: Mathematics
+aliases: straight line, line segment, equation of a line
+- Line (geometry)
+  - What a line is
+    - Straight, endless in both directions
+    - Has length but no width
+    - Euclid: "breadthless length"
+  - Related pieces
+    - [Line segment has two endpoints](https://en.wikipedia.org/wiki/Line_segment)
+    - Ray starts at a point, goes forever
+    - Two points fix exactly one line
+  - How lines relate
+    - Parallel lines never meet
+    - Intersecting lines cross at one point
+    - Perpendicular lines meet at right angles
+    - [Skew lines in 3D never meet](https://en.wikipedia.org/wiki/Skew_lines)
+  - Lines with coordinates
+    - [Equation y = mx + c](https://en.wikipedia.org/wiki/Linear_equation)
+    - Slope is rise over run
+    - Intercept is where it crosses y-axis
+    - Parallel lines share the same slope
+  - Beyond flat paper
+    - [Parallel postulate defines Euclidean geometry](https://en.wikipedia.org/wiki/Parallel_postulate)
+    - On spheres, great circles act as lines
+    - Lines usually cross planes at one point
+  - Uses
+    - Shortest path between two points
+    - Straight-line graphs show steady rates
+    - Line of best fit in statistics

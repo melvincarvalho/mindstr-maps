@@ -1,0 +1,30 @@
+category: Science
+aliases: metals, properties of metals, metallic elements
+- Metal
+  - Typical properties
+    - Shiny when freshly cut or polished
+    - Conducts heat and electricity well
+    - Bends and stretches rather than shattering
+    - Mostly solid; mercury is liquid
+  - [Why: a sea of shared electrons](https://en.wikipedia.org/wiki/Metallic_bonding)
+    - Outer electrons move freely between atoms
+    - Layers of atoms slide without breaking
+  - Main groups
+    - [Alkali metals like sodium react with water](https://en.wikipedia.org/wiki/Alkali_metal)
+    - Transition metals: iron, copper, nickel
+    - Precious metals: gold, silver, platinum
+    - Most chemical elements are metals
+  - From ore to metal
+    - [Ores are mined from rock](https://en.wikipedia.org/wiki/Ore)
+    - Smelting uses heat to extract metal
+    - Aluminium is extracted by electrolysis
+    - Recycling saves energy and ore
+  - Corrosion
+    - Iron rusts with water and oxygen
+    - Aluminium forms a protective oxide layer
+    - Gold barely corrodes at all
+  - Uses
+    - Steel for buildings, cars and bridges
+    - Copper for electrical wiring
+    - [Alloys mix metals for strength](https://en.wikipedia.org/wiki/Alloy)
+    - Lithium for rechargeable batteries

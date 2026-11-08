@@ -1,0 +1,30 @@
+category: People
+aliases: galileo, galileo galilei biography, father of modern science
+- Galileo Galilei
+  - Life
+    - Born 1564 in Pisa, Italy
+    - Taught mathematics at Pisa and Padua
+    - Court philosopher to the Medici, 1610
+    - Died 1642 at Arcetri near Florence
+  - Telescope discoveries
+    - Built improved telescopes from 1609
+    - [Four large moons of Jupiter](https://en.wikipedia.org/wiki/Galilean_moons)
+    - Phases of Venus support heliocentrism
+    - Mountains and craters on the Moon
+    - Sunspots and the Milky Way's stars
+  - Physics of motion
+    - Falling bodies accelerate at equal rates
+    - Pendulum swings keep steady time
+    - Projectiles follow a parabolic path
+    - Early idea of inertia
+  - Clash with the Church
+    - [Backed Copernicus's Sun-centred system](https://en.wikipedia.org/wiki/Copernican_heliocentrism)
+    - Warned off the doctrine in 1616
+    - Dialogue on Two Chief World Systems, 1632
+    - [Tried by the Inquisition, 1633](https://en.wikipedia.org/wiki/Galileo_affair)
+    - House arrest for the rest of life
+  - Legacy
+    - Experiment and mathematics over authority
+    - Two New Sciences published 1638
+    - Church admitted error in 1992
+    - Paved the way for Newton

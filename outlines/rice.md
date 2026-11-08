@@ -1,0 +1,30 @@
+category: Life and home
+aliases: rice grain, rice crop, oryza sativa, rice farming
+- Rice
+  - The plant
+    - Grass species Oryza sativa
+    - African rice is Oryza glaberrima
+    - Often grown in flooded paddy fields
+  - Origins
+    - Domesticated in China's Yangtze valley
+    - About 9,000 years ago
+    - Spread across Asia, then worldwide
+  - Kinds of rice
+    - [Long-grain like basmati and jasmine](https://en.wikipedia.org/wiki/Basmati)
+    - Short-grain sticky rice for sushi
+    - [Arborio for risotto](https://en.wikipedia.org/wiki/Arborio_rice)
+    - Brown rice keeps the bran
+  - Growing rice
+    - Seedlings transplanted into flooded paddies
+    - Flooding suppresses weeds
+    - Paddies release methane
+    - [Terraces on steep hillsides](https://en.wikipedia.org/wiki/Rice_Terraces_of_the_Philippine_Cordilleras)
+  - World staple
+    - Main food for over half of humanity
+    - China and India grow the most
+    - About 90% grown and eaten in Asia
+  - In the kitchen
+    - Boiled, steamed or fried
+    - Rinse to remove excess starch
+    - Paella, biryani and risotto
+    - [Golden rice adds vitamin A](https://en.wikipedia.org/wiki/Golden_rice)

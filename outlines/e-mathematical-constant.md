@@ -1,0 +1,28 @@
+category: Mathematics
+aliases: euler's number, e constant, number e, 2.718
+- E (mathematical constant)
+  - What e is
+    - About 2.71828, never repeating
+    - Irrational and transcendental
+    - Base of the natural logarithm
+  - Born from compound interest
+    - [Jacob Bernoulli, 1683](https://en.wikipedia.org/wiki/Jacob_Bernoulli)
+    - £1 at 100% interest, compounded constantly
+    - Grows to about £2.72 in a year
+  - Ways to calculate it
+    - (1 + 1/n)ⁿ as n grows huge
+    - Sum of 1/n! for all n
+    - Series converges very quickly
+  - Why it's special
+    - [eˣ is its own derivative](https://en.wikipedia.org/wiki/Exponential_function)
+    - Natural rate of continuous growth
+    - [Euler's identity links e, i, π](https://en.wikipedia.org/wiki/Euler%27s_identity)
+  - Where e shows up
+    - Population and bacterial growth
+    - Radioactive decay and half-lives
+    - [Bell curve in statistics](https://en.wikipedia.org/wiki/Normal_distribution)
+    - Cooling, charging capacitors, loans
+  - History of the name
+    - Euler chose the letter e
+    - Euler computed 18 decimal places
+    - Proved transcendental by Hermite, 1873

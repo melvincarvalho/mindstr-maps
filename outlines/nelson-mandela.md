@@ -1,0 +1,27 @@
+category: People
+aliases: mandela, madiba, nelson rolihlahla mandela
+- Nelson Mandela
+  - Early life
+    - Born 1918 in Mvezo, Eastern Cape
+    - From the Thembu royal family
+    - [Studied law; joined the ANC, 1944](https://en.wikipedia.org/wiki/African_National_Congress)
+  - Fighting apartheid
+    - [Apartheid: legal racial segregation from 1948](https://en.wikipedia.org/wiki/Apartheid)
+    - Led the 1952 Defiance Campaign
+    - Co-founded armed wing Umkhonto we Sizwe, 1961
+  - Prisoner
+    - [Rivonia Trial: life sentence, 1964](https://en.wikipedia.org/wiki/Rivonia_Trial)
+    - [27 years in prison, mostly Robben Island](https://en.wikipedia.org/wiki/Robben_Island)
+    - Global "Free Mandela" campaigns
+  - Release and transition
+    - Freed in February 1990
+    - Negotiated end of apartheid with de Klerk
+    - Shared Nobel Peace Prize, 1993
+  - President, 1994–1999
+    - Elected in South Africa's first democratic election
+    - [Truth and Reconciliation Commission](https://en.wikipedia.org/wiki/Truth_and_Reconciliation_Commission_%28South_Africa%29)
+    - Served one term, then stepped down
+  - Legacy
+    - Died December 2013, aged 95
+    - Mandela Day marked every 18 July
+    - Icon of reconciliation and forgiveness

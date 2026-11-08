@@ -1,0 +1,31 @@
+category: People
+aliases: nightingale, the lady with the lamp, florence nightingale biography
+- Florence Nightingale
+  - Early life
+    - Born 1820 in Florence, Italy
+    - Wealthy British family, well educated
+    - Felt a calling to serve
+    - Trained at Kaiserswerth, Germany
+  - Crimean War
+    - [Led nurses to Scutari, 1854](https://en.wikipedia.org/wiki/Crimean_War)
+    - Filthy hospitals, disease killed most soldiers
+    - Improved hygiene, food and supplies
+    - Night rounds: 'the Lady with the Lamp'
+  - Statistics and reform
+    - Polar area diagrams of causes of death
+    - First woman in Royal Statistical Society
+    - Pushed army sanitary reform
+    - Advised on public health in India
+  - Founding modern nursing
+    - [Notes on Nursing, 1859](https://en.wikipedia.org/wiki/Notes_on_Nursing)
+    - Nightingale school at St Thomas', 1860
+    - Nursing as a trained profession
+  - Later life
+    - Largely bedridden from her late thirties
+    - Worked through letters and reports
+    - Order of Merit, 1907
+    - Died 1910 in London
+  - Legacy
+    - International Nurses Day on her birthday
+    - Nightingale Pledge and nursing ideals
+    - Pioneer of evidence-based health policy

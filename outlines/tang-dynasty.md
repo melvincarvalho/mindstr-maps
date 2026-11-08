@@ -1,0 +1,31 @@
+category: History
+aliases: tang china, tang empire, tang period
+- Tang dynasty
+  - Rise to power
+    - Founded by Li Yuan in 618
+    - Followed the short-lived Sui dynasty
+    - Emperor Taizong consolidated the empire
+    - Capital at Chang'an, today's Xi'an
+  - Government
+    - [Imperial exams recruited officials by merit](https://en.wikipedia.org/wiki/Imperial_examination)
+    - Three Departments and Six Ministries
+    - Equal-field land system and tax registers
+    - [Wu Zetian: China's only empress regnant](https://en.wikipedia.org/wiki/Wu_Zetian)
+  - Golden age of culture
+    - [Poets Li Bai and Du Fu](https://en.wikipedia.org/wiki/Tang_poetry)
+    - Buddhism flourished, then persecuted in 845
+    - Woodblock printing; Diamond Sutra dated 868
+    - Glazed sancai pottery and figurines
+  - Trade and the wider world
+    - Silk Road carried goods, faiths, ideas
+    - Chang'an among the world's largest cities
+    - Influenced Japan, Korea and Vietnam
+    - Lost to Abbasids at Talas, 751
+  - Decline and fall
+    - [An Lushan Rebellion, 755–763](https://en.wikipedia.org/wiki/An_Lushan_rebellion)
+    - Regional military governors grew powerful
+    - Huang Chao rebellion devastated the cities
+    - Dynasty ended in 907
+  - Legacy
+    - A high point of Chinese civilisation
+    - Chinatowns often called "Tang people's streets"

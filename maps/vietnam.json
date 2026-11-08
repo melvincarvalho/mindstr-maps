@@ -1,0 +1,374 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Vietnam",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#wjhup2",
+      "name": "Land",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8z2n2h",
+      "name": "Long S-shape along the South China Sea",
+      "x": -446,
+      "y": -45,
+      "parent": "#wjhup2"
+    },
+    {
+      "@id": "#fh7ixx",
+      "name": "Red River delta in the north",
+      "x": -418,
+      "y": -133,
+      "parent": "#wjhup2"
+    },
+    {
+      "@id": "#x9nzau",
+      "name": "Mekong Delta in the south",
+      "x": -364,
+      "y": -212,
+      "link": "https://en.wikipedia.org/wiki/Mekong_Delta",
+      "parent": "#wjhup2"
+    },
+    {
+      "@id": "#tmyndh",
+      "name": "Hanoi capital, Ho Chi Minh City largest",
+      "x": -287,
+      "y": -277,
+      "parent": "#wjhup2"
+    },
+    {
+      "@id": "#kq77qz",
+      "name": "Ha Long Bay limestone islands",
+      "x": -192,
+      "y": -326,
+      "parent": "#wjhup2"
+    },
+    {
+      "@id": "#28bz8w",
+      "name": "People and languages",
+      "x": 43,
+      "y": -181,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2af73n",
+      "name": "About 100 million people",
+      "x": -92,
+      "y": -386,
+      "parent": "#28bz8w"
+    },
+    {
+      "@id": "#sg6qy2",
+      "name": "Vietnamese, tonal, written in Latin script",
+      "x": 33,
+      "y": -439,
+      "parent": "#28bz8w"
+    },
+    {
+      "@id": "#vgvxvy",
+      "name": "Kinh majority, 53 minority groups",
+      "x": 199,
+      "y": -492,
+      "parent": "#28bz8w"
+    },
+    {
+      "@id": "#s22rn8",
+      "name": "Folk religion, Buddhism, Catholic minority",
+      "x": 241,
+      "y": -304,
+      "parent": "#28bz8w"
+    },
+    {
+      "@id": "#8egfh7",
+      "name": "History in brief",
+      "x": 223,
+      "y": -46,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dztr2b",
+      "name": "Chinese rule for about a thousand years",
+      "x": 328,
+      "y": -246,
+      "parent": "#8egfh7"
+    },
+    {
+      "@id": "#tnjxhx",
+      "name": "Independent dynasties from 938",
+      "x": 394,
+      "y": -173,
+      "parent": "#8egfh7"
+    },
+    {
+      "@id": "#xw6ajn",
+      "name": "French Indochina from the 1880s",
+      "x": 455,
+      "y": -94,
+      "parent": "#8egfh7"
+    },
+    {
+      "@id": "#shh7ix",
+      "name": "Ho Chi Minh declared independence, 1945",
+      "x": 530,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Ho_Chi_Minh",
+      "parent": "#8egfh7"
+    },
+    {
+      "@id": "#37266r",
+      "name": "Vietnam War ended 1975, reunification",
+      "x": 436,
+      "y": 90,
+      "link": "https://en.wikipedia.org/wiki/Vietnam_War",
+      "parent": "#8egfh7"
+    },
+    {
+      "@id": "#3vec3i",
+      "name": "Government",
+      "x": 198,
+      "y": 148,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fa5p7t",
+      "name": "One-party Communist state",
+      "x": 412,
+      "y": 181,
+      "parent": "#3vec3i"
+    },
+    {
+      "@id": "#3g8yt6",
+      "name": "General secretary is the top leader",
+      "x": 328,
+      "y": 246,
+      "parent": "#3vec3i"
+    },
+    {
+      "@id": "#i64ybn",
+      "name": "National Assembly elected every five years",
+      "x": 241,
+      "y": 304,
+      "parent": "#3vec3i"
+    },
+    {
+      "@id": "#jdugbr",
+      "name": "Economy",
+      "x": -14,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zv8s9u",
+      "name": "Doi Moi market reforms from 1986",
+      "x": 145,
+      "y": 357,
+      "parent": "#jdugbr"
+    },
+    {
+      "@id": "#u5judk",
+      "name": "Electronics, clothing and shoe exports",
+      "x": 31,
+      "y": 407,
+      "parent": "#jdugbr"
+    },
+    {
+      "@id": "#5amej7",
+      "name": "World's second-largest coffee producer",
+      "x": -112,
+      "y": 466,
+      "parent": "#jdugbr"
+    },
+    {
+      "@id": "#v8zfx3",
+      "name": "Major rice exporter",
+      "x": -192,
+      "y": 326,
+      "parent": "#jdugbr"
+    },
+    {
+      "@id": "#gn4ref",
+      "name": "Culture",
+      "x": -202,
+      "y": 89,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ifab48",
+      "name": "Pho and banh mi",
+      "x": -287,
+      "y": 277,
+      "parent": "#gn4ref"
+    },
+    {
+      "@id": "#2shkta",
+      "name": "Tet, the Lunar New Year",
+      "x": -364,
+      "y": 212,
+      "parent": "#gn4ref"
+    },
+    {
+      "@id": "#aattaw",
+      "name": "Ao dai, the national dress",
+      "x": -418,
+      "y": 133,
+      "parent": "#gn4ref"
+    },
+    {
+      "@id": "#jxjm66",
+      "name": "Water puppetry from the Red River",
+      "x": -446,
+      "y": 45,
+      "link": "https://en.wikipedia.org/wiki/Water_puppetry",
+      "parent": "#gn4ref"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 1,
+      "end": 6
+    },
+    {
+      "start": 0,
+      "end": 7
+    },
+    {
+      "start": 7,
+      "end": 8
+    },
+    {
+      "start": 7,
+      "end": 9
+    },
+    {
+      "start": 7,
+      "end": 10
+    },
+    {
+      "start": 7,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 12,
+      "end": 15
+    },
+    {
+      "start": 12,
+      "end": 16
+    },
+    {
+      "start": 12,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    },
+    {
+      "start": 0,
+      "end": 27
+    },
+    {
+      "start": 27,
+      "end": 28
+    },
+    {
+      "start": 27,
+      "end": 29
+    },
+    {
+      "start": 27,
+      "end": 30
+    },
+    {
+      "start": 27,
+      "end": 31
+    }
+  ],
+  "selectedNode": 0
+}

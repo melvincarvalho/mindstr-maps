@@ -1,0 +1,363 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Design",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#3urvwc",
+      "name": "What design is",
+      "x": -212,
+      "y": -70,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vpsti4",
+      "name": "Planning things to serve a purpose",
+      "x": -486,
+      "y": -51,
+      "parent": "#3urvwc"
+    },
+    {
+      "@id": "#6ijq4a",
+      "name": "Balances function, looks and cost",
+      "x": -416,
+      "y": -138,
+      "parent": "#3urvwc"
+    },
+    {
+      "@id": "#4829rp",
+      "name": "Form follows function, said Louis Sullivan",
+      "x": -357,
+      "y": -219,
+      "parent": "#3urvwc"
+    },
+    {
+      "@id": "#pkg26d",
+      "name": "Main fields",
+      "x": -30,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gtc7ez",
+      "name": "Graphic design: type, image, layout",
+      "x": -274,
+      "y": -286,
+      "link": "https://en.wikipedia.org/wiki/Graphic_design",
+      "parent": "#pkg26d"
+    },
+    {
+      "@id": "#mdqprr",
+      "name": "Industrial design of everyday products",
+      "x": -180,
+      "y": -348,
+      "link": "https://en.wikipedia.org/wiki/Industrial_design",
+      "parent": "#pkg26d"
+    },
+    {
+      "@id": "#pfaani",
+      "name": "Architecture and interior design",
+      "x": -68,
+      "y": -405,
+      "parent": "#pkg26d"
+    },
+    {
+      "@id": "#ve7df7",
+      "name": "Fashion and textile design",
+      "x": 77,
+      "y": -453,
+      "parent": "#pkg26d"
+    },
+    {
+      "@id": "#gnpv49",
+      "name": "Interaction design for screens and apps",
+      "x": 268,
+      "y": -513,
+      "parent": "#pkg26d"
+    },
+    {
+      "@id": "#75kaiv",
+      "name": "Core principles",
+      "x": 199,
+      "y": -92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#79ps2u",
+      "name": "Contrast, alignment, repetition, proximity",
+      "x": 274,
+      "y": -286,
+      "parent": "#75kaiv"
+    },
+    {
+      "@id": "#dxx5au",
+      "name": "Grids and white space bring order",
+      "x": 357,
+      "y": -219,
+      "parent": "#75kaiv"
+    },
+    {
+      "@id": "#7z3ihd",
+      "name": "Colour and typography set the tone",
+      "x": 434,
+      "y": -144,
+      "parent": "#75kaiv"
+    },
+    {
+      "@id": "#9tqwmb",
+      "name": "Usability: easy to understand and use",
+      "x": 486,
+      "y": -51,
+      "parent": "#75kaiv"
+    },
+    {
+      "@id": "#defrw3",
+      "name": "Key movements",
+      "x": 182,
+      "y": 112,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#48c2f5",
+      "name": "Arts and Crafts champions handmade quality",
+      "x": 446,
+      "y": 47,
+      "parent": "#defrw3"
+    },
+    {
+      "@id": "#xyeaw7",
+      "name": "Art Nouveau's flowing natural lines",
+      "x": 452,
+      "y": 150,
+      "parent": "#defrw3"
+    },
+    {
+      "@id": "#n5335x",
+      "name": "Bauhaus school founded in 1919",
+      "x": 357,
+      "y": 219,
+      "link": "https://en.wikipedia.org/wiki/Bauhaus",
+      "parent": "#defrw3"
+    },
+    {
+      "@id": "#3pi37r",
+      "name": "Swiss Style: clean grids, sans-serif type",
+      "x": 274,
+      "y": 286,
+      "parent": "#defrw3"
+    },
+    {
+      "@id": "#cf45gt",
+      "name": "Mid-century modern furniture and products",
+      "x": 180,
+      "y": 348,
+      "parent": "#defrw3"
+    },
+    {
+      "@id": "#jskuh2",
+      "name": "Influential designers",
+      "x": -60,
+      "y": 178,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4whjnj",
+      "name": "William Morris's patterned textiles and books",
+      "x": 68,
+      "y": 405,
+      "parent": "#jskuh2"
+    },
+    {
+      "@id": "#9j3sdh",
+      "name": "Charles and Ray Eames's chairs",
+      "x": -77,
+      "y": 453,
+      "parent": "#jskuh2"
+    },
+    {
+      "@id": "#6khqzi",
+      "name": "Dieter Rams's ten principles of design",
+      "x": -268,
+      "y": 513,
+      "parent": "#jskuh2"
+    },
+    {
+      "@id": "#6chiw6",
+      "name": "Paul Rand's IBM and ABC logos",
+      "x": -274,
+      "y": 286,
+      "parent": "#jskuh2"
+    },
+    {
+      "@id": "#ztxhjc",
+      "name": "The design process",
+      "x": -212,
+      "y": 70,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e4cfg6",
+      "name": "Research users and their needs",
+      "x": -357,
+      "y": 219,
+      "parent": "#ztxhjc"
+    },
+    {
+      "@id": "#74q9dk",
+      "name": "Sketch, prototype, test, refine",
+      "x": -416,
+      "y": 138,
+      "parent": "#ztxhjc"
+    },
+    {
+      "@id": "#4t5p7k",
+      "name": "Design thinking puts people first",
+      "x": -506,
+      "y": 53,
+      "link": "https://en.wikipedia.org/wiki/Design_thinking",
+      "parent": "#ztxhjc"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 16,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    },
+    {
+      "start": 0,
+      "end": 27
+    },
+    {
+      "start": 27,
+      "end": 28
+    },
+    {
+      "start": 27,
+      "end": 29
+    },
+    {
+      "start": 27,
+      "end": 30
+    }
+  ],
+  "selectedNode": 0
+}

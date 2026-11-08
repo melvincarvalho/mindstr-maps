@@ -1,0 +1,352 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Socialism",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#6urqjm",
+      "name": "Core beliefs",
+      "x": -197,
+      "y": -96,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vxp5xp",
+      "name": "Workers should share in what they produce",
+      "x": -506,
+      "y": -55,
+      "parent": "#6urqjm"
+    },
+    {
+      "@id": "#cs7chz",
+      "name": "Social or public ownership of key industries",
+      "x": -431,
+      "y": -149,
+      "parent": "#6urqjm"
+    },
+    {
+      "@id": "#vjdrg6",
+      "name": "Reduce inequality between classes",
+      "x": -349,
+      "y": -227,
+      "parent": "#6urqjm"
+    },
+    {
+      "@id": "#ktxyit",
+      "name": "Cooperation over competition",
+      "x": -260,
+      "y": -294,
+      "parent": "#6urqjm"
+    },
+    {
+      "@id": "#dg97zn",
+      "name": "Key thinkers",
+      "x": 16,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2yvprz",
+      "name": "Robert Owen's cooperative communities",
+      "x": -158,
+      "y": -354,
+      "parent": "#dg97zn"
+    },
+    {
+      "@id": "#aywg5q",
+      "name": "Karl Marx and Friedrich Engels",
+      "x": -34,
+      "y": -407,
+      "link": "https://en.wikipedia.org/wiki/Karl_Marx",
+      "parent": "#dg97zn"
+    },
+    {
+      "@id": "#gtvz97",
+      "name": "Eduard Bernstein argued for gradual reform",
+      "x": 120,
+      "y": -464,
+      "parent": "#dg97zn"
+    },
+    {
+      "@id": "#zyeaht",
+      "name": "Rosa Luxemburg backed revolution",
+      "x": 207,
+      "y": -320,
+      "parent": "#dg97zn"
+    },
+    {
+      "@id": "#vgc86y",
+      "name": "History",
+      "x": 211,
+      "y": -73,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qhyyb5",
+      "name": "Reaction to the Industrial Revolution",
+      "x": 307,
+      "y": -263,
+      "parent": "#vgc86y"
+    },
+    {
+      "@id": "#8384cw",
+      "name": "The Communist Manifesto, 1848",
+      "x": 384,
+      "y": -187,
+      "link": "https://en.wikipedia.org/wiki/The_Communist_Manifesto",
+      "parent": "#vgc86y"
+    },
+    {
+      "@id": "#pgmmw7",
+      "name": "Labour unions and workers' parties grew",
+      "x": 471,
+      "y": -105,
+      "parent": "#vgc86y"
+    },
+    {
+      "@id": "#tsutrm",
+      "name": "Russian Revolution of 1917",
+      "x": 450,
+      "y": 0,
+      "parent": "#vgc86y"
+    },
+    {
+      "@id": "#qyd2ps",
+      "name": "Main strands",
+      "x": 178,
+      "y": 116,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qryg6x",
+      "name": "Marxism and revolutionary communism",
+      "x": 452,
+      "y": 101,
+      "parent": "#qyd2ps"
+    },
+    {
+      "@id": "#67c2xz",
+      "name": "Social democracy reforms capitalism",
+      "x": 384,
+      "y": 187,
+      "link": "https://en.wikipedia.org/wiki/Social_democracy",
+      "parent": "#qyd2ps"
+    },
+    {
+      "@id": "#gvbzhv",
+      "name": "Democratic socialism through elections",
+      "x": 307,
+      "y": 263,
+      "parent": "#qyd2ps"
+    },
+    {
+      "@id": "#epgi6q",
+      "name": "Market socialism mixes markets and ownership",
+      "x": 207,
+      "y": 320,
+      "link": "https://en.wikipedia.org/wiki/Market_socialism",
+      "parent": "#qyd2ps"
+    },
+    {
+      "@id": "#mg54z9",
+      "name": "Real-world examples",
+      "x": -16,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dg8z3w",
+      "name": "UK Labour's NHS and nationalisations",
+      "x": 96,
+      "y": 368,
+      "parent": "#mg54z9"
+    },
+    {
+      "@id": "#3gg6d6",
+      "name": "Nordic welfare states",
+      "x": -35,
+      "y": 423,
+      "parent": "#mg54z9"
+    },
+    {
+      "@id": "#63q7xu",
+      "name": "Soviet Union's planned economy",
+      "x": -214,
+      "y": 474,
+      "parent": "#mg54z9"
+    },
+    {
+      "@id": "#qnzjb3",
+      "name": "Main criticisms",
+      "x": -197,
+      "y": 96,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2q2fk8",
+      "name": "Central planning struggles with prices",
+      "x": -260,
+      "y": 294,
+      "parent": "#qnzjb3"
+    },
+    {
+      "@id": "#8eic5u",
+      "name": "Communist states were authoritarian",
+      "x": -349,
+      "y": 227,
+      "parent": "#qnzjb3"
+    },
+    {
+      "@id": "#2295v9",
+      "name": "Weak incentives and slower growth",
+      "x": -431,
+      "y": 149,
+      "parent": "#qnzjb3"
+    },
+    {
+      "@id": "#cihp9z",
+      "name": "High taxes may deter investment",
+      "x": -466,
+      "y": 51,
+      "parent": "#qnzjb3"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    },
+    {
+      "start": 25,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,29 @@
+category: Mathematics
+aliases: differential calculus, integral calculus, derivatives and integrals, infinitesimal calculus
+- Calculus
+  - The big idea
+    - Mathematics of continuous change
+    - Zoom in until curves look straight
+    - Add up infinitely many tiny pieces
+  - [Derivatives](https://en.wikipedia.org/wiki/Derivative)
+    - Rate of change, like speed
+    - Slope of a curve at a point
+    - Zero slope finds maxima and minima
+  - [Integrals](https://en.wikipedia.org/wiki/Integral)
+    - Area under a curve
+    - Distance travelled from speed over time
+    - Accumulating many thin slices
+  - [Fundamental theorem links them](https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus)
+    - Integration undoes differentiation
+    - Areas found via antiderivatives
+  - History
+    - Archimedes found areas by exhaustion
+    - Newton and Leibniz, late 1600s
+    - Bitter dispute over who came first
+    - Leibniz's dx notation still used
+    - Limits made it rigorous in 1800s
+  - Uses
+    - Physics: motion, gravity, electricity
+    - Engineering and economics optimise designs
+    - Differential equations model growth and decay
+    - [Machine learning trains by gradient descent](https://en.wikipedia.org/wiki/Gradient_descent)

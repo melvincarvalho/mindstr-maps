@@ -1,0 +1,31 @@
+category: Life and home
+aliases: women, adult female, human female, womanhood
+- Woman
+  - Definition
+    - An adult human female
+    - "Girl" is used before adulthood
+    - Can also refer to gender identity
+    - About half the world's population
+  - Biology
+    - Usually two X chromosomes
+    - [Oestrogen drives female puberty](https://en.wikipedia.org/wiki/Estrogen)
+    - [Menstrual cycle lasts about 28 days](https://en.wikipedia.org/wiki/Menstrual_cycle)
+    - Pregnancy and childbirth
+    - [Menopause usually between 45 and 55](https://en.wikipedia.org/wiki/Menopause)
+  - Health
+    - Live about 5 years longer than men
+    - Breast and cervical cancer screening
+    - Maternal health still a global challenge
+    - Higher rates of autoimmune disease
+  - Rights and history
+    - [New Zealand gave women the vote, 1893](https://en.wikipedia.org/wiki/Women%27s_suffrage)
+    - [Feminism campaigned for legal equality](https://en.wikipedia.org/wiki/Feminism)
+    - Rights to education and property
+  - Work and family
+    - Women's paid work rose through 1900s
+    - Gender pay gap persists
+    - Women do most unpaid care work
+  - Culture
+    - Ideas of femininity vary by culture
+    - Venus symbol ♀ represents female
+    - More women now lead governments and firms

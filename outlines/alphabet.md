@@ -1,0 +1,27 @@
+category: Society
+aliases: alphabets, history of the alphabet, alphabetic writing
+- Alphabet
+  - What an alphabet is
+    - Letters stand for individual sounds
+    - Usually 20 to 40 letters
+    - Vowels and consonants both written
+  - Origins
+    - [Proto-Sinaitic script, around 1800 BC](https://en.wikipedia.org/wiki/Proto-Sinaitic_script)
+    - [Phoenician: 22 consonant letters](https://en.wikipedia.org/wiki/Phoenician_alphabet)
+    - Greeks added vowels, about 800 BC
+    - Latin came from Greek via Etruscan
+  - Alphabets in use today
+    - [Latin: the most widely used](https://en.wikipedia.org/wiki/Latin_alphabet)
+    - Cyrillic: Russian, Ukrainian, Bulgarian, Serbian
+    - Greek, Armenian and Georgian
+    - Korean Hangul builds letters into syllable blocks
+  - Close relatives
+    - Abjads write mainly consonants: Arabic, Hebrew
+    - Abugidas mark vowels on consonants: Devanagari
+  - Letters and sounds
+    - Finnish spelling is close to phonetic
+    - English spelling is famously irregular
+    - [IPA: one symbol per sound](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet)
+  - Name and order
+    - Name from Greek alpha and beta
+    - ABC order already fixed in Ugarit

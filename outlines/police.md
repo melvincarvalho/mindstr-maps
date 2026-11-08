@@ -1,0 +1,29 @@
+category: Society
+aliases: police force, policing, law enforcement, police service
+- Police
+  - What police do
+    - Prevent and detect crime
+    - Keep public order and safety
+    - Respond to emergencies
+    - Enforce laws on behalf of the state
+  - History
+    - [Peel founded London's Metropolitan Police, 1829](https://en.wikipedia.org/wiki/Metropolitan_Police)
+    - [Peelian principles: policing by consent](https://en.wikipedia.org/wiki/Peelian_principles)
+    - Earlier watchmen and gendarmeries in Europe
+  - How forces are organised
+    - National, regional or local forces
+    - Patrol, detectives and specialist units
+    - Some forces routinely armed, others not
+  - Powers and limits
+    - Arrest, search and questioning
+    - Use of force must be proportionate
+    - Rules differ widely by country
+  - Accountability
+    - Courts exclude unlawfully gathered evidence
+    - Independent complaints bodies
+    - Body cameras and public oversight
+  - Debates
+    - Trust and community relations
+    - Racial disparities in stops and force
+    - [Community policing versus enforcement focus](https://en.wikipedia.org/wiki/Community_policing)
+    - Funding and police numbers

@@ -1,0 +1,27 @@
+category: Science
+aliases: vertebrates, vertebrata, animals with backbones
+- Vertebrate
+  - What makes them distinct
+    - [Backbone of vertebrae protects spinal cord](https://en.wikipedia.org/wiki/Vertebral_column)
+    - Skull enclosing a large brain
+    - Internal skeleton grows with the body
+    - Usually paired limbs or fins
+  - Size and diversity
+    - About 70,000 living species
+    - Under 5% of animal species
+    - Includes the largest animals ever, whales
+  - Main groups
+    - [Fish: about half of all species](https://en.wikipedia.org/wiki/Fish)
+    - Amphibians: frogs, toads, salamanders
+    - Reptiles: lizards, snakes, turtles, crocodiles
+    - Birds, the living dinosaurs
+    - [Mammals: fur and milk](https://en.wikipedia.org/wiki/Mammal)
+  - Evolution
+    - Jawless fish came first, 500+ million years
+    - Jaws evolved about 420 million years ago
+    - [Fish moved onto land as tetrapods](https://en.wikipedia.org/wiki/Tetrapod)
+    - Amniotic eggs freed reptiles from water
+  - Vertebrates and people
+    - Humans are vertebrates, mammals and primates
+    - Livestock, fish and poultry feed billions
+    - Many species threatened by habitat loss

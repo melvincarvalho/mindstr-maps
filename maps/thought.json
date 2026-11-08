@@ -1,0 +1,320 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Thought",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#kfcmpn",
+      "name": "What thinking is",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d4d2vg",
+      "name": "Working with ideas and information mentally",
+      "x": -524,
+      "y": -64,
+      "parent": "#kfcmpn"
+    },
+    {
+      "@id": "#yvfv7c",
+      "name": "In words, images or feelings",
+      "x": -401,
+      "y": -163,
+      "parent": "#kfcmpn"
+    },
+    {
+      "@id": "#e84q8g",
+      "name": "Inner speech: the voice in your head",
+      "x": -318,
+      "y": -255,
+      "parent": "#kfcmpn"
+    },
+    {
+      "@id": "#kxj62g",
+      "name": "Kinds of thinking",
+      "x": 36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#s6xigz",
+      "name": "Reasoning: deductive and inductive",
+      "x": -204,
+      "y": -321,
+      "parent": "#kxj62g"
+    },
+    {
+      "@id": "#z385ft",
+      "name": "Problem solving and decision making",
+      "x": -73,
+      "y": -372,
+      "parent": "#kxj62g"
+    },
+    {
+      "@id": "#4q5gmx",
+      "name": "Concepts group things into categories",
+      "x": 82,
+      "y": -420,
+      "link": "https://en.wikipedia.org/wiki/Concept",
+      "parent": "#kxj62g"
+    },
+    {
+      "@id": "#mdbmhw",
+      "name": "Creative, open-ended thinking",
+      "x": 204,
+      "y": -321,
+      "parent": "#kxj62g"
+    },
+    {
+      "@id": "#z8k5jh",
+      "name": "Metacognition: thinking about thinking",
+      "x": 318,
+      "y": -255,
+      "parent": "#kxj62g"
+    },
+    {
+      "@id": "#h2mhsy",
+      "name": "Two speeds of thought",
+      "x": 227,
+      "y": -29,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7hcwk2",
+      "name": "Fast, intuitive \"System 1\"",
+      "x": 401,
+      "y": -163,
+      "link": "https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow",
+      "parent": "#h2mhsy"
+    },
+    {
+      "@id": "#8gy6tv",
+      "name": "Slow, effortful \"System 2\"",
+      "x": 504,
+      "y": -62,
+      "parent": "#h2mhsy"
+    },
+    {
+      "@id": "#ziviry",
+      "name": "Shortcuts create predictable cognitive biases",
+      "x": 444,
+      "y": 56,
+      "link": "https://en.wikipedia.org/wiki/Cognitive_bias",
+      "parent": "#h2mhsy"
+    },
+    {
+      "@id": "#ziyu7e",
+      "name": "Thought and language",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t7yfx8",
+      "name": "Language shapes some aspects of thought",
+      "x": 455,
+      "y": 184,
+      "link": "https://en.wikipedia.org/wiki/Linguistic_relativity",
+      "parent": "#ziyu7e"
+    },
+    {
+      "@id": "#r7cu84",
+      "name": "Strong \"language determines thought\" rejected",
+      "x": 318,
+      "y": 255,
+      "parent": "#ziyu7e"
+    },
+    {
+      "@id": "#wxuw5j",
+      "name": "Babies and animals think without words",
+      "x": 204,
+      "y": 321,
+      "parent": "#ziyu7e"
+    },
+    {
+      "@id": "#awshu6",
+      "name": "In the brain",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k9mpf9",
+      "name": "Prefrontal cortex supports planning and control",
+      "x": 73,
+      "y": 372,
+      "parent": "#awshu6"
+    },
+    {
+      "@id": "#fcw44g",
+      "name": "Networks across the brain, not one spot",
+      "x": -82,
+      "y": 420,
+      "parent": "#awshu6"
+    },
+    {
+      "@id": "#8ubz9r",
+      "name": "How brains produce thoughts remains unsolved",
+      "x": -303,
+      "y": 475,
+      "parent": "#awshu6"
+    },
+    {
+      "@id": "#v3qbyr",
+      "name": "Thinking well",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fcn4u7",
+      "name": "Critical thinking weighs evidence and logic",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wikipedia.org/wiki/Critical_thinking",
+      "parent": "#v3qbyr"
+    },
+    {
+      "@id": "#bikcw5",
+      "name": "Notice your own biases",
+      "x": -401,
+      "y": 163,
+      "parent": "#v3qbyr"
+    },
+    {
+      "@id": "#gn353j",
+      "name": "Seek views that challenge yours",
+      "x": -464,
+      "y": 58,
+      "parent": "#v3qbyr"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

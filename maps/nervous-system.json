@@ -1,0 +1,342 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Nervous system",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#yggkns",
+      "name": "Two main divisions",
+      "x": -220,
+      "y": -54,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e9g4da",
+      "name": "Central: brain and spinal cord",
+      "x": -505,
+      "y": -60,
+      "link": "https://en.wikipedia.org/wiki/Central_nervous_system",
+      "parent": "#yggkns"
+    },
+    {
+      "@id": "#mp6uni",
+      "name": "Peripheral: nerves throughout the body",
+      "x": -405,
+      "y": -156,
+      "link": "https://en.wikipedia.org/wiki/Peripheral_nervous_system",
+      "parent": "#yggkns"
+    },
+    {
+      "@id": "#45rr92",
+      "name": "Nerve cells",
+      "x": -84,
+      "y": -171,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#duhkie",
+      "name": "Neurons carry electrical signals",
+      "x": -330,
+      "y": -245,
+      "link": "https://en.wikipedia.org/wiki/Neuron",
+      "parent": "#45rr92"
+    },
+    {
+      "@id": "#zn6y3q",
+      "name": "Dendrites receive, axons send",
+      "x": -225,
+      "y": -312,
+      "parent": "#45rr92"
+    },
+    {
+      "@id": "#xuj7gw",
+      "name": "Myelin sheath speeds signals up",
+      "x": -104,
+      "y": -367,
+      "parent": "#45rr92"
+    },
+    {
+      "@id": "#777est",
+      "name": "Glial cells support and protect neurons",
+      "x": 42,
+      "y": -423,
+      "parent": "#45rr92"
+    },
+    {
+      "@id": "#ag28y9",
+      "name": "How signals travel",
+      "x": 143,
+      "y": -144,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#38uiyn",
+      "name": "Electrical impulse runs along the axon",
+      "x": 234,
+      "y": -485,
+      "parent": "#ag28y9"
+    },
+    {
+      "@id": "#2atw5j",
+      "name": "Synapses pass signals with neurotransmitters",
+      "x": 281,
+      "y": -281,
+      "link": "https://en.wikipedia.org/wiki/Synapse",
+      "parent": "#ag28y9"
+    },
+    {
+      "@id": "#yiw7wu",
+      "name": "Reflexes bypass the brain for speed",
+      "x": 372,
+      "y": -203,
+      "parent": "#ag28y9"
+    },
+    {
+      "@id": "#9qa4i9",
+      "name": "What it controls",
+      "x": 227,
+      "y": 27,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ct4zja",
+      "name": "Sensory nerves bring information in",
+      "x": 449,
+      "y": -111,
+      "parent": "#9qa4i9"
+    },
+    {
+      "@id": "#jdxbug",
+      "name": "Motor nerves make muscles move",
+      "x": 490,
+      "y": 0,
+      "parent": "#9qa4i9"
+    },
+    {
+      "@id": "#nctimp",
+      "name": "Autonomic system runs organs automatically",
+      "x": 405,
+      "y": 156,
+      "link": "https://en.wikipedia.org/wiki/Autonomic_nervous_system",
+      "parent": "#9qa4i9"
+    },
+    {
+      "@id": "#xfytt4",
+      "name": "Sympathetic: fight or flight",
+      "x": 792,
+      "y": 198,
+      "parent": "#nctimp"
+    },
+    {
+      "@id": "#ybe7ta",
+      "name": "Parasympathetic: rest and digest",
+      "x": 554,
+      "y": 302,
+      "parent": "#nctimp"
+    },
+    {
+      "@id": "#mqp4ks",
+      "name": "Common problems",
+      "x": 17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t7s4cn",
+      "name": "Stroke cuts blood supply to brain",
+      "x": 353,
+      "y": 353,
+      "parent": "#mqp4ks"
+    },
+    {
+      "@id": "#x3uh96",
+      "name": "Neuropathy: damaged nerves, often diabetes",
+      "x": 199,
+      "y": 410,
+      "parent": "#mqp4ks"
+    },
+    {
+      "@id": "#8ikjbz",
+      "name": "Multiple sclerosis attacks myelin",
+      "x": 48,
+      "y": 471,
+      "parent": "#mqp4ks"
+    },
+    {
+      "@id": "#kfcdnf",
+      "name": "Epilepsy causes recurring seizures",
+      "x": -100,
+      "y": 351,
+      "parent": "#mqp4ks"
+    },
+    {
+      "@id": "#jm4w4f",
+      "name": "Spinal injury can cause paralysis",
+      "x": -295,
+      "y": 410,
+      "parent": "#mqp4ks"
+    },
+    {
+      "@id": "#s8aann",
+      "name": "Keeping it healthy",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9m2qdx",
+      "name": "Regular exercise and good sleep",
+      "x": -330,
+      "y": 245,
+      "parent": "#s8aann"
+    },
+    {
+      "@id": "#svmhhm",
+      "name": "Control blood pressure and blood sugar",
+      "x": -405,
+      "y": 156,
+      "parent": "#s8aann"
+    },
+    {
+      "@id": "#tkv9h2",
+      "name": "Wear helmets and seatbelts",
+      "x": -465,
+      "y": 56,
+      "parent": "#s8aann"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 0,
+      "end": 4
+    },
+    {
+      "start": 4,
+      "end": 5
+    },
+    {
+      "start": 4,
+      "end": 6
+    },
+    {
+      "start": 4,
+      "end": 7
+    },
+    {
+      "start": 4,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 19,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

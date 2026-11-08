@@ -1,0 +1,309 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Han dynasty",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#6z3sfz",
+      "name": "Rise and dates",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fp66sr",
+      "name": "Liu Bang founded it, 202 BC",
+      "x": -464,
+      "y": -62,
+      "link": "https://en.wikipedia.org/wiki/Emperor_Gaozu_of_Han",
+      "parent": "#6z3sfz"
+    },
+    {
+      "@id": "#n3ipmi",
+      "name": "Followed the short-lived Qin dynasty",
+      "x": -396,
+      "y": -171,
+      "parent": "#6z3sfz"
+    },
+    {
+      "@id": "#da3hqk",
+      "name": "Lasted until AD 220",
+      "x": -305,
+      "y": -265,
+      "parent": "#6z3sfz"
+    },
+    {
+      "@id": "#7b64xg",
+      "name": "Two halves",
+      "x": -19,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#43ncmw",
+      "name": "Western Han, capital Chang'an",
+      "x": -181,
+      "y": -330,
+      "parent": "#7b64xg"
+    },
+    {
+      "@id": "#k3qrik",
+      "name": "Wang Mang's Xin interrupted, AD 9–23",
+      "x": -41,
+      "y": -391,
+      "parent": "#7b64xg"
+    },
+    {
+      "@id": "#rjwran",
+      "name": "Eastern Han, capital Luoyang",
+      "x": 140,
+      "y": -445,
+      "parent": "#7b64xg"
+    },
+    {
+      "@id": "#k2efxt",
+      "name": "Government",
+      "x": 202,
+      "y": -88,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j84rzs",
+      "name": "Confucianism became state ideology",
+      "x": 246,
+      "y": -301,
+      "parent": "#k2efxt"
+    },
+    {
+      "@id": "#4swnf9",
+      "name": "Emperor Wu expanded the empire",
+      "x": 355,
+      "y": -221,
+      "link": "https://en.wikipedia.org/wiki/Emperor_Wu_of_Han",
+      "parent": "#k2efxt"
+    },
+    {
+      "@id": "#7r8kmz",
+      "name": "Officials chosen partly by merit",
+      "x": 445,
+      "y": -122,
+      "parent": "#k2efxt"
+    },
+    {
+      "@id": "#yi5y4z",
+      "name": "State monopolies on salt and iron",
+      "x": 450,
+      "y": 0,
+      "parent": "#k2efxt"
+    },
+    {
+      "@id": "#cc6kbm",
+      "name": "Trade and expansion",
+      "x": 182,
+      "y": 113,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5buwcw",
+      "name": "Zhang Qian's missions opened the Silk Road",
+      "x": 521,
+      "y": 142,
+      "link": "https://en.wikipedia.org/wiki/Silk_Road",
+      "parent": "#cc6kbm"
+    },
+    {
+      "@id": "#s2thht",
+      "name": "Long wars against the Xiongnu nomads",
+      "x": 355,
+      "y": 221,
+      "parent": "#cc6kbm"
+    },
+    {
+      "@id": "#zzmaqc",
+      "name": "Commanderies in Korea and northern Vietnam",
+      "x": 246,
+      "y": 301,
+      "parent": "#cc6kbm"
+    },
+    {
+      "@id": "#2krtz3",
+      "name": "Inventions and learning",
+      "x": -19,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rk5fk6",
+      "name": "Cai Lun improved papermaking, AD 105",
+      "x": 110,
+      "y": 349,
+      "link": "https://en.wikipedia.org/wiki/Cai_Lun",
+      "parent": "#2krtz3"
+    },
+    {
+      "@id": "#i92vsf",
+      "name": "Zhang Heng built a seismoscope",
+      "x": -43,
+      "y": 407,
+      "parent": "#2krtz3"
+    },
+    {
+      "@id": "#6934qz",
+      "name": "Sima Qian's Records of the Grand Historian",
+      "x": -253,
+      "y": 465,
+      "link": "https://en.wikipedia.org/wiki/Sima_Qian",
+      "parent": "#2krtz3"
+    },
+    {
+      "@id": "#f4b6qx",
+      "name": "Fall and legacy",
+      "x": -202,
+      "y": 88,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ws4gai",
+      "name": "Yellow Turban Rebellion, AD 184",
+      "x": -305,
+      "y": 265,
+      "parent": "#f4b6qx"
+    },
+    {
+      "@id": "#whcfak",
+      "name": "Split into the Three Kingdoms",
+      "x": -396,
+      "y": 171,
+      "parent": "#f4b6qx"
+    },
+    {
+      "@id": "#ct9jj8",
+      "name": "Han Chinese named after the dynasty",
+      "x": -484,
+      "y": 65,
+      "parent": "#f4b6qx"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

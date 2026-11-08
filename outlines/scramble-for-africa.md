@@ -1,0 +1,34 @@
+category: History
+aliases: partition of africa, conquest of africa, race for africa, colonisation of africa
+- Scramble for Africa
+  - What happened
+    - European powers carved up Africa
+    - Mostly between 1881 and 1914
+    - From 10% colonised to 90%
+    - Only Ethiopia and Liberia stayed independent
+  - Why Europe moved in
+    - Raw materials for industry
+    - Rivalry and national prestige
+    - Quinine, steamships and railways
+    - [Maxim gun gave crushing firepower](https://en.wikipedia.org/wiki/Maxim_gun)
+  - [Berlin Conference, 1884–85](https://en.wikipedia.org/wiki/Berlin_Conference)
+    - Set rules for claiming territory
+    - No Africans were invited
+    - Borders drawn across ethnic groups
+  - The colonial powers
+    - Britain: from Egypt to South Africa
+    - France: much of West and North Africa
+    - [Leopold II's Congo Free State](https://en.wikipedia.org/wiki/Congo_Free_State)
+    - Germany, Italy, Portugal and Spain
+  - Impact on Africans
+    - Millions died from Congo forced labour
+    - [Herero and Nama genocide, 1904–1908](https://en.wikipedia.org/wiki/Herero_and_Nama_genocide)
+    - Land taken for settlers and plantations
+    - Economies bent towards exporting raw materials
+  - Resistance
+    - [Ethiopia defeats Italy at Adwa, 1896](https://en.wikipedia.org/wiki/Battle_of_Adwa)
+    - Maji Maji rebellion in German East Africa
+    - Long wars in Asante and Sudan
+  - Legacy
+    - Colonial borders kept after independence
+    - Roots of later conflicts and inequality

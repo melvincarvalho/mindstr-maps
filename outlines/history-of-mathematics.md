@@ -1,0 +1,31 @@
+category: History
+aliases: mathematics history, history of maths, history of math
+- History of mathematics
+  - Ancient beginnings
+    - Babylonian base-60 numbers and tables
+    - Egyptian geometry for land and pyramids
+    - [Rhind Papyrus, about 1550 BC](https://en.wikipedia.org/wiki/Rhind_Mathematical_Papyrus)
+  - Greek mathematics
+    - Pythagoras and his famous theorem
+    - [Euclid's Elements built geometry from axioms](https://en.wikipedia.org/wiki/Euclid%27s_Elements)
+    - Archimedes estimated pi and areas
+  - India, China and the Islamic world
+    - Indian place-value digits and zero
+    - Chinese Nine Chapters on equations
+    - Al-Khwarizmi founded algebra, about 820
+    - Hindu–Arabic numerals reached Europe via Fibonacci
+  - Scientific Revolution
+    - Descartes joined algebra and geometry
+    - Napier's logarithms sped up calculation
+    - [Newton and Leibniz invented calculus](https://en.wikipedia.org/wiki/History_of_calculus)
+    - Probability from Pascal and Fermat
+  - 18th and 19th centuries
+    - Euler's prolific work across every field
+    - Gauss on number theory and statistics
+    - Non-Euclidean geometry of curved space
+    - Cantor's sets and kinds of infinity
+  - Modern mathematics
+    - [Gödel's incompleteness theorems, 1931](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
+    - Turing and the theory of computation
+    - Fermat's Last Theorem proved, 1994
+    - Computers assist and check proofs

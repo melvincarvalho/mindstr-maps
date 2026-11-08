@@ -1,0 +1,33 @@
+category: Science
+aliases: human brain, how the brain works, brain anatomy, parts of the brain
+- Brain
+  - Main parts
+    - About 1.4 kg, protected by skull
+    - [Cerebrum: thinking, senses, movement](https://en.wikipedia.org/wiki/Cerebrum)
+    - Two hemispheres joined by corpus callosum
+    - [Cerebellum coordinates balance and movement](https://en.wikipedia.org/wiki/Cerebellum)
+    - Brainstem controls breathing and heartbeat
+  - Lobes of the cortex
+    - Frontal: planning, decisions, personality
+    - Parietal: touch and spatial awareness
+    - Temporal: hearing, language and memory
+    - Occipital: vision
+  - Deeper structures
+    - [Hippocampus forms new memories](https://en.wikipedia.org/wiki/Hippocampus)
+    - Amygdala processes fear and emotion
+    - Hypothalamus regulates hunger and temperature
+  - How it works
+    - Around 86 billion neurons
+    - Uses about 20% of body's energy
+    - [Neuroplasticity: connections rewire with learning](https://en.wikipedia.org/wiki/Neuroplasticity)
+    - Sleep consolidates memories
+    - Keeps developing into mid-twenties
+  - Common problems
+    - Stroke, from blocked or burst vessels
+    - Dementia, including Alzheimer's disease
+    - Concussion from head injury
+    - Migraine and other headaches
+  - Keeping it healthy
+    - Physical activity boosts brain health
+    - Stay socially and mentally active
+    - Protect your head from injury

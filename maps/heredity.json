@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Heredity",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#769ikt",
+      "name": "The basic idea",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kw3jjk",
+      "name": "Traits pass from parents to offspring",
+      "x": -505,
+      "y": -60,
+      "parent": "#769ikt"
+    },
+    {
+      "@id": "#uy5cmr",
+      "name": "Carried by genes in DNA",
+      "x": -405,
+      "y": -156,
+      "parent": "#769ikt"
+    },
+    {
+      "@id": "#ve6jqk",
+      "name": "Explains family resemblance",
+      "x": -330,
+      "y": -245,
+      "parent": "#769ikt"
+    },
+    {
+      "@id": "#sd3p66",
+      "name": "Mendel's discoveries",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kan2yk",
+      "name": "Gregor Mendel bred peas, 1856–1863",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Gregor_Mendel",
+      "parent": "#sd3p66"
+    },
+    {
+      "@id": "#x25g3i",
+      "name": "Law of segregation: alleles separate",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Mendelian_inheritance",
+      "parent": "#sd3p66"
+    },
+    {
+      "@id": "#m64cm5",
+      "name": "Independent assortment of different traits",
+      "x": 42,
+      "y": -423,
+      "parent": "#sd3p66"
+    },
+    {
+      "@id": "#z8b79p",
+      "name": "Ignored until rediscovered in 1900",
+      "x": 234,
+      "y": -485,
+      "parent": "#sd3p66"
+    },
+    {
+      "@id": "#e35p9t",
+      "name": "How it works in humans",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d4pw2m",
+      "name": "23 chromosomes from each parent",
+      "x": 281,
+      "y": -281,
+      "parent": "#e35p9t"
+    },
+    {
+      "@id": "#wtukig",
+      "name": "Meiosis halves chromosomes in eggs, sperm",
+      "x": 372,
+      "y": -203,
+      "parent": "#e35p9t"
+    },
+    {
+      "@id": "#am8v89",
+      "name": "Crossing over mixes parental genes",
+      "x": 525,
+      "y": -131,
+      "parent": "#e35p9t"
+    },
+    {
+      "@id": "#abvhdk",
+      "name": "Sex chromosomes: XX or XY",
+      "x": 450,
+      "y": 0,
+      "parent": "#e35p9t"
+    },
+    {
+      "@id": "#hhnhix",
+      "name": "Inheritance patterns",
+      "x": 169,
+      "y": 125,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kqjmmi",
+      "name": "Dominant: one copy shows the trait",
+      "x": 468,
+      "y": 116,
+      "parent": "#hhnhix"
+    },
+    {
+      "@id": "#a2uyfq",
+      "name": "Recessive: needs two copies",
+      "x": 372,
+      "y": 203,
+      "parent": "#hhnhix"
+    },
+    {
+      "@id": "#n9522c",
+      "name": "X-linked traits like colour blindness",
+      "x": 281,
+      "y": 281,
+      "link": "https://en.wikipedia.org/wiki/Sex_linkage",
+      "parent": "#hhnhix"
+    },
+    {
+      "@id": "#nwjfe4",
+      "name": "Polygenic traits like height",
+      "x": 164,
+      "y": 335,
+      "parent": "#hhnhix"
+    },
+    {
+      "@id": "#mpd6db",
+      "name": "Beyond simple genes",
+      "x": -51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#juz5tz",
+      "name": "Mitochondrial DNA comes from the mother",
+      "x": 38,
+      "y": 391,
+      "parent": "#mpd6db"
+    },
+    {
+      "@id": "#6kae5j",
+      "name": "Epigenetics: marks change gene activity",
+      "x": -124,
+      "y": 447,
+      "link": "https://en.wikipedia.org/wiki/Epigenetics",
+      "parent": "#mpd6db"
+    },
+    {
+      "@id": "#3mp37c",
+      "name": "Nature and nurture both matter",
+      "x": -225,
+      "y": 312,
+      "parent": "#mpd6db"
+    },
+    {
+      "@id": "#qpijpn",
+      "name": "Tools and uses",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uf6gzh",
+      "name": "Punnett squares predict offspring odds",
+      "x": -330,
+      "y": 245,
+      "parent": "#qpijpn"
+    },
+    {
+      "@id": "#4xcb2i",
+      "name": "Family trees trace inherited conditions",
+      "x": -405,
+      "y": 156,
+      "parent": "#qpijpn"
+    },
+    {
+      "@id": "#t742ie",
+      "name": "Genetic counselling for prospective parents",
+      "x": -525,
+      "y": 62,
+      "parent": "#qpijpn"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,27 @@
+category: Science
+aliases: research process, how to do research, research methods
+- Research
+  - What research is
+    - Systematic search for new knowledge
+    - [Basic research seeks understanding](https://en.wikipedia.org/wiki/Basic_research)
+    - Applied research solves practical problems
+  - Ask a question
+    - Review what is already known
+    - Narrow to a specific question
+    - Form a testable hypothesis
+  - Choose a method
+    - [Quantitative: measure and count](https://en.wikipedia.org/wiki/Quantitative_research)
+    - [Qualitative: interviews and observation](https://en.wikipedia.org/wiki/Qualitative_research)
+    - Experiments, surveys and case studies
+  - Collect and analyse data
+    - Plan sampling to avoid bias
+    - Record data carefully and openly
+    - Statistics test whether effects are real
+  - Share the findings
+    - Write up methods and results
+    - [Peer review before publication](https://en.wikipedia.org/wiki/Peer_review)
+    - Others replicate and build on it
+  - Do it responsibly
+    - Ethics approval for human studies
+    - Informed consent from participants
+    - Never plagiarise or fabricate data

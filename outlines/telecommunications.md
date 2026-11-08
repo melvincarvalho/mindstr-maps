@@ -1,0 +1,29 @@
+category: Technology
+aliases: telecom, telecoms, telecommunication, history of telecommunications
+- Telecommunications
+  - What it means
+    - Sending information over a distance
+    - Signals carried by wire, radio or light
+    - Sender, channel and receiver
+  - Early long-distance signals
+    - Smoke signals and beacon fires
+    - [Optical semaphore towers, 1790s France](https://en.wikipedia.org/wiki/Semaphore_line)
+    - [Electric telegraph and Morse code, 1840s](https://en.wikipedia.org/wiki/Electrical_telegraph)
+    - Lasting transatlantic telegraph cable, 1866
+  - Voice and broadcasting
+    - Telephone patented in 1876
+    - Radio crossed the Atlantic in 1901
+    - Television broadcasts from the 1930s
+  - Modern networks
+    - [Communications satellites since Telstar, 1962](https://en.wikipedia.org/wiki/Communications_satellite)
+    - [Fibre-optic cables carry most data](https://en.wikipedia.org/wiki/Fiber-optic_communication)
+    - Mobile networks from 1G to 5G
+    - The internet runs over them all
+  - How signals are carried
+    - Analogue signals gave way to digital
+    - Modulation puts data on carrier waves
+    - Bandwidth limits how much data flows
+  - Impact
+    - Instant global news and finance
+    - Remote work and video calls
+    - Governments regulate spectrum and operators

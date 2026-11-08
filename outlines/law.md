@@ -1,0 +1,32 @@
+category: Society
+aliases: legal system, the law, rule of law explained, what is law
+- Law
+  - What law does
+    - Rules enforced by the state
+    - Settles disputes peacefully
+    - Protects rights and property
+    - Limits the power of government
+  - Where law comes from
+    - Constitutions set the highest rules
+    - Legislatures pass statutes
+    - Judges' decisions create precedent
+    - Treaties and custom shape international law
+  - Main legal systems
+    - [Common law: England, US, Commonwealth](https://en.wikipedia.org/wiki/Common_law)
+    - [Civil law: codes, continental Europe](https://en.wikipedia.org/wiki/Civil_law_%28legal_system%29)
+    - Religious law, e.g. Islamic sharia
+    - Many countries mix several traditions
+  - Branches of law
+    - Criminal law: offences against society
+    - Civil law: disputes between private parties
+    - Constitutional and administrative law
+    - Contract, tort and property law
+  - How it is applied
+    - Courts interpret and apply rules
+    - Lawyers advise and represent parties
+    - Appeals let higher courts review
+    - Police and agencies enforce rules
+  - Key ideas
+    - [Rule of law: no one above it](https://en.wikipedia.org/wiki/Rule_of_law)
+    - Due process and fair trials
+    - Details vary greatly by country

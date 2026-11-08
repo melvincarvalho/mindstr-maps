@@ -1,0 +1,374 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Indigenous peoples",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#57j7sf",
+      "name": "Who they are",
+      "x": -202,
+      "y": -89,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#azhggm",
+      "name": "Descendants of a region's earliest inhabitants",
+      "x": -526,
+      "y": -53,
+      "parent": "#57j7sf"
+    },
+    {
+      "@id": "#txrcpe",
+      "name": "Distinct languages, cultures and institutions",
+      "x": -437,
+      "y": -139,
+      "parent": "#57j7sf"
+    },
+    {
+      "@id": "#6ed5ux",
+      "name": "Self-identification is the key criterion",
+      "x": -364,
+      "y": -212,
+      "parent": "#57j7sf"
+    },
+    {
+      "@id": "#uwxver",
+      "name": "About 476 million people worldwide",
+      "x": -287,
+      "y": -277,
+      "parent": "#57j7sf"
+    },
+    {
+      "@id": "#nqyecf",
+      "name": "Examples around the world",
+      "x": 43,
+      "y": -181,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ctr6aq",
+      "name": "First Nations, Inuit and Métis in Canada",
+      "x": -192,
+      "y": -326,
+      "parent": "#nqyecf"
+    },
+    {
+      "@id": "#c9ghia",
+      "name": "Native Americans in the United States",
+      "x": -92,
+      "y": -386,
+      "parent": "#nqyecf"
+    },
+    {
+      "@id": "#kud4bm",
+      "name": "Aboriginal and Torres Strait Islander peoples",
+      "x": 33,
+      "y": -439,
+      "parent": "#nqyecf"
+    },
+    {
+      "@id": "#kcw822",
+      "name": "Māori in Aotearoa New Zealand",
+      "x": 199,
+      "y": -492,
+      "parent": "#nqyecf"
+    },
+    {
+      "@id": "#bta6ff",
+      "name": "Sámi in northern Europe",
+      "x": 241,
+      "y": -304,
+      "parent": "#nqyecf"
+    },
+    {
+      "@id": "#tk33sj",
+      "name": "Many peoples across Africa and Asia",
+      "x": 328,
+      "y": -246,
+      "parent": "#nqyecf"
+    },
+    {
+      "@id": "#pirwhm",
+      "name": "Land and culture",
+      "x": 228,
+      "y": -23,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z53fhx",
+      "name": "Deep ties to ancestral lands",
+      "x": 394,
+      "y": -173,
+      "parent": "#pirwhm"
+    },
+    {
+      "@id": "#stgty8",
+      "name": "Traditional knowledge of ecosystems",
+      "x": 436,
+      "y": -90,
+      "parent": "#pirwhm"
+    },
+    {
+      "@id": "#te2fcs",
+      "name": "Territories hold much of Earth's biodiversity",
+      "x": 570,
+      "y": 0,
+      "parent": "#pirwhm"
+    },
+    {
+      "@id": "#w9nfic",
+      "name": "Many Indigenous languages are endangered",
+      "x": 436,
+      "y": 90,
+      "parent": "#pirwhm"
+    },
+    {
+      "@id": "#bh6xrs",
+      "name": "History of colonisation",
+      "x": 147,
+      "y": 142,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dtc9aw",
+      "name": "Land taken by colonial settlement",
+      "x": 448,
+      "y": 197,
+      "parent": "#bh6xrs"
+    },
+    {
+      "@id": "#f9k6ev",
+      "name": "Epidemics devastated many populations",
+      "x": 328,
+      "y": 246,
+      "link": "https://en.wikipedia.org/wiki/Virgin_soil_epidemic",
+      "parent": "#bh6xrs"
+    },
+    {
+      "@id": "#zpxj9a",
+      "name": "Residential and boarding schools",
+      "x": 241,
+      "y": 304,
+      "link": "https://en.wikipedia.org/wiki/Canadian_Indian_residential_school_system",
+      "parent": "#bh6xrs"
+    },
+    {
+      "@id": "#tc8pff",
+      "name": "Treaties signed, often later broken",
+      "x": 145,
+      "y": 357,
+      "parent": "#bh6xrs"
+    },
+    {
+      "@id": "#259f5p",
+      "name": "Rights and recognition",
+      "x": -77,
+      "y": 190,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cyt72x",
+      "name": "UN Declaration on Indigenous rights, 2007",
+      "x": 31,
+      "y": 407,
+      "link": "https://en.wikipedia.org/wiki/Declaration_on_the_Rights_of_Indigenous_Peoples",
+      "parent": "#259f5p"
+    },
+    {
+      "@id": "#ezzdgw",
+      "name": "Free, prior and informed consent",
+      "x": -112,
+      "y": 466,
+      "parent": "#259f5p"
+    },
+    {
+      "@id": "#a7a5hd",
+      "name": "Land claims and self-government agreements",
+      "x": -318,
+      "y": 522,
+      "parent": "#259f5p"
+    },
+    {
+      "@id": "#w6hjuc",
+      "name": "Truth and reconciliation processes",
+      "x": -287,
+      "y": 277,
+      "parent": "#259f5p"
+    },
+    {
+      "@id": "#9ajdkv",
+      "name": "Today",
+      "x": -214,
+      "y": 68,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jc7b88",
+      "name": "Language revitalisation programmes",
+      "x": -380,
+      "y": 221,
+      "parent": "#9ajdkv"
+    },
+    {
+      "@id": "#4595zz",
+      "name": "Higher rates of poverty and poorer health",
+      "x": -418,
+      "y": 133,
+      "parent": "#9ajdkv"
+    },
+    {
+      "@id": "#mcqbgj",
+      "name": "International Day: 9 August",
+      "x": -446,
+      "y": 45,
+      "link": "https://en.wikipedia.org/wiki/International_Day_of_the_World%27s_Indigenous_Peoples",
+      "parent": "#9ajdkv"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 6,
+      "end": 11
+    },
+    {
+      "start": 6,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    },
+    {
+      "start": 0,
+      "end": 28
+    },
+    {
+      "start": 28,
+      "end": 29
+    },
+    {
+      "start": 28,
+      "end": 30
+    },
+    {
+      "start": 28,
+      "end": 31
+    }
+  ],
+  "selectedNode": 0
+}

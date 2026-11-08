@@ -1,0 +1,31 @@
+category: People
+aliases: tagore, gurudev tagore, rabindranath thakur
+- Rabindranath Tagore
+  - Bengali poet and polymath, 1861–1941
+    - Born in Calcutta to a prominent family
+    - Wrote poems from about age eight
+    - Known as Gurudev, Bard of Bengal
+  - Poetry and the Nobel Prize
+    - [Gitanjali: song offerings to the divine](https://en.wikipedia.org/wiki/Gitanjali)
+    - [Nobel Prize in Literature, 1913](https://en.wikipedia.org/wiki/Nobel_Prize_in_Literature)
+    - First non-European Nobel laureate
+  - Fiction, plays and essays
+    - The Home and the World, a novel
+    - Gora: identity and nationalism
+    - Short stories like Kabuliwala
+    - Plays such as The Post Office
+  - Music and art
+    - [About 2,000 songs: Rabindra Sangeet](https://en.wikipedia.org/wiki/Rabindra_Sangeet)
+    - [India's anthem Jana Gana Mana](https://en.wikipedia.org/wiki/Jana_Gana_Mana)
+    - Bangladesh's anthem Amar Shonar Bangla
+    - Took up painting in his sixties
+  - Education and ideas
+    - School at Santiniketan, founded 1901
+    - Visva-Bharati University, 1921
+    - Learning in nature, open to the world
+    - Wary of narrow nationalism
+  - Politics and legacy
+    - Renounced knighthood after Amritsar massacre, 1919
+    - Friend and critic of Gandhi
+    - Met Einstein; debated truth and reality
+    - Reshaped modern Bengali language and literature
