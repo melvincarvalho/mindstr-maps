@@ -1,3 +1,4 @@
+category: Travel
 aliases: italy trip, travel to italy, italy itinerary, visiting italy
 - Plan a trip to Italy
   - Pick when to go

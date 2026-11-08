@@ -1,3 +1,4 @@
+category: History
 aliases: renaissance, italian renaissance, renaissance period
 - The Renaissance
   - What it was

@@ -1,3 +1,4 @@
+category: Money and work
 aliases: what is inflation, inflation explained, why prices rise, causes of inflation
 - Inflation
   - What it is

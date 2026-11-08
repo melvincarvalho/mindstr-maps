@@ -1,3 +1,4 @@
+category: Society
 aliases: what are human rights, basic human rights, human rights explained
 - Human rights
   - What they are

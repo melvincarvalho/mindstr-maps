@@ -1,3 +1,4 @@
+category: Life and home
 aliases: wedding planning, how to plan a wedding, wedding checklist, organise a wedding
 - Plan a wedding
   - Make the big decisions

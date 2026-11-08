@@ -1,3 +1,4 @@
+category: Technology
 aliases: what is machine learning, machine learning explained, how machine learning works
 - Machine learning
   - The core idea

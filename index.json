@@ -1,9 +1,52 @@
 {
   "version": 1,
+  "categories": [
+    {
+      "name": "Science",
+      "maps": 14
+    },
+    {
+      "name": "Health",
+      "maps": 9
+    },
+    {
+      "name": "Technology",
+      "maps": 16
+    },
+    {
+      "name": "History",
+      "maps": 14
+    },
+    {
+      "name": "Arts and culture",
+      "maps": 6
+    },
+    {
+      "name": "Society",
+      "maps": 7
+    },
+    {
+      "name": "Money and work",
+      "maps": 13
+    },
+    {
+      "name": "Learn a skill",
+      "maps": 8
+    },
+    {
+      "name": "Life and home",
+      "maps": 3
+    },
+    {
+      "name": "Travel",
+      "maps": 10
+    }
+  ],
   "maps": [
     {
       "topic": "Ancient Egypt",
       "slug": "ancient-egypt",
+      "category": "History",
       "aliases": [
         "ancient-egyptians",
         "egyptian-pharaohs",
@@ -15,6 +58,7 @@
     {
       "topic": "Ancient Greece",
       "slug": "ancient-greece",
+      "category": "History",
       "aliases": [
         "ancient-greeks",
         "classical-greece",
@@ -27,6 +71,7 @@
     {
       "topic": "Ancient Rome",
       "slug": "ancient-rome",
+      "category": "History",
       "aliases": [
         "roman-empire",
         "the-romans",
@@ -39,6 +84,7 @@
     {
       "topic": "Artificial intelligence",
       "slug": "artificial-intelligence",
+      "category": "Technology",
       "aliases": [
         "ai",
         "what-is-ai",
@@ -50,6 +96,7 @@
     {
       "topic": "Backpacking in Europe",
       "slug": "backpacking-in-europe",
+      "category": "Travel",
       "aliases": [
         "backpacking-europe",
         "europe-backpacking-trip",
@@ -62,6 +109,7 @@
     {
       "topic": "Better sleep",
       "slug": "better-sleep",
+      "category": "Health",
       "aliases": [
         "sleep-better",
         "how-to-sleep-better",
@@ -74,6 +122,7 @@
     {
       "topic": "Biodiversity",
       "slug": "biodiversity",
+      "category": "Science",
       "aliases": [
         "what-is-biodiversity",
         "biological-diversity",
@@ -85,6 +134,7 @@
     {
       "topic": "Black holes",
       "slug": "black-holes",
+      "category": "Science",
       "aliases": [
         "black-hole",
         "what-is-a-black-hole",
@@ -96,6 +146,7 @@
     {
       "topic": "Blockchain",
       "slug": "blockchain",
+      "category": "Technology",
       "aliases": [
         "what-is-blockchain",
         "blockchain-technology",
@@ -108,6 +159,7 @@
     {
       "topic": "Build good habits",
       "slug": "build-good-habits",
+      "category": "Learn a skill",
       "aliases": [
         "habit-formation",
         "how-to-build-habits",
@@ -120,6 +172,7 @@
     {
       "topic": "Classical music",
       "slug": "classical-music",
+      "category": "Arts and culture",
       "aliases": [
         "western-classical-music",
         "orchestral-music",
@@ -131,6 +184,7 @@
     {
       "topic": "Climate change",
       "slug": "climate-change",
+      "category": "Science",
       "aliases": [
         "global-warming",
         "climate-crisis",
@@ -142,6 +196,7 @@
     {
       "topic": "Cloud computing",
       "slug": "cloud-computing",
+      "category": "Technology",
       "aliases": [
         "what-is-cloud-computing",
         "the-cloud",
@@ -153,6 +208,7 @@
     {
       "topic": "Cybersecurity basics",
       "slug": "cybersecurity-basics",
+      "category": "Technology",
       "aliases": [
         "cyber-security-basics",
         "online-security",
@@ -165,6 +221,7 @@
     {
       "topic": "Data privacy",
       "slug": "data-privacy",
+      "category": "Technology",
       "aliases": [
         "online-privacy",
         "digital-privacy",
@@ -177,6 +234,7 @@
     {
       "topic": "Democracy",
       "slug": "democracy",
+      "category": "Society",
       "aliases": [
         "what-is-democracy",
         "how-democracy-works",
@@ -188,6 +246,7 @@
     {
       "topic": "DNA and genetics",
       "slug": "dna-and-genetics",
+      "category": "Science",
       "aliases": [
         "dna",
         "genetics",
@@ -200,6 +259,7 @@
     {
       "topic": "Electric cars",
       "slug": "electric-cars",
+      "category": "Technology",
       "aliases": [
         "electric-vehicles",
         "ev",
@@ -213,6 +273,7 @@
     {
       "topic": "Electricity",
       "slug": "electricity",
+      "category": "Science",
       "aliases": [
         "how-electricity-works",
         "electricity-explained",
@@ -225,6 +286,7 @@
     {
       "topic": "Evolution",
       "slug": "evolution",
+      "category": "Science",
       "aliases": [
         "theory-of-evolution",
         "evolution-by-natural-selection",
@@ -236,6 +298,7 @@
     {
       "topic": "First aid basics",
       "slug": "first-aid-basics",
+      "category": "Health",
       "aliases": [
         "first-aid",
         "basic-first-aid",
@@ -248,6 +311,7 @@
     {
       "topic": "Freelancing",
       "slug": "freelancing",
+      "category": "Money and work",
       "aliases": [
         "become-a-freelancer",
         "how-to-freelance",
@@ -260,6 +324,7 @@
     {
       "topic": "Gravity",
       "slug": "gravity",
+      "category": "Science",
       "aliases": [
         "force-of-gravity",
         "how-gravity-works",
@@ -272,6 +337,7 @@
     {
       "topic": "Greek mythology",
       "slug": "greek-mythology",
+      "category": "Arts and culture",
       "aliases": [
         "greek-myths",
         "greek-gods",
@@ -284,6 +350,7 @@
     {
       "topic": "Healthy eating",
       "slug": "healthy-eating",
+      "category": "Health",
       "aliases": [
         "healthy-diet",
         "balanced-diet",
@@ -296,6 +363,7 @@
     {
       "topic": "How Bitcoin works",
       "slug": "how-bitcoin-works",
+      "category": "Technology",
       "aliases": [
         "bitcoin",
         "what-is-bitcoin",
@@ -308,6 +376,7 @@
     {
       "topic": "How cities work",
       "slug": "how-cities-work",
+      "category": "Society",
       "aliases": [
         "how-do-cities-work",
         "how-a-city-works",
@@ -319,6 +388,7 @@
     {
       "topic": "How computers work",
       "slug": "how-computers-work",
+      "category": "Technology",
       "aliases": [
         "how-do-computers-work",
         "how-a-computer-works",
@@ -330,6 +400,7 @@
     {
       "topic": "How films are made",
       "slug": "how-films-are-made",
+      "category": "Arts and culture",
       "aliases": [
         "filmmaking",
         "how-movies-are-made",
@@ -342,6 +413,7 @@
     {
       "topic": "How search engines work",
       "slug": "how-search-engines-work",
+      "category": "Technology",
       "aliases": [
         "how-do-search-engines-work",
         "how-search-engines-rank-pages",
@@ -354,6 +426,7 @@
     {
       "topic": "How smartphones work",
       "slug": "how-smartphones-work",
+      "category": "Technology",
       "aliases": [
         "how-does-a-smartphone-work",
         "how-do-smartphones-work",
@@ -366,6 +439,7 @@
     {
       "topic": "How the internet works",
       "slug": "how-the-internet-works",
+      "category": "Technology",
       "aliases": [
         "how-does-the-internet-work",
         "internet",
@@ -377,6 +451,7 @@
     {
       "topic": "How the stock market works",
       "slug": "how-the-stock-market-works",
+      "category": "Money and work",
       "aliases": [
         "stock-market-explained",
         "how-do-stocks-work",
@@ -389,6 +464,7 @@
     {
       "topic": "How vaccines work",
       "slug": "how-vaccines-work",
+      "category": "Health",
       "aliases": [
         "vaccines",
         "vaccination",
@@ -400,6 +476,7 @@
     {
       "topic": "Human rights",
       "slug": "human-rights",
+      "category": "Society",
       "aliases": [
         "what-are-human-rights",
         "basic-human-rights",
@@ -411,6 +488,7 @@
     {
       "topic": "Impressionism",
       "slug": "impressionism",
+      "category": "Arts and culture",
       "aliases": [
         "impressionist-art",
         "impressionist-painters",
@@ -423,6 +501,7 @@
     {
       "topic": "Inflation",
       "slug": "inflation",
+      "category": "Money and work",
       "aliases": [
         "what-is-inflation",
         "inflation-explained",
@@ -435,6 +514,7 @@
     {
       "topic": "Jazz",
       "slug": "jazz",
+      "category": "Arts and culture",
       "aliases": [
         "jazz-music",
         "history-of-jazz",
@@ -447,6 +527,7 @@
     {
       "topic": "Job interview tips",
       "slug": "job-interview-tips",
+      "category": "Money and work",
       "aliases": [
         "interview-tips",
         "prepare-for-an-interview",
@@ -459,6 +540,7 @@
     {
       "topic": "Leadership",
       "slug": "leadership",
+      "category": "Money and work",
       "aliases": [
         "leadership-skills",
         "how-to-be-a-leader",
@@ -471,6 +553,7 @@
     {
       "topic": "Learn a new language",
       "slug": "learn-a-new-language",
+      "category": "Learn a skill",
       "aliases": [
         "language-learning",
         "learn-a-foreign-language",
@@ -482,6 +565,7 @@
     {
       "topic": "Learn guitar",
       "slug": "learn-guitar",
+      "category": "Learn a skill",
       "aliases": [
         "guitar-for-beginners",
         "how-to-play-guitar",
@@ -494,6 +578,7 @@
     {
       "topic": "Learn to code",
       "slug": "learn-to-code",
+      "category": "Learn a skill",
       "aliases": [
         "learn-programming",
         "how-to-code",
@@ -506,6 +591,7 @@
     {
       "topic": "Learn to cook",
       "slug": "learn-to-cook",
+      "category": "Learn a skill",
       "aliases": [
         "how-to-cook",
         "cooking-for-beginners",
@@ -518,6 +604,7 @@
     {
       "topic": "Learn to draw",
       "slug": "learn-to-draw",
+      "category": "Learn a skill",
       "aliases": [
         "how-to-draw",
         "drawing-for-beginners",
@@ -530,6 +617,7 @@
     {
       "topic": "Machine learning",
       "slug": "machine-learning",
+      "category": "Technology",
       "aliases": [
         "what-is-machine-learning",
         "machine-learning-explained",
@@ -541,6 +629,7 @@
     {
       "topic": "Meditation",
       "slug": "meditation",
+      "category": "Health",
       "aliases": [
         "how-to-meditate",
         "learn-to-meditate",
@@ -553,6 +642,7 @@
     {
       "topic": "Moving house",
       "slug": "moving-house",
+      "category": "Life and home",
       "aliases": [
         "moving-home",
         "house-move",
@@ -565,6 +655,7 @@
     {
       "topic": "Negotiate a salary",
       "slug": "negotiate-a-salary",
+      "category": "Money and work",
       "aliases": [
         "salary-negotiation",
         "how-to-negotiate-salary",
@@ -577,6 +668,7 @@
     {
       "topic": "Open source software",
       "slug": "open-source-software",
+      "category": "Technology",
       "aliases": [
         "open-source",
         "what-is-open-source",
@@ -589,6 +681,7 @@
     {
       "topic": "Pack for travel",
       "slug": "pack-for-travel",
+      "category": "Travel",
       "aliases": [
         "packing-list",
         "travel-packing-list",
@@ -601,6 +694,7 @@
     {
       "topic": "Parenting toddlers",
       "slug": "parenting-toddlers",
+      "category": "Life and home",
       "aliases": [
         "toddler-parenting",
         "raising-toddlers",
@@ -613,6 +707,7 @@
     {
       "topic": "Personal finance basics",
       "slug": "personal-finance-basics",
+      "category": "Money and work",
       "aliases": [
         "money-basics",
         "budgeting-basics",
@@ -624,6 +719,7 @@
     {
       "topic": "Photography basics",
       "slug": "photography-basics",
+      "category": "Learn a skill",
       "aliases": [
         "learn-photography",
         "photography-for-beginners",
@@ -636,6 +732,7 @@
     {
       "topic": "Photosynthesis",
       "slug": "photosynthesis",
+      "category": "Science",
       "aliases": [
         "how-photosynthesis-works",
         "photosynthesis-explained",
@@ -647,6 +744,7 @@
     {
       "topic": "Plan a camping trip",
       "slug": "plan-a-camping-trip",
+      "category": "Travel",
       "aliases": [
         "camping-trip",
         "go-camping",
@@ -659,6 +757,7 @@
     {
       "topic": "Plan a road trip",
       "slug": "plan-a-road-trip",
+      "category": "Travel",
       "aliases": [
         "road-trip-planning",
         "road-trip-checklist",
@@ -670,6 +769,7 @@
     {
       "topic": "Plan a trip to Italy",
       "slug": "plan-a-trip-to-italy",
+      "category": "Travel",
       "aliases": [
         "italy-trip",
         "travel-to-italy",
@@ -682,6 +782,7 @@
     {
       "topic": "Plan a wedding",
       "slug": "plan-a-wedding",
+      "category": "Life and home",
       "aliases": [
         "wedding-planning",
         "how-to-plan-a-wedding",
@@ -694,6 +795,7 @@
     {
       "topic": "Plastic pollution",
       "slug": "plastic-pollution",
+      "category": "Society",
       "aliases": [
         "plastic-waste",
         "ocean-plastic",
@@ -706,6 +808,7 @@
     {
       "topic": "Plate tectonics",
       "slug": "plate-tectonics",
+      "category": "Science",
       "aliases": [
         "tectonic-plates",
         "continental-drift",
@@ -718,6 +821,7 @@
     {
       "topic": "Public speaking",
       "slug": "public-speaking",
+      "category": "Money and work",
       "aliases": [
         "presentation-skills",
         "how-to-give-a-speech",
@@ -730,6 +834,7 @@
     {
       "topic": "Quantum computing",
       "slug": "quantum-computing",
+      "category": "Technology",
       "aliases": [
         "quantum-computer",
         "quantum-computers",
@@ -741,6 +846,7 @@
     {
       "topic": "Recycling",
       "slug": "recycling",
+      "category": "Society",
       "aliases": [
         "how-recycling-works",
         "how-to-recycle",
@@ -753,6 +859,7 @@
     {
       "topic": "Remote work",
       "slug": "remote-work",
+      "category": "Money and work",
       "aliases": [
         "working-from-home",
         "work-from-home",
@@ -766,6 +873,7 @@
     {
       "topic": "Renewable energy",
       "slug": "renewable-energy",
+      "category": "Technology",
       "aliases": [
         "renewables",
         "clean-energy",
@@ -778,6 +886,7 @@
     {
       "topic": "Running for beginners",
       "slug": "running-for-beginners",
+      "category": "Health",
       "aliases": [
         "start-running",
         "how-to-start-running",
@@ -790,6 +899,7 @@
     {
       "topic": "Shakespeare",
       "slug": "shakespeare",
+      "category": "Arts and culture",
       "aliases": [
         "william-shakespeare",
         "shakespeare-plays",
@@ -801,6 +911,7 @@
     {
       "topic": "Start a small business",
       "slug": "start-a-small-business",
+      "category": "Money and work",
       "aliases": [
         "how-to-start-a-business",
         "starting-a-business",
@@ -813,6 +924,7 @@
     {
       "topic": "Start investing",
       "slug": "start-investing",
+      "category": "Money and work",
       "aliases": [
         "how-to-invest",
         "investing-for-beginners",
@@ -825,6 +937,7 @@
     {
       "topic": "Strength training basics",
       "slug": "strength-training-basics",
+      "category": "Health",
       "aliases": [
         "strength-training",
         "weight-training-for-beginners",
@@ -837,6 +950,7 @@
     {
       "topic": "Stress management",
       "slug": "stress-management",
+      "category": "Health",
       "aliases": [
         "manage-stress",
         "how-to-deal-with-stress",
@@ -850,6 +964,7 @@
     {
       "topic": "Sustainable living",
       "slug": "sustainable-living",
+      "category": "Society",
       "aliases": [
         "live-sustainably",
         "how-to-live-sustainably",
@@ -863,6 +978,7 @@
     {
       "topic": "The American Revolution",
       "slug": "the-american-revolution",
+      "category": "History",
       "aliases": [
         "american-revolutionary-war",
         "american-war-of-independence",
@@ -875,6 +991,7 @@
     {
       "topic": "The Cold War",
       "slug": "the-cold-war",
+      "category": "History",
       "aliases": [
         "cold-war",
         "cold-war-history",
@@ -886,6 +1003,7 @@
     {
       "topic": "The fall of the Berlin Wall",
       "slug": "the-fall-of-the-berlin-wall",
+      "category": "History",
       "aliases": [
         "berlin-wall",
         "fall-of-berlin-wall",
@@ -898,6 +1016,7 @@
     {
       "topic": "The French Revolution",
       "slug": "the-french-revolution",
+      "category": "History",
       "aliases": [
         "french-revolution",
         "revolution-of-1789",
@@ -909,6 +1028,7 @@
     {
       "topic": "The human body",
       "slug": "the-human-body",
+      "category": "Health",
       "aliases": [
         "human-body",
         "human-anatomy",
@@ -921,6 +1041,7 @@
     {
       "topic": "The immune system",
       "slug": "the-immune-system",
+      "category": "Science",
       "aliases": [
         "immune-system",
         "how-the-immune-system-works",
@@ -933,6 +1054,7 @@
     {
       "topic": "The Industrial Revolution",
       "slug": "the-industrial-revolution",
+      "category": "History",
       "aliases": [
         "industrial-revolution",
         "first-industrial-revolution",
@@ -944,6 +1066,7 @@
     {
       "topic": "The Moon landing",
       "slug": "the-moon-landing",
+      "category": "History",
       "aliases": [
         "apollo-11",
         "first-moon-landing",
@@ -956,6 +1079,7 @@
     {
       "topic": "The periodic table",
       "slug": "the-periodic-table",
+      "category": "Science",
       "aliases": [
         "periodic-table",
         "periodic-table-of-elements",
@@ -968,6 +1092,7 @@
     {
       "topic": "The printing press",
       "slug": "the-printing-press",
+      "category": "History",
       "aliases": [
         "gutenberg-printing-press",
         "gutenberg-press",
@@ -980,6 +1105,7 @@
     {
       "topic": "The Renaissance",
       "slug": "the-renaissance",
+      "category": "History",
       "aliases": [
         "renaissance",
         "italian-renaissance",
@@ -991,6 +1117,7 @@
     {
       "topic": "The scientific method",
       "slug": "the-scientific-method",
+      "category": "Science",
       "aliases": [
         "scientific-method",
         "how-science-works",
@@ -1003,6 +1130,7 @@
     {
       "topic": "The Silk Road",
       "slug": "the-silk-road",
+      "category": "History",
       "aliases": [
         "silk-road",
         "silk-route",
@@ -1015,6 +1143,7 @@
     {
       "topic": "The United Nations",
       "slug": "the-united-nations",
+      "category": "Society",
       "aliases": [
         "united-nations",
         "un",
@@ -1027,6 +1156,7 @@
     {
       "topic": "The Vikings",
       "slug": "the-vikings",
+      "category": "History",
       "aliases": [
         "vikings",
         "viking-age",
@@ -1039,6 +1169,7 @@
     {
       "topic": "The water cycle",
       "slug": "the-water-cycle",
+      "category": "Science",
       "aliases": [
         "hydrologic-cycle",
         "hydrological-cycle",
@@ -1051,6 +1182,7 @@
     {
       "topic": "Time management",
       "slug": "time-management",
+      "category": "Money and work",
       "aliases": [
         "manage-my-time",
         "productivity-tips",
@@ -1063,6 +1195,7 @@
     {
       "topic": "Travel on a budget",
       "slug": "travel-on-a-budget",
+      "category": "Travel",
       "aliases": [
         "budget-travel",
         "cheap-travel",
@@ -1075,6 +1208,7 @@
     {
       "topic": "Visit Australia",
       "slug": "visit-australia",
+      "category": "Travel",
       "aliases": [
         "australia-trip",
         "travel-to-australia",
@@ -1087,6 +1221,7 @@
     {
       "topic": "Visit London",
       "slug": "visit-london",
+      "category": "Travel",
       "aliases": [
         "london-trip",
         "things-to-do-in-london",
@@ -1099,6 +1234,7 @@
     {
       "topic": "Visit New York",
       "slug": "visit-new-york",
+      "category": "Travel",
       "aliases": [
         "new-york-city-trip",
         "nyc-trip",
@@ -1111,6 +1247,7 @@
     {
       "topic": "Visit Paris",
       "slug": "visit-paris",
+      "category": "Travel",
       "aliases": [
         "paris-trip",
         "things-to-do-in-paris",
@@ -1123,6 +1260,7 @@
     {
       "topic": "Volcanoes",
       "slug": "volcanoes",
+      "category": "Science",
       "aliases": [
         "volcano",
         "how-volcanoes-form",
@@ -1135,6 +1273,7 @@
     {
       "topic": "Web development",
       "slug": "web-development",
+      "category": "Technology",
       "aliases": [
         "web-dev",
         "website-development",
@@ -1147,6 +1286,7 @@
     {
       "topic": "World War II",
       "slug": "world-war-ii",
+      "category": "History",
       "aliases": [
         "ww2",
         "wwii",
@@ -1159,6 +1299,7 @@
     {
       "topic": "Write a CV",
       "slug": "write-a-cv",
+      "category": "Money and work",
       "aliases": [
         "resume",
         "write-a-resume",
@@ -1171,6 +1312,7 @@
     {
       "topic": "Write a novel",
       "slug": "write-a-novel",
+      "category": "Learn a skill",
       "aliases": [
         "how-to-write-a-novel",
         "novel-writing",

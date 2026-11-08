@@ -1,3 +1,4 @@
+category: Life and home
 aliases: toddler parenting, raising toddlers, terrible twos, how to parent a toddler
 - Parenting toddlers
   - How toddlers develop

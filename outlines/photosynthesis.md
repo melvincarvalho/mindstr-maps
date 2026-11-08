@@ -1,3 +1,4 @@
+category: Science
 aliases: how photosynthesis works, photosynthesis explained, plant photosynthesis
 - Photosynthesis
   - What it does

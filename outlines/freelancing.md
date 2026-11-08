@@ -1,3 +1,4 @@
+category: Money and work
 aliases: become a freelancer, how to freelance, freelance work, start freelancing
 - Freelancing
   - Decide what you'll sell

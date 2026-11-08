@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Mindstr maps</title>
+  <meta name="description" content="Ready-made mind maps for common topics. Pick one and watch it grow in mindstr." />
+  <link rel="icon" href="https://mindstr.org/favicon.ico" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;600;700;800&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg: #f6f7fb; --raised: #ffffff; --text: #1b1f27; --muted: #5f6675; --border: #e4e3ee;
+      --accent: #6d4aff; --accent-soft: rgb(109 74 255 / 0.10); --shadow: 0 1px 2px rgb(20 20 40 / 0.06), 0 6px 20px rgb(20 20 40 / 0.06);
+      color-scheme: light;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root:not([data-theme="light"]) {
+        --bg: #11131b; --raised: #1a1d27; --text: #e8eaee; --muted: #9aa1b0; --border: #2c313b;
+        --accent: #a28bff; --accent-soft: rgb(162 139 255 / 0.14); --shadow: 0 1px 2px rgb(0 0 0 / 0.3), 0 6px 20px rgb(0 0 0 / 0.25);
+        color-scheme: dark;
+      }
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: var(--bg); color: var(--text); font: 15px/1.5 Manrope, system-ui, sans-serif; }
+    a { color: inherit; }
+    main { max-width: 1080px; margin: 0 auto; padding: 40px 16px 64px; }
+    header { text-align: center; margin-bottom: 28px; }
+    .brand { display: inline-flex; align-items: center; gap: 8px; font-weight: 800; font-size: 15px; color: var(--accent); text-decoration: none; letter-spacing: 0.01em; }
+    h1 { font-size: clamp(26px, 4vw, 36px); font-weight: 800; margin: 14px 0 6px; }
+    .lede { color: var(--muted); margin: 0 0 22px; }
+    #filter {
+      width: min(560px, 100%); height: 52px; padding: 0 22px; font: inherit; font-size: 16px; color: var(--text);
+      background: var(--raised); border: 1px solid var(--border); border-radius: 26px; box-shadow: var(--shadow); outline: none;
+    }
+    #filter:focus { border-color: var(--accent); box-shadow: 0 0 0 4px var(--accent-soft); }
+    nav { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin: 22px 0 8px; }
+    nav a { text-decoration: none; padding: 6px 14px; border-radius: 18px; background: var(--raised); border: 1px solid var(--border); font-weight: 600; font-size: 14px; }
+    nav a:hover { border-color: var(--accent); }
+    nav span { color: var(--muted); font-weight: 500; }
+    section { margin-top: 34px; scroll-margin-top: 16px; }
+    h2 { font-size: 20px; font-weight: 800; margin: 0 0 12px; display: flex; align-items: baseline; gap: 10px; }
+    h2 small { font-size: 14px; font-weight: 600; color: var(--muted); }
+    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 10px; }
+    .card {
+      display: flex; justify-content: space-between; align-items: center; gap: 10px;
+      padding: 14px 16px; background: var(--raised); border: 1px solid var(--border); border-radius: 14px;
+      text-decoration: none; font-weight: 650; transition: border-color 0.15s, transform 0.15s;
+    }
+    .card:hover { border-color: var(--accent); transform: translateY(-1px); }
+    .card span { flex: none; font-size: 12px; font-weight: 600; color: var(--muted); }
+    .empty { text-align: center; color: var(--muted); margin-top: 40px; }
+    .empty a { color: var(--accent); font-weight: 700; }
+    footer { margin-top: 56px; text-align: center; color: var(--muted); font-size: 13px; }
+    footer a { color: var(--muted); }
+    [hidden] { display: none !important; }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <a class="brand" href="https://mindstr.org/">◉ mindstr</a>
+      <h1>Ready-made mind maps</h1>
+      <p class="lede" id="lede">Pick a topic and watch it grow.</p>
+      <input id="filter" type="search" placeholder="Filter maps…" aria-label="Filter maps" autocomplete="off" />
+      <nav id="nav" aria-label="Sections"></nav>
+    </header>
+    <div id="sections"></div>
+    <p class="empty" id="empty" hidden>No ready-made map yet. <a id="build" href="https://mindstr.org/">Build it with mindstr →</a></p>
+    <footer>
+      Free to use and copy (<a href="LICENSE">CC0</a>) · <a href="https://github.com/melvincarvalho/mindstr-maps">Source and outlines</a> · <a href="index.json">index.json</a>
+    </footer>
+  </main>
+  <script type="module">
+    // Every map in index.json, grouped by category. A map opens in mindstr, growing from its root.
+    // ?app= points the links at another copy of the app (for a local preview).
+    const ICONS = {
+      Science: '🔬', Health: '🩺', Technology: '💻', History: '🏛️', 'Arts and culture': '🎨', Society: '🌍',
+      Geography: '🗺️', Mathematics: '➗', People: '👤', 'Philosophy and religion': '🕊️',
+      'Money and work': '💼', 'Learn a skill': '🎯', 'Life and home': '🏡', Travel: '✈️'
+    }
+    const app = new URLSearchParams(location.search).get('app') || 'https://mindstr.org/'
+    const slug = t => t.normalize('NFKD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '')
+    const $ = s => document.querySelector(s)
+    const el = (tag, props = {}, ...kids) => {
+      const e = Object.assign(document.createElement(tag), props)
+      e.append(...kids)
+      return e
+    }
+
+    const index = await (await fetch('index.json')).json()
+    const total = index.maps.length
+    $('#lede').textContent = `${total} maps, free to use. Pick a topic and watch it grow.`
+    const openUrl = m => `${app}?uri=${new URL(m.file, location.href).href}&replay=1s`
+
+    for (const c of index.categories) {
+      const id = slug(c.name)
+      $('#nav').append(el('a', { href: '#' + id }, `${ICONS[c.name] || '•'} ${c.name} `, el('span', {}, String(c.maps))))
+      const maps = index.maps.filter(m => m.category === c.name).sort((a, b) => a.topic.localeCompare(b.topic))
+      const grid = el('div', { className: 'grid' }, ...maps.map(m => {
+        const a = el('a', { className: 'card', href: openUrl(m), title: `Watch “${m.topic}” grow` }, m.topic, el('span', {}, `${m.nodes} ideas`))
+        a.dataset.words = [m.topic, ...m.aliases].join(' ').toLowerCase() + ' ' + [m.slug, ...m.aliases].join(' ')
+        return a
+      }))
+      $('#sections').append(el('section', { id }, el('h2', {}, `${ICONS[c.name] || ''} ${c.name}`, el('small', {}, `${c.maps}`)), grid))
+    }
+
+    // Filter as you type; with nothing left, offer to build the topic instead
+    $('#filter').addEventListener('input', e => {
+      const q = e.target.value.trim().toLowerCase()
+      let shown = 0
+      for (const section of document.querySelectorAll('section')) {
+        let n = 0
+        for (const card of section.querySelectorAll('.card')) {
+          const show = !q || q.split(/\s+/).every(w => card.dataset.words.includes(w))
+          card.hidden = !show
+          n += show
+        }
+        section.hidden = !n
+        shown += n
+      }
+      $('#nav').hidden = Boolean(q)
+      $('#empty').hidden = shown > 0
+      const build = new URL('make/', app)
+      build.searchParams.set('q', e.target.value.trim())
+      $('#build').href = build.href
+    })
+  </script>
+</body>
+</html>

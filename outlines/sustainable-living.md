@@ -1,3 +1,4 @@
+category: Society
 aliases: live sustainably, how to live sustainably, green living, eco-friendly living, sustainable lifestyle
 - Sustainable living
   - Know your footprint

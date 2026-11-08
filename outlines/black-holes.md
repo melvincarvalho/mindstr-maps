@@ -1,3 +1,4 @@
+category: Science
 aliases: black hole, what is a black hole, how black holes form
 - Black holes
   - What they are

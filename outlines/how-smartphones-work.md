@@ -1,3 +1,4 @@
+category: Technology
 aliases: how does a smartphone work, how do smartphones work, how mobile phones work, smartphone explained
 - How smartphones work
   - [A computer on one chip](https://en.wikipedia.org/wiki/System_on_a_chip)

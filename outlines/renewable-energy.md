@@ -1,3 +1,4 @@
+category: Technology
 aliases: renewables, clean energy, green energy, renewable energy sources
 - Renewable energy
   - What makes it renewable

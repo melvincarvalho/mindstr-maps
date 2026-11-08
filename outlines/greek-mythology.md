@@ -1,3 +1,4 @@
+category: Arts and culture
 aliases: greek myths, greek gods, ancient greek mythology, greek legends
 - Greek mythology
   - Creation and the Titans

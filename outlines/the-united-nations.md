@@ -1,3 +1,4 @@
+category: Society
 aliases: united nations, un, what is the un, un explained
 - The United Nations
   - Founding

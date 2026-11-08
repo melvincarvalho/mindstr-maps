@@ -1,3 +1,4 @@
+category: Learn a skill
 aliases: how to cook, cooking for beginners, basic cooking skills, beginner cooking
 - Learn to cook
   - Set up your kitchen

@@ -1,3 +1,4 @@
+category: Arts and culture
 aliases: jazz music, history of jazz, jazz history, jazz explained
 - Jazz
   - Roots in New Orleans

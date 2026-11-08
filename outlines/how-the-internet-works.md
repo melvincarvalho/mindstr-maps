@@ -1,3 +1,4 @@
+category: Technology
 aliases: how does the internet work, internet, how the internet works explained
 - How the internet works
   - A network of networks

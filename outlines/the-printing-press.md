@@ -1,3 +1,4 @@
+category: History
 aliases: gutenberg printing press, gutenberg press, invention of printing, movable type printing
 - The printing press
   - Before the press

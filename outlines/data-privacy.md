@@ -1,3 +1,4 @@
+category: Technology
 aliases: online privacy, digital privacy, personal data protection, internet privacy
 - Data privacy
   - What counts as personal data

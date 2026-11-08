@@ -1,3 +1,4 @@
+category: Technology
 aliases: ai, what is ai, what is artificial intelligence
 - Artificial intelligence
   - What it is

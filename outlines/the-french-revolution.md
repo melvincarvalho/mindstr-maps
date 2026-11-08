@@ -1,3 +1,4 @@
+category: History
 aliases: french revolution, revolution of 1789, 1789 revolution
 - The French Revolution
   - Causes

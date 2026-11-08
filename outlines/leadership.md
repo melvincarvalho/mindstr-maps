@@ -1,3 +1,4 @@
+category: Money and work
 aliases: leadership skills, how to be a leader, become a better leader, good leadership
 - Leadership
   - What leaders do

@@ -1,3 +1,4 @@
+category: History
 aliases: american revolutionary war, american war of independence, revolutionary war, us independence
 - The American Revolution
   - Causes

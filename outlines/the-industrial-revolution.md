@@ -1,3 +1,4 @@
+category: History
 aliases: industrial revolution, first industrial revolution, british industrial revolution
 - The Industrial Revolution
   - Why Britain first, about 1760

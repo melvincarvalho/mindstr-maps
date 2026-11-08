@@ -1,3 +1,4 @@
+category: Money and work
 aliases: money basics, budgeting basics, manage my money
 - Personal finance basics
   - Know where your money goes

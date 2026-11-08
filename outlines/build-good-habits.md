@@ -1,3 +1,4 @@
+category: Learn a skill
 aliases: habit formation, how to build habits, form new habits, building habits
 - Build good habits
   - How habits work

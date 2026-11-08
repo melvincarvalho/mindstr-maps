@@ -1,3 +1,4 @@
+category: Money and work
 aliases: how to start a business, starting a business, open a business, start a business
 - Start a small business
   - Test the idea

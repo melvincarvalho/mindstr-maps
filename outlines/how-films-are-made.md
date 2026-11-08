@@ -1,3 +1,4 @@
+category: Arts and culture
 aliases: filmmaking, how movies are made, film production, making a film
 - How films are made
   - Development

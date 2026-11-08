@@ -1,3 +1,4 @@
+category: Technology
 aliases: how do search engines work, how search engines rank pages, how does google search work, search engine explained
 - How search engines work
   - Crawling the web

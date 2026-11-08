@@ -1,3 +1,4 @@
+category: Money and work
 aliases: working from home, work from home, wfh, remote working, telecommuting
 - Remote work
   - Forms it takes

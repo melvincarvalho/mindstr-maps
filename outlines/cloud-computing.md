@@ -1,3 +1,4 @@
+category: Technology
 aliases: what is cloud computing, the cloud, cloud services
 - Cloud computing
   - What it is

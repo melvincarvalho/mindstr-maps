@@ -1,3 +1,4 @@
+category: Travel
 aliases: camping trip, go camping, camping checklist, camping for beginners
 - Plan a camping trip
   - Choose where and when

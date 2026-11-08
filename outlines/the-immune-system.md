@@ -1,3 +1,4 @@
+category: Science
 aliases: immune system, how the immune system works, how immunity works, immune system explained
 - The immune system
   - Physical barriers

@@ -1,3 +1,4 @@
+category: Technology
 aliases: electric vehicles, ev, evs, electric car, how electric cars work
 - Electric cars
   - How they work

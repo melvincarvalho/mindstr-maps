@@ -1,3 +1,4 @@
+category: Science
 aliases: global warming, climate crisis, climate change explained
 - Climate change
   - The greenhouse effect

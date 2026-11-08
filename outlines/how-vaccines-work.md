@@ -1,3 +1,4 @@
+category: Health
 aliases: vaccines, vaccination, how do vaccines work
 - How vaccines work
   - The immune system basics

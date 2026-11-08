@@ -1,3 +1,4 @@
+category: History
 aliases: ancient greeks, classical greece, ancient greek history, ancient greek civilization
 - Ancient Greece
   - City-states and land

@@ -1,3 +1,4 @@
+category: Arts and culture
 aliases: impressionist art, impressionist painters, impressionists, french impressionism
 - Impressionism
   - Origins in 1860s–70s Paris

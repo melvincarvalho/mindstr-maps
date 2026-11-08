@@ -1,3 +1,4 @@
+category: Science
 aliases: how electricity works, electricity explained, electric current, basics of electricity
 - Electricity
   - What it is

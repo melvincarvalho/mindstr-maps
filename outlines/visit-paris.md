@@ -1,3 +1,4 @@
+category: Travel
 aliases: paris trip, things to do in paris, paris itinerary, paris travel guide
 - Visit Paris
   - Plan ahead

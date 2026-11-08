@@ -1,3 +1,4 @@
+category: Science
 aliases: force of gravity, how gravity works, gravitation, law of gravity
 - Gravity
   - What it is

@@ -1,3 +1,4 @@
+category: Life and home
 aliases: moving home, house move, how to move house, moving house checklist
 - Moving house
   - Plan ahead

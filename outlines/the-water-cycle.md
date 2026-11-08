@@ -1,3 +1,4 @@
+category: Science
 aliases: hydrologic cycle, hydrological cycle, how the water cycle works, water cycle explained
 - The water cycle
   - Evaporation

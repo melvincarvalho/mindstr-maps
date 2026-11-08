@@ -1,3 +1,4 @@
+category: Travel
 aliases: backpacking europe, europe backpacking trip, interrail trip, eurail trip
 - Backpacking in Europe
   - Plan the route

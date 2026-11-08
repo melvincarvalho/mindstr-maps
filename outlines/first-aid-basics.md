@@ -1,3 +1,4 @@
+category: Health
 aliases: first aid, basic first aid, emergency first aid, first aid for beginners
 - First aid basics
   - Assess the scene first

@@ -1,3 +1,4 @@
+category: Learn a skill
 aliases: how to draw, drawing for beginners, learn drawing, drawing basics
 - Learn to draw
   - Gather simple materials

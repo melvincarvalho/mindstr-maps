@@ -1,3 +1,4 @@
+category: Money and work
 aliases: presentation skills, how to give a speech, give a presentation, fear of public speaking
 - Public speaking
   - Know your audience and goal

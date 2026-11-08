@@ -1,3 +1,4 @@
+category: History
 aliases: roman empire, the romans, rome history, roman republic
 - Ancient Rome
   - Three eras

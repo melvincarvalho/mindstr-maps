@@ -1,3 +1,4 @@
+category: Health
 aliases: sleep better, how to sleep better, sleep hygiene, can't sleep
 - Better sleep
   - Keep a regular schedule

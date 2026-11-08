@@ -1,3 +1,4 @@
+category: Travel
 aliases: packing list, travel packing list, what to pack, packing tips
 - Pack for travel
   - Start with a list

@@ -1,3 +1,4 @@
+category: Money and work
 aliases: salary negotiation, how to negotiate salary, negotiate pay, pay negotiation
 - Negotiate a salary
   - Research your market value

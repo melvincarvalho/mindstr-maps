@@ -1,3 +1,4 @@
+category: History
 aliases: ww2, wwii, second world war, world war 2
 - World War II
   - Causes

@@ -1,3 +1,4 @@
+category: Science
 aliases: what is biodiversity, biological diversity, biodiversity loss
 - Biodiversity
   - Three levels of variety

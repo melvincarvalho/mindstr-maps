@@ -1,3 +1,4 @@
+category: Travel
 aliases: london trip, things to do in london, london travel guide, london itinerary
 - Visit London
   - Plan ahead

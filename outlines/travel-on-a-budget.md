@@ -1,3 +1,4 @@
+category: Travel
 aliases: budget travel, cheap travel, travel cheaply, how to travel cheap
 - Travel on a budget
   - Set a budget

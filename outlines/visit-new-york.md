@@ -1,3 +1,4 @@
+category: Travel
 aliases: new york city trip, nyc trip, things to do in nyc, new york itinerary
 - Visit New York
   - Plan ahead

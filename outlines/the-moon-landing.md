@@ -1,3 +1,4 @@
+category: History
 aliases: apollo 11, first moon landing, moon landing 1969, man on the moon
 - The Moon landing
   - The space race

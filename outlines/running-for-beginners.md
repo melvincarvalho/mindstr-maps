@@ -1,3 +1,4 @@
+category: Health
 aliases: start running, how to start running, beginner running, couch to 5k
 - Running for beginners
   - Get ready

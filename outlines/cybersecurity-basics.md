@@ -1,3 +1,4 @@
+category: Technology
 aliases: cyber security basics, online security, stay safe online, computer security basics
 - Cybersecurity basics
   - Common threats

@@ -1,3 +1,4 @@
+category: Society
 aliases: how recycling works, how to recycle, what can be recycled, recycling tips
 - Recycling
   - Why recycle

@@ -1,3 +1,4 @@
+category: Technology
 aliases: bitcoin, what is bitcoin, bitcoin explained, btc
 - How Bitcoin works
   - What it is

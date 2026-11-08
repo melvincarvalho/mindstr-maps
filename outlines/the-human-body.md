@@ -1,3 +1,4 @@
+category: Health
 aliases: human body, human anatomy, body systems, how the body works
 - The human body
   - Building blocks

@@ -1,3 +1,4 @@
+category: Health
 aliases: strength training, weight training for beginners, resistance training, beginner weightlifting
 - Strength training basics
   - Why do it

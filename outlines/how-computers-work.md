@@ -1,3 +1,4 @@
+category: Technology
 aliases: how do computers work, how a computer works, computer basics
 - How computers work
   - Everything is binary

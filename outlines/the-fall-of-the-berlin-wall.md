@@ -1,3 +1,4 @@
+category: History
 aliases: berlin wall, fall of berlin wall, berlin wall falls, berlin wall 1989
 - The fall of the Berlin Wall
   - A divided city

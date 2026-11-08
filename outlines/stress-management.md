@@ -1,3 +1,4 @@
+category: Health
 aliases: manage stress, how to deal with stress, coping with stress, reduce stress, stress relief
 - Stress management
   - Understand stress

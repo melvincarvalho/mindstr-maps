@@ -1,3 +1,4 @@
+category: Money and work
 aliases: how to invest, investing for beginners, how to start investing, beginner investing
 - Start investing
   - Get ready first

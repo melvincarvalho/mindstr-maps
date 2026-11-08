@@ -1,3 +1,4 @@
+category: Learn a skill
 aliases: learn programming, how to code, coding for beginners, start coding
 - Learn to code
   - Pick a goal and one language

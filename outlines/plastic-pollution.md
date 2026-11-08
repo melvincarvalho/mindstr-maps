@@ -1,3 +1,4 @@
+category: Society
 aliases: plastic waste, ocean plastic, plastic in the ocean, plastic pollution facts
 - [Plastic pollution](https://en.wikipedia.org/wiki/Plastic_pollution)
   - The scale

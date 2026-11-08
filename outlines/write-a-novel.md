@@ -1,3 +1,4 @@
+category: Learn a skill
 aliases: how to write a novel, novel writing, writing a novel
 - Write a novel
   - Find the idea

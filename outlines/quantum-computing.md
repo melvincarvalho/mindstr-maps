@@ -1,3 +1,4 @@
+category: Technology
 aliases: quantum computer, quantum computers, quantum computation
 - Quantum computing
   - Core ideas

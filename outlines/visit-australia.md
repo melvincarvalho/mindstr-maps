@@ -1,3 +1,4 @@
+category: Travel
 aliases: australia trip, travel to australia, australia itinerary, things to do in australia
 - Visit Australia
   - Plan ahead

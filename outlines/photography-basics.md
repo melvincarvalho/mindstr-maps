@@ -1,3 +1,4 @@
+category: Learn a skill
 aliases: learn photography, photography for beginners, how to take better photos, camera basics
 - Photography basics
   - [The exposure triangle](https://en.wikipedia.org/wiki/Exposure_%28photography%29)

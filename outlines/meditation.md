@@ -1,3 +1,4 @@
+category: Health
 aliases: how to meditate, learn to meditate, meditation for beginners, mindfulness meditation
 - Meditation
   - What it is

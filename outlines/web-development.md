@@ -1,3 +1,4 @@
+category: Technology
 aliases: web dev, website development, how to build a website, learn web development
 - Web development
   - The three core languages

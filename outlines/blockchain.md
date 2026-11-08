@@ -1,3 +1,4 @@
+category: Technology
 aliases: what is blockchain, blockchain technology, how blockchain works, distributed ledger
 - Blockchain
   - The basic idea

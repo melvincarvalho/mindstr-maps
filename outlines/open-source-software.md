@@ -1,3 +1,4 @@
+category: Technology
 aliases: open source, what is open source, foss, free and open source software
 - Open source software
   - What it means

@@ -1,3 +1,4 @@
+category: Society
 aliases: how do cities work, how a city works, city systems
 - How cities work
   - Why cities exist

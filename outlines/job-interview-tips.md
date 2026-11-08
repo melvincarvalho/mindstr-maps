@@ -1,3 +1,4 @@
+category: Money and work
 aliases: interview tips, prepare for an interview, job interview preparation, how to ace an interview
 - Job interview tips
   - Research before the day

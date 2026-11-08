@@ -1,3 +1,4 @@
+category: Science
 aliases: dna, genetics, genes and dna, what is dna
 - DNA and genetics
   - The DNA molecule

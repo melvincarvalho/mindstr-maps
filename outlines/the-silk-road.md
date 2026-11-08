@@ -1,3 +1,4 @@
+category: History
 aliases: silk road, silk route, silk roads, ancient silk road
 - The Silk Road
   - What it was

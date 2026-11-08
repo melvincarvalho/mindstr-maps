@@ -1,3 +1,4 @@
+category: Money and work
 aliases: manage my time, productivity tips, time management tips, be more productive
 - Time management
   - See where time goes

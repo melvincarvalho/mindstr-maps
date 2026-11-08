@@ -1,3 +1,4 @@
+category: Health
 aliases: healthy diet, balanced diet, how to eat healthy, eat healthy
 - Healthy eating
   - [Build a balanced plate](https://en.wikipedia.org/wiki/Healthy_diet)

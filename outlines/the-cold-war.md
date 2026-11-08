@@ -1,3 +1,4 @@
+category: History
 aliases: cold war, cold war history, us soviet cold war
 - The Cold War
   - Two rival superpowers, 1947 to 1991

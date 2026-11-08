@@ -1,3 +1,4 @@
+category: Learn a skill
 aliases: language learning, learn a foreign language, how to learn a language
 - Learn a new language
   - Set a clear reason and goal

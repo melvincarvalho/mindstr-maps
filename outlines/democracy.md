@@ -1,3 +1,4 @@
+category: Society
 aliases: what is democracy, how democracy works, democratic government
 - Democracy
   - The core idea

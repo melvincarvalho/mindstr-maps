@@ -1,3 +1,4 @@
+category: Learn a skill
 aliases: guitar for beginners, how to play guitar, learn to play guitar, beginner guitar
 - Learn guitar
   - Choose a guitar

@@ -1,3 +1,4 @@
+category: Money and work
 aliases: stock market explained, how do stocks work, how does the stock market work, stock market basics
 - How the stock market works
   - What a share is

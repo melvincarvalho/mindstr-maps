@@ -1,3 +1,4 @@
+category: Science
 aliases: theory of evolution, evolution by natural selection, darwinism
 - Evolution
   - The core idea

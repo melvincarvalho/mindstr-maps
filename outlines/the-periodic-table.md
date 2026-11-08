@@ -1,3 +1,4 @@
+category: Science
 aliases: periodic table, periodic table of elements, periodic table of the elements, chemical elements
 - The periodic table
   - What it shows

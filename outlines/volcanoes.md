@@ -1,3 +1,4 @@
+category: Science
 aliases: volcano, how volcanoes form, volcanic eruptions, how volcanoes work
 - Volcanoes
   - Where they form

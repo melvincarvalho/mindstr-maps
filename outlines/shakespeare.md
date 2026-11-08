@@ -1,3 +1,4 @@
+category: Arts and culture
 aliases: william shakespeare, shakespeare plays, the bard
 - Shakespeare
   - His life

@@ -1,3 +1,4 @@
+category: Science
 aliases: scientific method, how science works, steps of the scientific method, the scientific process
 - The scientific method
   - Observe and ask

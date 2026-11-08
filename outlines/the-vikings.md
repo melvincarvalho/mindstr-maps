@@ -1,3 +1,4 @@
+category: History
 aliases: vikings, viking age, norsemen, viking history
 - The Vikings
   - Who they were

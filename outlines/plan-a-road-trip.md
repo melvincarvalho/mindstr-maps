@@ -1,3 +1,4 @@
+category: Travel
 aliases: road trip planning, road trip checklist, how to plan a road trip
 - Plan a road trip
   - Choose route and pace

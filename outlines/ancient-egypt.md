@@ -1,3 +1,4 @@
+category: History
 aliases: ancient egyptians, egyptian pharaohs, egyptian civilization
 - Ancient Egypt
   - The gift of the Nile

@@ -7,11 +7,18 @@
 //   - Plan a trip to Japan
 //     - When to go
 //       - [Cherry blossom](https://en.wikipedia.org/wiki/Cherry_blossom)
-// An optional first line `aliases: japan trip, visit japan` adds other ways people ask for it.
+// Optional first lines: `category: Travel` files it in the directory (one of CATEGORIES), and
+// `aliases: japan trip, visit japan` adds other ways people ask for it.
 
 import { readdirSync, readFileSync, writeFileSync } from 'node:fs'
 
 const MAX_WORDS = 7
+// The directory's sections, in order: Wikipedia's Vital Articles top level, plus our own for
+// doing things (Money and work, Learn a skill, Life and home, Travel)
+export const CATEGORIES = [
+  'Science', 'Health', 'Technology', 'History', 'Arts and culture', 'Society', 'Geography', 'Mathematics',
+  'People', 'Philosophy and religion', 'Money and work', 'Learn a skill', 'Life and home', 'Travel'
+]
 const check = process.argv.includes('--check')
 
 // How a search becomes a file name, and how mindstr finds a map: lower case, accents dropped,
@@ -22,7 +29,12 @@ export const slug = text =>
 
 function parse(text, file) {
   const lines = text.split('\n')
-  const aliases = /^aliases:/i.test(lines[0] || '') ? lines.shift().slice(8).split(',').map(s => s.trim()).filter(Boolean) : []
+  let aliases = []
+  let category = null
+  for (let m; (m = (lines[0] || '').match(/^(aliases|category):\s*(.*)$/i)); lines.shift()) {
+    if (m[1].toLowerCase() === 'aliases') aliases = m[2].split(',').map(s => s.trim()).filter(Boolean)
+    else category = m[2].trim()
+  }
   const stack = []
   let root = null
   const problems = []
@@ -50,7 +62,9 @@ function parse(text, file) {
     stack.length = depth + 1
   }
   if (!root) problems.push('no root')
-  return { root, aliases, problems: problems.map(p => `${file}: ${p}`) }
+  if (!category) problems.push('no category: line')
+  else if (!CATEGORIES.includes(category)) problems.push(`unknown category "${category}" (one of: ${CATEGORIES.join(', ')})`)
+  return { root, aliases, category, problems: problems.map(p => `${file}: ${p}`) }
 }
 
 // Seeded ids, so rebuilding a map keeps its ids (mindstr's examples do the same)
@@ -122,7 +136,7 @@ const index = []
 const problems = []
 const seen = new Map()
 for (const file of files) {
-  const { root, aliases, problems: p } = parse(readFileSync(`outlines/${file}`, 'utf8'), file)
+  const { root, aliases, category, problems: p } = parse(readFileSync(`outlines/${file}`, 'utf8'), file)
   problems.push(...p)
   if (!root) continue
   const key = file.replace(/\.md$/, '')
@@ -138,12 +152,13 @@ for (const file of files) {
   }
   const map = layout(root, key)
   if (!check) writeFileSync(`maps/${key}.json`, JSON.stringify(map, null, 2) + '\n')
-  index.push({ topic: root.name, slug: key, aliases: aliases.map(slug).filter(a => a !== key), file: `maps/${key}.json`, nodes: map.nodes.length })
+  index.push({ topic: root.name, slug: key, category, aliases: aliases.map(slug).filter(a => a !== key), file: `maps/${key}.json`, nodes: map.nodes.length })
 }
 if (!check) {
   // every way to ask → the map's file, for a one-fetch lookup
   const lookup = Object.fromEntries([...seen].sort().map(([s, key]) => [s, `maps/${key}.json`]))
-  writeFileSync('index.json', JSON.stringify({ version: 1, maps: index, lookup }, null, 2) + '\n')
+  const categories = CATEGORIES.map(name => ({ name, maps: index.filter(m => m.category === name).length })).filter(c => c.maps)
+  writeFileSync('index.json', JSON.stringify({ version: 1, categories, maps: index, lookup }, null, 2) + '\n')
 }
 console.log(`${index.length} maps, ${index.reduce((s, m) => s + m.nodes, 0)} nodes, ${problems.length} problems`)
 for (const p of problems) console.log('  ' + p)

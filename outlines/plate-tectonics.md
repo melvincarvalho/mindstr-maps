@@ -1,3 +1,4 @@
+category: Science
 aliases: tectonic plates, continental drift, plate tectonic theory, how tectonic plates move
 - Plate tectonics
   - The basic idea

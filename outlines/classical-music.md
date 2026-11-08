@@ -1,3 +1,4 @@
+category: Arts and culture
 aliases: western classical music, orchestral music, classical composers
 - Classical music
   - Baroque era, about 1600–1750

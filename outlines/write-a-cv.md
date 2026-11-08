@@ -1,3 +1,4 @@
+category: Money and work
 aliases: resume, write a resume, curriculum vitae, cv tips
 - Write a CV
   - Research the role first
