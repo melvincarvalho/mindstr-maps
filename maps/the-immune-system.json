@@ -1,0 +1,342 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "The immune system",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#p367kq",
+      "name": "Physical barriers",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vckdpj",
+      "name": "Skin blocks most germs",
+      "x": -445,
+      "y": -51,
+      "parent": "#p367kq"
+    },
+    {
+      "@id": "#5zfpfc",
+      "name": "Mucus and nose hairs trap invaders",
+      "x": -409,
+      "y": -150,
+      "parent": "#p367kq"
+    },
+    {
+      "@id": "#86ar3u",
+      "name": "Stomach acid kills swallowed microbes",
+      "x": -340,
+      "y": -236,
+      "parent": "#p367kq"
+    },
+    {
+      "@id": "#qhv58w",
+      "name": "Tears and saliva contain germ-killing enzymes",
+      "x": -243,
+      "y": -303,
+      "parent": "#p367kq"
+    },
+    {
+      "@id": "#ttk92d",
+      "name": "Innate immunity: fast and general",
+      "x": 33,
+      "y": -182,
+      "link": "https://en.wikipedia.org/wiki/Innate_immune_system",
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#n5k38r",
+      "name": "Phagocytes engulf and digest germs",
+      "x": -133,
+      "y": -360,
+      "parent": "#ttk92d"
+    },
+    {
+      "@id": "#zjffyh",
+      "name": "Inflammation: heat, redness and swelling",
+      "x": 0,
+      "y": -408,
+      "parent": "#ttk92d"
+    },
+    {
+      "@id": "#qk9jk9",
+      "name": "Fever slows microbe growth",
+      "x": 175,
+      "y": -465,
+      "parent": "#ttk92d"
+    },
+    {
+      "@id": "#qpf4et",
+      "name": "Natural killer cells attack infected cells",
+      "x": 243,
+      "y": -303,
+      "parent": "#ttk92d"
+    },
+    {
+      "@id": "#vecvne",
+      "name": "Adaptive immunity: targeted, takes days",
+      "x": 221,
+      "y": -52,
+      "link": "https://en.wikipedia.org/wiki/Adaptive_immune_system",
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rrftpb",
+      "name": "Recognises specific antigens on invaders",
+      "x": 340,
+      "y": -236,
+      "parent": "#vecvne"
+    },
+    {
+      "@id": "#675z9t",
+      "name": "B cells make antibodies",
+      "x": 409,
+      "y": -150,
+      "link": "https://en.wikipedia.org/wiki/Antibody",
+      "parent": "#vecvne"
+    },
+    {
+      "@id": "#etebij",
+      "name": "Helper T cells coordinate the response",
+      "x": 645,
+      "y": -71,
+      "link": "https://en.wikipedia.org/wiki/T_cell",
+      "parent": "#vecvne"
+    },
+    {
+      "@id": "#77yxqy",
+      "name": "Killer T cells destroy infected cells",
+      "x": 445,
+      "y": 51,
+      "parent": "#vecvne"
+    },
+    {
+      "@id": "#bnhp99",
+      "name": "Immune memory",
+      "x": 174,
+      "y": 120,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ts625i",
+      "name": "Memory cells remember past invaders",
+      "x": 445,
+      "y": 164,
+      "parent": "#bnhp99"
+    },
+    {
+      "@id": "#btdqib",
+      "name": "Second infections are fought off faster",
+      "x": 340,
+      "y": 236,
+      "parent": "#bnhp99"
+    },
+    {
+      "@id": "#6vnedr",
+      "name": "Vaccines build memory without the disease",
+      "x": 243,
+      "y": 303,
+      "parent": "#bnhp99"
+    },
+    {
+      "@id": "#n29p7f",
+      "name": "Organs and tissues",
+      "x": -33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ruun7s",
+      "name": "Bone marrow makes immune cells",
+      "x": 133,
+      "y": 360,
+      "parent": "#n29p7f"
+    },
+    {
+      "@id": "#ydtkbg",
+      "name": "Thymus trains young T cells",
+      "x": 0,
+      "y": 408,
+      "parent": "#n29p7f"
+    },
+    {
+      "@id": "#59k54q",
+      "name": "Lymph nodes filter lymph and swell",
+      "x": -175,
+      "y": 465,
+      "parent": "#n29p7f"
+    },
+    {
+      "@id": "#f9nxxz",
+      "name": "Spleen filters the blood",
+      "x": -243,
+      "y": 303,
+      "parent": "#n29p7f"
+    },
+    {
+      "@id": "#6h2f63",
+      "name": "When it goes wrong",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4vk86d",
+      "name": "Allergies overreact to harmless things",
+      "x": -340,
+      "y": 236,
+      "parent": "#6h2f63"
+    },
+    {
+      "@id": "#guj7t9",
+      "name": "Autoimmune disease attacks the body itself",
+      "x": -409,
+      "y": 150,
+      "link": "https://en.wikipedia.org/wiki/Autoimmune_disease",
+      "parent": "#6h2f63"
+    },
+    {
+      "@id": "#mi6aqt",
+      "name": "Immunodeficiency leaves the body vulnerable",
+      "x": -545,
+      "y": 61,
+      "parent": "#6h2f63"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Meditation",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#bgja4s",
+      "name": "What it is",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rfprht",
+      "name": "Training attention and awareness",
+      "x": -465,
+      "y": -56,
+      "parent": "#bgja4s"
+    },
+    {
+      "@id": "#yhjy82",
+      "name": "Roots in Hindu and Buddhist traditions",
+      "x": -405,
+      "y": -156,
+      "link": "https://en.wikipedia.org/wiki/Meditation",
+      "parent": "#bgja4s"
+    },
+    {
+      "@id": "#azgcth",
+      "name": "Secular forms now widely practised",
+      "x": -330,
+      "y": -245,
+      "parent": "#bgja4s"
+    },
+    {
+      "@id": "#pnenyr",
+      "name": "Common styles",
+      "x": 17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fj65gx",
+      "name": "Mindfulness: notice without judging",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Mindfulness",
+      "parent": "#pnenyr"
+    },
+    {
+      "@id": "#me5rm7",
+      "name": "Focused attention on the breath",
+      "x": -104,
+      "y": -367,
+      "parent": "#pnenyr"
+    },
+    {
+      "@id": "#g96xj9",
+      "name": "Loving-kindness: wishing others well",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Mett%C4%81",
+      "parent": "#pnenyr"
+    },
+    {
+      "@id": "#b6dqz5",
+      "name": "Body scan from head to toe",
+      "x": 234,
+      "y": -485,
+      "parent": "#pnenyr"
+    },
+    {
+      "@id": "#xqvzmq",
+      "name": "Mantra repetition, silently or aloud",
+      "x": 281,
+      "y": -281,
+      "parent": "#pnenyr"
+    },
+    {
+      "@id": "#t8qkzs",
+      "name": "How to start",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#iscgdd",
+      "name": "Sit comfortably, back upright",
+      "x": 372,
+      "y": -203,
+      "parent": "#t8qkzs"
+    },
+    {
+      "@id": "#svuu9n",
+      "name": "Begin with 5 to 10 minutes",
+      "x": 430,
+      "y": -106,
+      "parent": "#t8qkzs"
+    },
+    {
+      "@id": "#6rybpv",
+      "name": "Follow the breath in and out",
+      "x": 470,
+      "y": 0,
+      "parent": "#t8qkzs"
+    },
+    {
+      "@id": "#g2bsuw",
+      "name": "Mind wanders? Gently come back",
+      "x": 430,
+      "y": 106,
+      "parent": "#t8qkzs"
+    },
+    {
+      "@id": "#hyc6xc",
+      "name": "Same time each day builds habit",
+      "x": 372,
+      "y": 203,
+      "parent": "#t8qkzs"
+    },
+    {
+      "@id": "#gg9bt2",
+      "name": "Helpful tools",
+      "x": 84,
+      "y": 171,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y6pxwq",
+      "name": "Guided recordings and apps",
+      "x": 281,
+      "y": 281,
+      "parent": "#gg9bt2"
+    },
+    {
+      "@id": "#x3fg8d",
+      "name": "A timer with a gentle bell",
+      "x": 164,
+      "y": 335,
+      "parent": "#gg9bt2"
+    },
+    {
+      "@id": "#q6fkkw",
+      "name": "Local groups or courses",
+      "x": 38,
+      "y": 391,
+      "parent": "#gg9bt2"
+    },
+    {
+      "@id": "#suq4qt",
+      "name": "What research suggests",
+      "x": -135,
+      "y": 187,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5bf6tb",
+      "name": "Can modestly ease stress and anxiety",
+      "x": -124,
+      "y": 447,
+      "parent": "#suq4qt"
+    },
+    {
+      "@id": "#58uzu4",
+      "name": "MBSR: a structured eight-week course",
+      "x": -225,
+      "y": 312,
+      "link": "https://en.wikipedia.org/wiki/Mindfulness-based_stress_reduction",
+      "parent": "#suq4qt"
+    },
+    {
+      "@id": "#fjmc5b",
+      "name": "Effects vary; not a cure-all",
+      "x": -330,
+      "y": 245,
+      "parent": "#suq4qt"
+    },
+    {
+      "@id": "#nbs9ne",
+      "name": "Take care",
+      "x": -220,
+      "y": 54,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xc8d3u",
+      "name": "Can stir up difficult feelings",
+      "x": -423,
+      "y": 163,
+      "parent": "#nbs9ne"
+    },
+    {
+      "@id": "#563q8j",
+      "name": "Trauma or mental illness: seek guidance",
+      "x": -505,
+      "y": 60,
+      "parent": "#nbs9ne"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 11,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

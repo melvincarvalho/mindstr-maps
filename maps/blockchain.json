@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Blockchain",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#bknju2",
+      "name": "The basic idea",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b2vxbc",
+      "name": "Shared ledger copied across many computers",
+      "x": -445,
+      "y": -54,
+      "link": "https://en.wikipedia.org/wiki/Distributed_ledger",
+      "parent": "#bknju2"
+    },
+    {
+      "@id": "#jn9g8r",
+      "name": "Records grouped into blocks",
+      "x": -405,
+      "y": -156,
+      "parent": "#bknju2"
+    },
+    {
+      "@id": "#xgxb2j",
+      "name": "Each block stores the previous block's hash",
+      "x": -330,
+      "y": -245,
+      "link": "https://en.wikipedia.org/wiki/Cryptographic_hash_function",
+      "parent": "#bknju2"
+    },
+    {
+      "@id": "#yqxajr",
+      "name": "Changing old data breaks the chain",
+      "x": -225,
+      "y": -312,
+      "parent": "#bknju2"
+    },
+    {
+      "@id": "#g7yx4i",
+      "name": "Origins",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#miumju",
+      "name": "Haber and Stornetta chained timestamps, 1991",
+      "x": -104,
+      "y": -367,
+      "parent": "#g7yx4i"
+    },
+    {
+      "@id": "#23a2s4",
+      "name": "Bitcoin was the first, 2009",
+      "x": 42,
+      "y": -423,
+      "parent": "#g7yx4i"
+    },
+    {
+      "@id": "#a8vxi6",
+      "name": "Reaching agreement",
+      "x": 169,
+      "y": -125,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cd9p77",
+      "name": "Consensus rules pick the next block",
+      "x": 234,
+      "y": -485,
+      "parent": "#a8vxi6"
+    },
+    {
+      "@id": "#aagfnc",
+      "name": "Proof of work spends computing power",
+      "x": 281,
+      "y": -281,
+      "parent": "#a8vxi6"
+    },
+    {
+      "@id": "#5pben4",
+      "name": "Proof of stake locks up coins",
+      "x": 372,
+      "y": -203,
+      "link": "https://en.wikipedia.org/wiki/Proof_of_stake",
+      "parent": "#a8vxi6"
+    },
+    {
+      "@id": "#5uax3m",
+      "name": "No single party in control",
+      "x": 430,
+      "y": -106,
+      "parent": "#a8vxi6"
+    },
+    {
+      "@id": "#a49h2i",
+      "name": "Kinds of blockchain",
+      "x": 220,
+      "y": 54,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5gcm96",
+      "name": "Public: anyone can join and read",
+      "x": 450,
+      "y": 0,
+      "parent": "#a49h2i"
+    },
+    {
+      "@id": "#u4vswq",
+      "name": "Private: one organisation controls access",
+      "x": 430,
+      "y": 106,
+      "parent": "#a49h2i"
+    },
+    {
+      "@id": "#y64ztu",
+      "name": "Consortium: shared by a group",
+      "x": 372,
+      "y": 203,
+      "parent": "#a49h2i"
+    },
+    {
+      "@id": "#4hnwd3",
+      "name": "Beyond currency",
+      "x": 51,
+      "y": 179,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hswteh",
+      "name": "Smart contracts run code automatically",
+      "x": 281,
+      "y": 281,
+      "link": "https://en.wikipedia.org/wiki/Smart_contract",
+      "parent": "#4hnwd3"
+    },
+    {
+      "@id": "#8xkgvs",
+      "name": "Ethereum brought smart contracts, 2015",
+      "x": 164,
+      "y": 335,
+      "link": "https://en.wikipedia.org/wiki/Ethereum",
+      "parent": "#4hnwd3"
+    },
+    {
+      "@id": "#bsmu8m",
+      "name": "Stablecoins track currencies like the dollar",
+      "x": 38,
+      "y": 391,
+      "parent": "#4hnwd3"
+    },
+    {
+      "@id": "#4qc287",
+      "name": "NFTs record ownership of tokens",
+      "x": -124,
+      "y": 447,
+      "parent": "#4hnwd3"
+    },
+    {
+      "@id": "#jyh48i",
+      "name": "Limits and criticism",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6v5inj",
+      "name": "Slower and costlier than ordinary databases",
+      "x": -365,
+      "y": 508,
+      "parent": "#jyh48i"
+    },
+    {
+      "@id": "#nxvhdn",
+      "name": "Proof of work uses much energy",
+      "x": -330,
+      "y": 245,
+      "parent": "#jyh48i"
+    },
+    {
+      "@id": "#8z2x8y",
+      "name": "Mistakes and hacks are hard to reverse",
+      "x": -405,
+      "y": 156,
+      "parent": "#jyh48i"
+    },
+    {
+      "@id": "#ejk6qe",
+      "name": "Often unnecessary when parties trust each other",
+      "x": -445,
+      "y": 54,
+      "parent": "#jyh48i"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

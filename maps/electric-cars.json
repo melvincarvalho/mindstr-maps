@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Electric cars",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#bkpqvn",
+      "name": "How they work",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pa95sq",
+      "name": "Lithium-ion battery stores the energy",
+      "x": -445,
+      "y": -54,
+      "link": "https://en.wikipedia.org/wiki/Lithium-ion_battery",
+      "parent": "#bkpqvn"
+    },
+    {
+      "@id": "#9gin37",
+      "name": "Electric motor drives the wheels",
+      "x": -405,
+      "y": -156,
+      "parent": "#bkpqvn"
+    },
+    {
+      "@id": "#xgrzv4",
+      "name": "Regenerative braking recharges while slowing",
+      "x": -330,
+      "y": -245,
+      "link": "https://en.wikipedia.org/wiki/Regenerative_braking",
+      "parent": "#bkpqvn"
+    },
+    {
+      "@id": "#tr8bjs",
+      "name": "Far fewer moving parts than engines",
+      "x": -225,
+      "y": -312,
+      "parent": "#bkpqvn"
+    },
+    {
+      "@id": "#z6c6w9",
+      "name": "Types",
+      "x": 17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jyqtjt",
+      "name": "Battery electric: plug-in only",
+      "x": -104,
+      "y": -367,
+      "parent": "#z6c6w9"
+    },
+    {
+      "@id": "#ngkynn",
+      "name": "Plug-in hybrid adds a petrol engine",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Plug-in_hybrid",
+      "parent": "#z6c6w9"
+    },
+    {
+      "@id": "#ghc6yj",
+      "name": "Regular hybrids can't plug in",
+      "x": 234,
+      "y": -485,
+      "parent": "#z6c6w9"
+    },
+    {
+      "@id": "#9zjabh",
+      "name": "Charging",
+      "x": 190,
+      "y": -104,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e3vcsn",
+      "name": "Home charging overnight is cheapest",
+      "x": 281,
+      "y": -281,
+      "parent": "#9zjabh"
+    },
+    {
+      "@id": "#yrpfhn",
+      "name": "Rapid chargers: 80% in about 30 minutes",
+      "x": 372,
+      "y": -203,
+      "link": "https://en.wikipedia.org/wiki/Charging_station",
+      "parent": "#9zjabh"
+    },
+    {
+      "@id": "#g2ea68",
+      "name": "Connector types: CCS, Type 2, NACS",
+      "x": 449,
+      "y": -111,
+      "parent": "#9zjabh"
+    },
+    {
+      "@id": "#xkiabh",
+      "name": "Range and running costs",
+      "x": 207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ftg3q2",
+      "name": "Typical range about 200–300 miles",
+      "x": 450,
+      "y": 0,
+      "parent": "#xkiabh"
+    },
+    {
+      "@id": "#ii7q6a",
+      "name": "Cold weather reduces range",
+      "x": 487,
+      "y": 121,
+      "parent": "#xkiabh"
+    },
+    {
+      "@id": "#qpxcu4",
+      "name": "Cheaper to fuel and service",
+      "x": 372,
+      "y": 203,
+      "parent": "#xkiabh"
+    },
+    {
+      "@id": "#hq59uw",
+      "name": "Higher purchase price, gap narrowing",
+      "x": 281,
+      "y": 281,
+      "parent": "#xkiabh"
+    },
+    {
+      "@id": "#4fmcb9",
+      "name": "Environmental impact",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ay4hyp",
+      "name": "No tailpipe exhaust emissions",
+      "x": 164,
+      "y": 335,
+      "parent": "#4fmcb9"
+    },
+    {
+      "@id": "#t43gkv",
+      "name": "Battery making adds emissions upfront",
+      "x": 38,
+      "y": 391,
+      "parent": "#4fmcb9"
+    },
+    {
+      "@id": "#ssb7sz",
+      "name": "Lower lifetime emissions on most grids",
+      "x": -124,
+      "y": 447,
+      "link": "https://en.wikipedia.org/wiki/Electric_car",
+      "parent": "#4fmcb9"
+    },
+    {
+      "@id": "#pvky7z",
+      "name": "Batteries can be recycled or reused",
+      "x": -225,
+      "y": 312,
+      "parent": "#4fmcb9"
+    },
+    {
+      "@id": "#izznn6",
+      "name": "Before you buy",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#abctvr",
+      "name": "Check charging at home and work",
+      "x": -330,
+      "y": 245,
+      "parent": "#izznn6"
+    },
+    {
+      "@id": "#d8r2xy",
+      "name": "Compare range with your longest trips",
+      "x": -405,
+      "y": 156,
+      "parent": "#izznn6"
+    },
+    {
+      "@id": "#ngegb8",
+      "name": "Battery warranties often run 8 years",
+      "x": -485,
+      "y": 58,
+      "parent": "#izznn6"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

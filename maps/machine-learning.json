@@ -1,0 +1,342 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Machine learning",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#jfakhr",
+      "name": "The core idea",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2g53x5",
+      "name": "Learn patterns from examples, not rules",
+      "x": -505,
+      "y": -57,
+      "parent": "#jfakhr"
+    },
+    {
+      "@id": "#pebvz6",
+      "name": "A model maps inputs to outputs",
+      "x": -409,
+      "y": -150,
+      "parent": "#jfakhr"
+    },
+    {
+      "@id": "#axa6gp",
+      "name": "Training tunes the model's parameters",
+      "x": -340,
+      "y": -236,
+      "parent": "#jfakhr"
+    },
+    {
+      "@id": "#35gqnh",
+      "name": "How training works",
+      "x": -65,
+      "y": -177,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cp4ph3",
+      "name": "A loss measures how wrong predictions are",
+      "x": -243,
+      "y": -303,
+      "parent": "#35gqnh"
+    },
+    {
+      "@id": "#5c42wa",
+      "name": "Gradient descent nudges parameters to reduce loss",
+      "x": -133,
+      "y": -360,
+      "link": "https://en.wikipedia.org/wiki/Gradient_descent",
+      "parent": "#35gqnh"
+    },
+    {
+      "@id": "#ntym77",
+      "name": "Repeat over the data many times",
+      "x": 0,
+      "y": -408,
+      "parent": "#35gqnh"
+    },
+    {
+      "@id": "#zdyyha",
+      "name": "Three main types",
+      "x": 146,
+      "y": -181,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4vi6cp",
+      "name": "Supervised: learn from labelled examples",
+      "x": 175,
+      "y": -465,
+      "link": "https://en.wikipedia.org/wiki/Supervised_learning",
+      "parent": "#zdyyha"
+    },
+    {
+      "@id": "#etan7t",
+      "name": "Unsupervised: find structure in unlabelled data",
+      "x": 243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Unsupervised_learning",
+      "parent": "#zdyyha"
+    },
+    {
+      "@id": "#wddi45",
+      "name": "Reinforcement: learn by trial and reward",
+      "x": 340,
+      "y": -236,
+      "link": "https://en.wikipedia.org/wiki/Reinforcement_learning",
+      "parent": "#zdyyha"
+    },
+    {
+      "@id": "#afcyzp",
+      "name": "Common algorithms",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dg2bj3",
+      "name": "Linear and logistic regression",
+      "x": 409,
+      "y": -150,
+      "parent": "#afcyzp"
+    },
+    {
+      "@id": "#aqd9kc",
+      "name": "Decision trees and random forests",
+      "x": 445,
+      "y": -51,
+      "parent": "#afcyzp"
+    },
+    {
+      "@id": "#76g8c3",
+      "name": "k-means clustering groups similar points",
+      "x": 445,
+      "y": 51,
+      "parent": "#afcyzp"
+    },
+    {
+      "@id": "#zfaivt",
+      "name": "Neural networks for images and text",
+      "x": 409,
+      "y": 150,
+      "parent": "#afcyzp"
+    },
+    {
+      "@id": "#5piwwf",
+      "name": "The workflow",
+      "x": 65,
+      "y": 177,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#rcgqp8",
+      "name": "Collect and clean the data",
+      "x": 340,
+      "y": 236,
+      "parent": "#5piwwf"
+    },
+    {
+      "@id": "#ij7tbv",
+      "name": "Split into training and test sets",
+      "x": 243,
+      "y": 303,
+      "parent": "#5piwwf"
+    },
+    {
+      "@id": "#vdtnaf",
+      "name": "Train, then measure on test data",
+      "x": 133,
+      "y": 360,
+      "parent": "#5piwwf"
+    },
+    {
+      "@id": "#txtc3u",
+      "name": "Tune features and settings, retrain",
+      "x": 0,
+      "y": 408,
+      "parent": "#5piwwf"
+    },
+    {
+      "@id": "#v6ksk8",
+      "name": "Deploy and monitor for drift",
+      "x": -175,
+      "y": 465,
+      "parent": "#5piwwf"
+    },
+    {
+      "@id": "#dszgq2",
+      "name": "Pitfalls",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3kwjgm",
+      "name": "Overfitting memorises instead of generalising",
+      "x": -243,
+      "y": 303,
+      "link": "https://en.wikipedia.org/wiki/Overfitting",
+      "parent": "#dszgq2"
+    },
+    {
+      "@id": "#72wb7b",
+      "name": "Biased data gives biased models",
+      "x": -340,
+      "y": 236,
+      "parent": "#dszgq2"
+    },
+    {
+      "@id": "#yifwxc",
+      "name": "Correlation is not causation",
+      "x": -409,
+      "y": 150,
+      "parent": "#dszgq2"
+    },
+    {
+      "@id": "#3qsb48",
+      "name": "Garbage in, garbage out",
+      "x": -445,
+      "y": 51,
+      "parent": "#dszgq2"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 18,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

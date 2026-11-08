@@ -1,0 +1,31 @@
+aliases: new york city trip, nyc trip, things to do in nyc, new york itinerary
+- Visit New York
+  - Plan ahead
+    - Spring and autumn are most comfortable
+    - Summers hot and humid, winters cold
+    - Check US entry rules on official sites
+    - Book Broadway shows and viewpoints ahead
+  - Iconic sights
+    - [Statue of Liberty and Ellis Island](https://en.wikipedia.org/wiki/Statue_of_Liberty)
+    - Times Square and the Theater District
+    - Empire State or Top of the Rock
+    - 9/11 Memorial and Museum
+  - Parks and walks
+    - [Central Park's lakes and lawns](https://en.wikipedia.org/wiki/Central_Park)
+    - The High Line, a former railway
+    - Walk across the Brooklyn Bridge
+  - Museums
+    - [The Met on Fifth Avenue](https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art)
+    - MoMA for modern art
+    - American Museum of Natural History
+  - The five boroughs
+    - Manhattan: most famous sights
+    - Brooklyn: neighbourhoods, food and skyline views
+    - Queens: food from around the world
+    - The Bronx: zoo and Yankee Stadium
+    - Free Staten Island Ferry passes Liberty
+  - Getting around
+    - [Subway runs 24 hours a day](https://en.wikipedia.org/wiki/New_York_City_Subway)
+    - Tap a contactless card to ride
+    - Avenues run north–south, streets east–west
+    - Walking is often fastest in Midtown

@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Plate tectonics",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#capfqh",
+      "name": "The basic idea",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#w893uz",
+      "name": "Earth's rigid outer shell is cracked",
+      "x": -445,
+      "y": -54,
+      "link": "https://en.wikipedia.org/wiki/Lithosphere",
+      "parent": "#capfqh"
+    },
+    {
+      "@id": "#6bjm5y",
+      "name": "Seven major plates and many minor",
+      "x": -405,
+      "y": -156,
+      "parent": "#capfqh"
+    },
+    {
+      "@id": "#w3s4c7",
+      "name": "Plates ride on hot, soft mantle rock",
+      "x": -330,
+      "y": -245,
+      "parent": "#capfqh"
+    },
+    {
+      "@id": "#ax5996",
+      "name": "They move a few centimetres a year",
+      "x": -225,
+      "y": -312,
+      "parent": "#capfqh"
+    },
+    {
+      "@id": "#ys2wn4",
+      "name": "What drives them",
+      "x": 17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v4nhvi",
+      "name": "Mantle convection carries heat upward",
+      "x": -104,
+      "y": -367,
+      "parent": "#ys2wn4"
+    },
+    {
+      "@id": "#ddz5bw",
+      "name": "Slab pull: sinking edges drag plates",
+      "x": 42,
+      "y": -423,
+      "parent": "#ys2wn4"
+    },
+    {
+      "@id": "#d93cyg",
+      "name": "Ridge push from raised spreading centres",
+      "x": 234,
+      "y": -485,
+      "parent": "#ys2wn4"
+    },
+    {
+      "@id": "#bkpzbq",
+      "name": "Divergent boundaries",
+      "x": 190,
+      "y": -104,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#44idyw",
+      "name": "Plates pull apart, new crust forms",
+      "x": 281,
+      "y": -281,
+      "parent": "#bkpzbq"
+    },
+    {
+      "@id": "#bknb83",
+      "name": "Mid-Atlantic Ridge widens the Atlantic",
+      "x": 372,
+      "y": -203,
+      "link": "https://en.wikipedia.org/wiki/Mid-Atlantic_Ridge",
+      "parent": "#bkpzbq"
+    },
+    {
+      "@id": "#kuvscb",
+      "name": "East African Rift splits a continent",
+      "x": 506,
+      "y": -126,
+      "parent": "#bkpzbq"
+    },
+    {
+      "@id": "#mkzwgy",
+      "name": "Convergent boundaries",
+      "x": 207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#83ft6c",
+      "name": "Ocean plate sinks beneath another",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Subduction",
+      "parent": "#mkzwgy"
+    },
+    {
+      "@id": "#8gkk3f",
+      "name": "Builds deep trenches and volcanic arcs",
+      "x": 525,
+      "y": 131,
+      "parent": "#mkzwgy"
+    },
+    {
+      "@id": "#cche34",
+      "name": "Colliding continents raise mountain ranges",
+      "x": 372,
+      "y": 203,
+      "parent": "#mkzwgy"
+    },
+    {
+      "@id": "#rru9ib",
+      "name": "India hitting Asia built the Himalayas",
+      "x": 281,
+      "y": 281,
+      "parent": "#mkzwgy"
+    },
+    {
+      "@id": "#fiy457",
+      "name": "Transform boundaries",
+      "x": 17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#m33qnt",
+      "name": "Plates grind sideways past each other",
+      "x": 164,
+      "y": 335,
+      "parent": "#fiy457"
+    },
+    {
+      "@id": "#f4hpii",
+      "name": "San Andreas Fault in California",
+      "x": 38,
+      "y": 391,
+      "link": "https://en.wikipedia.org/wiki/San_Andreas_Fault",
+      "parent": "#fiy457"
+    },
+    {
+      "@id": "#y3vnbr",
+      "name": "Locked plates slip in earthquakes",
+      "x": -124,
+      "y": 447,
+      "parent": "#fiy457"
+    },
+    {
+      "@id": "#br6sdk",
+      "name": "How we know",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xhxe2n",
+      "name": "Wegener proposed continental drift, 1912",
+      "x": -245,
+      "y": 340,
+      "link": "https://en.wikipedia.org/wiki/Alfred_Wegener",
+      "parent": "#br6sdk"
+    },
+    {
+      "@id": "#bfr89j",
+      "name": "Matching coastlines, rocks and fossils",
+      "x": -330,
+      "y": 245,
+      "parent": "#br6sdk"
+    },
+    {
+      "@id": "#z39dka",
+      "name": "Magnetic stripes mirrored across the seafloor",
+      "x": -405,
+      "y": 156,
+      "parent": "#br6sdk"
+    },
+    {
+      "@id": "#z5khdd",
+      "name": "Widely accepted by the late 1960s",
+      "x": -445,
+      "y": 54,
+      "parent": "#br6sdk"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

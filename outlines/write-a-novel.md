@@ -1,0 +1,27 @@
+aliases: how to write a novel, novel writing, writing a novel
+- Write a novel
+  - Find the idea
+    - Start from a "what if?" question
+    - Read widely in your genre
+    - Pick a story you'd want to read
+  - Plan the story
+    - Outline first, or discover as you go
+    - [Three-act structure as a guide](https://en.wikipedia.org/wiki/Three-act_structure)
+    - Protagonist wants something, meets obstacles
+    - Choose point of view and tense
+  - Write the first draft
+    - Set a daily word count
+    - Adult novels typically 70,000–100,000 words
+    - Don't edit while drafting
+    - [Show, don't tell](https://en.wikipedia.org/wiki/Show,_don%27t_tell)
+  - Revise
+    - Rest the draft for a few weeks
+    - Fix structure before sentences
+    - Cut scenes that don't move the story
+    - Read the dialogue aloud
+    - Beta readers give honest feedback
+  - Get published
+    - [Query a literary agent](https://en.wikipedia.org/wiki/Literary_agent)
+    - Agents pitch to publishers
+    - Editors polish the manuscript
+    - [Or self-publish ebook and print](https://en.wikipedia.org/wiki/Self-publishing)

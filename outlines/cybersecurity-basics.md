@@ -1,0 +1,28 @@
+aliases: cyber security basics, online security, stay safe online, computer security basics
+- Cybersecurity basics
+  - Common threats
+    - [Phishing messages steal logins](https://en.wikipedia.org/wiki/Phishing)
+    - [Ransomware locks files for payment](https://en.wikipedia.org/wiki/Ransomware)
+    - Malware hidden in downloads
+    - Breaches leak reused passwords
+  - Strong passwords
+    - Long passphrases beat short complex ones
+    - Never reuse a password
+    - [A password manager remembers them](https://en.wikipedia.org/wiki/Password_manager)
+  - Extra login protection
+    - [Turn on two-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication)
+    - Authenticator apps beat SMS codes
+    - Passkeys can replace passwords
+  - Keep things updated
+    - Install updates promptly
+    - Updates patch known security holes
+    - Remove apps you no longer use
+  - Spot scams
+    - Urgency and threats are red flags
+    - Check sender addresses and links
+    - Verify requests through another channel
+    - Banks never ask for your password
+  - Protect your data
+    - Keep backups offline or separate
+    - [Encrypt your phone and laptop](https://en.wikipedia.org/wiki/Encryption)
+    - Be careful on public Wi-Fi

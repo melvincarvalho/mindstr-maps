@@ -1,0 +1,29 @@
+aliases: how recycling works, how to recycle, what can be recycled, recycling tips
+- Recycling
+  - Why recycle
+    - Saves raw materials and energy
+    - Keeps waste out of landfill
+    - Recycled aluminium uses 95% less energy
+  - What recycles well
+    - Aluminium cans recycle again and again
+    - Glass bottles and jars
+    - Paper fibres reused five to seven times
+    - [PET and HDPE plastics most accepted](https://en.wikipedia.org/wiki/Resin_identification_code)
+  - Hard to recycle
+    - Soft plastic film and bags
+    - Batteries and electronics need special drop-off
+    - Mixed materials like coffee cups
+  - After collection
+    - [Sorted at a materials recovery facility](https://en.wikipedia.org/wiki/Materials_recovery_facility)
+    - Baled and sold to reprocessors
+    - Melted, pulped or shredded into feedstock
+    - Made into new products
+  - Recycle well at home
+    - Check your local collection rules
+    - Rinse containers and keep them dry
+    - Don't bag recyclables unless told
+    - When in doubt, leave it out
+  - The bigger picture
+    - [Under 10% of plastic ever recycled](https://en.wikipedia.org/wiki/Plastic_recycling)
+    - Contamination can spoil whole loads
+    - [Waste hierarchy: reduce and reuse first](https://en.wikipedia.org/wiki/Waste_hierarchy)

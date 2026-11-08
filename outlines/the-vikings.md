@@ -1,0 +1,31 @@
+aliases: vikings, viking age, norsemen, viking history
+- The Vikings
+  - Who they were
+    - Norse people from Scandinavia
+    - Viking Age about 793 to 1066
+    - Most were farmers and traders
+  - Raids and conquest
+    - [Lindisfarne monastery raided in 793](https://en.wikipedia.org/wiki/Lindisfarne)
+    - Great Heathen Army invaded England, 865
+    - Danelaw covered much of England
+    - Normandy granted to Rollo, 911
+  - Ships and voyages
+    - [Longships sailed both rivers and seas](https://en.wikipedia.org/wiki/Longship)
+    - Rus traders reached Constantinople and Baghdad
+    - Iceland settled from about 870
+    - Erik the Red colonised Greenland
+    - [Leif Erikson reached Newfoundland, about 1000](https://en.wikipedia.org/wiki/Leif_Erikson)
+  - Society and beliefs
+    - Jarls, free karls and enslaved thralls
+    - Disputes settled at the Thing assembly
+    - [Odin, Thor and Freyja worshipped](https://en.wikipedia.org/wiki/Norse_mythology)
+    - Warriors hoped to reach Valhalla
+    - Runes carved on memorial stones
+  - End of the Viking Age
+    - Christianity spread across Scandinavia
+    - Kingdoms of Denmark, Norway, Sweden formed
+    - Defeat at Stamford Bridge, 1066
+  - Legacy
+    - English words like sky, egg, knife
+    - Sagas written down in Iceland
+    - Horned helmets are a later myth

@@ -1,0 +1,28 @@
+aliases: scientific method, how science works, steps of the scientific method, the scientific process
+- The scientific method
+  - Observe and ask
+    - Notice something puzzling
+    - Ask a focused, testable question
+    - Read what's already known
+  - Form a hypothesis
+    - [A testable explanation that could be wrong](https://en.wikipedia.org/wiki/Falsifiability)
+    - Make a specific prediction from it
+    - Often phrased "if X, then Y"
+  - Test with an experiment
+    - [Change one variable at a time](https://en.wikipedia.org/wiki/Dependent_and_independent_variables)
+    - [Compare against a control group](https://en.wikipedia.org/wiki/Scientific_control)
+    - Measure carefully and repeat trials
+    - Blinding reduces bias
+  - Analyse the results
+    - Look for patterns in the data
+    - [Statistics check results aren't just chance](https://en.wikipedia.org/wiki/Statistical_significance)
+    - Correlation is not causation
+  - Conclude and share
+    - Support or reject the hypothesis
+    - Publish methods and results openly
+    - [Peer review checks the work](https://en.wikipedia.org/wiki/Peer_review)
+  - Keep testing
+    - Others replicate to confirm findings
+    - Surprising results raise new questions
+    - Well-tested explanations become theories
+    - Even theories change with new evidence

@@ -1,0 +1,352 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Visit Paris",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#a837vr",
+      "name": "Plan ahead",
+      "x": -197,
+      "y": -96,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#pwa2mk",
+      "name": "Spring and early autumn are loveliest",
+      "x": -466,
+      "y": -51,
+      "parent": "#a837vr"
+    },
+    {
+      "@id": "#jdr7du",
+      "name": "August quieter; some shops close",
+      "x": -431,
+      "y": -149,
+      "parent": "#a837vr"
+    },
+    {
+      "@id": "#khdncr",
+      "name": "Book the Louvre and Eiffel Tower ahead",
+      "x": -349,
+      "y": -227,
+      "parent": "#a837vr"
+    },
+    {
+      "@id": "#ubcb7s",
+      "name": "Check entry rules on official sites",
+      "x": -260,
+      "y": -294,
+      "parent": "#a837vr"
+    },
+    {
+      "@id": "#hg29cz",
+      "name": "Landmarks",
+      "x": 16,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#34pxag",
+      "name": "Eiffel Tower sparkles on the hour",
+      "x": -158,
+      "y": -354,
+      "link": "https://en.wikipedia.org/wiki/Eiffel_Tower",
+      "parent": "#hg29cz"
+    },
+    {
+      "@id": "#xa5b6j",
+      "name": "Arc de Triomphe and Champs-Élysées",
+      "x": -34,
+      "y": -407,
+      "parent": "#hg29cz"
+    },
+    {
+      "@id": "#m5kb7p",
+      "name": "Notre-Dame, reopened in 2024",
+      "x": 120,
+      "y": -464,
+      "link": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
+      "parent": "#hg29cz"
+    },
+    {
+      "@id": "#cav8cs",
+      "name": "Sacré-Cœur atop Montmartre",
+      "x": 207,
+      "y": -320,
+      "parent": "#hg29cz"
+    },
+    {
+      "@id": "#c9jx2m",
+      "name": "Art and museums",
+      "x": 211,
+      "y": -73,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qivj6d",
+      "name": "The Louvre and the Mona Lisa",
+      "x": 307,
+      "y": -263,
+      "link": "https://en.wikipedia.org/wiki/Louvre",
+      "parent": "#c9jx2m"
+    },
+    {
+      "@id": "#m2mp86",
+      "name": "Musée d'Orsay for Impressionists",
+      "x": 384,
+      "y": -187,
+      "parent": "#c9jx2m"
+    },
+    {
+      "@id": "#nygdxd",
+      "name": "Centre Pompidou for modern art",
+      "x": 471,
+      "y": -105,
+      "parent": "#c9jx2m"
+    },
+    {
+      "@id": "#tn4cgr",
+      "name": "Sainte-Chapelle's stained glass",
+      "x": 450,
+      "y": 0,
+      "parent": "#c9jx2m"
+    },
+    {
+      "@id": "#54cnsj",
+      "name": "Neighbourhoods",
+      "x": 178,
+      "y": 116,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#x3fmzk",
+      "name": "Le Marais: old lanes and boutiques",
+      "x": 452,
+      "y": 101,
+      "parent": "#54cnsj"
+    },
+    {
+      "@id": "#fatufy",
+      "name": "Latin Quarter and Saint-Germain cafés",
+      "x": 384,
+      "y": 187,
+      "parent": "#54cnsj"
+    },
+    {
+      "@id": "#rjmv3s",
+      "name": "Canal Saint-Martin's waterside bars",
+      "x": 307,
+      "y": 263,
+      "parent": "#54cnsj"
+    },
+    {
+      "@id": "#dq2tpy",
+      "name": "Strolls along the Seine",
+      "x": 207,
+      "y": 320,
+      "parent": "#54cnsj"
+    },
+    {
+      "@id": "#67za5h",
+      "name": "Getting around",
+      "x": -47,
+      "y": 180,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a5ndzj",
+      "name": "Métro stations every few blocks",
+      "x": 96,
+      "y": 368,
+      "link": "https://en.wikipedia.org/wiki/Paris_M%C3%A9tro",
+      "parent": "#67za5h"
+    },
+    {
+      "@id": "#ecgffh",
+      "name": "The centre is compact and walkable",
+      "x": -35,
+      "y": 423,
+      "parent": "#67za5h"
+    },
+    {
+      "@id": "#dxmjwk",
+      "name": "RER trains to airports and Versailles",
+      "x": -214,
+      "y": 474,
+      "parent": "#67za5h"
+    },
+    {
+      "@id": "#3phph5",
+      "name": "Shared Vélib' bikes",
+      "x": -260,
+      "y": 294,
+      "parent": "#67za5h"
+    },
+    {
+      "@id": "#ewwq58",
+      "name": "Food and etiquette",
+      "x": -211,
+      "y": 73,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4pdefy",
+      "name": "Say \"Bonjour\" when entering shops",
+      "x": -349,
+      "y": 227,
+      "parent": "#ewwq58"
+    },
+    {
+      "@id": "#vx8nyb",
+      "name": "Fresh bread from a boulangerie",
+      "x": -413,
+      "y": 143,
+      "parent": "#ewwq58"
+    },
+    {
+      "@id": "#7jk7xw",
+      "name": "Linger over coffee at a café",
+      "x": -486,
+      "y": 53,
+      "parent": "#ewwq58"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    },
+    {
+      "start": 26,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

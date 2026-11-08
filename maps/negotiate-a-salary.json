@@ -1,0 +1,317 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Negotiate a salary",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#2q6cyc",
+      "name": "Research your market value",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b5z5r4",
+      "name": "Check salary surveys and job ads",
+      "x": -524,
+      "y": -64,
+      "parent": "#2q6cyc"
+    },
+    {
+      "@id": "#nxrqs4",
+      "name": "Ask peers and recruiters for ranges",
+      "x": -401,
+      "y": -163,
+      "parent": "#2q6cyc"
+    },
+    {
+      "@id": "#uhjw6p",
+      "name": "Factor in location and experience",
+      "x": -318,
+      "y": -255,
+      "parent": "#2q6cyc"
+    },
+    {
+      "@id": "#dj94n7",
+      "name": "Set your numbers",
+      "x": -36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#trfuyr",
+      "name": "Pick a target and walk-away figure",
+      "x": -204,
+      "y": -321,
+      "parent": "#dj94n7"
+    },
+    {
+      "@id": "#s36vbs",
+      "name": "Know your best alternative (BATNA)",
+      "x": -73,
+      "y": -372,
+      "link": "https://en.wikipedia.org/wiki/Best_alternative_to_a_negotiated_agreement",
+      "parent": "#dj94n7"
+    },
+    {
+      "@id": "#de9m5t",
+      "name": "Think in total compensation",
+      "x": 82,
+      "y": -420,
+      "parent": "#dj94n7"
+    },
+    {
+      "@id": "#trv4ct",
+      "name": "Time it well",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uyqdd2",
+      "name": "Negotiate after the offer, before accepting",
+      "x": 204,
+      "y": -321,
+      "parent": "#trv4ct"
+    },
+    {
+      "@id": "#3zvkhj",
+      "name": "For a raise, use review season",
+      "x": 318,
+      "y": -255,
+      "parent": "#trv4ct"
+    },
+    {
+      "@id": "#yn8awh",
+      "name": "Ask what budget the role has",
+      "x": 401,
+      "y": -163,
+      "parent": "#trv4ct"
+    },
+    {
+      "@id": "#hdjrdr",
+      "name": "Make your case",
+      "x": 219,
+      "y": 57,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#inr73v",
+      "name": "Thank them and show enthusiasm",
+      "x": 444,
+      "y": -56,
+      "parent": "#hdjrdr"
+    },
+    {
+      "@id": "#e2dyet",
+      "name": "Open with a specific, researched figure",
+      "x": 524,
+      "y": 64,
+      "link": "https://en.wikipedia.org/wiki/Anchoring_effect",
+      "parent": "#hdjrdr"
+    },
+    {
+      "@id": "#dicrd7",
+      "name": "Link the ask to your results",
+      "x": 401,
+      "y": 163,
+      "parent": "#hdjrdr"
+    },
+    {
+      "@id": "#75nthd",
+      "name": "Stay calm; silence is fine",
+      "x": 318,
+      "y": 255,
+      "parent": "#hdjrdr"
+    },
+    {
+      "@id": "#3dbdji",
+      "name": "Beyond base pay",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z22up6",
+      "name": "Bonus, shares and pension",
+      "x": 204,
+      "y": 321,
+      "parent": "#3dbdji"
+    },
+    {
+      "@id": "#ethjsj",
+      "name": "Extra holiday or flexible hours",
+      "x": 73,
+      "y": 372,
+      "parent": "#3dbdji"
+    },
+    {
+      "@id": "#3bxdq8",
+      "name": "Training budget or better title",
+      "x": -82,
+      "y": 420,
+      "parent": "#3dbdji"
+    },
+    {
+      "@id": "#ctgamj",
+      "name": "Signing bonus to bridge a gap",
+      "x": -204,
+      "y": 321,
+      "parent": "#3dbdji"
+    },
+    {
+      "@id": "#737bq9",
+      "name": "Close the deal",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#w2dr2n",
+      "name": "Get the final offer in writing",
+      "x": -318,
+      "y": 255,
+      "parent": "#737bq9"
+    },
+    {
+      "@id": "#7kzpz6",
+      "name": "Accept graciously or decline politely",
+      "x": -401,
+      "y": 163,
+      "parent": "#737bq9"
+    },
+    {
+      "@id": "#7vb35t",
+      "name": "If refused, agree when to revisit",
+      "x": -484,
+      "y": 60,
+      "parent": "#737bq9"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,30 @@
+aliases: greek myths, greek gods, ancient greek mythology, greek legends
+- Greek mythology
+  - Creation and the Titans
+    - Chaos came first, then Gaia
+    - [Titans ruled under Cronus](https://en.wikipedia.org/wiki/Titans)
+    - Zeus overthrew Cronus in the Titanomachy
+  - [The Twelve Olympians](https://en.wikipedia.org/wiki/Twelve_Olympians)
+    - Zeus, king of the gods
+    - Hera, goddess of marriage
+    - Poseidon rules the sea
+    - Athena, wisdom and war
+    - Apollo, Artemis, Aphrodite and others
+  - The Underworld
+    - Hades rules the dead
+    - Charon ferries souls across the Styx
+    - Persephone's return brings spring
+  - Heroes
+    - [Heracles and his Twelve Labours](https://en.wikipedia.org/wiki/Labours_of_Hercules)
+    - Perseus slays Medusa
+    - Theseus kills the Minotaur
+    - Jason seeks the Golden Fleece
+  - Epic tales
+    - [Homer's Iliad: the Trojan War](https://en.wikipedia.org/wiki/Iliad)
+    - Odyssey: Odysseus' ten-year voyage home
+    - The Trojan Horse trick
+  - Sources and legacy
+    - [Hesiod's Theogony: origins of the gods](https://en.wikipedia.org/wiki/Theogony)
+    - Ovid's Metamorphoses retells many myths
+    - Romans renamed them: Zeus became Jupiter
+    - Words like panic, echo, narcissism

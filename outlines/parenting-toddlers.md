@@ -1,0 +1,32 @@
+aliases: toddler parenting, raising toddlers, terrible twos, how to parent a toddler
+- Parenting toddlers
+  - How toddlers develop
+    - Walking, climbing, exploring everything
+    - [Words grow into short sentences](https://en.wikipedia.org/wiki/Language_acquisition)
+    - Big emotions, little self-control
+    - Wanting independence: "me do it!"
+  - Daily routines
+    - Regular meals, naps and bedtime
+    - About 11–14 hours' sleep, naps included
+    - Offer healthy food; they choose amounts
+    - [Potty training when ready](https://en.wikipedia.org/wiki/Toilet_training)
+  - Behaviour and tantrums
+    - [Tantrums are normal at this age](https://en.wikipedia.org/wiki/Tantrum)
+    - Stay calm; name their feelings
+    - Praise what you want to see
+    - Simple choices: red cup or blue?
+    - Clear, consistent limits
+  - Play and learning
+    - Read together every day
+    - Talk, sing and narrate the day
+    - Messy, outdoor and pretend play
+    - Keep screen time small and shared
+  - Safety at home
+    - Stair gates and window locks
+    - Medicines and cleaners locked away
+    - [Car seat suited to their size](https://en.wikipedia.org/wiki/Child_safety_seat)
+    - Watch constantly near water
+  - Look after yourself too
+    - Share the load; take breaks
+    - Parent groups for support
+    - Development worries? Ask a health professional

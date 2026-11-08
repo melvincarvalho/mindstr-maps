@@ -1,0 +1,30 @@
+aliases: strength training, weight training for beginners, resistance training, beginner weightlifting
+- Strength training basics
+  - Why do it
+    - Builds muscle and bone strength
+    - Helps balance, posture and daily tasks
+    - Guidelines: two or more days weekly
+  - Choose your equipment
+    - Bodyweight: no gym needed
+    - Dumbbells and bands at home
+    - Barbells and machines at a gym
+  - Learn the key movements
+    - [Squat: legs and hips](https://en.wikipedia.org/wiki/Squat_%28exercise%29)
+    - Hinge: deadlift or hip bridge
+    - Push: press-ups and bench press
+    - Pull: rows and pull-ups
+    - Core: planks and carries
+  - Structure a session
+    - Warm up for 5 to 10 minutes
+    - 2 to 3 sets of 8–12 reps
+    - Last reps hard, form still good
+    - Rest 1 to 3 minutes between sets
+  - Progress steadily
+    - [Progressive overload: add weight or reps](https://en.wikipedia.org/wiki/Progressive_overload)
+    - Full-body workouts suit beginners
+    - Log workouts to track progress
+  - Recover and stay safe
+    - A rest day between hard sessions
+    - Protein and sleep help muscles rebuild
+    - Sharp pain means stop
+    - Ask a qualified trainer about form

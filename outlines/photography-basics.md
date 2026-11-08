@@ -1,0 +1,29 @@
+aliases: learn photography, photography for beginners, how to take better photos, camera basics
+- Photography basics
+  - [The exposure triangle](https://en.wikipedia.org/wiki/Exposure_%28photography%29)
+    - [Aperture: lower f-number, more light](https://en.wikipedia.org/wiki/Aperture)
+    - Shutter speed freezes or blurs motion
+    - ISO: higher is brighter but noisier
+  - Focus and depth of field
+    - [Wide aperture blurs the background](https://en.wikipedia.org/wiki/Depth_of_field)
+    - Autofocus: single or continuous
+    - Focus on the eyes in portraits
+  - Composition
+    - [Rule of thirds](https://en.wikipedia.org/wiki/Rule_of_thirds)
+    - Leading lines draw the eye
+    - Fill the frame, simplify the background
+    - Shoot from different heights
+  - Light
+    - [Golden hour: soft, warm light](https://en.wikipedia.org/wiki/Golden_hour_%28photography%29)
+    - Overcast sky gives even light
+    - Avoid harsh midday sun on faces
+    - White balance fixes colour casts
+  - Gear
+    - A phone camera is a fine start
+    - Focal length changes the field of view
+    - Prime lenses versus zoom lenses
+    - Shoot RAW for more editing room
+  - Edit and improve
+    - Crop, straighten, adjust exposure
+    - Study photos you admire
+    - Share only your best shots

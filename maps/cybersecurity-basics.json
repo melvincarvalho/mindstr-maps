@@ -1,0 +1,320 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Cybersecurity basics",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#68kxhg",
+      "name": "Common threats",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zw73ty",
+      "name": "Phishing messages steal logins",
+      "x": -444,
+      "y": -56,
+      "link": "https://en.wikipedia.org/wiki/Phishing",
+      "parent": "#68kxhg"
+    },
+    {
+      "@id": "#i9utje",
+      "name": "Ransomware locks files for payment",
+      "x": -401,
+      "y": -163,
+      "link": "https://en.wikipedia.org/wiki/Ransomware",
+      "parent": "#68kxhg"
+    },
+    {
+      "@id": "#u7a6ef",
+      "name": "Malware hidden in downloads",
+      "x": -318,
+      "y": -255,
+      "parent": "#68kxhg"
+    },
+    {
+      "@id": "#c4ntdx",
+      "name": "Breaches leak reused passwords",
+      "x": -204,
+      "y": -321,
+      "parent": "#68kxhg"
+    },
+    {
+      "@id": "#g83igt",
+      "name": "Strong passwords",
+      "x": 36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ihqcj5",
+      "name": "Long passphrases beat short complex ones",
+      "x": -73,
+      "y": -372,
+      "parent": "#g83igt"
+    },
+    {
+      "@id": "#aj5arh",
+      "name": "Never reuse a password",
+      "x": 82,
+      "y": -420,
+      "parent": "#g83igt"
+    },
+    {
+      "@id": "#9nibfp",
+      "name": "A password manager remembers them",
+      "x": 204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Password_manager",
+      "parent": "#g83igt"
+    },
+    {
+      "@id": "#2g28ps",
+      "name": "Extra login protection",
+      "x": 205,
+      "y": -84,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d9dvrv",
+      "name": "Turn on two-factor authentication",
+      "x": 318,
+      "y": -255,
+      "link": "https://en.wikipedia.org/wiki/Multi-factor_authentication",
+      "parent": "#2g28ps"
+    },
+    {
+      "@id": "#x9iuqv",
+      "name": "Authenticator apps beat SMS codes",
+      "x": 401,
+      "y": -163,
+      "parent": "#2g28ps"
+    },
+    {
+      "@id": "#5uz7au",
+      "name": "Passkeys can replace passwords",
+      "x": 504,
+      "y": -62,
+      "parent": "#2g28ps"
+    },
+    {
+      "@id": "#uju7af",
+      "name": "Keep things updated",
+      "x": 205,
+      "y": 84,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dnpg6f",
+      "name": "Install updates promptly",
+      "x": 464,
+      "y": 58,
+      "parent": "#uju7af"
+    },
+    {
+      "@id": "#5svrpe",
+      "name": "Updates patch known security holes",
+      "x": 401,
+      "y": 163,
+      "parent": "#uju7af"
+    },
+    {
+      "@id": "#dscq9x",
+      "name": "Remove apps you no longer use",
+      "x": 318,
+      "y": 255,
+      "parent": "#uju7af"
+    },
+    {
+      "@id": "#2y53jb",
+      "name": "Spot scams",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#95zj4z",
+      "name": "Urgency and threats are red flags",
+      "x": 204,
+      "y": 321,
+      "parent": "#2y53jb"
+    },
+    {
+      "@id": "#x4jpyi",
+      "name": "Check sender addresses and links",
+      "x": 73,
+      "y": 372,
+      "parent": "#2y53jb"
+    },
+    {
+      "@id": "#tiyabj",
+      "name": "Verify requests through another channel",
+      "x": -82,
+      "y": 420,
+      "parent": "#2y53jb"
+    },
+    {
+      "@id": "#zvtf4c",
+      "name": "Banks never ask for your password",
+      "x": -204,
+      "y": 321,
+      "parent": "#2y53jb"
+    },
+    {
+      "@id": "#asapuf",
+      "name": "Protect your data",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bygwxc",
+      "name": "Keep backups offline or separate",
+      "x": -318,
+      "y": 255,
+      "parent": "#asapuf"
+    },
+    {
+      "@id": "#5kyf9x",
+      "name": "Encrypt your phone and laptop",
+      "x": -401,
+      "y": 163,
+      "link": "https://en.wikipedia.org/wiki/Encryption",
+      "parent": "#asapuf"
+    },
+    {
+      "@id": "#snk8it",
+      "name": "Be careful on public Wi-Fi",
+      "x": -464,
+      "y": 58,
+      "parent": "#asapuf"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,33 @@
+aliases: australia trip, travel to australia, australia itinerary, things to do in australia
+- Visit Australia
+  - Plan ahead
+    - Seasons reversed: summer is December–February
+    - Tropical north is best May–October
+    - Distances are huge; allow time
+    - Check visa needs on official sites
+    - Strict biosecurity: declare food on arrival
+  - Cities
+    - [Sydney Opera House and Harbour Bridge](https://en.wikipedia.org/wiki/Sydney_Opera_House)
+    - Melbourne's laneways, cafés and sport
+    - Brisbane, gateway to the Gold Coast
+    - Perth and the west coast
+  - Natural wonders
+    - [Snorkel the Great Barrier Reef](https://en.wikipedia.org/wiki/Great_Barrier_Reef)
+    - [Uluru in the Red Centre](https://en.wikipedia.org/wiki/Uluru)
+    - Daintree Rainforest in tropical Queensland
+    - [Great Ocean Road coastal drive](https://en.wikipedia.org/wiki/Great_Ocean_Road)
+    - Tasmania's wilderness and walks
+  - Wildlife
+    - Kangaroos and koalas in the wild
+    - Quokkas on Rottnest Island
+    - Humpback whales migrate June to November
+  - Getting around
+    - Fly between distant cities
+    - Campervan for coastal road trips
+    - Drive on the left
+    - Avoid driving at dusk: animals on roads
+  - Stay safe and respectful
+    - Strong sun: hat and sunscreen
+    - Swim between the red and yellow flags
+    - Box jellyfish in tropical summer waters
+    - Respect Aboriginal sacred sites and culture

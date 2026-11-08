@@ -1,0 +1,32 @@
+aliases: united nations, un, what is the un, un explained
+- The United Nations
+  - Founding
+    - [Charter took effect 24 October 1945](https://en.wikipedia.org/wiki/Charter_of_the_United_Nations)
+    - Replaced the failed League of Nations
+    - 51 founding members, now 193
+    - Headquarters in New York City
+  - Aims
+    - Maintain international peace and security
+    - Develop friendly relations among nations
+    - Promote cooperation and human rights
+  - Main organs
+    - [General Assembly: one vote per member](https://en.wikipedia.org/wiki/United_Nations_General_Assembly)
+    - [Security Council: 15 members, 5 permanent](https://en.wikipedia.org/wiki/United_Nations_Security_Council)
+      - US, UK, France, Russia, China hold vetoes
+    - Secretariat led by the Secretary-General
+    - International Court of Justice in The Hague
+    - Economic and Social Council
+  - Agencies and programmes
+    - WHO for global health
+    - UNICEF for children
+    - World Food Programme fights hunger
+    - UNHCR protects refugees
+  - What it does
+    - Peacekeeping missions in conflict zones
+    - [Sustainable Development Goals for 2030](https://en.wikipedia.org/wiki/Sustainable_Development_Goals)
+    - Humanitarian aid after disasters
+    - Universal Declaration of Human Rights, 1948
+  - Limits and criticism
+    - Veto can block Security Council action
+    - Relies on members for money and troops
+    - Long debate over Security Council reform

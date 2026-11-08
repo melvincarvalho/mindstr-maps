@@ -1,0 +1,309 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Time management",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#qfiaep",
+      "name": "See where time goes",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#evnf4z",
+      "name": "Log your time for a week",
+      "x": -464,
+      "y": -62,
+      "parent": "#qfiaep"
+    },
+    {
+      "@id": "#7jhehe",
+      "name": "Spot your biggest time-wasters",
+      "x": -396,
+      "y": -171,
+      "parent": "#qfiaep"
+    },
+    {
+      "@id": "#sqwc57",
+      "name": "Notice when your energy peaks",
+      "x": -305,
+      "y": -265,
+      "parent": "#qfiaep"
+    },
+    {
+      "@id": "#ickuvk",
+      "name": "Set clear priorities",
+      "x": -19,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tzxhrz",
+      "name": "Eisenhower matrix: urgent vs important",
+      "x": -181,
+      "y": -330,
+      "parent": "#ickuvk"
+    },
+    {
+      "@id": "#283xne",
+      "name": "Pareto: a few tasks matter most",
+      "x": -41,
+      "y": -391,
+      "link": "https://en.wikipedia.org/wiki/Pareto_principle",
+      "parent": "#ickuvk"
+    },
+    {
+      "@id": "#n76qra",
+      "name": "Pick three key tasks each day",
+      "x": 140,
+      "y": -445,
+      "parent": "#ickuvk"
+    },
+    {
+      "@id": "#fgkgc8",
+      "name": "Plan your days",
+      "x": 182,
+      "y": -113,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8fd249",
+      "name": "One trusted list for all tasks",
+      "x": 246,
+      "y": -301,
+      "parent": "#fgkgc8"
+    },
+    {
+      "@id": "#sabn3u",
+      "name": "Time-block your calendar",
+      "x": 355,
+      "y": -221,
+      "link": "https://en.wikipedia.org/wiki/Timeboxing",
+      "parent": "#fgkgc8"
+    },
+    {
+      "@id": "#dqqxwk",
+      "name": "Weekly review to plan ahead",
+      "x": 426,
+      "y": -117,
+      "parent": "#fgkgc8"
+    },
+    {
+      "@id": "#x56v2r",
+      "name": "Focus on the work",
+      "x": 202,
+      "y": 88,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ez8jzs",
+      "name": "Pomodoro: 25 minutes on, 5 off",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Pomodoro_Technique",
+      "parent": "#x56v2r"
+    },
+    {
+      "@id": "#j6vjcg",
+      "name": "Silence notifications while working",
+      "x": 502,
+      "y": 137,
+      "parent": "#x56v2r"
+    },
+    {
+      "@id": "#xwvmbk",
+      "name": "Multitasking slows you down",
+      "x": 355,
+      "y": 221,
+      "link": "https://en.wikipedia.org/wiki/Human_multitasking",
+      "parent": "#x56v2r"
+    },
+    {
+      "@id": "#2vppfn",
+      "name": "Do the hardest task first",
+      "x": 246,
+      "y": 301,
+      "parent": "#x56v2r"
+    },
+    {
+      "@id": "#e5sdc9",
+      "name": "Protect your time",
+      "x": -19,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9urv6p",
+      "name": "Say no to low-value requests",
+      "x": 110,
+      "y": 349,
+      "parent": "#e5sdc9"
+    },
+    {
+      "@id": "#7yfvyu",
+      "name": "Batch email and messages",
+      "x": -43,
+      "y": 407,
+      "parent": "#e5sdc9"
+    },
+    {
+      "@id": "#46neq5",
+      "name": "Meetings need an agenda and end time",
+      "x": -253,
+      "y": 465,
+      "parent": "#e5sdc9"
+    },
+    {
+      "@id": "#9xrh64",
+      "name": "Beat procrastination",
+      "x": -202,
+      "y": 88,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kuj6ng",
+      "name": "Break big tasks into tiny steps",
+      "x": -305,
+      "y": 265,
+      "link": "https://en.wikipedia.org/wiki/Procrastination",
+      "parent": "#9xrh64"
+    },
+    {
+      "@id": "#znhawr",
+      "name": "Two-minute rule: do it now",
+      "x": -396,
+      "y": 171,
+      "parent": "#9xrh64"
+    },
+    {
+      "@id": "#knmdp9",
+      "name": "Rest well; tired minds waste time",
+      "x": -504,
+      "y": 68,
+      "parent": "#9xrh64"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

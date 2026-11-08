@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "The printing press",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#x88q4x",
+      "name": "Before the press",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wx8z7j",
+      "name": "Books copied by hand by scribes",
+      "x": -485,
+      "y": -58,
+      "parent": "#x88q4x"
+    },
+    {
+      "@id": "#3rnddp",
+      "name": "Woodblock printing in China",
+      "x": -405,
+      "y": -156,
+      "link": "https://en.wikipedia.org/wiki/Woodblock_printing",
+      "parent": "#x88q4x"
+    },
+    {
+      "@id": "#rppzbc",
+      "name": "Earlier movable type in China and Korea",
+      "x": -330,
+      "y": -245,
+      "parent": "#x88q4x"
+    },
+    {
+      "@id": "#vp4uz4",
+      "name": "Gutenberg's invention",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2urmer",
+      "name": "Johannes Gutenberg in Mainz, about 1440",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Johannes_Gutenberg",
+      "parent": "#vp4uz4"
+    },
+    {
+      "@id": "#s7ebud",
+      "name": "Metal type cast in a hand mould",
+      "x": -104,
+      "y": -367,
+      "parent": "#vp4uz4"
+    },
+    {
+      "@id": "#dmctv5",
+      "name": "Oil-based ink that stuck to metal",
+      "x": 42,
+      "y": -423,
+      "parent": "#vp4uz4"
+    },
+    {
+      "@id": "#qzygsi",
+      "name": "Screw press adapted from wine presses",
+      "x": 234,
+      "y": -485,
+      "parent": "#vp4uz4"
+    },
+    {
+      "@id": "#g68kar",
+      "name": "How printing worked",
+      "x": 190,
+      "y": -104,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d7ejiq",
+      "name": "Compositor set letters in a stick",
+      "x": 281,
+      "y": -281,
+      "parent": "#g68kar"
+    },
+    {
+      "@id": "#3vkmjr",
+      "name": "Inked type pressed onto paper",
+      "x": 372,
+      "y": -203,
+      "parent": "#g68kar"
+    },
+    {
+      "@id": "#xcradb",
+      "name": "Hundreds of sheets printed a day",
+      "x": 487,
+      "y": -121,
+      "parent": "#g68kar"
+    },
+    {
+      "@id": "#8e87x8",
+      "name": "Rapid spread",
+      "x": 207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7np6r7",
+      "name": "Gutenberg Bible finished about 1455",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Gutenberg_Bible",
+      "parent": "#8e87x8"
+    },
+    {
+      "@id": "#xvmkwk",
+      "name": "Presses in over 200 towns by 1500",
+      "x": 468,
+      "y": 116,
+      "parent": "#8e87x8"
+    },
+    {
+      "@id": "#p4nwxa",
+      "name": "Venice became a printing centre",
+      "x": 372,
+      "y": 203,
+      "parent": "#8e87x8"
+    },
+    {
+      "@id": "#zfz4m7",
+      "name": "Caxton brought printing to England, 1476",
+      "x": 281,
+      "y": 281,
+      "link": "https://en.wikipedia.org/wiki/William_Caxton",
+      "parent": "#8e87x8"
+    },
+    {
+      "@id": "#yiur54",
+      "name": "Effects on society",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cxnnbt",
+      "name": "Books became cheaper and more common",
+      "x": 164,
+      "y": 335,
+      "parent": "#yiur54"
+    },
+    {
+      "@id": "#7ng6iy",
+      "name": "Luther's pamphlets fuelled the Reformation",
+      "x": 38,
+      "y": 391,
+      "link": "https://en.wikipedia.org/wiki/Reformation",
+      "parent": "#yiur54"
+    },
+    {
+      "@id": "#mcvjd9",
+      "name": "Scientists shared identical, accurate copies",
+      "x": -124,
+      "y": 447,
+      "parent": "#yiur54"
+    },
+    {
+      "@id": "#397dbf",
+      "name": "Literacy rose and spellings standardised",
+      "x": -225,
+      "y": 312,
+      "parent": "#yiur54"
+    },
+    {
+      "@id": "#a9e3ur",
+      "name": "Later developments",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vdk9qm",
+      "name": "Steam-powered presses from 1814",
+      "x": -330,
+      "y": 245,
+      "parent": "#a9e3ur"
+    },
+    {
+      "@id": "#r38372",
+      "name": "Rotary presses printed newspapers fast",
+      "x": -405,
+      "y": 156,
+      "parent": "#a9e3ur"
+    },
+    {
+      "@id": "#gbfiq3",
+      "name": "Offset printing took over in the 1900s",
+      "x": -525,
+      "y": 62,
+      "parent": "#a9e3ur"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

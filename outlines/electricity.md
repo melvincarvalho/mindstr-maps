@@ -1,0 +1,31 @@
+aliases: how electricity works, electricity explained, electric current, basics of electricity
+- Electricity
+  - What it is
+    - [A flow of electric charge](https://en.wikipedia.org/wiki/Electric_charge)
+    - Electrons carry the charge in wires
+    - Opposite charges attract, like charges repel
+    - Static electricity: charge builds, then sparks
+  - Key quantities
+    - [Voltage pushes charge, measured in volts](https://en.wikipedia.org/wiki/Voltage)
+    - Current is the flow rate, in amps
+    - Resistance opposes flow, in ohms
+    - [Ohm's law: V = I × R](https://en.wikipedia.org/wiki/Ohm%27s_law)
+    - Power in watts = volts × amps
+  - Circuits
+    - Current needs a complete loop
+    - Series: one path, voltage shared out
+    - Parallel: separate paths, same voltage
+    - Switches open and close the loop
+  - Making electricity
+    - [Generators spin magnets inside wire coils](https://en.wikipedia.org/wiki/Electric_generator)
+    - Turbines turned by steam, wind or water
+    - Solar panels convert sunlight directly
+    - Batteries turn chemical energy into current
+  - AC and DC
+    - DC flows one way, as from batteries
+    - [Mains AC: 50 or 60 hertz](https://en.wikipedia.org/wiki/Alternating_current)
+    - Transformers change voltage for the grid
+  - Staying safe
+    - Keep water away from sockets
+    - Fuses and breakers cut off overloads
+    - Earthing gives faults a safe path

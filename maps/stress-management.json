@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Stress management",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#xdhr6m",
+      "name": "Understand stress",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ug2q6a",
+      "name": "Fight-or-flight: adrenaline and cortisol",
+      "x": -525,
+      "y": -59,
+      "link": "https://en.wikipedia.org/wiki/Fight-or-flight_response",
+      "parent": "#xdhr6m"
+    },
+    {
+      "@id": "#f58vgv",
+      "name": "Short bursts can help you perform",
+      "x": -409,
+      "y": -150,
+      "parent": "#xdhr6m"
+    },
+    {
+      "@id": "#4jedid",
+      "name": "Long-term stress harms health",
+      "x": -340,
+      "y": -236,
+      "parent": "#xdhr6m"
+    },
+    {
+      "@id": "#pcxevm",
+      "name": "Spot the signs",
+      "x": -65,
+      "y": -177,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xez83g",
+      "name": "Tension, headaches, poor sleep",
+      "x": -243,
+      "y": -303,
+      "parent": "#pcxevm"
+    },
+    {
+      "@id": "#dyvcd9",
+      "name": "Irritability, worry, poor concentration",
+      "x": -133,
+      "y": -360,
+      "parent": "#pcxevm"
+    },
+    {
+      "@id": "#6m7bdb",
+      "name": "Leaning on alcohol or caffeine",
+      "x": 0,
+      "y": -408,
+      "parent": "#pcxevm"
+    },
+    {
+      "@id": "#ecxxmi",
+      "name": "Tackle the causes",
+      "x": 151,
+      "y": -139,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#axh7db",
+      "name": "List what is stressing you",
+      "x": 175,
+      "y": -465,
+      "parent": "#ecxxmi"
+    },
+    {
+      "@id": "#tb6g2x",
+      "name": "Change what you can control",
+      "x": 243,
+      "y": -303,
+      "parent": "#ecxxmi"
+    },
+    {
+      "@id": "#cg57ft",
+      "name": "Break big tasks into steps",
+      "x": 340,
+      "y": -236,
+      "parent": "#ecxxmi"
+    },
+    {
+      "@id": "#gck4w5",
+      "name": "Learn to say no",
+      "x": 409,
+      "y": -150,
+      "parent": "#ecxxmi"
+    },
+    {
+      "@id": "#am3upm",
+      "name": "Calm the body",
+      "x": 221,
+      "y": 52,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t7aizp",
+      "name": "Slow breathing, longer out-breath",
+      "x": 445,
+      "y": -51,
+      "link": "https://en.wikipedia.org/wiki/Diaphragmatic_breathing",
+      "parent": "#am3upm"
+    },
+    {
+      "@id": "#xfa7vt",
+      "name": "Regular physical activity",
+      "x": 465,
+      "y": 53,
+      "parent": "#am3upm"
+    },
+    {
+      "@id": "#i7qdzm",
+      "name": "Protect sleep and regular meals",
+      "x": 409,
+      "y": 150,
+      "parent": "#am3upm"
+    },
+    {
+      "@id": "#hffdzq",
+      "name": "Progressive muscle relaxation",
+      "x": 340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/Progressive_muscle_relaxation",
+      "parent": "#am3upm"
+    },
+    {
+      "@id": "#5riivd",
+      "name": "Look after your mind",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6a8kif",
+      "name": "Talk to friends or family",
+      "x": 243,
+      "y": 303,
+      "parent": "#5riivd"
+    },
+    {
+      "@id": "#w7fmu3",
+      "name": "Make time for things you enjoy",
+      "x": 133,
+      "y": 360,
+      "parent": "#5riivd"
+    },
+    {
+      "@id": "#x84ipn",
+      "name": "Question worst-case thinking",
+      "x": 0,
+      "y": 408,
+      "parent": "#5riivd"
+    },
+    {
+      "@id": "#5xyfyb",
+      "name": "Spend time outdoors",
+      "x": -175,
+      "y": 465,
+      "parent": "#5riivd"
+    },
+    {
+      "@id": "#v26fjz",
+      "name": "When to get help",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nz4v4a",
+      "name": "Stress lasting weeks or overwhelming",
+      "x": -243,
+      "y": 303,
+      "parent": "#v26fjz"
+    },
+    {
+      "@id": "#cvq4vk",
+      "name": "See a doctor about support",
+      "x": -340,
+      "y": 236,
+      "parent": "#v26fjz"
+    },
+    {
+      "@id": "#ku28cd",
+      "name": "CBT teaches practical coping skills",
+      "x": -409,
+      "y": 150,
+      "link": "https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy",
+      "parent": "#v26fjz"
+    },
+    {
+      "@id": "#wsm8mp",
+      "name": "Thoughts of self-harm: get urgent help",
+      "x": -445,
+      "y": 51,
+      "parent": "#v26fjz"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

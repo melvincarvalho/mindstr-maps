@@ -1,0 +1,27 @@
+aliases: first aid, basic first aid, emergency first aid, first aid for beginners
+- First aid basics
+  - Assess the scene first
+    - Check for danger to yourself
+    - Are they responsive and breathing?
+    - [Call emergency services early](https://en.wikipedia.org/wiki/Emergency_telephone_number)
+  - Unresponsive person
+    - [Breathing normally: recovery position](https://en.wikipedia.org/wiki/Recovery_position)
+    - [Not breathing normally: start CPR](https://en.wikipedia.org/wiki/Cardiopulmonary_resuscitation)
+    - Hard, fast compressions: 100–120 a minute
+    - [Use an AED if available](https://en.wikipedia.org/wiki/Automated_external_defibrillator)
+  - [Choking](https://en.wikipedia.org/wiki/Choking)
+    - Encourage them to keep coughing
+    - Up to five firm back blows
+    - Then up to five abdominal thrusts
+  - Bleeding and burns
+    - Press firmly on bleeding wounds
+    - Cool burns under running water 20 minutes
+    - No ice, butter or creams on burns
+  - Other emergencies
+    - Stroke signs: face, arms, speech
+    - Severe allergy: their adrenaline auto-injector
+    - Suspected broken bone: keep it still
+  - Be prepared
+    - Keep a first aid kit stocked
+    - Take a certified first aid course
+    - A guide can't replace hands-on training

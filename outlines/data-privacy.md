@@ -1,0 +1,31 @@
+aliases: online privacy, digital privacy, personal data protection, internet privacy
+- Data privacy
+  - What counts as personal data
+    - Name, email, phone and address
+    - Location, browsing and purchase history
+    - Health, biometrics and finances most sensitive
+  - Who collects it
+    - Apps and websites you use
+    - [Data brokers buy and sell profiles](https://en.wikipedia.org/wiki/Data_broker)
+    - Advertisers track you across sites
+    - Governments for services and security
+  - How tracking works
+    - [Cookies remember you between visits](https://en.wikipedia.org/wiki/HTTP_cookie)
+    - Device fingerprinting works without cookies
+    - Phone apps share location data
+    - Loyalty cards link purchases to you
+  - Why it matters
+    - Breaches lead to identity theft
+    - Profiles shape the ads and prices
+    - Surveillance can chill free speech
+  - Your legal rights
+    - [EU's GDPR applies since 2018](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)
+    - Right to see your data
+    - Right to correction and deletion
+    - California's CCPA gives similar rights
+  - Protect yourself
+    - Review app permissions regularly
+    - Reject non-essential cookies
+    - [Use end-to-end encrypted messaging](https://en.wikipedia.org/wiki/End-to-end_encryption)
+    - Share less on social media
+    - Privacy-focused browsers and search engines

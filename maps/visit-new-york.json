@@ -1,0 +1,352 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Visit New York",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#m7vftr",
+      "name": "Plan ahead",
+      "x": -197,
+      "y": -96,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6cpja6",
+      "name": "Spring and autumn are most comfortable",
+      "x": -466,
+      "y": -51,
+      "parent": "#m7vftr"
+    },
+    {
+      "@id": "#mpe373",
+      "name": "Summers hot and humid, winters cold",
+      "x": -431,
+      "y": -149,
+      "parent": "#m7vftr"
+    },
+    {
+      "@id": "#bnpgrb",
+      "name": "Check US entry rules on official sites",
+      "x": -349,
+      "y": -227,
+      "parent": "#m7vftr"
+    },
+    {
+      "@id": "#rufgjn",
+      "name": "Book Broadway shows and viewpoints ahead",
+      "x": -260,
+      "y": -294,
+      "parent": "#m7vftr"
+    },
+    {
+      "@id": "#icvsii",
+      "name": "Iconic sights",
+      "x": 16,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u9r63q",
+      "name": "Statue of Liberty and Ellis Island",
+      "x": -158,
+      "y": -354,
+      "link": "https://en.wikipedia.org/wiki/Statue_of_Liberty",
+      "parent": "#icvsii"
+    },
+    {
+      "@id": "#cun5zy",
+      "name": "Times Square and the Theater District",
+      "x": -34,
+      "y": -407,
+      "parent": "#icvsii"
+    },
+    {
+      "@id": "#jdhac9",
+      "name": "Empire State or Top of the Rock",
+      "x": 120,
+      "y": -464,
+      "parent": "#icvsii"
+    },
+    {
+      "@id": "#4623ny",
+      "name": "9/11 Memorial and Museum",
+      "x": 207,
+      "y": -320,
+      "parent": "#icvsii"
+    },
+    {
+      "@id": "#zy77f4",
+      "name": "Parks and walks",
+      "x": 197,
+      "y": -96,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9s6m25",
+      "name": "Central Park's lakes and lawns",
+      "x": 307,
+      "y": -263,
+      "link": "https://en.wikipedia.org/wiki/Central_Park",
+      "parent": "#zy77f4"
+    },
+    {
+      "@id": "#h5tg7c",
+      "name": "The High Line, a former railway",
+      "x": 384,
+      "y": -187,
+      "parent": "#zy77f4"
+    },
+    {
+      "@id": "#2mdp7e",
+      "name": "Walk across the Brooklyn Bridge",
+      "x": 471,
+      "y": -105,
+      "parent": "#zy77f4"
+    },
+    {
+      "@id": "#7br2ta",
+      "name": "Museums",
+      "x": 221,
+      "y": 50,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#x6jaq5",
+      "name": "The Met on Fifth Avenue",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art",
+      "parent": "#7br2ta"
+    },
+    {
+      "@id": "#aupbrk",
+      "name": "MoMA for modern art",
+      "x": 433,
+      "y": 97,
+      "parent": "#7br2ta"
+    },
+    {
+      "@id": "#uhetvw",
+      "name": "American Museum of Natural History",
+      "x": 384,
+      "y": 187,
+      "parent": "#7br2ta"
+    },
+    {
+      "@id": "#5rjvxv",
+      "name": "The five boroughs",
+      "x": 47,
+      "y": 180,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jpd58c",
+      "name": "Manhattan: most famous sights",
+      "x": 307,
+      "y": 263,
+      "parent": "#5rjvxv"
+    },
+    {
+      "@id": "#gpkvms",
+      "name": "Brooklyn: neighbourhoods, food and skyline views",
+      "x": 207,
+      "y": 320,
+      "parent": "#5rjvxv"
+    },
+    {
+      "@id": "#zmcwdn",
+      "name": "Queens: food from around the world",
+      "x": 96,
+      "y": 368,
+      "parent": "#5rjvxv"
+    },
+    {
+      "@id": "#3k4hqn",
+      "name": "The Bronx: zoo and Yankee Stadium",
+      "x": -35,
+      "y": 423,
+      "parent": "#5rjvxv"
+    },
+    {
+      "@id": "#78meqy",
+      "name": "Free Staten Island Ferry passes Liberty",
+      "x": -214,
+      "y": 474,
+      "parent": "#5rjvxv"
+    },
+    {
+      "@id": "#sqht8h",
+      "name": "Getting around",
+      "x": -197,
+      "y": 96,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6keu62",
+      "name": "Subway runs 24 hours a day",
+      "x": -260,
+      "y": 294,
+      "link": "https://en.wikipedia.org/wiki/New_York_City_Subway",
+      "parent": "#sqht8h"
+    },
+    {
+      "@id": "#9tup3d",
+      "name": "Tap a contactless card to ride",
+      "x": -349,
+      "y": 227,
+      "parent": "#sqht8h"
+    },
+    {
+      "@id": "#8ba4mi",
+      "name": "Avenues run north–south, streets east–west",
+      "x": -431,
+      "y": 149,
+      "parent": "#sqht8h"
+    },
+    {
+      "@id": "#i3duzj",
+      "name": "Walking is often fastest in Midtown",
+      "x": -486,
+      "y": 53,
+      "parent": "#sqht8h"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 19,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    },
+    {
+      "start": 25,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,342 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "DNA and genetics",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#daw7iu",
+      "name": "The DNA molecule",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uv6vu5",
+      "name": "Double helix described in 1953",
+      "x": -445,
+      "y": -51,
+      "link": "https://en.wikipedia.org/wiki/Nucleic_acid_double_helix",
+      "parent": "#daw7iu"
+    },
+    {
+      "@id": "#e7bg7x",
+      "name": "Four bases: A, T, C and G",
+      "x": -409,
+      "y": -150,
+      "parent": "#daw7iu"
+    },
+    {
+      "@id": "#jpgx8w",
+      "name": "A pairs with T, C with G",
+      "x": -340,
+      "y": -236,
+      "parent": "#daw7iu"
+    },
+    {
+      "@id": "#zh2neg",
+      "name": "Sugar-phosphate backbone holds it together",
+      "x": -243,
+      "y": -303,
+      "parent": "#daw7iu"
+    },
+    {
+      "@id": "#cuhi3g",
+      "name": "Genes and genomes",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5y43ym",
+      "name": "A gene is instructions for a protein",
+      "x": -133,
+      "y": -360,
+      "parent": "#cuhi3g"
+    },
+    {
+      "@id": "#9cq785",
+      "name": "Humans have about 20,000 protein-coding genes",
+      "x": 0,
+      "y": -408,
+      "parent": "#cuhi3g"
+    },
+    {
+      "@id": "#6f2qtx",
+      "name": "DNA packed into 23 chromosome pairs",
+      "x": 175,
+      "y": -465,
+      "link": "https://en.wikipedia.org/wiki/Chromosome",
+      "parent": "#cuhi3g"
+    },
+    {
+      "@id": "#jvrfzi",
+      "name": "Most DNA doesn't code for proteins",
+      "x": 243,
+      "y": -303,
+      "parent": "#cuhi3g"
+    },
+    {
+      "@id": "#36wq26",
+      "name": "From DNA to protein",
+      "x": 209,
+      "y": -76,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g3bzkn",
+      "name": "Transcription copies a gene into RNA",
+      "x": 340,
+      "y": -236,
+      "parent": "#36wq26"
+    },
+    {
+      "@id": "#t7r4re",
+      "name": "Ribosomes translate RNA into protein",
+      "x": 409,
+      "y": -150,
+      "link": "https://en.wikipedia.org/wiki/Translation_%28biology%29",
+      "parent": "#36wq26"
+    },
+    {
+      "@id": "#ijgrpy",
+      "name": "Three bases code one amino acid",
+      "x": 505,
+      "y": -57,
+      "parent": "#36wq26"
+    },
+    {
+      "@id": "#q3fhbj",
+      "name": "Inheritance",
+      "x": 193,
+      "y": 99,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#64gwim",
+      "name": "One chromosome set from each parent",
+      "x": 445,
+      "y": 51,
+      "parent": "#q3fhbj"
+    },
+    {
+      "@id": "#hashr7",
+      "name": "Mendel's peas revealed inheritance rules",
+      "x": 409,
+      "y": 150,
+      "link": "https://en.wikipedia.org/wiki/Gregor_Mendel",
+      "parent": "#q3fhbj"
+    },
+    {
+      "@id": "#4w5wq5",
+      "name": "Dominant alleles mask recessive ones",
+      "x": 340,
+      "y": 236,
+      "parent": "#q3fhbj"
+    },
+    {
+      "@id": "#6fyshi",
+      "name": "Meiosis shuffles genes in sperm and eggs",
+      "x": 243,
+      "y": 303,
+      "parent": "#q3fhbj"
+    },
+    {
+      "@id": "#msh9d6",
+      "name": "Variation and change",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y98ppq",
+      "name": "Mutations are changes in DNA",
+      "x": 133,
+      "y": 360,
+      "parent": "#msh9d6"
+    },
+    {
+      "@id": "#w9yvww",
+      "name": "Most are harmless; some cause disease",
+      "x": 0,
+      "y": 408,
+      "parent": "#msh9d6"
+    },
+    {
+      "@id": "#snijgt",
+      "name": "Variation is the raw material of evolution",
+      "x": -175,
+      "y": 465,
+      "parent": "#msh9d6"
+    },
+    {
+      "@id": "#5vr5me",
+      "name": "Uses today",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#esxee5",
+      "name": "Human Genome Project finished 2003",
+      "x": -243,
+      "y": 303,
+      "link": "https://en.wikipedia.org/wiki/Human_Genome_Project",
+      "parent": "#5vr5me"
+    },
+    {
+      "@id": "#npb7nh",
+      "name": "DNA evidence in forensics and ancestry",
+      "x": -340,
+      "y": 236,
+      "parent": "#5vr5me"
+    },
+    {
+      "@id": "#e4wc9a",
+      "name": "Testing for inherited conditions",
+      "x": -409,
+      "y": 150,
+      "parent": "#5vr5me"
+    },
+    {
+      "@id": "#b3n4gf",
+      "name": "CRISPR edits genes precisely",
+      "x": -445,
+      "y": 51,
+      "parent": "#5vr5me"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

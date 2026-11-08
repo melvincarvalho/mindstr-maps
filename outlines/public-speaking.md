@@ -1,0 +1,29 @@
+aliases: presentation skills, how to give a speech, give a presentation, fear of public speaking
+- Public speaking
+  - Know your audience and goal
+    - Who they are, what they need
+    - One key message they'll remember
+    - Check the time limit and room
+  - Structure the talk
+    - Open with a hook: story or question
+    - Three main points, in order
+    - Close by repeating the key message
+  - Prepare your material
+    - Keep slides simple and visual
+    - Speak from notes, not a script
+    - Use stories and concrete examples
+  - Rehearse
+    - Practise aloud, and time it
+    - Record yourself and watch back
+    - Try it on a friend
+    - [Join a group like Toastmasters](https://en.wikipedia.org/wiki/Toastmasters_International)
+  - Manage nerves
+    - [Nerves are normal and common](https://en.wikipedia.org/wiki/Glossophobia)
+    - Slow breathing before you start
+    - Arrive early and check equipment
+    - Focus on the audience, not yourself
+  - Deliver with presence
+    - Slow down and pause often
+    - [Eye contact around the room](https://en.wikipedia.org/wiki/Eye_contact)
+    - Open posture, purposeful gestures
+    - Take questions, repeat them aloud

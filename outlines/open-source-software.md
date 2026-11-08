@@ -1,0 +1,29 @@
+aliases: open source, what is open source, foss, free and open source software
+- Open source software
+  - What it means
+    - Source code anyone can read
+    - Free to use, change and share
+    - [A licence grants these rights](https://en.wikipedia.org/wiki/Open-source_license)
+  - Origins
+    - [Richard Stallman's GNU Project, 1983](https://en.wikipedia.org/wiki/GNU_Project)
+    - [Linux kernel released 1991](https://en.wikipedia.org/wiki/Linux_kernel)
+    - "Open source" term coined 1998
+  - Kinds of licence
+    - Permissive: MIT, Apache, BSD
+    - [Copyleft: GPL keeps derivatives open](https://en.wikipedia.org/wiki/GNU_General_Public_License)
+    - [OSI maintains the Open Source Definition](https://en.wikipedia.org/wiki/Open_Source_Initiative)
+  - Famous examples
+    - Linux runs most web servers
+    - Firefox, VLC and LibreOffice
+    - Android is built on open source
+    - Python, Git and Kubernetes
+  - How projects work
+    - Maintainers review contributions
+    - Pull requests propose changes
+    - Issues track bugs and ideas
+    - Funded by companies, donations, volunteers
+  - Pros and cons
+    - Anyone can audit the code
+    - No lock-in to one vendor
+    - Volunteer maintainers can burn out
+    - Support may be community-only

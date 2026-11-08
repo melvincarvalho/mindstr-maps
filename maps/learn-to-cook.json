@@ -1,0 +1,340 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Learn to cook",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#drjkw2",
+      "name": "Set up your kitchen",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#88fae4",
+      "name": "A sharp chef's knife and board",
+      "x": -485,
+      "y": -55,
+      "parent": "#drjkw2"
+    },
+    {
+      "@id": "#78bdvz",
+      "name": "One good frying pan and saucepan",
+      "x": -409,
+      "y": -150,
+      "parent": "#drjkw2"
+    },
+    {
+      "@id": "#thuiqi",
+      "name": "Stock oil, salt, spices and tins",
+      "x": -340,
+      "y": -236,
+      "parent": "#drjkw2"
+    },
+    {
+      "@id": "#7ujry9",
+      "name": "Learn kitchen safety",
+      "x": -33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mwb9g4",
+      "name": "Wash hands; keep raw meat separate",
+      "x": -243,
+      "y": -303,
+      "parent": "#7ujry9"
+    },
+    {
+      "@id": "#89wec2",
+      "name": "Cook meat through to safe temperatures",
+      "x": -133,
+      "y": -360,
+      "link": "https://en.wikipedia.org/wiki/Food_safety",
+      "parent": "#7ujry9"
+    },
+    {
+      "@id": "#9jcuup",
+      "name": "Chill leftovers within two hours",
+      "x": 0,
+      "y": -408,
+      "parent": "#7ujry9"
+    },
+    {
+      "@id": "#8nhkbu",
+      "name": "Turn pan handles inward",
+      "x": 175,
+      "y": -465,
+      "parent": "#7ujry9"
+    },
+    {
+      "@id": "#wj2mrx",
+      "name": "Master core techniques",
+      "x": 209,
+      "y": -76,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#db5wyu",
+      "name": "Knife skills: dice an onion",
+      "x": 243,
+      "y": -303,
+      "parent": "#wj2mrx"
+    },
+    {
+      "@id": "#jhgkn2",
+      "name": "Boil and simmer: pasta, rice, eggs",
+      "x": 340,
+      "y": -236,
+      "parent": "#wj2mrx"
+    },
+    {
+      "@id": "#7u2nan",
+      "name": "Sauté quickly in a hot pan",
+      "x": 409,
+      "y": -150,
+      "link": "https://en.wikipedia.org/wiki/Saut%C3%A9ing",
+      "parent": "#wj2mrx"
+    },
+    {
+      "@id": "#k8e9nm",
+      "name": "Roast vegetables in a hot oven",
+      "x": 505,
+      "y": -57,
+      "parent": "#wj2mrx"
+    },
+    {
+      "@id": "#3x8t6q",
+      "name": "Season as you go and taste",
+      "x": 445,
+      "y": 51,
+      "parent": "#wj2mrx"
+    },
+    {
+      "@id": "#pw9xwc",
+      "name": "Cook simple dishes first",
+      "x": 151,
+      "y": 139,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zg7jaj",
+      "name": "Omelette or scrambled eggs",
+      "x": 445,
+      "y": 164,
+      "parent": "#pw9xwc"
+    },
+    {
+      "@id": "#4ejwt3",
+      "name": "A tomato pasta sauce",
+      "x": 340,
+      "y": 236,
+      "parent": "#pw9xwc"
+    },
+    {
+      "@id": "#mq53ik",
+      "name": "Stir-fry with rice",
+      "x": 243,
+      "y": 303,
+      "parent": "#pw9xwc"
+    },
+    {
+      "@id": "#brnewz",
+      "name": "A pot of soup or stew",
+      "x": 133,
+      "y": 360,
+      "parent": "#pw9xwc"
+    },
+    {
+      "@id": "#wq7m4r",
+      "name": "Build flavour",
+      "x": -71,
+      "y": 192,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#a5zjdf",
+      "name": "Balance salt, fat, acid and heat",
+      "x": 0,
+      "y": 408,
+      "parent": "#wq7m4r"
+    },
+    {
+      "@id": "#y2kvqw",
+      "name": "Browning adds flavour: the Maillard reaction",
+      "x": -175,
+      "y": 465,
+      "link": "https://en.wikipedia.org/wiki/Maillard_reaction",
+      "parent": "#wq7m4r"
+    },
+    {
+      "@id": "#9eg2is",
+      "name": "Fresh herbs and citrus to finish",
+      "x": -243,
+      "y": 303,
+      "parent": "#wq7m4r"
+    },
+    {
+      "@id": "#ktkx5q",
+      "name": "Keep improving",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jz3dti",
+      "name": "Follow recipes exactly at first",
+      "x": -340,
+      "y": 236,
+      "parent": "#ktkx5q"
+    },
+    {
+      "@id": "#uktzdi",
+      "name": "Then improvise and swap ingredients",
+      "x": -409,
+      "y": 150,
+      "parent": "#ktkx5q"
+    },
+    {
+      "@id": "#xy5w2m",
+      "name": "Try one new dish each week",
+      "x": -445,
+      "y": 51,
+      "parent": "#ktkx5q"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 10,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

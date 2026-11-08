@@ -1,0 +1,297 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Black holes",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#tas48e",
+      "name": "What they are",
+      "x": -182,
+      "y": -113,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jiwu64",
+      "name": "Gravity so strong light can't escape",
+      "x": -444,
+      "y": -59,
+      "parent": "#tas48e"
+    },
+    {
+      "@id": "#g77d7t",
+      "name": "Event horizon: the point of no return",
+      "x": -396,
+      "y": -171,
+      "link": "https://en.wikipedia.org/wiki/Event_horizon",
+      "parent": "#tas48e"
+    },
+    {
+      "@id": "#3nz7tz",
+      "name": "Predicted by Einstein's general relativity",
+      "x": -305,
+      "y": -265,
+      "link": "https://en.wikipedia.org/wiki/General_relativity",
+      "parent": "#tas48e"
+    },
+    {
+      "@id": "#ed37w5",
+      "name": "Centre may be a singularity",
+      "x": -181,
+      "y": -330,
+      "parent": "#tas48e"
+    },
+    {
+      "@id": "#ib3b6n",
+      "name": "How they form",
+      "x": 56,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8zx88b",
+      "name": "A huge star runs out of fuel",
+      "x": -41,
+      "y": -391,
+      "parent": "#ib3b6n"
+    },
+    {
+      "@id": "#ebp6kq",
+      "name": "Its core collapses in a supernova",
+      "x": 140,
+      "y": -445,
+      "parent": "#ib3b6n"
+    },
+    {
+      "@id": "#f6syyk",
+      "name": "Supermassive ones grow by feeding and merging",
+      "x": 246,
+      "y": -301,
+      "parent": "#ib3b6n"
+    },
+    {
+      "@id": "#vqq3fb",
+      "name": "Kinds",
+      "x": 227,
+      "y": -30,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7nx5jr",
+      "name": "Stellar: a few to dozens of Suns",
+      "x": 355,
+      "y": -221,
+      "parent": "#vqq3fb"
+    },
+    {
+      "@id": "#ggdspf",
+      "name": "Supermassive: millions to billions of Suns",
+      "x": 426,
+      "y": -117,
+      "link": "https://en.wikipedia.org/wiki/Supermassive_black_hole",
+      "parent": "#vqq3fb"
+    },
+    {
+      "@id": "#p8v4gs",
+      "name": "Sagittarius A* sits at our galaxy's centre",
+      "x": 510,
+      "y": 0,
+      "parent": "#vqq3fb"
+    },
+    {
+      "@id": "#8d3qwx",
+      "name": "Intermediate-mass ones are rarer, still debated",
+      "x": 426,
+      "y": 117,
+      "parent": "#vqq3fb"
+    },
+    {
+      "@id": "#g3ke2t",
+      "name": "Strange effects",
+      "x": 92,
+      "y": 169,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3aicv6",
+      "name": "Time slows near the horizon",
+      "x": 355,
+      "y": 221,
+      "parent": "#g3ke2t"
+    },
+    {
+      "@id": "#rbwu9e",
+      "name": "Spaghettification stretches anything falling in",
+      "x": 246,
+      "y": 301,
+      "parent": "#g3ke2t"
+    },
+    {
+      "@id": "#cqq66u",
+      "name": "Their gravity bends light: lensing",
+      "x": 110,
+      "y": 349,
+      "parent": "#g3ke2t"
+    },
+    {
+      "@id": "#u9jf94",
+      "name": "Hawking radiation slowly evaporates them",
+      "x": -43,
+      "y": 407,
+      "link": "https://en.wikipedia.org/wiki/Hawking_radiation",
+      "parent": "#g3ke2t"
+    },
+    {
+      "@id": "#b6wwc8",
+      "name": "How we see them",
+      "x": -182,
+      "y": 113,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jx4dzq",
+      "name": "Accretion discs of glowing hot gas",
+      "x": -253,
+      "y": 465,
+      "parent": "#b6wwc8"
+    },
+    {
+      "@id": "#kzqt2p",
+      "name": "Stars orbiting an unseen mass",
+      "x": -305,
+      "y": 265,
+      "parent": "#b6wwc8"
+    },
+    {
+      "@id": "#ixszs8",
+      "name": "LIGO detected colliding black holes, 2015",
+      "x": -396,
+      "y": 171,
+      "link": "https://en.wikipedia.org/wiki/LIGO",
+      "parent": "#b6wwc8"
+    },
+    {
+      "@id": "#72hsxj",
+      "name": "First image: M87's black hole, 2019",
+      "x": -444,
+      "y": 59,
+      "parent": "#b6wwc8"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    }
+  ],
+  "selectedNode": 0
+}

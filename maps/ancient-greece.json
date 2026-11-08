@@ -1,0 +1,342 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Ancient Greece",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#kkgban",
+      "name": "City-states and land",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bs3zku",
+      "name": "Mountains and sea divided the land",
+      "x": -445,
+      "y": -51,
+      "parent": "#kkgban"
+    },
+    {
+      "@id": "#gnpbvh",
+      "name": "Each polis governed itself",
+      "x": -409,
+      "y": -150,
+      "parent": "#kkgban"
+    },
+    {
+      "@id": "#4as5ir",
+      "name": "Athens and Sparta were rivals",
+      "x": -340,
+      "y": -236,
+      "parent": "#kkgban"
+    },
+    {
+      "@id": "#wqsw4g",
+      "name": "Colonies spread around the Mediterranean",
+      "x": -243,
+      "y": -303,
+      "parent": "#kkgban"
+    },
+    {
+      "@id": "#6444ks",
+      "name": "Key periods",
+      "x": 65,
+      "y": -177,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#keahb9",
+      "name": "Mycenaeans and Trojan War legends",
+      "x": -133,
+      "y": -360,
+      "parent": "#6444ks"
+    },
+    {
+      "@id": "#tsbn3h",
+      "name": "Archaic age: first Olympics, 776 BC",
+      "x": 0,
+      "y": -408,
+      "parent": "#6444ks"
+    },
+    {
+      "@id": "#kqsk5g",
+      "name": "Classical age, about 500 to 323 BC",
+      "x": 175,
+      "y": -465,
+      "parent": "#6444ks"
+    },
+    {
+      "@id": "#rgbugs",
+      "name": "Alexander the Great spread Greek culture",
+      "x": 243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Alexander_the_Great",
+      "parent": "#6444ks"
+    },
+    {
+      "@id": "#5fyfre",
+      "name": "Rome conquered Greece by 146 BC",
+      "x": 340,
+      "y": -236,
+      "parent": "#6444ks"
+    },
+    {
+      "@id": "#4mq2i9",
+      "name": "Wars",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#huc32v",
+      "name": "Persian Wars: Marathon, Thermopylae, Salamis",
+      "x": 409,
+      "y": -150,
+      "link": "https://en.wikipedia.org/wiki/Greco-Persian_Wars",
+      "parent": "#4mq2i9"
+    },
+    {
+      "@id": "#fhqzar",
+      "name": "Peloponnesian War: Sparta beat Athens, 404 BC",
+      "x": 505,
+      "y": -57,
+      "parent": "#4mq2i9"
+    },
+    {
+      "@id": "#4xyqd8",
+      "name": "Government",
+      "x": 209,
+      "y": 76,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jgt9qu",
+      "name": "Athenian democracy from about 508 BC",
+      "x": 485,
+      "y": 55,
+      "link": "https://en.wikipedia.org/wiki/Athenian_democracy",
+      "parent": "#4xyqd8"
+    },
+    {
+      "@id": "#dbywcw",
+      "name": "Citizens voted directly in the Assembly",
+      "x": 409,
+      "y": 150,
+      "parent": "#4xyqd8"
+    },
+    {
+      "@id": "#byh7mv",
+      "name": "Women, slaves and foreigners excluded",
+      "x": 340,
+      "y": 236,
+      "parent": "#4xyqd8"
+    },
+    {
+      "@id": "#vg77mz",
+      "name": "Ideas",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z76b54",
+      "name": "Socrates, Plato and Aristotle",
+      "x": 243,
+      "y": 303,
+      "link": "https://en.wikipedia.org/wiki/Ancient_Greek_philosophy",
+      "parent": "#vg77mz"
+    },
+    {
+      "@id": "#7znjkx",
+      "name": "Herodotus and Thucydides wrote history",
+      "x": 133,
+      "y": 360,
+      "parent": "#vg77mz"
+    },
+    {
+      "@id": "#m3rvw2",
+      "name": "Euclid's geometry, Archimedes' physics",
+      "x": 0,
+      "y": 408,
+      "parent": "#vg77mz"
+    },
+    {
+      "@id": "#29edj2",
+      "name": "Hippocrates and early medicine",
+      "x": -175,
+      "y": 465,
+      "parent": "#vg77mz"
+    },
+    {
+      "@id": "#v7mpft",
+      "name": "Arts and culture",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6rh42k",
+      "name": "Parthenon built on the Acropolis",
+      "x": -243,
+      "y": 303,
+      "link": "https://en.wikipedia.org/wiki/Parthenon",
+      "parent": "#v7mpft"
+    },
+    {
+      "@id": "#s3c9kt",
+      "name": "Homer's Iliad and Odyssey",
+      "x": -340,
+      "y": 236,
+      "parent": "#v7mpft"
+    },
+    {
+      "@id": "#pq3gs9",
+      "name": "Tragedy and comedy in open theatres",
+      "x": -409,
+      "y": 150,
+      "parent": "#v7mpft"
+    },
+    {
+      "@id": "#tnayf7",
+      "name": "Gods of Olympus led by Zeus",
+      "x": -445,
+      "y": 51,
+      "parent": "#v7mpft"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 6,
+      "end": 11
+    },
+    {
+      "start": 0,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 12,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,27 @@
+aliases: habit formation, how to build habits, form new habits, building habits
+- Build good habits
+  - How habits work
+    - [Cue, routine, reward](https://en.wikipedia.org/wiki/Habit)
+    - Repetition makes behaviour automatic
+    - Often about two months; varies widely
+  - Choose the right habit
+    - Start with just one
+    - Be specific: what, when, where
+    - Link it to your identity
+  - Make it easy
+    - Start tiny: one press-up
+    - [If-then plans: after X, do Y](https://en.wikipedia.org/wiki/Implementation_intention)
+    - Stack it onto an existing habit
+    - Remove friction: lay things out
+  - Shape your environment
+    - Put cues where you'll see them
+    - Hide temptations out of sight
+    - Spend time with people who do it
+  - Keep it going
+    - Track it on a calendar
+    - Reward yourself straight away
+    - Missed a day? Never miss twice
+  - Handle setbacks
+    - Expect lapses; restart without guilt
+    - Shrink the habit when life's busy
+    - Review what's working each month

@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Photography basics",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#5e5g62",
+      "name": "The exposure triangle",
+      "x": -207,
+      "y": -80,
+      "link": "https://en.wikipedia.org/wiki/Exposure_%28photography%29",
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e2tiru",
+      "name": "Aperture: lower f-number, more light",
+      "x": -545,
+      "y": -64,
+      "link": "https://en.wikipedia.org/wiki/Aperture",
+      "parent": "#5e5g62"
+    },
+    {
+      "@id": "#gtxwb6",
+      "name": "Shutter speed freezes or blurs motion",
+      "x": -405,
+      "y": -156,
+      "parent": "#5e5g62"
+    },
+    {
+      "@id": "#thg7tz",
+      "name": "ISO: higher is brighter but noisier",
+      "x": -330,
+      "y": -245,
+      "parent": "#5e5g62"
+    },
+    {
+      "@id": "#53gv44",
+      "name": "Focus and depth of field",
+      "x": -51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qxu7qh",
+      "name": "Wide aperture blurs the background",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Depth_of_field",
+      "parent": "#53gv44"
+    },
+    {
+      "@id": "#dtg6k9",
+      "name": "Autofocus: single or continuous",
+      "x": -104,
+      "y": -367,
+      "parent": "#53gv44"
+    },
+    {
+      "@id": "#678kfk",
+      "name": "Focus on the eyes in portraits",
+      "x": 42,
+      "y": -423,
+      "parent": "#53gv44"
+    },
+    {
+      "@id": "#37nhz7",
+      "name": "Composition",
+      "x": 169,
+      "y": -125,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6jca2x",
+      "name": "Rule of thirds",
+      "x": 164,
+      "y": -335,
+      "link": "https://en.wikipedia.org/wiki/Rule_of_thirds",
+      "parent": "#37nhz7"
+    },
+    {
+      "@id": "#fbayg7",
+      "name": "Leading lines draw the eye",
+      "x": 281,
+      "y": -281,
+      "parent": "#37nhz7"
+    },
+    {
+      "@id": "#433tbm",
+      "name": "Fill the frame, simplify the background",
+      "x": 372,
+      "y": -203,
+      "parent": "#37nhz7"
+    },
+    {
+      "@id": "#ibrnhf",
+      "name": "Shoot from different heights",
+      "x": 430,
+      "y": -106,
+      "parent": "#37nhz7"
+    },
+    {
+      "@id": "#qfhicb",
+      "name": "Light",
+      "x": 207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bm9wmx",
+      "name": "Golden hour: soft, warm light",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Golden_hour_%28photography%29",
+      "parent": "#qfhicb"
+    },
+    {
+      "@id": "#h24kbj",
+      "name": "Overcast sky gives even light",
+      "x": 430,
+      "y": 106,
+      "parent": "#qfhicb"
+    },
+    {
+      "@id": "#wzqmc6",
+      "name": "Avoid harsh midday sun on faces",
+      "x": 372,
+      "y": 203,
+      "parent": "#qfhicb"
+    },
+    {
+      "@id": "#8ptr7y",
+      "name": "White balance fixes colour casts",
+      "x": 281,
+      "y": 281,
+      "parent": "#qfhicb"
+    },
+    {
+      "@id": "#nbdciv",
+      "name": "Gear",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jtdfzz",
+      "name": "A phone camera is a fine start",
+      "x": 164,
+      "y": 335,
+      "parent": "#nbdciv"
+    },
+    {
+      "@id": "#p4x37b",
+      "name": "Focal length changes the field of view",
+      "x": 38,
+      "y": 391,
+      "parent": "#nbdciv"
+    },
+    {
+      "@id": "#2xpm7g",
+      "name": "Prime lenses versus zoom lenses",
+      "x": -124,
+      "y": 447,
+      "parent": "#nbdciv"
+    },
+    {
+      "@id": "#nbvy7v",
+      "name": "Shoot RAW for more editing room",
+      "x": -225,
+      "y": 312,
+      "parent": "#nbdciv"
+    },
+    {
+      "@id": "#b96vn7",
+      "name": "Edit and improve",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mkce5x",
+      "name": "Crop, straighten, adjust exposure",
+      "x": -330,
+      "y": 245,
+      "parent": "#b96vn7"
+    },
+    {
+      "@id": "#vmcy44",
+      "name": "Study photos you admire",
+      "x": -405,
+      "y": 156,
+      "parent": "#b96vn7"
+    },
+    {
+      "@id": "#57rf9p",
+      "name": "Share only your best shots",
+      "x": -465,
+      "y": 56,
+      "parent": "#b96vn7"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,29 @@
+aliases: what are human rights, basic human rights, human rights explained
+- Human rights
+  - What they are
+    - Belong to everyone, simply by being human
+    - Universal, inalienable and indivisible
+    - Governments have duties to protect them
+  - Origins
+    - French Rights of Man, 1789
+    - US Bill of Rights, 1791
+    - [Universal Declaration adopted 10 December 1948](https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights)
+    - Eleanor Roosevelt chaired the drafting committee
+  - Kinds of rights
+    - Civil and political: speech, vote, fair trial
+    - Economic and social: education, health, work
+    - Freedom from torture and slavery
+    - Group rights like self-determination
+  - Key treaties
+    - [Two 1966 covenants bind ratifying states](https://en.wikipedia.org/wiki/International_Covenant_on_Civil_and_Political_Rights)
+    - Treaties on children, women and torture
+    - [European Convention on Human Rights, 1950](https://en.wikipedia.org/wiki/European_Convention_on_Human_Rights)
+  - Protecting rights
+    - UN Human Rights Council reviews countries
+    - Regional human rights courts
+    - National courts and constitutions
+    - [Amnesty and Human Rights Watch investigate](https://en.wikipedia.org/wiki/Amnesty_International)
+  - Ongoing debates
+    - Universal values versus cultural differences
+    - Balancing rights, e.g. speech versus safety
+    - Enforcement depends on states

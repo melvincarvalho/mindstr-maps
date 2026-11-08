@@ -1,0 +1,342 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "The periodic table",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#7492cn",
+      "name": "What it shows",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zqujst",
+      "name": "118 known chemical elements",
+      "x": -465,
+      "y": -53,
+      "link": "https://en.wikipedia.org/wiki/Chemical_element",
+      "parent": "#7492cn"
+    },
+    {
+      "@id": "#xakfxx",
+      "name": "Ordered by atomic number: proton count",
+      "x": -409,
+      "y": -150,
+      "parent": "#7492cn"
+    },
+    {
+      "@id": "#85emmt",
+      "name": "Each box: symbol, number, atomic mass",
+      "x": -340,
+      "y": -236,
+      "parent": "#7492cn"
+    },
+    {
+      "@id": "#4h58bg",
+      "name": "Rows and columns",
+      "x": -65,
+      "y": -177,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#imeyrd",
+      "name": "7 rows, called periods",
+      "x": -243,
+      "y": -303,
+      "parent": "#4h58bg"
+    },
+    {
+      "@id": "#xye6h3",
+      "name": "18 columns, called groups",
+      "x": -133,
+      "y": -360,
+      "parent": "#4h58bg"
+    },
+    {
+      "@id": "#9f84p8",
+      "name": "Same group, similar chemical behaviour",
+      "x": 0,
+      "y": -408,
+      "parent": "#4h58bg"
+    },
+    {
+      "@id": "#9ba2xb",
+      "name": "Why the pattern repeats",
+      "x": 168,
+      "y": -207,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4g5p3f",
+      "name": "Electrons fill shells around the nucleus",
+      "x": 175,
+      "y": -465,
+      "parent": "#9ba2xb"
+    },
+    {
+      "@id": "#mi38i4",
+      "name": "Outer electrons drive chemical reactions",
+      "x": 243,
+      "y": -303,
+      "parent": "#9ba2xb"
+    },
+    {
+      "@id": "#d2qwws",
+      "name": "Full outer shells make atoms stable",
+      "x": 520,
+      "y": -356,
+      "parent": "#9ba2xb"
+    },
+    {
+      "@id": "#wbcjx9",
+      "name": "Main families",
+      "x": 228,
+      "y": 26,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#c9c2ha",
+      "name": "Alkali metals react violently with water",
+      "x": 409,
+      "y": -150,
+      "link": "https://en.wikipedia.org/wiki/Alkali_metal",
+      "parent": "#wbcjx9"
+    },
+    {
+      "@id": "#jcae46",
+      "name": "Halogens: fluorine, chlorine, bromine, iodine",
+      "x": 445,
+      "y": -51,
+      "link": "https://en.wikipedia.org/wiki/Halogen",
+      "parent": "#wbcjx9"
+    },
+    {
+      "@id": "#59nccs",
+      "name": "Noble gases barely react at all",
+      "x": 505,
+      "y": 57,
+      "link": "https://en.wikipedia.org/wiki/Noble_gas",
+      "parent": "#wbcjx9"
+    },
+    {
+      "@id": "#6ss9wb",
+      "name": "Transition metals fill the middle block",
+      "x": 409,
+      "y": 150,
+      "parent": "#wbcjx9"
+    },
+    {
+      "@id": "#u2tz7h",
+      "name": "Lanthanides and actinides sit below",
+      "x": 340,
+      "y": 236,
+      "parent": "#wbcjx9"
+    },
+    {
+      "@id": "#btj6r2",
+      "name": "Trends across the table",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#nu9wvr",
+      "name": "Metals on the left, non-metals right",
+      "x": 243,
+      "y": 303,
+      "parent": "#btj6r2"
+    },
+    {
+      "@id": "#7k9ffk",
+      "name": "Metalloids lie along the staircase line",
+      "x": 133,
+      "y": 360,
+      "parent": "#btj6r2"
+    },
+    {
+      "@id": "#34a48v",
+      "name": "Atoms shrink from left to right",
+      "x": 0,
+      "y": 408,
+      "parent": "#btj6r2"
+    },
+    {
+      "@id": "#sair7u",
+      "name": "Fluorine, top right, grabs electrons hardest",
+      "x": -175,
+      "y": 465,
+      "parent": "#btj6r2"
+    },
+    {
+      "@id": "#t52ux5",
+      "name": "History",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#28dnpf",
+      "name": "Mendeleev published his table in 1869",
+      "x": -243,
+      "y": 303,
+      "link": "https://en.wikipedia.org/wiki/Dmitri_Mendeleev",
+      "parent": "#t52ux5"
+    },
+    {
+      "@id": "#u7f8sh",
+      "name": "He left gaps for undiscovered elements",
+      "x": -340,
+      "y": 236,
+      "parent": "#t52ux5"
+    },
+    {
+      "@id": "#vf6y5f",
+      "name": "Gallium and germanium matched his predictions",
+      "x": -409,
+      "y": 150,
+      "parent": "#t52ux5"
+    },
+    {
+      "@id": "#due87a",
+      "name": "Moseley ordered elements by atomic number",
+      "x": -445,
+      "y": 51,
+      "parent": "#t52ux5"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 13,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,27 @@
+aliases: western classical music, orchestral music, classical composers
+- Classical music
+  - Baroque era, about 1600–1750
+    - [Bach's fugues and cantatas](https://en.wikipedia.org/wiki/Johann_Sebastian_Bach)
+    - Vivaldi's The Four Seasons
+    - Handel's Messiah
+  - Classical era, about 1750–1820
+    - Haydn shaped the symphony and quartet
+    - Mozart wrote over 600 works
+    - [Sonata form structures whole movements](https://en.wikipedia.org/wiki/Sonata_form)
+  - Romantic era, about 1820–1900
+    - [Beethoven bridges Classical and Romantic](https://en.wikipedia.org/wiki/Ludwig_van_Beethoven)
+    - Chopin's expressive piano music
+    - Wagner and Verdi transform opera
+    - Tchaikovsky's ballets and symphonies
+  - 20th century and beyond
+    - Debussy's dreamlike, impressionist harmonies
+    - Stravinsky's The Rite of Spring
+    - Minimalism: Steve Reich, Philip Glass
+    - Film scores reach huge audiences
+  - [The orchestra](https://en.wikipedia.org/wiki/Orchestra)
+    - Strings, woodwind, brass and percussion
+    - Conductor sets tempo and interpretation
+  - How to start listening
+    - Begin with famous short pieces
+    - Follow one composer you like
+    - Hear an orchestra play live

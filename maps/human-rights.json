@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Human rights",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#3rui5w",
+      "name": "What they are",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5pdzhr",
+      "name": "Belong to everyone, simply by being human",
+      "x": -505,
+      "y": -60,
+      "parent": "#3rui5w"
+    },
+    {
+      "@id": "#74dbmn",
+      "name": "Universal, inalienable and indivisible",
+      "x": -405,
+      "y": -156,
+      "parent": "#3rui5w"
+    },
+    {
+      "@id": "#s4u3hd",
+      "name": "Governments have duties to protect them",
+      "x": -330,
+      "y": -245,
+      "parent": "#3rui5w"
+    },
+    {
+      "@id": "#f6cz2e",
+      "name": "Origins",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uaj5qn",
+      "name": "French Rights of Man, 1789",
+      "x": -225,
+      "y": -312,
+      "parent": "#f6cz2e"
+    },
+    {
+      "@id": "#9nk3db",
+      "name": "US Bill of Rights, 1791",
+      "x": -104,
+      "y": -367,
+      "parent": "#f6cz2e"
+    },
+    {
+      "@id": "#3wmr9t",
+      "name": "Universal Declaration adopted 10 December 1948",
+      "x": 42,
+      "y": -423,
+      "link": "https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights",
+      "parent": "#f6cz2e"
+    },
+    {
+      "@id": "#sqtytv",
+      "name": "Eleanor Roosevelt chaired the drafting committee",
+      "x": 234,
+      "y": -485,
+      "parent": "#f6cz2e"
+    },
+    {
+      "@id": "#xynegt",
+      "name": "Kinds of rights",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ery5cf",
+      "name": "Civil and political: speech, vote, fair trial",
+      "x": 281,
+      "y": -281,
+      "parent": "#xynegt"
+    },
+    {
+      "@id": "#cz9t3m",
+      "name": "Economic and social: education, health, work",
+      "x": 372,
+      "y": -203,
+      "parent": "#xynegt"
+    },
+    {
+      "@id": "#6m8ab4",
+      "name": "Freedom from torture and slavery",
+      "x": 487,
+      "y": -121,
+      "parent": "#xynegt"
+    },
+    {
+      "@id": "#iu7g5p",
+      "name": "Group rights like self-determination",
+      "x": 450,
+      "y": 0,
+      "parent": "#xynegt"
+    },
+    {
+      "@id": "#kcdum2",
+      "name": "Key treaties",
+      "x": 190,
+      "y": 104,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mjaedh",
+      "name": "Two 1966 covenants bind ratifying states",
+      "x": 487,
+      "y": 121,
+      "link": "https://en.wikipedia.org/wiki/International_Covenant_on_Civil_and_Political_Rights",
+      "parent": "#kcdum2"
+    },
+    {
+      "@id": "#p3vs94",
+      "name": "Treaties on children, women and torture",
+      "x": 372,
+      "y": 203,
+      "parent": "#kcdum2"
+    },
+    {
+      "@id": "#ukei42",
+      "name": "European Convention on Human Rights, 1950",
+      "x": 281,
+      "y": 281,
+      "link": "https://en.wikipedia.org/wiki/European_Convention_on_Human_Rights",
+      "parent": "#kcdum2"
+    },
+    {
+      "@id": "#c9f5cq",
+      "name": "Protecting rights",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dbujyi",
+      "name": "UN Human Rights Council reviews countries",
+      "x": 164,
+      "y": 335,
+      "parent": "#c9f5cq"
+    },
+    {
+      "@id": "#dtjxpd",
+      "name": "Regional human rights courts",
+      "x": 38,
+      "y": 391,
+      "parent": "#c9f5cq"
+    },
+    {
+      "@id": "#nw32qg",
+      "name": "National courts and constitutions",
+      "x": -124,
+      "y": 447,
+      "parent": "#c9f5cq"
+    },
+    {
+      "@id": "#aj58r4",
+      "name": "Amnesty and Human Rights Watch investigate",
+      "x": -365,
+      "y": 508,
+      "link": "https://en.wikipedia.org/wiki/Amnesty_International",
+      "parent": "#c9f5cq"
+    },
+    {
+      "@id": "#timh6w",
+      "name": "Ongoing debates",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6w36t5",
+      "name": "Universal values versus cultural differences",
+      "x": -330,
+      "y": 245,
+      "parent": "#timh6w"
+    },
+    {
+      "@id": "#7wga73",
+      "name": "Balancing rights, e.g. speech versus safety",
+      "x": -405,
+      "y": 156,
+      "parent": "#timh6w"
+    },
+    {
+      "@id": "#a9dzjr",
+      "name": "Enforcement depends on states",
+      "x": -465,
+      "y": 56,
+      "parent": "#timh6w"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

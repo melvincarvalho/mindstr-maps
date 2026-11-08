@@ -1,0 +1,307 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "How films are made",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#h4w8im",
+      "name": "Development",
+      "x": -186,
+      "y": -108,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yiym2j",
+      "name": "Idea, book or true story optioned",
+      "x": -444,
+      "y": -56,
+      "parent": "#h4w8im"
+    },
+    {
+      "@id": "#bpavq7",
+      "name": "Treatment summarises the story",
+      "x": -401,
+      "y": -163,
+      "parent": "#h4w8im"
+    },
+    {
+      "@id": "#hgfnnf",
+      "name": "Screenplay written and rewritten",
+      "x": -318,
+      "y": -255,
+      "link": "https://en.wikipedia.org/wiki/Screenplay",
+      "parent": "#h4w8im"
+    },
+    {
+      "@id": "#c7gbkm",
+      "name": "Producers secure the financing",
+      "x": -204,
+      "y": -321,
+      "parent": "#h4w8im"
+    },
+    {
+      "@id": "#i9xfxr",
+      "name": "Pre-production",
+      "x": 71,
+      "y": -175,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yu9j28",
+      "name": "Director and cast are hired",
+      "x": -73,
+      "y": -372,
+      "parent": "#i9xfxr"
+    },
+    {
+      "@id": "#pn8naz",
+      "name": "Storyboards plan every shot",
+      "x": 82,
+      "y": -420,
+      "link": "https://en.wikipedia.org/wiki/Storyboard",
+      "parent": "#i9xfxr"
+    },
+    {
+      "@id": "#c9btku",
+      "name": "Locations scouted, sets built",
+      "x": 204,
+      "y": -321,
+      "parent": "#i9xfxr"
+    },
+    {
+      "@id": "#b4cc9t",
+      "name": "Schedule and budget locked",
+      "x": 318,
+      "y": -255,
+      "parent": "#i9xfxr"
+    },
+    {
+      "@id": "#rnhexv",
+      "name": "Principal photography",
+      "x": 250,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Principal_photography",
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dsypun",
+      "name": "Scenes shot out of story order",
+      "x": 401,
+      "y": -163,
+      "parent": "#rnhexv"
+    },
+    {
+      "@id": "#s2zw22",
+      "name": "Crew: camera, lighting, sound, art",
+      "x": 444,
+      "y": -56,
+      "parent": "#rnhexv"
+    },
+    {
+      "@id": "#bj52fw",
+      "name": "Several takes of each shot",
+      "x": 444,
+      "y": 56,
+      "parent": "#rnhexv"
+    },
+    {
+      "@id": "#gfrjvb",
+      "name": "Each day's footage reviewed as dailies",
+      "x": 401,
+      "y": 163,
+      "parent": "#rnhexv"
+    },
+    {
+      "@id": "#7cd2p3",
+      "name": "Post-production",
+      "x": 36,
+      "y": 182,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hq5ni3",
+      "name": "Editor assembles the cut",
+      "x": 318,
+      "y": 255,
+      "link": "https://en.wikipedia.org/wiki/Film_editing",
+      "parent": "#7cd2p3"
+    },
+    {
+      "@id": "#qj852k",
+      "name": "Visual effects added",
+      "x": 204,
+      "y": 321,
+      "parent": "#7cd2p3"
+    },
+    {
+      "@id": "#2ncd6i",
+      "name": "Composer scores the finished cut",
+      "x": 73,
+      "y": 372,
+      "parent": "#7cd2p3"
+    },
+    {
+      "@id": "#y3vkps",
+      "name": "Sound and dialogue mixed",
+      "x": -82,
+      "y": 420,
+      "parent": "#7cd2p3"
+    },
+    {
+      "@id": "#6wy53b",
+      "name": "Colour grading sets the look",
+      "x": -204,
+      "y": 321,
+      "parent": "#7cd2p3"
+    },
+    {
+      "@id": "#dc3v8e",
+      "name": "Distribution",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#quhxjh",
+      "name": "Festivals and sales to distributors",
+      "x": -318,
+      "y": 255,
+      "parent": "#dc3v8e"
+    },
+    {
+      "@id": "#npbdfd",
+      "name": "Trailers and marketing campaign",
+      "x": -401,
+      "y": 163,
+      "parent": "#dc3v8e"
+    },
+    {
+      "@id": "#t9pym6",
+      "name": "Cinemas first, then streaming and TV",
+      "x": -484,
+      "y": 60,
+      "parent": "#dc3v8e"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 16,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,31 @@
+aliases: paris trip, things to do in paris, paris itinerary, paris travel guide
+- Visit Paris
+  - Plan ahead
+    - Spring and early autumn are loveliest
+    - August quieter; some shops close
+    - Book the Louvre and Eiffel Tower ahead
+    - Check entry rules on official sites
+  - Landmarks
+    - [Eiffel Tower sparkles on the hour](https://en.wikipedia.org/wiki/Eiffel_Tower)
+    - Arc de Triomphe and Champs-Élysées
+    - [Notre-Dame, reopened in 2024](https://en.wikipedia.org/wiki/Notre-Dame_de_Paris)
+    - Sacré-Cœur atop Montmartre
+  - Art and museums
+    - [The Louvre and the Mona Lisa](https://en.wikipedia.org/wiki/Louvre)
+    - Musée d'Orsay for Impressionists
+    - Centre Pompidou for modern art
+    - Sainte-Chapelle's stained glass
+  - Neighbourhoods
+    - Le Marais: old lanes and boutiques
+    - Latin Quarter and Saint-Germain cafés
+    - Canal Saint-Martin's waterside bars
+    - Strolls along the Seine
+  - Getting around
+    - [Métro stations every few blocks](https://en.wikipedia.org/wiki/Paris_M%C3%A9tro)
+    - The centre is compact and walkable
+    - RER trains to airports and Versailles
+    - Shared Vélib' bikes
+  - Food and etiquette
+    - Say "Bonjour" when entering shops
+    - Fresh bread from a boulangerie
+    - Linger over coffee at a café

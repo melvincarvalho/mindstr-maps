@@ -1,0 +1,27 @@
+aliases: cold war, cold war history, us soviet cold war
+- The Cold War
+  - Two rival superpowers, 1947 to 1991
+    - US capitalism versus Soviet communism
+    - No direct war between them
+    - [Iron Curtain divided Europe](https://en.wikipedia.org/wiki/Iron_Curtain)
+  - Early clashes
+    - Truman Doctrine and Marshall Plan, 1947
+    - [Berlin Airlift beat the blockade, 1948–49](https://en.wikipedia.org/wiki/Berlin_Blockade)
+    - NATO founded 1949, Warsaw Pact 1955
+  - The nuclear arms race
+    - Soviets test an atomic bomb, 1949
+    - [Mutual assured destruction deterred attack](https://en.wikipedia.org/wiki/Mutual_assured_destruction)
+    - [Cuban Missile Crisis, October 1962](https://en.wikipedia.org/wiki/Cuban_Missile_Crisis)
+    - Space race: Sputnik to the Moon
+  - Proxy wars
+    - Korean War, 1950 to 1953
+    - Vietnam War ended in 1975
+    - Soviet war in Afghanistan, 1979–89
+  - Thaw and détente
+    - Washington–Moscow hotline set up, 1963
+    - Nixon visits China, 1972
+    - SALT treaties limited nuclear arms
+  - The end
+    - Gorbachev's glasnost and perestroika reforms
+    - Berlin Wall falls in 1989
+    - [Soviet Union dissolved, December 1991](https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union)

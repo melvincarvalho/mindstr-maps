@@ -1,0 +1,31 @@
+aliases: london trip, things to do in london, london travel guide, london itinerary
+- Visit London
+  - Plan ahead
+    - Late spring to early autumn is warmest
+    - Rain any time, so pack layers
+    - Check UK entry rules on GOV.UK
+    - Book popular shows and attractions early
+  - Classic sights
+    - [Tower of London and Crown Jewels](https://en.wikipedia.org/wiki/Tower_of_London)
+    - Westminster Abbey and Big Ben
+    - Changing of the Guard at Buckingham Palace
+    - Views from the London Eye
+  - Free museums
+    - [British Museum's world collections](https://en.wikipedia.org/wiki/British_Museum)
+    - Natural History and Science museums
+    - National Gallery on Trafalgar Square
+    - Tate Modern on the South Bank
+  - Neighbourhoods to explore
+    - Covent Garden and West End theatres
+    - Camden Market and Regent's Canal
+    - Borough Market for food lovers
+    - [Greenwich and the Prime Meridian](https://en.wikipedia.org/wiki/Greenwich)
+  - Getting around
+    - [The Tube covers most of the city](https://en.wikipedia.org/wiki/London_Underground)
+    - Tap a contactless card to pay
+    - Red double-decker buses and river boats
+    - Central sights are walkable
+  - Etiquette and tips
+    - Stand on the right on escalators
+    - Order drinks at the bar in pubs
+    - Relax in Hyde Park and Regent's Park

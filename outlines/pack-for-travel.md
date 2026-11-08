@@ -1,0 +1,31 @@
+aliases: packing list, travel packing list, what to pack, packing tips
+- Pack for travel
+  - Start with a list
+    - Check the forecast and planned activities
+    - Check your airline's baggage limits
+    - Plan outfits that mix and match
+  - Documents and money
+    - [Passport with months of validity left](https://en.wikipedia.org/wiki/Passport)
+    - Tickets, bookings and insurance details
+    - A bank card plus some local cash
+    - Copies stored separately or online
+  - Clothes
+    - Pack for a week, then wash
+    - Layers beat bulky items
+    - Comfortable, worn-in walking shoes
+    - Wear bulkiest items on travel day
+  - Toiletries and health
+    - Check liquid limits for hand luggage
+    - Prescription medicines in original packaging
+    - Basic first-aid kit
+    - Sunscreen and insect repellent
+  - Tech
+    - [Plug adapter for your destination](https://en.wikipedia.org/wiki/AC_power_plugs_and_sockets)
+    - Chargers and a power bank
+    - Spare lithium batteries go in hand luggage
+    - Headphones for the journey
+  - Packing techniques
+    - Roll clothes or use packing cubes
+    - Heaviest items near the wheels
+    - Valuables and essentials in carry-on
+    - Leave room for souvenirs

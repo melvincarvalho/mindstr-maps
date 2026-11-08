@@ -1,0 +1,309 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "The Cold War",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#g89nsy",
+      "name": "Two rival superpowers, 1947 to 1991",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k4geah",
+      "name": "US capitalism versus Soviet communism",
+      "x": -584,
+      "y": -80,
+      "parent": "#g89nsy"
+    },
+    {
+      "@id": "#k28j43",
+      "name": "No direct war between them",
+      "x": -396,
+      "y": -171,
+      "parent": "#g89nsy"
+    },
+    {
+      "@id": "#5yitgd",
+      "name": "Iron Curtain divided Europe",
+      "x": -305,
+      "y": -265,
+      "link": "https://en.wikipedia.org/wiki/Iron_Curtain",
+      "parent": "#g89nsy"
+    },
+    {
+      "@id": "#fz8ea6",
+      "name": "Early clashes",
+      "x": -19,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v2dxk8",
+      "name": "Truman Doctrine and Marshall Plan, 1947",
+      "x": -181,
+      "y": -330,
+      "parent": "#fz8ea6"
+    },
+    {
+      "@id": "#ygtais",
+      "name": "Berlin Airlift beat the blockade, 1948–49",
+      "x": -41,
+      "y": -391,
+      "link": "https://en.wikipedia.org/wiki/Berlin_Blockade",
+      "parent": "#fz8ea6"
+    },
+    {
+      "@id": "#53rtyh",
+      "name": "NATO founded 1949, Warsaw Pact 1955",
+      "x": 140,
+      "y": -445,
+      "parent": "#fz8ea6"
+    },
+    {
+      "@id": "#ksba7a",
+      "name": "The nuclear arms race",
+      "x": 202,
+      "y": -88,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jhya3b",
+      "name": "Soviets test an atomic bomb, 1949",
+      "x": 246,
+      "y": -301,
+      "parent": "#ksba7a"
+    },
+    {
+      "@id": "#pbxuix",
+      "name": "Mutual assured destruction deterred attack",
+      "x": 355,
+      "y": -221,
+      "link": "https://en.wikipedia.org/wiki/Mutual_assured_destruction",
+      "parent": "#ksba7a"
+    },
+    {
+      "@id": "#ssmuuq",
+      "name": "Cuban Missile Crisis, October 1962",
+      "x": 502,
+      "y": -137,
+      "link": "https://en.wikipedia.org/wiki/Cuban_Missile_Crisis",
+      "parent": "#ksba7a"
+    },
+    {
+      "@id": "#wfr742",
+      "name": "Space race: Sputnik to the Moon",
+      "x": 450,
+      "y": 0,
+      "parent": "#ksba7a"
+    },
+    {
+      "@id": "#qntgbr",
+      "name": "Proxy wars",
+      "x": 182,
+      "y": 113,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#fk26xe",
+      "name": "Korean War, 1950 to 1953",
+      "x": 426,
+      "y": 117,
+      "parent": "#qntgbr"
+    },
+    {
+      "@id": "#ygicjr",
+      "name": "Vietnam War ended in 1975",
+      "x": 355,
+      "y": 221,
+      "parent": "#qntgbr"
+    },
+    {
+      "@id": "#dtwqbz",
+      "name": "Soviet war in Afghanistan, 1979–89",
+      "x": 246,
+      "y": 301,
+      "parent": "#qntgbr"
+    },
+    {
+      "@id": "#r4rury",
+      "name": "Thaw and détente",
+      "x": -19,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bfuzgt",
+      "name": "Washington–Moscow hotline set up, 1963",
+      "x": 110,
+      "y": 349,
+      "parent": "#r4rury"
+    },
+    {
+      "@id": "#msj7f6",
+      "name": "Nixon visits China, 1972",
+      "x": -43,
+      "y": 407,
+      "parent": "#r4rury"
+    },
+    {
+      "@id": "#68xm7g",
+      "name": "SALT treaties limited nuclear arms",
+      "x": -253,
+      "y": 465,
+      "parent": "#r4rury"
+    },
+    {
+      "@id": "#cpsrmd",
+      "name": "The end",
+      "x": -202,
+      "y": 88,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#axnyp3",
+      "name": "Gorbachev's glasnost and perestroika reforms",
+      "x": -305,
+      "y": 265,
+      "parent": "#cpsrmd"
+    },
+    {
+      "@id": "#3rdjxd",
+      "name": "Berlin Wall falls in 1989",
+      "x": -396,
+      "y": 171,
+      "parent": "#cpsrmd"
+    },
+    {
+      "@id": "#ryrrsu",
+      "name": "Soviet Union dissolved, December 1991",
+      "x": -464,
+      "y": 62,
+      "link": "https://en.wikipedia.org/wiki/Dissolution_of_the_Soviet_Union",
+      "parent": "#cpsrmd"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

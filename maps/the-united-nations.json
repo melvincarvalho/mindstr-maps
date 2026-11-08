@@ -1,0 +1,363 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "The United Nations",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#e6xjm6",
+      "name": "Founding",
+      "x": -197,
+      "y": -96,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tw4uun",
+      "name": "Charter took effect 24 October 1945",
+      "x": -466,
+      "y": -51,
+      "link": "https://en.wikipedia.org/wiki/Charter_of_the_United_Nations",
+      "parent": "#e6xjm6"
+    },
+    {
+      "@id": "#wchqgx",
+      "name": "Replaced the failed League of Nations",
+      "x": -431,
+      "y": -149,
+      "parent": "#e6xjm6"
+    },
+    {
+      "@id": "#zk6gcd",
+      "name": "51 founding members, now 193",
+      "x": -349,
+      "y": -227,
+      "parent": "#e6xjm6"
+    },
+    {
+      "@id": "#m6u9be",
+      "name": "Headquarters in New York City",
+      "x": -260,
+      "y": -294,
+      "parent": "#e6xjm6"
+    },
+    {
+      "@id": "#48wi3h",
+      "name": "Aims",
+      "x": -16,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3aftdn",
+      "name": "Maintain international peace and security",
+      "x": -158,
+      "y": -354,
+      "parent": "#48wi3h"
+    },
+    {
+      "@id": "#d8frd4",
+      "name": "Develop friendly relations among nations",
+      "x": -34,
+      "y": -407,
+      "parent": "#48wi3h"
+    },
+    {
+      "@id": "#idr3hk",
+      "name": "Promote cooperation and human rights",
+      "x": 120,
+      "y": -464,
+      "parent": "#48wi3h"
+    },
+    {
+      "@id": "#muc6pn",
+      "name": "Main organs",
+      "x": 197,
+      "y": -96,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2axuhf",
+      "name": "General Assembly: one vote per member",
+      "x": 333,
+      "y": -516,
+      "link": "https://en.wikipedia.org/wiki/United_Nations_General_Assembly",
+      "parent": "#muc6pn"
+    },
+    {
+      "@id": "#b6gqve",
+      "name": "Security Council: 15 members, 5 permanent",
+      "x": 307,
+      "y": -263,
+      "link": "https://en.wikipedia.org/wiki/United_Nations_Security_Council",
+      "parent": "#muc6pn"
+    },
+    {
+      "@id": "#jhexa8",
+      "name": "US, UK, France, Russia, China hold vetoes",
+      "x": 457,
+      "y": -392,
+      "parent": "#b6gqve"
+    },
+    {
+      "@id": "#itpkk8",
+      "name": "Secretariat led by the Secretary-General",
+      "x": 384,
+      "y": -187,
+      "parent": "#muc6pn"
+    },
+    {
+      "@id": "#mfkbm6",
+      "name": "International Court of Justice in The Hague",
+      "x": 509,
+      "y": -113,
+      "parent": "#muc6pn"
+    },
+    {
+      "@id": "#2kczdi",
+      "name": "Economic and Social Council",
+      "x": 450,
+      "y": 0,
+      "parent": "#muc6pn"
+    },
+    {
+      "@id": "#kfb378",
+      "name": "Agencies and programmes",
+      "x": 178,
+      "y": 116,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wcwu88",
+      "name": "WHO for global health",
+      "x": 433,
+      "y": 97,
+      "parent": "#kfb378"
+    },
+    {
+      "@id": "#sy3u7v",
+      "name": "UNICEF for children",
+      "x": 384,
+      "y": 187,
+      "parent": "#kfb378"
+    },
+    {
+      "@id": "#nvn4dr",
+      "name": "World Food Programme fights hunger",
+      "x": 307,
+      "y": 263,
+      "parent": "#kfb378"
+    },
+    {
+      "@id": "#g698w8",
+      "name": "UNHCR protects refugees",
+      "x": 207,
+      "y": 320,
+      "parent": "#kfb378"
+    },
+    {
+      "@id": "#hx4eng",
+      "name": "What it does",
+      "x": -47,
+      "y": 180,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7umd64",
+      "name": "Peacekeeping missions in conflict zones",
+      "x": 96,
+      "y": 368,
+      "parent": "#hx4eng"
+    },
+    {
+      "@id": "#gd8yjt",
+      "name": "Sustainable Development Goals for 2030",
+      "x": -35,
+      "y": 423,
+      "link": "https://en.wikipedia.org/wiki/Sustainable_Development_Goals",
+      "parent": "#hx4eng"
+    },
+    {
+      "@id": "#5wth9i",
+      "name": "Humanitarian aid after disasters",
+      "x": -214,
+      "y": 474,
+      "parent": "#hx4eng"
+    },
+    {
+      "@id": "#48tcnp",
+      "name": "Universal Declaration of Human Rights, 1948",
+      "x": -260,
+      "y": 294,
+      "parent": "#hx4eng"
+    },
+    {
+      "@id": "#xvhc5i",
+      "name": "Limits and criticism",
+      "x": -211,
+      "y": 73,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#g2ah85",
+      "name": "Veto can block Security Council action",
+      "x": -349,
+      "y": 227,
+      "parent": "#xvhc5i"
+    },
+    {
+      "@id": "#kdfzq5",
+      "name": "Relies on members for money and troops",
+      "x": -413,
+      "y": 143,
+      "parent": "#xvhc5i"
+    },
+    {
+      "@id": "#ryjmv8",
+      "name": "Long debate over Security Council reform",
+      "x": -546,
+      "y": 59,
+      "parent": "#xvhc5i"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 12,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 10,
+      "end": 15
+    },
+    {
+      "start": 10,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    },
+    {
+      "start": 0,
+      "end": 27
+    },
+    {
+      "start": 27,
+      "end": 28
+    },
+    {
+      "start": 27,
+      "end": 29
+    },
+    {
+      "start": 27,
+      "end": 30
+    }
+  ],
+  "selectedNode": 0
+}

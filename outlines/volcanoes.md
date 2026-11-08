@@ -1,0 +1,31 @@
+aliases: volcano, how volcanoes form, volcanic eruptions, how volcanoes work
+- Volcanoes
+  - Where they form
+    - [Subduction zones, like the Ring of Fire](https://en.wikipedia.org/wiki/Ring_of_Fire)
+    - Spreading ridges, like Iceland
+    - [Hotspots, like Hawaii](https://en.wikipedia.org/wiki/Hotspot_%28geology%29)
+  - How an eruption happens
+    - Rock melts into magma deep underground
+    - Magma rises through cracks in the crust
+    - Gas pressure builds in a magma chamber
+    - Magma bursts out as lava and ash
+  - Types of volcano
+    - [Shield volcanoes: broad, gentle slopes](https://en.wikipedia.org/wiki/Shield_volcano)
+    - [Stratovolcanoes: steep cones of layers](https://en.wikipedia.org/wiki/Stratovolcano)
+    - Cinder cones: small heaps of fragments
+    - Calderas: craters collapsed after huge eruptions
+  - Eruption styles
+    - Runny basalt lava flows out gently
+    - Sticky, gassy magma explodes violently
+    - VEI scale rates eruptions 0 to 8
+  - Hazards
+    - [Pyroclastic flows: fast, scorching avalanches](https://en.wikipedia.org/wiki/Pyroclastic_flow)
+    - Ash clouds ground aircraft
+    - Lahars: fast volcanic mudflows
+    - Big eruptions can cool global climate
+    - Scientists watch tremors, swelling and gases
+  - Famous eruptions
+    - Vesuvius buried Pompeii, AD 79
+    - Tambora, 1815, caused a summerless 1816
+    - Krakatoa, 1883, heard nearly 5,000 km away
+    - Mount St. Helens blew sideways, 1980

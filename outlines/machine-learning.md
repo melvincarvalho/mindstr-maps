@@ -1,0 +1,30 @@
+aliases: what is machine learning, machine learning explained, how machine learning works
+- Machine learning
+  - The core idea
+    - Learn patterns from examples, not rules
+    - A model maps inputs to outputs
+    - Training tunes the model's parameters
+  - How training works
+    - A loss measures how wrong predictions are
+    - [Gradient descent nudges parameters to reduce loss](https://en.wikipedia.org/wiki/Gradient_descent)
+    - Repeat over the data many times
+  - Three main types
+    - [Supervised: learn from labelled examples](https://en.wikipedia.org/wiki/Supervised_learning)
+    - [Unsupervised: find structure in unlabelled data](https://en.wikipedia.org/wiki/Unsupervised_learning)
+    - [Reinforcement: learn by trial and reward](https://en.wikipedia.org/wiki/Reinforcement_learning)
+  - Common algorithms
+    - Linear and logistic regression
+    - Decision trees and random forests
+    - k-means clustering groups similar points
+    - Neural networks for images and text
+  - The workflow
+    - Collect and clean the data
+    - Split into training and test sets
+    - Train, then measure on test data
+    - Tune features and settings, retrain
+    - Deploy and monitor for drift
+  - Pitfalls
+    - [Overfitting memorises instead of generalising](https://en.wikipedia.org/wiki/Overfitting)
+    - Biased data gives biased models
+    - Correlation is not causation
+    - Garbage in, garbage out

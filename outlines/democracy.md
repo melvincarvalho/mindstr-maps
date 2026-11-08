@@ -1,0 +1,29 @@
+aliases: what is democracy, how democracy works, democratic government
+- Democracy
+  - The core idea
+    - Power comes from the people
+    - Greek for "rule by the people"
+  - Spread over time
+    - [Athens: early democracy from about 508 BC](https://en.wikipedia.org/wiki/Athenian_democracy)
+    - [Magna Carta limited royal power, 1215](https://en.wikipedia.org/wiki/Magna_Carta)
+    - New Zealand first gave women votes, 1893
+    - Wave of new democracies after 1989
+  - Main forms
+    - [Direct: citizens vote on laws](https://en.wikipedia.org/wiki/Direct_democracy)
+    - [Representative: citizens elect lawmakers](https://en.wikipedia.org/wiki/Representative_democracy)
+    - Parliamentary versus presidential systems
+    - Constitutional monarchies can be democracies
+  - Free and fair elections
+    - Universal adult suffrage
+    - Secret ballot protects voters
+    - Regular elections allow peaceful change
+    - Electoral systems: first-past-the-post, proportional
+  - Checks on power
+    - Separation of legislature, executive and courts
+    - Independent courts and rule of law
+    - Constitution limits what governments do
+    - Term limits in some systems
+  - Rights that make it work
+    - Free speech and free press
+    - Freedom to assemble and form parties
+    - Protection for minority rights

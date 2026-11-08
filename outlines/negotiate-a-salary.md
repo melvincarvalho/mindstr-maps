@@ -1,0 +1,28 @@
+aliases: salary negotiation, how to negotiate salary, negotiate pay, pay negotiation
+- Negotiate a salary
+  - Research your market value
+    - Check salary surveys and job ads
+    - Ask peers and recruiters for ranges
+    - Factor in location and experience
+  - Set your numbers
+    - Pick a target and walk-away figure
+    - [Know your best alternative (BATNA)](https://en.wikipedia.org/wiki/Best_alternative_to_a_negotiated_agreement)
+    - Think in total compensation
+  - Time it well
+    - Negotiate after the offer, before accepting
+    - For a raise, use review season
+    - Ask what budget the role has
+  - Make your case
+    - Thank them and show enthusiasm
+    - [Open with a specific, researched figure](https://en.wikipedia.org/wiki/Anchoring_effect)
+    - Link the ask to your results
+    - Stay calm; silence is fine
+  - Beyond base pay
+    - Bonus, shares and pension
+    - Extra holiday or flexible hours
+    - Training budget or better title
+    - Signing bonus to bridge a gap
+  - Close the deal
+    - Get the final offer in writing
+    - Accept graciously or decline politely
+    - If refused, agree when to revisit

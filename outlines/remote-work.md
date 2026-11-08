@@ -1,0 +1,29 @@
+aliases: working from home, work from home, wfh, remote working, telecommuting
+- Remote work
+  - Forms it takes
+    - [Fully remote, from any location](https://en.wikipedia.org/wiki/Remote_work)
+    - Hybrid: some days in the office
+    - [Digital nomads travel while working](https://en.wikipedia.org/wiki/Digital_nomad)
+    - Boomed during the 2020 COVID-19 pandemic
+  - Benefits
+    - No commute saves time and money
+    - Wider pool of jobs and talent
+    - More flexible daily schedule
+  - Challenges
+    - Isolation and loneliness
+    - Work bleeding into home life
+    - Harder to be noticed for promotion
+    - Time zones complicate meetings
+  - Set up your workspace
+    - Dedicated desk away from bed
+    - [Ergonomic chair and screen height](https://en.wikipedia.org/wiki/Human_factors_and_ergonomics)
+    - Reliable internet and a headset
+  - Work well with a team
+    - Default to written, asynchronous updates
+    - [Video calls for discussion, not everything](https://en.wikipedia.org/wiki/Videotelephony)
+    - Share calendars and working hours
+    - Regular one-to-ones with your manager
+  - Look after yourself
+    - Keep fixed start and stop times
+    - Take breaks and go outside
+    - Schedule social contact on purpose

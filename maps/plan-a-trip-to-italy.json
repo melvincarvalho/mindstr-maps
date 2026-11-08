@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Plan a trip to Italy",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ucvg4d",
+      "name": "Pick when to go",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y9qq87",
+      "name": "Spring and autumn: mild, fewer crowds",
+      "x": -505,
+      "y": -57,
+      "parent": "#ucvg4d"
+    },
+    {
+      "@id": "#u8ki3y",
+      "name": "August is hot; many locals holiday",
+      "x": -409,
+      "y": -150,
+      "parent": "#ucvg4d"
+    },
+    {
+      "@id": "#bv4vxc",
+      "name": "Winter suits cities and Alpine skiing",
+      "x": -340,
+      "y": -236,
+      "parent": "#ucvg4d"
+    },
+    {
+      "@id": "#3f6xx4",
+      "name": "Choose your regions",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mmss9c",
+      "name": "Rome: Colosseum, Forum and Vatican",
+      "x": -243,
+      "y": -303,
+      "link": "https://en.wikipedia.org/wiki/Rome",
+      "parent": "#3f6xx4"
+    },
+    {
+      "@id": "#rvhmk7",
+      "name": "Florence and Tuscany for Renaissance art",
+      "x": -133,
+      "y": -360,
+      "parent": "#3f6xx4"
+    },
+    {
+      "@id": "#2emxwa",
+      "name": "Venice and its canals",
+      "x": 0,
+      "y": -408,
+      "link": "https://en.wikipedia.org/wiki/Venice",
+      "parent": "#3f6xx4"
+    },
+    {
+      "@id": "#gv65ka",
+      "name": "Naples, Pompeii and the Amalfi Coast",
+      "x": 175,
+      "y": -465,
+      "parent": "#3f6xx4"
+    },
+    {
+      "@id": "#b6iwzx",
+      "name": "Lakes and Dolomites in the north",
+      "x": 243,
+      "y": -303,
+      "parent": "#3f6xx4"
+    },
+    {
+      "@id": "#i6kfuy",
+      "name": "Sort entry and bookings",
+      "x": 209,
+      "y": -76,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gb6q7a",
+      "name": "Check entry rules on official sites",
+      "x": 340,
+      "y": -236,
+      "parent": "#i6kfuy"
+    },
+    {
+      "@id": "#bpfp56",
+      "name": "Book big sights ahead for timed entry",
+      "x": 409,
+      "y": -150,
+      "parent": "#i6kfuy"
+    },
+    {
+      "@id": "#rygtsr",
+      "name": "Stay central to walk everywhere",
+      "x": 505,
+      "y": -57,
+      "parent": "#i6kfuy"
+    },
+    {
+      "@id": "#riffuf",
+      "name": "Getting around",
+      "x": 193,
+      "y": 99,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#u8rqa4",
+      "name": "Fast trains link the major cities",
+      "x": 445,
+      "y": 51,
+      "link": "https://en.wikipedia.org/wiki/Trenitalia",
+      "parent": "#riffuf"
+    },
+    {
+      "@id": "#evddn5",
+      "name": "Validate regional train tickets before boarding",
+      "x": 409,
+      "y": 150,
+      "parent": "#riffuf"
+    },
+    {
+      "@id": "#ggdtr4",
+      "name": "Rent a car for countryside only",
+      "x": 340,
+      "y": 236,
+      "parent": "#riffuf"
+    },
+    {
+      "@id": "#t8vh2u",
+      "name": "Historic centres restrict cars (ZTL zones)",
+      "x": 243,
+      "y": 303,
+      "parent": "#riffuf"
+    },
+    {
+      "@id": "#njmm5s",
+      "name": "Eat like a local",
+      "x": -33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uq28cb",
+      "name": "Espresso standing at the bar",
+      "x": 133,
+      "y": 360,
+      "parent": "#njmm5s"
+    },
+    {
+      "@id": "#j54g2v",
+      "name": "Aperitivo before a late dinner",
+      "x": 0,
+      "y": 408,
+      "parent": "#njmm5s"
+    },
+    {
+      "@id": "#75q4gc",
+      "name": "Dishes change from region to region",
+      "x": -175,
+      "y": 465,
+      "link": "https://en.wikipedia.org/wiki/Italian_cuisine",
+      "parent": "#njmm5s"
+    },
+    {
+      "@id": "#yjdksr",
+      "name": "Gelato from small artisan shops",
+      "x": -243,
+      "y": 303,
+      "parent": "#njmm5s"
+    },
+    {
+      "@id": "#raxziz",
+      "name": "Local customs",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7z8zzt",
+      "name": "Cover shoulders and knees in churches",
+      "x": -340,
+      "y": 236,
+      "parent": "#raxziz"
+    },
+    {
+      "@id": "#m73b4m",
+      "name": "Small shops may close mid-afternoon",
+      "x": -409,
+      "y": 150,
+      "parent": "#raxziz"
+    },
+    {
+      "@id": "#6ximfm",
+      "name": "A cover charge (coperto) is common",
+      "x": -485,
+      "y": 55,
+      "parent": "#raxziz"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

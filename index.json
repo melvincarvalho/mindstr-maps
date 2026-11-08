@@ -2,6 +2,29 @@
   "version": 1,
   "maps": [
     {
+      "topic": "Ancient Egypt",
+      "slug": "ancient-egypt",
+      "aliases": [
+        "ancient-egyptians",
+        "egyptian-pharaohs",
+        "egyptian-civilization"
+      ],
+      "file": "maps/ancient-egypt.json",
+      "nodes": 29
+    },
+    {
+      "topic": "Ancient Greece",
+      "slug": "ancient-greece",
+      "aliases": [
+        "ancient-greeks",
+        "classical-greece",
+        "ancient-greek-history",
+        "ancient-greek-civilization"
+      ],
+      "file": "maps/ancient-greece.json",
+      "nodes": 29
+    },
+    {
       "topic": "Ancient Rome",
       "slug": "ancient-rome",
       "aliases": [
@@ -25,6 +48,18 @@
       "nodes": 29
     },
     {
+      "topic": "Backpacking in Europe",
+      "slug": "backpacking-in-europe",
+      "aliases": [
+        "backpacking-europe",
+        "europe-backpacking-trip",
+        "interrail-trip",
+        "eurail-trip"
+      ],
+      "file": "maps/backpacking-in-europe.json",
+      "nodes": 30
+    },
+    {
       "topic": "Better sleep",
       "slug": "better-sleep",
       "aliases": [
@@ -35,6 +70,63 @@
       ],
       "file": "maps/better-sleep.json",
       "nodes": 25
+    },
+    {
+      "topic": "Biodiversity",
+      "slug": "biodiversity",
+      "aliases": [
+        "what-is-biodiversity",
+        "biological-diversity",
+        "biodiversity-loss"
+      ],
+      "file": "maps/biodiversity.json",
+      "nodes": 28
+    },
+    {
+      "topic": "Black holes",
+      "slug": "black-holes",
+      "aliases": [
+        "black-hole",
+        "what-is-a-black-hole",
+        "how-black-holes-form"
+      ],
+      "file": "maps/black-holes.json",
+      "nodes": 25
+    },
+    {
+      "topic": "Blockchain",
+      "slug": "blockchain",
+      "aliases": [
+        "what-is-blockchain",
+        "blockchain-technology",
+        "how-blockchain-works",
+        "distributed-ledger"
+      ],
+      "file": "maps/blockchain.json",
+      "nodes": 28
+    },
+    {
+      "topic": "Build good habits",
+      "slug": "build-good-habits",
+      "aliases": [
+        "habit-formation",
+        "how-to-build-habits",
+        "form-new-habits",
+        "building-habits"
+      ],
+      "file": "maps/build-good-habits.json",
+      "nodes": 26
+    },
+    {
+      "topic": "Classical music",
+      "slug": "classical-music",
+      "aliases": [
+        "western-classical-music",
+        "orchestral-music",
+        "classical-composers"
+      ],
+      "file": "maps/classical-music.json",
+      "nodes": 26
     },
     {
       "topic": "Climate change",
@@ -48,6 +140,89 @@
       "nodes": 27
     },
     {
+      "topic": "Cloud computing",
+      "slug": "cloud-computing",
+      "aliases": [
+        "what-is-cloud-computing",
+        "the-cloud",
+        "cloud-services"
+      ],
+      "file": "maps/cloud-computing.json",
+      "nodes": 28
+    },
+    {
+      "topic": "Cybersecurity basics",
+      "slug": "cybersecurity-basics",
+      "aliases": [
+        "cyber-security-basics",
+        "online-security",
+        "stay-safe-online",
+        "computer-security-basics"
+      ],
+      "file": "maps/cybersecurity-basics.json",
+      "nodes": 27
+    },
+    {
+      "topic": "Data privacy",
+      "slug": "data-privacy",
+      "aliases": [
+        "online-privacy",
+        "digital-privacy",
+        "personal-data-protection",
+        "internet-privacy"
+      ],
+      "file": "maps/data-privacy.json",
+      "nodes": 30
+    },
+    {
+      "topic": "Democracy",
+      "slug": "democracy",
+      "aliases": [
+        "what-is-democracy",
+        "how-democracy-works",
+        "democratic-government"
+      ],
+      "file": "maps/democracy.json",
+      "nodes": 28
+    },
+    {
+      "topic": "DNA and genetics",
+      "slug": "dna-and-genetics",
+      "aliases": [
+        "dna",
+        "genetics",
+        "genes-and-dna",
+        "what-is-dna"
+      ],
+      "file": "maps/dna-and-genetics.json",
+      "nodes": 29
+    },
+    {
+      "topic": "Electric cars",
+      "slug": "electric-cars",
+      "aliases": [
+        "electric-vehicles",
+        "ev",
+        "evs",
+        "electric-car",
+        "how-electric-cars-work"
+      ],
+      "file": "maps/electric-cars.json",
+      "nodes": 28
+    },
+    {
+      "topic": "Electricity",
+      "slug": "electricity",
+      "aliases": [
+        "how-electricity-works",
+        "electricity-explained",
+        "electric-current",
+        "basics-of-electricity"
+      ],
+      "file": "maps/electricity.json",
+      "nodes": 30
+    },
+    {
       "topic": "Evolution",
       "slug": "evolution",
       "aliases": [
@@ -57,6 +232,54 @@
       ],
       "file": "maps/evolution.json",
       "nodes": 26
+    },
+    {
+      "topic": "First aid basics",
+      "slug": "first-aid-basics",
+      "aliases": [
+        "first-aid",
+        "basic-first-aid",
+        "emergency-first-aid",
+        "first-aid-for-beginners"
+      ],
+      "file": "maps/first-aid-basics.json",
+      "nodes": 26
+    },
+    {
+      "topic": "Freelancing",
+      "slug": "freelancing",
+      "aliases": [
+        "become-a-freelancer",
+        "how-to-freelance",
+        "freelance-work",
+        "start-freelancing"
+      ],
+      "file": "maps/freelancing.json",
+      "nodes": 28
+    },
+    {
+      "topic": "Gravity",
+      "slug": "gravity",
+      "aliases": [
+        "force-of-gravity",
+        "how-gravity-works",
+        "gravitation",
+        "law-of-gravity"
+      ],
+      "file": "maps/gravity.json",
+      "nodes": 29
+    },
+    {
+      "topic": "Greek mythology",
+      "slug": "greek-mythology",
+      "aliases": [
+        "greek-myths",
+        "greek-gods",
+        "ancient-greek-mythology",
+        "greek-legends"
+      ],
+      "file": "maps/greek-mythology.json",
+      "nodes": 29
     },
     {
       "topic": "Healthy eating",
@@ -83,6 +306,64 @@
       "nodes": 29
     },
     {
+      "topic": "How cities work",
+      "slug": "how-cities-work",
+      "aliases": [
+        "how-do-cities-work",
+        "how-a-city-works",
+        "city-systems"
+      ],
+      "file": "maps/how-cities-work.json",
+      "nodes": 27
+    },
+    {
+      "topic": "How computers work",
+      "slug": "how-computers-work",
+      "aliases": [
+        "how-do-computers-work",
+        "how-a-computer-works",
+        "computer-basics"
+      ],
+      "file": "maps/how-computers-work.json",
+      "nodes": 27
+    },
+    {
+      "topic": "How films are made",
+      "slug": "how-films-are-made",
+      "aliases": [
+        "filmmaking",
+        "how-movies-are-made",
+        "film-production",
+        "making-a-film"
+      ],
+      "file": "maps/how-films-are-made.json",
+      "nodes": 26
+    },
+    {
+      "topic": "How search engines work",
+      "slug": "how-search-engines-work",
+      "aliases": [
+        "how-do-search-engines-work",
+        "how-search-engines-rank-pages",
+        "how-does-google-search-work",
+        "search-engine-explained"
+      ],
+      "file": "maps/how-search-engines-work.json",
+      "nodes": 26
+    },
+    {
+      "topic": "How smartphones work",
+      "slug": "how-smartphones-work",
+      "aliases": [
+        "how-does-a-smartphone-work",
+        "how-do-smartphones-work",
+        "how-mobile-phones-work",
+        "smartphone-explained"
+      ],
+      "file": "maps/how-smartphones-work.json",
+      "nodes": 27
+    },
+    {
       "topic": "How the internet works",
       "slug": "how-the-internet-works",
       "aliases": [
@@ -91,6 +372,18 @@
         "how-the-internet-works-explained"
       ],
       "file": "maps/how-the-internet-works.json",
+      "nodes": 26
+    },
+    {
+      "topic": "How the stock market works",
+      "slug": "how-the-stock-market-works",
+      "aliases": [
+        "stock-market-explained",
+        "how-do-stocks-work",
+        "how-does-the-stock-market-work",
+        "stock-market-basics"
+      ],
+      "file": "maps/how-the-stock-market-works.json",
       "nodes": 26
     },
     {
@@ -105,6 +398,77 @@
       "nodes": 27
     },
     {
+      "topic": "Human rights",
+      "slug": "human-rights",
+      "aliases": [
+        "what-are-human-rights",
+        "basic-human-rights",
+        "human-rights-explained"
+      ],
+      "file": "maps/human-rights.json",
+      "nodes": 28
+    },
+    {
+      "topic": "Impressionism",
+      "slug": "impressionism",
+      "aliases": [
+        "impressionist-art",
+        "impressionist-painters",
+        "impressionists",
+        "french-impressionism"
+      ],
+      "file": "maps/impressionism.json",
+      "nodes": 25
+    },
+    {
+      "topic": "Inflation",
+      "slug": "inflation",
+      "aliases": [
+        "what-is-inflation",
+        "inflation-explained",
+        "why-prices-rise",
+        "causes-of-inflation"
+      ],
+      "file": "maps/inflation.json",
+      "nodes": 27
+    },
+    {
+      "topic": "Jazz",
+      "slug": "jazz",
+      "aliases": [
+        "jazz-music",
+        "history-of-jazz",
+        "jazz-history",
+        "jazz-explained"
+      ],
+      "file": "maps/jazz.json",
+      "nodes": 27
+    },
+    {
+      "topic": "Job interview tips",
+      "slug": "job-interview-tips",
+      "aliases": [
+        "interview-tips",
+        "prepare-for-an-interview",
+        "job-interview-preparation",
+        "how-to-ace-an-interview"
+      ],
+      "file": "maps/job-interview-tips.json",
+      "nodes": 28
+    },
+    {
+      "topic": "Leadership",
+      "slug": "leadership",
+      "aliases": [
+        "leadership-skills",
+        "how-to-be-a-leader",
+        "become-a-better-leader",
+        "good-leadership"
+      ],
+      "file": "maps/leadership.json",
+      "nodes": 27
+    },
+    {
       "topic": "Learn a new language",
       "slug": "learn-a-new-language",
       "aliases": [
@@ -114,6 +478,18 @@
       ],
       "file": "maps/learn-a-new-language.json",
       "nodes": 25
+    },
+    {
+      "topic": "Learn guitar",
+      "slug": "learn-guitar",
+      "aliases": [
+        "guitar-for-beginners",
+        "how-to-play-guitar",
+        "learn-to-play-guitar",
+        "beginner-guitar"
+      ],
+      "file": "maps/learn-guitar.json",
+      "nodes": 28
     },
     {
       "topic": "Learn to code",
@@ -128,6 +504,113 @@
       "nodes": 27
     },
     {
+      "topic": "Learn to cook",
+      "slug": "learn-to-cook",
+      "aliases": [
+        "how-to-cook",
+        "cooking-for-beginners",
+        "basic-cooking-skills",
+        "beginner-cooking"
+      ],
+      "file": "maps/learn-to-cook.json",
+      "nodes": 29
+    },
+    {
+      "topic": "Learn to draw",
+      "slug": "learn-to-draw",
+      "aliases": [
+        "how-to-draw",
+        "drawing-for-beginners",
+        "learn-drawing",
+        "drawing-basics"
+      ],
+      "file": "maps/learn-to-draw.json",
+      "nodes": 27
+    },
+    {
+      "topic": "Machine learning",
+      "slug": "machine-learning",
+      "aliases": [
+        "what-is-machine-learning",
+        "machine-learning-explained",
+        "how-machine-learning-works"
+      ],
+      "file": "maps/machine-learning.json",
+      "nodes": 29
+    },
+    {
+      "topic": "Meditation",
+      "slug": "meditation",
+      "aliases": [
+        "how-to-meditate",
+        "learn-to-meditate",
+        "meditation-for-beginners",
+        "mindfulness-meditation"
+      ],
+      "file": "maps/meditation.json",
+      "nodes": 28
+    },
+    {
+      "topic": "Moving house",
+      "slug": "moving-house",
+      "aliases": [
+        "moving-home",
+        "house-move",
+        "how-to-move-house",
+        "moving-house-checklist"
+      ],
+      "file": "maps/moving-house.json",
+      "nodes": 28
+    },
+    {
+      "topic": "Negotiate a salary",
+      "slug": "negotiate-a-salary",
+      "aliases": [
+        "salary-negotiation",
+        "how-to-negotiate-salary",
+        "negotiate-pay",
+        "pay-negotiation"
+      ],
+      "file": "maps/negotiate-a-salary.json",
+      "nodes": 27
+    },
+    {
+      "topic": "Open source software",
+      "slug": "open-source-software",
+      "aliases": [
+        "open-source",
+        "what-is-open-source",
+        "foss",
+        "free-and-open-source-software"
+      ],
+      "file": "maps/open-source-software.json",
+      "nodes": 28
+    },
+    {
+      "topic": "Pack for travel",
+      "slug": "pack-for-travel",
+      "aliases": [
+        "packing-list",
+        "travel-packing-list",
+        "what-to-pack",
+        "packing-tips"
+      ],
+      "file": "maps/pack-for-travel.json",
+      "nodes": 30
+    },
+    {
+      "topic": "Parenting toddlers",
+      "slug": "parenting-toddlers",
+      "aliases": [
+        "toddler-parenting",
+        "raising-toddlers",
+        "terrible-twos",
+        "how-to-parent-a-toddler"
+      ],
+      "file": "maps/parenting-toddlers.json",
+      "nodes": 31
+    },
+    {
       "topic": "Personal finance basics",
       "slug": "personal-finance-basics",
       "aliases": [
@@ -137,6 +620,18 @@
       ],
       "file": "maps/personal-finance-basics.json",
       "nodes": 26
+    },
+    {
+      "topic": "Photography basics",
+      "slug": "photography-basics",
+      "aliases": [
+        "learn-photography",
+        "photography-for-beginners",
+        "how-to-take-better-photos",
+        "camera-basics"
+      ],
+      "file": "maps/photography-basics.json",
+      "nodes": 28
     },
     {
       "topic": "Photosynthesis",
@@ -150,6 +645,89 @@
       "nodes": 25
     },
     {
+      "topic": "Plan a camping trip",
+      "slug": "plan-a-camping-trip",
+      "aliases": [
+        "camping-trip",
+        "go-camping",
+        "camping-checklist",
+        "camping-for-beginners"
+      ],
+      "file": "maps/plan-a-camping-trip.json",
+      "nodes": 30
+    },
+    {
+      "topic": "Plan a road trip",
+      "slug": "plan-a-road-trip",
+      "aliases": [
+        "road-trip-planning",
+        "road-trip-checklist",
+        "how-to-plan-a-road-trip"
+      ],
+      "file": "maps/plan-a-road-trip.json",
+      "nodes": 30
+    },
+    {
+      "topic": "Plan a trip to Italy",
+      "slug": "plan-a-trip-to-italy",
+      "aliases": [
+        "italy-trip",
+        "travel-to-italy",
+        "italy-itinerary",
+        "visiting-italy"
+      ],
+      "file": "maps/plan-a-trip-to-italy.json",
+      "nodes": 29
+    },
+    {
+      "topic": "Plan a wedding",
+      "slug": "plan-a-wedding",
+      "aliases": [
+        "wedding-planning",
+        "how-to-plan-a-wedding",
+        "wedding-checklist",
+        "organise-a-wedding"
+      ],
+      "file": "maps/plan-a-wedding.json",
+      "nodes": 29
+    },
+    {
+      "topic": "Plastic pollution",
+      "slug": "plastic-pollution",
+      "aliases": [
+        "plastic-waste",
+        "ocean-plastic",
+        "plastic-in-the-ocean",
+        "plastic-pollution-facts"
+      ],
+      "file": "maps/plastic-pollution.json",
+      "nodes": 28
+    },
+    {
+      "topic": "Plate tectonics",
+      "slug": "plate-tectonics",
+      "aliases": [
+        "tectonic-plates",
+        "continental-drift",
+        "plate-tectonic-theory",
+        "how-tectonic-plates-move"
+      ],
+      "file": "maps/plate-tectonics.json",
+      "nodes": 28
+    },
+    {
+      "topic": "Public speaking",
+      "slug": "public-speaking",
+      "aliases": [
+        "presentation-skills",
+        "how-to-give-a-speech",
+        "give-a-presentation",
+        "fear-of-public-speaking"
+      ],
+      "file": "maps/public-speaking.json",
+      "nodes": 28
+    },
+    {
       "topic": "Quantum computing",
       "slug": "quantum-computing",
       "aliases": [
@@ -159,6 +737,66 @@
       ],
       "file": "maps/quantum-computing.json",
       "nodes": 26
+    },
+    {
+      "topic": "Recycling",
+      "slug": "recycling",
+      "aliases": [
+        "how-recycling-works",
+        "how-to-recycle",
+        "what-can-be-recycled",
+        "recycling-tips"
+      ],
+      "file": "maps/recycling.json",
+      "nodes": 28
+    },
+    {
+      "topic": "Remote work",
+      "slug": "remote-work",
+      "aliases": [
+        "working-from-home",
+        "work-from-home",
+        "wfh",
+        "remote-working",
+        "telecommuting"
+      ],
+      "file": "maps/remote-work.json",
+      "nodes": 28
+    },
+    {
+      "topic": "Renewable energy",
+      "slug": "renewable-energy",
+      "aliases": [
+        "renewables",
+        "clean-energy",
+        "green-energy",
+        "renewable-energy-sources"
+      ],
+      "file": "maps/renewable-energy.json",
+      "nodes": 26
+    },
+    {
+      "topic": "Running for beginners",
+      "slug": "running-for-beginners",
+      "aliases": [
+        "start-running",
+        "how-to-start-running",
+        "beginner-running",
+        "couch-to-5k"
+      ],
+      "file": "maps/running-for-beginners.json",
+      "nodes": 25
+    },
+    {
+      "topic": "Shakespeare",
+      "slug": "shakespeare",
+      "aliases": [
+        "william-shakespeare",
+        "shakespeare-plays",
+        "the-bard"
+      ],
+      "file": "maps/shakespeare.json",
+      "nodes": 27
     },
     {
       "topic": "Start a small business",
@@ -171,6 +809,91 @@
       ],
       "file": "maps/start-a-small-business.json",
       "nodes": 28
+    },
+    {
+      "topic": "Start investing",
+      "slug": "start-investing",
+      "aliases": [
+        "how-to-invest",
+        "investing-for-beginners",
+        "how-to-start-investing",
+        "beginner-investing"
+      ],
+      "file": "maps/start-investing.json",
+      "nodes": 27
+    },
+    {
+      "topic": "Strength training basics",
+      "slug": "strength-training-basics",
+      "aliases": [
+        "strength-training",
+        "weight-training-for-beginners",
+        "resistance-training",
+        "beginner-weightlifting"
+      ],
+      "file": "maps/strength-training-basics.json",
+      "nodes": 29
+    },
+    {
+      "topic": "Stress management",
+      "slug": "stress-management",
+      "aliases": [
+        "manage-stress",
+        "how-to-deal-with-stress",
+        "coping-with-stress",
+        "reduce-stress",
+        "stress-relief"
+      ],
+      "file": "maps/stress-management.json",
+      "nodes": 29
+    },
+    {
+      "topic": "Sustainable living",
+      "slug": "sustainable-living",
+      "aliases": [
+        "live-sustainably",
+        "how-to-live-sustainably",
+        "green-living",
+        "eco-friendly-living",
+        "sustainable-lifestyle"
+      ],
+      "file": "maps/sustainable-living.json",
+      "nodes": 27
+    },
+    {
+      "topic": "The American Revolution",
+      "slug": "the-american-revolution",
+      "aliases": [
+        "american-revolutionary-war",
+        "american-war-of-independence",
+        "revolutionary-war",
+        "us-independence"
+      ],
+      "file": "maps/the-american-revolution.json",
+      "nodes": 29
+    },
+    {
+      "topic": "The Cold War",
+      "slug": "the-cold-war",
+      "aliases": [
+        "cold-war",
+        "cold-war-history",
+        "us-soviet-cold-war"
+      ],
+      "file": "maps/the-cold-war.json",
+      "nodes": 26
+    },
+    {
+      "topic": "The fall of the Berlin Wall",
+      "slug": "the-fall-of-the-berlin-wall",
+      "aliases": [
+        "berlin-wall",
+        "fall-of-berlin-wall",
+        "berlin-wall-falls",
+        "berlin-wall-1989"
+      ],
+      "file": "maps/the-fall-of-the-berlin-wall.json",
+      "nodes": 27
     },
     {
       "topic": "The French Revolution",
@@ -196,6 +919,65 @@
       "nodes": 26
     },
     {
+      "topic": "The immune system",
+      "slug": "the-immune-system",
+      "aliases": [
+        "immune-system",
+        "how-the-immune-system-works",
+        "how-immunity-works",
+        "immune-system-explained"
+      ],
+      "file": "maps/the-immune-system.json",
+      "nodes": 29
+    },
+    {
+      "topic": "The Industrial Revolution",
+      "slug": "the-industrial-revolution",
+      "aliases": [
+        "industrial-revolution",
+        "first-industrial-revolution",
+        "british-industrial-revolution"
+      ],
+      "file": "maps/the-industrial-revolution.json",
+      "nodes": 29
+    },
+    {
+      "topic": "The Moon landing",
+      "slug": "the-moon-landing",
+      "aliases": [
+        "apollo-11",
+        "first-moon-landing",
+        "moon-landing-1969",
+        "man-on-the-moon"
+      ],
+      "file": "maps/the-moon-landing.json",
+      "nodes": 29
+    },
+    {
+      "topic": "The periodic table",
+      "slug": "the-periodic-table",
+      "aliases": [
+        "periodic-table",
+        "periodic-table-of-elements",
+        "periodic-table-of-the-elements",
+        "chemical-elements"
+      ],
+      "file": "maps/the-periodic-table.json",
+      "nodes": 29
+    },
+    {
+      "topic": "The printing press",
+      "slug": "the-printing-press",
+      "aliases": [
+        "gutenberg-printing-press",
+        "gutenberg-press",
+        "invention-of-printing",
+        "movable-type-printing"
+      ],
+      "file": "maps/the-printing-press.json",
+      "nodes": 28
+    },
+    {
       "topic": "The Renaissance",
       "slug": "the-renaissance",
       "aliases": [
@@ -205,6 +987,162 @@
       ],
       "file": "maps/the-renaissance.json",
       "nodes": 25
+    },
+    {
+      "topic": "The scientific method",
+      "slug": "the-scientific-method",
+      "aliases": [
+        "scientific-method",
+        "how-science-works",
+        "steps-of-the-scientific-method",
+        "the-scientific-process"
+      ],
+      "file": "maps/the-scientific-method.json",
+      "nodes": 27
+    },
+    {
+      "topic": "The Silk Road",
+      "slug": "the-silk-road",
+      "aliases": [
+        "silk-road",
+        "silk-route",
+        "silk-roads",
+        "ancient-silk-road"
+      ],
+      "file": "maps/the-silk-road.json",
+      "nodes": 29
+    },
+    {
+      "topic": "The United Nations",
+      "slug": "the-united-nations",
+      "aliases": [
+        "united-nations",
+        "un",
+        "what-is-the-un",
+        "un-explained"
+      ],
+      "file": "maps/the-united-nations.json",
+      "nodes": 31
+    },
+    {
+      "topic": "The Vikings",
+      "slug": "the-vikings",
+      "aliases": [
+        "vikings",
+        "viking-age",
+        "norsemen",
+        "viking-history"
+      ],
+      "file": "maps/the-vikings.json",
+      "nodes": 30
+    },
+    {
+      "topic": "The water cycle",
+      "slug": "the-water-cycle",
+      "aliases": [
+        "hydrologic-cycle",
+        "hydrological-cycle",
+        "how-the-water-cycle-works",
+        "water-cycle-explained"
+      ],
+      "file": "maps/the-water-cycle.json",
+      "nodes": 29
+    },
+    {
+      "topic": "Time management",
+      "slug": "time-management",
+      "aliases": [
+        "manage-my-time",
+        "productivity-tips",
+        "time-management-tips",
+        "be-more-productive"
+      ],
+      "file": "maps/time-management.json",
+      "nodes": 26
+    },
+    {
+      "topic": "Travel on a budget",
+      "slug": "travel-on-a-budget",
+      "aliases": [
+        "budget-travel",
+        "cheap-travel",
+        "travel-cheaply",
+        "how-to-travel-cheap"
+      ],
+      "file": "maps/travel-on-a-budget.json",
+      "nodes": 29
+    },
+    {
+      "topic": "Visit Australia",
+      "slug": "visit-australia",
+      "aliases": [
+        "australia-trip",
+        "travel-to-australia",
+        "australia-itinerary",
+        "things-to-do-in-australia"
+      ],
+      "file": "maps/visit-australia.json",
+      "nodes": 32
+    },
+    {
+      "topic": "Visit London",
+      "slug": "visit-london",
+      "aliases": [
+        "london-trip",
+        "things-to-do-in-london",
+        "london-travel-guide",
+        "london-itinerary"
+      ],
+      "file": "maps/visit-london.json",
+      "nodes": 30
+    },
+    {
+      "topic": "Visit New York",
+      "slug": "visit-new-york",
+      "aliases": [
+        "new-york-city-trip",
+        "nyc-trip",
+        "things-to-do-in-nyc",
+        "new-york-itinerary"
+      ],
+      "file": "maps/visit-new-york.json",
+      "nodes": 30
+    },
+    {
+      "topic": "Visit Paris",
+      "slug": "visit-paris",
+      "aliases": [
+        "paris-trip",
+        "things-to-do-in-paris",
+        "paris-itinerary",
+        "paris-travel-guide"
+      ],
+      "file": "maps/visit-paris.json",
+      "nodes": 30
+    },
+    {
+      "topic": "Volcanoes",
+      "slug": "volcanoes",
+      "aliases": [
+        "volcano",
+        "how-volcanoes-form",
+        "volcanic-eruptions",
+        "how-volcanoes-work"
+      ],
+      "file": "maps/volcanoes.json",
+      "nodes": 30
+    },
+    {
+      "topic": "Web development",
+      "slug": "web-development",
+      "aliases": [
+        "web-dev",
+        "website-development",
+        "how-to-build-a-website",
+        "learn-web-development"
+      ],
+      "file": "maps/web-development.json",
+      "nodes": 28
     },
     {
       "topic": "World War II",
@@ -229,96 +1167,496 @@
       ],
       "file": "maps/write-a-cv.json",
       "nodes": 26
+    },
+    {
+      "topic": "Write a novel",
+      "slug": "write-a-novel",
+      "aliases": [
+        "how-to-write-a-novel",
+        "novel-writing",
+        "writing-a-novel"
+      ],
+      "file": "maps/write-a-novel.json",
+      "nodes": 26
     }
   ],
   "lookup": {
     "1789-revolution": "maps/the-french-revolution.json",
     "ai": "maps/artificial-intelligence.json",
+    "american-revolutionary-war": "maps/the-american-revolution.json",
+    "american-war-of-independence": "maps/the-american-revolution.json",
+    "ancient-egypt": "maps/ancient-egypt.json",
+    "ancient-egyptians": "maps/ancient-egypt.json",
+    "ancient-greece": "maps/ancient-greece.json",
+    "ancient-greek-civilization": "maps/ancient-greece.json",
+    "ancient-greek-history": "maps/ancient-greece.json",
+    "ancient-greek-mythology": "maps/greek-mythology.json",
+    "ancient-greeks": "maps/ancient-greece.json",
     "ancient-rome": "maps/ancient-rome.json",
+    "ancient-silk-road": "maps/the-silk-road.json",
+    "apollo-11": "maps/the-moon-landing.json",
     "artificial-intelligence": "maps/artificial-intelligence.json",
+    "australia-itinerary": "maps/visit-australia.json",
+    "australia-trip": "maps/visit-australia.json",
+    "backpacking-europe": "maps/backpacking-in-europe.json",
+    "backpacking-in-europe": "maps/backpacking-in-europe.json",
     "balanced-diet": "maps/healthy-eating.json",
+    "basic-cooking-skills": "maps/learn-to-cook.json",
+    "basic-first-aid": "maps/first-aid-basics.json",
+    "basic-human-rights": "maps/human-rights.json",
+    "basics-of-electricity": "maps/electricity.json",
+    "be-more-productive": "maps/time-management.json",
+    "become-a-better-leader": "maps/leadership.json",
+    "become-a-freelancer": "maps/freelancing.json",
+    "beginner-cooking": "maps/learn-to-cook.json",
+    "beginner-guitar": "maps/learn-guitar.json",
+    "beginner-investing": "maps/start-investing.json",
+    "beginner-running": "maps/running-for-beginners.json",
+    "beginner-weightlifting": "maps/strength-training-basics.json",
+    "berlin-wall": "maps/the-fall-of-the-berlin-wall.json",
+    "berlin-wall-1989": "maps/the-fall-of-the-berlin-wall.json",
+    "berlin-wall-falls": "maps/the-fall-of-the-berlin-wall.json",
     "better-sleep": "maps/better-sleep.json",
+    "biodiversity": "maps/biodiversity.json",
+    "biodiversity-loss": "maps/biodiversity.json",
+    "biological-diversity": "maps/biodiversity.json",
     "bitcoin": "maps/how-bitcoin-works.json",
     "bitcoin-explained": "maps/how-bitcoin-works.json",
+    "black-hole": "maps/black-holes.json",
+    "black-holes": "maps/black-holes.json",
+    "blockchain": "maps/blockchain.json",
+    "blockchain-technology": "maps/blockchain.json",
     "body-systems": "maps/the-human-body.json",
+    "british-industrial-revolution": "maps/the-industrial-revolution.json",
     "btc": "maps/how-bitcoin-works.json",
+    "budget-travel": "maps/travel-on-a-budget.json",
     "budgeting-basics": "maps/personal-finance-basics.json",
+    "build-good-habits": "maps/build-good-habits.json",
+    "building-habits": "maps/build-good-habits.json",
+    "camera-basics": "maps/photography-basics.json",
+    "camping-checklist": "maps/plan-a-camping-trip.json",
+    "camping-for-beginners": "maps/plan-a-camping-trip.json",
+    "camping-trip": "maps/plan-a-camping-trip.json",
     "can-t-sleep": "maps/better-sleep.json",
+    "causes-of-inflation": "maps/inflation.json",
+    "cheap-travel": "maps/travel-on-a-budget.json",
+    "chemical-elements": "maps/the-periodic-table.json",
+    "city-systems": "maps/how-cities-work.json",
+    "classical-composers": "maps/classical-music.json",
+    "classical-greece": "maps/ancient-greece.json",
+    "classical-music": "maps/classical-music.json",
+    "clean-energy": "maps/renewable-energy.json",
     "climate-change": "maps/climate-change.json",
     "climate-change-explained": "maps/climate-change.json",
     "climate-crisis": "maps/climate-change.json",
+    "cloud-computing": "maps/cloud-computing.json",
+    "cloud-services": "maps/cloud-computing.json",
     "coding-for-beginners": "maps/learn-to-code.json",
+    "cold-war": "maps/the-cold-war.json",
+    "cold-war-history": "maps/the-cold-war.json",
+    "computer-basics": "maps/how-computers-work.json",
+    "computer-security-basics": "maps/cybersecurity-basics.json",
+    "continental-drift": "maps/plate-tectonics.json",
+    "cooking-for-beginners": "maps/learn-to-cook.json",
+    "coping-with-stress": "maps/stress-management.json",
+    "couch-to-5k": "maps/running-for-beginners.json",
     "curriculum-vitae": "maps/write-a-cv.json",
     "cv-tips": "maps/write-a-cv.json",
+    "cyber-security-basics": "maps/cybersecurity-basics.json",
+    "cybersecurity-basics": "maps/cybersecurity-basics.json",
     "darwinism": "maps/evolution.json",
+    "data-privacy": "maps/data-privacy.json",
+    "democracy": "maps/democracy.json",
+    "democratic-government": "maps/democracy.json",
+    "digital-privacy": "maps/data-privacy.json",
+    "distributed-ledger": "maps/blockchain.json",
+    "dna": "maps/dna-and-genetics.json",
+    "dna-and-genetics": "maps/dna-and-genetics.json",
+    "drawing-basics": "maps/learn-to-draw.json",
+    "drawing-for-beginners": "maps/learn-to-draw.json",
     "eat-healthy": "maps/healthy-eating.json",
+    "eco-friendly-living": "maps/sustainable-living.json",
+    "egyptian-civilization": "maps/ancient-egypt.json",
+    "egyptian-pharaohs": "maps/ancient-egypt.json",
+    "electric-car": "maps/electric-cars.json",
+    "electric-cars": "maps/electric-cars.json",
+    "electric-current": "maps/electricity.json",
+    "electric-vehicles": "maps/electric-cars.json",
+    "electricity": "maps/electricity.json",
+    "electricity-explained": "maps/electricity.json",
+    "emergency-first-aid": "maps/first-aid-basics.json",
+    "eurail-trip": "maps/backpacking-in-europe.json",
+    "europe-backpacking-trip": "maps/backpacking-in-europe.json",
+    "ev": "maps/electric-cars.json",
     "evolution": "maps/evolution.json",
     "evolution-by-natural-selection": "maps/evolution.json",
+    "evs": "maps/electric-cars.json",
+    "fall-of-berlin-wall": "maps/the-fall-of-the-berlin-wall.json",
+    "fear-of-public-speaking": "maps/public-speaking.json",
+    "film-production": "maps/how-films-are-made.json",
+    "filmmaking": "maps/how-films-are-made.json",
+    "first-aid": "maps/first-aid-basics.json",
+    "first-aid-basics": "maps/first-aid-basics.json",
+    "first-aid-for-beginners": "maps/first-aid-basics.json",
+    "first-industrial-revolution": "maps/the-industrial-revolution.json",
+    "first-moon-landing": "maps/the-moon-landing.json",
+    "force-of-gravity": "maps/gravity.json",
+    "form-new-habits": "maps/build-good-habits.json",
+    "foss": "maps/open-source-software.json",
+    "free-and-open-source-software": "maps/open-source-software.json",
+    "freelance-work": "maps/freelancing.json",
+    "freelancing": "maps/freelancing.json",
+    "french-impressionism": "maps/impressionism.json",
     "french-revolution": "maps/the-french-revolution.json",
+    "genes-and-dna": "maps/dna-and-genetics.json",
+    "genetics": "maps/dna-and-genetics.json",
+    "give-a-presentation": "maps/public-speaking.json",
     "global-warming": "maps/climate-change.json",
+    "go-camping": "maps/plan-a-camping-trip.json",
+    "good-leadership": "maps/leadership.json",
+    "gravitation": "maps/gravity.json",
+    "gravity": "maps/gravity.json",
+    "greek-gods": "maps/greek-mythology.json",
+    "greek-legends": "maps/greek-mythology.json",
+    "greek-mythology": "maps/greek-mythology.json",
+    "greek-myths": "maps/greek-mythology.json",
+    "green-energy": "maps/renewable-energy.json",
+    "green-living": "maps/sustainable-living.json",
+    "guitar-for-beginners": "maps/learn-guitar.json",
+    "gutenberg-press": "maps/the-printing-press.json",
+    "gutenberg-printing-press": "maps/the-printing-press.json",
+    "habit-formation": "maps/build-good-habits.json",
     "healthy-diet": "maps/healthy-eating.json",
     "healthy-eating": "maps/healthy-eating.json",
+    "history-of-jazz": "maps/jazz.json",
+    "house-move": "maps/moving-house.json",
+    "how-a-city-works": "maps/how-cities-work.json",
+    "how-a-computer-works": "maps/how-computers-work.json",
     "how-bitcoin-works": "maps/how-bitcoin-works.json",
+    "how-black-holes-form": "maps/black-holes.json",
+    "how-blockchain-works": "maps/blockchain.json",
+    "how-cities-work": "maps/how-cities-work.json",
+    "how-computers-work": "maps/how-computers-work.json",
+    "how-democracy-works": "maps/democracy.json",
+    "how-do-cities-work": "maps/how-cities-work.json",
+    "how-do-computers-work": "maps/how-computers-work.json",
+    "how-do-search-engines-work": "maps/how-search-engines-work.json",
+    "how-do-smartphones-work": "maps/how-smartphones-work.json",
+    "how-do-stocks-work": "maps/how-the-stock-market-works.json",
     "how-do-vaccines-work": "maps/how-vaccines-work.json",
+    "how-does-a-smartphone-work": "maps/how-smartphones-work.json",
+    "how-does-google-search-work": "maps/how-search-engines-work.json",
     "how-does-the-internet-work": "maps/how-the-internet-works.json",
+    "how-does-the-stock-market-work": "maps/how-the-stock-market-works.json",
+    "how-electric-cars-work": "maps/electric-cars.json",
+    "how-electricity-works": "maps/electricity.json",
+    "how-films-are-made": "maps/how-films-are-made.json",
+    "how-gravity-works": "maps/gravity.json",
+    "how-immunity-works": "maps/the-immune-system.json",
+    "how-machine-learning-works": "maps/machine-learning.json",
+    "how-mobile-phones-work": "maps/how-smartphones-work.json",
+    "how-movies-are-made": "maps/how-films-are-made.json",
     "how-photosynthesis-works": "maps/photosynthesis.json",
+    "how-recycling-works": "maps/recycling.json",
+    "how-science-works": "maps/the-scientific-method.json",
+    "how-search-engines-rank-pages": "maps/how-search-engines-work.json",
+    "how-search-engines-work": "maps/how-search-engines-work.json",
+    "how-smartphones-work": "maps/how-smartphones-work.json",
+    "how-tectonic-plates-move": "maps/plate-tectonics.json",
     "how-the-body-works": "maps/the-human-body.json",
+    "how-the-immune-system-works": "maps/the-immune-system.json",
     "how-the-internet-works": "maps/how-the-internet-works.json",
     "how-the-internet-works-explained": "maps/how-the-internet-works.json",
+    "how-the-stock-market-works": "maps/how-the-stock-market-works.json",
+    "how-the-water-cycle-works": "maps/the-water-cycle.json",
+    "how-to-ace-an-interview": "maps/job-interview-tips.json",
+    "how-to-be-a-leader": "maps/leadership.json",
+    "how-to-build-a-website": "maps/web-development.json",
+    "how-to-build-habits": "maps/build-good-habits.json",
     "how-to-code": "maps/learn-to-code.json",
+    "how-to-cook": "maps/learn-to-cook.json",
+    "how-to-deal-with-stress": "maps/stress-management.json",
+    "how-to-draw": "maps/learn-to-draw.json",
     "how-to-eat-healthy": "maps/healthy-eating.json",
+    "how-to-freelance": "maps/freelancing.json",
+    "how-to-give-a-speech": "maps/public-speaking.json",
+    "how-to-invest": "maps/start-investing.json",
     "how-to-learn-a-language": "maps/learn-a-new-language.json",
+    "how-to-live-sustainably": "maps/sustainable-living.json",
+    "how-to-meditate": "maps/meditation.json",
+    "how-to-move-house": "maps/moving-house.json",
+    "how-to-negotiate-salary": "maps/negotiate-a-salary.json",
+    "how-to-parent-a-toddler": "maps/parenting-toddlers.json",
+    "how-to-plan-a-road-trip": "maps/plan-a-road-trip.json",
+    "how-to-plan-a-wedding": "maps/plan-a-wedding.json",
+    "how-to-play-guitar": "maps/learn-guitar.json",
+    "how-to-recycle": "maps/recycling.json",
     "how-to-sleep-better": "maps/better-sleep.json",
     "how-to-start-a-business": "maps/start-a-small-business.json",
+    "how-to-start-investing": "maps/start-investing.json",
+    "how-to-start-running": "maps/running-for-beginners.json",
+    "how-to-take-better-photos": "maps/photography-basics.json",
+    "how-to-travel-cheap": "maps/travel-on-a-budget.json",
+    "how-to-write-a-novel": "maps/write-a-novel.json",
     "how-vaccines-work": "maps/how-vaccines-work.json",
+    "how-volcanoes-form": "maps/volcanoes.json",
+    "how-volcanoes-work": "maps/volcanoes.json",
     "human-anatomy": "maps/the-human-body.json",
     "human-body": "maps/the-human-body.json",
+    "human-rights": "maps/human-rights.json",
+    "human-rights-explained": "maps/human-rights.json",
+    "hydrologic-cycle": "maps/the-water-cycle.json",
+    "hydrological-cycle": "maps/the-water-cycle.json",
+    "immune-system": "maps/the-immune-system.json",
+    "immune-system-explained": "maps/the-immune-system.json",
+    "impressionism": "maps/impressionism.json",
+    "impressionist-art": "maps/impressionism.json",
+    "impressionist-painters": "maps/impressionism.json",
+    "impressionists": "maps/impressionism.json",
+    "industrial-revolution": "maps/the-industrial-revolution.json",
+    "inflation": "maps/inflation.json",
+    "inflation-explained": "maps/inflation.json",
     "internet": "maps/how-the-internet-works.json",
+    "internet-privacy": "maps/data-privacy.json",
+    "interrail-trip": "maps/backpacking-in-europe.json",
+    "interview-tips": "maps/job-interview-tips.json",
+    "invention-of-printing": "maps/the-printing-press.json",
+    "investing-for-beginners": "maps/start-investing.json",
     "italian-renaissance": "maps/the-renaissance.json",
+    "italy-itinerary": "maps/plan-a-trip-to-italy.json",
+    "italy-trip": "maps/plan-a-trip-to-italy.json",
+    "jazz": "maps/jazz.json",
+    "jazz-explained": "maps/jazz.json",
+    "jazz-history": "maps/jazz.json",
+    "jazz-music": "maps/jazz.json",
+    "job-interview-preparation": "maps/job-interview-tips.json",
+    "job-interview-tips": "maps/job-interview-tips.json",
     "language-learning": "maps/learn-a-new-language.json",
+    "law-of-gravity": "maps/gravity.json",
+    "leadership": "maps/leadership.json",
+    "leadership-skills": "maps/leadership.json",
     "learn-a-foreign-language": "maps/learn-a-new-language.json",
     "learn-a-new-language": "maps/learn-a-new-language.json",
+    "learn-drawing": "maps/learn-to-draw.json",
+    "learn-guitar": "maps/learn-guitar.json",
+    "learn-photography": "maps/photography-basics.json",
     "learn-programming": "maps/learn-to-code.json",
     "learn-to-code": "maps/learn-to-code.json",
+    "learn-to-cook": "maps/learn-to-cook.json",
+    "learn-to-draw": "maps/learn-to-draw.json",
+    "learn-to-meditate": "maps/meditation.json",
+    "learn-to-play-guitar": "maps/learn-guitar.json",
+    "learn-web-development": "maps/web-development.json",
+    "live-sustainably": "maps/sustainable-living.json",
+    "london-itinerary": "maps/visit-london.json",
+    "london-travel-guide": "maps/visit-london.json",
+    "london-trip": "maps/visit-london.json",
+    "machine-learning": "maps/machine-learning.json",
+    "machine-learning-explained": "maps/machine-learning.json",
+    "making-a-film": "maps/how-films-are-made.json",
+    "man-on-the-moon": "maps/the-moon-landing.json",
     "manage-my-money": "maps/personal-finance-basics.json",
+    "manage-my-time": "maps/time-management.json",
+    "manage-stress": "maps/stress-management.json",
+    "meditation": "maps/meditation.json",
+    "meditation-for-beginners": "maps/meditation.json",
+    "mindfulness-meditation": "maps/meditation.json",
     "money-basics": "maps/personal-finance-basics.json",
+    "moon-landing-1969": "maps/the-moon-landing.json",
+    "movable-type-printing": "maps/the-printing-press.json",
+    "moving-home": "maps/moving-house.json",
+    "moving-house": "maps/moving-house.json",
+    "moving-house-checklist": "maps/moving-house.json",
+    "negotiate-a-salary": "maps/negotiate-a-salary.json",
+    "negotiate-pay": "maps/negotiate-a-salary.json",
+    "new-york-city-trip": "maps/visit-new-york.json",
+    "new-york-itinerary": "maps/visit-new-york.json",
+    "norsemen": "maps/the-vikings.json",
+    "novel-writing": "maps/write-a-novel.json",
+    "nyc-trip": "maps/visit-new-york.json",
+    "ocean-plastic": "maps/plastic-pollution.json",
+    "online-privacy": "maps/data-privacy.json",
+    "online-security": "maps/cybersecurity-basics.json",
     "open-a-business": "maps/start-a-small-business.json",
+    "open-source": "maps/open-source-software.json",
+    "open-source-software": "maps/open-source-software.json",
+    "orchestral-music": "maps/classical-music.json",
+    "organise-a-wedding": "maps/plan-a-wedding.json",
+    "pack-for-travel": "maps/pack-for-travel.json",
+    "packing-list": "maps/pack-for-travel.json",
+    "packing-tips": "maps/pack-for-travel.json",
+    "parenting-toddlers": "maps/parenting-toddlers.json",
+    "paris-itinerary": "maps/visit-paris.json",
+    "paris-travel-guide": "maps/visit-paris.json",
+    "paris-trip": "maps/visit-paris.json",
+    "pay-negotiation": "maps/negotiate-a-salary.json",
+    "periodic-table": "maps/the-periodic-table.json",
+    "periodic-table-of-elements": "maps/the-periodic-table.json",
+    "periodic-table-of-the-elements": "maps/the-periodic-table.json",
+    "personal-data-protection": "maps/data-privacy.json",
     "personal-finance-basics": "maps/personal-finance-basics.json",
+    "photography-basics": "maps/photography-basics.json",
+    "photography-for-beginners": "maps/photography-basics.json",
     "photosynthesis": "maps/photosynthesis.json",
     "photosynthesis-explained": "maps/photosynthesis.json",
+    "plan-a-camping-trip": "maps/plan-a-camping-trip.json",
+    "plan-a-road-trip": "maps/plan-a-road-trip.json",
+    "plan-a-trip-to-italy": "maps/plan-a-trip-to-italy.json",
+    "plan-a-wedding": "maps/plan-a-wedding.json",
     "plant-photosynthesis": "maps/photosynthesis.json",
+    "plastic-in-the-ocean": "maps/plastic-pollution.json",
+    "plastic-pollution": "maps/plastic-pollution.json",
+    "plastic-pollution-facts": "maps/plastic-pollution.json",
+    "plastic-waste": "maps/plastic-pollution.json",
+    "plate-tectonic-theory": "maps/plate-tectonics.json",
+    "plate-tectonics": "maps/plate-tectonics.json",
+    "prepare-for-an-interview": "maps/job-interview-tips.json",
+    "presentation-skills": "maps/public-speaking.json",
+    "productivity-tips": "maps/time-management.json",
+    "public-speaking": "maps/public-speaking.json",
     "quantum-computation": "maps/quantum-computing.json",
     "quantum-computer": "maps/quantum-computing.json",
     "quantum-computers": "maps/quantum-computing.json",
     "quantum-computing": "maps/quantum-computing.json",
+    "raising-toddlers": "maps/parenting-toddlers.json",
+    "recycling": "maps/recycling.json",
+    "recycling-tips": "maps/recycling.json",
+    "reduce-stress": "maps/stress-management.json",
+    "remote-work": "maps/remote-work.json",
+    "remote-working": "maps/remote-work.json",
     "renaissance": "maps/the-renaissance.json",
     "renaissance-period": "maps/the-renaissance.json",
+    "renewable-energy": "maps/renewable-energy.json",
+    "renewable-energy-sources": "maps/renewable-energy.json",
+    "renewables": "maps/renewable-energy.json",
+    "resistance-training": "maps/strength-training-basics.json",
     "resume": "maps/write-a-cv.json",
     "revolution-of-1789": "maps/the-french-revolution.json",
+    "revolutionary-war": "maps/the-american-revolution.json",
+    "road-trip-checklist": "maps/plan-a-road-trip.json",
+    "road-trip-planning": "maps/plan-a-road-trip.json",
     "roman-empire": "maps/ancient-rome.json",
     "roman-republic": "maps/ancient-rome.json",
     "rome-history": "maps/ancient-rome.json",
+    "running-for-beginners": "maps/running-for-beginners.json",
+    "salary-negotiation": "maps/negotiate-a-salary.json",
+    "scientific-method": "maps/the-scientific-method.json",
+    "search-engine-explained": "maps/how-search-engines-work.json",
     "second-world-war": "maps/world-war-ii.json",
+    "shakespeare": "maps/shakespeare.json",
+    "shakespeare-plays": "maps/shakespeare.json",
+    "silk-road": "maps/the-silk-road.json",
+    "silk-roads": "maps/the-silk-road.json",
+    "silk-route": "maps/the-silk-road.json",
     "sleep-better": "maps/better-sleep.json",
     "sleep-hygiene": "maps/better-sleep.json",
+    "smartphone-explained": "maps/how-smartphones-work.json",
     "start-a-business": "maps/start-a-small-business.json",
     "start-a-small-business": "maps/start-a-small-business.json",
     "start-coding": "maps/learn-to-code.json",
+    "start-freelancing": "maps/freelancing.json",
+    "start-investing": "maps/start-investing.json",
+    "start-running": "maps/running-for-beginners.json",
     "starting-a-business": "maps/start-a-small-business.json",
+    "stay-safe-online": "maps/cybersecurity-basics.json",
+    "steps-of-the-scientific-method": "maps/the-scientific-method.json",
+    "stock-market-basics": "maps/how-the-stock-market-works.json",
+    "stock-market-explained": "maps/how-the-stock-market-works.json",
+    "strength-training": "maps/strength-training-basics.json",
+    "strength-training-basics": "maps/strength-training-basics.json",
+    "stress-management": "maps/stress-management.json",
+    "stress-relief": "maps/stress-management.json",
+    "sustainable-lifestyle": "maps/sustainable-living.json",
+    "sustainable-living": "maps/sustainable-living.json",
+    "tectonic-plates": "maps/plate-tectonics.json",
+    "telecommuting": "maps/remote-work.json",
+    "terrible-twos": "maps/parenting-toddlers.json",
+    "the-american-revolution": "maps/the-american-revolution.json",
+    "the-bard": "maps/shakespeare.json",
+    "the-cloud": "maps/cloud-computing.json",
+    "the-cold-war": "maps/the-cold-war.json",
+    "the-fall-of-the-berlin-wall": "maps/the-fall-of-the-berlin-wall.json",
     "the-french-revolution": "maps/the-french-revolution.json",
     "the-human-body": "maps/the-human-body.json",
+    "the-immune-system": "maps/the-immune-system.json",
+    "the-industrial-revolution": "maps/the-industrial-revolution.json",
+    "the-moon-landing": "maps/the-moon-landing.json",
+    "the-periodic-table": "maps/the-periodic-table.json",
+    "the-printing-press": "maps/the-printing-press.json",
     "the-renaissance": "maps/the-renaissance.json",
     "the-romans": "maps/ancient-rome.json",
+    "the-scientific-method": "maps/the-scientific-method.json",
+    "the-scientific-process": "maps/the-scientific-method.json",
+    "the-silk-road": "maps/the-silk-road.json",
+    "the-united-nations": "maps/the-united-nations.json",
+    "the-vikings": "maps/the-vikings.json",
+    "the-water-cycle": "maps/the-water-cycle.json",
     "theory-of-evolution": "maps/evolution.json",
+    "things-to-do-in-australia": "maps/visit-australia.json",
+    "things-to-do-in-london": "maps/visit-london.json",
+    "things-to-do-in-nyc": "maps/visit-new-york.json",
+    "things-to-do-in-paris": "maps/visit-paris.json",
+    "time-management": "maps/time-management.json",
+    "time-management-tips": "maps/time-management.json",
+    "toddler-parenting": "maps/parenting-toddlers.json",
+    "travel-cheaply": "maps/travel-on-a-budget.json",
+    "travel-on-a-budget": "maps/travel-on-a-budget.json",
+    "travel-packing-list": "maps/pack-for-travel.json",
+    "travel-to-australia": "maps/visit-australia.json",
+    "travel-to-italy": "maps/plan-a-trip-to-italy.json",
+    "un": "maps/the-united-nations.json",
+    "un-explained": "maps/the-united-nations.json",
+    "united-nations": "maps/the-united-nations.json",
+    "us-independence": "maps/the-american-revolution.json",
+    "us-soviet-cold-war": "maps/the-cold-war.json",
     "vaccination": "maps/how-vaccines-work.json",
     "vaccines": "maps/how-vaccines-work.json",
+    "viking-age": "maps/the-vikings.json",
+    "viking-history": "maps/the-vikings.json",
+    "vikings": "maps/the-vikings.json",
+    "visit-australia": "maps/visit-australia.json",
+    "visit-london": "maps/visit-london.json",
+    "visit-new-york": "maps/visit-new-york.json",
+    "visit-paris": "maps/visit-paris.json",
+    "visiting-italy": "maps/plan-a-trip-to-italy.json",
+    "volcanic-eruptions": "maps/volcanoes.json",
+    "volcano": "maps/volcanoes.json",
+    "volcanoes": "maps/volcanoes.json",
+    "water-cycle-explained": "maps/the-water-cycle.json",
+    "web-dev": "maps/web-development.json",
+    "web-development": "maps/web-development.json",
+    "website-development": "maps/web-development.json",
+    "wedding-checklist": "maps/plan-a-wedding.json",
+    "wedding-planning": "maps/plan-a-wedding.json",
+    "weight-training-for-beginners": "maps/strength-training-basics.json",
+    "western-classical-music": "maps/classical-music.json",
+    "wfh": "maps/remote-work.json",
+    "what-are-human-rights": "maps/human-rights.json",
+    "what-can-be-recycled": "maps/recycling.json",
+    "what-is-a-black-hole": "maps/black-holes.json",
     "what-is-ai": "maps/artificial-intelligence.json",
     "what-is-artificial-intelligence": "maps/artificial-intelligence.json",
+    "what-is-biodiversity": "maps/biodiversity.json",
     "what-is-bitcoin": "maps/how-bitcoin-works.json",
+    "what-is-blockchain": "maps/blockchain.json",
+    "what-is-cloud-computing": "maps/cloud-computing.json",
+    "what-is-democracy": "maps/democracy.json",
+    "what-is-dna": "maps/dna-and-genetics.json",
+    "what-is-inflation": "maps/inflation.json",
+    "what-is-machine-learning": "maps/machine-learning.json",
+    "what-is-open-source": "maps/open-source-software.json",
+    "what-is-the-un": "maps/the-united-nations.json",
+    "what-to-pack": "maps/pack-for-travel.json",
+    "why-prices-rise": "maps/inflation.json",
+    "william-shakespeare": "maps/shakespeare.json",
+    "work-from-home": "maps/remote-work.json",
+    "working-from-home": "maps/remote-work.json",
     "world-war-2": "maps/world-war-ii.json",
     "world-war-ii": "maps/world-war-ii.json",
     "write-a-cv": "maps/write-a-cv.json",
+    "write-a-novel": "maps/write-a-novel.json",
     "write-a-resume": "maps/write-a-cv.json",
+    "writing-a-novel": "maps/write-a-novel.json",
     "ww2": "maps/world-war-ii.json",
     "wwii": "maps/world-war-ii.json"
   }

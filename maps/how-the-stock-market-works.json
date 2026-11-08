@@ -1,0 +1,309 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "How the stock market works",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#cxm2y2",
+      "name": "What a share is",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dzf9dp",
+      "name": "A share is part-ownership of a company",
+      "x": -504,
+      "y": -68,
+      "link": "https://en.wikipedia.org/wiki/Share_%28finance%29",
+      "parent": "#cxm2y2"
+    },
+    {
+      "@id": "#dnk5ry",
+      "name": "Shareholders may receive dividends",
+      "x": -396,
+      "y": -171,
+      "parent": "#cxm2y2"
+    },
+    {
+      "@id": "#9ftjf4",
+      "name": "Ordinary shares usually carry votes",
+      "x": -305,
+      "y": -265,
+      "parent": "#cxm2y2"
+    },
+    {
+      "@id": "#f32mvq",
+      "name": "How companies list",
+      "x": -19,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hfwsta",
+      "name": "Companies raise money in an IPO",
+      "x": -181,
+      "y": -330,
+      "link": "https://en.wikipedia.org/wiki/Initial_public_offering",
+      "parent": "#f32mvq"
+    },
+    {
+      "@id": "#yikp3y",
+      "name": "Shares then trade between investors",
+      "x": -41,
+      "y": -391,
+      "parent": "#f32mvq"
+    },
+    {
+      "@id": "#45368y",
+      "name": "Listed firms must publish their results",
+      "x": 140,
+      "y": -445,
+      "parent": "#f32mvq"
+    },
+    {
+      "@id": "#exczuc",
+      "name": "Where trading happens",
+      "x": 182,
+      "y": -113,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5jgnfx",
+      "name": "Exchanges like NYSE, Nasdaq and London",
+      "x": 246,
+      "y": -301,
+      "link": "https://en.wikipedia.org/wiki/Stock_exchange",
+      "parent": "#exczuc"
+    },
+    {
+      "@id": "#w3pvd9",
+      "name": "Investors buy and sell through brokers",
+      "x": 355,
+      "y": -221,
+      "parent": "#exczuc"
+    },
+    {
+      "@id": "#94wxyi",
+      "name": "Almost all trading is now electronic",
+      "x": 502,
+      "y": -137,
+      "parent": "#exczuc"
+    },
+    {
+      "@id": "#iiupk7",
+      "name": "What moves prices",
+      "x": 202,
+      "y": 88,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v3sdqz",
+      "name": "Supply and demand set the price",
+      "x": 450,
+      "y": 0,
+      "parent": "#iiupk7"
+    },
+    {
+      "@id": "#6jk7i6",
+      "name": "Profits and expectations of future profits",
+      "x": 502,
+      "y": 137,
+      "parent": "#iiupk7"
+    },
+    {
+      "@id": "#n8vrtx",
+      "name": "Interest rates and economic news",
+      "x": 355,
+      "y": 221,
+      "parent": "#iiupk7"
+    },
+    {
+      "@id": "#j4zfgp",
+      "name": "Fear and greed amplify swings",
+      "x": 246,
+      "y": 301,
+      "parent": "#iiupk7"
+    },
+    {
+      "@id": "#246yqn",
+      "name": "Measuring the market",
+      "x": -19,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#iitw6r",
+      "name": "Indices track a basket of shares",
+      "x": 110,
+      "y": 349,
+      "link": "https://en.wikipedia.org/wiki/Stock_market_index",
+      "parent": "#246yqn"
+    },
+    {
+      "@id": "#mpmqim",
+      "name": "S&P 500, FTSE 100, Nikkei 225",
+      "x": -43,
+      "y": 407,
+      "parent": "#246yqn"
+    },
+    {
+      "@id": "#nvayn7",
+      "name": "Bull markets rise, bear markets fall",
+      "x": -253,
+      "y": 465,
+      "parent": "#246yqn"
+    },
+    {
+      "@id": "#qa3bdp",
+      "name": "Risks and safeguards",
+      "x": -202,
+      "y": 88,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dm9946",
+      "name": "Prices can fall as well as rise",
+      "x": -305,
+      "y": 265,
+      "parent": "#qa3bdp"
+    },
+    {
+      "@id": "#f2ma3y",
+      "name": "Diversifying spreads single-company risk",
+      "x": -396,
+      "y": 171,
+      "parent": "#qa3bdp"
+    },
+    {
+      "@id": "#nnsrgi",
+      "name": "Regulators police fraud and insider trading",
+      "x": -544,
+      "y": 74,
+      "link": "https://en.wikipedia.org/wiki/Insider_trading",
+      "parent": "#qa3bdp"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

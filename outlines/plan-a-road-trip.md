@@ -1,0 +1,31 @@
+aliases: road trip planning, road trip checklist, how to plan a road trip
+- Plan a road trip
+  - Choose route and pace
+    - Pick a start, end and must-sees
+    - Keep most driving days short
+    - Leave slack for detours and rest
+    - Download offline maps
+  - Book and budget
+    - Book stays where options are scarce
+    - Budget for fuel, tolls and parking
+    - [Rental cars: check mileage and one-way fees](https://en.wikipedia.org/wiki/Car_rental)
+    - [Do you need an International Driving Permit?](https://en.wikipedia.org/wiki/International_Driving_Permit)
+  - Prepare the vehicle
+    - Check tyres, including the spare
+    - Check oil, coolant and brakes
+    - Test lights, wipers and washer fluid
+    - Confirm insurance and breakdown cover
+  - Pack the car
+    - Emergency kit: first aid, torch, triangle
+    - Phone charger and a paper map
+    - Water and snacks
+    - Playlists, podcasts and games
+  - On the road
+    - [Take a break every two hours](https://en.wikipedia.org/wiki/Driver_fatigue)
+    - Share the driving if you can
+    - Refuel early in remote areas
+    - Keep phones hands-free or off
+  - Make it memorable
+    - Scenic roads over motorways
+    - Local diners, farm stands and markets
+    - [Classic drives like Route 66](https://en.wikipedia.org/wiki/U.S._Route_66)

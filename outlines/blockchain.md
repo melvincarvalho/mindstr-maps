@@ -1,0 +1,29 @@
+aliases: what is blockchain, blockchain technology, how blockchain works, distributed ledger
+- Blockchain
+  - The basic idea
+    - [Shared ledger copied across many computers](https://en.wikipedia.org/wiki/Distributed_ledger)
+    - Records grouped into blocks
+    - [Each block stores the previous block's hash](https://en.wikipedia.org/wiki/Cryptographic_hash_function)
+    - Changing old data breaks the chain
+  - Origins
+    - Haber and Stornetta chained timestamps, 1991
+    - Bitcoin was the first, 2009
+  - Reaching agreement
+    - Consensus rules pick the next block
+    - Proof of work spends computing power
+    - [Proof of stake locks up coins](https://en.wikipedia.org/wiki/Proof_of_stake)
+    - No single party in control
+  - Kinds of blockchain
+    - Public: anyone can join and read
+    - Private: one organisation controls access
+    - Consortium: shared by a group
+  - Beyond currency
+    - [Smart contracts run code automatically](https://en.wikipedia.org/wiki/Smart_contract)
+    - [Ethereum brought smart contracts, 2015](https://en.wikipedia.org/wiki/Ethereum)
+    - Stablecoins track currencies like the dollar
+    - NFTs record ownership of tokens
+  - Limits and criticism
+    - Slower and costlier than ordinary databases
+    - Proof of work uses much energy
+    - Mistakes and hacks are hard to reverse
+    - Often unnecessary when parties trust each other

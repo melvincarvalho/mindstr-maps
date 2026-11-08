@@ -1,0 +1,29 @@
+aliases: electric vehicles, ev, evs, electric car, how electric cars work
+- Electric cars
+  - How they work
+    - [Lithium-ion battery stores the energy](https://en.wikipedia.org/wiki/Lithium-ion_battery)
+    - Electric motor drives the wheels
+    - [Regenerative braking recharges while slowing](https://en.wikipedia.org/wiki/Regenerative_braking)
+    - Far fewer moving parts than engines
+  - Types
+    - Battery electric: plug-in only
+    - [Plug-in hybrid adds a petrol engine](https://en.wikipedia.org/wiki/Plug-in_hybrid)
+    - Regular hybrids can't plug in
+  - Charging
+    - Home charging overnight is cheapest
+    - [Rapid chargers: 80% in about 30 minutes](https://en.wikipedia.org/wiki/Charging_station)
+    - Connector types: CCS, Type 2, NACS
+  - Range and running costs
+    - Typical range about 200–300 miles
+    - Cold weather reduces range
+    - Cheaper to fuel and service
+    - Higher purchase price, gap narrowing
+  - Environmental impact
+    - No tailpipe exhaust emissions
+    - Battery making adds emissions upfront
+    - [Lower lifetime emissions on most grids](https://en.wikipedia.org/wiki/Electric_car)
+    - Batteries can be recycled or reused
+  - Before you buy
+    - Check charging at home and work
+    - Compare range with your longest trips
+    - Battery warranties often run 8 years

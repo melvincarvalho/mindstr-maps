@@ -1,0 +1,29 @@
+aliases: moving home, house move, how to move house, moving house checklist
+- Moving house
+  - Plan ahead
+    - Set a moving date and budget
+    - [Get several quotes from movers](https://en.wikipedia.org/wiki/Moving_company)
+    - Renting? Give your landlord notice
+    - Book time off work
+  - Declutter and pack
+    - Sell, donate or recycle unused things
+    - Gather boxes, tape and markers
+    - Pack room by room, label boxes
+    - Heavy items in small boxes
+    - Essentials box for the first night
+  - Sort the admin
+    - [Redirect your post](https://en.wikipedia.org/wiki/Mail_forwarding)
+    - Update address: bank, doctor, employer
+    - Arrange utilities and internet
+    - Check insurance covers the move
+  - Moving day
+    - Take meter readings
+    - Keep valuables and documents with you
+    - Check every cupboard before leaving
+    - Hand over the old keys
+  - Settle in
+    - Consider changing the locks
+    - Find the stopcock and fuse box
+    - Register with a local doctor
+    - Meet the neighbours
+    - Update driving licence and voter registration

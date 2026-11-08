@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Remote work",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#amumez",
+      "name": "Forms it takes",
+      "x": -190,
+      "y": -104,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xjveu4",
+      "name": "Fully remote, from any location",
+      "x": -445,
+      "y": -54,
+      "link": "https://en.wikipedia.org/wiki/Remote_work",
+      "parent": "#amumez"
+    },
+    {
+      "@id": "#pua89x",
+      "name": "Hybrid: some days in the office",
+      "x": -405,
+      "y": -156,
+      "parent": "#amumez"
+    },
+    {
+      "@id": "#gtmwan",
+      "name": "Digital nomads travel while working",
+      "x": -330,
+      "y": -245,
+      "link": "https://en.wikipedia.org/wiki/Digital_nomad",
+      "parent": "#amumez"
+    },
+    {
+      "@id": "#dmu6w6",
+      "name": "Boomed during the 2020 COVID-19 pandemic",
+      "x": -225,
+      "y": -312,
+      "parent": "#amumez"
+    },
+    {
+      "@id": "#sr44t9",
+      "name": "Benefits",
+      "x": 17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dnk335",
+      "name": "No commute saves time and money",
+      "x": -104,
+      "y": -367,
+      "parent": "#sr44t9"
+    },
+    {
+      "@id": "#4iyd27",
+      "name": "Wider pool of jobs and talent",
+      "x": 42,
+      "y": -423,
+      "parent": "#sr44t9"
+    },
+    {
+      "@id": "#3u7a6b",
+      "name": "More flexible daily schedule",
+      "x": 234,
+      "y": -485,
+      "parent": "#sr44t9"
+    },
+    {
+      "@id": "#r7x49q",
+      "name": "Challenges",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#adxu4k",
+      "name": "Isolation and loneliness",
+      "x": 281,
+      "y": -281,
+      "parent": "#r7x49q"
+    },
+    {
+      "@id": "#6xamcr",
+      "name": "Work bleeding into home life",
+      "x": 372,
+      "y": -203,
+      "parent": "#r7x49q"
+    },
+    {
+      "@id": "#gvs9p3",
+      "name": "Harder to be noticed for promotion",
+      "x": 468,
+      "y": -116,
+      "parent": "#r7x49q"
+    },
+    {
+      "@id": "#8db2c5",
+      "name": "Time zones complicate meetings",
+      "x": 450,
+      "y": 0,
+      "parent": "#r7x49q"
+    },
+    {
+      "@id": "#mtfe93",
+      "name": "Set up your workspace",
+      "x": 190,
+      "y": 104,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yuuvxs",
+      "name": "Dedicated desk away from bed",
+      "x": 468,
+      "y": 116,
+      "parent": "#mtfe93"
+    },
+    {
+      "@id": "#j87nv2",
+      "name": "Ergonomic chair and screen height",
+      "x": 372,
+      "y": 203,
+      "link": "https://en.wikipedia.org/wiki/Human_factors_and_ergonomics",
+      "parent": "#mtfe93"
+    },
+    {
+      "@id": "#anvzdn",
+      "name": "Reliable internet and a headset",
+      "x": 281,
+      "y": 281,
+      "parent": "#mtfe93"
+    },
+    {
+      "@id": "#7zraix",
+      "name": "Work well with a team",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vtngcx",
+      "name": "Default to written, asynchronous updates",
+      "x": 164,
+      "y": 335,
+      "parent": "#7zraix"
+    },
+    {
+      "@id": "#8xfx2q",
+      "name": "Video calls for discussion, not everything",
+      "x": 38,
+      "y": 391,
+      "link": "https://en.wikipedia.org/wiki/Videotelephony",
+      "parent": "#7zraix"
+    },
+    {
+      "@id": "#g6xmxv",
+      "name": "Share calendars and working hours",
+      "x": -124,
+      "y": 447,
+      "parent": "#7zraix"
+    },
+    {
+      "@id": "#6knggd",
+      "name": "Regular one-to-ones with your manager",
+      "x": -235,
+      "y": 326,
+      "parent": "#7zraix"
+    },
+    {
+      "@id": "#3vztkc",
+      "name": "Look after yourself",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j7e77w",
+      "name": "Keep fixed start and stop times",
+      "x": -330,
+      "y": 245,
+      "parent": "#3vztkc"
+    },
+    {
+      "@id": "#jfpw3d",
+      "name": "Take breaks and go outside",
+      "x": -405,
+      "y": 156,
+      "parent": "#3vztkc"
+    },
+    {
+      "@id": "#wpx7gm",
+      "name": "Schedule social contact on purpose",
+      "x": -505,
+      "y": 60,
+      "parent": "#3vztkc"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

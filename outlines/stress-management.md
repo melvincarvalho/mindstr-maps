@@ -1,0 +1,30 @@
+aliases: manage stress, how to deal with stress, coping with stress, reduce stress, stress relief
+- Stress management
+  - Understand stress
+    - [Fight-or-flight: adrenaline and cortisol](https://en.wikipedia.org/wiki/Fight-or-flight_response)
+    - Short bursts can help you perform
+    - Long-term stress harms health
+  - Spot the signs
+    - Tension, headaches, poor sleep
+    - Irritability, worry, poor concentration
+    - Leaning on alcohol or caffeine
+  - Tackle the causes
+    - List what is stressing you
+    - Change what you can control
+    - Break big tasks into steps
+    - Learn to say no
+  - Calm the body
+    - [Slow breathing, longer out-breath](https://en.wikipedia.org/wiki/Diaphragmatic_breathing)
+    - Regular physical activity
+    - Protect sleep and regular meals
+    - [Progressive muscle relaxation](https://en.wikipedia.org/wiki/Progressive_muscle_relaxation)
+  - Look after your mind
+    - Talk to friends or family
+    - Make time for things you enjoy
+    - Question worst-case thinking
+    - Spend time outdoors
+  - When to get help
+    - Stress lasting weeks or overwhelming
+    - See a doctor about support
+    - [CBT teaches practical coping skills](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy)
+    - Thoughts of self-harm: get urgent help

@@ -1,0 +1,28 @@
+aliases: jazz music, history of jazz, jazz history, jazz explained
+- Jazz
+  - Roots in New Orleans
+    - Emerged in the early 1900s
+    - Blues, ragtime and brass bands mixed
+    - Grew from African American musical traditions
+    - [Louis Armstrong made the solo central](https://en.wikipedia.org/wiki/Louis_Armstrong)
+  - [Swing era, 1930s–40s](https://en.wikipedia.org/wiki/Swing_music)
+    - Big bands played for dancing
+    - Duke Ellington and Count Basie
+    - Ella Fitzgerald and Billie Holiday sang
+  - [Bebop, 1940s](https://en.wikipedia.org/wiki/Bebop)
+    - Charlie Parker and Dizzy Gillespie
+    - Fast tempos, complex harmony
+    - Made for listening, not dancing
+  - Later styles
+    - Cool jazz and hard bop
+    - [Miles Davis's Kind of Blue, 1959](https://en.wikipedia.org/wiki/Kind_of_Blue)
+    - John Coltrane's A Love Supreme
+    - Fusion mixes jazz with rock
+  - How jazz works
+    - [Improvisation is at its heart](https://en.wikipedia.org/wiki/Jazz_improvisation)
+    - Swing feel: uneven eighth notes
+    - Standards from the Great American Songbook
+    - Play the head, take solos, return
+  - Start listening
+    - Begin with classic albums
+    - Hear it live in a small club

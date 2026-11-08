@@ -1,0 +1,29 @@
+aliases: become a freelancer, how to freelance, freelance work, start freelancing
+- Freelancing
+  - Decide what you'll sell
+    - [Turn an existing skill into a service](https://en.wikipedia.org/wiki/Freelancer)
+    - Pick a niche clients search for
+    - Build a portfolio of sample work
+  - Set your rates
+    - Rates must cover tax, holidays, gaps
+    - Charge hourly, daily or per project
+    - Raise prices as demand grows
+  - Find clients
+    - Tell your existing network first
+    - Freelance marketplaces for early work
+    - Referrals from happy clients
+    - A visible website or LinkedIn profile
+  - Protect yourself
+    - [Written contract for every job](https://en.wikipedia.org/wiki/Contract)
+    - [Agree scope and revisions upfront](https://en.wikipedia.org/wiki/Scope_creep)
+    - Take a deposit on big projects
+    - [Chase late invoices promptly](https://en.wikipedia.org/wiki/Invoice)
+  - Handle the admin
+    - Register as self-employed for tax
+    - Set aside money for tax bills
+    - Keep receipts and track expenses
+    - Keep business money in separate account
+  - Sustain the career
+    - Smooth income with a cash buffer
+    - Fund your own pension and insurance
+    - Avoid relying on one client

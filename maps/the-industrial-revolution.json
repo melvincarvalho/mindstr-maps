@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "The Industrial Revolution",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#7kp5u8",
+      "name": "Why Britain first, about 1760",
+      "x": -193,
+      "y": -99,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#kqvme3",
+      "name": "Plentiful coal and iron ore",
+      "x": -445,
+      "y": -51,
+      "parent": "#7kp5u8"
+    },
+    {
+      "@id": "#gyzgiq",
+      "name": "Capital from trade and empire",
+      "x": -409,
+      "y": -150,
+      "parent": "#7kp5u8"
+    },
+    {
+      "@id": "#3vdarc",
+      "name": "Farming changes freed workers for towns",
+      "x": -340,
+      "y": -236,
+      "parent": "#7kp5u8"
+    },
+    {
+      "@id": "#y892iv",
+      "name": "Patents and a stable government",
+      "x": -243,
+      "y": -303,
+      "parent": "#7kp5u8"
+    },
+    {
+      "@id": "#dhev99",
+      "name": "Key inventions",
+      "x": 33,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p9n3ck",
+      "name": "Spinning jenny and water frame",
+      "x": -133,
+      "y": -360,
+      "link": "https://en.wikipedia.org/wiki/Spinning_jenny",
+      "parent": "#dhev99"
+    },
+    {
+      "@id": "#m4rzjj",
+      "name": "James Watt's improved steam engine",
+      "x": 0,
+      "y": -408,
+      "link": "https://en.wikipedia.org/wiki/Watt_steam_engine",
+      "parent": "#dhev99"
+    },
+    {
+      "@id": "#pqgk6z",
+      "name": "Coke smelting made iron cheap",
+      "x": 175,
+      "y": -465,
+      "parent": "#dhev99"
+    },
+    {
+      "@id": "#beenxg",
+      "name": "Power loom mechanised weaving",
+      "x": 243,
+      "y": -303,
+      "parent": "#dhev99"
+    },
+    {
+      "@id": "#ux52fr",
+      "name": "Factories and transport",
+      "x": 221,
+      "y": -52,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qgv2h9",
+      "name": "Textile mills gathered workers together",
+      "x": 340,
+      "y": -236,
+      "parent": "#ux52fr"
+    },
+    {
+      "@id": "#qvn6ry",
+      "name": "Canals carried coal cheaply",
+      "x": 409,
+      "y": -150,
+      "parent": "#ux52fr"
+    },
+    {
+      "@id": "#kcfkvd",
+      "name": "Stockton and Darlington Railway opens, 1825",
+      "x": 585,
+      "y": -65,
+      "link": "https://en.wikipedia.org/wiki/Stockton_and_Darlington_Railway",
+      "parent": "#ux52fr"
+    },
+    {
+      "@id": "#qkfpx9",
+      "name": "Steamships crossed oceans faster",
+      "x": 445,
+      "y": 51,
+      "parent": "#ux52fr"
+    },
+    {
+      "@id": "#r3cjv6",
+      "name": "Life and work",
+      "x": 151,
+      "y": 139,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#p2bfra",
+      "name": "Industrial cities grew rapidly",
+      "x": 409,
+      "y": 150,
+      "parent": "#r3cjv6"
+    },
+    {
+      "@id": "#j8g5b8",
+      "name": "Long hours and child labour",
+      "x": 340,
+      "y": 236,
+      "parent": "#r3cjv6"
+    },
+    {
+      "@id": "#iqvxs4",
+      "name": "Crowded slums spread disease",
+      "x": 243,
+      "y": 303,
+      "parent": "#r3cjv6"
+    },
+    {
+      "@id": "#nsk5xn",
+      "name": "Luddites smashed machines, 1811 to 1816",
+      "x": 133,
+      "y": 360,
+      "parent": "#r3cjv6"
+    },
+    {
+      "@id": "#gi5pcz",
+      "name": "Spread and reform",
+      "x": -65,
+      "y": 177,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#d785ay",
+      "name": "Spread to Europe, the US, Japan",
+      "x": 0,
+      "y": 408,
+      "parent": "#gi5pcz"
+    },
+    {
+      "@id": "#v8es52",
+      "name": "Factory Acts limited working hours",
+      "x": -175,
+      "y": 465,
+      "link": "https://en.wikipedia.org/wiki/Factory_Acts",
+      "parent": "#gi5pcz"
+    },
+    {
+      "@id": "#2ry3gn",
+      "name": "Trade unions and the vote expanded",
+      "x": -243,
+      "y": 303,
+      "parent": "#gi5pcz"
+    },
+    {
+      "@id": "#63qhxs",
+      "name": "Legacy",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#25jh9q",
+      "name": "Living standards rose over the long run",
+      "x": -340,
+      "y": 236,
+      "parent": "#63qhxs"
+    },
+    {
+      "@id": "#bwwym2",
+      "name": "Burning coal began rising carbon emissions",
+      "x": -409,
+      "y": 150,
+      "parent": "#63qhxs"
+    },
+    {
+      "@id": "#w2hgs7",
+      "name": "Second wave brought electricity and steel",
+      "x": -485,
+      "y": 55,
+      "parent": "#63qhxs"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

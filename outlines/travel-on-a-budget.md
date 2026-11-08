@@ -1,0 +1,30 @@
+aliases: budget travel, cheap travel, travel cheaply, how to travel cheap
+- Travel on a budget
+  - Set a budget
+    - Set a daily spending target
+    - Pick places where money goes further
+    - Track spending as you go
+  - Time it right
+    - Travel in shoulder or off season
+    - Be flexible with dates
+    - Set fare alerts and compare
+  - Transport
+    - [Budget airlines: watch the bag fees](https://en.wikipedia.org/wiki/Low-cost_carrier)
+    - Overnight buses and trains save lodging
+    - Public transport over taxis
+    - Walk or rent bikes in cities
+  - Accommodation
+    - Hostels and guesthouses
+    - [House-sitting or home exchange](https://en.wikipedia.org/wiki/House_sitting)
+    - Longer stays often get discounts
+    - A kitchen lets you cook
+  - Food
+    - Markets and street food
+    - Set lunch menus cost less than dinner
+    - Refillable bottle where tap water is safe
+    - Picnics from supermarkets
+  - Money and extras
+    - Cards without foreign transaction fees
+    - [Pay in local currency, not yours](https://en.wikipedia.org/wiki/Dynamic_currency_conversion)
+    - Free museum days and walking tours
+    - [Travel insurance is still worth having](https://en.wikipedia.org/wiki/Travel_insurance)

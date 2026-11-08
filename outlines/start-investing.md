@@ -1,0 +1,28 @@
+aliases: how to invest, investing for beginners, how to start investing, beginner investing
+- Start investing
+  - Get ready first
+    - Clear high-interest debt
+    - Have an emergency fund in place
+    - Only invest money untouched for 5+ years
+  - Set goals and a time horizon
+    - Retirement, house deposit or growth
+    - Longer horizons can ride out crashes
+    - Decide how much fall you'd tolerate
+  - Understand the main assets
+    - [Shares: higher growth, bigger swings](https://en.wikipedia.org/wiki/Stock)
+    - [Bonds: loans paying steadier interest](https://en.wikipedia.org/wiki/Bond_%28finance%29)
+    - Cash: safe but loses to inflation
+    - [Funds pool many investments together](https://en.wikipedia.org/wiki/Mutual_fund)
+  - Choose an account
+    - Workplace pension, especially employer match
+    - Tax-advantaged accounts: ISA, 401(k), IRA
+    - Compare platform and fund fees
+  - Build a simple portfolio
+    - [Diversify across companies and countries](https://en.wikipedia.org/wiki/Diversification_%28finance%29)
+    - Low-cost global index funds or ETFs
+    - [Invest a fixed sum every month](https://en.wikipedia.org/wiki/Dollar_cost_averaging)
+    - Rebalance about once a year
+  - Stay the course
+    - Don't try to time the market
+    - Ignore hype and hot tips
+    - Reinvest dividends to compound growth

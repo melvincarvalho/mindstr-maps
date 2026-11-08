@@ -1,0 +1,29 @@
+aliases: what is biodiversity, biological diversity, biodiversity loss
+- Biodiversity
+  - Three levels of variety
+    - Genetic diversity within species
+    - About 2 million species described
+    - Ecosystems: forests, reefs, wetlands, grasslands
+  - Where it is richest
+    - [Tropical rainforests hold most land species](https://en.wikipedia.org/wiki/Tropical_rainforest)
+    - Coral reefs are ocean hotspots
+    - [36 recognised biodiversity hotspots](https://en.wikipedia.org/wiki/Biodiversity_hotspot)
+  - Why it matters
+    - Pollinators needed for many food crops
+    - Forests and wetlands clean water
+    - Many medicines come from nature
+    - Diverse ecosystems withstand shocks better
+  - Main threats
+    - Habitat loss, mainly for farming
+    - Overfishing and hunting
+    - Climate change shifts habitats
+    - Pollution from pesticides and plastics
+    - Invasive species outcompete natives
+  - Scale of loss
+    - [About 1 million species face extinction](https://en.wikipedia.org/wiki/Holocene_extinction)
+    - Monitored wildlife populations fell 73% since 1970
+  - Protecting it
+    - [30 by 30: protect 30% by 2030](https://en.wikipedia.org/wiki/30_by_30)
+    - Protected areas and wildlife corridors
+    - Restoring habitats and rewilding
+    - Sustainable farming and fishing

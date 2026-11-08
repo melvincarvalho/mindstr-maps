@@ -1,0 +1,30 @@
+aliases: italy trip, travel to italy, italy itinerary, visiting italy
+- Plan a trip to Italy
+  - Pick when to go
+    - Spring and autumn: mild, fewer crowds
+    - August is hot; many locals holiday
+    - Winter suits cities and Alpine skiing
+  - Choose your regions
+    - [Rome: Colosseum, Forum and Vatican](https://en.wikipedia.org/wiki/Rome)
+    - Florence and Tuscany for Renaissance art
+    - [Venice and its canals](https://en.wikipedia.org/wiki/Venice)
+    - Naples, Pompeii and the Amalfi Coast
+    - Lakes and Dolomites in the north
+  - Sort entry and bookings
+    - Check entry rules on official sites
+    - Book big sights ahead for timed entry
+    - Stay central to walk everywhere
+  - Getting around
+    - [Fast trains link the major cities](https://en.wikipedia.org/wiki/Trenitalia)
+    - Validate regional train tickets before boarding
+    - Rent a car for countryside only
+    - Historic centres restrict cars (ZTL zones)
+  - Eat like a local
+    - Espresso standing at the bar
+    - Aperitivo before a late dinner
+    - [Dishes change from region to region](https://en.wikipedia.org/wiki/Italian_cuisine)
+    - Gelato from small artisan shops
+  - Local customs
+    - Cover shoulders and knees in churches
+    - Small shops may close mid-afternoon
+    - A cover charge (coperto) is common

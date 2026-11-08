@@ -1,0 +1,363 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Parenting toddlers",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#896e2r",
+      "name": "How toddlers develop",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#3r458e",
+      "name": "Walking, climbing, exploring everything",
+      "x": -526,
+      "y": -55,
+      "parent": "#896e2r"
+    },
+    {
+      "@id": "#yjqzn4",
+      "name": "Words grow into short sentences",
+      "x": -434,
+      "y": -144,
+      "link": "https://en.wikipedia.org/wiki/Language_acquisition",
+      "parent": "#896e2r"
+    },
+    {
+      "@id": "#36hv6q",
+      "name": "Big emotions, little self-control",
+      "x": -357,
+      "y": -219,
+      "parent": "#896e2r"
+    },
+    {
+      "@id": "#jskcq2",
+      "name": "Wanting independence: \"me do it!\"",
+      "x": -274,
+      "y": -286,
+      "parent": "#896e2r"
+    },
+    {
+      "@id": "#6dbtig",
+      "name": "Daily routines",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vdiy5p",
+      "name": "Regular meals, naps and bedtime",
+      "x": -180,
+      "y": -348,
+      "parent": "#6dbtig"
+    },
+    {
+      "@id": "#itmz5z",
+      "name": "About 11–14 hours' sleep, naps included",
+      "x": -68,
+      "y": -405,
+      "parent": "#6dbtig"
+    },
+    {
+      "@id": "#waqtys",
+      "name": "Offer healthy food; they choose amounts",
+      "x": 77,
+      "y": -453,
+      "parent": "#6dbtig"
+    },
+    {
+      "@id": "#jkcs99",
+      "name": "Potty training when ready",
+      "x": 172,
+      "y": -333,
+      "link": "https://en.wikipedia.org/wiki/Toilet_training",
+      "parent": "#6dbtig"
+    },
+    {
+      "@id": "#pie6e7",
+      "name": "Behaviour and tantrums",
+      "x": 212,
+      "y": -70,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tpanjt",
+      "name": "Tantrums are normal at this age",
+      "x": 370,
+      "y": -390,
+      "link": "https://en.wikipedia.org/wiki/Tantrum",
+      "parent": "#pie6e7"
+    },
+    {
+      "@id": "#2riphp",
+      "name": "Stay calm; name their feelings",
+      "x": 357,
+      "y": -219,
+      "parent": "#pie6e7"
+    },
+    {
+      "@id": "#9zeubn",
+      "name": "Praise what you want to see",
+      "x": 416,
+      "y": -138,
+      "parent": "#pie6e7"
+    },
+    {
+      "@id": "#cqk6bm",
+      "name": "Simple choices: red cup or blue?",
+      "x": 506,
+      "y": -53,
+      "parent": "#pie6e7"
+    },
+    {
+      "@id": "#bdq9g2",
+      "name": "Clear, consistent limits",
+      "x": 446,
+      "y": 47,
+      "parent": "#pie6e7"
+    },
+    {
+      "@id": "#9kxhxz",
+      "name": "Play and learning",
+      "x": 163,
+      "y": 130,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4mpv6j",
+      "name": "Read together every day",
+      "x": 416,
+      "y": 138,
+      "parent": "#9kxhxz"
+    },
+    {
+      "@id": "#dey25q",
+      "name": "Talk, sing and narrate the day",
+      "x": 357,
+      "y": 219,
+      "parent": "#9kxhxz"
+    },
+    {
+      "@id": "#fqi6yk",
+      "name": "Messy, outdoor and pretend play",
+      "x": 274,
+      "y": 286,
+      "parent": "#9kxhxz"
+    },
+    {
+      "@id": "#kzgc65",
+      "name": "Keep screen time small and shared",
+      "x": 180,
+      "y": 348,
+      "parent": "#9kxhxz"
+    },
+    {
+      "@id": "#pm7ax3",
+      "name": "Safety at home",
+      "x": -60,
+      "y": 178,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7rbybv",
+      "name": "Stair gates and window locks",
+      "x": 68,
+      "y": 405,
+      "parent": "#pm7ax3"
+    },
+    {
+      "@id": "#5nvqk4",
+      "name": "Medicines and cleaners locked away",
+      "x": -77,
+      "y": 453,
+      "parent": "#pm7ax3"
+    },
+    {
+      "@id": "#x3bi9k",
+      "name": "Car seat suited to their size",
+      "x": -172,
+      "y": 333,
+      "link": "https://en.wikipedia.org/wiki/Child_safety_seat",
+      "parent": "#pm7ax3"
+    },
+    {
+      "@id": "#jetzvc",
+      "name": "Watch constantly near water",
+      "x": -370,
+      "y": 390,
+      "parent": "#pm7ax3"
+    },
+    {
+      "@id": "#5uwduu",
+      "name": "Look after yourself too",
+      "x": -212,
+      "y": 70,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xcchmy",
+      "name": "Share the load; take breaks",
+      "x": -357,
+      "y": 219,
+      "parent": "#5uwduu"
+    },
+    {
+      "@id": "#q6hgw4",
+      "name": "Parent groups for support",
+      "x": -416,
+      "y": 138,
+      "parent": "#5uwduu"
+    },
+    {
+      "@id": "#4e7v92",
+      "name": "Development worries? Ask a health professional",
+      "x": -586,
+      "y": 61,
+      "parent": "#5uwduu"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 11,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 17,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    },
+    {
+      "start": 0,
+      "end": 27
+    },
+    {
+      "start": 27,
+      "end": 28
+    },
+    {
+      "start": 27,
+      "end": 29
+    },
+    {
+      "start": 27,
+      "end": 30
+    }
+  ],
+  "selectedNode": 0
+}

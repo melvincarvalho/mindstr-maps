@@ -1,0 +1,30 @@
+aliases: american revolutionary war, american war of independence, revolutionary war, us independence
+- The American Revolution
+  - Causes
+    - Britain's debts from the Seven Years' War
+    - Stamp Act of 1765 taxed paper
+    - "No taxation without representation"
+    - [Boston Tea Party, 1773](https://en.wikipedia.org/wiki/Boston_Tea_Party)
+  - War begins
+    - [Lexington and Concord, April 1775](https://en.wikipedia.org/wiki/Battles_of_Lexington_and_Concord)
+    - Battle of Bunker Hill, June 1775
+    - George Washington leads the Continental Army
+  - Independence
+    - Paine's Common Sense, January 1776
+    - [Declaration of Independence, 4 July 1776](https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence)
+    - Mostly written by Thomas Jefferson
+  - Turning points
+    - Victory at Saratoga, 1777
+    - Hard winter at Valley Forge, 1777–78
+    - France joins as an ally, 1778
+    - [British surrender at Yorktown, 1781](https://en.wikipedia.org/wiki/Siege_of_Yorktown)
+  - A new nation
+    - [Treaty of Paris recognises independence, 1783](https://en.wikipedia.org/wiki/Treaty_of_Paris_%281783%29)
+    - Articles of Confederation proved weak
+    - Constitution written in 1787
+    - Washington first president, 1789
+  - Legacy
+    - Bill of Rights added, 1791
+    - Inspired revolution in France
+    - Slavery left unresolved
+    - Loyalists fled to Canada and Britain

@@ -1,0 +1,28 @@
+aliases: how do cities work, how a city works, city systems
+- How cities work
+  - Why cities exist
+    - Jobs and trade cluster together
+    - [Over half of people live in cities](https://en.wikipedia.org/wiki/Urbanization)
+    - Density makes services cheaper per person
+  - [Planning and land use](https://en.wikipedia.org/wiki/Urban_planning)
+    - [Zoning decides what goes where](https://en.wikipedia.org/wiki/Zoning)
+    - Mix of housing, offices, industry, parks
+    - Street layouts shape how people move
+  - Getting around
+    - [Public transport moves crowds efficiently](https://en.wikipedia.org/wiki/Public_transport)
+    - Roads, cycle lanes and pavements
+    - Traffic signals manage busy junctions
+  - Utilities, mostly underground
+    - Clean water piped from treatment works
+    - [Sewers carry wastewater for treatment](https://en.wikipedia.org/wiki/Sewerage)
+    - Electricity, gas and data cables
+    - Rubbish collection and recycling
+  - Public services
+    - Police, fire and ambulance
+    - Schools, hospitals and libraries
+    - Parks and public spaces
+  - Who runs and pays
+    - Mayor and elected city council
+    - Local taxes and government grants
+    - User fees like fares and parking
+    - Public consultations on new plans

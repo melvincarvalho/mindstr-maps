@@ -1,0 +1,30 @@
+aliases: force of gravity, how gravity works, gravitation, law of gravity
+- Gravity
+  - What it is
+    - Every mass attracts every other mass
+    - [Weakest of the four fundamental forces](https://en.wikipedia.org/wiki/Fundamental_interaction)
+    - Reaches across unlimited distances
+  - Newton's law
+    - [Newton's universal gravitation, 1687](https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation)
+    - More mass means stronger pull
+    - Doubling distance quarters the force
+    - Same law for apples and the Moon
+  - On Earth
+    - Falling objects accelerate at 9.8 m/s²
+    - Heavy and light objects fall together
+    - Weight is gravity's pull on mass
+    - [Moon's gravity raises ocean tides](https://en.wikipedia.org/wiki/Tide)
+  - In space
+    - Holds planets in orbit around the Sun
+    - An orbit is falling while moving sideways
+    - Pulls gas clouds together into stars
+    - Moon's surface gravity is about one-sixth Earth's
+  - Einstein's view
+    - [General relativity: mass curves spacetime](https://en.wikipedia.org/wiki/General_relativity)
+    - Clocks run slower near massive bodies
+    - Starlight bending seen in 1919 eclipse
+    - GPS satellites correct for these effects
+  - Open questions
+    - [Gravitational waves first detected 2015](https://en.wikipedia.org/wiki/Gravitational_wave)
+    - No accepted theory of quantum gravity
+    - Dark matter inferred from gravity alone

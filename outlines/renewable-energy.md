@@ -1,0 +1,27 @@
+aliases: renewables, clean energy, green energy, renewable energy sources
+- Renewable energy
+  - What makes it renewable
+    - Sources replenished naturally on human timescales
+    - Little greenhouse gas once built
+    - Unlike finite coal, oil and gas
+  - Solar power
+    - [Photovoltaic panels turn sunlight into electricity](https://en.wikipedia.org/wiki/Photovoltaics)
+    - Panel prices fell about 90% since 2010
+    - Rooftop panels and large solar farms
+  - Wind power
+    - [Turbines turn moving air into electricity](https://en.wikipedia.org/wiki/Wind_power)
+    - Offshore winds are stronger and steadier
+  - Water, heat and plants
+    - [Hydropower: largest renewable electricity source](https://en.wikipedia.org/wiki/Hydroelectricity)
+    - Geothermal taps heat from underground
+    - Tidal and wave power still small
+    - Bioenergy burns plants and organic waste
+  - Challenges
+    - Sun and wind vary with weather
+    - [Batteries and pumped hydro store energy](https://en.wikipedia.org/wiki/Grid_energy_storage)
+    - Grids need new transmission lines
+    - Mining for metals and land use
+  - Growth
+    - About a third of world electricity
+    - China installs the most new capacity
+    - [Cheapest new power in many countries](https://en.wikipedia.org/wiki/Cost_of_electricity_by_source)

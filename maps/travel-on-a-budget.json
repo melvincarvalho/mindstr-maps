@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Travel on a budget",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#dtnwg8",
+      "name": "Set a budget",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#t5kve9",
+      "name": "Set a daily spending target",
+      "x": -445,
+      "y": -51,
+      "parent": "#dtnwg8"
+    },
+    {
+      "@id": "#22ju8h",
+      "name": "Pick places where money goes further",
+      "x": -409,
+      "y": -150,
+      "parent": "#dtnwg8"
+    },
+    {
+      "@id": "#fgtw6d",
+      "name": "Track spending as you go",
+      "x": -340,
+      "y": -236,
+      "parent": "#dtnwg8"
+    },
+    {
+      "@id": "#urk6qz",
+      "name": "Time it right",
+      "x": -65,
+      "y": -177,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#adkdvt",
+      "name": "Travel in shoulder or off season",
+      "x": -243,
+      "y": -303,
+      "parent": "#urk6qz"
+    },
+    {
+      "@id": "#2sga72",
+      "name": "Be flexible with dates",
+      "x": -133,
+      "y": -360,
+      "parent": "#urk6qz"
+    },
+    {
+      "@id": "#dcmavv",
+      "name": "Set fare alerts and compare",
+      "x": 0,
+      "y": -408,
+      "parent": "#urk6qz"
+    },
+    {
+      "@id": "#w42fqt",
+      "name": "Transport",
+      "x": 151,
+      "y": -139,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2pyxfk",
+      "name": "Budget airlines: watch the bag fees",
+      "x": 175,
+      "y": -465,
+      "link": "https://en.wikipedia.org/wiki/Low-cost_carrier",
+      "parent": "#w42fqt"
+    },
+    {
+      "@id": "#rkknxr",
+      "name": "Overnight buses and trains save lodging",
+      "x": 243,
+      "y": -303,
+      "parent": "#w42fqt"
+    },
+    {
+      "@id": "#qf2jaa",
+      "name": "Public transport over taxis",
+      "x": 340,
+      "y": -236,
+      "parent": "#w42fqt"
+    },
+    {
+      "@id": "#876vbd",
+      "name": "Walk or rent bikes in cities",
+      "x": 409,
+      "y": -150,
+      "parent": "#w42fqt"
+    },
+    {
+      "@id": "#ci34vs",
+      "name": "Accommodation",
+      "x": 221,
+      "y": 52,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#by75s6",
+      "name": "Hostels and guesthouses",
+      "x": 445,
+      "y": -51,
+      "parent": "#ci34vs"
+    },
+    {
+      "@id": "#kzdrwn",
+      "name": "House-sitting or home exchange",
+      "x": 485,
+      "y": 55,
+      "link": "https://en.wikipedia.org/wiki/House_sitting",
+      "parent": "#ci34vs"
+    },
+    {
+      "@id": "#dvdpey",
+      "name": "Longer stays often get discounts",
+      "x": 409,
+      "y": 150,
+      "parent": "#ci34vs"
+    },
+    {
+      "@id": "#576tx7",
+      "name": "A kitchen lets you cook",
+      "x": 340,
+      "y": 236,
+      "parent": "#ci34vs"
+    },
+    {
+      "@id": "#chc9i8",
+      "name": "Food",
+      "x": 33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#htthrj",
+      "name": "Markets and street food",
+      "x": 243,
+      "y": 303,
+      "parent": "#chc9i8"
+    },
+    {
+      "@id": "#8pjgc2",
+      "name": "Set lunch menus cost less than dinner",
+      "x": 133,
+      "y": 360,
+      "parent": "#chc9i8"
+    },
+    {
+      "@id": "#6z4xsm",
+      "name": "Refillable bottle where tap water is safe",
+      "x": 0,
+      "y": 408,
+      "parent": "#chc9i8"
+    },
+    {
+      "@id": "#zkx2yj",
+      "name": "Picnics from supermarkets",
+      "x": -175,
+      "y": 465,
+      "parent": "#chc9i8"
+    },
+    {
+      "@id": "#hk3d5j",
+      "name": "Money and extras",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#itmrqs",
+      "name": "Cards without foreign transaction fees",
+      "x": -243,
+      "y": 303,
+      "parent": "#hk3d5j"
+    },
+    {
+      "@id": "#y5gg7b",
+      "name": "Pay in local currency, not yours",
+      "x": -340,
+      "y": 236,
+      "link": "https://en.wikipedia.org/wiki/Dynamic_currency_conversion",
+      "parent": "#hk3d5j"
+    },
+    {
+      "@id": "#whhcmp",
+      "name": "Free museum days and walking tours",
+      "x": -409,
+      "y": 150,
+      "parent": "#hk3d5j"
+    },
+    {
+      "@id": "#rifiun",
+      "name": "Travel insurance is still worth having",
+      "x": -445,
+      "y": 51,
+      "link": "https://en.wikipedia.org/wiki/Travel_insurance",
+      "parent": "#hk3d5j"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

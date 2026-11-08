@@ -1,0 +1,320 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Inflation",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#7xxgsn",
+      "name": "What it is",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ksq9ct",
+      "name": "A general rise in prices over time",
+      "x": -464,
+      "y": -58,
+      "parent": "#7xxgsn"
+    },
+    {
+      "@id": "#9hkjge",
+      "name": "Each pound or dollar buys less",
+      "x": -401,
+      "y": -163,
+      "parent": "#7xxgsn"
+    },
+    {
+      "@id": "#2iiijz",
+      "name": "Measured as yearly percentage change",
+      "x": -318,
+      "y": -255,
+      "parent": "#7xxgsn"
+    },
+    {
+      "@id": "#z8yzj3",
+      "name": "How it is measured",
+      "x": -36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#f8izny",
+      "name": "Consumer price index tracks a basket",
+      "x": -204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Consumer_price_index",
+      "parent": "#z8yzj3"
+    },
+    {
+      "@id": "#7mbjt4",
+      "name": "Core inflation excludes food and energy",
+      "x": -73,
+      "y": -372,
+      "parent": "#z8yzj3"
+    },
+    {
+      "@id": "#5uiiqv",
+      "name": "Many central banks target about 2%",
+      "x": 82,
+      "y": -420,
+      "parent": "#z8yzj3"
+    },
+    {
+      "@id": "#uix4u7",
+      "name": "Main causes",
+      "x": 186,
+      "y": -108,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zqjvn2",
+      "name": "Demand-pull: spending outpaces supply",
+      "x": 204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Demand-pull_inflation",
+      "parent": "#uix4u7"
+    },
+    {
+      "@id": "#tbw43f",
+      "name": "Cost-push: energy, wages, materials rise",
+      "x": 318,
+      "y": -255,
+      "link": "https://en.wikipedia.org/wiki/Cost-push_inflation",
+      "parent": "#uix4u7"
+    },
+    {
+      "@id": "#ma7cp6",
+      "name": "Money supply growing faster than output",
+      "x": 401,
+      "y": -163,
+      "parent": "#uix4u7"
+    },
+    {
+      "@id": "#idtmhg",
+      "name": "Expectations can become self-fulfilling",
+      "x": 444,
+      "y": -56,
+      "parent": "#uix4u7"
+    },
+    {
+      "@id": "#6cf89r",
+      "name": "Who wins and loses",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bg3tq3",
+      "name": "Savers lose value held in cash",
+      "x": 444,
+      "y": 56,
+      "parent": "#6cf89r"
+    },
+    {
+      "@id": "#8ixfic",
+      "name": "Borrowers repay with cheaper money",
+      "x": 401,
+      "y": 163,
+      "parent": "#6cf89r"
+    },
+    {
+      "@id": "#hfm8it",
+      "name": "Fixed incomes fall behind",
+      "x": 318,
+      "y": 255,
+      "parent": "#6cf89r"
+    },
+    {
+      "@id": "#p9pgcf",
+      "name": "Wages often lag behind prices",
+      "x": 204,
+      "y": 321,
+      "parent": "#6cf89r"
+    },
+    {
+      "@id": "#hfbaas",
+      "name": "How it is controlled",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h9uxi4",
+      "name": "Central banks raise interest rates",
+      "x": 73,
+      "y": 372,
+      "link": "https://en.wikipedia.org/wiki/Central_bank",
+      "parent": "#hfbaas"
+    },
+    {
+      "@id": "#zsxbwz",
+      "name": "Dearer borrowing cools spending and demand",
+      "x": -82,
+      "y": 420,
+      "parent": "#hfbaas"
+    },
+    {
+      "@id": "#85qjry",
+      "name": "Governments can tighten spending and taxes",
+      "x": -204,
+      "y": 321,
+      "parent": "#hfbaas"
+    },
+    {
+      "@id": "#6hqtk3",
+      "name": "The extremes",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#tfgzhw",
+      "name": "Hyperinflation: Germany 1923, Zimbabwe 2008",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wikipedia.org/wiki/Hyperinflation",
+      "parent": "#6hqtk3"
+    },
+    {
+      "@id": "#eaghur",
+      "name": "Deflation: falling prices, delayed spending",
+      "x": -401,
+      "y": 163,
+      "parent": "#6hqtk3"
+    },
+    {
+      "@id": "#sri8es",
+      "name": "Stagflation: high inflation, weak growth",
+      "x": -504,
+      "y": 62,
+      "parent": "#6hqtk3"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

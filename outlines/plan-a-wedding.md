@@ -1,0 +1,30 @@
+aliases: wedding planning, how to plan a wedding, wedding checklist, organise a wedding
+- Plan a wedding
+  - Make the big decisions
+    - Agree on style and priorities
+    - Set a total budget
+    - Rough guest list drives costs
+    - Pick a season and date range
+  - Book the essentials early
+    - Venue for ceremony and reception
+    - Officiant or registrar
+    - Photographer, caterer and music
+    - [Consider a wedding planner](https://en.wikipedia.org/wiki/Wedding_planner)
+  - Handle the legal side
+    - [Check local marriage licence rules](https://en.wikipedia.org/wiki/Marriage_license)
+    - Some places require advance notice
+    - Bring ID and required documents
+  - Sort details and guests
+    - Send save-the-dates, then invitations
+    - Choose outfits and book fittings
+    - Rings, flowers and decorations
+    - Guest accommodation and transport
+  - Final weeks
+    - Confirm numbers and seating plan
+    - Send suppliers the day's timeline
+    - Rehearse with the wedding party
+  - On the day and after
+    - Hand coordination to someone trusted
+    - Keep an emergency kit handy
+    - Eat, breathe and enjoy it
+    - Send thank-you notes afterwards

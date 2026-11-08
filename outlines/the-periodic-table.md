@@ -1,0 +1,30 @@
+aliases: periodic table, periodic table of elements, periodic table of the elements, chemical elements
+- The periodic table
+  - What it shows
+    - [118 known chemical elements](https://en.wikipedia.org/wiki/Chemical_element)
+    - Ordered by atomic number: proton count
+    - Each box: symbol, number, atomic mass
+  - Rows and columns
+    - 7 rows, called periods
+    - 18 columns, called groups
+    - Same group, similar chemical behaviour
+  - Why the pattern repeats
+    - Electrons fill shells around the nucleus
+    - Outer electrons drive chemical reactions
+    - Full outer shells make atoms stable
+  - Main families
+    - [Alkali metals react violently with water](https://en.wikipedia.org/wiki/Alkali_metal)
+    - [Halogens: fluorine, chlorine, bromine, iodine](https://en.wikipedia.org/wiki/Halogen)
+    - [Noble gases barely react at all](https://en.wikipedia.org/wiki/Noble_gas)
+    - Transition metals fill the middle block
+    - Lanthanides and actinides sit below
+  - Trends across the table
+    - Metals on the left, non-metals right
+    - Metalloids lie along the staircase line
+    - Atoms shrink from left to right
+    - Fluorine, top right, grabs electrons hardest
+  - History
+    - [Mendeleev published his table in 1869](https://en.wikipedia.org/wiki/Dmitri_Mendeleev)
+    - He left gaps for undiscovered elements
+    - Gallium and germanium matched his predictions
+    - Moseley ordered elements by atomic number

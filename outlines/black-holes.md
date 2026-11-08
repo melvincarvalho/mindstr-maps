@@ -1,0 +1,26 @@
+aliases: black hole, what is a black hole, how black holes form
+- Black holes
+  - What they are
+    - Gravity so strong light can't escape
+    - [Event horizon: the point of no return](https://en.wikipedia.org/wiki/Event_horizon)
+    - [Predicted by Einstein's general relativity](https://en.wikipedia.org/wiki/General_relativity)
+    - Centre may be a singularity
+  - How they form
+    - A huge star runs out of fuel
+    - Its core collapses in a supernova
+    - Supermassive ones grow by feeding and merging
+  - Kinds
+    - Stellar: a few to dozens of Suns
+    - [Supermassive: millions to billions of Suns](https://en.wikipedia.org/wiki/Supermassive_black_hole)
+    - Sagittarius A* sits at our galaxy's centre
+    - Intermediate-mass ones are rarer, still debated
+  - Strange effects
+    - Time slows near the horizon
+    - Spaghettification stretches anything falling in
+    - Their gravity bends light: lensing
+    - [Hawking radiation slowly evaporates them](https://en.wikipedia.org/wiki/Hawking_radiation)
+  - How we see them
+    - Accretion discs of glowing hot gas
+    - Stars orbiting an unseen mass
+    - [LIGO detected colliding black holes, 2015](https://en.wikipedia.org/wiki/LIGO)
+    - First image: M87's black hole, 2019

@@ -1,0 +1,350 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Pack for travel",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ahif6u",
+      "name": "Start with a list",
+      "x": -211,
+      "y": -73,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#evnpci",
+      "name": "Check the forecast and planned activities",
+      "x": -526,
+      "y": -57,
+      "parent": "#ahif6u"
+    },
+    {
+      "@id": "#t8xtc8",
+      "name": "Check your airline's baggage limits",
+      "x": -413,
+      "y": -143,
+      "parent": "#ahif6u"
+    },
+    {
+      "@id": "#psexcm",
+      "name": "Plan outfits that mix and match",
+      "x": -349,
+      "y": -227,
+      "parent": "#ahif6u"
+    },
+    {
+      "@id": "#6cs8xg",
+      "name": "Documents and money",
+      "x": -47,
+      "y": -180,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vdqrme",
+      "name": "Passport with months of validity left",
+      "x": -260,
+      "y": -294,
+      "link": "https://en.wikipedia.org/wiki/Passport",
+      "parent": "#6cs8xg"
+    },
+    {
+      "@id": "#522s9r",
+      "name": "Tickets, bookings and insurance details",
+      "x": -158,
+      "y": -354,
+      "parent": "#6cs8xg"
+    },
+    {
+      "@id": "#cdgyac",
+      "name": "A bank card plus some local cash",
+      "x": -34,
+      "y": -407,
+      "parent": "#6cs8xg"
+    },
+    {
+      "@id": "#auk8y7",
+      "name": "Copies stored separately or online",
+      "x": 120,
+      "y": -464,
+      "parent": "#6cs8xg"
+    },
+    {
+      "@id": "#jv4why",
+      "name": "Clothes",
+      "x": 178,
+      "y": -116,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#r8xkjy",
+      "name": "Pack for a week, then wash",
+      "x": 207,
+      "y": -320,
+      "parent": "#jv4why"
+    },
+    {
+      "@id": "#sag3s7",
+      "name": "Layers beat bulky items",
+      "x": 307,
+      "y": -263,
+      "parent": "#jv4why"
+    },
+    {
+      "@id": "#4e6djx",
+      "name": "Comfortable, worn-in walking shoes",
+      "x": 384,
+      "y": -187,
+      "parent": "#jv4why"
+    },
+    {
+      "@id": "#bht47t",
+      "name": "Wear bulkiest items on travel day",
+      "x": 433,
+      "y": -97,
+      "parent": "#jv4why"
+    },
+    {
+      "@id": "#6k3rdx",
+      "name": "Toiletries and health",
+      "x": 211,
+      "y": 73,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8g5vkc",
+      "name": "Check liquid limits for hand luggage",
+      "x": 450,
+      "y": 0,
+      "parent": "#6k3rdx"
+    },
+    {
+      "@id": "#s6hm5v",
+      "name": "Prescription medicines in original packaging",
+      "x": 547,
+      "y": 121,
+      "parent": "#6k3rdx"
+    },
+    {
+      "@id": "#xz7f4c",
+      "name": "Basic first-aid kit",
+      "x": 384,
+      "y": 187,
+      "parent": "#6k3rdx"
+    },
+    {
+      "@id": "#hxpjbd",
+      "name": "Sunscreen and insect repellent",
+      "x": 307,
+      "y": 263,
+      "parent": "#6k3rdx"
+    },
+    {
+      "@id": "#d89j7y",
+      "name": "Tech",
+      "x": 16,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h5zvvc",
+      "name": "Plug adapter for your destination",
+      "x": 207,
+      "y": 320,
+      "link": "https://en.wikipedia.org/wiki/AC_power_plugs_and_sockets",
+      "parent": "#d89j7y"
+    },
+    {
+      "@id": "#839iep",
+      "name": "Chargers and a power bank",
+      "x": 96,
+      "y": 368,
+      "parent": "#d89j7y"
+    },
+    {
+      "@id": "#tgsbrq",
+      "name": "Spare lithium batteries go in hand luggage",
+      "x": -35,
+      "y": 423,
+      "parent": "#d89j7y"
+    },
+    {
+      "@id": "#qccfvh",
+      "name": "Headphones for the journey",
+      "x": -214,
+      "y": 474,
+      "parent": "#d89j7y"
+    },
+    {
+      "@id": "#dkcfs9",
+      "name": "Packing techniques",
+      "x": -197,
+      "y": 96,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#em8bep",
+      "name": "Roll clothes or use packing cubes",
+      "x": -260,
+      "y": 294,
+      "parent": "#dkcfs9"
+    },
+    {
+      "@id": "#avtjqe",
+      "name": "Heaviest items near the wheels",
+      "x": -349,
+      "y": 227,
+      "parent": "#dkcfs9"
+    },
+    {
+      "@id": "#mffzmn",
+      "name": "Valuables and essentials in carry-on",
+      "x": -431,
+      "y": 149,
+      "parent": "#dkcfs9"
+    },
+    {
+      "@id": "#tk78j9",
+      "name": "Leave room for souvenirs",
+      "x": -446,
+      "y": 49,
+      "parent": "#dkcfs9"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    },
+    {
+      "start": 25,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

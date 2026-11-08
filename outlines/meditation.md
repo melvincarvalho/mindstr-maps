@@ -1,0 +1,29 @@
+aliases: how to meditate, learn to meditate, meditation for beginners, mindfulness meditation
+- Meditation
+  - What it is
+    - Training attention and awareness
+    - [Roots in Hindu and Buddhist traditions](https://en.wikipedia.org/wiki/Meditation)
+    - Secular forms now widely practised
+  - Common styles
+    - [Mindfulness: notice without judging](https://en.wikipedia.org/wiki/Mindfulness)
+    - Focused attention on the breath
+    - [Loving-kindness: wishing others well](https://en.wikipedia.org/wiki/Mett%C4%81)
+    - Body scan from head to toe
+    - Mantra repetition, silently or aloud
+  - How to start
+    - Sit comfortably, back upright
+    - Begin with 5 to 10 minutes
+    - Follow the breath in and out
+    - Mind wanders? Gently come back
+    - Same time each day builds habit
+  - Helpful tools
+    - Guided recordings and apps
+    - A timer with a gentle bell
+    - Local groups or courses
+  - What research suggests
+    - Can modestly ease stress and anxiety
+    - [MBSR: a structured eight-week course](https://en.wikipedia.org/wiki/Mindfulness-based_stress_reduction)
+    - Effects vary; not a cure-all
+  - Take care
+    - Can stir up difficult feelings
+    - Trauma or mental illness: seek guidance

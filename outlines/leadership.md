@@ -1,0 +1,28 @@
+aliases: leadership skills, how to be a leader, become a better leader, good leadership
+- Leadership
+  - What leaders do
+    - Set a direction people can follow
+    - Get results through other people
+    - Leading people differs from managing tasks
+  - Common styles
+    - [Transformational: inspire with shared vision](https://en.wikipedia.org/wiki/Transformational_leadership)
+    - [Servant leadership puts the team first](https://en.wikipedia.org/wiki/Servant_leadership)
+    - Directive style suits crises
+    - [Adapt style to the situation](https://en.wikipedia.org/wiki/Situational_leadership_theory)
+  - Build trust
+    - Do what you say you'll do
+    - Admit mistakes openly
+    - [Make it safe to speak up](https://en.wikipedia.org/wiki/Psychological_safety)
+  - Communicate clearly
+    - Explain the why, not just what
+    - Listen more than you talk
+    - Give specific, timely feedback
+  - Develop your people
+    - Delegate outcomes, not methods
+    - Coach rather than hand out answers
+    - Recognise good work publicly
+    - Hold regular one-to-one conversations
+  - Grow yourself
+    - Ask for honest feedback
+    - Decide with incomplete information
+    - Stay calm under pressure

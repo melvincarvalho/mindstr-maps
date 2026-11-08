@@ -1,0 +1,30 @@
+aliases: silk road, silk route, silk roads, ancient silk road
+- The Silk Road
+  - What it was
+    - A network of routes, not one road
+    - Linked China to the Mediterranean
+    - Named by Ferdinand von Richthofen, 1877
+  - When it flourished
+    - Han dynasty opened routes, about 130 BC
+    - Tang dynasty golden age
+    - Mongol Empire made travel safer
+    - Declined as sea trade grew
+  - Routes and places
+    - Chang'an (Xi'an) at the eastern end
+    - Oases skirted the Taklamakan Desert
+    - [Samarkand and Bukhara grew rich](https://en.wikipedia.org/wiki/Samarkand)
+    - Caravans of Bactrian camels
+  - Goods traded
+    - Silk, porcelain and tea from China
+    - Spices, gems and cotton cloth
+    - Horses, glass and silver to China
+    - Paper and gunpowder spread west
+  - Ideas and religions
+    - [Buddhism spread from India to China](https://en.wikipedia.org/wiki/Silk_Road_transmission_of_Buddhism)
+    - Islam spread into Central Asia
+    - Art, languages and technology mixed
+  - Travellers and dangers
+    - [Marco Polo's journey to Kublai Khan](https://en.wikipedia.org/wiki/Marco_Polo)
+    - Xuanzang's pilgrimage to India
+    - Bandits, deserts and mountain passes
+    - [Black Death may have spread along routes](https://en.wikipedia.org/wiki/Black_Death)

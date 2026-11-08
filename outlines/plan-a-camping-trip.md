@@ -1,0 +1,31 @@
+aliases: camping trip, go camping, camping checklist, camping for beginners
+- Plan a camping trip
+  - Choose where and when
+    - Start at a campsite with facilities
+    - Check weather and night temperatures
+    - Book popular sites early
+    - Check fire rules and permits
+  - Shelter and sleep
+    - [Tent suited to the season](https://en.wikipedia.org/wiki/Tent)
+    - Practise pitching it at home
+    - Sleeping bag rated for coldest night
+    - Sleeping mat insulates from the ground
+  - Cooking and water
+    - Camp stove, fuel and lighter
+    - Simple meals prepped at home
+    - Filter or treat stream water
+    - Cool box for fresh food
+  - Clothing and kit
+    - Waterproof layers and a warm hat
+    - Head torch with spare batteries
+    - First-aid kit and insect repellent
+    - Paper map in case signal drops
+  - At camp
+    - Pitch on high, flat ground
+    - Store food away from wildlife
+    - [Keep fires small; drown them fully](https://en.wikipedia.org/wiki/Campfire)
+    - Respect quiet hours and neighbours
+  - [Leave No Trace](https://en.wikipedia.org/wiki/Leave_No_Trace)
+    - Pack out all rubbish
+    - Leave what you find
+    - Camp on durable surfaces

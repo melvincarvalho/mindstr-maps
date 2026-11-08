@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Learn guitar",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#viaczm",
+      "name": "Choose a guitar",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e8ajzr",
+      "name": "Acoustic: play anywhere, no amp",
+      "x": -485,
+      "y": -58,
+      "link": "https://en.wikipedia.org/wiki/Acoustic_guitar",
+      "parent": "#viaczm"
+    },
+    {
+      "@id": "#7zdg54",
+      "name": "Electric: lighter strings, needs an amp",
+      "x": -405,
+      "y": -156,
+      "parent": "#viaczm"
+    },
+    {
+      "@id": "#x89n3z",
+      "name": "Nylon strings are gentler on fingertips",
+      "x": -330,
+      "y": -245,
+      "parent": "#viaczm"
+    },
+    {
+      "@id": "#6gfget",
+      "name": "Get set up",
+      "x": -51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#n5xfr7",
+      "name": "Standard tuning, low to high: EADGBE",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Guitar_tunings",
+      "parent": "#6gfget"
+    },
+    {
+      "@id": "#sxz7hu",
+      "name": "Use a clip-on tuner or app",
+      "x": -104,
+      "y": -367,
+      "parent": "#6gfget"
+    },
+    {
+      "@id": "#a7gthj",
+      "name": "Sit straight, guitar close to body",
+      "x": 42,
+      "y": -423,
+      "parent": "#6gfget"
+    },
+    {
+      "@id": "#wzqm3h",
+      "name": "First skills",
+      "x": 169,
+      "y": -125,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vcddm5",
+      "name": "Open chords: G, C, D, Em, Am",
+      "x": 234,
+      "y": -485,
+      "parent": "#wzqm3h"
+    },
+    {
+      "@id": "#jkxbcx",
+      "name": "Press just behind the fret",
+      "x": 281,
+      "y": -281,
+      "parent": "#wzqm3h"
+    },
+    {
+      "@id": "#mtcqag",
+      "name": "Strum steady down-up patterns",
+      "x": 372,
+      "y": -203,
+      "parent": "#wzqm3h"
+    },
+    {
+      "@id": "#anqrxh",
+      "name": "Read chord charts and tablature",
+      "x": 430,
+      "y": -106,
+      "link": "https://en.wikipedia.org/wiki/Tablature",
+      "parent": "#wzqm3h"
+    },
+    {
+      "@id": "#mdqpvv",
+      "name": "Practise well",
+      "x": 207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6fc5tu",
+      "name": "15–30 minutes daily beats rare marathons",
+      "x": 450,
+      "y": 0,
+      "parent": "#mdqpvv"
+    },
+    {
+      "@id": "#6dracw",
+      "name": "Fingertips hurt at first, then toughen",
+      "x": 506,
+      "y": 126,
+      "parent": "#mdqpvv"
+    },
+    {
+      "@id": "#9x5fmn",
+      "name": "Use a metronome for timing",
+      "x": 372,
+      "y": 203,
+      "parent": "#mdqpvv"
+    },
+    {
+      "@id": "#cvdxtg",
+      "name": "Switch chords slowly, then faster",
+      "x": 281,
+      "y": 281,
+      "parent": "#mdqpvv"
+    },
+    {
+      "@id": "#s957kd",
+      "name": "Play songs",
+      "x": 17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ddikgk",
+      "name": "Start with three- or four-chord songs",
+      "x": 164,
+      "y": 335,
+      "parent": "#s957kd"
+    },
+    {
+      "@id": "#68ws7n",
+      "name": "A capo changes key easily",
+      "x": 38,
+      "y": 391,
+      "link": "https://en.wikipedia.org/wiki/Capo",
+      "parent": "#s957kd"
+    },
+    {
+      "@id": "#sa377z",
+      "name": "Play along with recordings",
+      "x": -124,
+      "y": 447,
+      "parent": "#s957kd"
+    },
+    {
+      "@id": "#h2t9d4",
+      "name": "Keep growing",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#k4k873",
+      "name": "Barre chords unlock every key",
+      "x": -225,
+      "y": 312,
+      "parent": "#h2t9d4"
+    },
+    {
+      "@id": "#4mk3tb",
+      "name": "Pentatonic scale for first solos",
+      "x": -330,
+      "y": 245,
+      "link": "https://en.wikipedia.org/wiki/Pentatonic_scale",
+      "parent": "#h2t9d4"
+    },
+    {
+      "@id": "#kgrjk9",
+      "name": "Fingerpicking patterns",
+      "x": -405,
+      "y": 156,
+      "parent": "#h2t9d4"
+    },
+    {
+      "@id": "#4rm7b7",
+      "name": "Lessons or video courses for feedback",
+      "x": -445,
+      "y": 54,
+      "parent": "#h2t9d4"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

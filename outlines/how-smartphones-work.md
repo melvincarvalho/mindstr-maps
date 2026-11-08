@@ -1,0 +1,28 @@
+aliases: how does a smartphone work, how do smartphones work, how mobile phones work, smartphone explained
+- How smartphones work
+  - [A computer on one chip](https://en.wikipedia.org/wiki/System_on_a_chip)
+    - CPU, graphics and modem combined
+    - Energy-efficient ARM processor designs
+    - RAM and flash storage alongside
+  - Touchscreen and display
+    - [Capacitive glass senses your finger's charge](https://en.wikipedia.org/wiki/Touchscreen)
+    - OLED or LCD panels show images
+    - Toughened glass protects the display
+  - Staying connected
+    - [Radio links to nearby cell towers](https://en.wikipedia.org/wiki/Cellular_network)
+    - 4G and 5G carry mobile data
+    - Wi-Fi and Bluetooth for short range
+    - SIM card identifies your account
+  - Sensors
+    - GPS satellites pinpoint location
+    - Accelerometer and gyroscope sense movement
+    - Tiny camera sensors plus computational photography
+    - Fingerprint and face unlock
+  - Software
+    - [Android and iOS dominate](https://en.wikipedia.org/wiki/Mobile_operating_system)
+    - Apps come from official app stores
+    - Apps sandboxed, asking for permissions
+  - Power
+    - [Lithium-ion battery stores the energy](https://en.wikipedia.org/wiki/Lithium-ion_battery)
+    - Screen and radios use most power
+    - Charging managed to protect the battery

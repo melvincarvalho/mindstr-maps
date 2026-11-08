@@ -1,0 +1,29 @@
+aliases: gutenberg printing press, gutenberg press, invention of printing, movable type printing
+- The printing press
+  - Before the press
+    - Books copied by hand by scribes
+    - [Woodblock printing in China](https://en.wikipedia.org/wiki/Woodblock_printing)
+    - Earlier movable type in China and Korea
+  - Gutenberg's invention
+    - [Johannes Gutenberg in Mainz, about 1440](https://en.wikipedia.org/wiki/Johannes_Gutenberg)
+    - Metal type cast in a hand mould
+    - Oil-based ink that stuck to metal
+    - Screw press adapted from wine presses
+  - How printing worked
+    - Compositor set letters in a stick
+    - Inked type pressed onto paper
+    - Hundreds of sheets printed a day
+  - Rapid spread
+    - [Gutenberg Bible finished about 1455](https://en.wikipedia.org/wiki/Gutenberg_Bible)
+    - Presses in over 200 towns by 1500
+    - Venice became a printing centre
+    - [Caxton brought printing to England, 1476](https://en.wikipedia.org/wiki/William_Caxton)
+  - Effects on society
+    - Books became cheaper and more common
+    - [Luther's pamphlets fuelled the Reformation](https://en.wikipedia.org/wiki/Reformation)
+    - Scientists shared identical, accurate copies
+    - Literacy rose and spellings standardised
+  - Later developments
+    - Steam-powered presses from 1814
+    - Rotary presses printed newspapers fast
+    - Offset printing took over in the 1900s

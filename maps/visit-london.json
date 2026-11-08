@@ -1,0 +1,352 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Visit London",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#wgqajg",
+      "name": "Plan ahead",
+      "x": -197,
+      "y": -96,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6rssmw",
+      "name": "Late spring to early autumn is warmest",
+      "x": -466,
+      "y": -51,
+      "parent": "#wgqajg"
+    },
+    {
+      "@id": "#tq6jee",
+      "name": "Rain any time, so pack layers",
+      "x": -431,
+      "y": -149,
+      "parent": "#wgqajg"
+    },
+    {
+      "@id": "#bdw8ru",
+      "name": "Check UK entry rules on GOV.UK",
+      "x": -349,
+      "y": -227,
+      "parent": "#wgqajg"
+    },
+    {
+      "@id": "#rsawed",
+      "name": "Book popular shows and attractions early",
+      "x": -260,
+      "y": -294,
+      "parent": "#wgqajg"
+    },
+    {
+      "@id": "#96y5j7",
+      "name": "Classic sights",
+      "x": 16,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#cx4rv4",
+      "name": "Tower of London and Crown Jewels",
+      "x": -158,
+      "y": -354,
+      "link": "https://en.wikipedia.org/wiki/Tower_of_London",
+      "parent": "#96y5j7"
+    },
+    {
+      "@id": "#dg6pvn",
+      "name": "Westminster Abbey and Big Ben",
+      "x": -34,
+      "y": -407,
+      "parent": "#96y5j7"
+    },
+    {
+      "@id": "#v5r4gr",
+      "name": "Changing of the Guard at Buckingham Palace",
+      "x": 120,
+      "y": -464,
+      "parent": "#96y5j7"
+    },
+    {
+      "@id": "#amrbv2",
+      "name": "Views from the London Eye",
+      "x": 207,
+      "y": -320,
+      "parent": "#96y5j7"
+    },
+    {
+      "@id": "#cvbrwp",
+      "name": "Free museums",
+      "x": 211,
+      "y": -73,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wspfiz",
+      "name": "British Museum's world collections",
+      "x": 307,
+      "y": -263,
+      "link": "https://en.wikipedia.org/wiki/British_Museum",
+      "parent": "#cvbrwp"
+    },
+    {
+      "@id": "#xp89pj",
+      "name": "Natural History and Science museums",
+      "x": 384,
+      "y": -187,
+      "parent": "#cvbrwp"
+    },
+    {
+      "@id": "#94gxcv",
+      "name": "National Gallery on Trafalgar Square",
+      "x": 490,
+      "y": -109,
+      "parent": "#cvbrwp"
+    },
+    {
+      "@id": "#x8umfs",
+      "name": "Tate Modern on the South Bank",
+      "x": 450,
+      "y": 0,
+      "parent": "#cvbrwp"
+    },
+    {
+      "@id": "#ebi7rw",
+      "name": "Neighbourhoods to explore",
+      "x": 178,
+      "y": 116,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#i273jg",
+      "name": "Covent Garden and West End theatres",
+      "x": 509,
+      "y": 113,
+      "parent": "#ebi7rw"
+    },
+    {
+      "@id": "#fzhd6f",
+      "name": "Camden Market and Regent's Canal",
+      "x": 384,
+      "y": 187,
+      "parent": "#ebi7rw"
+    },
+    {
+      "@id": "#w8zatp",
+      "name": "Borough Market for food lovers",
+      "x": 307,
+      "y": 263,
+      "parent": "#ebi7rw"
+    },
+    {
+      "@id": "#h2nrmn",
+      "name": "Greenwich and the Prime Meridian",
+      "x": 207,
+      "y": 320,
+      "link": "https://en.wikipedia.org/wiki/Greenwich",
+      "parent": "#ebi7rw"
+    },
+    {
+      "@id": "#8rkpve",
+      "name": "Getting around",
+      "x": -47,
+      "y": 180,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2cui4u",
+      "name": "The Tube covers most of the city",
+      "x": 96,
+      "y": 368,
+      "link": "https://en.wikipedia.org/wiki/London_Underground",
+      "parent": "#8rkpve"
+    },
+    {
+      "@id": "#m8a9ag",
+      "name": "Tap a contactless card to pay",
+      "x": -35,
+      "y": 423,
+      "parent": "#8rkpve"
+    },
+    {
+      "@id": "#3yg5pz",
+      "name": "Red double-decker buses and river boats",
+      "x": -214,
+      "y": 474,
+      "parent": "#8rkpve"
+    },
+    {
+      "@id": "#3k9zsd",
+      "name": "Central sights are walkable",
+      "x": -260,
+      "y": 294,
+      "parent": "#8rkpve"
+    },
+    {
+      "@id": "#3wneyq",
+      "name": "Etiquette and tips",
+      "x": -211,
+      "y": 73,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#vragwt",
+      "name": "Stand on the right on escalators",
+      "x": -349,
+      "y": 227,
+      "parent": "#3wneyq"
+    },
+    {
+      "@id": "#ja89g7",
+      "name": "Order drinks at the bar in pubs",
+      "x": -413,
+      "y": 143,
+      "parent": "#3wneyq"
+    },
+    {
+      "@id": "#d566y5",
+      "name": "Relax in Hyde Park and Regent's Park",
+      "x": -506,
+      "y": 55,
+      "parent": "#3wneyq"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 1,
+      "end": 5
+    },
+    {
+      "start": 0,
+      "end": 6
+    },
+    {
+      "start": 6,
+      "end": 7
+    },
+    {
+      "start": 6,
+      "end": 8
+    },
+    {
+      "start": 6,
+      "end": 9
+    },
+    {
+      "start": 6,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 11,
+      "end": 15
+    },
+    {
+      "start": 0,
+      "end": 16
+    },
+    {
+      "start": 16,
+      "end": 17
+    },
+    {
+      "start": 16,
+      "end": 18
+    },
+    {
+      "start": 16,
+      "end": 19
+    },
+    {
+      "start": 16,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    },
+    {
+      "start": 21,
+      "end": 25
+    },
+    {
+      "start": 0,
+      "end": 26
+    },
+    {
+      "start": 26,
+      "end": 27
+    },
+    {
+      "start": 26,
+      "end": 28
+    },
+    {
+      "start": 26,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

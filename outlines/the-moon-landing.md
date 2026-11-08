@@ -1,0 +1,30 @@
+aliases: apollo 11, first moon landing, moon landing 1969, man on the moon
+- The Moon landing
+  - The space race
+    - Sputnik shocked the US, 1957
+    - Gagarin first human in orbit, 1961
+    - Kennedy's goal: the Moon by 1970
+    - Apollo 1 fire killed three, 1967
+  - The Apollo 11 crew
+    - [Neil Armstrong, commander](https://en.wikipedia.org/wiki/Neil_Armstrong)
+    - Buzz Aldrin, lunar module pilot
+    - Michael Collins stayed in orbit
+  - The spacecraft
+    - [Saturn V rocket, about 110 metres tall](https://en.wikipedia.org/wiki/Saturn_V)
+    - Command module Columbia
+    - Lunar module Eagle
+  - [The mission, July 1969](https://en.wikipedia.org/wiki/Apollo_11)
+    - Launched from Florida on 16 July
+    - Landed on 20 July, Sea of Tranquillity
+    - "One small step for man"
+    - About 2.5 hours walking outside
+    - Splashdown in the Pacific, 24 July
+  - What it achieved
+    - Brought back about 21 kg of rock
+    - Left a laser reflector and seismometer
+    - Watched live by hundreds of millions
+  - After Apollo 11
+    - Twelve astronauts walked on the Moon
+    - [Apollo 13 survived an explosion, 1970](https://en.wikipedia.org/wiki/Apollo_13)
+    - Last crewed landing: Apollo 17, 1972
+    - NASA's Artemis aims to return humans

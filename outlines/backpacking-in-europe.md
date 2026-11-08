@@ -1,0 +1,31 @@
+aliases: backpacking europe, europe backpacking trip, interrail trip, eurail trip
+- Backpacking in Europe
+  - Plan the route
+    - Fewer places, longer stays
+    - Summer busiest; shoulder seasons quieter
+    - [Check Schengen stay limits officially](https://en.wikipedia.org/wiki/Schengen_Area)
+    - Fly into one city, out another
+  - Classic routes
+    - West: Paris, Amsterdam and Berlin
+    - Central: Prague, Vienna and Budapest
+    - South: Barcelona, Rome and Greek islands
+    - Balkans: cheaper and less crowded
+  - Where to sleep
+    - [Hostels: dorms, kitchens, fellow travellers](https://en.wikipedia.org/wiki/Hostel)
+    - Guesthouses and private rooms
+    - Campsites in summer
+  - Getting around
+    - [Interrail or Eurail rail passes](https://en.wikipedia.org/wiki/Interrail)
+    - Book point-to-point tickets early
+    - Budget airlines for long hops
+    - Night trains save a night's lodging
+  - Pack light
+    - One carry-on sized backpack
+    - Clothes for a week, then laundry
+    - Universal plug adapter
+    - Padlock for hostel lockers
+  - Stay safe and on budget
+    - Watch for pickpockets in crowds
+    - Cook in hostel kitchens
+    - Join free walking tours
+    - [Buy travel insurance before leaving](https://en.wikipedia.org/wiki/Travel_insurance)

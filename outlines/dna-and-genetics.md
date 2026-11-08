@@ -1,0 +1,30 @@
+aliases: dna, genetics, genes and dna, what is dna
+- DNA and genetics
+  - The DNA molecule
+    - [Double helix described in 1953](https://en.wikipedia.org/wiki/Nucleic_acid_double_helix)
+    - Four bases: A, T, C and G
+    - A pairs with T, C with G
+    - Sugar-phosphate backbone holds it together
+  - Genes and genomes
+    - A gene is instructions for a protein
+    - Humans have about 20,000 protein-coding genes
+    - [DNA packed into 23 chromosome pairs](https://en.wikipedia.org/wiki/Chromosome)
+    - Most DNA doesn't code for proteins
+  - From DNA to protein
+    - Transcription copies a gene into RNA
+    - [Ribosomes translate RNA into protein](https://en.wikipedia.org/wiki/Translation_%28biology%29)
+    - Three bases code one amino acid
+  - Inheritance
+    - One chromosome set from each parent
+    - [Mendel's peas revealed inheritance rules](https://en.wikipedia.org/wiki/Gregor_Mendel)
+    - Dominant alleles mask recessive ones
+    - Meiosis shuffles genes in sperm and eggs
+  - Variation and change
+    - Mutations are changes in DNA
+    - Most are harmless; some cause disease
+    - Variation is the raw material of evolution
+  - Uses today
+    - [Human Genome Project finished 2003](https://en.wikipedia.org/wiki/Human_Genome_Project)
+    - DNA evidence in forensics and ancestry
+    - Testing for inherited conditions
+    - CRISPR edits genes precisely

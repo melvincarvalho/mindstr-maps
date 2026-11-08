@@ -1,0 +1,296 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Running for beginners",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#t2z22p",
+      "name": "Get ready",
+      "x": -199,
+      "y": -92,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h79gtc",
+      "name": "Health condition? Check with a doctor first",
+      "x": -503,
+      "y": -72,
+      "parent": "#t2z22p"
+    },
+    {
+      "@id": "#jb4zfu",
+      "name": "Running shoes that fit well",
+      "x": -390,
+      "y": -180,
+      "parent": "#t2z22p"
+    },
+    {
+      "@id": "#r9gqns",
+      "name": "Comfortable, breathable clothing",
+      "x": -289,
+      "y": -276,
+      "parent": "#t2z22p"
+    },
+    {
+      "@id": "#uw2dci",
+      "name": "Start with run-walk intervals",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#29pnp5",
+      "name": "Couch to 5K: a nine-week plan",
+      "x": -154,
+      "y": -338,
+      "link": "https://en.wikipedia.org/wiki/Couch_to_5K",
+      "parent": "#uw2dci"
+    },
+    {
+      "@id": "#3jghrw",
+      "name": "Three runs a week, rest between",
+      "x": 0,
+      "y": -392,
+      "parent": "#uw2dci"
+    },
+    {
+      "@id": "#sx29qh",
+      "name": "Slow enough to hold a conversation",
+      "x": 203,
+      "y": -443,
+      "parent": "#uw2dci"
+    },
+    {
+      "@id": "#3ebjm2",
+      "name": "Run with good form",
+      "x": 199,
+      "y": -92,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mdtba6",
+      "name": "Warm up with brisk walking",
+      "x": 289,
+      "y": -276,
+      "parent": "#3ebjm2"
+    },
+    {
+      "@id": "#68mbgt",
+      "name": "Relaxed shoulders, short quick steps",
+      "x": 390,
+      "y": -180,
+      "parent": "#3ebjm2"
+    },
+    {
+      "@id": "#ydkms4",
+      "name": "Cool down by walking",
+      "x": 443,
+      "y": -63,
+      "parent": "#3ebjm2"
+    },
+    {
+      "@id": "#7c25gm",
+      "name": "Build up gradually",
+      "x": 199,
+      "y": 92,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#7by9cq",
+      "name": "Add time or distance slowly",
+      "x": 463,
+      "y": 66,
+      "parent": "#7c25gm"
+    },
+    {
+      "@id": "#j7r6s9",
+      "name": "Every few weeks, an easier week",
+      "x": 390,
+      "y": 180,
+      "parent": "#7c25gm"
+    },
+    {
+      "@id": "#vwci9j",
+      "name": "Strength work helps prevent injury",
+      "x": 289,
+      "y": 276,
+      "parent": "#7c25gm"
+    },
+    {
+      "@id": "#rjcmuu",
+      "name": "Avoid injury",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hdtwfh",
+      "name": "Sharp or worsening pain: stop",
+      "x": 154,
+      "y": 338,
+      "parent": "#rjcmuu"
+    },
+    {
+      "@id": "#45uyvj",
+      "name": "Shin splints often mean too much",
+      "x": 0,
+      "y": 392,
+      "link": "https://en.wikipedia.org/wiki/Shin_splints",
+      "parent": "#rjcmuu"
+    },
+    {
+      "@id": "#3ec87d",
+      "name": "Replace shoes when worn out",
+      "x": -154,
+      "y": 338,
+      "parent": "#rjcmuu"
+    },
+    {
+      "@id": "#t7uk8k",
+      "name": "Stay motivated",
+      "x": -199,
+      "y": 92,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9enr2p",
+      "name": "Join a free weekly parkrun",
+      "x": -289,
+      "y": 276,
+      "link": "https://en.wikipedia.org/wiki/Parkrun",
+      "parent": "#t7uk8k"
+    },
+    {
+      "@id": "#hyfzy5",
+      "name": "Run with a friend or club",
+      "x": -390,
+      "y": 180,
+      "parent": "#t7uk8k"
+    },
+    {
+      "@id": "#qe7j4u",
+      "name": "Log runs to see progress",
+      "x": -443,
+      "y": 63,
+      "parent": "#t7uk8k"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 0,
+      "end": 17
+    },
+    {
+      "start": 17,
+      "end": 18
+    },
+    {
+      "start": 17,
+      "end": 19
+    },
+    {
+      "start": 17,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    }
+  ],
+  "selectedNode": 0
+}

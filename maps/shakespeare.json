@@ -1,0 +1,320 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Shakespeare",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#pnx4dj",
+      "name": "His life",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wq6qpr",
+      "name": "Born in Stratford-upon-Avon, 1564",
+      "x": -464,
+      "y": -58,
+      "link": "https://en.wikipedia.org/wiki/William_Shakespeare",
+      "parent": "#pnx4dj"
+    },
+    {
+      "@id": "#xd8yc4",
+      "name": "Married Anne Hathaway at 18",
+      "x": -401,
+      "y": -163,
+      "parent": "#pnx4dj"
+    },
+    {
+      "@id": "#pigd9n",
+      "name": "Died in 1616, aged 52",
+      "x": -318,
+      "y": -255,
+      "parent": "#pnx4dj"
+    },
+    {
+      "@id": "#kccbge",
+      "name": "The London theatre",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2y7pg3",
+      "name": "Actor, writer and company shareholder",
+      "x": -204,
+      "y": -321,
+      "parent": "#kccbge"
+    },
+    {
+      "@id": "#78idwq",
+      "name": "Lord Chamberlain's Men, later King's Men",
+      "x": -73,
+      "y": -372,
+      "link": "https://en.wikipedia.org/wiki/Lord_Chamberlain%27s_Men",
+      "parent": "#kccbge"
+    },
+    {
+      "@id": "#c9fi4f",
+      "name": "The Globe Theatre opened 1599",
+      "x": 82,
+      "y": -420,
+      "link": "https://en.wikipedia.org/wiki/Globe_Theatre",
+      "parent": "#kccbge"
+    },
+    {
+      "@id": "#8tzsng",
+      "name": "Boys played the women's roles",
+      "x": 204,
+      "y": -321,
+      "parent": "#kccbge"
+    },
+    {
+      "@id": "#z6577d",
+      "name": "Comedies",
+      "x": 205,
+      "y": -84,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#anf4bq",
+      "name": "A Midsummer Night's Dream",
+      "x": 318,
+      "y": -255,
+      "parent": "#z6577d"
+    },
+    {
+      "@id": "#eeazfu",
+      "name": "Twelfth Night",
+      "x": 401,
+      "y": -163,
+      "parent": "#z6577d"
+    },
+    {
+      "@id": "#fuiy75",
+      "name": "Much Ado About Nothing",
+      "x": 444,
+      "y": -56,
+      "parent": "#z6577d"
+    },
+    {
+      "@id": "#x98y8t",
+      "name": "Tragedies",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#parsxy",
+      "name": "Hamlet, Prince of Denmark",
+      "x": 444,
+      "y": 56,
+      "link": "https://en.wikipedia.org/wiki/Hamlet",
+      "parent": "#x98y8t"
+    },
+    {
+      "@id": "#e75vm2",
+      "name": "Romeo and Juliet",
+      "x": 401,
+      "y": 163,
+      "parent": "#x98y8t"
+    },
+    {
+      "@id": "#jjphyq",
+      "name": "Macbeth",
+      "x": 318,
+      "y": 255,
+      "parent": "#x98y8t"
+    },
+    {
+      "@id": "#pf3a3b",
+      "name": "King Lear and Othello",
+      "x": 204,
+      "y": 321,
+      "parent": "#x98y8t"
+    },
+    {
+      "@id": "#wgzpgt",
+      "name": "Histories and romances",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#eivurm",
+      "name": "Henry V and Richard III",
+      "x": 73,
+      "y": 372,
+      "parent": "#wgzpgt"
+    },
+    {
+      "@id": "#yc9tjc",
+      "name": "The Tempest, a late romance",
+      "x": -82,
+      "y": 420,
+      "parent": "#wgzpgt"
+    },
+    {
+      "@id": "#qd5w94",
+      "name": "Language and legacy",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ant65z",
+      "name": "About 39 plays and 154 sonnets",
+      "x": -204,
+      "y": 321,
+      "parent": "#qd5w94"
+    },
+    {
+      "@id": "#7mqgqm",
+      "name": "Wrote mostly in iambic pentameter",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wikipedia.org/wiki/Iambic_pentameter",
+      "parent": "#qd5w94"
+    },
+    {
+      "@id": "#fcduzh",
+      "name": "Coined or popularised many English phrases",
+      "x": -401,
+      "y": 163,
+      "parent": "#qd5w94"
+    },
+    {
+      "@id": "#pmcrfv",
+      "name": "First Folio collected the plays, 1623",
+      "x": -444,
+      "y": 56,
+      "parent": "#qd5w94"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

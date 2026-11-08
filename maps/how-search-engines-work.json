@@ -1,0 +1,308 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "How search engines work",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#93mvfb",
+      "name": "Crawling the web",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#69twc6",
+      "name": "Crawlers follow links page to page",
+      "x": -504,
+      "y": -68,
+      "link": "https://en.wikipedia.org/wiki/Web_crawler",
+      "parent": "#93mvfb"
+    },
+    {
+      "@id": "#bnzrv9",
+      "name": "Sitemaps point crawlers to new pages",
+      "x": -396,
+      "y": -171,
+      "parent": "#93mvfb"
+    },
+    {
+      "@id": "#i8vdr5",
+      "name": "robots.txt says what to skip",
+      "x": -305,
+      "y": -265,
+      "parent": "#93mvfb"
+    },
+    {
+      "@id": "#yek8s5",
+      "name": "Building the index",
+      "x": -19,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#h74a4d",
+      "name": "Inverted index maps words to pages",
+      "x": -181,
+      "y": -330,
+      "link": "https://en.wikipedia.org/wiki/Inverted_index",
+      "parent": "#yek8s5"
+    },
+    {
+      "@id": "#neibuy",
+      "name": "Pages parsed for text and links",
+      "x": -41,
+      "y": -391,
+      "parent": "#yek8s5"
+    },
+    {
+      "@id": "#mwnmcm",
+      "name": "Duplicate and spam pages filtered",
+      "x": 140,
+      "y": -445,
+      "parent": "#yek8s5"
+    },
+    {
+      "@id": "#jb8kb6",
+      "name": "Understanding the query",
+      "x": 182,
+      "y": -113,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gnwmdi",
+      "name": "Spelling corrected automatically",
+      "x": 246,
+      "y": -301,
+      "parent": "#jb8kb6"
+    },
+    {
+      "@id": "#wa7hsm",
+      "name": "Synonyms and intent inferred",
+      "x": 355,
+      "y": -221,
+      "parent": "#jb8kb6"
+    },
+    {
+      "@id": "#nhkhea",
+      "name": "Location and language shape results",
+      "x": 502,
+      "y": -137,
+      "parent": "#jb8kb6"
+    },
+    {
+      "@id": "#9jaxwn",
+      "name": "Ranking results",
+      "x": 202,
+      "y": 88,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#njmwkw",
+      "name": "PageRank counts links as votes",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/PageRank",
+      "parent": "#9jaxwn"
+    },
+    {
+      "@id": "#ftjxgn",
+      "name": "Relevance to the query words",
+      "x": 464,
+      "y": 127,
+      "parent": "#9jaxwn"
+    },
+    {
+      "@id": "#46p9p3",
+      "name": "Freshness, speed and mobile-friendliness",
+      "x": 355,
+      "y": 221,
+      "parent": "#9jaxwn"
+    },
+    {
+      "@id": "#ccuysm",
+      "name": "Machine learning weighs hundreds of signals",
+      "x": 246,
+      "y": 301,
+      "parent": "#9jaxwn"
+    },
+    {
+      "@id": "#4m7g8s",
+      "name": "The results page",
+      "x": -19,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ssqxgn",
+      "name": "Ads marked as sponsored",
+      "x": 110,
+      "y": 349,
+      "parent": "#4m7g8s"
+    },
+    {
+      "@id": "#qh3mim",
+      "name": "Snippets, maps and answer boxes",
+      "x": -43,
+      "y": 407,
+      "parent": "#4m7g8s"
+    },
+    {
+      "@id": "#pq9a3j",
+      "name": "AI-generated summaries increasingly common",
+      "x": -253,
+      "y": 465,
+      "parent": "#4m7g8s"
+    },
+    {
+      "@id": "#xrbthg",
+      "name": "Business and influence",
+      "x": -202,
+      "y": 88,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yafbs6",
+      "name": "Search engine optimisation chases rankings",
+      "x": -305,
+      "y": 265,
+      "link": "https://en.wikipedia.org/wiki/Search_engine_optimization",
+      "parent": "#xrbthg"
+    },
+    {
+      "@id": "#3nezvw",
+      "name": "Google handles roughly 90% of searches",
+      "x": -396,
+      "y": 171,
+      "parent": "#xrbthg"
+    },
+    {
+      "@id": "#5jrxbf",
+      "name": "Ads fund most search engines",
+      "x": -484,
+      "y": 65,
+      "parent": "#xrbthg"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

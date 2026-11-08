@@ -1,0 +1,30 @@
+aliases: how to cook, cooking for beginners, basic cooking skills, beginner cooking
+- Learn to cook
+  - Set up your kitchen
+    - A sharp chef's knife and board
+    - One good frying pan and saucepan
+    - Stock oil, salt, spices and tins
+  - Learn kitchen safety
+    - Wash hands; keep raw meat separate
+    - [Cook meat through to safe temperatures](https://en.wikipedia.org/wiki/Food_safety)
+    - Chill leftovers within two hours
+    - Turn pan handles inward
+  - Master core techniques
+    - Knife skills: dice an onion
+    - Boil and simmer: pasta, rice, eggs
+    - [Sauté quickly in a hot pan](https://en.wikipedia.org/wiki/Saut%C3%A9ing)
+    - Roast vegetables in a hot oven
+    - Season as you go and taste
+  - Cook simple dishes first
+    - Omelette or scrambled eggs
+    - A tomato pasta sauce
+    - Stir-fry with rice
+    - A pot of soup or stew
+  - Build flavour
+    - Balance salt, fat, acid and heat
+    - [Browning adds flavour: the Maillard reaction](https://en.wikipedia.org/wiki/Maillard_reaction)
+    - Fresh herbs and citrus to finish
+  - Keep improving
+    - Follow recipes exactly at first
+    - Then improvise and swap ingredients
+    - Try one new dish each week

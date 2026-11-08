@@ -1,0 +1,27 @@
+aliases: stock market explained, how do stocks work, how does the stock market work, stock market basics
+- How the stock market works
+  - What a share is
+    - [A share is part-ownership of a company](https://en.wikipedia.org/wiki/Share_%28finance%29)
+    - Shareholders may receive dividends
+    - Ordinary shares usually carry votes
+  - How companies list
+    - [Companies raise money in an IPO](https://en.wikipedia.org/wiki/Initial_public_offering)
+    - Shares then trade between investors
+    - Listed firms must publish their results
+  - Where trading happens
+    - [Exchanges like NYSE, Nasdaq and London](https://en.wikipedia.org/wiki/Stock_exchange)
+    - Investors buy and sell through brokers
+    - Almost all trading is now electronic
+  - What moves prices
+    - Supply and demand set the price
+    - Profits and expectations of future profits
+    - Interest rates and economic news
+    - Fear and greed amplify swings
+  - Measuring the market
+    - [Indices track a basket of shares](https://en.wikipedia.org/wiki/Stock_market_index)
+    - S&P 500, FTSE 100, Nikkei 225
+    - Bull markets rise, bear markets fall
+  - Risks and safeguards
+    - Prices can fall as well as rise
+    - Diversifying spreads single-company risk
+    - [Regulators police fraud and insider trading](https://en.wikipedia.org/wiki/Insider_trading)

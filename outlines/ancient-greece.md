@@ -1,0 +1,30 @@
+aliases: ancient greeks, classical greece, ancient greek history, ancient greek civilization
+- Ancient Greece
+  - City-states and land
+    - Mountains and sea divided the land
+    - Each polis governed itself
+    - Athens and Sparta were rivals
+    - Colonies spread around the Mediterranean
+  - Key periods
+    - Mycenaeans and Trojan War legends
+    - Archaic age: first Olympics, 776 BC
+    - Classical age, about 500 to 323 BC
+    - [Alexander the Great spread Greek culture](https://en.wikipedia.org/wiki/Alexander_the_Great)
+    - Rome conquered Greece by 146 BC
+  - Wars
+    - [Persian Wars: Marathon, Thermopylae, Salamis](https://en.wikipedia.org/wiki/Greco-Persian_Wars)
+    - Peloponnesian War: Sparta beat Athens, 404 BC
+  - Government
+    - [Athenian democracy from about 508 BC](https://en.wikipedia.org/wiki/Athenian_democracy)
+    - Citizens voted directly in the Assembly
+    - Women, slaves and foreigners excluded
+  - Ideas
+    - [Socrates, Plato and Aristotle](https://en.wikipedia.org/wiki/Ancient_Greek_philosophy)
+    - Herodotus and Thucydides wrote history
+    - Euclid's geometry, Archimedes' physics
+    - Hippocrates and early medicine
+  - Arts and culture
+    - [Parthenon built on the Acropolis](https://en.wikipedia.org/wiki/Parthenon)
+    - Homer's Iliad and Odyssey
+    - Tragedy and comedy in open theatres
+    - Gods of Olympus led by Zeus

@@ -1,0 +1,28 @@
+aliases: berlin wall, fall of berlin wall, berlin wall falls, berlin wall 1989
+- The fall of the Berlin Wall
+  - A divided city
+    - Berlin split into four zones, 1945
+    - East Germany ruled by communists
+    - Millions fled west through Berlin
+  - [The Wall, 1961 to 1989](https://en.wikipedia.org/wiki/Berlin_Wall)
+    - Built overnight from 13 August 1961
+    - Death strip, watchtowers and armed guards
+    - At least 140 killed trying to cross
+    - [Checkpoint Charlie crossing for foreigners](https://en.wikipedia.org/wiki/Checkpoint_Charlie)
+  - Pressure for change
+    - Gorbachev's reforms loosened Soviet control
+    - Hungary opened its Austrian border, 1989
+    - [Monday protests in Leipzig](https://en.wikipedia.org/wiki/Monday_demonstrations_in_East_Germany)
+  - [Night of 9 November 1989](https://en.wikipedia.org/wiki/Fall_of_the_Berlin_Wall)
+    - Schabowski: travel allowed "immediately"
+    - Crowds gathered at border crossings
+    - Guards at Bornholmer Strasse opened gates
+    - Berliners climbed and chipped the Wall
+  - Aftermath
+    - [German reunification, 3 October 1990](https://en.wikipedia.org/wiki/German_reunification)
+    - Communist governments fell across Eastern Europe
+    - Soviet Union collapsed in 1991
+  - Remembered today
+    - Berlin Wall Memorial on Bernauer Strasse
+    - East Side Gallery murals
+    - Wall fragments displayed around the world

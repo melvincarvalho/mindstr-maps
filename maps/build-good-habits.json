@@ -1,0 +1,306 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Build good habits",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#yriwsp",
+      "name": "How habits work",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2qdvv4",
+      "name": "Cue, routine, reward",
+      "x": -444,
+      "y": -59,
+      "link": "https://en.wikipedia.org/wiki/Habit",
+      "parent": "#yriwsp"
+    },
+    {
+      "@id": "#pj9xug",
+      "name": "Repetition makes behaviour automatic",
+      "x": -396,
+      "y": -171,
+      "parent": "#yriwsp"
+    },
+    {
+      "@id": "#x6znaf",
+      "name": "Often about two months; varies widely",
+      "x": -305,
+      "y": -265,
+      "parent": "#yriwsp"
+    },
+    {
+      "@id": "#zh4z2u",
+      "name": "Choose the right habit",
+      "x": -19,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zix8vu",
+      "name": "Start with just one",
+      "x": -181,
+      "y": -330,
+      "parent": "#zh4z2u"
+    },
+    {
+      "@id": "#vujdgk",
+      "name": "Be specific: what, when, where",
+      "x": -41,
+      "y": -391,
+      "parent": "#zh4z2u"
+    },
+    {
+      "@id": "#8hr7we",
+      "name": "Link it to your identity",
+      "x": 140,
+      "y": -445,
+      "parent": "#zh4z2u"
+    },
+    {
+      "@id": "#737p2j",
+      "name": "Make it easy",
+      "x": 202,
+      "y": -88,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ctjzfe",
+      "name": "Start tiny: one press-up",
+      "x": 246,
+      "y": -301,
+      "parent": "#737p2j"
+    },
+    {
+      "@id": "#zrkyvq",
+      "name": "If-then plans: after X, do Y",
+      "x": 355,
+      "y": -221,
+      "link": "https://en.wikipedia.org/wiki/Implementation_intention",
+      "parent": "#737p2j"
+    },
+    {
+      "@id": "#4ia4ys",
+      "name": "Stack it onto an existing habit",
+      "x": 464,
+      "y": -127,
+      "parent": "#737p2j"
+    },
+    {
+      "@id": "#w3c3ih",
+      "name": "Remove friction: lay things out",
+      "x": 450,
+      "y": 0,
+      "parent": "#737p2j"
+    },
+    {
+      "@id": "#qbkgxk",
+      "name": "Shape your environment",
+      "x": 182,
+      "y": 113,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qwv8mu",
+      "name": "Put cues where you'll see them",
+      "x": 483,
+      "y": 132,
+      "parent": "#qbkgxk"
+    },
+    {
+      "@id": "#9iz8ng",
+      "name": "Hide temptations out of sight",
+      "x": 355,
+      "y": 221,
+      "parent": "#qbkgxk"
+    },
+    {
+      "@id": "#k6yen8",
+      "name": "Spend time with people who do it",
+      "x": 246,
+      "y": 301,
+      "parent": "#qbkgxk"
+    },
+    {
+      "@id": "#8ttd7g",
+      "name": "Keep it going",
+      "x": -19,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jjna9a",
+      "name": "Track it on a calendar",
+      "x": 110,
+      "y": 349,
+      "parent": "#8ttd7g"
+    },
+    {
+      "@id": "#t53e8r",
+      "name": "Reward yourself straight away",
+      "x": -43,
+      "y": 407,
+      "parent": "#8ttd7g"
+    },
+    {
+      "@id": "#33gz7p",
+      "name": "Missed a day? Never miss twice",
+      "x": -181,
+      "y": 330,
+      "parent": "#8ttd7g"
+    },
+    {
+      "@id": "#ng7wxv",
+      "name": "Handle setbacks",
+      "x": -202,
+      "y": 88,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ewcbqf",
+      "name": "Expect lapses; restart without guilt",
+      "x": -305,
+      "y": 265,
+      "parent": "#ng7wxv"
+    },
+    {
+      "@id": "#8tkfe7",
+      "name": "Shrink the habit when life's busy",
+      "x": -396,
+      "y": 171,
+      "parent": "#ng7wxv"
+    },
+    {
+      "@id": "#rzvbbs",
+      "name": "Review what's working each month",
+      "x": -484,
+      "y": 65,
+      "parent": "#ng7wxv"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,28 @@
+aliases: how to draw, drawing for beginners, learn drawing, drawing basics
+- Learn to draw
+  - Gather simple materials
+    - Graphite pencils, HB to 6B
+    - Cheap sketchbook to fill freely
+    - Kneaded eraser and sharpener
+  - Learn to see
+    - Draw what you see, not symbols
+    - [Contour drawing trains hand and eye](https://en.wikipedia.org/wiki/Contour_drawing)
+    - Measure angles and proportions with pencil
+    - Look at the negative spaces
+  - Build with basic shapes
+    - Break objects into spheres, cubes, cylinders
+    - Sketch lightly, refine later
+    - [Quick gesture drawings capture movement](https://en.wikipedia.org/wiki/Gesture_drawing)
+  - Light and shade
+    - Find the light source first
+    - [Hatching and cross-hatching build tone](https://en.wikipedia.org/wiki/Hatching)
+    - Value scale from white to black
+  - Draw in perspective
+    - [One-point perspective for roads, rooms](https://en.wikipedia.org/wiki/Perspective_%28graphical%29)
+    - Two-point perspective for buildings
+    - Horizon line sits at eye level
+  - Practise every day
+    - Draw from life, not only photos
+    - Keep a daily sketchbook habit
+    - Copy master drawings to learn
+    - Compare old drawings to see progress

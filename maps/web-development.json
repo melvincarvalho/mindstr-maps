@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Web development",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#re499u",
+      "name": "The three core languages",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5x38w4",
+      "name": "HTML structures the content",
+      "x": -505,
+      "y": -60,
+      "link": "https://en.wikipedia.org/wiki/HTML",
+      "parent": "#re499u"
+    },
+    {
+      "@id": "#9jj9p9",
+      "name": "CSS controls layout and style",
+      "x": -405,
+      "y": -156,
+      "link": "https://en.wikipedia.org/wiki/CSS",
+      "parent": "#re499u"
+    },
+    {
+      "@id": "#sajgju",
+      "name": "JavaScript adds interactivity",
+      "x": -330,
+      "y": -245,
+      "link": "https://en.wikipedia.org/wiki/JavaScript",
+      "parent": "#re499u"
+    },
+    {
+      "@id": "#puc6zh",
+      "name": "Front end",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mtx4e2",
+      "name": "Runs in the user's browser",
+      "x": -225,
+      "y": -312,
+      "parent": "#puc6zh"
+    },
+    {
+      "@id": "#i2dju3",
+      "name": "Responsive design fits every screen",
+      "x": -104,
+      "y": -367,
+      "link": "https://en.wikipedia.org/wiki/Responsive_web_design",
+      "parent": "#puc6zh"
+    },
+    {
+      "@id": "#48v62u",
+      "name": "Frameworks like React, Vue and Svelte",
+      "x": 42,
+      "y": -423,
+      "parent": "#puc6zh"
+    },
+    {
+      "@id": "#nnt3wy",
+      "name": "Accessible to everyone, including screen readers",
+      "x": 234,
+      "y": -485,
+      "link": "https://en.wikipedia.org/wiki/Web_accessibility",
+      "parent": "#puc6zh"
+    },
+    {
+      "@id": "#pmuibm",
+      "name": "Back end",
+      "x": 207,
+      "y": -80,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b3hg7k",
+      "name": "Servers handle requests and logic",
+      "x": 281,
+      "y": -281,
+      "parent": "#pmuibm"
+    },
+    {
+      "@id": "#xgizf8",
+      "name": "Node.js, Python, PHP, Ruby or Go",
+      "x": 372,
+      "y": -203,
+      "parent": "#pmuibm"
+    },
+    {
+      "@id": "#isqmt6",
+      "name": "Databases store users and content",
+      "x": 449,
+      "y": -111,
+      "parent": "#pmuibm"
+    },
+    {
+      "@id": "#5heq94",
+      "name": "APIs pass data as JSON",
+      "x": 450,
+      "y": 0,
+      "parent": "#pmuibm"
+    },
+    {
+      "@id": "#znsqyd",
+      "name": "Tools of the trade",
+      "x": 190,
+      "y": 104,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9de9xn",
+      "name": "Code editor and browser dev tools",
+      "x": 487,
+      "y": 121,
+      "parent": "#znsqyd"
+    },
+    {
+      "@id": "#xv7z43",
+      "name": "Git tracks every change",
+      "x": 372,
+      "y": 203,
+      "parent": "#znsqyd"
+    },
+    {
+      "@id": "#q28v7z",
+      "name": "Package managers like npm",
+      "x": 281,
+      "y": 281,
+      "parent": "#znsqyd"
+    },
+    {
+      "@id": "#trusek",
+      "name": "Ship it",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#33jw8a",
+      "name": "Register a domain name",
+      "x": 164,
+      "y": 335,
+      "parent": "#trusek"
+    },
+    {
+      "@id": "#ji698a",
+      "name": "Host on a server or platform",
+      "x": 38,
+      "y": 391,
+      "parent": "#trusek"
+    },
+    {
+      "@id": "#sa9z76",
+      "name": "HTTPS certificate, often free",
+      "x": -124,
+      "y": 447,
+      "parent": "#trusek"
+    },
+    {
+      "@id": "#9uhyht",
+      "name": "Monitor speed and errors",
+      "x": -225,
+      "y": 312,
+      "parent": "#trusek"
+    },
+    {
+      "@id": "#b2tkt9",
+      "name": "Keep it safe and fast",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6hdrgh",
+      "name": "Validate all user input",
+      "x": -330,
+      "y": 245,
+      "parent": "#b2tkt9"
+    },
+    {
+      "@id": "#n5tqpc",
+      "name": "Prevent SQL injection and XSS",
+      "x": -405,
+      "y": 156,
+      "parent": "#b2tkt9"
+    },
+    {
+      "@id": "#csu7ji",
+      "name": "Compress images, cache assets",
+      "x": -485,
+      "y": 58,
+      "parent": "#b2tkt9"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,28 @@
+aliases: what is inflation, inflation explained, why prices rise, causes of inflation
+- Inflation
+  - What it is
+    - A general rise in prices over time
+    - Each pound or dollar buys less
+    - Measured as yearly percentage change
+  - How it is measured
+    - [Consumer price index tracks a basket](https://en.wikipedia.org/wiki/Consumer_price_index)
+    - Core inflation excludes food and energy
+    - Many central banks target about 2%
+  - Main causes
+    - [Demand-pull: spending outpaces supply](https://en.wikipedia.org/wiki/Demand-pull_inflation)
+    - [Cost-push: energy, wages, materials rise](https://en.wikipedia.org/wiki/Cost-push_inflation)
+    - Money supply growing faster than output
+    - Expectations can become self-fulfilling
+  - Who wins and loses
+    - Savers lose value held in cash
+    - Borrowers repay with cheaper money
+    - Fixed incomes fall behind
+    - Wages often lag behind prices
+  - How it is controlled
+    - [Central banks raise interest rates](https://en.wikipedia.org/wiki/Central_bank)
+    - Dearer borrowing cools spending and demand
+    - Governments can tighten spending and taxes
+  - The extremes
+    - [Hyperinflation: Germany 1923, Zimbabwe 2008](https://en.wikipedia.org/wiki/Hyperinflation)
+    - Deflation: falling prices, delayed spending
+    - Stagflation: high inflation, weak growth

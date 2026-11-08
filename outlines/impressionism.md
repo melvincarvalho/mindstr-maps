@@ -1,0 +1,26 @@
+aliases: impressionist art, impressionist painters, impressionists, french impressionism
+- Impressionism
+  - Origins in 1860s–70s Paris
+    - Rejected by the official Salon
+    - First independent group exhibition, 1874
+    - [Named after Monet's Impression, Sunrise](https://en.wikipedia.org/wiki/Impression,_Sunrise)
+  - Techniques
+    - [Painting outdoors, en plein air](https://en.wikipedia.org/wiki/En_plein_air)
+    - Quick, visible brushstrokes
+    - Capturing changing light and weather
+    - Coloured shadows, little black
+    - Paint in tubes made it portable
+  - Subjects
+    - Everyday modern life
+    - Cafés, boulevards and railway stations
+    - Gardens, rivers and landscapes
+  - Key artists
+    - [Claude Monet: water lilies, haystacks](https://en.wikipedia.org/wiki/Claude_Monet)
+    - Pierre-Auguste Renoir: joyful social scenes
+    - Edgar Degas: dancers and racecourses
+    - Camille Pissarro: mentor to the group
+    - Berthe Morisot and Mary Cassatt
+  - Legacy
+    - [Post-Impressionism: Cézanne, Van Gogh](https://en.wikipedia.org/wiki/Post-Impressionism)
+    - Opened the path to modern art
+    - Musée d'Orsay holds major collections

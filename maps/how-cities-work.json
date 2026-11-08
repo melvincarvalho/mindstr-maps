@@ -1,0 +1,320 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "How cities work",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#jjfqk2",
+      "name": "Why cities exist",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#hq4j7b",
+      "name": "Jobs and trade cluster together",
+      "x": -484,
+      "y": -60,
+      "parent": "#jjfqk2"
+    },
+    {
+      "@id": "#qvg5ug",
+      "name": "Over half of people live in cities",
+      "x": -401,
+      "y": -163,
+      "link": "https://en.wikipedia.org/wiki/Urbanization",
+      "parent": "#jjfqk2"
+    },
+    {
+      "@id": "#c8sp2i",
+      "name": "Density makes services cheaper per person",
+      "x": -318,
+      "y": -255,
+      "parent": "#jjfqk2"
+    },
+    {
+      "@id": "#73n7jh",
+      "name": "Planning and land use",
+      "x": -36,
+      "y": -182,
+      "link": "https://en.wikipedia.org/wiki/Urban_planning",
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ifewr3",
+      "name": "Zoning decides what goes where",
+      "x": -204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Zoning",
+      "parent": "#73n7jh"
+    },
+    {
+      "@id": "#tryrgs",
+      "name": "Mix of housing, offices, industry, parks",
+      "x": -73,
+      "y": -372,
+      "parent": "#73n7jh"
+    },
+    {
+      "@id": "#jyvnxa",
+      "name": "Street layouts shape how people move",
+      "x": 82,
+      "y": -420,
+      "parent": "#73n7jh"
+    },
+    {
+      "@id": "#8782vb",
+      "name": "Getting around",
+      "x": 163,
+      "y": -130,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#b8tr5g",
+      "name": "Public transport moves crowds efficiently",
+      "x": 204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Public_transport",
+      "parent": "#8782vb"
+    },
+    {
+      "@id": "#7acach",
+      "name": "Roads, cycle lanes and pavements",
+      "x": 318,
+      "y": -255,
+      "parent": "#8782vb"
+    },
+    {
+      "@id": "#h8927s",
+      "name": "Traffic signals manage busy junctions",
+      "x": 455,
+      "y": -184,
+      "parent": "#8782vb"
+    },
+    {
+      "@id": "#tj8z5j",
+      "name": "Utilities, mostly underground",
+      "x": 219,
+      "y": 57,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gwirse",
+      "name": "Clean water piped from treatment works",
+      "x": 444,
+      "y": -56,
+      "parent": "#tj8z5j"
+    },
+    {
+      "@id": "#5zm99q",
+      "name": "Sewers carry wastewater for treatment",
+      "x": 584,
+      "y": 70,
+      "link": "https://en.wikipedia.org/wiki/Sewerage",
+      "parent": "#tj8z5j"
+    },
+    {
+      "@id": "#zgdrsr",
+      "name": "Electricity, gas and data cables",
+      "x": 401,
+      "y": 163,
+      "parent": "#tj8z5j"
+    },
+    {
+      "@id": "#q7xjdy",
+      "name": "Rubbish collection and recycling",
+      "x": 318,
+      "y": 255,
+      "parent": "#tj8z5j"
+    },
+    {
+      "@id": "#jr4bi8",
+      "name": "Public services",
+      "x": 36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v2iccz",
+      "name": "Police, fire and ambulance",
+      "x": 204,
+      "y": 321,
+      "parent": "#jr4bi8"
+    },
+    {
+      "@id": "#zcwbqe",
+      "name": "Schools, hospitals and libraries",
+      "x": 73,
+      "y": 372,
+      "parent": "#jr4bi8"
+    },
+    {
+      "@id": "#bbtpyk",
+      "name": "Parks and public spaces",
+      "x": -82,
+      "y": 420,
+      "parent": "#jr4bi8"
+    },
+    {
+      "@id": "#3psa5g",
+      "name": "Who runs and pays",
+      "x": -186,
+      "y": 108,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#bq7a9w",
+      "name": "Mayor and elected city council",
+      "x": -204,
+      "y": 321,
+      "parent": "#3psa5g"
+    },
+    {
+      "@id": "#sawvfb",
+      "name": "Local taxes and government grants",
+      "x": -318,
+      "y": 255,
+      "parent": "#3psa5g"
+    },
+    {
+      "@id": "#8xqzvc",
+      "name": "User fees like fares and parking",
+      "x": -401,
+      "y": 163,
+      "parent": "#3psa5g"
+    },
+    {
+      "@id": "#b5q7pj",
+      "name": "Public consultations on new plans",
+      "x": -444,
+      "y": 56,
+      "parent": "#3psa5g"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 0,
+      "end": 13
+    },
+    {
+      "start": 13,
+      "end": 14
+    },
+    {
+      "start": 13,
+      "end": 15
+    },
+    {
+      "start": 13,
+      "end": 16
+    },
+    {
+      "start": 13,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 0,
+      "end": 22
+    },
+    {
+      "start": 22,
+      "end": 23
+    },
+    {
+      "start": 22,
+      "end": 24
+    },
+    {
+      "start": 22,
+      "end": 25
+    },
+    {
+      "start": 22,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

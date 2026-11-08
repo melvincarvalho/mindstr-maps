@@ -1,0 +1,28 @@
+aliases: how do computers work, how a computer works, computer basics
+- How computers work
+  - Everything is binary
+    - [Bits are ones and zeros](https://en.wikipedia.org/wiki/Binary_number)
+    - Eight bits make one byte
+    - [Billions of transistors switch on and off](https://en.wikipedia.org/wiki/Transistor)
+    - Logic gates combine bits
+  - The processor
+    - [CPU fetches, decodes, executes instructions](https://en.wikipedia.org/wiki/Central_processing_unit)
+    - Clock speed measured in gigahertz
+    - Multiple cores work in parallel
+  - Memory and storage
+    - [RAM holds work in progress](https://en.wikipedia.org/wiki/Random-access_memory)
+    - RAM is wiped at power-off
+    - SSDs and hard drives keep files
+    - Cache keeps busy data close
+  - Input and output
+    - Keyboard, mouse and touch send input
+    - Screens show pixels, speakers play sound
+    - Network adapters connect to the internet
+  - Software
+    - [Operating system manages the hardware](https://en.wikipedia.org/wiki/Operating_system)
+    - Apps ask the OS for resources
+    - Code compiled into machine instructions
+  - From power-on to desktop
+    - Firmware checks the hardware
+    - Bootloader starts the operating system
+    - Programs load from storage into RAM

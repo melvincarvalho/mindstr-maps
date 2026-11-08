@@ -1,0 +1,29 @@
+aliases: tectonic plates, continental drift, plate tectonic theory, how tectonic plates move
+- Plate tectonics
+  - The basic idea
+    - [Earth's rigid outer shell is cracked](https://en.wikipedia.org/wiki/Lithosphere)
+    - Seven major plates and many minor
+    - Plates ride on hot, soft mantle rock
+    - They move a few centimetres a year
+  - What drives them
+    - Mantle convection carries heat upward
+    - Slab pull: sinking edges drag plates
+    - Ridge push from raised spreading centres
+  - Divergent boundaries
+    - Plates pull apart, new crust forms
+    - [Mid-Atlantic Ridge widens the Atlantic](https://en.wikipedia.org/wiki/Mid-Atlantic_Ridge)
+    - East African Rift splits a continent
+  - Convergent boundaries
+    - [Ocean plate sinks beneath another](https://en.wikipedia.org/wiki/Subduction)
+    - Builds deep trenches and volcanic arcs
+    - Colliding continents raise mountain ranges
+    - India hitting Asia built the Himalayas
+  - Transform boundaries
+    - Plates grind sideways past each other
+    - [San Andreas Fault in California](https://en.wikipedia.org/wiki/San_Andreas_Fault)
+    - Locked plates slip in earthquakes
+  - How we know
+    - [Wegener proposed continental drift, 1912](https://en.wikipedia.org/wiki/Alfred_Wegener)
+    - Matching coastlines, rocks and fossils
+    - Magnetic stripes mirrored across the seafloor
+    - Widely accepted by the late 1960s

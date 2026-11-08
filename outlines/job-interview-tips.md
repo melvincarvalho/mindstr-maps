@@ -1,0 +1,29 @@
+aliases: interview tips, prepare for an interview, job interview preparation, how to ace an interview
+- Job interview tips
+  - Research before the day
+    - Study the company and its products
+    - Reread the job description closely
+    - [Find out the interview format](https://en.wikipedia.org/wiki/Job_interview)
+  - Prepare your answers
+    - Practise "tell me about yourself"
+    - [Use STAR for behavioural questions](https://en.wikipedia.org/wiki/Situation,_task,_action,_result)
+    - Have examples with measurable results
+    - Explain a weakness you're working on
+    - Prepare questions to ask them
+  - Get ready practically
+    - Plan your route or test video
+    - Dress slightly smarter than the team
+    - Bring spare CV copies and notes
+  - On the day
+    - Arrive about ten minutes early
+    - Warm greeting, eye contact, smile
+    - Listen fully before answering
+    - Never criticise past employers
+  - Handle tough moments
+    - Pausing to think is fine
+    - Explain how you'd find unknown answers
+    - Give a researched salary range
+  - Follow up
+    - Send a short thank-you email
+    - Ask for feedback if rejected
+    - Note what to improve next time

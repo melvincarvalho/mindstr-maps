@@ -1,0 +1,30 @@
+aliases: ancient egyptians, egyptian pharaohs, egyptian civilization
+- Ancient Egypt
+  - The gift of the Nile
+    - Yearly flood left fertile black soil
+    - Farms of wheat, barley and flax
+    - The river was the main highway
+  - About 3,000 years of history
+    - Egypt unified, about 3100 BC
+    - Old Kingdom: the age of pyramids
+    - Middle Kingdom reunified the country
+    - New Kingdom empire: Ramesses II, Tutankhamun
+    - Rome took over after Cleopatra, 30 BC
+  - Pharaohs and gods
+    - The pharaoh was seen as divine
+    - Ra the sun, Osiris the underworld
+    - Priests ran great temples like Karnak
+  - Pyramids and tombs
+    - [Great Pyramid of Giza, about 2560 BC](https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza)
+    - [Mummification preserved bodies for the afterlife](https://en.wikipedia.org/wiki/Mummy)
+    - Valley of the Kings rock-cut tombs
+    - Tutankhamun's tomb found in 1922
+  - Writing and knowledge
+    - [Hieroglyphs carved on monuments](https://en.wikipedia.org/wiki/Egyptian_hieroglyphs)
+    - Papyrus made from river reeds
+    - A 365-day calendar
+    - [Rosetta Stone let scholars decode hieroglyphs](https://en.wikipedia.org/wiki/Rosetta_Stone)
+  - Everyday life
+    - Bread and beer were staple foods
+    - Women could own property
+    - Scribes held high status

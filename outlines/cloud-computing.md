@@ -1,0 +1,29 @@
+aliases: what is cloud computing, the cloud, cloud services
+- Cloud computing
+  - What it is
+    - Renting computing over the internet
+    - Pay only for what you use
+    - [Runs in huge data centres](https://en.wikipedia.org/wiki/Data_center)
+  - Service models
+    - [IaaS: rent virtual servers and storage](https://en.wikipedia.org/wiki/Infrastructure_as_a_service)
+    - PaaS: a platform to deploy code
+    - SaaS: ready-made apps like Gmail
+  - How it works
+    - [Virtualisation splits one server into many](https://en.wikipedia.org/wiki/Virtualization)
+    - Containers package apps to run anywhere
+    - [Serverless runs code without managing servers](https://en.wikipedia.org/wiki/Serverless_computing)
+    - Autoscaling adds capacity when busy
+    - Regions and zones spread the risk
+  - Major providers
+    - [Amazon Web Services, launched 2006](https://en.wikipedia.org/wiki/Amazon_Web_Services)
+    - Microsoft Azure and Google Cloud
+    - The big three dominate the market
+  - Deployment choices
+    - Public cloud shared by many customers
+    - Private cloud for one organisation
+    - Hybrid mixes cloud and on-premises
+  - Trade-offs
+    - No upfront hardware to buy
+    - Bills can grow unexpectedly
+    - One outage can hit many services
+    - Data location and vendor lock-in

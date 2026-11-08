@@ -1,0 +1,28 @@
+aliases: live sustainably, how to live sustainably, green living, eco-friendly living, sustainable lifestyle
+- Sustainable living
+  - Know your footprint
+    - [Carbon footprint calculators show hotspots](https://en.wikipedia.org/wiki/Carbon_footprint)
+    - Travel, home, food and stuff dominate
+  - Home energy
+    - Insulate and draught-proof first
+    - [Heat pumps can replace gas boilers](https://en.wikipedia.org/wiki/Heat_pump)
+    - Switch to LED bulbs
+    - Choose a renewable electricity tariff
+    - Save water with shorter showers
+  - Travel
+    - Walk, cycle or take public transport
+    - Fly less, especially long-haul
+    - Next car: electric or smaller
+  - Food
+    - Eat more plants, less beef
+    - Plan meals to cut food waste
+    - Seasonal and local where sensible
+  - Stuff
+    - Buy less, and buy to last
+    - Repair, borrow and buy second-hand
+    - Fewer, better clothes over fast fashion
+    - [Reduce, reuse, then recycle](https://en.wikipedia.org/wiki/Waste_hierarchy)
+  - Beyond the home
+    - Share ideas with friends and neighbours
+    - Support local green projects
+    - Ask where your savings are invested

@@ -1,0 +1,341 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Ancient Egypt",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#twyxjy",
+      "name": "The gift of the Nile",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4wkbit",
+      "name": "Yearly flood left fertile black soil",
+      "x": -525,
+      "y": -59,
+      "parent": "#twyxjy"
+    },
+    {
+      "@id": "#8vmtcd",
+      "name": "Farms of wheat, barley and flax",
+      "x": -409,
+      "y": -150,
+      "parent": "#twyxjy"
+    },
+    {
+      "@id": "#mc8wkm",
+      "name": "The river was the main highway",
+      "x": -340,
+      "y": -236,
+      "parent": "#twyxjy"
+    },
+    {
+      "@id": "#u4gtax",
+      "name": "About 3,000 years of history",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#82tr6t",
+      "name": "Egypt unified, about 3100 BC",
+      "x": -243,
+      "y": -303,
+      "parent": "#u4gtax"
+    },
+    {
+      "@id": "#yrc5db",
+      "name": "Old Kingdom: the age of pyramids",
+      "x": -133,
+      "y": -360,
+      "parent": "#u4gtax"
+    },
+    {
+      "@id": "#ufbxye",
+      "name": "Middle Kingdom reunified the country",
+      "x": 0,
+      "y": -408,
+      "parent": "#u4gtax"
+    },
+    {
+      "@id": "#g728gn",
+      "name": "New Kingdom empire: Ramesses II, Tutankhamun",
+      "x": 175,
+      "y": -465,
+      "parent": "#u4gtax"
+    },
+    {
+      "@id": "#dt2bcx",
+      "name": "Rome took over after Cleopatra, 30 BC",
+      "x": 243,
+      "y": -303,
+      "parent": "#u4gtax"
+    },
+    {
+      "@id": "#cr8irb",
+      "name": "Pharaohs and gods",
+      "x": 209,
+      "y": -76,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xy54w5",
+      "name": "The pharaoh was seen as divine",
+      "x": 340,
+      "y": -236,
+      "parent": "#cr8irb"
+    },
+    {
+      "@id": "#f7rv4s",
+      "name": "Ra the sun, Osiris the underworld",
+      "x": 409,
+      "y": -150,
+      "parent": "#cr8irb"
+    },
+    {
+      "@id": "#hza8rd",
+      "name": "Priests ran great temples like Karnak",
+      "x": 505,
+      "y": -57,
+      "parent": "#cr8irb"
+    },
+    {
+      "@id": "#2zj6zj",
+      "name": "Pyramids and tombs",
+      "x": 193,
+      "y": 99,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#erfwd5",
+      "name": "Great Pyramid of Giza, about 2560 BC",
+      "x": 445,
+      "y": 51,
+      "link": "https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza",
+      "parent": "#2zj6zj"
+    },
+    {
+      "@id": "#p3yzk5",
+      "name": "Mummification preserved bodies for the afterlife",
+      "x": 409,
+      "y": 150,
+      "link": "https://en.wikipedia.org/wiki/Mummy",
+      "parent": "#2zj6zj"
+    },
+    {
+      "@id": "#wc5etv",
+      "name": "Valley of the Kings rock-cut tombs",
+      "x": 340,
+      "y": 236,
+      "parent": "#2zj6zj"
+    },
+    {
+      "@id": "#rw7jfp",
+      "name": "Tutankhamun's tomb found in 1922",
+      "x": 243,
+      "y": 303,
+      "parent": "#2zj6zj"
+    },
+    {
+      "@id": "#xpfhzc",
+      "name": "Writing and knowledge",
+      "x": -33,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yt9m3h",
+      "name": "Hieroglyphs carved on monuments",
+      "x": 133,
+      "y": 360,
+      "link": "https://en.wikipedia.org/wiki/Egyptian_hieroglyphs",
+      "parent": "#xpfhzc"
+    },
+    {
+      "@id": "#hrmfjm",
+      "name": "Papyrus made from river reeds",
+      "x": 0,
+      "y": 408,
+      "parent": "#xpfhzc"
+    },
+    {
+      "@id": "#rqpvjp",
+      "name": "A 365-day calendar",
+      "x": -175,
+      "y": 465,
+      "parent": "#xpfhzc"
+    },
+    {
+      "@id": "#45n5cp",
+      "name": "Rosetta Stone let scholars decode hieroglyphs",
+      "x": -243,
+      "y": 303,
+      "link": "https://en.wikipedia.org/wiki/Rosetta_Stone",
+      "parent": "#xpfhzc"
+    },
+    {
+      "@id": "#vf9zpe",
+      "name": "Everyday life",
+      "x": -209,
+      "y": 76,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qkxs9n",
+      "name": "Bread and beer were staple foods",
+      "x": -340,
+      "y": 236,
+      "parent": "#vf9zpe"
+    },
+    {
+      "@id": "#tq9pg3",
+      "name": "Women could own property",
+      "x": -409,
+      "y": 150,
+      "parent": "#vf9zpe"
+    },
+    {
+      "@id": "#c5mhsa",
+      "name": "Scribes held high status",
+      "x": -445,
+      "y": 51,
+      "parent": "#vf9zpe"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 20,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,30 @@
+aliases: hydrologic cycle, hydrological cycle, how the water cycle works, water cycle explained
+- The water cycle
+  - Evaporation
+    - [Sun heats oceans, lakes and rivers](https://en.wikipedia.org/wiki/Evaporation)
+    - Oceans supply most evaporated water
+    - [Plants release vapour by transpiration](https://en.wikipedia.org/wiki/Transpiration)
+    - Ice turns straight to vapour: sublimation
+  - Condensation
+    - Rising air cools as it expands
+    - Vapour condenses on dust into droplets
+    - [Billions of droplets form clouds](https://en.wikipedia.org/wiki/Cloud)
+  - Precipitation
+    - Droplets merge until too heavy
+    - [Falls as rain, snow, sleet or hail](https://en.wikipedia.org/wiki/Precipitation)
+    - Most falls straight back into oceans
+  - Collection and flow
+    - Surface runoff fills rivers and lakes
+    - [Soaking in recharges groundwater](https://en.wikipedia.org/wiki/Groundwater)
+    - Rivers carry water back to sea
+    - Snow and glaciers store water for years
+  - Where Earth's water is
+    - Oceans hold about 97%
+    - Ice caps and glaciers about 2%
+    - Groundwater holds most liquid fresh water
+    - Air holds only a tiny fraction
+  - Why it matters
+    - Delivers fresh water to land
+    - Moves heat around the planet
+    - Drives weather and shapes climate
+    - Warming speeds up the cycle

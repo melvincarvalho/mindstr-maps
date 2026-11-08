@@ -1,0 +1,342 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Greek mythology",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#8d9rwt",
+      "name": "Creation and the Titans",
+      "x": -209,
+      "y": -76,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#dpunzr",
+      "name": "Chaos came first, then Gaia",
+      "x": -505,
+      "y": -57,
+      "parent": "#8d9rwt"
+    },
+    {
+      "@id": "#ramxnb",
+      "name": "Titans ruled under Cronus",
+      "x": -409,
+      "y": -150,
+      "link": "https://en.wikipedia.org/wiki/Titans",
+      "parent": "#8d9rwt"
+    },
+    {
+      "@id": "#5e7638",
+      "name": "Zeus overthrew Cronus in the Titanomachy",
+      "x": -340,
+      "y": -236,
+      "parent": "#8d9rwt"
+    },
+    {
+      "@id": "#473guv",
+      "name": "The Twelve Olympians",
+      "x": 0,
+      "y": -184,
+      "link": "https://en.wikipedia.org/wiki/Twelve_Olympians",
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#985emx",
+      "name": "Zeus, king of the gods",
+      "x": -243,
+      "y": -303,
+      "parent": "#473guv"
+    },
+    {
+      "@id": "#afsc8n",
+      "name": "Hera, goddess of marriage",
+      "x": -133,
+      "y": -360,
+      "parent": "#473guv"
+    },
+    {
+      "@id": "#zc2e4t",
+      "name": "Poseidon rules the sea",
+      "x": 0,
+      "y": -408,
+      "parent": "#473guv"
+    },
+    {
+      "@id": "#j42rjy",
+      "name": "Athena, wisdom and war",
+      "x": 133,
+      "y": -360,
+      "parent": "#473guv"
+    },
+    {
+      "@id": "#g4meyk",
+      "name": "Apollo, Artemis, Aphrodite and others",
+      "x": 243,
+      "y": -303,
+      "parent": "#473guv"
+    },
+    {
+      "@id": "#ggb6cp",
+      "name": "The Underworld",
+      "x": 209,
+      "y": -76,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#n67sb7",
+      "name": "Hades rules the dead",
+      "x": 340,
+      "y": -236,
+      "parent": "#ggb6cp"
+    },
+    {
+      "@id": "#2d7jb5",
+      "name": "Charon ferries souls across the Styx",
+      "x": 409,
+      "y": -150,
+      "parent": "#ggb6cp"
+    },
+    {
+      "@id": "#uwj9sf",
+      "name": "Persephone's return brings spring",
+      "x": 485,
+      "y": -55,
+      "parent": "#ggb6cp"
+    },
+    {
+      "@id": "#9cjv53",
+      "name": "Heroes",
+      "x": 193,
+      "y": 99,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v5b6yi",
+      "name": "Heracles and his Twelve Labours",
+      "x": 445,
+      "y": 51,
+      "link": "https://en.wikipedia.org/wiki/Labours_of_Hercules",
+      "parent": "#9cjv53"
+    },
+    {
+      "@id": "#nk6zjf",
+      "name": "Perseus slays Medusa",
+      "x": 409,
+      "y": 150,
+      "parent": "#9cjv53"
+    },
+    {
+      "@id": "#cz7bdt",
+      "name": "Theseus kills the Minotaur",
+      "x": 340,
+      "y": 236,
+      "parent": "#9cjv53"
+    },
+    {
+      "@id": "#7rx9r4",
+      "name": "Jason seeks the Golden Fleece",
+      "x": 243,
+      "y": 303,
+      "parent": "#9cjv53"
+    },
+    {
+      "@id": "#dziktz",
+      "name": "Epic tales",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#z4k29w",
+      "name": "Homer's Iliad: the Trojan War",
+      "x": 133,
+      "y": 360,
+      "link": "https://en.wikipedia.org/wiki/Iliad",
+      "parent": "#dziktz"
+    },
+    {
+      "@id": "#s7qn3a",
+      "name": "Odyssey: Odysseus' ten-year voyage home",
+      "x": 0,
+      "y": 408,
+      "parent": "#dziktz"
+    },
+    {
+      "@id": "#4h452e",
+      "name": "The Trojan Horse trick",
+      "x": -175,
+      "y": 465,
+      "parent": "#dziktz"
+    },
+    {
+      "@id": "#7ej4rm",
+      "name": "Sources and legacy",
+      "x": -193,
+      "y": 99,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#zhc842",
+      "name": "Hesiod's Theogony: origins of the gods",
+      "x": -243,
+      "y": 303,
+      "link": "https://en.wikipedia.org/wiki/Theogony",
+      "parent": "#7ej4rm"
+    },
+    {
+      "@id": "#wzxrkw",
+      "name": "Ovid's Metamorphoses retells many myths",
+      "x": -340,
+      "y": 236,
+      "parent": "#7ej4rm"
+    },
+    {
+      "@id": "#srn899",
+      "name": "Romans renamed them: Zeus became Jupiter",
+      "x": -409,
+      "y": 150,
+      "parent": "#7ej4rm"
+    },
+    {
+      "@id": "#wz67st",
+      "name": "Words like panic, echo, narcissism",
+      "x": -445,
+      "y": 51,
+      "parent": "#7ej4rm"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 0,
+      "end": 20
+    },
+    {
+      "start": 20,
+      "end": 21
+    },
+    {
+      "start": 20,
+      "end": 22
+    },
+    {
+      "start": 20,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    },
+    {
+      "start": 24,
+      "end": 28
+    }
+  ],
+  "selectedNode": 0
+}

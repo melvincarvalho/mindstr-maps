@@ -1,0 +1,30 @@
+aliases: immune system, how the immune system works, how immunity works, immune system explained
+- The immune system
+  - Physical barriers
+    - Skin blocks most germs
+    - Mucus and nose hairs trap invaders
+    - Stomach acid kills swallowed microbes
+    - Tears and saliva contain germ-killing enzymes
+  - [Innate immunity: fast and general](https://en.wikipedia.org/wiki/Innate_immune_system)
+    - Phagocytes engulf and digest germs
+    - Inflammation: heat, redness and swelling
+    - Fever slows microbe growth
+    - Natural killer cells attack infected cells
+  - [Adaptive immunity: targeted, takes days](https://en.wikipedia.org/wiki/Adaptive_immune_system)
+    - Recognises specific antigens on invaders
+    - [B cells make antibodies](https://en.wikipedia.org/wiki/Antibody)
+    - [Helper T cells coordinate the response](https://en.wikipedia.org/wiki/T_cell)
+    - Killer T cells destroy infected cells
+  - Immune memory
+    - Memory cells remember past invaders
+    - Second infections are fought off faster
+    - Vaccines build memory without the disease
+  - Organs and tissues
+    - Bone marrow makes immune cells
+    - Thymus trains young T cells
+    - Lymph nodes filter lymph and swell
+    - Spleen filters the blood
+  - When it goes wrong
+    - Allergies overreact to harmless things
+    - [Autoimmune disease attacks the body itself](https://en.wikipedia.org/wiki/Autoimmune_disease)
+    - Immunodeficiency leaves the body vulnerable

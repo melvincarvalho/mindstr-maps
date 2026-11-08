@@ -1,0 +1,29 @@
+aliases: guitar for beginners, how to play guitar, learn to play guitar, beginner guitar
+- Learn guitar
+  - Choose a guitar
+    - [Acoustic: play anywhere, no amp](https://en.wikipedia.org/wiki/Acoustic_guitar)
+    - Electric: lighter strings, needs an amp
+    - Nylon strings are gentler on fingertips
+  - Get set up
+    - [Standard tuning, low to high: EADGBE](https://en.wikipedia.org/wiki/Guitar_tunings)
+    - Use a clip-on tuner or app
+    - Sit straight, guitar close to body
+  - First skills
+    - Open chords: G, C, D, Em, Am
+    - Press just behind the fret
+    - Strum steady down-up patterns
+    - [Read chord charts and tablature](https://en.wikipedia.org/wiki/Tablature)
+  - Practise well
+    - 15–30 minutes daily beats rare marathons
+    - Fingertips hurt at first, then toughen
+    - Use a metronome for timing
+    - Switch chords slowly, then faster
+  - Play songs
+    - Start with three- or four-chord songs
+    - [A capo changes key easily](https://en.wikipedia.org/wiki/Capo)
+    - Play along with recordings
+  - Keep growing
+    - Barre chords unlock every key
+    - [Pentatonic scale for first solos](https://en.wikipedia.org/wiki/Pentatonic_scale)
+    - Fingerpicking patterns
+    - Lessons or video courses for feedback

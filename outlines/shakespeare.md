@@ -1,0 +1,28 @@
+aliases: william shakespeare, shakespeare plays, the bard
+- Shakespeare
+  - His life
+    - [Born in Stratford-upon-Avon, 1564](https://en.wikipedia.org/wiki/William_Shakespeare)
+    - Married Anne Hathaway at 18
+    - Died in 1616, aged 52
+  - The London theatre
+    - Actor, writer and company shareholder
+    - [Lord Chamberlain's Men, later King's Men](https://en.wikipedia.org/wiki/Lord_Chamberlain%27s_Men)
+    - [The Globe Theatre opened 1599](https://en.wikipedia.org/wiki/Globe_Theatre)
+    - Boys played the women's roles
+  - Comedies
+    - A Midsummer Night's Dream
+    - Twelfth Night
+    - Much Ado About Nothing
+  - Tragedies
+    - [Hamlet, Prince of Denmark](https://en.wikipedia.org/wiki/Hamlet)
+    - Romeo and Juliet
+    - Macbeth
+    - King Lear and Othello
+  - Histories and romances
+    - Henry V and Richard III
+    - The Tempest, a late romance
+  - Language and legacy
+    - About 39 plays and 154 sonnets
+    - [Wrote mostly in iambic pentameter](https://en.wikipedia.org/wiki/Iambic_pentameter)
+    - Coined or popularised many English phrases
+    - First Folio collected the plays, 1623

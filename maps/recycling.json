@@ -1,0 +1,330 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Recycling",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#zdncvk",
+      "name": "Why recycle",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ed9rgs",
+      "name": "Saves raw materials and energy",
+      "x": -465,
+      "y": -56,
+      "parent": "#zdncvk"
+    },
+    {
+      "@id": "#arsagi",
+      "name": "Keeps waste out of landfill",
+      "x": -405,
+      "y": -156,
+      "parent": "#zdncvk"
+    },
+    {
+      "@id": "#jg9c57",
+      "name": "Recycled aluminium uses 95% less energy",
+      "x": -330,
+      "y": -245,
+      "parent": "#zdncvk"
+    },
+    {
+      "@id": "#bxzsjg",
+      "name": "What recycles well",
+      "x": -17,
+      "y": -183,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ycpcxa",
+      "name": "Aluminium cans recycle again and again",
+      "x": -225,
+      "y": -312,
+      "parent": "#bxzsjg"
+    },
+    {
+      "@id": "#pzdkb8",
+      "name": "Glass bottles and jars",
+      "x": -104,
+      "y": -367,
+      "parent": "#bxzsjg"
+    },
+    {
+      "@id": "#imtvt7",
+      "name": "Paper fibres reused five to seven times",
+      "x": 42,
+      "y": -423,
+      "parent": "#bxzsjg"
+    },
+    {
+      "@id": "#mhztnx",
+      "name": "PET and HDPE plastics most accepted",
+      "x": 234,
+      "y": -485,
+      "link": "https://en.wikipedia.org/wiki/Resin_identification_code",
+      "parent": "#bxzsjg"
+    },
+    {
+      "@id": "#yzxkse",
+      "name": "Hard to recycle",
+      "x": 190,
+      "y": -104,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#n9hxp8",
+      "name": "Soft plastic film and bags",
+      "x": 281,
+      "y": -281,
+      "parent": "#yzxkse"
+    },
+    {
+      "@id": "#rm8s6e",
+      "name": "Batteries and electronics need special drop-off",
+      "x": 372,
+      "y": -203,
+      "parent": "#yzxkse"
+    },
+    {
+      "@id": "#azrjb7",
+      "name": "Mixed materials like coffee cups",
+      "x": 468,
+      "y": -116,
+      "parent": "#yzxkse"
+    },
+    {
+      "@id": "#ej95rb",
+      "name": "After collection",
+      "x": 207,
+      "y": 80,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#j9s5dj",
+      "name": "Sorted at a materials recovery facility",
+      "x": 450,
+      "y": 0,
+      "link": "https://en.wikipedia.org/wiki/Materials_recovery_facility",
+      "parent": "#ej95rb"
+    },
+    {
+      "@id": "#jm5k57",
+      "name": "Baled and sold to reprocessors",
+      "x": 468,
+      "y": 116,
+      "parent": "#ej95rb"
+    },
+    {
+      "@id": "#zjp73e",
+      "name": "Melted, pulped or shredded into feedstock",
+      "x": 372,
+      "y": 203,
+      "parent": "#ej95rb"
+    },
+    {
+      "@id": "#d5cgs9",
+      "name": "Made into new products",
+      "x": 281,
+      "y": 281,
+      "parent": "#ej95rb"
+    },
+    {
+      "@id": "#6r72tb",
+      "name": "Recycle well at home",
+      "x": -17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#v9mudi",
+      "name": "Check your local collection rules",
+      "x": 164,
+      "y": 335,
+      "parent": "#6r72tb"
+    },
+    {
+      "@id": "#85zd7d",
+      "name": "Rinse containers and keep them dry",
+      "x": 38,
+      "y": 391,
+      "parent": "#6r72tb"
+    },
+    {
+      "@id": "#gcpuad",
+      "name": "Don't bag recyclables unless told",
+      "x": -124,
+      "y": 447,
+      "parent": "#6r72tb"
+    },
+    {
+      "@id": "#m7z9w6",
+      "name": "When in doubt, leave it out",
+      "x": -225,
+      "y": 312,
+      "parent": "#6r72tb"
+    },
+    {
+      "@id": "#en488z",
+      "name": "The bigger picture",
+      "x": -207,
+      "y": 80,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#qcjgpz",
+      "name": "Under 10% of plastic ever recycled",
+      "x": -330,
+      "y": 245,
+      "link": "https://en.wikipedia.org/wiki/Plastic_recycling",
+      "parent": "#en488z"
+    },
+    {
+      "@id": "#iifyjj",
+      "name": "Contamination can spoil whole loads",
+      "x": -405,
+      "y": 156,
+      "parent": "#en488z"
+    },
+    {
+      "@id": "#v7zkq7",
+      "name": "Waste hierarchy: reduce and reuse first",
+      "x": -525,
+      "y": 62,
+      "link": "https://en.wikipedia.org/wiki/Waste_hierarchy",
+      "parent": "#en488z"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 0,
+      "end": 24
+    },
+    {
+      "start": 24,
+      "end": 25
+    },
+    {
+      "start": 24,
+      "end": 26
+    },
+    {
+      "start": 24,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

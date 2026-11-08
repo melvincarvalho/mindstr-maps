@@ -1,0 +1,320 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "How smartphones work",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#ryivw7",
+      "name": "A computer on one chip",
+      "x": -205,
+      "y": -84,
+      "link": "https://en.wikipedia.org/wiki/System_on_a_chip",
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#jvkh32",
+      "name": "CPU, graphics and modem combined",
+      "x": -524,
+      "y": -64,
+      "parent": "#ryivw7"
+    },
+    {
+      "@id": "#kiviif",
+      "name": "Energy-efficient ARM processor designs",
+      "x": -401,
+      "y": -163,
+      "parent": "#ryivw7"
+    },
+    {
+      "@id": "#6gjfer",
+      "name": "RAM and flash storage alongside",
+      "x": -318,
+      "y": -255,
+      "parent": "#ryivw7"
+    },
+    {
+      "@id": "#urd4w3",
+      "name": "Touchscreen and display",
+      "x": -36,
+      "y": -182,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#wirau4",
+      "name": "Capacitive glass senses your finger's charge",
+      "x": -204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Touchscreen",
+      "parent": "#urd4w3"
+    },
+    {
+      "@id": "#7g3dzq",
+      "name": "OLED or LCD panels show images",
+      "x": -73,
+      "y": -372,
+      "parent": "#urd4w3"
+    },
+    {
+      "@id": "#kyeefu",
+      "name": "Toughened glass protects the display",
+      "x": 82,
+      "y": -420,
+      "parent": "#urd4w3"
+    },
+    {
+      "@id": "#d796gn",
+      "name": "Staying connected",
+      "x": 186,
+      "y": -108,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#6zdehf",
+      "name": "Radio links to nearby cell towers",
+      "x": 303,
+      "y": -475,
+      "link": "https://en.wikipedia.org/wiki/Cellular_network",
+      "parent": "#d796gn"
+    },
+    {
+      "@id": "#et86x5",
+      "name": "4G and 5G carry mobile data",
+      "x": 318,
+      "y": -255,
+      "parent": "#d796gn"
+    },
+    {
+      "@id": "#3vgez5",
+      "name": "Wi-Fi and Bluetooth for short range",
+      "x": 401,
+      "y": -163,
+      "parent": "#d796gn"
+    },
+    {
+      "@id": "#icr3my",
+      "name": "SIM card identifies your account",
+      "x": 444,
+      "y": -56,
+      "parent": "#d796gn"
+    },
+    {
+      "@id": "#c9hzwn",
+      "name": "Sensors",
+      "x": 186,
+      "y": 108,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y5art2",
+      "name": "GPS satellites pinpoint location",
+      "x": 444,
+      "y": 56,
+      "parent": "#c9hzwn"
+    },
+    {
+      "@id": "#mw7wk9",
+      "name": "Accelerometer and gyroscope sense movement",
+      "x": 401,
+      "y": 163,
+      "parent": "#c9hzwn"
+    },
+    {
+      "@id": "#82zth5",
+      "name": "Tiny camera sensors plus computational photography",
+      "x": 318,
+      "y": 255,
+      "parent": "#c9hzwn"
+    },
+    {
+      "@id": "#jgy99z",
+      "name": "Fingerprint and face unlock",
+      "x": 204,
+      "y": 321,
+      "parent": "#c9hzwn"
+    },
+    {
+      "@id": "#3yvujr",
+      "name": "Software",
+      "x": -36,
+      "y": 182,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#juuzzv",
+      "name": "Android and iOS dominate",
+      "x": 73,
+      "y": 372,
+      "link": "https://en.wikipedia.org/wiki/Mobile_operating_system",
+      "parent": "#3yvujr"
+    },
+    {
+      "@id": "#4xn2eu",
+      "name": "Apps come from official app stores",
+      "x": -82,
+      "y": 420,
+      "parent": "#3yvujr"
+    },
+    {
+      "@id": "#5kfhgq",
+      "name": "Apps sandboxed, asking for permissions",
+      "x": -204,
+      "y": 321,
+      "parent": "#3yvujr"
+    },
+    {
+      "@id": "#n34ppg",
+      "name": "Power",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#9cvdpa",
+      "name": "Lithium-ion battery stores the energy",
+      "x": -318,
+      "y": 255,
+      "link": "https://en.wikipedia.org/wiki/Lithium-ion_battery",
+      "parent": "#n34ppg"
+    },
+    {
+      "@id": "#dnjb2g",
+      "name": "Screen and radios use most power",
+      "x": -401,
+      "y": 163,
+      "parent": "#n34ppg"
+    },
+    {
+      "@id": "#vttt7q",
+      "name": "Charging managed to protect the battery",
+      "x": -464,
+      "y": 58,
+      "parent": "#n34ppg"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 14,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}

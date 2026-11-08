@@ -1,0 +1,29 @@
+aliases: plastic waste, ocean plastic, plastic in the ocean, plastic pollution facts
+- [Plastic pollution](https://en.wikipedia.org/wiki/Plastic_pollution)
+  - The scale
+    - Over 400 million tonnes made yearly
+    - Only about 9% is recycled
+    - Packaging is the largest use
+  - Where it ends up
+    - Mostly landfilled or burned
+    - [Rivers carry it to the sea](https://en.wikipedia.org/wiki/Marine_plastic_pollution)
+    - [Great Pacific garbage patch collects debris](https://en.wikipedia.org/wiki/Great_Pacific_garbage_patch)
+    - From Arctic ice to the Mariana Trench
+  - Why it lasts
+    - Doesn't biodegrade, just breaks smaller
+    - [Microplastics are pieces under 5 mm](https://en.wikipedia.org/wiki/Microplastics)
+    - Can persist for hundreds of years
+  - Harm
+    - Seabirds, turtles and whales swallow it
+    - Animals get tangled in nets and rings
+    - Microplastics found in human bodies
+    - Health effects still being studied
+  - Solutions
+    - Bag charges and single-use plastic bans
+    - Producers pay for packaging waste
+    - UN plastics treaty talks since 2022
+    - Cleanups trap waste in rivers
+  - What you can do
+    - Carry a reusable bottle and bag
+    - Choose refills and less packaging
+    - Recycle correctly where accepted

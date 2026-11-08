@@ -1,0 +1,27 @@
+aliases: how do search engines work, how search engines rank pages, how does google search work, search engine explained
+- How search engines work
+  - Crawling the web
+    - [Crawlers follow links page to page](https://en.wikipedia.org/wiki/Web_crawler)
+    - Sitemaps point crawlers to new pages
+    - robots.txt says what to skip
+  - Building the index
+    - [Inverted index maps words to pages](https://en.wikipedia.org/wiki/Inverted_index)
+    - Pages parsed for text and links
+    - Duplicate and spam pages filtered
+  - Understanding the query
+    - Spelling corrected automatically
+    - Synonyms and intent inferred
+    - Location and language shape results
+  - Ranking results
+    - [PageRank counts links as votes](https://en.wikipedia.org/wiki/PageRank)
+    - Relevance to the query words
+    - Freshness, speed and mobile-friendliness
+    - Machine learning weighs hundreds of signals
+  - The results page
+    - Ads marked as sponsored
+    - Snippets, maps and answer boxes
+    - AI-generated summaries increasingly common
+  - Business and influence
+    - [Search engine optimisation chases rankings](https://en.wikipedia.org/wiki/Search_engine_optimization)
+    - Google handles roughly 90% of searches
+    - Ads fund most search engines

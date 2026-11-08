@@ -1,0 +1,29 @@
+aliases: web dev, website development, how to build a website, learn web development
+- Web development
+  - The three core languages
+    - [HTML structures the content](https://en.wikipedia.org/wiki/HTML)
+    - [CSS controls layout and style](https://en.wikipedia.org/wiki/CSS)
+    - [JavaScript adds interactivity](https://en.wikipedia.org/wiki/JavaScript)
+  - Front end
+    - Runs in the user's browser
+    - [Responsive design fits every screen](https://en.wikipedia.org/wiki/Responsive_web_design)
+    - Frameworks like React, Vue and Svelte
+    - [Accessible to everyone, including screen readers](https://en.wikipedia.org/wiki/Web_accessibility)
+  - Back end
+    - Servers handle requests and logic
+    - Node.js, Python, PHP, Ruby or Go
+    - Databases store users and content
+    - APIs pass data as JSON
+  - Tools of the trade
+    - Code editor and browser dev tools
+    - Git tracks every change
+    - Package managers like npm
+  - Ship it
+    - Register a domain name
+    - Host on a server or platform
+    - HTTPS certificate, often free
+    - Monitor speed and errors
+  - Keep it safe and fast
+    - Validate all user input
+    - Prevent SQL injection and XSS
+    - Compress images, cache assets

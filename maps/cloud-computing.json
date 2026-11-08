@@ -1,0 +1,331 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Cloud computing",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#aqca6a",
+      "name": "What it is",
+      "x": -207,
+      "y": -80,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y6ih9d",
+      "name": "Renting computing over the internet",
+      "x": -465,
+      "y": -56,
+      "parent": "#aqca6a"
+    },
+    {
+      "@id": "#67spey",
+      "name": "Pay only for what you use",
+      "x": -405,
+      "y": -156,
+      "parent": "#aqca6a"
+    },
+    {
+      "@id": "#9dqsn7",
+      "name": "Runs in huge data centres",
+      "x": -330,
+      "y": -245,
+      "link": "https://en.wikipedia.org/wiki/Data_center",
+      "parent": "#aqca6a"
+    },
+    {
+      "@id": "#v92kqb",
+      "name": "Service models",
+      "x": -51,
+      "y": -179,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#5rx6cj",
+      "name": "IaaS: rent virtual servers and storage",
+      "x": -225,
+      "y": -312,
+      "link": "https://en.wikipedia.org/wiki/Infrastructure_as_a_service",
+      "parent": "#v92kqb"
+    },
+    {
+      "@id": "#hx8ph7",
+      "name": "PaaS: a platform to deploy code",
+      "x": -104,
+      "y": -367,
+      "parent": "#v92kqb"
+    },
+    {
+      "@id": "#32dj6f",
+      "name": "SaaS: ready-made apps like Gmail",
+      "x": 42,
+      "y": -423,
+      "parent": "#v92kqb"
+    },
+    {
+      "@id": "#nepstr",
+      "name": "How it works",
+      "x": 190,
+      "y": -104,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yypptw",
+      "name": "Virtualisation splits one server into many",
+      "x": 234,
+      "y": -485,
+      "link": "https://en.wikipedia.org/wiki/Virtualization",
+      "parent": "#nepstr"
+    },
+    {
+      "@id": "#vp4ycf",
+      "name": "Containers package apps to run anywhere",
+      "x": 281,
+      "y": -281,
+      "parent": "#nepstr"
+    },
+    {
+      "@id": "#jb2uih",
+      "name": "Serverless runs code without managing servers",
+      "x": 372,
+      "y": -203,
+      "link": "https://en.wikipedia.org/wiki/Serverless_computing",
+      "parent": "#nepstr"
+    },
+    {
+      "@id": "#f5p6b8",
+      "name": "Autoscaling adds capacity when busy",
+      "x": 468,
+      "y": -116,
+      "parent": "#nepstr"
+    },
+    {
+      "@id": "#i7272f",
+      "name": "Regions and zones spread the risk",
+      "x": 450,
+      "y": 0,
+      "parent": "#nepstr"
+    },
+    {
+      "@id": "#aq3syc",
+      "name": "Major providers",
+      "x": 190,
+      "y": 104,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ctbri3",
+      "name": "Amazon Web Services, launched 2006",
+      "x": 487,
+      "y": 121,
+      "link": "https://en.wikipedia.org/wiki/Amazon_Web_Services",
+      "parent": "#aq3syc"
+    },
+    {
+      "@id": "#j4xym7",
+      "name": "Microsoft Azure and Google Cloud",
+      "x": 372,
+      "y": 203,
+      "parent": "#aq3syc"
+    },
+    {
+      "@id": "#ckr3zn",
+      "name": "The big three dominate the market",
+      "x": 281,
+      "y": 281,
+      "parent": "#aq3syc"
+    },
+    {
+      "@id": "#8d4i7s",
+      "name": "Deployment choices",
+      "x": 17,
+      "y": 183,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2jqa32",
+      "name": "Public cloud shared by many customers",
+      "x": 164,
+      "y": 335,
+      "parent": "#8d4i7s"
+    },
+    {
+      "@id": "#xdng2b",
+      "name": "Private cloud for one organisation",
+      "x": 38,
+      "y": 391,
+      "parent": "#8d4i7s"
+    },
+    {
+      "@id": "#xxexbm",
+      "name": "Hybrid mixes cloud and on-premises",
+      "x": -124,
+      "y": 447,
+      "parent": "#8d4i7s"
+    },
+    {
+      "@id": "#xm2hmn",
+      "name": "Trade-offs",
+      "x": -190,
+      "y": 104,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#uqtw4m",
+      "name": "No upfront hardware to buy",
+      "x": -225,
+      "y": 312,
+      "parent": "#xm2hmn"
+    },
+    {
+      "@id": "#phdf3a",
+      "name": "Bills can grow unexpectedly",
+      "x": -330,
+      "y": 245,
+      "parent": "#xm2hmn"
+    },
+    {
+      "@id": "#z5n68q",
+      "name": "One outage can hit many services",
+      "x": -405,
+      "y": 156,
+      "parent": "#xm2hmn"
+    },
+    {
+      "@id": "#ybkf8g",
+      "name": "Data location and vendor lock-in",
+      "x": -445,
+      "y": 54,
+      "parent": "#xm2hmn"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 0,
+      "end": 9
+    },
+    {
+      "start": 9,
+      "end": 10
+    },
+    {
+      "start": 9,
+      "end": 11
+    },
+    {
+      "start": 9,
+      "end": 12
+    },
+    {
+      "start": 9,
+      "end": 13
+    },
+    {
+      "start": 9,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    },
+    {
+      "start": 23,
+      "end": 27
+    }
+  ],
+  "selectedNode": 0
+}

@@ -1,0 +1,27 @@
+aliases: filmmaking, how movies are made, film production, making a film
+- How films are made
+  - Development
+    - Idea, book or true story optioned
+    - Treatment summarises the story
+    - [Screenplay written and rewritten](https://en.wikipedia.org/wiki/Screenplay)
+    - Producers secure the financing
+  - Pre-production
+    - Director and cast are hired
+    - [Storyboards plan every shot](https://en.wikipedia.org/wiki/Storyboard)
+    - Locations scouted, sets built
+    - Schedule and budget locked
+  - [Principal photography](https://en.wikipedia.org/wiki/Principal_photography)
+    - Scenes shot out of story order
+    - Crew: camera, lighting, sound, art
+    - Several takes of each shot
+    - Each day's footage reviewed as dailies
+  - Post-production
+    - [Editor assembles the cut](https://en.wikipedia.org/wiki/Film_editing)
+    - Visual effects added
+    - Composer scores the finished cut
+    - Sound and dialogue mixed
+    - Colour grading sets the look
+  - Distribution
+    - Festivals and sales to distributors
+    - Trailers and marketing campaign
+    - Cinemas first, then streaming and TV

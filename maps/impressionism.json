@@ -1,0 +1,296 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Impressionism",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#96dumq",
+      "name": "Origins in 1860s–70s Paris",
+      "x": -202,
+      "y": -88,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ydn3jk",
+      "name": "Rejected by the official Salon",
+      "x": -504,
+      "y": -68,
+      "parent": "#96dumq"
+    },
+    {
+      "@id": "#2anigt",
+      "name": "First independent group exhibition, 1874",
+      "x": -396,
+      "y": -171,
+      "parent": "#96dumq"
+    },
+    {
+      "@id": "#ejey7q",
+      "name": "Named after Monet's Impression, Sunrise",
+      "x": -305,
+      "y": -265,
+      "link": "https://en.wikipedia.org/wiki/Impression,_Sunrise",
+      "parent": "#96dumq"
+    },
+    {
+      "@id": "#igbhdj",
+      "name": "Techniques",
+      "x": 56,
+      "y": -178,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#8846jh",
+      "name": "Painting outdoors, en plein air",
+      "x": -181,
+      "y": -330,
+      "link": "https://en.wikipedia.org/wiki/En_plein_air",
+      "parent": "#igbhdj"
+    },
+    {
+      "@id": "#nqek6n",
+      "name": "Quick, visible brushstrokes",
+      "x": -41,
+      "y": -391,
+      "parent": "#igbhdj"
+    },
+    {
+      "@id": "#eztj3r",
+      "name": "Capturing changing light and weather",
+      "x": 140,
+      "y": -445,
+      "parent": "#igbhdj"
+    },
+    {
+      "@id": "#me4nn9",
+      "name": "Coloured shadows, little black",
+      "x": 246,
+      "y": -301,
+      "parent": "#igbhdj"
+    },
+    {
+      "@id": "#pvpa8c",
+      "name": "Paint in tubes made it portable",
+      "x": 355,
+      "y": -221,
+      "parent": "#igbhdj"
+    },
+    {
+      "@id": "#938jj6",
+      "name": "Subjects",
+      "x": 230,
+      "y": 0,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#xxhskf",
+      "name": "Everyday modern life",
+      "x": 426,
+      "y": -117,
+      "parent": "#938jj6"
+    },
+    {
+      "@id": "#4uw2pg",
+      "name": "Cafés, boulevards and railway stations",
+      "x": 490,
+      "y": 0,
+      "parent": "#938jj6"
+    },
+    {
+      "@id": "#33dmmp",
+      "name": "Gardens, rivers and landscapes",
+      "x": 426,
+      "y": 117,
+      "parent": "#938jj6"
+    },
+    {
+      "@id": "#cyq76h",
+      "name": "Key artists",
+      "x": 56,
+      "y": 178,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#4v8dk8",
+      "name": "Claude Monet: water lilies, haystacks",
+      "x": 355,
+      "y": 221,
+      "link": "https://en.wikipedia.org/wiki/Claude_Monet",
+      "parent": "#cyq76h"
+    },
+    {
+      "@id": "#5nsypb",
+      "name": "Pierre-Auguste Renoir: joyful social scenes",
+      "x": 246,
+      "y": 301,
+      "parent": "#cyq76h"
+    },
+    {
+      "@id": "#aqh6ya",
+      "name": "Edgar Degas: dancers and racecourses",
+      "x": 110,
+      "y": 349,
+      "parent": "#cyq76h"
+    },
+    {
+      "@id": "#54r5ur",
+      "name": "Camille Pissarro: mentor to the group",
+      "x": -43,
+      "y": 407,
+      "parent": "#cyq76h"
+    },
+    {
+      "@id": "#nwvrpv",
+      "name": "Berthe Morisot and Mary Cassatt",
+      "x": -253,
+      "y": 465,
+      "parent": "#cyq76h"
+    },
+    {
+      "@id": "#v59wqu",
+      "name": "Legacy",
+      "x": -202,
+      "y": 88,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#gu8d3e",
+      "name": "Post-Impressionism: Cézanne, Van Gogh",
+      "x": -305,
+      "y": 265,
+      "link": "https://en.wikipedia.org/wiki/Post-Impressionism",
+      "parent": "#v59wqu"
+    },
+    {
+      "@id": "#4e2jg6",
+      "name": "Opened the path to modern art",
+      "x": -396,
+      "y": 171,
+      "parent": "#v59wqu"
+    },
+    {
+      "@id": "#sr7yy7",
+      "name": "Musée d'Orsay holds major collections",
+      "x": -464,
+      "y": 62,
+      "parent": "#v59wqu"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 5,
+      "end": 10
+    },
+    {
+      "start": 0,
+      "end": 11
+    },
+    {
+      "start": 11,
+      "end": 12
+    },
+    {
+      "start": 11,
+      "end": 13
+    },
+    {
+      "start": 11,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 15,
+      "end": 19
+    },
+    {
+      "start": 15,
+      "end": 20
+    },
+    {
+      "start": 0,
+      "end": 21
+    },
+    {
+      "start": 21,
+      "end": 22
+    },
+    {
+      "start": 21,
+      "end": 23
+    },
+    {
+      "start": 21,
+      "end": 24
+    }
+  ],
+  "selectedNode": 0
+}

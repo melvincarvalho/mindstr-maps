@@ -1,0 +1,30 @@
+aliases: industrial revolution, first industrial revolution, british industrial revolution
+- The Industrial Revolution
+  - Why Britain first, about 1760
+    - Plentiful coal and iron ore
+    - Capital from trade and empire
+    - Farming changes freed workers for towns
+    - Patents and a stable government
+  - Key inventions
+    - [Spinning jenny and water frame](https://en.wikipedia.org/wiki/Spinning_jenny)
+    - [James Watt's improved steam engine](https://en.wikipedia.org/wiki/Watt_steam_engine)
+    - Coke smelting made iron cheap
+    - Power loom mechanised weaving
+  - Factories and transport
+    - Textile mills gathered workers together
+    - Canals carried coal cheaply
+    - [Stockton and Darlington Railway opens, 1825](https://en.wikipedia.org/wiki/Stockton_and_Darlington_Railway)
+    - Steamships crossed oceans faster
+  - Life and work
+    - Industrial cities grew rapidly
+    - Long hours and child labour
+    - Crowded slums spread disease
+    - Luddites smashed machines, 1811 to 1816
+  - Spread and reform
+    - Spread to Europe, the US, Japan
+    - [Factory Acts limited working hours](https://en.wikipedia.org/wiki/Factory_Acts)
+    - Trade unions and the vote expanded
+  - Legacy
+    - Living standards rose over the long run
+    - Burning coal began rising carbon emissions
+    - Second wave brought electricity and steel

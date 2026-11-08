@@ -1,0 +1,27 @@
+aliases: manage my time, productivity tips, time management tips, be more productive
+- Time management
+  - See where time goes
+    - Log your time for a week
+    - Spot your biggest time-wasters
+    - Notice when your energy peaks
+  - Set clear priorities
+    - Eisenhower matrix: urgent vs important
+    - [Pareto: a few tasks matter most](https://en.wikipedia.org/wiki/Pareto_principle)
+    - Pick three key tasks each day
+  - Plan your days
+    - One trusted list for all tasks
+    - [Time-block your calendar](https://en.wikipedia.org/wiki/Timeboxing)
+    - Weekly review to plan ahead
+  - Focus on the work
+    - [Pomodoro: 25 minutes on, 5 off](https://en.wikipedia.org/wiki/Pomodoro_Technique)
+    - Silence notifications while working
+    - [Multitasking slows you down](https://en.wikipedia.org/wiki/Human_multitasking)
+    - Do the hardest task first
+  - Protect your time
+    - Say no to low-value requests
+    - Batch email and messages
+    - Meetings need an agenda and end time
+  - Beat procrastination
+    - [Break big tasks into tiny steps](https://en.wikipedia.org/wiki/Procrastination)
+    - Two-minute rule: do it now
+    - Rest well; tired minds waste time

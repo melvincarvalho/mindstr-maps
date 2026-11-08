@@ -1,0 +1,353 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Volcanoes",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#qmytpi",
+      "name": "Where they form",
+      "x": -211,
+      "y": -73,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#my85b3",
+      "name": "Subduction zones, like the Ring of Fire",
+      "x": -526,
+      "y": -57,
+      "link": "https://en.wikipedia.org/wiki/Ring_of_Fire",
+      "parent": "#qmytpi"
+    },
+    {
+      "@id": "#8vhas7",
+      "name": "Spreading ridges, like Iceland",
+      "x": -413,
+      "y": -143,
+      "parent": "#qmytpi"
+    },
+    {
+      "@id": "#jy5y6n",
+      "name": "Hotspots, like Hawaii",
+      "x": -349,
+      "y": -227,
+      "link": "https://en.wikipedia.org/wiki/Hotspot_%28geology%29",
+      "parent": "#qmytpi"
+    },
+    {
+      "@id": "#hze5zv",
+      "name": "How an eruption happens",
+      "x": -47,
+      "y": -180,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2mwve7",
+      "name": "Rock melts into magma deep underground",
+      "x": -260,
+      "y": -294,
+      "parent": "#hze5zv"
+    },
+    {
+      "@id": "#nbjtdk",
+      "name": "Magma rises through cracks in the crust",
+      "x": -158,
+      "y": -354,
+      "parent": "#hze5zv"
+    },
+    {
+      "@id": "#jqy4k2",
+      "name": "Gas pressure builds in a magma chamber",
+      "x": -34,
+      "y": -407,
+      "parent": "#hze5zv"
+    },
+    {
+      "@id": "#qit5jz",
+      "name": "Magma bursts out as lava and ash",
+      "x": 120,
+      "y": -464,
+      "parent": "#hze5zv"
+    },
+    {
+      "@id": "#ar3v8e",
+      "name": "Types of volcano",
+      "x": 178,
+      "y": -116,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#77v5gf",
+      "name": "Shield volcanoes: broad, gentle slopes",
+      "x": 333,
+      "y": -516,
+      "link": "https://en.wikipedia.org/wiki/Shield_volcano",
+      "parent": "#ar3v8e"
+    },
+    {
+      "@id": "#22hxjs",
+      "name": "Stratovolcanoes: steep cones of layers",
+      "x": 307,
+      "y": -263,
+      "link": "https://en.wikipedia.org/wiki/Stratovolcano",
+      "parent": "#ar3v8e"
+    },
+    {
+      "@id": "#zkhu72",
+      "name": "Cinder cones: small heaps of fragments",
+      "x": 384,
+      "y": -187,
+      "parent": "#ar3v8e"
+    },
+    {
+      "@id": "#t4yicg",
+      "name": "Calderas: craters collapsed after huge eruptions",
+      "x": 528,
+      "y": -117,
+      "parent": "#ar3v8e"
+    },
+    {
+      "@id": "#gv97pr",
+      "name": "Eruption styles",
+      "x": 221,
+      "y": 50,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#n5nivb",
+      "name": "Runny basalt lava flows out gently",
+      "x": 450,
+      "y": 0,
+      "parent": "#gv97pr"
+    },
+    {
+      "@id": "#i6c2mg",
+      "name": "Sticky, gassy magma explodes violently",
+      "x": 452,
+      "y": 101,
+      "parent": "#gv97pr"
+    },
+    {
+      "@id": "#kif2qu",
+      "name": "VEI scale rates eruptions 0 to 8",
+      "x": 384,
+      "y": 187,
+      "parent": "#gv97pr"
+    },
+    {
+      "@id": "#6bsdzy",
+      "name": "Hazards",
+      "x": 47,
+      "y": 180,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#y6kygy",
+      "name": "Pyroclastic flows: fast, scorching avalanches",
+      "x": 307,
+      "y": 263,
+      "link": "https://en.wikipedia.org/wiki/Pyroclastic_flow",
+      "parent": "#6bsdzy"
+    },
+    {
+      "@id": "#iamawr",
+      "name": "Ash clouds ground aircraft",
+      "x": 207,
+      "y": 320,
+      "parent": "#6bsdzy"
+    },
+    {
+      "@id": "#mefnmu",
+      "name": "Lahars: fast volcanic mudflows",
+      "x": 96,
+      "y": 368,
+      "parent": "#6bsdzy"
+    },
+    {
+      "@id": "#vunc63",
+      "name": "Big eruptions can cool global climate",
+      "x": -35,
+      "y": 423,
+      "parent": "#6bsdzy"
+    },
+    {
+      "@id": "#dcqrey",
+      "name": "Scientists watch tremors, swelling and gases",
+      "x": -214,
+      "y": 474,
+      "parent": "#6bsdzy"
+    },
+    {
+      "@id": "#4cqpba",
+      "name": "Famous eruptions",
+      "x": -197,
+      "y": 96,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#mknqej",
+      "name": "Vesuvius buried Pompeii, AD 79",
+      "x": -260,
+      "y": 294,
+      "parent": "#4cqpba"
+    },
+    {
+      "@id": "#8iwf22",
+      "name": "Tambora, 1815, caused a summerless 1816",
+      "x": -349,
+      "y": 227,
+      "parent": "#4cqpba"
+    },
+    {
+      "@id": "#hk4r2n",
+      "name": "Krakatoa, 1883, heard nearly 5,000 km away",
+      "x": -431,
+      "y": 149,
+      "parent": "#4cqpba"
+    },
+    {
+      "@id": "#rdwjbt",
+      "name": "Mount St. Helens blew sideways, 1980",
+      "x": -486,
+      "y": 53,
+      "parent": "#4cqpba"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 10,
+      "end": 14
+    },
+    {
+      "start": 0,
+      "end": 15
+    },
+    {
+      "start": 15,
+      "end": 16
+    },
+    {
+      "start": 15,
+      "end": 17
+    },
+    {
+      "start": 15,
+      "end": 18
+    },
+    {
+      "start": 0,
+      "end": 19
+    },
+    {
+      "start": 19,
+      "end": 20
+    },
+    {
+      "start": 19,
+      "end": 21
+    },
+    {
+      "start": 19,
+      "end": 22
+    },
+    {
+      "start": 19,
+      "end": 23
+    },
+    {
+      "start": 19,
+      "end": 24
+    },
+    {
+      "start": 0,
+      "end": 25
+    },
+    {
+      "start": 25,
+      "end": 26
+    },
+    {
+      "start": 25,
+      "end": 27
+    },
+    {
+      "start": 25,
+      "end": 28
+    },
+    {
+      "start": 25,
+      "end": 29
+    }
+  ],
+  "selectedNode": 0
+}

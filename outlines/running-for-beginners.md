@@ -1,0 +1,26 @@
+aliases: start running, how to start running, beginner running, couch to 5k
+- Running for beginners
+  - Get ready
+    - Health condition? Check with a doctor first
+    - Running shoes that fit well
+    - Comfortable, breathable clothing
+  - Start with run-walk intervals
+    - [Couch to 5K: a nine-week plan](https://en.wikipedia.org/wiki/Couch_to_5K)
+    - Three runs a week, rest between
+    - Slow enough to hold a conversation
+  - Run with good form
+    - Warm up with brisk walking
+    - Relaxed shoulders, short quick steps
+    - Cool down by walking
+  - Build up gradually
+    - Add time or distance slowly
+    - Every few weeks, an easier week
+    - Strength work helps prevent injury
+  - Avoid injury
+    - Sharp or worsening pain: stop
+    - [Shin splints often mean too much](https://en.wikipedia.org/wiki/Shin_splints)
+    - Replace shoes when worn out
+  - Stay motivated
+    - [Join a free weekly parkrun](https://en.wikipedia.org/wiki/Parkrun)
+    - Run with a friend or club
+    - Log runs to see progress

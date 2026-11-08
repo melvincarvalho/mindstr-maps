@@ -1,0 +1,319 @@
+{
+  "@context": {
+    "@vocab": "https://mindstr.org/ns#",
+    "link": {
+      "@type": "@id"
+    },
+    "parent": {
+      "@type": "@id"
+    }
+  },
+  "version": "0.2",
+  "nodes": [
+    {
+      "@id": "#this",
+      "name": "Leadership",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "@id": "#x32af7",
+      "name": "What leaders do",
+      "x": -205,
+      "y": -84,
+      "bgColor": "#D6E8FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#ui7y75",
+      "name": "Set a direction people can follow",
+      "x": -484,
+      "y": -60,
+      "parent": "#x32af7"
+    },
+    {
+      "@id": "#wedyvf",
+      "name": "Get results through other people",
+      "x": -401,
+      "y": -163,
+      "parent": "#x32af7"
+    },
+    {
+      "@id": "#2awy9j",
+      "name": "Leading people differs from managing tasks",
+      "x": -318,
+      "y": -255,
+      "parent": "#x32af7"
+    },
+    {
+      "@id": "#fgmdqc",
+      "name": "Common styles",
+      "x": 0,
+      "y": -184,
+      "bgColor": "#D9F2DC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#he8ryp",
+      "name": "Transformational: inspire with shared vision",
+      "x": -204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Transformational_leadership",
+      "parent": "#fgmdqc"
+    },
+    {
+      "@id": "#zufbi7",
+      "name": "Servant leadership puts the team first",
+      "x": -73,
+      "y": -372,
+      "link": "https://en.wikipedia.org/wiki/Servant_leadership",
+      "parent": "#fgmdqc"
+    },
+    {
+      "@id": "#4txm3e",
+      "name": "Directive style suits crises",
+      "x": 82,
+      "y": -420,
+      "parent": "#fgmdqc"
+    },
+    {
+      "@id": "#czcgeu",
+      "name": "Adapt style to the situation",
+      "x": 204,
+      "y": -321,
+      "link": "https://en.wikipedia.org/wiki/Situational_leadership_theory",
+      "parent": "#fgmdqc"
+    },
+    {
+      "@id": "#369kfg",
+      "name": "Build trust",
+      "x": 205,
+      "y": -84,
+      "bgColor": "#FFE1CC",
+      "parent": "#this"
+    },
+    {
+      "@id": "#yn8vx9",
+      "name": "Do what you say you'll do",
+      "x": 318,
+      "y": -255,
+      "parent": "#369kfg"
+    },
+    {
+      "@id": "#9z9tyg",
+      "name": "Admit mistakes openly",
+      "x": 401,
+      "y": -163,
+      "parent": "#369kfg"
+    },
+    {
+      "@id": "#qvk59e",
+      "name": "Make it safe to speak up",
+      "x": 444,
+      "y": -56,
+      "link": "https://en.wikipedia.org/wiki/Psychological_safety",
+      "parent": "#369kfg"
+    },
+    {
+      "@id": "#5sv47e",
+      "name": "Communicate clearly",
+      "x": 205,
+      "y": 84,
+      "bgColor": "#FFD6E8",
+      "parent": "#this"
+    },
+    {
+      "@id": "#37ijt6",
+      "name": "Explain the why, not just what",
+      "x": 484,
+      "y": 60,
+      "parent": "#5sv47e"
+    },
+    {
+      "@id": "#muimr5",
+      "name": "Listen more than you talk",
+      "x": 401,
+      "y": 163,
+      "parent": "#5sv47e"
+    },
+    {
+      "@id": "#mzk5qm",
+      "name": "Give specific, timely feedback",
+      "x": 318,
+      "y": 255,
+      "parent": "#5sv47e"
+    },
+    {
+      "@id": "#exfspi",
+      "name": "Develop your people",
+      "x": 0,
+      "y": 184,
+      "bgColor": "#FFF3C4",
+      "parent": "#this"
+    },
+    {
+      "@id": "#2pgmmj",
+      "name": "Delegate outcomes, not methods",
+      "x": 204,
+      "y": 321,
+      "parent": "#exfspi"
+    },
+    {
+      "@id": "#2pg8yi",
+      "name": "Coach rather than hand out answers",
+      "x": 73,
+      "y": 372,
+      "parent": "#exfspi"
+    },
+    {
+      "@id": "#d4iqs2",
+      "name": "Recognise good work publicly",
+      "x": -82,
+      "y": 420,
+      "parent": "#exfspi"
+    },
+    {
+      "@id": "#5vzedp",
+      "name": "Hold regular one-to-one conversations",
+      "x": -204,
+      "y": 321,
+      "parent": "#exfspi"
+    },
+    {
+      "@id": "#c8mx23",
+      "name": "Grow yourself",
+      "x": -205,
+      "y": 84,
+      "bgColor": "#E6E0FF",
+      "parent": "#this"
+    },
+    {
+      "@id": "#e2gn8n",
+      "name": "Ask for honest feedback",
+      "x": -318,
+      "y": 255,
+      "parent": "#c8mx23"
+    },
+    {
+      "@id": "#ybbegk",
+      "name": "Decide with incomplete information",
+      "x": -401,
+      "y": 163,
+      "parent": "#c8mx23"
+    },
+    {
+      "@id": "#x898mj",
+      "name": "Stay calm under pressure",
+      "x": -444,
+      "y": 56,
+      "parent": "#c8mx23"
+    }
+  ],
+  "connections": [
+    {
+      "start": 0,
+      "end": 1
+    },
+    {
+      "start": 1,
+      "end": 2
+    },
+    {
+      "start": 1,
+      "end": 3
+    },
+    {
+      "start": 1,
+      "end": 4
+    },
+    {
+      "start": 0,
+      "end": 5
+    },
+    {
+      "start": 5,
+      "end": 6
+    },
+    {
+      "start": 5,
+      "end": 7
+    },
+    {
+      "start": 5,
+      "end": 8
+    },
+    {
+      "start": 5,
+      "end": 9
+    },
+    {
+      "start": 0,
+      "end": 10
+    },
+    {
+      "start": 10,
+      "end": 11
+    },
+    {
+      "start": 10,
+      "end": 12
+    },
+    {
+      "start": 10,
+      "end": 13
+    },
+    {
+      "start": 0,
+      "end": 14
+    },
+    {
+      "start": 14,
+      "end": 15
+    },
+    {
+      "start": 14,
+      "end": 16
+    },
+    {
+      "start": 14,
+      "end": 17
+    },
+    {
+      "start": 0,
+      "end": 18
+    },
+    {
+      "start": 18,
+      "end": 19
+    },
+    {
+      "start": 18,
+      "end": 20
+    },
+    {
+      "start": 18,
+      "end": 21
+    },
+    {
+      "start": 18,
+      "end": 22
+    },
+    {
+      "start": 0,
+      "end": 23
+    },
+    {
+      "start": 23,
+      "end": 24
+    },
+    {
+      "start": 23,
+      "end": 25
+    },
+    {
+      "start": 23,
+      "end": 26
+    }
+  ],
+  "selectedNode": 0
+}
